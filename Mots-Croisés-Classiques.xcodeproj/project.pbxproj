@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */; };
 		8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */; };
 		8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE71E15FBFE004D024F /* ViewController.swift */; };
 		8EB2FDEB1E15FBFE004D024F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE91E15FBFE004D024F /* Main.storyboard */; };
@@ -14,6 +15,8 @@
 		8EB2FDF01E15FBFE004D024F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */; };
 		8EB2FDFB1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */; };
 		8EB2FE061E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */; };
+		8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE131E16BC5D004D024F /* DataStructure.swift */; };
+		8EBF8A8E1E258A38001EDEC0 /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EBF8A8D1E258A38001EDEC0 /* ListeMot.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mots-Croisés-Classiques.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EB2FDE71E15FBFE004D024F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +51,8 @@
 		8EB2FE011E15FBFE004D024F /* Mots-Croisés-ClassiquesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mots-Croisés-ClassiquesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mots_Croise_s_ClassiquesUITests.swift; sourceTree = "<group>"; };
 		8EB2FE071E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EB2FE131E16BC5D004D024F /* DataStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStructure.swift; sourceTree = "<group>"; };
+		8EBF8A8D1E258A38001EDEC0 /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +103,15 @@
 		8EB2FDE41E15FBFE004D024F /* Mots-Croisés-Classiques */ = {
 			isa = PBXGroup;
 			children = (
+				8EB2FDE91E15FBFE004D024F /* Main.storyboard */,
+				8EB2FE131E16BC5D004D024F /* DataStructure.swift */,
 				8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */,
 				8EB2FDE71E15FBFE004D024F /* ViewController.swift */,
-				8EB2FDE91E15FBFE004D024F /* Main.storyboard */,
 				8EB2FDEC1E15FBFE004D024F /* Assets.xcassets */,
 				8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */,
+				8EBF8A8D1E258A38001EDEC0 /* ListeMot.plist */,
 				8EB2FDF11E15FBFE004D024F /* Info.plist */,
+				8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */,
 			);
 			path = "Mots-Croisés-Classiques";
 			sourceTree = "<group>";
@@ -236,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EB2FDF01E15FBFE004D024F /* LaunchScreen.storyboard in Resources */,
+				8EBF8A8E1E258A38001EDEC0 /* ListeMot.plist in Resources */,
 				8EB2FDED1E15FBFE004D024F /* Assets.xcassets in Resources */,
 				8EB2FDEB1E15FBFE004D024F /* Main.storyboard in Resources */,
 			);
@@ -262,7 +272,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */,
 				8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */,
+				8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */,
 				8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -514,6 +526,7 @@
 				8EB2FE0C1E15FBFE004D024F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EB2FE0D1E15FBFE004D024F /* Build configuration list for PBXNativeTarget "Mots-Croisés-ClassiquesTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +535,7 @@
 				8EB2FE0F1E15FBFE004D024F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EB2FE101E15FBFE004D024F /* Build configuration list for PBXNativeTarget "Mots-Croisés-ClassiquesUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +544,7 @@
 				8EB2FE121E15FBFE004D024F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
