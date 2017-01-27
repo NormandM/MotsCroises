@@ -16,23 +16,23 @@ struct Definition {
     let n: Int
     init (motArray: [[String]] , n: Int){
         self.n = n
-        listeArray = motArray
         grille = motArray[n][0]
+        listeArray = motArray
         orientation = motArray[n][2]
         mot = motArray[n][1]
         definition = motArray[n][3]
-        
     }
 }
 
 struct Grille {
     let definition: Definition
     var lettre: [String]
+    var choixDegrille: String
     mutating func epele() -> [String] {
-            //if definition.orientation == "H"{
-               let transitionArray = (Array(definition.mot.characters.map{String($0)}))
-                lettre = transitionArray
-            //}
+        if definition.grille == choixDegrille {
+            let transitionArray = (Array(definition.mot.characters.map{String($0)}))
+            lettre = transitionArray
+        }
     return lettre
     }
 }

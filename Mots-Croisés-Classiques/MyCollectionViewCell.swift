@@ -9,6 +9,7 @@
 import UIKit
 
 class MyCollectionViewCell: UICollectionViewCell {
-    @IBOutlet weak var laLettre: UILabel!
     
+    @IBOutlet weak var laLettre: UITextField!
+        
 }
