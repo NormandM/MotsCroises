@@ -175,7 +175,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     // MARK: - UICollectionViewDelegate protocol
     
 ////////////////////////////////////
-//Selecting a cell
+//MARK; Selecting a cell
 ////////////////////////////////////
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
@@ -201,7 +201,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
      }
     
 ///////////////////////////////////
-// Deselecting a cell
+// MARK: Deselecting a cell
 //////////////////////////////////
     func collectionView(_ collectionView: UICollectionView, didDeselectItemAt indexPath: IndexPath) {
         var cell = collectionView.cellForItem(at: indexPathPrecedent) as! MyCollectionViewCell
@@ -212,13 +212,12 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         wordSelection(cell: cell)
     }
 /////////////////////////////////////////////////////////////////
-// Moving the cursor to next letter after text has been entered
+// MARK: Moving the cursor to next letter after text has been entered
 ////////////////////////////////////////////////////////////////
     func textFieldDidChange(_ textField: UITextField) {
         if textField.text != "" && textField.text != "#" {
             var indexPath: IndexPath
             selectedCell = indexPathRef.item
-            print(selectedCell)
             var totalMotV: [String] = []
             for motArray in totalMot {
                 if motArray[4] == "V" {
@@ -229,6 +228,19 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
             definitionH.text = totalMot[selectedCell][3]
             definitionV.text = totalMotV[3]
+ // répitition du code initial après démarrage de l'application
+            if  indexPathInit == [0, 0] {
+                let cell = collectionView.cellForItem(at: indexPathInit) as! MyCollectionViewCell
+                wordSelection(cell: cell)
+                cell.laLettre.isUserInteractionEnabled = false
+                cell.laLettre.resignFirstResponder()
+                cell.backgroundColor = UIColor.white
+                indexPathInit = [0, 1]
+                indiceCrash = indiceCrash + 1
+            }
+
+            
+            
             if h{
                 indexPath = [0, indexPathRef.item - 1]
                 var cell = cellSelection(indexPath: indexPath)
@@ -278,7 +290,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 
             }
         }
-        print(indexPathRef)
     }
 /////////////////////////////////////////////////////////////////////////
 //Compute the dimension of a cell for an NxN layout with space S between
@@ -293,7 +304,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     return CGSize(width: dim, height: dim)
     }
 //////////////////////////////////////////////////////////////////////////////
-/// Func to change color background of selected word and the word definition
+/// MARK: Func to change color background of selected word and the word definition
 /////////////////////////////////////////////////////////////////////////////
     func cellSelection(indexPath: IndexPath) -> MyCollectionViewCell{
         let cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
@@ -354,7 +365,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
        return cell
     }
 /////////////////////////////////////////////////////////////////////////////////////////////
-// Function determining position number of the letters of the word selected depending on
+// MARK: Function determining position number of the letters of the word selected depending on
 //horizontal or vertical position
 ///////////////////////////////////////////////////////////////////////////////////////////
     func choixDOrientation() {
@@ -385,13 +396,16 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }
         // Grid position number for each letter of the word selected in vertical position
         for array in arrayTrans {
+            print(arrayTrans)
             if let choixArray = Int(array[6]) {
-                selectedWordV.append(choixArray)
+                    print(choixArray)
+                    selectedWordV.append(choixArray)
+                print(selectedWordV)
             }
         }
     }
 //////////////////////////////////////////////////////////////
-////// Function used when a cell is being selected
+////// MARK: Function used when a cell is being selected
 //////////////////////////////////////////////////////////
     func helperCellSelect(indexPath: IndexPath) -> MyCollectionViewCell {
 
@@ -403,7 +417,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         return cell
     }
     //////////////////////////////////////////////////////////////
-    ////// Function selectig word for each letter selected
+    //////MARK:  Function selectig word for each letter selected
     //////////////////////////////////////////////////////////
     func wordSelection(cell: MyCollectionViewCell) {
         

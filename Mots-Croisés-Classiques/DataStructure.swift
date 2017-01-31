@@ -12,6 +12,7 @@ struct Definition {
     let definition: String
     let orientation: String
     let grille: String
+    let noMot: String
     let listeArray: [[String]]
     let n: Int
     init (motArray: [[String]] , n: Int){
@@ -21,6 +22,8 @@ struct Definition {
         orientation = motArray[n][2]
         mot = motArray[n][1]
         definition = motArray[n][3]
+        noMot = motArray[n][4]
+        
     }
 }
 
