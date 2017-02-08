@@ -39,3 +39,36 @@ struct Grille {
     return lettre
     }
 }
+struct MotsCroises {
+    let noDeGrille: String
+    func donnesMot() -> [[String]]  {
+        var motArrayInit: [[String]] = []
+        var grilleChoisi: [[String]] = []
+        if let plistPath = Bundle.main.path(forResource: "ListeMot", ofType: "plist"),
+        let monArray = NSArray(contentsOfFile: plistPath){
+            motArrayInit = monArray as! [[String]]
+        }
+        for mot in motArrayInit{
+            if mot[0] == noDeGrille{
+                grilleChoisi.append(mot)
+            }
+        }
+     return grilleChoisi
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -14,8 +14,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     @IBOutlet weak var definitionH: UILabel!
     @IBOutlet weak var definitionV: UILabel!
     @IBOutlet weak var verticalPosition: NSLayoutConstraint!
-    @IBOutlet weak var boutonVertical: UIButton!
-    @IBOutlet weak var boutonHorizontal: UIButton!
 
     var h: Bool = true
     let screenSize: CGRect = UIScreen.main.bounds
@@ -23,7 +21,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var selectedWordH: [Int] = []
     var selectedWordV: [Int] = []
     var lettres: [String] = []
-    var grilleChoisi: [[String]] = []
     var totalMot: [[String]] = []
     var totalMotV: [String] = []
     let reuseIdentifier = "cell"
@@ -35,19 +32,14 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var indiceCrash: Int = 0
     override func viewDidLoad() {
         super.viewDidLoad()
-        var motArrayInit: [[String]] = []
-         var solution: Bool = true
+         let solution: Bool = false
         // Position of the grid based on screen size
-        verticalPosition.constant = 0.45 * screenSize.height
-        if let plistPath = Bundle.main.path(forResource: "ListeMot", ofType: "plist"),
-            let monArray = NSArray(contentsOfFile: plistPath){
-            motArrayInit = monArray as! [[String]]
-        }
-        for mot in motArrayInit{
-            if mot[0] == "15"{
-                grilleChoisi.append(mot)
-            }
-        }
+        verticalPosition.constant = 0.50 * screenSize.height
+        let motsCroises = MotsCroises(noDeGrille: "20")
+        let grilleChoisi = motsCroises.donnesMot()
+        
+
+        self.title = "Mots Croisés \(grilleChoisi[0][0])"
         var n = 0
         var i = 0
         let lettre: [String] = []
@@ -55,11 +47,11 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let definition = Definition(motArray: grilleChoisi, n: n)
         while n < definition.listeArray.count {
             let definitions = Definition(motArray: grilleChoisi, n: n)
-            var grille = Grille(definition: definitions, lettre: lettre, choixDegrille: "15")
+            var grille = Grille(definition: definitions, lettre: lettre, choixDegrille: "20")
             let transitionArray = grille.epele()
             var totMotTransition: [String] = []
             for letter in transitionArray{
-                totMotTransition = [definitions.grille, letter, definitions.mot, definitions.definition, definitions.orientation, String(i)]
+                totMotTransition = [definitions.grille, letter, definitions.mot, definitions.definition, definitions.orientation, String(i), definitions.noMot]
                     totalMot = totalMot + [totMotTransition]
                     i = i + 1
             }
@@ -75,7 +67,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 n = n + 1
             }
         }
-
 // Add a reference for vertical words based on horizontal reference
         n = 100
         i = 0
@@ -144,11 +135,12 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 /////////////////////////////////////////////////////
     override func viewDidAppear(_ animated: Bool) {
         indexPathInit = [0,0]
-        let cell = cellSelection(indexPath: indexPathInit)
+        _ = cellSelection(indexPath: indexPathInit)
         h = true
-        boutonVertical.titleLabel?.textColor = UIColor.red
-        boutonHorizontal.titleLabel?.textColor = UIColor.green
-
+        super.viewDidAppear(animated)
+        let height: CGFloat = 10.0 //whatever height you want
+        let bounds = self.navigationController!.navigationBar.bounds
+        self.navigationController?.navigationBar.frame = CGRect(x: 0, y: 0, width: bounds.width, height: bounds.height + height)
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -168,8 +160,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         if cell.laLettre.text == "#" {
             cell.backgroundColor = UIColor.black
             cell.laLettre.backgroundColor = UIColor.black
+            cell.isUserInteractionEnabled = false
         }
-        
      return cell
    }
     // MARK: - UICollectionViewDelegate protocol
@@ -177,7 +169,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 ////////////////////////////////////
 //MARK; Selecting a cell
 ////////////////////////////////////
-    
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
       // After viewDid appear triggers once the event of deselecting initial cells from viewDidAppear
         if  indexPathInit == [0, 0] {
@@ -190,44 +181,51 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
            indiceCrash = indiceCrash + 1
         }
         if indexPathPrecedent != [] {
-            let cell = collectionView.cellForItem(at: indexPathPrecedent) as! MyCollectionViewCell
-            cell.laLettre.isUserInteractionEnabled = false
-            cell.laLettre.resignFirstResponder()
+            if let cell = collectionView.cellForItem(at: indexPathPrecedent) as? MyCollectionViewCell{
+                wordSelection(cell: cell)
+                cell.laLettre.isUserInteractionEnabled = false
+                cell.laLettre.resignFirstResponder()
+                cell.backgroundColor = UIColor.white
+            }
        }
-        let cell = cellSelection(indexPath: indexPath)
+        let cell = cellSelection(indexPath: [0, indexPath.item ])
         cell.laLettre.becomeFirstResponder()
         indexPathPrecedent = indexPath
-        
-     }
+    }
     
 ///////////////////////////////////
 // MARK: Deselecting a cell
 //////////////////////////////////
     func collectionView(_ collectionView: UICollectionView, didDeselectItemAt indexPath: IndexPath) {
-        var cell = collectionView.cellForItem(at: indexPathPrecedent) as! MyCollectionViewCell
+        if let cell = collectionView.cellForItem(at: indexPathPrecedent) as? MyCollectionViewCell{
         cell.laLettre.isUserInteractionEnabled = false
         cell.laLettre.resignFirstResponder()
-        cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
-        cell = cellSelection(indexPath: indexPath)
+        let cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
         wordSelection(cell: cell)
+        }
     }
 /////////////////////////////////////////////////////////////////
 // MARK: Moving the cursor to next letter after text has been entered
 ////////////////////////////////////////////////////////////////
     func textFieldDidChange(_ textField: UITextField) {
+        var indexPath: IndexPath = [0, 0]
         if textField.text != "" && textField.text != "#" {
-            var indexPath: IndexPath
+            if indexPathRef.item > 99 {indexPath = [0, 99] }
             selectedCell = indexPathRef.item
             var totalMotV: [String] = []
             for motArray in totalMot {
                 if motArray[4] == "V" {
-                    if motArray[6] == String(selectedCell){
+                    if motArray[7] == String(selectedCell){
                         totalMotV = motArray
                     }
                 }
             }
             definitionH.text = totalMot[selectedCell][3]
-            definitionV.text = totalMotV[3]
+            if totalMotV == []{
+                indexPathRef = [0, indexPathRef.item - 1]
+            }else{
+                definitionV.text = totalMotV[3]
+            }
  // répitition du code initial après démarrage de l'application
             if  indexPathInit == [0, 0] {
                 let cell = collectionView.cellForItem(at: indexPathInit) as! MyCollectionViewCell
@@ -238,9 +236,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 indexPathInit = [0, 1]
                 indiceCrash = indiceCrash + 1
             }
-
-            
-            
             if h{
                 indexPath = [0, indexPathRef.item - 1]
                 var cell = cellSelection(indexPath: indexPath)
@@ -250,9 +245,11 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                     indexPathRef = [0, indexPathRef.item + 1]
                     cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
                 }
-                cell = cellSelection(indexPath: indexPathRef)
-                cell.backgroundColor = UIColor.gray
-
+                if indexPathRef.item < 100 {
+                    cell = cellSelection(indexPath: indexPathRef)
+                    cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+                    indexPathPrecedent = [0, indexPathRef.item - 1]
+                }
             }else{
                 ref = ref - 1
                 if indiceCrash == 1 {
@@ -261,35 +258,47 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
                 for mot in totalMot {
                     if ref == Int(mot[5]){
-                        indexPathRef = [0, Int(mot[6])!]
+                        indexPathRef = [0, Int(mot[7])!]
                     }
                 }
                 indexPath = indexPathRef
                 var cell = cellSelection(indexPath: indexPath)
                 wordSelection(cell: cell)
                 cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
-                //ref = ref + 1
                 for mot in totalMot {
                     if ref == Int(mot[5]){
-                        indexPathRef = [0, Int(mot[6])!]
+                            indexPathRef = [0, Int(mot[7])!]
                     }
                 }
-                while cell.laLettre.text == "#" {
-                    ref = ref + 1
+                while cell.laLettre.text == "#" && ref < 200 {
+            
                     for mot in totalMot {
                         if ref == Int(mot[5]){
-                            indexPathRef = [0, Int(mot[6])!]
+                            indexPathRef = [0, Int(mot[7])!]
                         }
                     }
-
                     cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                    ref = ref + 1
                 }
-               
-                cell = cellSelection(indexPath: indexPathRef)
-                cell.backgroundColor = UIColor.gray
-                
+                if cell.laLettre.text != "#"{
+                    cell = cellSelection(indexPath: indexPathRef)
+                    cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+                    cell.laLettre.becomeFirstResponder()
+                    for mot in totalMot {
+                        
+                        if ref == Int(mot[5]){
+                            if ref == 110 || ref == 120 || ref == 130 || ref == 140 || ref == 150 || ref == 160 || ref == 170 || ref == 180 || ref == 190 {
+                                indexPathPrecedent = [0, Int(mot[7])! + 89]
+                                
+                            }else{
+                            indexPathPrecedent = [0, Int(mot[7])! - 10]
+                            }
+                        }
+                    }
+                }
             }
         }
+        
     }
 /////////////////////////////////////////////////////////////////////////
 //Compute the dimension of a cell for an NxN layout with space S between
@@ -304,7 +313,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     return CGSize(width: dim, height: dim)
     }
 //////////////////////////////////////////////////////////////////////////////
-/// MARK: Func to change color background of selected word and the word definition
+// MARK: Func to change color background of selected word and the word definition
 /////////////////////////////////////////////////////////////////////////////
     func cellSelection(indexPath: IndexPath) -> MyCollectionViewCell{
         let cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
@@ -315,7 +324,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             ref = 0
             for motArray in totalMot {
                 if motArray[4] == "V" {
-                     if motArray[6] == String(selectedCell){
+                     if motArray[7] == String(selectedCell){
                         totalMotV = motArray
                         ref = n
                     }
@@ -326,7 +335,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             if h{
                 for select in selectedWordH{
                     if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                        cell.backgroundColor = UIColor.lightGray
+                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 0.60)
                     }
                 }
                 for select in selectedWordV{
@@ -337,7 +346,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }else{
                 for select in selectedWordV{
                     if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                        cell.backgroundColor = UIColor.lightGray
+                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 0.60)
+                        
                     }
                 }
                 for select in selectedWordH{
@@ -350,14 +360,14 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             definitionH.text = totalMot[selectedCell][3]
             definitionV.text = totalMotV[3]
             let cell = helperCellSelect(indexPath: indexPath)
-            cell.backgroundColor = UIColor.gray
+            cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
             if h {
                 indexPathRef = [0, indexPath.item + 1]
             }else{
                 ref = ref + 1
                 for mot in totalMot {
                     if ref == Int(mot[5]){
-                        indexPathRef = [0, Int(mot[6])!]
+                        indexPathRef = [0, Int(mot[7])!]
                     }
                 }
             }
@@ -374,7 +384,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         selectedWordV = []
         for motArray in totalMot{
             if motArray[4] == "H" {
-                if motArray[2] == totalMot[selectedCell][2] {
+                if motArray[2] == totalMot[selectedCell][2] && motArray[6] == totalMot[selectedCell][6]{
+                    
                     arrayTrans = arrayTrans + [motArray]
                 }
             }
@@ -382,27 +393,31 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
        
         // Grid position number for each letter of the word selected in horizontal position
         for array in arrayTrans {
-            if let choixArray = Int(array[5]) {
-                selectedWordH.append(choixArray)
-            }
+        // making sure the lleter is within the same word
+           if array[6] == arrayTrans[0][6]{
+                if let choixArray = Int(array[5]) {
+                    selectedWordH.append(choixArray)
+                }
+           }
         }
         arrayTrans = []
         for motArray in totalMot {
             if motArray[4] == "V"{
-                if motArray[2] == totalMotV[2]{
+                if motArray[2] == totalMotV[2] && motArray[6] == totalMotV[6]{
                     arrayTrans = arrayTrans + [motArray]
                 }
             }
         }
         // Grid position number for each letter of the word selected in vertical position
         for array in arrayTrans {
-            print(arrayTrans)
-            if let choixArray = Int(array[6]) {
-                    print(choixArray)
+        // making sure the lleter is within the same word
+            if array[6] == arrayTrans[0][6]{
+                if let choixArray = Int(array[7]) {
                     selectedWordV.append(choixArray)
-                print(selectedWordV)
+                }
             }
         }
+
     }
 //////////////////////////////////////////////////////////////
 ////// MARK: Function used when a cell is being selected
@@ -420,7 +435,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     //////MARK:  Function selectig word for each letter selected
     //////////////////////////////////////////////////////////
     func wordSelection(cell: MyCollectionViewCell) {
-        
         if cell.laLettre.text != "#" {
             for select in selectedWordH{
                 if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
@@ -439,60 +453,41 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         cell.laLettre.resignFirstResponder()
 
     }
-    @IBAction func choixVertical(_ sender: Any) {
-        h = false
-        indiceCrash = indiceCrash + 1
-        boutonVertical.titleLabel?.textColor = UIColor.green
-        boutonHorizontal.titleLabel?.textColor = UIColor.red
+    @IBAction func horizontalVertical(_ sender: Any) {
+        if h == true {
+            h = false
+        }else{
+            h = true
+        }
         choixDOrientation()
-        for select in selectedWordV{
-            if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                cell.backgroundColor = UIColor.lightGray
+        if h == true {
+            for select in selectedWordH{
+                if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
+                    cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 0.60)
+                }
             }
-            
-        }
-        
-        for select in selectedWordH{
-            if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                cell.backgroundColor = UIColor.white
+            for select in selectedWordV{
+                if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
+                    cell.backgroundColor = UIColor.white
+                }
+            }
+        }else {
+            indiceCrash = indiceCrash + 1
+            for select in selectedWordV{
+                if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
+                    cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 0.60)
+                }
+                
+            }
+            for select in selectedWordH{
+                if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
+                    cell.backgroundColor = UIColor.white
+                }
             }
         }
-        //if indiceCrash == 1 {indexPathSelected = [0, 0]}
-        //let cell = collectionView.cellForItem(at: indexPathSelected) as! MyCollectionViewCell
-        //let cell = helperCellSelect(indexPath: indexPathSelected)
-        
-
         let cell = cellSelection(indexPath: indexPathSelected)
-        cell.backgroundColor = UIColor.gray
+        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
 
     }
-
-    @IBAction func choixHorizontal(_ sender: Any) {
-        h = true
-        boutonVertical.titleLabel?.textColor = UIColor.red
-        boutonHorizontal.titleLabel?.textColor = UIColor.green
-        choixDOrientation()
-        for select in selectedWordH{
-            if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                cell.backgroundColor = UIColor.lightGray
-            }
-        }
-        for select in selectedWordV{
-            if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                cell.backgroundColor = UIColor.white
-            }
-        }
-        //if indiceCrash == 2 {
-        //   indexPathSelected = [0, selectedWordH[0]]
-        
-        //}
-        //let cell = collectionView.cellForItem(at: indexPathSelected) as! MyCollectionViewCell
-        //let cell = helperCellSelect(indexPath: indexPathSelected)
-        let cell = cellSelection(indexPath: indexPathSelected)
-        cell.backgroundColor = UIColor.gray
-
-    }
-   
-    
 }
 
