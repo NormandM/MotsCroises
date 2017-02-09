@@ -16,6 +16,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     @IBOutlet weak var verticalPosition: NSLayoutConstraint!
 
     var h: Bool = true
+    var grilleSelected: String = ""
     let screenSize: CGRect = UIScreen.main.bounds
     var ref: Int = 0
     var selectedWordH: [Int] = []
@@ -33,32 +34,21 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     override func viewDidLoad() {
         super.viewDidLoad()
          let solution: Bool = false
+        
+        
         // Position of the grid based on screen size
         verticalPosition.constant = 0.50 * screenSize.height
-        let motsCroises = MotsCroises(noDeGrille: "20")
-        let grilleChoisi = motsCroises.donnesMot()
         
-
+        let motsCroises = MotsCroises(noDeGrille: grilleSelected)
+        let grilleChoisi = motsCroises.donnesMot()
         self.title = "Mots Croisés \(grilleChoisi[0][0])"
+        let motsCroisesArray = MotsCroisesArray(grilleSelected: grilleSelected)
+        let lettresMotTotal = motsCroisesArray.motsCroisesArray()
+        lettres = lettresMotTotal.0
+        totalMot = lettresMotTotal.1
+        print(lettres)
+ 
         var n = 0
-        var i = 0
-        let lettre: [String] = []
-        // Creation of Array for each letter and all the info for each letter
-        let definition = Definition(motArray: grilleChoisi, n: n)
-        while n < definition.listeArray.count {
-            let definitions = Definition(motArray: grilleChoisi, n: n)
-            var grille = Grille(definition: definitions, lettre: lettre, choixDegrille: "20")
-            let transitionArray = grille.epele()
-            var totMotTransition: [String] = []
-            for letter in transitionArray{
-                totMotTransition = [definitions.grille, letter, definitions.mot, definitions.definition, definitions.orientation, String(i), definitions.noMot]
-                    totalMot = totalMot + [totMotTransition]
-                    i = i + 1
-            }
-                lettres = lettres + transitionArray
-            n = n + 1
-        }
-        n = 0
         if solution == false{
             for lettre in lettres {
                 if lettre != "#"{
@@ -67,68 +57,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 n = n + 1
             }
         }
-// Add a reference for vertical words based on horizontal reference
-        n = 100
-        i = 0
-            while n < 110 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 1
-            while n < 120 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 2
-            while n < 130 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 3
-            while n < 140 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 4
-            while n < 150 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 5
-            while n < 160 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 6
-            while n < 170 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 7
-            while n < 180 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 8
-            while n < 190 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
-            i = 9
-            while n < 200 {
-                totalMot[n] = totalMot[n] + [String(i)]
-                i = i + 10
-                n = n + 1
-            }
+
     }
 ///////////////////////////////////////////////////////
 // Initial position of cursor after the grid appears
@@ -298,6 +227,19 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
             }
         }
+        var n = 0
+        var reponse: [[String]] = []
+        while n < 100 {
+        let cell = collectionView.cellForItem(at: [0, n]) as! MyCollectionViewCell
+        reponse.append([String(n), cell.laLettre.text!])
+           n = n + 1
+        }
+        let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
+        let resultat = completeCheck.completeCheck(reponse: reponse)
+        if resultat {
+            showAlert()
+        }
+        
         
     }
 /////////////////////////////////////////////////////////////////////////
@@ -489,5 +431,20 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
 
     }
+    func showAlert () {
+
+        let alertController = UIAlertController(title: "Bravo", message: "", preferredStyle: .actionSheet)
+        alertController.popoverPresentationController?.sourceView = self.view
+        alertController.popoverPresentationController?.sourceRect = definitionH.frame
+        
+        let okAction = UIAlertAction(title: "OK", style: .cancel, handler: dismissAlert)
+        alertController.addAction(okAction)
+        
+        present(alertController, animated: true, completion: nil)
+    }
+    func dismissAlert(_ sender: UIAlertAction) {
+        
+    }
+
 }
 

@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */; };
+		8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */; };
+		8E0432EB1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */; };
 		8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */; };
 		8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */; };
 		8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */; };
@@ -17,7 +20,6 @@
 		8EB2FDFB1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */; };
 		8EB2FE061E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */; };
 		8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE131E16BC5D004D024F /* DataStructure.swift */; };
-		8EC42E311E4A703B00FE8C8E /* VerificationTotale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC42E301E4A703B00FE8C8E /* VerificationTotale.swift */; };
 		8EED023F1E4ABE8300A37662 /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EED023E1E4ABE8300A37662 /* ListeMot.plist */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotsCroisesArray.swift; sourceTree = "<group>"; };
+		8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteCheckMotsCroises.swift; sourceTree = "<group>"; };
+		8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoixDuMotsCroisesViewController.swift; sourceTree = "<group>"; };
 		8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldMaxLengths.swift.swift; sourceTree = "<group>"; };
 		8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mots-Croisés-Classiques.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -55,7 +60,6 @@
 		8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mots_Croise_s_ClassiquesUITests.swift; sourceTree = "<group>"; };
 		8EB2FE071E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EB2FE131E16BC5D004D024F /* DataStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStructure.swift; sourceTree = "<group>"; };
-		8EC42E301E4A703B00FE8C8E /* VerificationTotale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerificationTotale.swift; sourceTree = "<group>"; };
 		8EED023E1E4ABE8300A37662 /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,11 +112,13 @@
 			isa = PBXGroup;
 			children = (
 				8EB2FDE91E15FBFE004D024F /* Main.storyboard */,
-				8EB2FE131E16BC5D004D024F /* DataStructure.swift */,
-				8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */,
-				8EC42E301E4A703B00FE8C8E /* VerificationTotale.swift */,
-				8EB2FDE71E15FBFE004D024F /* ViewController.swift */,
 				8EED023E1E4ABE8300A37662 /* ListeMot.plist */,
+				8EB2FE131E16BC5D004D024F /* DataStructure.swift */,
+				8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */,
+				8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */,
+				8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */,
+				8EB2FDE71E15FBFE004D024F /* ViewController.swift */,
+				8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */,
 				8EB2FDEC1E15FBFE004D024F /* Assets.xcassets */,
 				8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */,
 				8EB2FDF11E15FBFE004D024F /* Info.plist */,
@@ -278,12 +284,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */,
 				8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */,
 				8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */,
 				8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */,
-				8EC42E311E4A703B00FE8C8E /* VerificationTotale.swift in Sources */,
+				8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */,
 				8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */,
 				8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */,
+				8E0432EB1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

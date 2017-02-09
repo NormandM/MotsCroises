@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Ema-Na-bky">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Nt7-Ce-Buf">
     <device id="retina5_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -10,6 +10,38 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
+        <!--Choix Du Mots Croises View Controller-->
+        <scene sceneID="R41-bK-BlF">
+            <objects>
+                <tableViewController id="DSa-rq-Ql6" customClass="ChoixDuMotsCroisesViewController" customModule="Mots_Croise_s_Classiques" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="y3I-We-uqY">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="Ytu-yE-tvV">
+                                <rect key="frame" x="0.0" y="28" width="414" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Ytu-yE-tvV" id="Bes-3M-Rm8">
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="show" identifier="showMotsCroises" id="Snl-dx-bjD"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="DSa-rq-Ql6" id="qcW-Xk-HHe"/>
+                            <outlet property="delegate" destination="DSa-rq-Ql6" id="CiS-U9-9Px"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="dx2-jc-m34"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8BO-8n-mlZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3055.072463768116" y="135.32608695652175"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
@@ -156,25 +188,25 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="1131.8840579710145" y="136.95652173913044"/>
+            <point key="canvasLocation" x="3853.6231884057975" y="136.95652173913044"/>
         </scene>
-        <!--Navigation Controller-->
-        <scene sceneID="tnT-nL-Lb1">
+        <!--Choix du Mots Croises-->
+        <scene sceneID="CSf-YJ-Cnh">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Ema-Na-bky" sceneMemberID="viewController">
+                <navigationController title="Choix du Mots Croises" automaticallyAdjustsScrollViewInsets="NO" id="Nt7-Ce-Buf" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Ucf-Ht-AyA">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="vfi-0v-G1N">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
-                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="iZF-Yl-UOF"/>
+                        <segue destination="DSa-rq-Ql6" kind="relationship" relationship="rootViewController" id="yjM-Fn-iFz"/>
                     </connections>
                 </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="f6V-yp-2Rr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="27F-DD-CKw" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="135" y="138.38028169014083"/>
+            <point key="canvasLocation" x="2147.826086956522" y="135.32608695652175"/>
         </scene>
     </scenes>
     <resources>
