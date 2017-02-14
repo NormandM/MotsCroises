@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITextFieldDelegate {
     @IBOutlet weak var collectionView: UICollectionView!
     
@@ -19,6 +20,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var grilleSelected: String = ""
     let screenSize: CGRect = UIScreen.main.bounds
     var ref: Int = 0
+    var reponse: [[String]] = []
     var selectedWordH: [Int] = []
     var selectedWordV: [Int] = []
     var lettres: [String] = []
@@ -33,6 +35,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var indiceCrash: Int = 0
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
          let solution: Bool = false
         
         
@@ -46,8 +50,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let lettresMotTotal = motsCroisesArray.motsCroisesArray()
         lettres = lettresMotTotal.0
         totalMot = lettresMotTotal.1
-        print(lettres)
- 
         var n = 0
         if solution == false{
             for lettre in lettres {
@@ -67,9 +69,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         _ = cellSelection(indexPath: indexPathInit)
         h = true
         super.viewDidAppear(animated)
-        let height: CGFloat = 10.0 //whatever height you want
-        let bounds = self.navigationController!.navigationBar.bounds
-        self.navigationController?.navigationBar.frame = CGRect(x: 0, y: 0, width: bounds.width, height: bounds.height + height)
+ 
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -93,6 +93,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }
      return cell
    }
+
+
+  
+    
     // MARK: - UICollectionViewDelegate protocol
     
 ////////////////////////////////////
@@ -227,20 +231,12 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
             }
         }
-        var n = 0
-        var reponse: [[String]] = []
-        while n < 100 {
-        let cell = collectionView.cellForItem(at: [0, n]) as! MyCollectionViewCell
-        reponse.append([String(n), cell.laLettre.text!])
-           n = n + 1
-        }
+        let reponse = reponseACeMoment()
         let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
         let resultat = completeCheck.completeCheck(reponse: reponse)
-        if resultat {
+        if resultat.0 {
             showAlert()
         }
-        
-        
     }
 /////////////////////////////////////////////////////////////////////////
 //Compute the dimension of a cell for an NxN layout with space S between
@@ -395,6 +391,48 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         cell.laLettre.resignFirstResponder()
 
     }
+
+    func showAlert () {
+        
+        let alertController = UIAlertController(title: "Bravo", message: "", preferredStyle: .actionSheet)
+        alertController.popoverPresentationController?.sourceView = self.view
+        alertController.popoverPresentationController?.sourceRect = definitionH.frame
+        
+        let okAction = UIAlertAction(title: "OK", style: .cancel, handler: dismissAlert)
+        alertController.addAction(okAction)
+        
+        present(alertController, animated: true, completion: nil)
+    }
+    func dismissAlert(_ sender: UIAlertAction) {
+        
+    }
+    func showAlert2 (){
+        let alertController = UIAlertController(title: "Bravo", message: "Il n'y a pas d'erreur", preferredStyle: .actionSheet)
+        alertController.popoverPresentationController?.sourceView = self.view
+        alertController.popoverPresentationController?.sourceRect = definitionH.frame
+        
+        let okAction = UIAlertAction(title: "OK", style: .cancel, handler: dismissAlert)
+        alertController.addAction(okAction)
+        
+        present(alertController, animated: true, completion: nil)
+        
+    }
+    func dismissAlert2(_ sender: UIAlertAction) {
+        let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
+        cell.backgroundColor = UIColor.white
+    }
+
+    func reponseACeMoment() -> [[String]]{
+        var n = 0
+        var reponse: [[String]] = []
+        while n < 100 {
+            let cell = collectionView.cellForItem(at: [0, n]) as! MyCollectionViewCell
+            reponse.append([String(n), cell.laLettre.text!])
+            n = n + 1
+        }
+        return reponse
+    }
+
     @IBAction func horizontalVertical(_ sender: Any) {
         if h == true {
             h = false
@@ -431,20 +469,48 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
 
     }
-    func showAlert () {
 
-        let alertController = UIAlertController(title: "Bravo", message: "", preferredStyle: .actionSheet)
-        alertController.popoverPresentationController?.sourceView = self.view
-        alertController.popoverPresentationController?.sourceRect = definitionH.frame
-        
-        let okAction = UIAlertAction(title: "OK", style: .cancel, handler: dismissAlert)
-        alertController.addAction(okAction)
-        
-        present(alertController, animated: true, completion: nil)
+    @IBAction func verificationlettre(_ sender: Any) {
+        let reponse = reponseACeMoment()
+        let lettreChoisiIndex = reponse[selectedCell][0]
+        let verificationLettre = Verification(grilleSelected: grilleSelected, reponse: reponse)
+        if verificationLettre.verificationLettre(lettreChoisiIndex: lettreChoisiIndex){
+            showAlert2()
+        }else{
+            let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
+            cell.backgroundColor = UIColor.red
+        }
+        self.view.endEditing(true)
     }
-    func dismissAlert(_ sender: UIAlertAction) {
+    
+    @IBAction func verificationMot(_ sender: Any) {
+        let reponse = reponseACeMoment()
+        let verificationDuMot = VerificationDuMot(grilleSelected: grilleSelected, reponse: reponse)
+        let motVerifie = verificationDuMot.verificationDuMot(cellSelected: String(selectedCell), reponse: reponse)
+        print(motVerifie)
+    }
+    
+    @IBAction func verificationGrille(_ sender: Any) {
+    }
+    
+    @IBAction func revelerLettre(_ sender: Any) {
+    }
+    @IBAction func revelerMot(_ sender: Any) {
+    }
+    
+    @IBAction func revelerGrille(_ sender: Any) {
+    }
+    
+    
+    
+    
+    
+    
+    @IBAction func hideKeyBoard(_ sender: Any) {
+        self.view.endEditing(true)
         
     }
 
+    
 }
 

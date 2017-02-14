@@ -29,7 +29,6 @@ class ChoixDuMotsCroisesViewController: UITableViewController {
             motPrecedent = motArrayInit[n][0]
         n = n + 1
         }
-        print(noDeGrille)
     }
 
     override func didReceiveMemoryWarning() {

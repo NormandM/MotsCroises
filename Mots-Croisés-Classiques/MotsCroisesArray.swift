@@ -92,7 +92,6 @@ struct MotsCroisesArray {
             i = i + 10
             n = n + 1
         }
-        
         let lettresTotalMot = (lettres, totalMot)
         return lettresTotalMot
     }

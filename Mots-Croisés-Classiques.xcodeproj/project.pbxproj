@@ -10,8 +10,11 @@
 		8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */; };
 		8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */; };
 		8E0432EB1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */; };
+		8E4B20241E4E326D0099503C /* Verification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4B20231E4E326D0099503C /* Verification.swift */; };
 		8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */; };
 		8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */; };
+		8E7D57541E5240D80032382A /* VerificationMot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7D57531E5240D80032382A /* VerificationMot.swift */; };
+		8E7D57561E538F730032382A /* ReponseTotale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7D57551E538F730032382A /* ReponseTotale.swift */; };
 		8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */; };
 		8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE71E15FBFE004D024F /* ViewController.swift */; };
 		8EB2FDEB1E15FBFE004D024F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE91E15FBFE004D024F /* Main.storyboard */; };
@@ -20,7 +23,7 @@
 		8EB2FDFB1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */; };
 		8EB2FE061E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */; };
 		8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE131E16BC5D004D024F /* DataStructure.swift */; };
-		8EED023F1E4ABE8300A37662 /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EED023E1E4ABE8300A37662 /* ListeMot.plist */; };
+		8EBF4D231E4D489900A9FBDE /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EBF4D221E4D489900A9FBDE /* ListeMot.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,8 +47,11 @@
 		8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotsCroisesArray.swift; sourceTree = "<group>"; };
 		8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteCheckMotsCroises.swift; sourceTree = "<group>"; };
 		8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoixDuMotsCroisesViewController.swift; sourceTree = "<group>"; };
+		8E4B20231E4E326D0099503C /* Verification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Verification.swift; sourceTree = "<group>"; };
 		8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldMaxLengths.swift.swift; sourceTree = "<group>"; };
+		8E7D57531E5240D80032382A /* VerificationMot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerificationMot.swift; sourceTree = "<group>"; };
+		8E7D57551E538F730032382A /* ReponseTotale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReponseTotale.swift; sourceTree = "<group>"; };
 		8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mots-Croisés-Classiques.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EB2FDE71E15FBFE004D024F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,7 +66,7 @@
 		8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mots_Croise_s_ClassiquesUITests.swift; sourceTree = "<group>"; };
 		8EB2FE071E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EB2FE131E16BC5D004D024F /* DataStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStructure.swift; sourceTree = "<group>"; };
-		8EED023E1E4ABE8300A37662 /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
+		8EBF4D221E4D489900A9FBDE /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +118,14 @@
 			isa = PBXGroup;
 			children = (
 				8EB2FDE91E15FBFE004D024F /* Main.storyboard */,
-				8EED023E1E4ABE8300A37662 /* ListeMot.plist */,
+				8EBF4D221E4D489900A9FBDE /* ListeMot.plist */,
 				8EB2FE131E16BC5D004D024F /* DataStructure.swift */,
 				8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */,
 				8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */,
+				8E7D57551E538F730032382A /* ReponseTotale.swift */,
 				8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */,
+				8E4B20231E4E326D0099503C /* Verification.swift */,
+				8E7D57531E5240D80032382A /* VerificationMot.swift */,
 				8EB2FDE71E15FBFE004D024F /* ViewController.swift */,
 				8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */,
 				8EB2FDEC1E15FBFE004D024F /* Assets.xcassets */,
@@ -257,7 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EB2FDF01E15FBFE004D024F /* LaunchScreen.storyboard in Resources */,
-				8EED023F1E4ABE8300A37662 /* ListeMot.plist in Resources */,
+				8EBF4D231E4D489900A9FBDE /* ListeMot.plist in Resources */,
 				8EB2FDED1E15FBFE004D024F /* Assets.xcassets in Resources */,
 				8EB2FDEB1E15FBFE004D024F /* Main.storyboard in Resources */,
 			);
@@ -285,13 +294,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */,
+				8E7D57561E538F730032382A /* ReponseTotale.swift in Sources */,
 				8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */,
 				8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */,
 				8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */,
 				8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */,
 				8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */,
+				8E4B20241E4E326D0099503C /* Verification.swift in Sources */,
 				8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */,
 				8E0432EB1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift in Sources */,
+				8E7D57541E5240D80032382A /* VerificationMot.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -9,7 +9,7 @@
 import Foundation
 struct CompleteCheck {
     var grilleSelected: String
-    func completeCheck(reponse: [[String]]) -> Bool {
+    func completeCheck(reponse: [[String]]) -> (Bool, [[String]], [[String]]) {
         var resultat: Bool = false
         var lettresEtIndex: [[String]] = []
         let motsCroisesArray = MotsCroisesArray(grilleSelected: grilleSelected)
@@ -27,7 +27,7 @@ struct CompleteCheck {
         if lettresFlat == reponseFlat {
             resultat = true
         }
-
-      return resultat
+      return (resultat, reponse, lettresEtIndex)
     }
+    
 }
