@@ -384,7 +384,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                     cell.backgroundColor = UIColor.white
                 }
             }
-            //cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
             cell.backgroundColor = UIColor.white
         }
         cell.laLettre.isUserInteractionEnabled = false
@@ -485,8 +484,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     
     @IBAction func verificationMot(_ sender: Any) {
         let reponse = reponseACeMoment()
-        let verificationDuMot = VerificationDuMot(grilleSelected: grilleSelected, reponse: reponse)
-        let motVerifie = verificationDuMot.verificationDuMot(cellSelected: String(selectedCell), reponse: reponse)
+        let verificationDuMot = VerificationDuMot(grilleSelected: grilleSelected, reponse: reponse, horizontal: h)
+        let motVerifie = verificationDuMot.verificationDuMot(selectedCell: selectedCell, reponse: reponse)
         print(motVerifie)
     }
     
