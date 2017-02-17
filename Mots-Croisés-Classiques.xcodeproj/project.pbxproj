@@ -10,6 +10,7 @@
 		8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */; };
 		8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */; };
 		8E0432EB1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */; };
+		8E1B672C1E578A3B00199F01 /* Orientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1B672B1E578A3B00199F01 /* Orientation.swift */; };
 		8E4B20241E4E326D0099503C /* Verification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4B20231E4E326D0099503C /* Verification.swift */; };
 		8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */; };
 		8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */; };
@@ -47,6 +48,7 @@
 		8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotsCroisesArray.swift; sourceTree = "<group>"; };
 		8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteCheckMotsCroises.swift; sourceTree = "<group>"; };
 		8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoixDuMotsCroisesViewController.swift; sourceTree = "<group>"; };
+		8E1B672B1E578A3B00199F01 /* Orientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Orientation.swift; sourceTree = "<group>"; };
 		8E4B20231E4E326D0099503C /* Verification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Verification.swift; sourceTree = "<group>"; };
 		8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldMaxLengths.swift.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				8EB2FDF11E15FBFE004D024F /* Info.plist */,
 				8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */,
 				8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */,
+				8E1B672B1E578A3B00199F01 /* Orientation.swift */,
 			);
 			path = "Mots-Croisés-Classiques";
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				8E7D57561E538F730032382A /* ReponseTotale.swift in Sources */,
 				8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */,
 				8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */,
+				8E1B672C1E578A3B00199F01 /* Orientation.swift in Sources */,
 				8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */,
 				8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */,
 				8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */,

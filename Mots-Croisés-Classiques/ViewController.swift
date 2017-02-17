@@ -269,7 +269,11 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
                 n = n + 1
             }
-            choixDOrientation()
+            let selectionMot = SelectionMot(selectedCell: selectedCell, totalMot: totalMot)
+            
+            selectedWordH = selectionMot.selectionMot().0
+            selectedWordV = selectionMot.selectionMot().1
+            
             if h{
                 for select in selectedWordH{
                     if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
@@ -311,51 +315,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
         }
        return cell
-    }
-/////////////////////////////////////////////////////////////////////////////////////////////
-// MARK: Function determining position number of the letters of the word selected depending on
-//horizontal or vertical position
-///////////////////////////////////////////////////////////////////////////////////////////
-    func choixDOrientation() {
-        var arrayTrans: [[String]] = []
-        selectedWordH = []
-        selectedWordV = []
-        for motArray in totalMot{
-            if motArray[4] == "H" {
-                if motArray[2] == totalMot[selectedCell][2] && motArray[6] == totalMot[selectedCell][6]{
-                    
-                    arrayTrans = arrayTrans + [motArray]
-                }
-            }
-        }
-       
-        // Grid position number for each letter of the word selected in horizontal position
-        for array in arrayTrans {
-        // making sure the lleter is within the same word
-           if array[6] == arrayTrans[0][6]{
-                if let choixArray = Int(array[5]) {
-                    selectedWordH.append(choixArray)
-                }
-           }
-        }
-        arrayTrans = []
-        for motArray in totalMot {
-            if motArray[4] == "V"{
-                if motArray[2] == totalMotV[2] && motArray[6] == totalMotV[6]{
-                    arrayTrans = arrayTrans + [motArray]
-                }
-            }
-        }
-        // Grid position number for each letter of the word selected in vertical position
-        for array in arrayTrans {
-        // making sure the lleter is within the same word
-            if array[6] == arrayTrans[0][6]{
-                if let choixArray = Int(array[7]) {
-                    selectedWordV.append(choixArray)
-                }
-            }
-        }
-
     }
 //////////////////////////////////////////////////////////////
 ////// MARK: Function used when a cell is being selected
@@ -438,7 +397,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }else{
             h = true
         }
-        choixDOrientation()
+        let selectionMot = SelectionMot(selectedCell: selectedCell, totalMot: totalMot)
+        selectedWordH = selectionMot.selectionMot().0
+        selectedWordV = selectionMot.selectionMot().1
+
         if h == true {
             for select in selectedWordH{
                 if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
@@ -486,10 +448,33 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let reponse = reponseACeMoment()
         let verificationDuMot = VerificationDuMot(grilleSelected: grilleSelected, reponse: reponse, horizontal: h)
         let motVerifie = verificationDuMot.verificationDuMot(selectedCell: selectedCell, reponse: reponse)
-        print(motVerifie)
+        var erreurLettre: [Int] = []
+        if motVerifie.0 == true {
+            showAlert2()
+        }else{
+            var n = 0
+            for lettre in motVerifie.2{
+                if lettre != motVerifie.3[n]{
+                    erreurLettre.append(motVerifie.1[n])
+                }
+                n = n + 1
+            }
+            
+        }
+        for lettre in erreurLettre{
+            let cell = collectionView.cellForItem(at: [0, lettre]) as! MyCollectionViewCell
+            cell.backgroundColor = UIColor.red
+        }
+        let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
+        cell.laLettre.isUserInteractionEnabled = false
+        cell.laLettre.resignFirstResponder()
+        
+        self.view.endEditing(true)
     }
     
     @IBAction func verificationGrille(_ sender: Any) {
+
+
     }
     
     @IBAction func revelerLettre(_ sender: Any) {
