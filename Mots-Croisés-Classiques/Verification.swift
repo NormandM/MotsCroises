@@ -10,7 +10,7 @@ import Foundation
 struct Verification {
     let grilleSelected: String
     let reponse: [[String]]
-    func verificationLettre(lettreChoisiIndex: String) -> Bool {
+    func verificationLettre(lettreChoisiIndex: String) -> (Bool, String) {
         var reponseDonneLettre: String = ""
         var solutionLettre: String = ""
         var bonneReponse: Bool = false
@@ -31,6 +31,6 @@ struct Verification {
         if reponseDonneLettre == solutionLettre {
             bonneReponse = true
         }
-        return bonneReponse
+        return (bonneReponse, solutionLettre)
     }
 }

@@ -33,11 +33,11 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var indexPathPrecedent: IndexPath = []
     var indexPathInit: IndexPath = []
     var indiceCrash: Int = 0
-    override func viewDidLoad() {
+    override func viewDidLoad() { 
         super.viewDidLoad()
         
         
-         let solution: Bool = false
+         let solution: Bool = true
         
         
         // Position of the grid based on screen size
@@ -435,7 +435,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let reponse = reponseACeMoment()
         let lettreChoisiIndex = reponse[selectedCell][0]
         let verificationLettre = Verification(grilleSelected: grilleSelected, reponse: reponse)
-        if verificationLettre.verificationLettre(lettreChoisiIndex: lettreChoisiIndex){
+        if verificationLettre.verificationLettre(lettreChoisiIndex: lettreChoisiIndex).0{
             showAlert2()
         }else{
             let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
@@ -461,28 +461,103 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
             
         }
+
         for lettre in erreurLettre{
             let cell = collectionView.cellForItem(at: [0, lettre]) as! MyCollectionViewCell
             cell.backgroundColor = UIColor.red
+            cell.laLettre.isUserInteractionEnabled = false
+            cell.laLettre.resignFirstResponder()
         }
-        let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
-        cell.laLettre.isUserInteractionEnabled = false
-        cell.laLettre.resignFirstResponder()
+        
         
         self.view.endEditing(true)
     }
     
     @IBAction func verificationGrille(_ sender: Any) {
-
+        let reponse = reponseACeMoment()
+        let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
+        let result = completeCheck.completeCheck(reponse: reponse)
+        let resultArray = result.3
+        for indexLettre in resultArray {
+            let cell = collectionView.cellForItem(at: [0, Int(indexLettre[0])!]) as! MyCollectionViewCell
+            cell.backgroundColor = UIColor.red
+            cell.laLettre.isUserInteractionEnabled = false
+            cell.laLettre.resignFirstResponder()
+        }
+        let grilleVerifie = result.0
+        if grilleVerifie{
+            showAlert2()
+        }
 
     }
     
     @IBAction func revelerLettre(_ sender: Any) {
+        let reponse = reponseACeMoment()
+        let lettreChoisiIndex = reponse[selectedCell][0]
+        let verificationLettre = Verification(grilleSelected: grilleSelected, reponse: reponse)
+        let resultatVerification = verificationLettre.verificationLettre(lettreChoisiIndex: lettreChoisiIndex)
+        if resultatVerification.0{
+            showAlert2()
+        }else{
+            let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
+            cell.backgroundColor = UIColor.green
+            cell.laLettre.text = resultatVerification.1
+        }
+        self.view.endEditing(true)
+
     }
     @IBAction func revelerMot(_ sender: Any) {
+        var bonneReponse: [String] = []
+        let reponse = reponseACeMoment()
+        let verificationDuMot = VerificationDuMot(grilleSelected: grilleSelected, reponse: reponse, horizontal: h)
+        let motVerifie = verificationDuMot.verificationDuMot(selectedCell: selectedCell, reponse: reponse)
+        var erreurLettre: [Int] = []
+        if motVerifie.0 == true {
+            showAlert2()
+        }else{
+            var n = 0
+            for lettre in motVerifie.2{
+                if lettre != motVerifie.3[n]{
+                    erreurLettre.append(motVerifie.1[n])
+                    bonneReponse.append(motVerifie.2[n])
+                    
+                }
+                n = n + 1
+            }
+            
+        }
+        var n = 0
+        for lettre in erreurLettre{
+            let cell = collectionView.cellForItem(at: [0, lettre]) as! MyCollectionViewCell
+            cell.backgroundColor = UIColor.green
+            cell.laLettre.text = bonneReponse[n]
+            cell.laLettre.isUserInteractionEnabled = false
+            cell.laLettre.resignFirstResponder()
+            n = n + 1
+        }
+        self.view.endEditing(true)
     }
     
     @IBAction func revelerGrille(_ sender: Any) {
+        var n = 0
+        let reponse = reponseACeMoment()
+        let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
+        let result = completeCheck.completeCheck(reponse: reponse)
+        let resultArray = result.3
+        for indexLettre in resultArray {
+            let cell = collectionView.cellForItem(at: [0, Int(indexLettre[0])!]) as! MyCollectionViewCell
+            cell.backgroundColor = UIColor.green
+            cell.laLettre.text = resultArray[n][1]
+            cell.laLettre.isUserInteractionEnabled = false
+            cell.laLettre.resignFirstResponder()
+            n = n + 1
+        }
+        let grilleVerifie = result.0
+        if grilleVerifie{
+            showAlert2()
+        }
+
+        
     }
     
     

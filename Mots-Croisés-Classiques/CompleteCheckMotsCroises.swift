@@ -9,8 +9,9 @@
 import Foundation
 struct CompleteCheck {
     var grilleSelected: String
-    func completeCheck(reponse: [[String]]) -> (Bool, [[String]], [[String]]) {
+    func completeCheck(reponse: [[String]]) -> (Bool, [[String]], [[String]], [[String]]) {
         var resultat: Bool = false
+        var arrayResultat: [[String]] = []
         var lettresEtIndex: [[String]] = []
         let motsCroisesArray = MotsCroisesArray(grilleSelected: grilleSelected)
         let lettresMotTotal = motsCroisesArray.motsCroisesArray()
@@ -27,7 +28,17 @@ struct CompleteCheck {
         if lettresFlat == reponseFlat {
             resultat = true
         }
-      return (resultat, reponse, lettresEtIndex)
+        n = 0
+
+        for lettre in lettresEtIndex{
+
+            if lettre[1] != reponse[n][1] {
+                arrayResultat.append([String(n),lettre[1]])
+            }
+            
+            n = n + 1
+        }
+      return (resultat, reponse, lettresEtIndex, arrayResultat)
     }
     
 }
