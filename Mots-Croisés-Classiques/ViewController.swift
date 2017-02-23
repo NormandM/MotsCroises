@@ -55,7 +55,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         
         // Position of the grid based on screen size
         verticalPosition.constant = 0.42 * screenSize.height
-        
+        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "grungyPaper")!)
         let motsCroises = MotsCroises(noDeGrille: grilleSelected)
         let grilleChoisi = motsCroises.donnesMot()
         self.title = "Mots Croisés \(grilleChoisi[0][0])"
@@ -169,7 +169,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             wordSelection(cell: cell)
             cell.laLettre.isUserInteractionEnabled = false
             cell.laLettre.resignFirstResponder()
-            cell.backgroundColor = UIColor.white
+            cell.backgroundColor = UIColor.clear
             indexPathInit = [0, 1]
            indiceCrash = indiceCrash + 1
         }
@@ -178,7 +178,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 wordSelection(cell: cell)
                 cell.laLettre.isUserInteractionEnabled = false
                 cell.laLettre.resignFirstResponder()
-                cell.backgroundColor = UIColor.white
+                cell.backgroundColor = UIColor.clear
             }
        }
         let cell = cellSelection(indexPath: [0, indexPath.item ])
@@ -226,7 +226,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 wordSelection(cell: cell)
                 cell.laLettre.isUserInteractionEnabled = false
                 cell.laLettre.resignFirstResponder()
-                cell.backgroundColor = UIColor.white
+                cell.backgroundColor = UIColor.clear
                 indexPathInit = [0, 1]
                 indiceCrash = indiceCrash + 1
             }
@@ -359,7 +359,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
                 for select in selectedWordV{
                     if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                        cell.backgroundColor = UIColor.white
+                        cell.backgroundColor = UIColor.clear
                     }
                 }
             }else{
@@ -371,7 +371,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
                 for select in selectedWordH{
                     if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                        cell.backgroundColor = UIColor.white
+                        cell.backgroundColor = UIColor.clear
                     }
                 }
 
@@ -412,15 +412,15 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         if cell.laLettre.text != "#" {
             for select in selectedWordH{
                 if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                    cell.backgroundColor = UIColor.white
+                    cell.backgroundColor = UIColor.clear
                 }
             }
             for select in selectedWordV{
                 if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                    cell.backgroundColor = UIColor.white
+                    cell.backgroundColor = UIColor.clear
                 }
             }
-            cell.backgroundColor = UIColor.white
+            cell.backgroundColor = UIColor.clear
         }
         cell.laLettre.isUserInteractionEnabled = false
         cell.laLettre.resignFirstResponder()
@@ -454,7 +454,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     }
     func dismissAlert2(_ sender: UIAlertAction) {
         let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
-        cell.backgroundColor = UIColor.white
+        cell.backgroundColor = UIColor.clear
     }
 
     func reponseACeMoment() -> [[String]]{
@@ -486,7 +486,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
             for select in selectedWordV{
                 if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                    cell.backgroundColor = UIColor.white
+                    cell.backgroundColor = UIColor.clear
                 }
             }
         }else {
@@ -499,7 +499,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
             for select in selectedWordH{
                 if let cell = collectionView.cellForItem(at: [0, select]) as? MyCollectionViewCell{
-                    cell.backgroundColor = UIColor.white
+                    cell.backgroundColor = UIColor.clear
                 }
             }
         }

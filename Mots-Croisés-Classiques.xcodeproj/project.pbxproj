@@ -53,6 +53,10 @@
 		8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteCheckMotsCroises.swift; sourceTree = "<group>"; };
 		8E0432EA1E4D017C002ABF09 /* ChoixDuMotsCroisesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChoixDuMotsCroisesViewController.swift; sourceTree = "<group>"; };
 		8E1B672B1E578A3B00199F01 /* Orientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Orientation.swift; sourceTree = "<group>"; };
+		8E205F3D1E5F668A00964353 /* AppleGaramond-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Bold.ttf"; sourceTree = "<group>"; };
+		8E205F3E1E5F669100964353 /* AppleGaramond-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-BoldItalic.ttf"; sourceTree = "<group>"; };
+		8E205F3F1E5F669700964353 /* AppleGaramond-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Italic.ttf"; sourceTree = "<group>"; };
+		8E205F401E5F669D00964353 /* AppleGaramond-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Light.ttf"; sourceTree = "<group>"; };
 		8E21697B1E5F616100C17EEA /* MotsCroise.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MotsCroise.xcdatamodel; sourceTree = "<group>"; };
 		8E21697D1E5F623500C17EEA /* Item+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Item+CoreDataClass.swift"; path = "../Item+CoreDataClass.swift"; sourceTree = "<group>"; };
 		8E21697E1E5F623500C17EEA /* Item+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Item+CoreDataProperties.swift"; path = "../Item+CoreDataProperties.swift"; sourceTree = "<group>"; };
@@ -104,6 +108,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8E205F3C1E5F667100964353 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				8E205F401E5F669D00964353 /* AppleGaramond-Light.ttf */,
+				8E205F3D1E5F668A00964353 /* AppleGaramond-Bold.ttf */,
+				8E205F3F1E5F669700964353 /* AppleGaramond-Italic.ttf */,
+				8E205F3E1E5F669100964353 /* AppleGaramond-BoldItalic.ttf */,
+			);
+			name = Font;
+			sourceTree = "<group>";
+		};
 		8EB2FDD91E15FBFE004D024F = {
 			isa = PBXGroup;
 			children = (
@@ -148,6 +163,7 @@
 				8E1B672B1E578A3B00199F01 /* Orientation.swift */,
 				8EA0904C1E5A344600A3A03F /* DataController.swift */,
 				8E21697A1E5F616100C17EEA /* MotsCroise.xcdatamodeld */,
+				8E205F3C1E5F667100964353 /* Font */,
 			);
 			path = "Mots-Croisés-Classiques";
 			sourceTree = "<group>";
