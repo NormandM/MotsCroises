@@ -7,11 +7,24 @@
 //
 
 import UIKit
+import CoreData
 
 
-class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITextFieldDelegate {
-    @IBOutlet weak var collectionView: UICollectionView!
+class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITextFieldDelegate, NSFetchedResultsControllerDelegate {
+    var items: [Item] = []
+    let dataController = DataController.sharedInstance
+    let managedObjectContext = DataController.sharedInstance.managedObjectContext
     
+    lazy var fetchRequest: NSFetchRequest = { () -> NSFetchRequest<NSFetchRequestResult> in 
+        let request = NSFetchRequest<NSFetchRequestResult>(entityName: "Item")
+        let sortDescriptor = NSSortDescriptor(key: "lettre", ascending: false)
+        let sortDescriptor2 = NSSortDescriptor(key: "noMotcroise" ,ascending: false)
+        let sortDescriptor3 = NSSortDescriptor(key: "noDeLettre" ,ascending: true, selector: #selector(NSString.localizedStandardCompare(_:)))
+        request.sortDescriptors = [sortDescriptor2, sortDescriptor3, sortDescriptor]
+        return request
+    }()
+    
+    @IBOutlet weak var collectionView: UICollectionView!
     @IBOutlet weak var definitionH: UILabel!
     @IBOutlet weak var definitionV: UILabel!
     @IBOutlet weak var verticalPosition: NSLayoutConstraint!
@@ -37,11 +50,11 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         super.viewDidLoad()
         
         
-         let solution: Bool = true
+         let solution: Bool = false
         
         
         // Position of the grid based on screen size
-        verticalPosition.constant = 0.50 * screenSize.height
+        verticalPosition.constant = 0.42 * screenSize.height
         
         let motsCroises = MotsCroises(noDeGrille: grilleSelected)
         let grilleChoisi = motsCroises.donnesMot()
@@ -51,6 +64,22 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         lettres = lettresMotTotal.0
         totalMot = lettresMotTotal.1
         var n = 0
+  /*
+        do {
+            let items = try managedObjectContext.fetch(fetchRequest) as! [NSManagedObject]
+            
+           for item in items {
+                managedObjectContext.delete(item)
+            }
+            try managedObjectContext.save()
+            
+        } catch {
+             //Error Handling
+             //...
+        }
+ 
+*/
+    
         if solution == false{
             for lettre in lettres {
                 if lettre != "#"{
@@ -59,6 +88,31 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 n = n + 1
             }
         }
+        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
+        do {
+            items = try managedObjectContext.fetch(fetchRequest) as! [Item]
+        }catch let error as NSError{
+            print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
+        }
+        n = 0
+        if items == [] {
+            while n < 100 {
+                let item = NSEntityDescription.insertNewObject(forEntityName: "Item", into: dataController.managedObjectContext) as! Item
+                item.noDeLettre = String(n)
+                item.noMotcroise = grilleSelected
+                item.lettre = lettres[n]
+                item.completed = false
+                DataController.sharedInstance.saveContext()
+                n = n + 1
+            }
+        }else{
+        n = 0
+            for item in items {
+                lettres[n] = item.lettre!
+                n = n + 1
+            }
+        }
+  
 
     }
 ///////////////////////////////////////////////////////
@@ -68,8 +122,14 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         indexPathInit = [0,0]
         _ = cellSelection(indexPath: indexPathInit)
         h = true
+        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
+        do {
+            items = try managedObjectContext.fetch(fetchRequest) as! [Item]
+        }catch let error as NSError{
+            print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
+        }
+
         super.viewDidAppear(animated)
- 
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -142,6 +202,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 ////////////////////////////////////////////////////////////////
     func textFieldDidChange(_ textField: UITextField) {
         var indexPath: IndexPath = [0, 0]
+        
         if textField.text != "" && textField.text != "#" {
             if indexPathRef.item > 99 {indexPath = [0, 99] }
             selectedCell = indexPathRef.item
@@ -231,12 +292,27 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
             }
         }
+// saving letter changed
+        print(indexPathRef.item)
+        print(indexPath.item)
+        print(indexPathPrecedent.item)
+        print(indexPathSelected.item)
+        var cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
+        items[indexPath.item].lettre = cell.laLettre.text
+        cell = collectionView.cellForItem(at: [0, 99]) as! MyCollectionViewCell
+        items[99].lettre = cell.laLettre.text
+        DataController.sharedInstance.saveContext()
+        
         let reponse = reponseACeMoment()
         let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
         let resultat = completeCheck.completeCheck(reponse: reponse)
         if resultat.0 {
+            for item in items{
+                item.completed = true
+            }
             showAlert()
         }
+        DataController.sharedInstance.saveContext()
     }
 /////////////////////////////////////////////////////////////////////////
 //Compute the dimension of a cell for an NxN layout with space S between
@@ -248,6 +324,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     let cellsAcross: CGFloat = 10
     let spaceBetweenCells: CGFloat = 0
     let dim = (collectionView.bounds.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
+        
     return CGSize(width: dim, height: dim)
     }
 //////////////////////////////////////////////////////////////////////////////
