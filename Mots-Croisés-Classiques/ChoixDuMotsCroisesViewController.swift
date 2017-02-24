@@ -7,8 +7,11 @@
 //
 
 import UIKit
+import Foundation
+
 
 class ChoixDuMotsCroisesViewController: UITableViewController {
+    var activityIndicatorView: ActivityIndicatorView!
     var motArrayInit: [[String]] = []
     var noDeGrille: [String] = []
     override func viewDidLoad() {
@@ -29,6 +32,7 @@ class ChoixDuMotsCroisesViewController: UITableViewController {
             motPrecedent = motArrayInit[n][0]
         n = n + 1
         }
+
     }
 
     override func didReceiveMemoryWarning() {
@@ -57,18 +61,41 @@ class ChoixDuMotsCroisesViewController: UITableViewController {
         return cell
     }
     
+    
+    override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        self.activityIndicatorView = ActivityIndicatorView(title: "Construction de la Grille...", center: self.view.center)
+        self.view.addSubview(self.activityIndicatorView.getViewActivityIndicator())
 
+        self.activityIndicatorView.startAnimating()
+        UIApplication.shared.beginIgnoringInteractionEvents()
+        
+        let when = DispatchTime.now() + 0.1 // change 2 to desired number of seconds
+        DispatchQueue.main.asyncAfter(deadline: when) {
+            self.performSegue(withIdentifier: "showMotsCroises", sender: indexPath)
+        }
+        
+
+    }
+    
+    // here code perfomed with delay
+    
+    
     // MARK: - Navigation
 
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "showMotsCroises" {
             if let indexPath = self.tableView.indexPathForSelectedRow, let grilleSelected = tableView.cellForRow(at: indexPath)?.textLabel?.text {
-
-            let controller = segue.destination as! ViewController
-            controller.grilleSelected = grilleSelected
+               
+                
+                let controller = segue.destination as! ViewController
+                controller.grilleSelected = grilleSelected
+                controller.activityIndicatorView = activityIndicatorView
+                
+                
             }
 
         }
     }
+    
 
 }

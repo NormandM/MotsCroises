@@ -37,9 +37,6 @@
                                     <rect key="frame" x="0.0" y="0.0" width="414" height="43"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
-                                <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" identifier="showMotsCroises" id="Snl-dx-bjD"/>
-                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -48,6 +45,9 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" id="dx2-jc-m34"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="show" identifier="showMotsCroises" id="i4q-8w-g3x"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8BO-8n-mlZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -66,7 +66,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Vertical:" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SB3-oL-Qwo">
-                                <rect key="frame" x="39" y="434" width="83" height="25"/>
+                                <rect key="frame" x="38" y="442" width="83" height="25"/>
                                 <fontDescription key="fontDescription" name="AppleGaramond-Bold" family="Apple Garamond" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -227,7 +227,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Horizontal:" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="g0T-KC-IRH">
-                                <rect key="frame" x="36" y="404" width="84.666666666666657" height="25"/>
+                                <rect key="frame" x="36" y="405" width="84.666666666666657" height="25"/>
                                 <fontDescription key="fontDescription" name="AppleGaramond-Bold" family="Apple Garamond" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -250,7 +250,7 @@
                                 </state>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="R1D-Mz-psN">
-                                <rect key="frame" x="122" y="432" width="140" height="35"/>
+                                <rect key="frame" x="122" y="437" width="140" height="35"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="35" id="UYv-Yc-I67"/>
                                     <constraint firstAttribute="width" constant="140" id="V4c-1Z-6C0"/>

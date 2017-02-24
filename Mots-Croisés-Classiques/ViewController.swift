@@ -14,7 +14,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var items: [Item] = []
     let dataController = DataController.sharedInstance
     let managedObjectContext = DataController.sharedInstance.managedObjectContext
-    
+    var activityIndicatorView: ActivityIndicatorView!
     lazy var fetchRequest: NSFetchRequest = { () -> NSFetchRequest<NSFetchRequestResult> in 
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: "Item")
         let sortDescriptor = NSSortDescriptor(key: "lettre", ascending: false)
@@ -54,7 +54,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         
         
         // Position of the grid based on screen size
-        verticalPosition.constant = 0.42 * screenSize.height
+        verticalPosition.constant = 0.44 * screenSize.height
         self.view.backgroundColor = UIColor(patternImage: UIImage(named: "grungyPaper")!)
         let motsCroises = MotsCroises(noDeGrille: grilleSelected)
         let grilleChoisi = motsCroises.donnesMot()
@@ -88,21 +88,25 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 n = n + 1
             }
         }
-        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
-        do {
+
+       fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
+       do {
             items = try managedObjectContext.fetch(fetchRequest) as! [Item]
         }catch let error as NSError{
             print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
-        }
+       }
+        print(items)
         n = 0
         if items == [] {
+            let item = NSEntityDescription.insertNewObject(forEntityName: "Item", into: dataController.managedObjectContext) as! Item
+
+            
             while n < 100 {
-                let item = NSEntityDescription.insertNewObject(forEntityName: "Item", into: dataController.managedObjectContext) as! Item
                 item.noDeLettre = String(n)
                 item.noMotcroise = grilleSelected
                 item.lettre = lettres[n]
                 item.completed = false
-                DataController.sharedInstance.saveContext()
+                //DataController.sharedInstance.saveContext()
                 n = n + 1
             }
         }else{
@@ -112,7 +116,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 n = n + 1
             }
         }
-  
+
 
     }
 ///////////////////////////////////////////////////////
@@ -122,7 +126,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         indexPathInit = [0,0]
         _ = cellSelection(indexPath: indexPathInit)
         h = true
-        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
+  
+       fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
         do {
             items = try managedObjectContext.fetch(fetchRequest) as! [Item]
         }catch let error as NSError{
@@ -130,6 +135,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }
 
         super.viewDidAppear(animated)
+        UIApplication.shared.endIgnoringInteractionEvents()
+        self.activityIndicatorView.stopAnimating()
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -143,6 +150,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath as IndexPath) as! MyCollectionViewCell
         // Use the outlet in our custom class to get a reference to the UILabel in the cell
+    
+
         cell.laLettre.text = self.lettres[indexPath.item]
         cell.layer.borderWidth = 1
         cell.layer.borderColor = UIColor.black.cgColor
@@ -646,6 +655,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         self.view.endEditing(true)
         
     }
+            
 
     
 }
