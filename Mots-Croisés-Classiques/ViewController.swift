@@ -79,7 +79,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }
  
 */
-    
+   
         if solution == false{
             for lettre in lettres {
                 if lettre != "#"{
@@ -95,18 +95,16 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }catch let error as NSError{
             print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
        }
-        print(items)
+
         n = 0
         if items == [] {
-            let item = NSEntityDescription.insertNewObject(forEntityName: "Item", into: dataController.managedObjectContext) as! Item
-
-            
             while n < 100 {
+                let item = NSEntityDescription.insertNewObject(forEntityName: "Item", into: dataController.managedObjectContext) as! Item
                 item.noDeLettre = String(n)
                 item.noMotcroise = grilleSelected
                 item.lettre = lettres[n]
                 item.completed = false
-                //DataController.sharedInstance.saveContext()
+                DataController.sharedInstance.saveContext()
                 n = n + 1
             }
         }else{
@@ -133,7 +131,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }catch let error as NSError{
             print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
         }
-
+        DataController.sharedInstance.saveContext()
         super.viewDidAppear(animated)
         UIApplication.shared.endIgnoringInteractionEvents()
         self.activityIndicatorView.stopAnimating()
@@ -301,12 +299,13 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
             }
         }
-// saving letter changed
-        print(indexPathRef.item)
-        print(indexPath.item)
-        print(indexPathPrecedent.item)
-        print(indexPathSelected.item)
+// saving letter changedg
+
         var cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
+
+
+        
+        print(indexPath.item)
         items[indexPath.item].lettre = cell.laLettre.text
         cell = collectionView.cellForItem(at: [0, 99]) as! MyCollectionViewCell
         items[99].lettre = cell.laLettre.text
@@ -321,7 +320,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
             showAlert()
         }
-        DataController.sharedInstance.saveContext()
+       // DataController.sharedInstance.saveContext()
     }
 /////////////////////////////////////////////////////////////////////////
 //Compute the dimension of a cell for an NxN layout with space S between
