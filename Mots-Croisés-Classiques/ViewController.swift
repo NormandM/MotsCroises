@@ -302,10 +302,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 // saving letter changedg
 
         var cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
-
-
-        
-        print(indexPath.item)
         items[indexPath.item].lettre = cell.laLettre.text
         cell = collectionView.cellForItem(at: [0, 99]) as! MyCollectionViewCell
         items[99].lettre = cell.laLettre.text
