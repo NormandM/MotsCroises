@@ -28,7 +28,28 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     @IBOutlet weak var definitionH: UILabel!
     @IBOutlet weak var definitionV: UILabel!
     @IBOutlet weak var verticalPosition: NSLayoutConstraint!
-
+    @IBOutlet weak var distanceEntre: NSLayoutConstraint!
+    @IBOutlet weak var pointInterrogation: UIButton!
+    @IBOutlet weak var alignementPoint: NSLayoutConstraint!
+    @IBOutlet weak var leadingVerifierLettre: NSLayoutConstraint!
+    @IBOutlet weak var trailingRevelerLettre: NSLayoutConstraint!
+    @IBOutlet weak var centreVerifierLettre: NSLayoutConstraint!
+    @IBOutlet weak var topVérifierMot: NSLayoutConstraint!
+    @IBOutlet weak var topVérifierGrille: NSLayoutConstraint!
+    @IBOutlet weak var bottomEffacerTout: NSLayoutConstraint!
+    @IBOutlet weak var VTop: NSLayoutConstraint!
+    @IBOutlet weak var topH: NSLayoutConstraint!
+    @IBOutlet weak var definitionVWidth: NSLayoutConstraint!
+    
+    @IBOutlet weak var iconeHVconstraint: NSLayoutConstraint!
+    @IBOutlet weak var definitionHWidth: NSLayoutConstraint!
+    
+    
+    
+    
+    
+    
+    let modelName = UIDevice()
     var h: Bool = true
     var grilleSelected: String = ""
     let screenSize: CGRect = UIScreen.main.bounds
@@ -48,13 +69,39 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var indiceCrash: Int = 0
     override func viewDidLoad() { 
         super.viewDidLoad()
-        
-        
-         let solution: Bool = false
-        
+        let modelName = UIDevice.current.modelName
         
         // Position of the grid based on screen size
-        verticalPosition.constant = 0.44 * screenSize.height
+        if modelName == "iPhone 5" || modelName == "iPhone 5c" || modelName == "iPhone 5s"{
+            verticalPosition.constant = 0.50 * screenSize.height
+            distanceEntre.constant = -305.0
+            alignementPoint.constant = -230.0
+            centreVerifierLettre.constant = 120.0
+            leadingVerifierLettre.constant = -30
+            trailingRevelerLettre.constant = 35
+            
+        }else if modelName == "iPad 2" || modelName == "iPad 3" || modelName == "iPad 4" || modelName == "iPad Air" || modelName == "iPad Air 2" || modelName == "iPad Pro" {
+            verticalPosition.constant = 0.44 * screenSize.height
+            centreVerifierLettre.constant = 250
+            topVérifierMot.constant = 20
+            topVérifierGrille.constant = 20
+            bottomEffacerTout.constant = 70
+            topH.constant = 30
+           // VTop.constant = 30
+            definitionH.font = UIFont(name: "Times New Roman-Italic", size: 20)
+            definitionV.font = UIFont(name: "Times New Roman-Italic", size: 20)
+            iconeHVconstraint.constant = 25
+            definitionHWidth.constant = 380
+            definitionVWidth.constant = 380
+            
+            
+            
+        }else{
+            verticalPosition.constant = 0.44 * screenSize.height
+        }
+        updateViewConstraints()
+        self.navigationController?.navigationBar.tintColor = UIColor.black
+        let solution: Bool = false
         self.view.backgroundColor = UIColor(patternImage: UIImage(named: "grungyPaper")!)
         let motsCroises = MotsCroises(noDeGrille: grilleSelected)
         let grilleChoisi = motsCroises.donnesMot()
@@ -64,7 +111,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         lettres = lettresMotTotal.0
         totalMot = lettresMotTotal.1
         var n = 0
-  /*
+ /*
         do {
             let items = try managedObjectContext.fetch(fetchRequest) as! [NSManagedObject]
             
@@ -77,8 +124,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
              //Error Handling
              //...
         }
- 
-*/
+ */
+
    
         if solution == false{
             for lettre in lettres {
@@ -124,7 +171,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         indexPathInit = [0,0]
         _ = cellSelection(indexPath: indexPathInit)
         h = true
-  
+
        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
         do {
             items = try managedObjectContext.fetch(fetchRequest) as! [Item]
@@ -243,8 +290,15 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 wordSelection(cell: cell)
                 cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
                 while cell.laLettre.text == "#" {
-                    indexPathRef = [0, indexPathRef.item + 1]
-                    cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                
+                        indexPathRef = [0, indexPathRef.item + 1]
+                    print(indexPathRef.item)
+                    if indexPathRef.item != 100 {
+                        cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                    }else{
+                        indexPathRef = [0, 98]
+                        break
+                    }
                 }
                 if indexPathRef.item < 100 {
                     cell = cellSelection(indexPath: indexPathRef)
@@ -643,7 +697,49 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     
     
     
+    @IBAction func effacerLaGrille(_ sender: UIButton) {
+        var n = 0
+        for lettre in lettres {
+            
+            if lettre != "#"{
+                lettres[n] = ""
+            }
+            n = n + 1
+        }
+        n = 0
+       
+        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
+        do {
+            items = try managedObjectContext.fetch(fetchRequest) as! [Item]
+        }catch let error as NSError{
+            print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
+        }
+
+            do {
+                
+                for item in items {
+                    managedObjectContext.delete(item)
+                }
+                try managedObjectContext.save()
+                
+            } catch {
+                //Error Handling
+                //...
+            }
+        n = 0
+        while n < 100 {
+            let cell = collectionView.cellForItem(at: [0 , n]) as! MyCollectionViewCell
+            cell.laLettre.text = lettres[n]
+            n = n + 1
+        
+        }
+    }
+
     
+    
+
+
+
     
     
     @IBAction func hideKeyBoard(_ sender: Any) {

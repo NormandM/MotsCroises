@@ -16,7 +16,8 @@ class ChoixDuMotsCroisesViewController: UITableViewController {
     var noDeGrille: [String] = []
     override func viewDidLoad() {
         super.viewDidLoad()
-
+ 
+        
         if let plistPath = Bundle.main.path(forResource: "ListeMot", ofType: "plist"),
             let monArray = NSArray(contentsOfFile: plistPath){
             motArrayInit = monArray as! [[String]]
@@ -86,7 +87,10 @@ class ChoixDuMotsCroisesViewController: UITableViewController {
         if segue.identifier == "showMotsCroises" {
             if let indexPath = self.tableView.indexPathForSelectedRow, let grilleSelected = tableView.cellForRow(at: indexPath)?.textLabel?.text {
                
-                
+                let backItem = UIBarButtonItem()
+                backItem.title = ""
+                navigationItem.backBarButtonItem = backItem
+
                 let controller = segue.destination as! ViewController
                 controller.grilleSelected = grilleSelected
                 controller.activityIndicatorView = activityIndicatorView

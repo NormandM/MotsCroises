@@ -17,10 +17,12 @@
 		8E4B20241E4E326D0099503C /* Verification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4B20231E4E326D0099503C /* Verification.swift */; };
 		8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */; };
 		8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */; };
+		8E7434491E67C90A009C0942 /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7434481E67C90A009C0942 /* ListeMot.plist */; };
+		8E74344B1E689BC3009C0942 /* DetailMotsCroises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E74344A1E689BC3009C0942 /* DetailMotsCroises.swift */; };
 		8E7D57541E5240D80032382A /* VerificationMot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7D57531E5240D80032382A /* VerificationMot.swift */; };
 		8E7D57561E538F730032382A /* ReponseTotale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7D57551E538F730032382A /* ReponseTotale.swift */; };
-		8E8DF27B1E60E6F0005DF39B /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E8DF27A1E60E6F0005DF39B /* ListeMot.plist */; };
 		8EA0904D1E5A344600A3A03F /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA0904C1E5A344600A3A03F /* DataController.swift */; };
+		8EB1A7F31E63580E00D95EA1 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB1A7F21E63580E00D95EA1 /* Device.swift */; };
 		8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */; };
 		8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE71E15FBFE004D024F /* ViewController.swift */; };
 		8EB2FDEB1E15FBFE004D024F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE91E15FBFE004D024F /* Main.storyboard */; };
@@ -29,6 +31,7 @@
 		8EB2FDFB1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */; };
 		8EB2FE061E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */; };
 		8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE131E16BC5D004D024F /* DataStructure.swift */; };
+		8EDB1CCB1E676A1E00449B52 /* choixDeGrilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */; };
 		8EE3503C1E60AD4C00C7D205 /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */; };
 /* End PBXBuildFile section */
 
@@ -64,10 +67,12 @@
 		8E4B20231E4E326D0099503C /* Verification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Verification.swift; sourceTree = "<group>"; };
 		8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldMaxLengths.swift.swift; sourceTree = "<group>"; };
+		8E7434481E67C90A009C0942 /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
+		8E74344A1E689BC3009C0942 /* DetailMotsCroises.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailMotsCroises.swift; sourceTree = "<group>"; };
 		8E7D57531E5240D80032382A /* VerificationMot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerificationMot.swift; sourceTree = "<group>"; };
 		8E7D57551E538F730032382A /* ReponseTotale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReponseTotale.swift; sourceTree = "<group>"; };
-		8E8DF27A1E60E6F0005DF39B /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
 		8EA0904C1E5A344600A3A03F /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		8EB1A7F21E63580E00D95EA1 /* Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 		8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mots-Croisés-Classiques.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8EB2FDE71E15FBFE004D024F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +87,7 @@
 		8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mots_Croise_s_ClassiquesUITests.swift; sourceTree = "<group>"; };
 		8EB2FE071E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EB2FE131E16BC5D004D024F /* DataStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStructure.swift; sourceTree = "<group>"; };
+		8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = choixDeGrilesViewController.swift; sourceTree = "<group>"; };
 		8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityIndicator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -154,8 +160,8 @@
 				8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */,
 				8E4B20231E4E326D0099503C /* Verification.swift */,
 				8E7D57531E5240D80032382A /* VerificationMot.swift */,
-				8E8DF27A1E60E6F0005DF39B /* ListeMot.plist */,
 				8EB2FDE71E15FBFE004D024F /* ViewController.swift */,
+				8E7434481E67C90A009C0942 /* ListeMot.plist */,
 				8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */,
 				8EB2FDEC1E15FBFE004D024F /* Assets.xcassets */,
 				8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */,
@@ -167,6 +173,9 @@
 				8E21697A1E5F616100C17EEA /* MotsCroise.xcdatamodeld */,
 				8E205F3C1E5F667100964353 /* Font */,
 				8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */,
+				8EB1A7F21E63580E00D95EA1 /* Device.swift */,
+				8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */,
+				8E74344A1E689BC3009C0942 /* DetailMotsCroises.swift */,
 			);
 			path = "Mots-Croisés-Classiques";
 			sourceTree = "<group>";
@@ -300,7 +309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EB2FDF01E15FBFE004D024F /* LaunchScreen.storyboard in Resources */,
-				8E8DF27B1E60E6F0005DF39B /* ListeMot.plist in Resources */,
+				8E7434491E67C90A009C0942 /* ListeMot.plist in Resources */,
 				8EB2FDED1E15FBFE004D024F /* Assets.xcassets in Resources */,
 				8EB2FDEB1E15FBFE004D024F /* Main.storyboard in Resources */,
 			);
@@ -327,9 +336,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EDB1CCB1E676A1E00449B52 /* choixDeGrilesViewController.swift in Sources */,
 				8E21697F1E5F623500C17EEA /* Item+CoreDataClass.swift in Sources */,
 				8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */,
 				8E2169801E5F623500C17EEA /* Item+CoreDataProperties.swift in Sources */,
+				8E74344B1E689BC3009C0942 /* DetailMotsCroises.swift in Sources */,
+				8EB1A7F31E63580E00D95EA1 /* Device.swift in Sources */,
 				8E7D57561E538F730032382A /* ReponseTotale.swift in Sources */,
 				8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */,
 				8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */,
@@ -495,6 +507,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = X6D769Z7F4;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -509,6 +522,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = X6D769Z7F4;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Nt7-Ce-Buf">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="O7h-Mm-Imi">
     <device id="retina5_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -7,19 +7,9 @@
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
         <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
-    <customFonts key="customFonts">
-        <array key="AppleGaramond-Bold.ttf">
-            <string>AppleGaramond-Bold</string>
-        </array>
-        <array key="AppleGaramond-BoldItalic.ttf">
-            <string>AppleGaramond-BoldItalic</string>
-        </array>
-        <array key="AppleGaramond-Italic.ttf">
-            <string>AppleGaramond-Italic</string>
-        </array>
-    </customFonts>
     <scenes>
         <!--Choix Du Mots Croises View Controller-->
         <scene sceneID="R41-bK-BlF">
@@ -51,7 +41,255 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8BO-8n-mlZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3055.072463768116" y="135.32608695652175"/>
+            <point key="canvasLocation" x="4304" y="158"/>
+        </scene>
+        <!--Choix De Griles View Controller-->
+        <scene sceneID="s6m-ee-fF2">
+            <objects>
+                <viewController id="YW3-HX-Tpa" customClass="choixDeGrilesViewController" customModule="Mots_Croise_s_Classiques" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ejt-Dm-H4b"/>
+                        <viewControllerLayoutGuide type="bottom" id="xGT-OM-Xdh"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="rJq-eo-9Q5">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Essai gratuit" translatesAutoresizingMaskIntoConstraints="NO" id="j8L-C8-jqY">
+                                <rect key="frame" x="284" y="98" width="70" height="70"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="j8L-C8-jqY" secondAttribute="height" multiplier="1:1" id="8E6-cg-hWH"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="q15-cP-7kF" appends="YES" id="StO-2c-ms9"/>
+                                </connections>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="CjY-Wo-GOk">
+                                <rect key="frame" x="284" y="203" width="70" height="70"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="CjY-Wo-GOk" secondAttribute="height" multiplier="1:1" id="yU5-E5-aYw"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="THH-wW-xwk" appends="YES" id="UFg-WR-aCN"/>
+                                </connections>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="FXv-96-Ktb">
+                                <rect key="frame" x="284" y="413" width="70" height="70"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="FXv-96-Ktb" secondAttribute="height" multiplier="1:1" id="HY9-Ea-1Xf"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="HIf-tv-cBr" appends="YES" id="dg4-UT-pqi"/>
+                                </connections>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="EUO-D2-lZP">
+                                <rect key="frame" x="284" y="518" width="70" height="70"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="EUO-D2-lZP" secondAttribute="height" multiplier="1:1" id="bZ7-KX-pQI"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="BqU-wV-l08" appends="YES" id="dUB-FI-TBw"/>
+                                </connections>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="cGz-8E-GlL">
+                                <rect key="frame" x="284" y="308" width="70" height="70"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="cGz-8E-GlL" secondAttribute="height" multiplier="1:1" id="sQx-IV-8Bw"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="Fmk-om-abS" appends="YES" id="Wbh-fJ-mYw"/>
+                                </connections>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="Efg-Yb-0n7">
+                                <rect key="frame" x="284" y="623" width="70" height="70"/>
+                                <gestureRecognizers/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Efg-Yb-0n7" secondAttribute="height" multiplier="1:1" id="tGV-hz-pDS"/>
+                                </constraints>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="aAv-0X-oMT" appends="YES" id="Lem-nn-KSB"/>
+                                </connections>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 10 à 20" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w0P-Lf-2Mo">
+                                <rect key="frame" x="32" y="333" width="223" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="84P-Ft-F44"/>
+                                    <constraint firstAttribute="width" constant="223" id="JK9-vp-LyJ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 20 à 30" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LNV-5l-4DD">
+                                <rect key="frame" x="32" y="438" width="223" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="223" id="2cq-wM-4k1"/>
+                                    <constraint firstAttribute="height" constant="21" id="y3f-cA-cxd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 30 à 40" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nN8-Z7-M6P">
+                                <rect key="frame" x="32" y="543" width="223" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="12H-jI-jeV"/>
+                                    <constraint firstAttribute="width" constant="223" id="3Aq-bg-oGX"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 40 à 50" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i2c-i8-BAH">
+                                <rect key="frame" x="32" y="648" width="223" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="OYL-qu-qoQ"/>
+                                    <constraint firstAttribute="width" constant="223" id="XKY-Hf-hqY"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Trois grilles gratuites!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bty-Q5-imL">
+                                <rect key="frame" x="32" y="123" width="223" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="223" id="OpX-AC-bU0"/>
+                                    <constraint firstAttribute="height" constant="21" id="zX8-BI-r7r"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 1 à 10" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jay-qs-9FW">
+                                <rect key="frame" x="32" y="228" width="223" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="jA1-SV-mgz"/>
+                                    <constraint firstAttribute="width" constant="223" id="sFf-2D-qvO"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <constraints>
+                            <constraint firstItem="FXv-96-Ktb" firstAttribute="top" secondItem="cGz-8E-GlL" secondAttribute="bottom" constant="35" id="1iD-rH-DnO"/>
+                            <constraint firstItem="EUO-D2-lZP" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="39g-TU-z3E"/>
+                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="3vz-2G-EDb"/>
+                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="centerY" secondItem="i2c-i8-BAH" secondAttribute="centerY" id="52b-0U-8Kp"/>
+                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="top" secondItem="EUO-D2-lZP" secondAttribute="bottom" constant="35" id="80o-DM-eHs"/>
+                            <constraint firstItem="i2c-i8-BAH" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="DqI-BE-ho9"/>
+                            <constraint firstItem="EUO-D2-lZP" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="H2g-O8-aXW"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="H33-ff-tCZ"/>
+                            <constraint firstItem="w0P-Lf-2Mo" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="Jj8-jl-N8H"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="Mhp-3P-rfP"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="top" secondItem="j8L-C8-jqY" secondAttribute="bottom" constant="35" id="Ng9-Ir-RkE"/>
+                            <constraint firstItem="EUO-D2-lZP" firstAttribute="centerY" secondItem="nN8-Z7-M6P" secondAttribute="centerY" id="Ps1-NT-CS3"/>
+                            <constraint firstItem="LNV-5l-4DD" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="Qh0-Dp-Di1"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="centerX" secondItem="rJq-eo-9Q5" secondAttribute="centerX" constant="112" id="Wdc-SG-15Z"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="centerX" secondItem="j8L-C8-jqY" secondAttribute="centerX" id="ZPB-S6-FUd"/>
+                            <constraint firstItem="FXv-96-Ktb" firstAttribute="centerY" secondItem="LNV-5l-4DD" secondAttribute="centerY" id="ZRk-oO-Q5J"/>
+                            <constraint firstItem="FXv-96-Ktb" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="gha-9t-f19"/>
+                            <constraint firstItem="nN8-Z7-M6P" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="hqX-Ds-wcW"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="centerY" secondItem="Jay-qs-9FW" secondAttribute="centerY" id="lUN-da-LYq"/>
+                            <constraint firstItem="j8L-C8-jqY" firstAttribute="centerY" secondItem="Bty-Q5-imL" secondAttribute="centerY" id="psF-08-PVg"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="centerY" secondItem="rJq-eo-9Q5" secondAttribute="centerY" constant="-25" id="qrZ-Oo-MSg"/>
+                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="sgu-yC-WaG"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="centerY" secondItem="w0P-Lf-2Mo" secondAttribute="centerY" id="skM-mZ-0eh"/>
+                            <constraint firstItem="FXv-96-Ktb" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="thL-Cx-FKj"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="top" secondItem="CjY-Wo-GOk" secondAttribute="bottom" constant="35" id="w29-HX-qo8"/>
+                            <constraint firstItem="j8L-C8-jqY" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="xZe-in-tqh"/>
+                            <constraint firstItem="Jay-qs-9FW" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="yhd-5a-5zV"/>
+                            <constraint firstItem="EUO-D2-lZP" firstAttribute="top" secondItem="FXv-96-Ktb" secondAttribute="bottom" constant="35" id="ypW-Ny-m5u"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="centerX" secondItem="CjY-Wo-GOk" secondAttribute="centerX" id="ysE-nx-K81"/>
+                            <constraint firstItem="Bty-Q5-imL" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="zxo-QU-EWg"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="9ax-wd-caW"/>
+                    <connections>
+                        <segue destination="oKx-ez-YYN" kind="show" identifier="showDetailMotsCroises" id="96f-C9-agh"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="g8o-se-Ow8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="THH-wW-xwk">
+                    <connections>
+                        <action selector="grille1a10:" destination="YW3-HX-Tpa" id="vcL-Wt-ghz"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="Fmk-om-abS">
+                    <connections>
+                        <action selector="grille11a20:" destination="YW3-HX-Tpa" id="p9T-1k-alT"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="BqU-wV-l08">
+                    <connections>
+                        <action selector="grille31a40:" destination="YW3-HX-Tpa" id="Pwb-rb-dDQ"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="aAv-0X-oMT">
+                    <connections>
+                        <action selector="grille41a50:" destination="YW3-HX-Tpa" id="GRN-eG-R7N"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="q15-cP-7kF">
+                    <connections>
+                        <action selector="grilleGratuite:" destination="YW3-HX-Tpa" id="xHm-gl-TpS"/>
+                    </connections>
+                </tapGestureRecognizer>
+                <tapGestureRecognizer id="HIf-tv-cBr">
+                    <connections>
+                        <action selector="grille21a30:" destination="YW3-HX-Tpa" id="gDE-wK-dSJ"/>
+                    </connections>
+                </tapGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="3939.130434782609" y="832.33695652173924"/>
+        </scene>
+        <!--Detail Mots Croises-->
+        <scene sceneID="82l-01-nHd">
+            <objects>
+                <tableViewController id="oKx-ez-YYN" customClass="DetailMotsCroises" customModule="Mots_Croise_s_Classiques" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="5Uh-LU-Q2B">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="ePO-mE-LTs" imageView="EuJ-HW-1gq" style="IBUITableViewCellStyleDefault" id="yrm-nH-J7f">
+                                <rect key="frame" x="0.0" y="28" width="414" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="yrm-nH-J7f" id="B9T-LF-GxE">
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ePO-mE-LTs">
+                                            <rect key="frame" x="73" y="0.0" width="326" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                        <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="icône mot croisés" id="EuJ-HW-1gq">
+                                            <rect key="frame" x="15" y="0.0" width="43" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </imageView>
+                                    </subviews>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="oKx-ez-YYN" id="Jeh-rf-eBO"/>
+                            <outlet property="delegate" destination="oKx-ez-YYN" id="Bh8-06-2ol"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="66h-tO-o1B" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4868" y="832"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -65,9 +303,9 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Vertical:" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SB3-oL-Qwo">
-                                <rect key="frame" x="38" y="442" width="83" height="25"/>
-                                <fontDescription key="fontDescription" name="AppleGaramond-Bold" family="Apple Garamond" pointSize="15"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="V:" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SB3-oL-Qwo">
+                                <rect key="frame" x="37" y="445" width="20" height="23"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="20"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -92,7 +330,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <textField opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="DiO-vK-ze2">
-                                                    <rect key="frame" x="14.333333333333332" y="10" width="8.9999999999999964" height="19"/>
+                                                    <rect key="frame" x="14" y="10" width="9" height="19"/>
                                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                     <nil key="textColor"/>
                                                     <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="17"/>
@@ -123,14 +361,14 @@
                                     <outlet property="delegate" destination="BYZ-38-t0r" id="5zD-RG-REC"/>
                                 </connections>
                             </collectionView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="sQ3-gs-TTF">
-                                <rect key="frame" x="122" y="401" width="140" height="35"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="sQ3-gs-TTF">
+                                <rect key="frame" x="64" y="404" width="196" height="35"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="140" id="BIV-l0-Jiw"/>
+                                    <constraint firstAttribute="width" constant="196" id="BIV-l0-Jiw"/>
                                     <constraint firstAttribute="height" constant="35" id="rdU-Cu-tcH"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-Italic" family="Apple Garamond" pointSize="15"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -146,95 +384,137 @@
                                     <outletCollection property="gestureRecognizers" destination="ScJ-fH-BcI" appends="YES" id="Tbw-K6-I3Y"/>
                                 </connections>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GV4-fq-NDH">
-                                <rect key="frame" x="30" y="551" width="122" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="GV4-fq-NDH">
+                                <rect key="frame" x="38" y="558" width="122" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="XJO-5e-Dq3"/>
                                     <constraint firstAttribute="width" constant="122" id="hma-Nc-70c"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Lettre verifiee">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Vérifier la lettre">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
                                 <connections>
                                     <action selector="verificationlettre:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NlK-sr-aSs"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eOM-wT-BXo">
-                                <rect key="frame" x="38" y="589" width="84" height="33"/>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Mot vérifiée">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="eOM-wT-BXo">
+                                <rect key="frame" x="38" y="593" width="105" height="32"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Vérifier le mot">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
                                 <connections>
                                     <action selector="verificationMot:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kV8-pR-81f"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4Wm-NS-Rjy">
-                                <rect key="frame" x="30" y="630" width="114" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="4Wm-NS-Rjy">
+                                <rect key="frame" x="38" y="630" width="123" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="Ghx-sb-563"/>
-                                    <constraint firstAttribute="width" constant="114" id="YBF-wW-A5m"/>
+                                    <constraint firstAttribute="width" constant="123" id="YBF-wW-A5m"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Grille vérifiée">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Vérifier la grille">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
                                 <connections>
                                     <action selector="verificationGrille:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ISo-af-VZU"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gWZ-FC-rQc">
-                                <rect key="frame" x="252" y="553" width="125" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gWZ-FC-rQc">
+                                <rect key="frame" x="252" y="558" width="125" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="Tdr-3T-3RG"/>
                                     <constraint firstAttribute="width" constant="125" id="o1G-NQ-sd3"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Lettre révélée">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Révéler la lettre">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
                                 <connections>
                                     <action selector="revelerLettre:" destination="BYZ-38-t0r" eventType="touchUpInside" id="i9k-tB-SfC"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="esR-Y6-TAS">
-                                <rect key="frame" x="277" y="589" width="100" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="esR-Y6-TAS">
+                                <rect key="frame" x="271" y="593" width="106" height="32"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="100" id="3SD-o9-OXV"/>
-                                    <constraint firstAttribute="height" constant="30" id="weB-UU-Gda"/>
+                                    <constraint firstAttribute="width" constant="106" id="3SD-o9-OXV"/>
+                                    <constraint firstAttribute="height" constant="32" id="weB-UU-Gda"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Mot révélé">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Révéler le mot">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
                                 <connections>
                                     <action selector="revelerMot:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7Np-Se-MIo"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l58-uS-ogP">
-                                <rect key="frame" x="267" y="630" width="110" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="l58-uS-ogP">
+                                <rect key="frame" x="259" y="628" width="118" height="32"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="110" id="3Ng-sG-nup"/>
-                                    <constraint firstAttribute="height" constant="30" id="k0Q-Xt-5Ld"/>
+                                    <constraint firstAttribute="width" constant="118" id="3Ng-sG-nup"/>
+                                    <constraint firstAttribute="height" constant="32" id="k0Q-Xt-5Ld"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Grille révélée">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Révéler la grille">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
                                 <connections>
                                     <action selector="revelerGrille:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nNT-si-BdU"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Horizontal:" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="g0T-KC-IRH">
-                                <rect key="frame" x="36" y="405" width="84.666666666666657" height="25"/>
-                                <fontDescription key="fontDescription" name="AppleGaramond-Bold" family="Apple Garamond" pointSize="15"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="H:" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="g0T-KC-IRH">
+                                <rect key="frame" x="36" y="408" width="23" height="23"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="20"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="R3X-3j-eJl">
-                                <rect key="frame" x="347" y="396" width="30" height="79"/>
-                                <fontDescription key="fontDescription" name="AppleGaramond-Bold" family="Apple Garamond" pointSize="60"/>
+                                <rect key="frame" x="347" y="397" width="30" height="79"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="60"/>
                                 <state key="normal" title="?">
                                     <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                 </state>
@@ -242,20 +522,30 @@
                                     <action selector="hideKeyBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DNn-NH-GGg"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IhJ-jx-sA1">
-                                <rect key="frame" x="20" y="698" width="374" height="33"/>
-                                <fontDescription key="fontDescription" name="AppleGaramond-BoldItalic" family="Apple Garamond" pointSize="18"/>
-                                <state key="normal" title="Effacer le tout">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="IhJ-jx-sA1">
+                                <rect key="frame" x="20" y="699" width="374" height="32"/>
+                                <state key="normal">
+                                    <attributedString key="attributedTitle">
+                                        <fragment content="Effacer le tout">
+                                            <attributes>
+                                                <color key="NSColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <font key="NSFont" size="18" name="TimesNewRomanPS-ItalicMT"/>
+                                                <integer key="NSUnderline" value="1"/>
+                                            </attributes>
+                                        </fragment>
+                                    </attributedString>
                                 </state>
+                                <connections>
+                                    <action selector="effacerLaGrille:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zXz-Fj-giv"/>
+                                </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="R1D-Mz-psN">
-                                <rect key="frame" x="122" y="437" width="140" height="35"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="wordWrap" numberOfLines="0" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="R1D-Mz-psN">
+                                <rect key="frame" x="62" y="440" width="196" height="35"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="35" id="UYv-Yc-I67"/>
-                                    <constraint firstAttribute="width" constant="140" id="V4c-1Z-6C0"/>
+                                    <constraint firstAttribute="width" constant="196" id="V4c-1Z-6C0"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" name="AppleGaramond-Italic" family="Apple Garamond" pointSize="15"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="15"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -264,45 +554,56 @@
                         <constraints>
                             <constraint firstItem="IhJ-jx-sA1" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="7fZ-hY-kDJ"/>
                             <constraint firstItem="srX-ab-cuh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="7qe-eI-474"/>
-                            <constraint firstItem="R1D-Mz-psN" firstAttribute="centerY" secondItem="SB3-oL-Qwo" secondAttribute="centerY" constant="3" id="AUO-g7-0Tn"/>
-                            <constraint firstItem="4Wm-NS-Rjy" firstAttribute="leading" secondItem="SB3-oL-Qwo" secondAttribute="leading" constant="-9" id="CeZ-VE-vAm"/>
+                            <constraint firstItem="R1D-Mz-psN" firstAttribute="centerY" secondItem="SB3-oL-Qwo" secondAttribute="centerY" constant="1" id="AUO-g7-0Tn"/>
                             <constraint firstItem="g0T-KC-IRH" firstAttribute="leading" secondItem="srX-ab-cuh" secondAttribute="leading" constant="-1" id="DoN-N5-auB"/>
                             <constraint firstItem="R3X-3j-eJl" firstAttribute="leading" secondItem="C4v-kR-oXh" secondAttribute="trailing" constant="8" id="EFm-XX-scS"/>
-                            <constraint firstItem="SB3-oL-Qwo" firstAttribute="top" secondItem="g0T-KC-IRH" secondAttribute="bottom" constant="5" id="F54-hY-emF"/>
-                            <constraint firstItem="SB3-oL-Qwo" firstAttribute="leading" secondItem="srX-ab-cuh" secondAttribute="leading" constant="2" id="Fdp-nV-es1"/>
-                            <constraint firstItem="eOM-wT-BXo" firstAttribute="leading" secondItem="SB3-oL-Qwo" secondAttribute="leading" constant="-1" id="JNf-Me-xPu"/>
-                            <constraint firstItem="SB3-oL-Qwo" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="63:736" constant="19.999999999999993" id="KGG-cY-PPC"/>
+                            <constraint firstItem="SB3-oL-Qwo" firstAttribute="top" secondItem="g0T-KC-IRH" secondAttribute="bottom" constant="14" id="F54-hY-emF"/>
+                            <constraint firstItem="SB3-oL-Qwo" firstAttribute="leading" secondItem="srX-ab-cuh" secondAttribute="leading" id="Fdp-nV-es1"/>
+                            <constraint firstItem="esR-Y6-TAS" firstAttribute="trailing" secondItem="gWZ-FC-rQc" secondAttribute="trailing" id="KUU-rc-5lY"/>
                             <constraint firstItem="srX-ab-cuh" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="2" id="KbA-Sh-Bl9"/>
                             <constraint firstItem="C4v-kR-oXh" firstAttribute="top" secondItem="srX-ab-cuh" secondAttribute="bottom" constant="4" id="KcH-97-aR7"/>
-                            <constraint firstItem="g0T-KC-IRH" firstAttribute="top" secondItem="srX-ab-cuh" secondAttribute="bottom" constant="-3" id="OMc-Au-Z8N"/>
-                            <constraint firstItem="GV4-fq-NDH" firstAttribute="leading" secondItem="SB3-oL-Qwo" secondAttribute="leading" constant="-9" id="Obu-sE-JnW"/>
-                            <constraint firstItem="R1D-Mz-psN" firstAttribute="leading" secondItem="SB3-oL-Qwo" secondAttribute="trailing" id="OkK-W0-Fg4"/>
-                            <constraint firstItem="R3X-3j-eJl" firstAttribute="centerY" secondItem="C4v-kR-oXh" secondAttribute="centerY" constant="0.5" id="P0G-ey-blH"/>
-                            <constraint firstItem="l58-uS-ogP" firstAttribute="trailing" secondItem="srX-ab-cuh" secondAttribute="trailing" id="QT8-QN-Fea"/>
+                            <constraint firstItem="g0T-KC-IRH" firstAttribute="top" secondItem="srX-ab-cuh" secondAttribute="bottom" constant="2" id="OMc-Au-Z8N"/>
+                            <constraint firstItem="R1D-Mz-psN" firstAttribute="leading" secondItem="SB3-oL-Qwo" secondAttribute="trailing" constant="5" id="OkK-W0-Fg4"/>
+                            <constraint firstItem="R3X-3j-eJl" firstAttribute="centerY" secondItem="C4v-kR-oXh" secondAttribute="centerY" constant="1.5" id="P0G-ey-blH"/>
                             <constraint firstItem="R3X-3j-eJl" firstAttribute="trailing" secondItem="srX-ab-cuh" secondAttribute="trailing" id="Uxw-m7-wMx"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="IhJ-jx-sA1" secondAttribute="bottom" constant="5" id="XPe-sf-3EZ"/>
-                            <constraint firstItem="4Wm-NS-Rjy" firstAttribute="top" secondItem="eOM-wT-BXo" secondAttribute="bottom" constant="8" id="a1u-1k-zOs"/>
+                            <constraint firstItem="4Wm-NS-Rjy" firstAttribute="top" secondItem="eOM-wT-BXo" secondAttribute="bottom" constant="5" id="a1u-1k-zOs"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="srX-ab-cuh" secondAttribute="bottom" constant="330" id="aWG-uT-A3w"/>
-                            <constraint firstItem="R1D-Mz-psN" firstAttribute="top" secondItem="sQ3-gs-TTF" secondAttribute="bottom" constant="-4" id="bZq-X4-vXS"/>
-                            <constraint firstItem="gWZ-FC-rQc" firstAttribute="bottom" secondItem="GV4-fq-NDH" secondAttribute="bottom" constant="2" id="ddQ-7U-0Z3"/>
-                            <constraint firstItem="esR-Y6-TAS" firstAttribute="trailing" secondItem="srX-ab-cuh" secondAttribute="trailing" id="edz-gb-5fk"/>
-                            <constraint firstItem="eOM-wT-BXo" firstAttribute="top" secondItem="GV4-fq-NDH" secondAttribute="bottom" constant="8" id="fp9-ZY-qVh"/>
+                            <constraint firstItem="gWZ-FC-rQc" firstAttribute="bottom" secondItem="GV4-fq-NDH" secondAttribute="bottom" id="ddQ-7U-0Z3"/>
+                            <constraint firstItem="GV4-fq-NDH" firstAttribute="leading" secondItem="srX-ab-cuh" secondAttribute="leading" constant="1" id="eB9-H7-4tV"/>
+                            <constraint firstItem="4Wm-NS-Rjy" firstAttribute="leading" secondItem="GV4-fq-NDH" secondAttribute="leading" id="edG-Eh-OqG"/>
+                            <constraint firstItem="eOM-wT-BXo" firstAttribute="top" secondItem="GV4-fq-NDH" secondAttribute="bottom" constant="5" id="fp9-ZY-qVh"/>
                             <constraint firstItem="gWZ-FC-rQc" firstAttribute="trailing" secondItem="srX-ab-cuh" secondAttribute="trailing" id="i1E-nj-vnh"/>
-                            <constraint firstItem="sQ3-gs-TTF" firstAttribute="leading" secondItem="g0T-KC-IRH" secondAttribute="trailing" constant="1.3333333333333428" id="ivG-eV-zRq"/>
+                            <constraint firstItem="sQ3-gs-TTF" firstAttribute="leading" secondItem="g0T-KC-IRH" secondAttribute="trailing" constant="5" id="ivG-eV-zRq"/>
                             <constraint firstItem="l58-uS-ogP" firstAttribute="bottom" secondItem="4Wm-NS-Rjy" secondAttribute="bottom" id="lja-MD-JgU"/>
+                            <constraint firstItem="eOM-wT-BXo" firstAttribute="leading" secondItem="GV4-fq-NDH" secondAttribute="leading" id="mMY-sy-cTd"/>
                             <constraint firstAttribute="trailing" secondItem="IhJ-jx-sA1" secondAttribute="trailing" constant="20" id="ns9-J1-1IB"/>
+                            <constraint firstItem="l58-uS-ogP" firstAttribute="trailing" secondItem="gWZ-FC-rQc" secondAttribute="trailing" id="oUH-pM-NMK"/>
                             <constraint firstItem="sQ3-gs-TTF" firstAttribute="centerY" secondItem="g0T-KC-IRH" secondAttribute="centerY" constant="2" id="rOG-cl-md8"/>
                             <constraint firstItem="IhJ-jx-sA1" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20" id="rhl-pz-jSo"/>
-                            <constraint firstItem="g0T-KC-IRH" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="21:184" id="tKu-yS-kJG"/>
-                            <constraint firstItem="esR-Y6-TAS" firstAttribute="bottom" secondItem="eOM-wT-BXo" secondAttribute="bottom" constant="-3" id="uD3-GP-FuE"/>
-                            <constraint firstItem="GV4-fq-NDH" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="198" id="vLQ-jF-ydc"/>
+                            <constraint firstItem="esR-Y6-TAS" firstAttribute="bottom" secondItem="eOM-wT-BXo" secondAttribute="bottom" id="uD3-GP-FuE"/>
+                            <constraint firstItem="GV4-fq-NDH" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="205" id="vLQ-jF-ydc"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="PFT-VL-u9T"/>
                     <connections>
+                        <outlet property="VTop" destination="F54-hY-emF" id="6wz-mx-HL2"/>
+                        <outlet property="alignementPoint" destination="Uxw-m7-wMx" id="3IA-O9-tBk"/>
+                        <outlet property="bottomEffacerTout" destination="XPe-sf-3EZ" id="GT2-3d-2JN"/>
+                        <outlet property="centreVerifierLettre" destination="vLQ-jF-ydc" id="eOJ-tk-yjh"/>
                         <outlet property="collectionView" destination="srX-ab-cuh" id="jpy-h1-JQK"/>
                         <outlet property="definitionH" destination="sQ3-gs-TTF" id="SQP-rv-Uk0"/>
+                        <outlet property="definitionHWidth" destination="BIV-l0-Jiw" id="H0U-r7-QQ4"/>
                         <outlet property="definitionV" destination="R1D-Mz-psN" id="ilH-xj-TWF"/>
+                        <outlet property="definitionVWidth" destination="V4c-1Z-6C0" id="qDe-Y3-Zf4"/>
+                        <outlet property="distanceEntre" destination="EFm-XX-scS" id="MpH-tl-xlI"/>
+                        <outlet property="iconeHVconstraint" destination="KcH-97-aR7" id="2Fl-C6-xJt"/>
+                        <outlet property="leadingVerifierLettre" destination="eB9-H7-4tV" id="sNA-Og-NQw"/>
+                        <outlet property="pointInterrogation" destination="R3X-3j-eJl" id="qsM-xh-6hR"/>
+                        <outlet property="topH" destination="OMc-Au-Z8N" id="vG9-bx-Ctm"/>
+                        <outlet property="topVérifierGrille" destination="a1u-1k-zOs" id="vfv-el-NIq"/>
+                        <outlet property="topVérifierMot" destination="fp9-ZY-qVh" id="0SY-Ht-YF5"/>
+                        <outlet property="trailingRevelerLettre" destination="i1E-nj-vnh" id="6dv-KG-jRn"/>
                         <outlet property="verticalPosition" destination="aWG-uT-A3w" id="dXk-TD-zs0"/>
                     </connections>
                 </viewController>
@@ -313,7 +614,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="3853.6231884057975" y="136.95652173913044"/>
+            <point key="canvasLocation" x="5070" y="135"/>
         </scene>
         <!--Choix du Mots Croises-->
         <scene sceneID="CSf-YJ-Cnh">
@@ -333,8 +634,29 @@
             </objects>
             <point key="canvasLocation" x="2147.826086956522" y="135.32608695652175"/>
         </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="x9Z-Hg-ynY">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="O7h-Mm-Imi" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="Mvd-iy-IB1">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="YW3-HX-Tpa" kind="relationship" relationship="rootViewController" id="iPC-fh-KRb"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="9RY-p1-ml2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3031.884057971015" y="832.33695652173924"/>
+        </scene>
     </scenes>
     <resources>
+        <image name="Essai gratuit" width="1275" height="1275"/>
         <image name="Icône horizontal-vertical" width="261" height="252"/>
+        <image name="achat" width="1275" height="1275"/>
+        <image name="icône mot croisés" width="245" height="245"/>
     </resources>
 </document>
