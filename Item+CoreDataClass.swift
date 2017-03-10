@@ -2,7 +2,7 @@
 //  Item+CoreDataClass.swift
 //  Mots-Croisés-Classiques
 //
-//  Created by Normand Martin on 2017-02-23.
+//  Created by Normand Martin on 2017-03-09.
 //  Copyright © 2017 Normand Martin. All rights reserved.
 //
 

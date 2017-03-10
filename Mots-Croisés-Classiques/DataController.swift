@@ -9,11 +9,9 @@
 import Foundation
 import CoreData
 open class DataController: NSObject {
-    
+ 
     static let sharedInstance = DataController()
-    
     private override init() {}
-    
     fileprivate lazy var applicationDocumentDirectory: URL = {
         let urls = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)
         return urls[(urls.endIndex - 1)]

@@ -11,38 +11,6 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Choix Du Mots Croises View Controller-->
-        <scene sceneID="R41-bK-BlF">
-            <objects>
-                <tableViewController id="DSa-rq-Ql6" customClass="ChoixDuMotsCroisesViewController" customModule="Mots_Croise_s_Classiques" customModuleProvider="target" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="y3I-We-uqY">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="Ytu-yE-tvV">
-                                <rect key="frame" x="0.0" y="28" width="414" height="44"/>
-                                <autoresizingMask key="autoresizingMask"/>
-                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Ytu-yE-tvV" id="Bes-3M-Rm8">
-                                    <rect key="frame" x="0.0" y="0.0" width="414" height="43"/>
-                                    <autoresizingMask key="autoresizingMask"/>
-                                </tableViewCellContentView>
-                            </tableViewCell>
-                        </prototypes>
-                        <connections>
-                            <outlet property="dataSource" destination="DSa-rq-Ql6" id="qcW-Xk-HHe"/>
-                            <outlet property="delegate" destination="DSa-rq-Ql6" id="CiS-U9-9Px"/>
-                        </connections>
-                    </tableView>
-                    <navigationItem key="navigationItem" id="dx2-jc-m34"/>
-                    <connections>
-                        <segue destination="BYZ-38-t0r" kind="show" identifier="showMotsCroises" id="i4q-8w-g3x"/>
-                    </connections>
-                </tableViewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="8BO-8n-mlZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="4304" y="158"/>
-        </scene>
         <!--Choix De Griles View Controller-->
         <scene sceneID="s6m-ee-fF2">
             <objects>
@@ -56,7 +24,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Essai gratuit" translatesAutoresizingMaskIntoConstraints="NO" id="j8L-C8-jqY">
-                                <rect key="frame" x="284" y="98" width="70" height="70"/>
+                                <rect key="frame" x="284" y="114" width="70" height="70"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="j8L-C8-jqY" secondAttribute="height" multiplier="1:1" id="8E6-cg-hWH"/>
@@ -65,8 +33,8 @@
                                     <outletCollection property="gestureRecognizers" destination="q15-cP-7kF" appends="YES" id="StO-2c-ms9"/>
                                 </connections>
                             </imageView>
-                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="CjY-Wo-GOk">
-                                <rect key="frame" x="284" y="203" width="70" height="70"/>
+                            <imageView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="CjY-Wo-GOk">
+                                <rect key="frame" x="284" y="211" width="70" height="70"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="CjY-Wo-GOk" secondAttribute="height" multiplier="1:1" id="yU5-E5-aYw"/>
@@ -75,8 +43,8 @@
                                     <outletCollection property="gestureRecognizers" destination="THH-wW-xwk" appends="YES" id="UFg-WR-aCN"/>
                                 </connections>
                             </imageView>
-                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="FXv-96-Ktb">
-                                <rect key="frame" x="284" y="413" width="70" height="70"/>
+                            <imageView hidden="YES" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="FXv-96-Ktb">
+                                <rect key="frame" x="284" y="405" width="70" height="70"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="FXv-96-Ktb" secondAttribute="height" multiplier="1:1" id="HY9-Ea-1Xf"/>
@@ -85,8 +53,8 @@
                                     <outletCollection property="gestureRecognizers" destination="HIf-tv-cBr" appends="YES" id="dg4-UT-pqi"/>
                                 </connections>
                             </imageView>
-                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="EUO-D2-lZP">
-                                <rect key="frame" x="284" y="518" width="70" height="70"/>
+                            <imageView hidden="YES" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="EUO-D2-lZP">
+                                <rect key="frame" x="284" y="502" width="70" height="70"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="EUO-D2-lZP" secondAttribute="height" multiplier="1:1" id="bZ7-KX-pQI"/>
@@ -95,7 +63,7 @@
                                     <outletCollection property="gestureRecognizers" destination="BqU-wV-l08" appends="YES" id="dUB-FI-TBw"/>
                                 </connections>
                             </imageView>
-                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="cGz-8E-GlL">
+                            <imageView hidden="YES" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="cGz-8E-GlL">
                                 <rect key="frame" x="284" y="308" width="70" height="70"/>
                                 <gestureRecognizers/>
                                 <constraints>
@@ -105,8 +73,8 @@
                                     <outletCollection property="gestureRecognizers" destination="Fmk-om-abS" appends="YES" id="Wbh-fJ-mYw"/>
                                 </connections>
                             </imageView>
-                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="Efg-Yb-0n7">
-                                <rect key="frame" x="284" y="623" width="70" height="70"/>
+                            <imageView hidden="YES" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="achat" translatesAutoresizingMaskIntoConstraints="NO" id="Efg-Yb-0n7">
+                                <rect key="frame" x="284" y="599" width="70" height="70"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="Efg-Yb-0n7" secondAttribute="height" multiplier="1:1" id="tGV-hz-pDS"/>
@@ -115,104 +83,223 @@
                                     <outletCollection property="gestureRecognizers" destination="aAv-0X-oMT" appends="YES" id="Lem-nn-KSB"/>
                                 </connections>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 10 à 20" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w0P-Lf-2Mo">
-                                <rect key="frame" x="32" y="333" width="223" height="21"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="21" id="84P-Ft-F44"/>
-                                    <constraint firstAttribute="width" constant="223" id="JK9-vp-LyJ"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 20 à 30" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LNV-5l-4DD">
-                                <rect key="frame" x="32" y="438" width="223" height="21"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="223" id="2cq-wM-4k1"/>
-                                    <constraint firstAttribute="height" constant="21" id="y3f-cA-cxd"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 30 à 40" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nN8-Z7-M6P">
-                                <rect key="frame" x="32" y="543" width="223" height="21"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="21" id="12H-jI-jeV"/>
-                                    <constraint firstAttribute="width" constant="223" id="3Aq-bg-oGX"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 40 à 50" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i2c-i8-BAH">
-                                <rect key="frame" x="32" y="648" width="223" height="21"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="21" id="OYL-qu-qoQ"/>
-                                    <constraint firstAttribute="width" constant="223" id="XKY-Hf-hqY"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Trois grilles gratuites!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bty-Q5-imL">
-                                <rect key="frame" x="32" y="123" width="223" height="21"/>
+                                <rect key="frame" x="32" y="139" width="223" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="223" id="OpX-AC-bU0"/>
                                     <constraint firstAttribute="height" constant="21" id="zX8-BI-r7r"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="18"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles 1 à 10" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jay-qs-9FW">
-                                <rect key="frame" x="32" y="228" width="223" height="21"/>
+                            <button contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="7oX-GX-2MX">
+                                <rect key="frame" x="289.66666666666669" y="321" width="60" height="45"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="21" id="jA1-SV-mgz"/>
-                                    <constraint firstAttribute="width" constant="223" id="sFf-2D-qvO"/>
+                                    <constraint firstAttribute="width" constant="60" id="YMx-qL-dc6"/>
+                                    <constraint firstAttribute="height" constant="45" id="aMf-Ic-pK7"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="15"/>
+                                <color key="tintColor" white="0.86088966840000003" alpha="1" colorSpace="calibratedWhite"/>
+                                <state key="normal" title=" Acheter $1.39">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buy11a20:" destination="YW3-HX-Tpa" eventType="touchUpInside" id="uN8-IF-7Vp"/>
+                                </connections>
+                            </button>
+                            <button contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zAH-St-BwD">
+                                <rect key="frame" x="289" y="418" width="60" height="45"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="45" id="5fz-ut-Inx"/>
+                                    <constraint firstAttribute="width" constant="60" id="gem-Xk-qh2"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="15"/>
+                                <state key="normal" title="Acheter $1.39">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buy21a30:" destination="YW3-HX-Tpa" eventType="touchUpInside" id="9iF-9X-jII"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zCn-kl-Cxj">
+                                <rect key="frame" x="289.33333333333331" y="514.66666666666663" width="60" height="45"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="EsE-7Z-uty"/>
+                                    <constraint firstAttribute="height" constant="45" id="ann-Xe-Iu0"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="15"/>
+                                <state key="normal" title="Acheter $1.39">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buy1a40:" destination="YW3-HX-Tpa" eventType="touchUpInside" id="05F-ML-9rN"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  1 à 10 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eh8-0z-HR4">
+                                <rect key="frame" x="32" y="235.66666666666666" width="200" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="FNm-SJ-ZmJ"/>
+                                    <constraint firstAttribute="height" constant="20" id="uKY-9Z-Pwr"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="18"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="e7w-mn-D4o">
+                                <rect key="frame" x="289.33333333333331" y="223.66666666666669" width="60" height="45.000000000000057"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="eD6-hC-WPF"/>
+                                    <constraint firstAttribute="height" constant="45" id="uLU-eX-rWc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="15"/>
+                                <color key="tintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                <state key="normal" title="Acheter   $1.39!"/>
+                                <connections>
+                                    <action selector="buy1a10:" destination="YW3-HX-Tpa" eventType="touchUpInside" id="a0r-uc-gbi"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  11 à 20 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="luh-X9-uDr">
+                                <rect key="frame" x="32" y="333" width="200" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="XpD-4e-Ud4"/>
+                                    <constraint firstAttribute="height" constant="20" id="scg-iw-ia0"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  21 à 30 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oI6-OV-6tu">
+                                <rect key="frame" x="32" y="429" width="200" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="22" id="Qhf-7p-TLA"/>
+                                    <constraint firstAttribute="width" constant="200" id="Qtk-XB-AtG"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  31 à 40 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GxT-tI-cX7">
+                                <rect key="frame" x="32" y="526" width="200" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="22" id="DfI-gL-onx"/>
+                                    <constraint firstAttribute="width" constant="200" id="Mjg-fV-ihm"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  41 à 50 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bsc-1d-JBQ">
+                                <rect key="frame" x="32" y="623" width="200" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="fKx-VR-xpL"/>
+                                    <constraint firstAttribute="height" constant="22" id="t5M-jR-0IQ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPSMT" family="Times New Roman" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lmo-7N-uMY">
+                                <rect key="frame" x="289.66666666666669" y="611.66666666666663" width="60" height="45"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="45" id="Qgt-fL-SJI"/>
+                                    <constraint firstAttribute="width" constant="60" id="X1V-sw-aoY"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="15"/>
+                                <state key="normal" title="Acheter $1.39!">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buy41a50:" destination="YW3-HX-Tpa" eventType="touchUpInside" id="dSg-5P-keb"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sqK-OA-F1B">
+                                <rect key="frame" x="132" y="706" width="150" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="150" id="25C-d2-6J6"/>
+                                    <constraint firstAttribute="height" constant="30" id="HfV-gC-UAc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="16"/>
+                                <state key="normal" title="Rétablir les achats">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="rétablirAchats:" destination="YW3-HX-Tpa" eventType="touchUpInside" id="Wfh-NH-qmb"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <gestureRecognizers/>
                         <constraints>
-                            <constraint firstItem="FXv-96-Ktb" firstAttribute="top" secondItem="cGz-8E-GlL" secondAttribute="bottom" constant="35" id="1iD-rH-DnO"/>
+                            <constraint firstItem="FXv-96-Ktb" firstAttribute="top" secondItem="cGz-8E-GlL" secondAttribute="bottom" constant="27" id="1iD-rH-DnO"/>
+                            <constraint firstItem="zAH-St-BwD" firstAttribute="centerX" secondItem="FXv-96-Ktb" secondAttribute="centerX" id="1nF-Pc-z4o"/>
+                            <constraint firstItem="lmo-7N-uMY" firstAttribute="centerY" secondItem="Bsc-1d-JBQ" secondAttribute="centerY" id="2QA-W3-D6P"/>
                             <constraint firstItem="EUO-D2-lZP" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="39g-TU-z3E"/>
                             <constraint firstItem="Efg-Yb-0n7" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="3vz-2G-EDb"/>
-                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="centerY" secondItem="i2c-i8-BAH" secondAttribute="centerY" id="52b-0U-8Kp"/>
-                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="top" secondItem="EUO-D2-lZP" secondAttribute="bottom" constant="35" id="80o-DM-eHs"/>
-                            <constraint firstItem="i2c-i8-BAH" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="DqI-BE-ho9"/>
+                            <constraint firstItem="Efg-Yb-0n7" firstAttribute="top" secondItem="EUO-D2-lZP" secondAttribute="bottom" constant="27" id="80o-DM-eHs"/>
+                            <constraint firstItem="eh8-0z-HR4" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="87b-1D-R0R"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="centerY" secondItem="e7w-mn-D4o" secondAttribute="centerY" id="9aZ-3L-tvg"/>
+                            <constraint firstItem="7oX-GX-2MX" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="Asv-pB-T40"/>
+                            <constraint firstItem="GxT-tI-cX7" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="EcB-fH-2pg"/>
+                            <constraint firstItem="zAH-St-BwD" firstAttribute="centerY" secondItem="oI6-OV-6tu" secondAttribute="centerY" id="F5K-ef-jVN"/>
                             <constraint firstItem="EUO-D2-lZP" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="H2g-O8-aXW"/>
                             <constraint firstItem="CjY-Wo-GOk" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="H33-ff-tCZ"/>
-                            <constraint firstItem="w0P-Lf-2Mo" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="Jj8-jl-N8H"/>
                             <constraint firstItem="cGz-8E-GlL" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="Mhp-3P-rfP"/>
-                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="top" secondItem="j8L-C8-jqY" secondAttribute="bottom" constant="35" id="Ng9-Ir-RkE"/>
-                            <constraint firstItem="EUO-D2-lZP" firstAttribute="centerY" secondItem="nN8-Z7-M6P" secondAttribute="centerY" id="Ps1-NT-CS3"/>
-                            <constraint firstItem="LNV-5l-4DD" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="Qh0-Dp-Di1"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="top" secondItem="j8L-C8-jqY" secondAttribute="bottom" constant="27" id="Ng9-Ir-RkE"/>
+                            <constraint firstItem="lmo-7N-uMY" firstAttribute="centerY" secondItem="Efg-Yb-0n7" secondAttribute="centerY" id="Ued-lX-Jbx"/>
+                            <constraint firstItem="lmo-7N-uMY" firstAttribute="centerX" secondItem="Efg-Yb-0n7" secondAttribute="centerX" id="V6Z-ld-mj5"/>
                             <constraint firstItem="cGz-8E-GlL" firstAttribute="centerX" secondItem="rJq-eo-9Q5" secondAttribute="centerX" constant="112" id="Wdc-SG-15Z"/>
+                            <constraint firstItem="xGT-OM-Xdh" firstAttribute="top" secondItem="sqK-OA-F1B" secondAttribute="bottom" id="WuR-rt-cPK"/>
+                            <constraint firstItem="7oX-GX-2MX" firstAttribute="centerY" secondItem="luh-X9-uDr" secondAttribute="centerY" id="XdW-eo-T2x"/>
                             <constraint firstItem="cGz-8E-GlL" firstAttribute="centerX" secondItem="j8L-C8-jqY" secondAttribute="centerX" id="ZPB-S6-FUd"/>
-                            <constraint firstItem="FXv-96-Ktb" firstAttribute="centerY" secondItem="LNV-5l-4DD" secondAttribute="centerY" id="ZRk-oO-Q5J"/>
+                            <constraint firstItem="zCn-kl-Cxj" firstAttribute="centerY" secondItem="EUO-D2-lZP" secondAttribute="centerY" id="bLS-hb-5ZI"/>
+                            <constraint firstItem="7oX-GX-2MX" firstAttribute="centerY" secondItem="cGz-8E-GlL" secondAttribute="centerY" id="cXk-hR-DHT"/>
+                            <constraint firstItem="zCn-kl-Cxj" firstAttribute="centerX" secondItem="EUO-D2-lZP" secondAttribute="centerX" id="chh-7a-aja"/>
+                            <constraint firstItem="oI6-OV-6tu" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="dHc-F4-Rv6"/>
                             <constraint firstItem="FXv-96-Ktb" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="gha-9t-f19"/>
-                            <constraint firstItem="nN8-Z7-M6P" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="hqX-Ds-wcW"/>
-                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="centerY" secondItem="Jay-qs-9FW" secondAttribute="centerY" id="lUN-da-LYq"/>
+                            <constraint firstItem="luh-X9-uDr" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="hWc-ws-v9l"/>
+                            <constraint firstItem="Bsc-1d-JBQ" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="mv4-NE-wPQ"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="centerY" secondItem="eh8-0z-HR4" secondAttribute="centerY" id="oOU-7d-39w"/>
                             <constraint firstItem="j8L-C8-jqY" firstAttribute="centerY" secondItem="Bty-Q5-imL" secondAttribute="centerY" id="psF-08-PVg"/>
                             <constraint firstItem="cGz-8E-GlL" firstAttribute="centerY" secondItem="rJq-eo-9Q5" secondAttribute="centerY" constant="-25" id="qrZ-Oo-MSg"/>
+                            <constraint firstItem="zAH-St-BwD" firstAttribute="centerY" secondItem="FXv-96-Ktb" secondAttribute="centerY" id="rCO-C2-8hF"/>
+                            <constraint firstItem="sqK-OA-F1B" firstAttribute="centerX" secondItem="rJq-eo-9Q5" secondAttribute="centerX" id="rjs-Qe-zsk"/>
+                            <constraint firstItem="zCn-kl-Cxj" firstAttribute="centerY" secondItem="GxT-tI-cX7" secondAttribute="centerY" id="rrd-5e-b6l"/>
+                            <constraint firstItem="CjY-Wo-GOk" firstAttribute="centerX" secondItem="e7w-mn-D4o" secondAttribute="centerX" id="sLl-05-8g8"/>
                             <constraint firstItem="Efg-Yb-0n7" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="sgu-yC-WaG"/>
-                            <constraint firstItem="cGz-8E-GlL" firstAttribute="centerY" secondItem="w0P-Lf-2Mo" secondAttribute="centerY" id="skM-mZ-0eh"/>
                             <constraint firstItem="FXv-96-Ktb" firstAttribute="centerX" secondItem="cGz-8E-GlL" secondAttribute="centerX" id="thL-Cx-FKj"/>
-                            <constraint firstItem="cGz-8E-GlL" firstAttribute="top" secondItem="CjY-Wo-GOk" secondAttribute="bottom" constant="35" id="w29-HX-qo8"/>
+                            <constraint firstItem="cGz-8E-GlL" firstAttribute="top" secondItem="CjY-Wo-GOk" secondAttribute="bottom" constant="27" id="w29-HX-qo8"/>
                             <constraint firstItem="j8L-C8-jqY" firstAttribute="width" secondItem="rJq-eo-9Q5" secondAttribute="height" multiplier="35:368" id="xZe-in-tqh"/>
-                            <constraint firstItem="Jay-qs-9FW" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="yhd-5a-5zV"/>
-                            <constraint firstItem="EUO-D2-lZP" firstAttribute="top" secondItem="FXv-96-Ktb" secondAttribute="bottom" constant="35" id="ypW-Ny-m5u"/>
+                            <constraint firstItem="EUO-D2-lZP" firstAttribute="top" secondItem="FXv-96-Ktb" secondAttribute="bottom" constant="27" id="ypW-Ny-m5u"/>
                             <constraint firstItem="cGz-8E-GlL" firstAttribute="centerX" secondItem="CjY-Wo-GOk" secondAttribute="centerX" id="ysE-nx-K81"/>
                             <constraint firstItem="Bty-Q5-imL" firstAttribute="leading" secondItem="rJq-eo-9Q5" secondAttribute="leadingMargin" constant="12" id="zxo-QU-EWg"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="9ax-wd-caW"/>
                     <connections>
+                        <outlet property="achat11a20" destination="7oX-GX-2MX" id="6t9-gH-1in"/>
+                        <outlet property="achat1a10" destination="e7w-mn-D4o" id="Ofm-Hs-nvp"/>
+                        <outlet property="achat21a30" destination="zAH-St-BwD" id="3aW-jX-RUl"/>
+                        <outlet property="achat31a40" destination="zCn-kl-Cxj" id="a5f-fr-s8I"/>
+                        <outlet property="achat41a50" destination="lmo-7N-uMY" id="Oth-N1-S4K"/>
+                        <outlet property="centerxGrille" destination="Wdc-SG-15Z" id="Su0-JB-8FG"/>
+                        <outlet property="grilles11a20" destination="cGz-8E-GlL" id="uqW-Yu-HnL"/>
+                        <outlet property="grilles1a10" destination="CjY-Wo-GOk" id="l2D-4o-VDI"/>
+                        <outlet property="grilles21a30" destination="FXv-96-Ktb" id="y1p-Fw-n6Y"/>
+                        <outlet property="grilles31a40" destination="EUO-D2-lZP" id="WJF-ep-lO7"/>
+                        <outlet property="grilles41a50" destination="Efg-Yb-0n7" id="ljD-4t-4XN"/>
+                        <outlet property="grillesGratuites" destination="j8L-C8-jqY" id="edu-NP-UuD"/>
+                        <outlet property="label1a10" destination="eh8-0z-HR4" id="yzf-Jc-Ppm"/>
+                        <outlet property="lable11a20" destination="luh-X9-uDr" id="t5W-pl-cxS"/>
+                        <outlet property="lable41a50" destination="Bsc-1d-JBQ" id="ZMY-zd-nEb"/>
+                        <outlet property="lablel21a30" destination="oI6-OV-6tu" id="0xI-jW-Jfb"/>
+                        <outlet property="lablel31a40" destination="GxT-tI-cX7" id="cvS-si-uoM"/>
+                        <outlet property="retablir" destination="sqK-OA-F1B" id="L6a-1f-Lyi"/>
                         <segue destination="oKx-ez-YYN" kind="show" identifier="showDetailMotsCroises" id="96f-C9-agh"/>
                     </connections>
                 </viewController>
@@ -248,7 +335,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="3939.130434782609" y="832.33695652173924"/>
+            <point key="canvasLocation" x="2521.739130434783" y="-20.380434782608699"/>
         </scene>
         <!--Detail Mots Croises-->
         <scene sceneID="82l-01-nHd">
@@ -259,7 +346,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="ePO-mE-LTs" imageView="EuJ-HW-1gq" style="IBUITableViewCellStyleDefault" id="yrm-nH-J7f">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="ePO-mE-LTs" detailTextLabel="RyE-f7-A3J" imageView="EuJ-HW-1gq" style="IBUITableViewCellStyleSubtitle" id="yrm-nH-J7f">
                                 <rect key="frame" x="0.0" y="28" width="414" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="yrm-nH-J7f" id="B9T-LF-GxE">
@@ -267,18 +354,26 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ePO-mE-LTs">
-                                            <rect key="frame" x="73" y="0.0" width="326" height="43"/>
+                                            <rect key="frame" x="65" y="4" width="34" height="21"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <nil key="textColor"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="icône mot croisés" id="EuJ-HW-1gq">
-                                            <rect key="frame" x="15" y="0.0" width="43" height="43"/>
+                                        <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="icône mot croisés-1" id="EuJ-HW-1gq">
+                                            <rect key="frame" x="15" y="0.0" width="35" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </imageView>
+                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Subtitle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="RyE-f7-A3J">
+                                            <rect key="frame" x="65" y="25" width="44" height="15"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                            <nil key="textColor"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -286,10 +381,13 @@
                             <outlet property="delegate" destination="oKx-ez-YYN" id="Bh8-06-2ol"/>
                         </connections>
                     </tableView>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="show" identifier="showMotsCroises" id="iv6-7L-ouc"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="66h-tO-o1B" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4868" y="832"/>
+            <point key="canvasLocation" x="3442" y="-20"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -605,34 +703,18 @@
                         <outlet property="topVérifierMot" destination="fp9-ZY-qVh" id="0SY-Ht-YF5"/>
                         <outlet property="trailingRevelerLettre" destination="i1E-nj-vnh" id="6dv-KG-jRn"/>
                         <outlet property="verticalPosition" destination="aWG-uT-A3w" id="dXk-TD-zs0"/>
+                        <segue destination="Shs-O8-Kj7" kind="unwind" identifier="unwindDetailsMotsCroises" unwindAction="unwindToVCWithSegue:" id="46s-lf-q2j"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <exit id="Shs-O8-Kj7" userLabel="Exit" sceneMemberID="exit"/>
                 <tapGestureRecognizer id="ScJ-fH-BcI">
                     <connections>
                         <action selector="horizontalVertical:" destination="BYZ-38-t0r" id="7NT-fL-wzX"/>
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="5070" y="135"/>
-        </scene>
-        <!--Choix du Mots Croises-->
-        <scene sceneID="CSf-YJ-Cnh">
-            <objects>
-                <navigationController title="Choix du Mots Croises" automaticallyAdjustsScrollViewInsets="NO" id="Nt7-Ce-Buf" sceneMemberID="viewController">
-                    <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="vfi-0v-G1N">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </navigationBar>
-                    <nil name="viewControllers"/>
-                    <connections>
-                        <segue destination="DSa-rq-Ql6" kind="relationship" relationship="rootViewController" id="yjM-Fn-iFz"/>
-                    </connections>
-                </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="27F-DD-CKw" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2147.826086956522" y="135.32608695652175"/>
+            <point key="canvasLocation" x="4346" y="-20"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="x9Z-Hg-ynY">
@@ -650,13 +732,13 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9RY-p1-ml2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3031.884057971015" y="832.33695652173924"/>
+            <point key="canvasLocation" x="1594" y="-19"/>
         </scene>
     </scenes>
     <resources>
         <image name="Essai gratuit" width="1275" height="1275"/>
         <image name="Icône horizontal-vertical" width="261" height="252"/>
         <image name="achat" width="1275" height="1275"/>
-        <image name="icône mot croisés" width="245" height="245"/>
+        <image name="icône mot croisés-1" width="733" height="913"/>
     </resources>
 </document>

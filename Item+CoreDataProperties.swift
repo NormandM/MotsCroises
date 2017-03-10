@@ -2,7 +2,7 @@
 //  Item+CoreDataProperties.swift
 //  Mots-Croisés-Classiques
 //
-//  Created by Normand Martin on 2017-02-23.
+//  Created by Normand Martin on 2017-03-09.
 //  Copyright © 2017 Normand Martin. All rights reserved.
 //
 
@@ -17,8 +17,8 @@ extension Item {
     }
 
     @NSManaged public var completed: Bool
+    @NSManaged public var lettre: String?
     @NSManaged public var noDeLettre: String?
     @NSManaged public var noMotcroise: String?
-    @NSManaged public var lettre: String?
 
 }

@@ -40,20 +40,17 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     @IBOutlet weak var VTop: NSLayoutConstraint!
     @IBOutlet weak var topH: NSLayoutConstraint!
     @IBOutlet weak var definitionVWidth: NSLayoutConstraint!
-    
     @IBOutlet weak var iconeHVconstraint: NSLayoutConstraint!
     @IBOutlet weak var definitionHWidth: NSLayoutConstraint!
     
     
-    
-    
-    
-    
+    var stateOfMotsCroises: String = ""
     let modelName = UIDevice()
     var h: Bool = true
     var grilleSelected: String = ""
     let screenSize: CGRect = UIScreen.main.bounds
     var ref: Int = 0
+    var stateMotsCroises: String = ""
     var reponse: [[String]] = []
     var selectedWordH: [Int] = []
     var selectedWordV: [Int] = []
@@ -69,6 +66,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var indiceCrash: Int = 0
     override func viewDidLoad() { 
         super.viewDidLoad()
+        
+        
         let modelName = UIDevice.current.modelName
         
         // Position of the grid based on screen size
@@ -87,7 +86,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             topVérifierGrille.constant = 20
             bottomEffacerTout.constant = 70
             topH.constant = 30
-           // VTop.constant = 30
             definitionH.font = UIFont(name: "Times New Roman-Italic", size: 20)
             definitionV.font = UIFont(name: "Times New Roman-Italic", size: 20)
             iconeHVconstraint.constant = 25
@@ -99,7 +97,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }else{
             verticalPosition.constant = 0.44 * screenSize.height
         }
-        updateViewConstraints()
         self.navigationController?.navigationBar.tintColor = UIColor.black
         let solution: Bool = false
         self.view.backgroundColor = UIColor(patternImage: UIImage(named: "grungyPaper")!)
@@ -208,13 +205,9 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
      return cell
    }
 
-
-  
-    
     // MARK: - UICollectionViewDelegate protocol
-    
 ////////////////////////////////////
-//MARK; Selecting a cell
+//MARK: Selecting a cell
 ////////////////////////////////////
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
       // After viewDid appear triggers once the event of deselecting initial cells from viewDidAppear
@@ -255,8 +248,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 // MARK: Moving the cursor to next letter after text has been entered
 ////////////////////////////////////////////////////////////////
     func textFieldDidChange(_ textField: UITextField) {
+        stateOfMotsCroises = "Mots Croisés commencés"
         var indexPath: IndexPath = [0, 0]
-        
         if textField.text != "" && textField.text != "#" {
             if indexPathRef.item > 99 {indexPath = [0, 99] }
             selectedCell = indexPathRef.item
@@ -290,9 +283,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 wordSelection(cell: cell)
                 cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
                 while cell.laLettre.text == "#" {
-                
                         indexPathRef = [0, indexPathRef.item + 1]
-                    print(indexPathRef.item)
                     if indexPathRef.item != 100 {
                         cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
                     }else{
@@ -357,9 +348,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 
         var cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
         items[indexPath.item].lettre = cell.laLettre.text
+        //items[0].etatMotsCroises = stateOfMotsCroises
         cell = collectionView.cellForItem(at: [0, 99]) as! MyCollectionViewCell
         items[99].lettre = cell.laLettre.text
-        DataController.sharedInstance.saveContext()
+        
         
         let reponse = reponseACeMoment()
         let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
@@ -367,10 +359,13 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         if resultat.0 {
             for item in items{
                 item.completed = true
+                
             }
+            stateOfMotsCroises = "Mots Croisés Terminé!"
+            //items[0].etatMotsCroises = stateOfMotsCroises
             showAlert()
         }
-       // DataController.sharedInstance.saveContext()
+       DataController.sharedInstance.saveContext()
     }
 /////////////////////////////////////////////////////////////////////////
 //Compute the dimension of a cell for an NxN layout with space S between
@@ -487,27 +482,21 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 
     func showAlert () {
         
-        let alertController = UIAlertController(title: "Bravo", message: "", preferredStyle: .actionSheet)
-        alertController.popoverPresentationController?.sourceView = self.view
-        alertController.popoverPresentationController?.sourceRect = definitionH.frame
-        
-        let okAction = UIAlertAction(title: "OK", style: .cancel, handler: dismissAlert)
-        alertController.addAction(okAction)
-        
-        present(alertController, animated: true, completion: nil)
+
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Bravo, vous avez complété la grille!", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+
     }
     func dismissAlert(_ sender: UIAlertAction) {
         
     }
     func showAlert2 (){
-        let alertController = UIAlertController(title: "Bravo", message: "Il n'y a pas d'erreur", preferredStyle: .actionSheet)
-        alertController.popoverPresentationController?.sourceView = self.view
-        alertController.popoverPresentationController?.sourceRect = definitionH.frame
-        
-        let okAction = UIAlertAction(title: "OK", style: .cancel, handler: dismissAlert)
-        alertController.addAction(okAction)
-        
-        present(alertController, animated: true, completion: nil)
+
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Il n'y a pas d'erreur", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+
         
     }
     func dismissAlert2(_ sender: UIAlertAction) {
@@ -594,17 +583,13 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
                 n = n + 1
             }
-            
         }
-
         for lettre in erreurLettre{
             let cell = collectionView.cellForItem(at: [0, lettre]) as! MyCollectionViewCell
             cell.backgroundColor = UIColor.red
             cell.laLettre.isUserInteractionEnabled = false
             cell.laLettre.resignFirstResponder()
         }
-        
-        
         self.view.endEditing(true)
     }
     
@@ -691,12 +676,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         if grilleVerifie{
             showAlert2()
         }
-
-        
     }
-    
-    
-    
     @IBAction func effacerLaGrille(_ sender: UIButton) {
         var n = 0
         for lettre in lettres {
@@ -734,14 +714,22 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         
         }
     }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "unwindDetailsMotsCroises" {
+            let controller = segue.destination as! DetailMotsCroises
+            controller.stateOfMotsCroises = stateOfMotsCroises
+            controller.grilleSelected = grilleSelected
+        }
+    }
 
     
-    
+    override func viewWillDisappear(_ animated: Bool) {
+        self.performSegue(withIdentifier: "unwindDetailsMotsCroises", sender: self)
+        
+        
+    }
 
-
-
-    
-    
     @IBAction func hideKeyBoard(_ sender: Any) {
         self.view.endEditing(true)
         
