@@ -78,7 +78,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             centreVerifierLettre.constant = 120.0
             leadingVerifierLettre.constant = -30
             trailingRevelerLettre.constant = 35
-            
         }else if modelName == "iPad 2" || modelName == "iPad 3" || modelName == "iPad 4" || modelName == "iPad Air" || modelName == "iPad Air 2" || modelName == "iPad Pro" {
             verticalPosition.constant = 0.44 * screenSize.height
             centreVerifierLettre.constant = 250
@@ -91,9 +90,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             iconeHVconstraint.constant = 25
             definitionHWidth.constant = 380
             definitionVWidth.constant = 380
-            
-            
-            
         }else{
             verticalPosition.constant = 0.44 * screenSize.height
         }
@@ -108,22 +104,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         lettres = lettresMotTotal.0
         totalMot = lettresMotTotal.1
         var n = 0
- /*
-        do {
-            let items = try managedObjectContext.fetch(fetchRequest) as! [NSManagedObject]
-            
-           for item in items {
-                managedObjectContext.delete(item)
-            }
-            try managedObjectContext.save()
-            
-        } catch {
-             //Error Handling
-             //...
-        }
- */
 
-   
         if solution == false{
             for lettre in lettres {
                 if lettre != "#"{
@@ -192,8 +173,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: reuseIdentifier, for: indexPath as IndexPath) as! MyCollectionViewCell
         // Use the outlet in our custom class to get a reference to the UILabel in the cell
-    
-
         cell.laLettre.text = self.lettres[indexPath.item]
         cell.layer.borderWidth = 1
         cell.layer.borderColor = UIColor.black.cgColor
@@ -348,7 +327,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 
         var cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
         items[indexPath.item].lettre = cell.laLettre.text
-        //items[0].etatMotsCroises = stateOfMotsCroises
         cell = collectionView.cellForItem(at: [0, 99]) as! MyCollectionViewCell
         items[99].lettre = cell.laLettre.text
         
@@ -362,7 +340,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 
             }
             stateOfMotsCroises = "Mots Croisés Terminé!"
-            //items[0].etatMotsCroises = stateOfMotsCroises
             showAlert()
         }
        DataController.sharedInstance.saveContext()
@@ -722,11 +699,9 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             controller.grilleSelected = grilleSelected
         }
     }
-
     
     override func viewWillDisappear(_ animated: Bool) {
         self.performSegue(withIdentifier: "unwindDetailsMotsCroises", sender: self)
-        
         
     }
 
@@ -734,8 +709,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         self.view.endEditing(true)
         
     }
-            
-
     
 }
 

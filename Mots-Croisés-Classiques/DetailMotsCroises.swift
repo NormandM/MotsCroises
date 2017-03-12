@@ -22,7 +22,7 @@ class DetailMotsCroises: UITableViewController {
         return request
     }()
 
-    var stateOfMotsCroises: String = "Faites un essai"
+    var stateOfMotsCroises: String = "Faites un essai!"
     var grilleSelected: String = ""
     var modelName = UIDevice()
     var activityIndicatorView: ActivityIndicatorView!
@@ -40,30 +40,23 @@ class DetailMotsCroises: UITableViewController {
             self.tableView.rowHeight = 60.0
             
         }
-        // Uncomment the following line to preserve selection between presentations
-        // self.clearsSelectionOnViewWillAppear = false
         
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
     // MARK: - Table view data source
 
     override func numberOfSections(in tableView: UITableView) -> Int {
-        // #warning Incomplete implementation, return the number of sections
         return 1
     }
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        // #warning Incomplete implementation, return the number of rows
         return arrayGrillesChoisis.count
         
     }
-
-    
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath)
         fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", arrayGrillesChoisis[indexPath.row])
@@ -75,13 +68,10 @@ class DetailMotsCroises: UITableViewController {
         cell.detailTextLabel?.text = stateOfMotsCroises
         if items != [] {
             if items[0].completed{
-                cell.detailTextLabel?.text = "Le Mots Croisés est complétés!"
+                cell.detailTextLabel?.text = "Le Mots Croisés est complété!"
             }
         }
-        
- 
         cell.textLabel?.text = "Mots Croisés #" + arrayGrillesChoisis[indexPath.row]
-        
         return cell
     }
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
@@ -107,14 +97,10 @@ class DetailMotsCroises: UITableViewController {
                     let backItem = UIBarButtonItem()
                     backItem.title = ""
                     navigationItem.backBarButtonItem = backItem
-                    
                     let controller = segue.destination as! ViewController
                     controller.grilleSelected = grilleSelected
                     controller.activityIndicatorView = activityIndicatorView
-                    
-                    
                 }
-                
             }
         }
     @IBAction func unwindToVC(segue: UIStoryboardSegue) {
@@ -126,11 +112,9 @@ class DetailMotsCroises: UITableViewController {
             } 
             n = n + 1
         }
-        
-        print(n)
         let cell = tableView.cellForRow(at: [0,index])
-        cell?.detailTextLabel?.text = "Le Mots Croisés est complétés!"
-       self.tableView.reloadRows(at: [[0, index] ], with: UITableViewRowAnimation.none)
+        cell?.detailTextLabel?.text = "Le Mots Croisés est complété!"
+        self.tableView.reloadRows(at: [[0, index] ], with: UITableViewRowAnimation.none)
         
     }
 }

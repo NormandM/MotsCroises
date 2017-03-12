@@ -120,7 +120,7 @@ class choixDeGrilesViewController: UIViewController, SKProductsRequestDelegate,S
     }
     
     @IBAction func grilleGratuite(_ sender: Any) {
-        arrayGrillesChoisis = ["a", "b", "c"]
+        arrayGrillesChoisis = ["A", "B", "C"]
         performSegue(withIdentifier: "showDetailMotsCroises", sender: grilleGratuite)
     }
     @IBAction func grille1a10(_ sender: Any) {

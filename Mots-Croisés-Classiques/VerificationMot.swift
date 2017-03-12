@@ -21,23 +21,15 @@ struct VerificationDuMot {
         let resultatFunc = motsCroisesArray.motsCroisesArray()
         let reponseTotal = ReponseTotale(reponse: reponse, grilleSelected: grilleSelected)
         let reponseArray = reponseTotal.reponseTotale()
-    
         let arrayDuMotCroise = resultatFunc.1
-
-        
         let selectionMot = SelectionMot(selectedCell: selectedCell, totalMot: arrayDuMotCroise)
         let selectedWordH = selectionMot.selectionMot().0
         let selectedWordV = selectionMot.selectionMot().1
         let motArraySelected = selectionMot.selectionMot().2
         let motArraySelectedV = selectionMot.selectionMot().3
-        
         let selectionReponse = SelectionMot(selectedCell: selectedCell, totalMot: reponseArray)
         let motArrayReponse = selectionReponse.selectionMot().2
         let motArrayReponseV = selectionReponse.selectionMot().3
-        
-        
-        
-  
         if horizontal == true {
             motArrayselectedNo = selectedWordH
             arrayFinal = motArraySelected
@@ -57,10 +49,7 @@ struct VerificationDuMot {
             }else{
                 motBon = false
             }
-            
         }
-        
-
     return (motBon, motArrayselectedNo, arrayFinal, arrayFinalReponse)
     }
 }
