@@ -50,7 +50,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var grilleSelected: String = ""
     let screenSize: CGRect = UIScreen.main.bounds
     var ref: Int = 0
-    var stateMotsCroises: String = ""
     var reponse: [[String]] = []
     var selectedWordH: [Int] = []
     var selectedWordV: [Int] = []
@@ -67,9 +66,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     override func viewDidLoad() { 
         super.viewDidLoad()
         
-        
         let modelName = UIDevice.current.modelName
-        
         // Position of the grid based on screen size
         if modelName == "iPhone 5" || modelName == "iPhone 5c" || modelName == "iPhone 5s"{
             verticalPosition.constant = 0.50 * screenSize.height
@@ -85,9 +82,11 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             topVérifierGrille.constant = 20
             bottomEffacerTout.constant = 70
             topH.constant = 30
-            definitionH.font = UIFont(name: "Times New Roman-Italic", size: 20)
-            definitionV.font = UIFont(name: "Times New Roman-Italic", size: 20)
+            definitionH.font = UIFont(name: "TimesNewRomanPS-ItalicMT", size: 20)
+            definitionV.font = UIFont(name: "TimesNewRomanPS-ItalicMT", size: 20)
             iconeHVconstraint.constant = 25
+            definitionH.frame.size.width = 200
+            definitionV.frame.size.width = 200
             definitionHWidth.constant = 380
             definitionVWidth.constant = 380
         }else{
@@ -480,6 +479,20 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
         cell.backgroundColor = UIColor.clear
     }
+    func showAlert3 (){
+        
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Êtes vous sur de vouloir tout effacer?", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "Oui", style: UIAlertActionStyle.destructive, handler:{(alert: UIAlertAction!) in self.actionEffaceGrille()}))
+        alert.addAction(UIAlertAction(title: "Non", style: UIAlertActionStyle.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+        
+        
+    }
+  func dismissAlert3(_ sender: UIAlertAction) {
+    
+       
+   }
+
 
     func reponseACeMoment() -> [[String]]{
         var n = 0
@@ -599,9 +612,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             let cell = collectionView.cellForItem(at: [0, selectedCell]) as! MyCollectionViewCell
             cell.backgroundColor = UIColor.green
             cell.laLettre.text = resultatVerification.1
+            items[selectedCell].lettre = cell.laLettre.text
         }
         self.view.endEditing(true)
-
+        DataController.sharedInstance.saveContext()
     }
     @IBAction func revelerMot(_ sender: Any) {
         var bonneReponse: [String] = []
@@ -628,10 +642,12 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             let cell = collectionView.cellForItem(at: [0, lettre]) as! MyCollectionViewCell
             cell.backgroundColor = UIColor.green
             cell.laLettre.text = bonneReponse[n]
+            items[lettre].lettre = cell.laLettre.text
             cell.laLettre.isUserInteractionEnabled = false
             cell.laLettre.resignFirstResponder()
             n = n + 1
         }
+        DataController.sharedInstance.saveContext()
         self.view.endEditing(true)
     }
     
@@ -645,6 +661,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             let cell = collectionView.cellForItem(at: [0, Int(indexLettre[0])!]) as! MyCollectionViewCell
             cell.backgroundColor = UIColor.green
             cell.laLettre.text = resultArray[n][1]
+            items[Int(indexLettre[0])!].lettre = resultArray[n][1]
             cell.laLettre.isUserInteractionEnabled = false
             cell.laLettre.resignFirstResponder()
             n = n + 1
@@ -653,43 +670,48 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         if grilleVerifie{
             showAlert2()
         }
+        DataController.sharedInstance.saveContext()
     }
     @IBAction func effacerLaGrille(_ sender: UIButton) {
-        var n = 0
-        for lettre in lettres {
+        showAlert3()
+    }
+    func actionEffaceGrille(){
+            var n = 0
+            for lettre in lettres {
             
-            if lettre != "#"{
-                lettres[n] = ""
-            }
-            n = n + 1
-        }
-        n = 0
-       
-        fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
-        do {
-            items = try managedObjectContext.fetch(fetchRequest) as! [Item]
-        }catch let error as NSError{
-            print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
-        }
-
-            do {
-                
-                for item in items {
-                    managedObjectContext.delete(item)
+                if lettre != "#"{
+                    lettres[n] = ""
                 }
-                try managedObjectContext.save()
-                
-            } catch {
-                //Error Handling
-                //...
+                n = n + 1
             }
-        n = 0
-        while n < 100 {
-            let cell = collectionView.cellForItem(at: [0 , n]) as! MyCollectionViewCell
-            cell.laLettre.text = lettres[n]
-            n = n + 1
-        
-        }
+            n = 0
+       
+           // fetchRequest.predicate = NSPredicate(format: "noMotcroise == %@", grilleSelected)
+          //  do {
+           //     items = try managedObjectContext.fetch(fetchRequest) as! [Item]
+           // }catch let error as NSError{
+           //     print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
+         //   }
+
+          //      do {
+                
+          //          for item in items {
+          //              managedObjectContext.delete(item)
+          //          }
+          //          try managedObjectContext.save()
+                
+           //     } catch {
+                    //Error Handling
+                    //...
+            //    }
+            n = 0
+            while n < 100 {
+                let cell = collectionView.cellForItem(at: [0 , n]) as! MyCollectionViewCell
+                cell.laLettre.text = lettres[n]
+                items[n].lettre = lettres[n]
+                n = n + 1
+            }
+        DataController.sharedInstance.saveContext()
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
