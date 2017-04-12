@@ -31,6 +31,7 @@
 		8EB2FE061E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */; };
 		8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE131E16BC5D004D024F /* DataStructure.swift */; };
 		8EDB1CCB1E676A1E00449B52 /* choixDeGrilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */; };
+		8EE02DF21E97D932006B3643 /* cursor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE02DF11E97D932006B3643 /* cursor.swift */; };
 		8EE3503C1E60AD4C00C7D205 /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */; };
 /* End PBXBuildFile section */
 
@@ -86,6 +87,7 @@
 		8EB2FE071E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EB2FE131E16BC5D004D024F /* DataStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataStructure.swift; sourceTree = "<group>"; };
 		8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = choixDeGrilesViewController.swift; sourceTree = "<group>"; };
+		8EE02DF11E97D932006B3643 /* cursor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cursor.swift; sourceTree = "<group>"; };
 		8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityIndicator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -173,6 +175,7 @@
 				8EB1A7F21E63580E00D95EA1 /* Device.swift */,
 				8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */,
 				8E74344A1E689BC3009C0942 /* DetailMotsCroises.swift */,
+				8EE02DF11E97D932006B3643 /* cursor.swift */,
 			);
 			path = "Mots-Croisés-Classiques";
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8EDB1CCB1E676A1E00449B52 /* choixDeGrilesViewController.swift in Sources */,
+				8EE02DF21E97D932006B3643 /* cursor.swift in Sources */,
 				8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */,
 				8E74344B1E689BC3009C0942 /* DetailMotsCroises.swift in Sources */,
 				8EB1A7F31E63580E00D95EA1 /* Device.swift in Sources */,
