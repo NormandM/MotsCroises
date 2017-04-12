@@ -359,53 +359,48 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                     }
                 }
             }else{
+                print(backSpacePressed)
                 ref = ref - 1
                 if indiceCrash == 1 {
                     ref = 100
                     indiceCrash = indiceCrash + 1
                 }
-
-                print(backSpacePressed)
-                if backSpacePressed{
-                    
-                }else{
-                    for mot in totalMot {
-                        if ref == Int(mot[5]){
-                            indexPathRef = [0, Int(mot[7])!]
-                        }
+                for mot in totalMot {
+                    if ref == Int(mot[5]){
+                        indexPathRef = [0, Int(mot[7])!]
                     }
-                    indexPath = indexPathRef
-                    var cell = cellSelection(indexPath: indexPath)
-                    wordSelection(cell: cell)
-                    cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
-                    for mot in totalMot {
-                        if ref == Int(mot[5]){
+                }
+                indexPath = indexPathRef
+                var cell = cellSelection(indexPath: indexPath)
+                wordSelection(cell: cell)
+                cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                for mot in totalMot {
+                    if ref == Int(mot[5]){
                             indexPathRef = [0, Int(mot[7])!]
-                        }
                     }
-                    while cell.laLettre.text == "#" && ref < 200 {
+                }
+                while cell.laLettre.text == "#" && ref < 200 {
             
-                        for mot in totalMot {
-                            if ref == Int(mot[5]){
-                                indexPathRef = [0, Int(mot[7])!]
-                            }
+                    for mot in totalMot {
+                        if ref == Int(mot[5]){
+                            indexPathRef = [0, Int(mot[7])!]
                         }
-                        cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
-                        ref = ref + 1
                     }
-                    if cell.laLettre.text != "#"{
-                        cell = cellSelection(indexPath: indexPathRef)
-                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
-                        cell.laLettre.becomeFirstResponder()
-                        for mot in totalMot {
+                    cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                    ref = ref + 1
+                }
+                if cell.laLettre.text != "#"{
+                    cell = cellSelection(indexPath: indexPathRef)
+                    cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+                    cell.laLettre.becomeFirstResponder()
+                    for mot in totalMot {
                         
-                            if ref == Int(mot[5]){
-                                if ref == 110 || ref == 120 || ref == 130 || ref == 140 || ref == 150 || ref == 160 || ref == 170 || ref == 180 || ref == 190 {
-                                    indexPathPrecedent = [0, Int(mot[7])! + 89]
+                        if ref == Int(mot[5]){
+                            if ref == 110 || ref == 120 || ref == 130 || ref == 140 || ref == 150 || ref == 160 || ref == 170 || ref == 180 || ref == 190 {
+                                indexPathPrecedent = [0, Int(mot[7])! + 89]
                                 
-                                }else{
-                                    indexPathPrecedent = [0, Int(mot[7])! - 10]
-                                }
+                            }else{
+                            indexPathPrecedent = [0, Int(mot[7])! - 10]
                             }
                         }
                     }
