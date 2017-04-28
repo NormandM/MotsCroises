@@ -21,8 +21,8 @@ class DetailMotsCroises: UITableViewController {
         request.sortDescriptors = [sortDescriptor2, sortDescriptor4]
         return request
     }()
-
-    var stateOfMotsCroises: String = "Faites un essai!"
+    
+    var stateOfMotsCroises = UserDefaults.standard.string(forKey: "stateOfMotsCroises")
     var grilleSelected: String = ""
     var modelName = UIDevice()
     var activityIndicatorView: ActivityIndicatorView!
@@ -38,9 +38,7 @@ class DetailMotsCroises: UITableViewController {
             
         }else{
             self.tableView.rowHeight = 60.0
-            
         }
-        
     }
 
     override func didReceiveMemoryWarning() {
@@ -65,12 +63,25 @@ class DetailMotsCroises: UITableViewController {
         }catch let error as NSError{
             print("Error fetching items objects; \(error.localizedDescription), \(error.userInfo)")
         }
-        cell.detailTextLabel?.text = stateOfMotsCroises
-        if items != [] {
-            if items[0].completed{
-                cell.detailTextLabel?.text = "Le Mots Croisés est complété!"
+        var status: Bool = false
+        for item in items {
+            if item.lettre != "" && item.lettre != " " && item.lettre != "#" {
+                status  = true
             }
         }
+        if items != [] {
+            if status == true && items[0].completed == false {
+                stateOfMotsCroises = "Le Mots Croisés est commencé"
+            }else if status == false{
+                stateOfMotsCroises = "Faites un essai!"
+            }else if items[0].completed{
+                stateOfMotsCroises = "Le Mots Croisés est terminé!"
+            }
+        }else{
+            stateOfMotsCroises = "Faites un essai!"
+        }
+        UserDefaults.standard.set(stateOfMotsCroises, forKey: "stateOfMotsCroises")
+        cell.detailTextLabel?.text = stateOfMotsCroises
         cell.textLabel?.text = "Mots Croisés #" + arrayGrillesChoisis[indexPath.row]
         return cell
     }
@@ -88,7 +99,6 @@ class DetailMotsCroises: UITableViewController {
     }
 
     // MARK: - Navigation
-
         override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
             if segue.identifier == "showMotsCroises" {
                 if let indexPath = self.tableView.indexPathForSelectedRow, let _ = tableView.cellForRow(at: indexPath){
@@ -103,18 +113,41 @@ class DetailMotsCroises: UITableViewController {
                 }
             }
         }
+    func showAlert4 () {
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "J'ai besoin de vos commentaires pour améliorer le jeu", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "D'accord", style: UIAlertActionStyle.destructive, handler:{(alert: UIAlertAction!) in self.rateApp(appId: "id1210494247") { success in
+            print("RateApp \(success)")
+            }}))
+        alert.addAction(UIAlertAction(title: "Pas Maintenant", style: UIAlertActionStyle.default, handler: nil))
+        self.present(alert, animated: true, completion: nil)
+        
+        
+        
+        
+    }
+    func rateApp(appId: String, completion: @escaping ((_ success: Bool)->())) {
+        guard let url = URL(string : "itms-apps://itunes.apple.com/app/" + appId) else {
+            completion(false)
+            return
+        }
+        guard #available(iOS 10, *) else {
+            completion(UIApplication.shared.openURL(url))
+            return
+        }
+        UIApplication.shared.open(url, options: [:], completionHandler: completion)
+    }
+
     @IBAction func unwindToVC(segue: UIStoryboardSegue) {
         var n = 0
         var index = 0
         for grille in arrayGrillesChoisis{
-            if grille  == grilleSelected{
+           if grille  == grilleSelected{
                 index = n
             } 
             n = n + 1
         }
-        let cell = tableView.cellForRow(at: [0,index])
-        cell?.detailTextLabel?.text = "Le Mots Croisés est complété!"
+        UserDefaults.standard.set(stateOfMotsCroises, forKey: "stateOfMotsCroises")
         self.tableView.reloadRows(at: [[0, index] ], with: UITableViewRowAnimation.none)
-        
+        showAlert4()
     }
 }

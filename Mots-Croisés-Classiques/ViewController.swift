@@ -236,8 +236,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         cell.laLettre.resignFirstResponder()
         let cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
         wordSelection(cell: cell)
-        print("celldeselected")
-
         }
     }
 /////////////////////////////////////////////////////////////////
@@ -250,10 +248,27 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         
         if (isBackSpace == -92) {
             backSpacePressed = true
-            print(indexPathBack.item)
-            indexPathBack = [0, indexPathBack.item - 1]
-            let cell = cellSelection(indexPath: indexPathBack)
-            cell.laLettre.text = " "
+            if h {
+                print(indexPathBack)
+                if indexPathBack == [] {indexPathBack = [0, 0]}
+                    indexPathBack = [0, indexPathBack.item - 1]
+                
+            }else{
+                ref = ref - 1
+                
+                for mot in totalMot {
+                    if ref == Int(mot[5]){
+                        if ref == 110 || ref == 120 || ref == 130 || ref == 140 || ref == 150 || ref == 160 || ref == 170 || ref == 180 || ref == 190 {
+                            indexPathBack = [0, Int(mot[7])! + 89]
+                        }else{
+                            indexPathBack = [0, Int(mot[7])! - 10]
+                        }
+                    }
+                }
+ 
+            }
+
+            if indexPathBack.item < 0 { indexPathBack = [0, 0]}
             if indexPathBack.item < 0 {
                 backSpacePressed = false
                 finDeCourse = true
@@ -263,7 +278,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     }
 
     func textFieldDidChange(_ textField: UITextField) {
-        stateOfMotsCroises = "Mots Croisés commencés"
         var indexPath: IndexPath = [0, 0]
         if textField.text != "#" {
             if indexPathRef.item > 99 {indexPath = [0, 99] }
@@ -314,19 +328,17 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                             indexPathRef = [0, 0]
                             break
                         }
-
-                        
                     }
                     
                     if indexPathRef.item > -1 {
                         cell = cellSelection(indexPath: indexPathRef)
-                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
                         indexPathPrecedent = [0, indexPathRef.item + 1]
                     }
                     backSpacePressed = false
                     indexPathBack = indexPathRef
-                }else{
                     
+                }else{
                     indexPath = [0, indexPathRef.item - 1]
                     indexPathBack = indexPathRef
                     var cell = cellSelection(indexPath: indexPath)
@@ -346,84 +358,104 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                             cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
                             break
                         }
-                    
                     }
                     if indexPathRef.item < 100 {
                 
                         cell = cellSelection(indexPath: indexPathRef)
-                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
                         indexPathBack = indexPathRef
                         indexPathPrecedent = [0, indexPathRef.item - 1]
-
-                        
                     }
                 }
             }else{
-                print(backSpacePressed)
-                ref = ref - 1
                 if indiceCrash == 1 {
                     ref = 100
                     indiceCrash = indiceCrash + 1
                 }
-                for mot in totalMot {
-                    if ref == Int(mot[5]){
-                        indexPathRef = [0, Int(mot[7])!]
+                if backSpacePressed == true {
+                    indexPath = indexPathBack
+                    var cell = helperCellSelect(indexPath: indexPath)
+                    wordSelection(cell: cell)
+                    while cell.laLettre.text == "#" && ref > -1 {
+                        indexPathBack = refVerticale(totalMot: totalMot, ref: ref, backSpacePressed: backSpacePressed)
+                        cell = collectionView.cellForItem(at: indexPathBack) as! MyCollectionViewCell
+                        ref = ref - 1
                     }
-                }
-                indexPath = indexPathRef
-                var cell = cellSelection(indexPath: indexPath)
-                wordSelection(cell: cell)
-                cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
-                for mot in totalMot {
-                    if ref == Int(mot[5]){
-                            indexPathRef = [0, Int(mot[7])!]
-                    }
-                }
-                while cell.laLettre.text == "#" && ref < 200 {
-            
-                    for mot in totalMot {
-                        if ref == Int(mot[5]){
-                            indexPathRef = [0, Int(mot[7])!]
-                        }
-                    }
-                    cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
-                    ref = ref + 1
-                }
-                if cell.laLettre.text != "#"{
-                    cell = cellSelection(indexPath: indexPathRef)
-                    cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
-                    cell.laLettre.becomeFirstResponder()
-                    for mot in totalMot {
-                        
-                        if ref == Int(mot[5]){
-                            if ref == 110 || ref == 120 || ref == 130 || ref == 140 || ref == 150 || ref == 160 || ref == 170 || ref == 180 || ref == 190 {
-                                indexPathPrecedent = [0, Int(mot[7])! + 89]
-                                
-                            }else{
-                            indexPathPrecedent = [0, Int(mot[7])! - 10]
+                    if indexPathPrecedent.item == 187 {indexPathPrecedent = [0, 88]}
+                    if indexPathPrecedent.item == 186 {indexPathPrecedent = [0, 87]}
+                    if indexPathPrecedent.item == 185 {indexPathPrecedent = [0, 86]}
+                    if indexPathPrecedent.item == 184 {indexPathPrecedent = [0, 85]}
+                    if indexPathPrecedent.item == 183 {indexPathPrecedent = [0, 84]}
+                    if indexPathPrecedent.item == 182 {indexPathPrecedent = [0, 83]}
+                    if indexPathPrecedent.item == 181 {indexPathPrecedent = [0, 82]}
+                    if indexPathPrecedent.item == 180 {indexPathPrecedent = [0, 81]}
+                    if indexPathPrecedent.item == 179 {indexPathPrecedent = [0, 80]}
+                    cell = collectionView.cellForItem(at: [0, indexPathPrecedent.item ]) as! MyCollectionViewCell
+                    cell.laLettre.text = " "
+                    cell.laLettre.isUserInteractionEnabled = false
+                    cell.laLettre.resignFirstResponder()
+                    cell = collectionView.cellForItem(at: indexPathBack) as! MyCollectionViewCell
+                    wordSelection(cell: cell)
+
+                    indexPathPrecedent = movingVertical(cell: cell, totalMot: totalMot, indexPath: indexPathBack, backSpacePressed: backSpacePressed)
+                    
+                    if cell.laLettre.text != "#"{
+                        ref = ref - 1
+                        cell = cellSelection(indexPath: indexPathBack)
+                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
+                        for mot in totalMot {
+                            if ref == Int(mot[5]){
+                                if ref == 119 || ref == 129 || ref == 139 || ref == 149 || ref == 159 || ref == 169 || ref == 179 || ref == 189 || ref == 109 {
+                                    indexPathPrecedent = [0, Int(mot[7])! + 89]
+                                }else{
+                                    indexPathPrecedent = indexPathBack
+                                    indexPathBack = [0, Int(mot[7])! + 10 ]
+                                    if indexPathBack.item > 100 {indexPathBack = [0, 99]}
+                                }
                             }
                         }
+                    }
+                indexPath = indexPathBack
+                backSpacePressed = false
+                }else{
+                    ref = ref - 1
+                    indexPathRef = refVerticale(totalMot: totalMot, ref: ref, backSpacePressed: backSpacePressed)
+                    indexPath = indexPathRef
+                    var cell = cellSelection(indexPath: indexPath)
+                    wordSelection(cell: cell)
+                    cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                    indexPathRef = refVerticale(totalMot: totalMot, ref: ref, backSpacePressed: backSpacePressed)
+                    while cell.laLettre.text == "#" && ref < 200 {
+ 
+                        indexPathRef = refVerticale(totalMot: totalMot, ref: ref, backSpacePressed: backSpacePressed)
+                        cell = collectionView.cellForItem(at: indexPathRef) as! MyCollectionViewCell
+                        ref = ref + 1
+                    }
+                    if cell.laLettre.text != "#"{
+                        cell = cellSelection(indexPath: indexPathRef)
+                        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
+                        cell.laLettre.becomeFirstResponder()
+                         indexPathPrecedent = movingVertical(cell: cell, totalMot: totalMot, indexPath: indexPathRef, backSpacePressed: backSpacePressed)
                     }
                 }
             }
         }
 // saving letter changedg
-
+        var n = 0
         var cell = collectionView.cellForItem(at: indexPath) as! MyCollectionViewCell
-        items[indexPath.item].lettre = cell.laLettre.text
-        cell = collectionView.cellForItem(at: [0, 99]) as! MyCollectionViewCell
-        items[99].lettre = cell.laLettre.text
-        
-        
+        while n < 100 {
+            cell = collectionView.cellForItem(at: [0, n]) as! MyCollectionViewCell
+            items[n].lettre = cell.laLettre.text
+            n = n + 1
+        }
+
         let reponse = reponseACeMoment()
         let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
         let resultat = completeCheck.completeCheck(reponse: reponse)
         if resultat.0 {
             for item in items{
                 item.completed = true
-                
             }
-            stateOfMotsCroises = "Mots Croisés Terminé!"
             showAlert()
         }
        DataController.sharedInstance.saveContext()
@@ -438,7 +470,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     let cellsAcross: CGFloat = 10
     let spaceBetweenCells: CGFloat = 0
     let dim = (collectionView.bounds.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
-        
     return CGSize(width: dim, height: dim)
     }
 //////////////////////////////////////////////////////////////////////////////
@@ -460,11 +491,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 }
                 n = n + 1
             }
-            let selectionMot = SelectionMot(selectedCell: selectedCell, totalMot: totalMot)
             
+            let selectionMot = SelectionMot(selectedCell: selectedCell, totalMot: totalMot)
             selectedWordH = selectionMot.selectionMot().0
             selectedWordV = selectionMot.selectionMot().1
-            
             if h{
                 
                 for select in selectedWordH{
@@ -489,23 +519,19 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                         cell.backgroundColor = UIColor.clear
                     }
                 }
-
             }
             definitionH.text = totalMot[selectedCell][3]
             definitionV.text = totalMotV[3]
             let cell = helperCellSelect(indexPath: indexPath)
-            cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+            cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
             if h {
                 indexPathRef = [0, indexPath.item + 1]
-                
+            
             }else{
                 ref = ref + 1
-                for mot in totalMot {
-                    if ref == Int(mot[5]){
-                        indexPathRef = [0, Int(mot[7])!]
-                    }
-                }
-            }
+                indexPathRef = refVerticale(totalMot: totalMot, ref: ref, backSpacePressed: backSpacePressed)
+                indexPathBack = indexPathRef
+               }
         }
        return cell
     }
@@ -540,9 +566,67 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }
         cell.laLettre.isUserInteractionEnabled = false
         cell.laLettre.resignFirstResponder()
-
     }
+    /////////////////////////////////////////////////////////////
+    ///IndexSelection when in vertical orientation
+    //////////////////////////////////////////////////////////
+    func refVerticale(totalMot: [[String]], ref: Int, backSpacePressed: Bool) -> IndexPath {
+        var indexPath: IndexPath = [0, 0]
+        if backSpacePressed{
+            let refV = ref - 1
+            for mot in totalMot {
+                if refV == Int(mot[5]){
+                    indexPath = [0, Int(mot[7])!]
+                }
+            }
+        }else{
+            for mot in totalMot {
+                if ref == Int(mot[5]){
+                    indexPath = [0, Int(mot[7])!]
+                }
+            }
+        }
+        return indexPath
+    }
+    
+    ///////////////////////////////////////////////////////////
+    /// Moving cursor in vertical position
+    ///////////////////////////////////////////////////////////
+    func movingVertical(cell: MyCollectionViewCell, totalMot: [[String]], indexPath: IndexPath, backSpacePressed: Bool) -> IndexPath{
+        if backSpacePressed{
+            if cell.laLettre.text != "#"{
+                 for mot in totalMot {
+                    if ref == Int(mot[5]){
+                        if ref == 119 || ref == 129 || ref == 139 || ref == 149 || ref == 159 || ref == 169 || ref == 179 || ref == 189 || ref == 109 {
+                            indexPathPrecedent = [0, Int(mot[7])! + 89]
+                        }else{
+                            indexPathPrecedent = [0, Int(mot[7])! + 10]
+                            if indexPathPrecedent.item > 99 {indexPathPrecedent = [0, 99]}
+                        }
+                        
+                    }
+                }
+            }
 
+        }else{
+            if cell.laLettre.text != "#"{
+                for mot in totalMot {
+                    if ref == Int(mot[5]){
+                        if ref == 110 || ref == 120 || ref == 130 || ref == 140 || ref == 150 || ref == 160 || ref == 170 || ref == 180 || ref == 190 {
+                            indexPathPrecedent = [0, Int(mot[7])! + 89]
+                        }else{
+                            indexPathPrecedent = [0, Int(mot[7])! - 10]
+                        }
+                        
+                    }
+                }
+            }
+        }
+        return indexPathPrecedent
+    }
+    
+    
+    
     func showAlert () {
         
 
@@ -573,8 +657,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         alert.addAction(UIAlertAction(title: "Non", style: UIAlertActionStyle.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
         
-        
     }
+
+    
+    
   func dismissAlert3(_ sender: UIAlertAction) {
     
        
@@ -591,6 +677,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         }
         return reponse
     }
+
 
     @IBAction func horizontalVertical(_ sender: Any) {
         if h == true {
@@ -628,7 +715,9 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
         }
         let cell = cellSelection(indexPath: indexPathSelected)
-        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 235/255, alpha: 1.0)
+        print(indexPathSelected.item)
+        indexPathBack = [0, indexPathSelected.item + 1]
+        cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
 
     }
 
@@ -739,6 +828,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     }
     
     @IBAction func revelerGrille(_ sender: Any) {
+        
         var n = 0
         let reponse = reponseACeMoment()
         let completeCheck = CompleteCheck(grilleSelected: grilleSelected)
@@ -780,6 +870,14 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 items[n].lettre = lettres[n]
                 n = n + 1
             }
+        for item in items{
+            if item.noMotcroise == grilleSelected{
+                item.completed = false
+            }
+        }
+
+        stateOfMotsCroises = "Faites un essai!"
+        UserDefaults.standard.set(stateOfMotsCroises, forKey: "stateOfMotsCroises")
         DataController.sharedInstance.saveContext()
     }
     

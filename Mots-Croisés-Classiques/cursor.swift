@@ -10,20 +10,20 @@ import UIKit
 
 class cursor: UITextField {
    
-   //override func caretRect(for position:UITextPosition) -> CGRect {
-    //    return CGRect.zero
-    //}
+   override func caretRect(for position:UITextPosition) -> CGRect {
+        return CGRect.zero
+    }
     
-   // override func selectionRects(for range: UITextRange) ->  [Any] {
+    override func selectionRects(for range: UITextRange) ->  [Any] {
      
-   // return []
-  //  }
+    return []
+    }
 
-  //  override func canPerformAction(_ action: Selector, withSender sender: Any?) -> Bool {
+    override func canPerformAction(_ action: Selector, withSender sender: Any?) -> Bool {
     
     
-  //  return false
-  //  }
+    return false
+    }
 
 
 

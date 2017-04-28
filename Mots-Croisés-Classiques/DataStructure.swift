@@ -26,7 +26,6 @@ struct Definition {
         
     }
 }
-
 struct Grille {
     let definition: Definition
     var lettre: [String]
