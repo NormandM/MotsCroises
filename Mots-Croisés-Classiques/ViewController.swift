@@ -249,7 +249,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         if (isBackSpace == -92) {
             backSpacePressed = true
             if h {
-                print(indexPathBack)
                 if indexPathBack == [] {indexPathBack = [0, 0]}
                     indexPathBack = [0, indexPathBack.item - 1]
                 
@@ -715,7 +714,6 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             }
         }
         let cell = cellSelection(indexPath: indexPathSelected)
-        print(indexPathSelected.item)
         indexPathBack = [0, indexPathSelected.item + 1]
         cell.backgroundColor = UIColor(red: 171/255, green: 203/255, blue: 255/255, alpha: 1.0)
 

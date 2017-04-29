@@ -21,7 +21,7 @@ class DetailMotsCroises: UITableViewController {
         request.sortDescriptors = [sortDescriptor2, sortDescriptor4]
         return request
     }()
-    
+    var fenetre = UserDefaults.standard.bool(forKey: "fenetre")
     var stateOfMotsCroises = UserDefaults.standard.string(forKey: "stateOfMotsCroises")
     var grilleSelected: String = ""
     var modelName = UIDevice()
@@ -39,6 +39,8 @@ class DetailMotsCroises: UITableViewController {
         }else{
             self.tableView.rowHeight = 60.0
         }
+        //fenetre = false
+        //UserDefaults.standard.set(self.fenetre, forKey: "fenetre")
     }
 
     override func didReceiveMemoryWarning() {
@@ -114,11 +116,14 @@ class DetailMotsCroises: UITableViewController {
             }
         }
     func showAlert4 () {
-        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "J'ai besoin de vos commentaires pour améliorer le jeu", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "D'accord", style: UIAlertActionStyle.destructive, handler:{(alert: UIAlertAction!) in self.rateApp(appId: "id1210494247") { success in
+        
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Votre avis est important pour améliorer le jeu. Vous aimez, vous aimez pas? Ça m'intéresse!", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "D'accord, je donne mon avis", style: UIAlertActionStyle.destructive, handler:{(alert: UIAlertAction!) in self.rateApp(appId: "id1210494247") { success in
             print("RateApp \(success)")
             }}))
         alert.addAction(UIAlertAction(title: "Pas Maintenant", style: UIAlertActionStyle.default, handler: nil))
+        //self.present(alert, animated: true, completion: nil)
+        alert.addAction(UIAlertAction(title: "Ne plus me montrer cette fenêtre", style: UIAlertActionStyle.default, handler: {(alert: UIAlertAction!) in self.fenetre = true; UserDefaults.standard.set(self.fenetre, forKey: "fenetre") }))
         self.present(alert, animated: true, completion: nil)
         
         
@@ -148,6 +153,8 @@ class DetailMotsCroises: UITableViewController {
         }
         UserDefaults.standard.set(stateOfMotsCroises, forKey: "stateOfMotsCroises")
         self.tableView.reloadRows(at: [[0, index] ], with: UITableViewRowAnimation.none)
-        showAlert4()
+        if fenetre == false {
+            showAlert4()        }
+        
     }
 }
