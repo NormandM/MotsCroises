@@ -8,16 +8,26 @@
 
 import UIKit
 import CoreData
-class DetailMotsCroises: UITableViewController {
+import GoogleMobileAds
+
+class DetailMotsCroises: UITableViewController, GADBannerViewDelegate {
+    let request = GADRequest()
+    lazy var adBannerView: GADBannerView = {
+        let adBannerView = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
+        adBannerView.adUnitID = "ca-app-pub-1437510869244180/3214567654"
+        adBannerView.delegate = self
+        adBannerView.rootViewController = self
+        return adBannerView
+    }()
     var items: [Item] = []
     let dataController = DataController.sharedInstance
     let managedObjectContext = DataController.sharedInstance.managedObjectContext
     lazy var fetchRequest: NSFetchRequest = { () -> NSFetchRequest<NSFetchRequestResult> in
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: "Item")
-        //let sortDescriptor = NSSortDescriptor(key: "lettre", ascending: false)
+        let sortDescriptor = NSSortDescriptor(key: "lettre", ascending: false)
         let sortDescriptor2 = NSSortDescriptor(key: "noMotcroise" ,ascending: false)
         let sortDescriptor4 = NSSortDescriptor(key: "completed" ,ascending: false)
-        //let sortDescriptor3 = NSSortDescriptor(key: "noDeLettre" ,ascending: true, selector: #selector(NSString.localizedStandardCompare(_:)))
+        let sortDescriptor3 = NSSortDescriptor(key: "noDeLettre" ,ascending: true, selector: #selector(NSString.localizedStandardCompare(_:)))
         request.sortDescriptors = [sortDescriptor2, sortDescriptor4]
         return request
     }()
@@ -29,6 +39,8 @@ class DetailMotsCroises: UITableViewController {
     var arrayGrillesChoisis: [String] = []
     override func viewDidLoad() {
         super.viewDidLoad()
+        adBannerView.load(GADRequest())
+        
         let modelName = UIDevice.current.modelName
         self.navigationController?.navigationBar.tintColor = UIColor.black
         self.title = "Mots-Croises"
@@ -39,13 +51,21 @@ class DetailMotsCroises: UITableViewController {
         }else{
             self.tableView.rowHeight = 60.0
         }
-        //fenetre = false
-        //UserDefaults.standard.set(self.fenetre, forKey: "fenetre")
+
+    }
+    
+    func adViewDidReceiveAd(_ bannerView: GADBannerView) {
+        print("Banner loaded successfully")
+       tableView.tableHeaderView?.frame = bannerView.frame
+       tableView.tableHeaderView = bannerView
+        
+    }
+    
+    func adView(_ bannerView: GADBannerView, didFailToReceiveAdWithError error: GADRequestError) {
+        print("Fail to receive ads")
+        print(error)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-    }
 
     // MARK: - Table view data source
 
@@ -116,19 +136,15 @@ class DetailMotsCroises: UITableViewController {
             }
         }
     func showAlert4 () {
-        
-        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Votre avis est important pour améliorer le jeu. Vous aimez, vous aimez pas? Ça m'intéresse!", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "D'accord, je donne mon avis", style: UIAlertActionStyle.destructive, handler:{(alert: UIAlertAction!) in self.rateApp(appId: "id1210494247") { success in
+
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Votre avis est important pour améliorer l'application. Vous aimez, vous n'aimez pas? Ça m'intéresse!", preferredStyle: UIAlertControllerStyle.alert)
+        alert.addAction(UIAlertAction(title: "D'accord, je donne mon avis", style: UIAlertActionStyle.default, handler:{(alert: UIAlertAction!) in self.rateApp(appId: "id1210494247") { success in
             print("RateApp \(success)")
             }}))
         alert.addAction(UIAlertAction(title: "Pas Maintenant", style: UIAlertActionStyle.default, handler: nil))
         //self.present(alert, animated: true, completion: nil)
         alert.addAction(UIAlertAction(title: "Ne plus me montrer cette fenêtre", style: UIAlertActionStyle.default, handler: {(alert: UIAlertAction!) in self.fenetre = true; UserDefaults.standard.set(self.fenetre, forKey: "fenetre") }))
         self.present(alert, animated: true, completion: nil)
-        
-        
-        
-        
     }
     func rateApp(appId: String, completion: @escaping ((_ success: Bool)->())) {
         guard let url = URL(string : "itms-apps://itunes.apple.com/app/" + appId) else {

@@ -12,6 +12,7 @@ import StoreKit
 
 
 class choixDeGrilesViewController: UIViewController, SKProductsRequestDelegate,SKPaymentTransactionObserver {
+    
     var arrayGrillesChoisis: [String] = []
     
     @IBOutlet weak var centerxGrille: NSLayoutConstraint!
@@ -84,7 +85,7 @@ class choixDeGrilesViewController: UIViewController, SKProductsRequestDelegate,S
         if modelName == "iPad 2" || modelName == "iPad 3" || modelName == "iPad 4" || modelName == "iPad Air" || modelName == "iPad Air 2" || modelName == "iPad Pro" {
             centerxGrille.constant = 240
         }
-
+        grille41a50 = true
         if grille1a10 {
             achat1a10.isHidden = true
             grilles1a10.isHidden = false
@@ -109,7 +110,7 @@ class choixDeGrilesViewController: UIViewController, SKProductsRequestDelegate,S
         if grille41a50{
             achat41a50.isHidden = true
             grilles41a50.isHidden = false
-            lable41a50.text = "Grilles 41 à 50 achetées!"
+            lable41a50.text = "Grilles 41 à 50 gratuites!"
         }
         fetchAvailableProducts()
     }

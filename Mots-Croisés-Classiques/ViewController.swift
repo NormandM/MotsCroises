@@ -7,14 +7,25 @@
 //
 
 import UIKit
+import GoogleMobileAds
 import CoreData
 
 
-class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITextFieldDelegate, NSFetchedResultsControllerDelegate {
+class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITextFieldDelegate, NSFetchedResultsControllerDelegate, GADBannerViewDelegate {
+    lazy var adBannerView: GADBannerView = {
+        let adBannerView = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
+        adBannerView.adUnitID = "ca-app-pub-1437510869244180/3214567654"
+        adBannerView.delegate = self
+        adBannerView.rootViewController = self
+        return adBannerView
+    }()
+    
     var items: [Item] = []
     let dataController = DataController.sharedInstance
     let managedObjectContext = DataController.sharedInstance.managedObjectContext
     var activityIndicatorView: ActivityIndicatorView!
+
+    
     lazy var fetchRequest: NSFetchRequest = { () -> NSFetchRequest<NSFetchRequestResult> in 
         let request = NSFetchRequest<NSFetchRequestResult>(entityName: "Item")
         let sortDescriptor = NSSortDescriptor(key: "lettre", ascending: false)
@@ -28,6 +39,10 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     @IBOutlet weak var collectionView: UICollectionView!
     @IBOutlet weak var definitionH: UILabel!
     @IBOutlet weak var definitionV: UILabel!
+    
+    
+    @IBOutlet weak var topView: NSLayoutConstraint!
+    
     @IBOutlet weak var verticalPosition: NSLayoutConstraint!
     @IBOutlet weak var distanceEntre: NSLayoutConstraint!
     @IBOutlet weak var pointInterrogation: UIButton!
@@ -43,6 +58,9 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     @IBOutlet weak var definitionVWidth: NSLayoutConstraint!
     @IBOutlet weak var iconeHVconstraint: NSLayoutConstraint!
     @IBOutlet weak var definitionHWidth: NSLayoutConstraint!
+    
+    @IBOutlet weak var addView: UIView!
+    
     
     var finDeCourse : Bool = false
     var backSpacePressed: Bool = false
@@ -68,6 +86,9 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     var indiceCrash: Int = 0
     override func viewDidLoad() { 
         super.viewDidLoad()
+        adBannerView.load(GADRequest())
+        navigationItem.titleView = adBannerView
+        
         let modelName = UIDevice.current.modelName
         // Position of the grid based on screen size
         if modelName == "iPhone 5" || modelName == "iPhone 5c" || modelName == "iPhone 5s"{
@@ -78,6 +99,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             leadingVerifierLettre.constant = -30
             trailingRevelerLettre.constant = 35
         }else if modelName == "iPad 2" || modelName == "iPad 3" || modelName == "iPad 4" || modelName == "iPad Air" || modelName == "iPad Air 2" || modelName == "iPad Pro" {
+            topView.constant = 50
             verticalPosition.constant = 0.44 * screenSize.height
             centreVerifierLettre.constant = 250
             topVérifierMot.constant = 20
@@ -93,6 +115,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
             definitionVWidth.constant = 380
         }else{
             verticalPosition.constant = 0.44 * screenSize.height
+
         }
         self.navigationController?.navigationBar.tintColor = UIColor.black
         let solution: Bool = false
@@ -140,9 +163,13 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
                 n = n + 1
             }
         }
+    
 
 
     }
+
+
+
     
 ///////////////////////////////////////////////////////
 // Initial position of cursor after the grid appears
@@ -164,9 +191,18 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         self.activityIndicatorView.stopAnimating()
         
     }
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
+    
+    func adViewDidReceiveAd(_ bannerView: GADBannerView) {
+        print("Banner loaded successfully")
+
+        
     }
+    
+    func adView(_ bannerView: GADBannerView, didFailToReceiveAdWithError error: GADRequestError) {
+        print("Fail to receive ads")
+        print(error)
+    }
+
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return self.lettres.count
     }
