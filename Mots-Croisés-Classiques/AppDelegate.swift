@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         navigationBarAppearace.barTintColor = (UIColor(patternImage: UIImage(named: "grungyPaper")!))
-        navigationBarAppearace.titleTextAttributes = [NSFontAttributeName: UIFont(name: "Times New Roman", size: 25)!]
+        navigationBarAppearace.titleTextAttributes = [NSAttributedStringKey.font: UIFont(name: "Times New Roman", size: 25)!]
         FirebaseApp.configure()
         GADMobileAds.configure(withApplicationID: "ca-app-pub-1437510869244180~1481602012")
         return true

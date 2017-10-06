@@ -312,7 +312,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         return true
     }
 
-    func textFieldDidChange(_ textField: UITextField) {
+    @objc func textFieldDidChange(_ textField: UITextField) {
         var indexPath: IndexPath = [0, 0]
         if textField.text != "#" {
             if indexPathRef.item > 99 {indexPath = [0, 99] }
@@ -501,7 +501,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 // the spaces between the cells, and then divide by N to find the final
 // dimension for the cell's width and height.
 /////////////////////////////////////////////////////////////////////////
-    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
+   @objc func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
     let cellsAcross: CGFloat = 10
     let spaceBetweenCells: CGFloat = 0
     let dim = (collectionView.bounds.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
