@@ -32,7 +32,7 @@ struct Grille {
     var choixDegrille: String
     mutating func epele() -> [String] {
         if definition.grille == choixDegrille {
-            let transitionArray = (Array(definition.mot.characters.map{String($0)}))
+            let transitionArray = (Array(definition.mot.map{String($0)}))
             lettre = transitionArray
         }
     return lettre

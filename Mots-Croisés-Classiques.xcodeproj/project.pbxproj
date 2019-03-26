@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		0DDBF9FE791FB90DC4C2E232 /* Pods_Mots_Croise_s_ClassiquesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8524A5411009C1943F8BF31 /* Pods_Mots_Croise_s_ClassiquesUITests.framework */; };
 		7C98C6303BE52A473DA817ED /* Pods_Mots_Croise_s_Classiques.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE3E67D9105E36C2C118538D /* Pods_Mots_Croise_s_Classiques.framework */; };
+		8E03D6DA224AD6720079D5BF /* Mots_Croise_s_ClassiquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */; };
+		8E03D6DC224AD6720079D5BF /* Pods_Mots_Croise_s_ClassiquesTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81124AD9750A8DC27003DF3A /* Pods_Mots_Croise_s_ClassiquesTests.framework */; };
 		8E0432E71E4CEDAE002ABF09 /* MotsCroisesArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */; };
 		8E0432E91E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */; };
 		8E1B672C1E578A3B00199F01 /* Orientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1B672B1E578A3B00199F01 /* Orientation.swift */; };
@@ -30,18 +32,16 @@
 		8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE71E15FBFE004D024F /* ViewController.swift */; };
 		8EB2FDED1E15FBFE004D024F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EB2FDEC1E15FBFE004D024F /* Assets.xcassets */; };
 		8EB2FDF01E15FBFE004D024F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */; };
-		8EB2FDFB1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */; };
 		8EB2FE061E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE051E15FBFE004D024F /* Mots_Croise_s_ClassiquesUITests.swift */; };
 		8EB2FE141E16BC5D004D024F /* DataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FE131E16BC5D004D024F /* DataStructure.swift */; };
 		8EC03DF91F6344D500F14619 /* GoogleToolboxForMac.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EC03DF81F6344D500F14619 /* GoogleToolboxForMac.framework */; };
 		8EDB1CCB1E676A1E00449B52 /* choixDeGrilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDB1CCA1E676A1E00449B52 /* choixDeGrilesViewController.swift */; };
 		8EE02DF21E97D932006B3643 /* cursor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE02DF11E97D932006B3643 /* cursor.swift */; };
 		8EE3503C1E60AD4C00C7D205 /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */; };
-		B8536B3A0590C57BD31B7560 /* Pods_Mots_Croise_s_ClassiquesTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81124AD9750A8DC27003DF3A /* Pods_Mots_Croise_s_ClassiquesTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		8EB2FDF71E15FBFE004D024F /* PBXContainerItemProxy */ = {
+		8E03D6D7224AD6720079D5BF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 8EB2FDDA1E15FBFE004D024F /* Project object */;
 			proxyType = 1;
@@ -61,6 +61,8 @@
 		4B73ED4977511C0B533CA586 /* Pods-Mots-Croisés-Classiques.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mots-Croisés-Classiques.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mots-Croisés-Classiques/Pods-Mots-Croisés-Classiques.release.xcconfig"; sourceTree = "<group>"; };
 		79B62AA630D3C0FD9E22552E /* Pods-Mots-Croisés-ClassiquesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mots-Croisés-ClassiquesTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mots-Croisés-ClassiquesTests/Pods-Mots-Croisés-ClassiquesTests.release.xcconfig"; sourceTree = "<group>"; };
 		81124AD9750A8DC27003DF3A /* Pods_Mots_Croise_s_ClassiquesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Mots_Croise_s_ClassiquesTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E03D6E3224AD6720079D5BF /* Mots-Croisés-ClassiquesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mots-Croisés-ClassiquesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E03D6E4224AD6730079D5BF /* Mots-Croisés-ClassiquesTests copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Mots-Croisés-ClassiquesTests copy-Info.plist"; path = "/Users/normandmartin/Desktop/IOSProjects/Mots-Croisés-Classiques/Mots-Croisés-ClassiquesTests copy-Info.plist"; sourceTree = "<absolute>"; };
 		8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotsCroisesArray.swift; sourceTree = "<group>"; };
 		8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteCheckMotsCroises.swift; sourceTree = "<group>"; };
 		8E1B672B1E578A3B00199F01 /* Orientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Orientation.swift; sourceTree = "<group>"; };
@@ -89,7 +91,6 @@
 		8EB2FDEC1E15FBFE004D024F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EB2FDEF1E15FBFE004D024F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EB2FDF11E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EB2FDF61E15FBFE004D024F /* Mots-Croisés-ClassiquesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mots-Croisés-ClassiquesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB2FDFA1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mots_Croise_s_ClassiquesTests.swift; sourceTree = "<group>"; };
 		8EB2FDFC1E15FBFE004D024F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EB2FE011E15FBFE004D024F /* Mots-Croisés-ClassiquesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mots-Croisés-ClassiquesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -109,20 +110,20 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		8E03D6DB224AD6720079D5BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E03D6DC224AD6720079D5BF /* Pods_Mots_Croise_s_ClassiquesTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8EB2FDDF1E15FBFE004D024F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				8EC03DF91F6344D500F14619 /* GoogleToolboxForMac.framework in Frameworks */,
 				7C98C6303BE52A473DA817ED /* Pods_Mots_Croise_s_Classiques.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8EB2FDF31E15FBFE004D024F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B8536B3A0590C57BD31B7560 /* Pods_Mots_Croise_s_ClassiquesTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -181,6 +182,7 @@
 				8EB2FDE31E15FBFE004D024F /* Products */,
 				024F9994D87560F12EE445C9 /* Pods */,
 				6790B5C8942E54F1662F8CBB /* Frameworks */,
+				8E03D6E4224AD6730079D5BF /* Mots-Croisés-ClassiquesTests copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -188,8 +190,8 @@
 			isa = PBXGroup;
 			children = (
 				8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */,
-				8EB2FDF61E15FBFE004D024F /* Mots-Croisés-ClassiquesTests.xctest */,
 				8EB2FE011E15FBFE004D024F /* Mots-Croisés-ClassiquesUITests.xctest */,
+				8E03D6E3224AD6720079D5BF /* Mots-Croisés-ClassiquesTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -249,6 +251,27 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		8E03D6D5224AD6720079D5BF /* Mots-Croisés-ClassiquesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8E03D6E0224AD6720079D5BF /* Build configuration list for PBXNativeTarget "Mots-Croisés-ClassiquesTests" */;
+			buildPhases = (
+				8E03D6D8224AD6720079D5BF /* [CP] Check Pods Manifest.lock */,
+				8E03D6D9224AD6720079D5BF /* Sources */,
+				8E03D6DB224AD6720079D5BF /* Frameworks */,
+				8E03D6DD224AD6720079D5BF /* Resources */,
+				8E03D6DE224AD6720079D5BF /* [CP] Embed Pods Frameworks */,
+				8E03D6DF224AD6720079D5BF /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8E03D6D6224AD6720079D5BF /* PBXTargetDependency */,
+			);
+			name = "Mots-Croisés-ClassiquesTests";
+			productName = "Mots-Croisés-ClassiquesTests";
+			productReference = 8E03D6E3224AD6720079D5BF /* Mots-Croisés-ClassiquesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		8EB2FDE11E15FBFE004D024F /* Mots-Croisés-Classiques */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8EB2FE0A1E15FBFE004D024F /* Build configuration list for PBXNativeTarget "Mots-Croisés-Classiques" */;
@@ -268,27 +291,6 @@
 			productName = "Mots-Croisés-Classiques";
 			productReference = 8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */;
 			productType = "com.apple.product-type.application";
-		};
-		8EB2FDF51E15FBFE004D024F /* Mots-Croisés-ClassiquesTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8EB2FE0D1E15FBFE004D024F /* Build configuration list for PBXNativeTarget "Mots-Croisés-ClassiquesTests" */;
-			buildPhases = (
-				9421EE2E3BA76E2F702B746B /* [CP] Check Pods Manifest.lock */,
-				8EB2FDF21E15FBFE004D024F /* Sources */,
-				8EB2FDF31E15FBFE004D024F /* Frameworks */,
-				8EB2FDF41E15FBFE004D024F /* Resources */,
-				CC7AD7833806B0BBEA48C1AB /* [CP] Embed Pods Frameworks */,
-				A37417E4AFE404C27A237664 /* [CP] Copy Pods Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8EB2FDF81E15FBFE004D024F /* PBXTargetDependency */,
-			);
-			name = "Mots-Croisés-ClassiquesTests";
-			productName = "Mots-Croisés-ClassiquesTests";
-			productReference = 8EB2FDF61E15FBFE004D024F /* Mots-Croisés-ClassiquesTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		8EB2FE001E15FBFE004D024F /* Mots-Croisés-ClassiquesUITests */ = {
 			isa = PBXNativeTarget;
@@ -318,26 +320,23 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "Normand Martin";
 				TargetAttributes = {
+					8E03D6D5224AD6720079D5BF = {
+						DevelopmentTeam = X6D769Z7F4;
+						LastSwiftMigration = 1020;
+					};
 					8EB2FDE11E15FBFE004D024F = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = X6D769Z7F4;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
-					};
-					8EB2FDF51E15FBFE004D024F = {
-						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = X6D769Z7F4;
-						LastSwiftMigration = 0900;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 8EB2FDE11E15FBFE004D024F;
 					};
 					8EB2FE001E15FBFE004D024F = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = X6D769Z7F4;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 8EB2FDE11E15FBFE004D024F;
 					};
@@ -345,11 +344,12 @@
 			};
 			buildConfigurationList = 8EB2FDDD1E15FBFE004D024F /* Build configuration list for PBXProject "Mots-Croisés-Classiques" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				fr,
 			);
 			mainGroup = 8EB2FDD91E15FBFE004D024F;
 			productRefGroup = 8EB2FDE31E15FBFE004D024F /* Products */;
@@ -357,13 +357,20 @@
 			projectRoot = "";
 			targets = (
 				8EB2FDE11E15FBFE004D024F /* Mots-Croisés-Classiques */,
-				8EB2FDF51E15FBFE004D024F /* Mots-Croisés-ClassiquesTests */,
+				8E03D6D5224AD6720079D5BF /* Mots-Croisés-ClassiquesTests */,
 				8EB2FE001E15FBFE004D024F /* Mots-Croisés-ClassiquesUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		8E03D6DD224AD6720079D5BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8EB2FDE01E15FBFE004D024F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -373,13 +380,6 @@
 				8E2B50891F634BE2002CBC83 /* GoogleService-Info.plist in Resources */,
 				8EB2FDED1E15FBFE004D024F /* Assets.xcassets in Resources */,
 				8E3D35111F63356300813AF4 /* Main.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8EB2FDF41E15FBFE004D024F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,7 +411,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		9421EE2E3BA76E2F702B746B /* [CP] Check Pods Manifest.lock */ = {
+		8E03D6D8224AD6720079D5BF /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -429,7 +429,22 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A37417E4AFE404C27A237664 /* [CP] Copy Pods Resources */ = {
+		8E03D6DE224AD6720079D5BF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mots-Croisés-ClassiquesTests/Pods-Mots-Croisés-ClassiquesTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8E03D6DF224AD6720079D5BF /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -494,21 +509,6 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mots-Croisés-ClassiquesUITests/Pods-Mots-Croisés-ClassiquesUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		CC7AD7833806B0BBEA48C1AB /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Mots-Croisés-ClassiquesTests/Pods-Mots-Croisés-ClassiquesTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		E6A998BCF2A35B0C4A7D08A0 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -545,6 +545,14 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		8E03D6D9224AD6720079D5BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E03D6DA224AD6720079D5BF /* Mots_Croise_s_ClassiquesTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		8EB2FDDE1E15FBFE004D024F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -572,14 +580,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8EB2FDF21E15FBFE004D024F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8EB2FDFB1E15FBFE004D024F /* Mots_Croise_s_ClassiquesTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8EB2FDFD1E15FBFE004D024F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -591,10 +591,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		8EB2FDF81E15FBFE004D024F /* PBXTargetDependency */ = {
+		8E03D6D6224AD6720079D5BF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 8EB2FDE11E15FBFE004D024F /* Mots-Croisés-Classiques */;
-			targetProxy = 8EB2FDF71E15FBFE004D024F /* PBXContainerItemProxy */;
+			targetProxy = 8E03D6D7224AD6720079D5BF /* PBXContainerItemProxy */;
 		};
 		8EB2FE031E15FBFE004D024F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -616,6 +616,60 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		8E03D6E1224AD6720079D5BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DA0214ABC62FD162533AEDA2 /* Pods-Mots-Croisés-ClassiquesTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = X6D769Z7F4;
+				ENABLE_TESTABILITY = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_ROOT}/Headers/Public\"",
+					"\"${PODS_ROOT}/Headers/Public/Firebase\"",
+					"\"${PODS_ROOT}/Headers/Public/FirebaseAnalytics\"",
+					"\"${PODS_ROOT}/Headers/Public/FirebaseCore\"",
+					"\"${PODS_ROOT}/Headers/Public/FirebaseInstanceID\"",
+					"\"${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK\"",
+					"\"${PODS_ROOT}/Firebase/Core/Sources\"",
+				);
+				INFOPLIST_FILE = "Mots-Croisés-ClassiquesTests copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mots-Croisés-Classiques.app/Mots-Croisés-Classiques";
+			};
+			name = Debug;
+		};
+		8E03D6E2224AD6720079D5BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 79B62AA630D3C0FD9E22552E /* Pods-Mots-Croisés-ClassiquesTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = X6D769Z7F4;
+				ENABLE_TESTABILITY = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_ROOT}/Headers/Public\"",
+					"\"${PODS_ROOT}/Headers/Public/Firebase\"",
+					"\"${PODS_ROOT}/Headers/Public/FirebaseAnalytics\"",
+					"\"${PODS_ROOT}/Headers/Public/FirebaseCore\"",
+					"\"${PODS_ROOT}/Headers/Public/FirebaseInstanceID\"",
+					"\"${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK\"",
+					"\"${PODS_ROOT}/Firebase/Core/Sources\"",
+				);
+				INFOPLIST_FILE = "Mots-Croisés-ClassiquesTests copy-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mots-Croisés-Classiques.app/Mots-Croisés-Classiques";
+			};
+			name = Release;
+		};
 		8EB2FE081E15FBFE004D024F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -630,6 +684,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -637,6 +692,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -688,6 +744,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -695,6 +752,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -737,8 +795,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -755,63 +812,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		8EB2FE0E1E15FBFE004D024F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA0214ABC62FD162533AEDA2 /* Pods-Mots-Croisés-ClassiquesTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = X6D769Z7F4;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"${PODS_ROOT}/Headers/Public\"",
-					"\"${PODS_ROOT}/Headers/Public/Firebase\"",
-					"\"${PODS_ROOT}/Headers/Public/FirebaseAnalytics\"",
-					"\"${PODS_ROOT}/Headers/Public/FirebaseCore\"",
-					"\"${PODS_ROOT}/Headers/Public/FirebaseInstanceID\"",
-					"\"${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK\"",
-					"\"${PODS_ROOT}/Firebase/Core/Sources\"",
-				);
-				INFOPLIST_FILE = "Mots-Croisés-ClassiquesTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mots-Croisés-Classiques.app/Mots-Croisés-Classiques";
-			};
-			name = Debug;
-		};
-		8EB2FE0F1E15FBFE004D024F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 79B62AA630D3C0FD9E22552E /* Pods-Mots-Croisés-ClassiquesTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = X6D769Z7F4;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"${PODS_ROOT}/Headers/Public\"",
-					"\"${PODS_ROOT}/Headers/Public/Firebase\"",
-					"\"${PODS_ROOT}/Headers/Public/FirebaseAnalytics\"",
-					"\"${PODS_ROOT}/Headers/Public/FirebaseCore\"",
-					"\"${PODS_ROOT}/Headers/Public/FirebaseInstanceID\"",
-					"\"${PODS_ROOT}/Headers/Public/Google-Mobile-Ads-SDK\"",
-					"\"${PODS_ROOT}/Firebase/Core/Sources\"",
-				);
-				INFOPLIST_FILE = "Mots-Croisés-ClassiquesTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mots-Croisés-Classiques.app/Mots-Croisés-Classiques";
 			};
 			name = Release;
 		};
@@ -825,8 +827,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = "Mots-Croisés-Classiques";
 			};
 			name = Debug;
@@ -841,8 +842,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = "Mots-Croisés-Classiques";
 			};
 			name = Release;
@@ -850,6 +850,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		8E03D6E0224AD6720079D5BF /* Build configuration list for PBXNativeTarget "Mots-Croisés-ClassiquesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E03D6E1224AD6720079D5BF /* Debug */,
+				8E03D6E2224AD6720079D5BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		8EB2FDDD1E15FBFE004D024F /* Build configuration list for PBXProject "Mots-Croisés-Classiques" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -864,15 +873,6 @@
 			buildConfigurations = (
 				8EB2FE0B1E15FBFE004D024F /* Debug */,
 				8EB2FE0C1E15FBFE004D024F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8EB2FE0D1E15FBFE004D024F /* Build configuration list for PBXNativeTarget "Mots-Croisés-ClassiquesTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8EB2FE0E1E15FBFE004D024F /* Debug */,
-				8EB2FE0F1E15FBFE004D024F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -167,10 +167,11 @@ class DetailMotsCroises: UITableViewController, GADBannerViewDelegate {
             } 
             n = n + 1
         }
-        UserDefaults.standard.set(stateOfMotsCroises, forKey: "stateOfMotsCroises")
         self.tableView.reloadRows(at: [[0, index] ], with: UITableViewRowAnimation.none)
+        UserDefaults.standard.set(stateOfMotsCroises, forKey: "stateOfMotsCroises")
         if fenetre == false {
-            showAlert4()        }
+            showAlert4()
+        }
         
     }
 }
