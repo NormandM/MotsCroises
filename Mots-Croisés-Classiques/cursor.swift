@@ -14,7 +14,7 @@ class cursor: UITextField {
         return CGRect.zero
     }
     
-    override func selectionRects(for range: UITextRange) ->  [Any] {
+    func selectionRects(for range: UITextRange) ->  [Any] {
      
     return []
     }

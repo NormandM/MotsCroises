@@ -237,8 +237,8 @@ class choixDeGrilesViewController: UIViewController, SKProductsRequestDelegate,S
             
             // IAP Purchases dsabled on the Device
         } else {
-            let alert = UIAlertController(title: "Mots Croisés Classiques", message: "L'option achat est désactivé sur votre appareil", preferredStyle: UIAlertControllerStyle.alert)
-            alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+            let alert = UIAlertController(title: "Mots Croisés Classiques", message: "L'option achat est désactivé sur votre appareil", preferredStyle: UIAlertController.Style.alert)
+            alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
             self.present(alert, animated: true, completion: nil)
 
         }
@@ -371,8 +371,8 @@ class choixDeGrilesViewController: UIViewController, SKProductsRequestDelegate,S
             }
         }
         
-        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Vos achats ont été rétablis!", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Vos achats ont été rétablis!", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
  
     }

@@ -665,8 +665,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     func showAlert () {
         
 
-        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Bravo, vous avez complété la grille!", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Bravo, vous avez complété la grille!", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
 
     }
@@ -675,8 +675,8 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     }
     func showAlert2 (){
 
-        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Il n'y a pas d'erreur", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Il n'y a pas d'erreur", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
 
         
@@ -687,9 +687,9 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     }
     func showAlert3 (){
         
-        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Êtes vous sur de vouloir tout effacer?", preferredStyle: UIAlertControllerStyle.alert)
-        alert.addAction(UIAlertAction(title: "Oui", style: UIAlertActionStyle.destructive, handler:{(alert: UIAlertAction!) in self.actionEffaceGrille()}))
-        alert.addAction(UIAlertAction(title: "Non", style: UIAlertActionStyle.default, handler: nil))
+        let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Êtes vous sur de vouloir tout effacer?", preferredStyle: UIAlertController.Style.alert)
+        alert.addAction(UIAlertAction(title: "Oui", style: UIAlertAction.Style.destructive, handler:{(alert: UIAlertAction!) in self.actionEffaceGrille()}))
+        alert.addAction(UIAlertAction(title: "Non", style: UIAlertAction.Style.default, handler: nil))
         self.present(alert, animated: true, completion: nil)
         
     }
