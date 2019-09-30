@@ -17,6 +17,7 @@
 		8E21697C1E5F616100C17EEA /* MotsCroise.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E21697A1E5F616100C17EEA /* MotsCroise.xcdatamodeld */; };
 		8E2B50891F634BE2002CBC83 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E2B50881F634BE2002CBC83 /* GoogleService-Info.plist */; };
 		8E3D35111F63356300813AF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E3D35101F63356300813AF4 /* Main.storyboard */; };
+		8E43A16A2342723C00110308 /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E43A1692342723C00110308 /* ListeMot.plist */; };
 		8E4B20241E4E326D0099503C /* Verification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4B20231E4E326D0099503C /* Verification.swift */; };
 		8E4E16871E24017F0004E8C4 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */; };
 		8E5BFB971E295467009148D7 /* TextFieldMaxLengths.swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */; };
@@ -26,7 +27,6 @@
 		8EA0904D1E5A344600A3A03F /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA0904C1E5A344600A3A03F /* DataController.swift */; };
 		8EA620021E71DEC000A6DC7C /* Item+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA620001E71DEC000A6DC7C /* Item+CoreDataClass.swift */; };
 		8EA620031E71DEC000A6DC7C /* Item+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA620011E71DEC000A6DC7C /* Item+CoreDataProperties.swift */; };
-		8EAC905B1F6702BE00EA88A6 /* ListeMot.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EAC905A1F6702BE00EA88A6 /* ListeMot.plist */; };
 		8EB1A7F31E63580E00D95EA1 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB1A7F21E63580E00D95EA1 /* Device.swift */; };
 		8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */; };
 		8EB2FDE81E15FBFE004D024F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB2FDE71E15FBFE004D024F /* ViewController.swift */; };
@@ -74,6 +74,7 @@
 		8E2B025D1EB4319600A48BBE /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		8E2B50881F634BE2002CBC83 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8E3D35101F63356300813AF4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		8E43A1692342723C00110308 /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
 		8E4B20231E4E326D0099503C /* Verification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Verification.swift; sourceTree = "<group>"; };
 		8E4E16861E24017F0004E8C4 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E5BFB961E295467009148D7 /* TextFieldMaxLengths.swift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldMaxLengths.swift.swift; sourceTree = "<group>"; };
@@ -83,7 +84,6 @@
 		8EA0904C1E5A344600A3A03F /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		8EA620001E71DEC000A6DC7C /* Item+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Item+CoreDataClass.swift"; path = "../Item+CoreDataClass.swift"; sourceTree = "<group>"; };
 		8EA620011E71DEC000A6DC7C /* Item+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Item+CoreDataProperties.swift"; path = "../Item+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		8EAC905A1F6702BE00EA88A6 /* ListeMot.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ListeMot.plist; sourceTree = "<group>"; };
 		8EB1A7F21E63580E00D95EA1 /* Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 		8EB2FDE21E15FBFE004D024F /* Mots-Croisés-Classiques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mots-Croisés-Classiques.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EB2FDE51E15FBFE004D024F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -206,8 +206,8 @@
 				8EA620001E71DEC000A6DC7C /* Item+CoreDataClass.swift */,
 				8EA620011E71DEC000A6DC7C /* Item+CoreDataProperties.swift */,
 				8EB2FE131E16BC5D004D024F /* DataStructure.swift */,
-				8EAC905A1F6702BE00EA88A6 /* ListeMot.plist */,
 				8E0432E61E4CEDAE002ABF09 /* MotsCroisesArray.swift */,
+				8E43A1692342723C00110308 /* ListeMot.plist */,
 				8E7D57551E538F730032382A /* ReponseTotale.swift */,
 				8E0432E81E4CEF7A002ABF09 /* CompleteCheckMotsCroises.swift */,
 				8E4B20231E4E326D0099503C /* Verification.swift */,
@@ -375,7 +375,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8EAC905B1F6702BE00EA88A6 /* ListeMot.plist in Resources */,
+				8E43A16A2342723C00110308 /* ListeMot.plist in Resources */,
 				8EB2FDF01E15FBFE004D024F /* LaunchScreen.storyboard in Resources */,
 				8E2B50891F634BE2002CBC83 /* GoogleService-Info.plist in Resources */,
 				8EB2FDED1E15FBFE004D024F /* Assets.xcassets in Resources */,

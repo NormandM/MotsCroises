@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="O7h-Mm-Imi">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="O7h-Mm-Imi">
     <device id="retina5_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
-        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -94,7 +92,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="7oX-GX-2MX">
-                                <rect key="frame" x="289.66666666666669" y="321" width="60" height="45"/>
+                                <rect key="frame" x="289" y="320.66666666666669" width="60" height="45"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="YMx-qL-dc6"/>
@@ -125,7 +123,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="zCn-kl-Cxj">
-                                <rect key="frame" x="289.66666666666669" y="515" width="60" height="45"/>
+                                <rect key="frame" x="289" y="514.66666666666663" width="60" height="45"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="EsE-7Z-uty"/>
@@ -140,7 +138,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  1 à 10 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eh8-0z-HR4">
-                                <rect key="frame" x="32" y="235.66666666666666" width="200" height="20"/>
+                                <rect key="frame" x="32" y="236" width="200" height="20"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="FNm-SJ-ZmJ"/>
                                     <constraint firstAttribute="height" constant="20" id="uKY-9Z-Pwr"/>
@@ -150,7 +148,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="e7w-mn-D4o">
-                                <rect key="frame" x="289.66666666666669" y="223.66666666666666" width="60" height="44.999999999999972"/>
+                                <rect key="frame" x="289" y="223.66666666666666" width="60" height="44.999999999999972"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="60" id="eD6-hC-WPF"/>
@@ -174,7 +172,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  21 à 30 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oI6-OV-6tu">
-                                <rect key="frame" x="32" y="428.66666666666669" width="200" height="22"/>
+                                <rect key="frame" x="32" y="429" width="200" height="22"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="22" id="Qhf-7p-TLA"/>
                                     <constraint firstAttribute="width" constant="200" id="Qtk-XB-AtG"/>
@@ -184,7 +182,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Grilles  31 à 40 " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GxT-tI-cX7">
-                                <rect key="frame" x="32" y="526.66666666666663" width="200" height="22"/>
+                                <rect key="frame" x="32" y="526" width="200" height="22"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="22" id="DfI-gL-onx"/>
                                     <constraint firstAttribute="width" constant="200" id="Mjg-fV-ihm"/>
@@ -204,7 +202,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="lmo-7N-uMY">
-                                <rect key="frame" x="289.66666666666669" y="612" width="60" height="45"/>
+                                <rect key="frame" x="289" y="611.66666666666663" width="60" height="45"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="45" id="Qgt-fL-SJI"/>
@@ -427,12 +425,11 @@
                                             <rect key="frame" x="0.0" y="0.0" width="38" height="38"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <textField opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="DiO-vK-ze2" customClass="cursor" customModule="Mots_Croise_s_Classiques" customModuleProvider="target">
-                                                    <rect key="frame" x="14" y="10" width="9" height="19"/>
+                                                <textField opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="DiO-vK-ze2" customClass="cursor" customModule="Mots_Croise_s_Classiques" customModuleProvider="target">
+                                                    <rect key="frame" x="15" y="11.666666666666664" width="8" height="15"/>
                                                     <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                     <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                     <nil key="textColor"/>
-                                                    <fontDescription key="fontDescription" name="TimesNewRomanPS-BoldMT" family="Times New Roman" pointSize="17"/>
                                                     <textInputTraits key="textInputTraits" autocapitalizationType="allCharacters" autocorrectionType="no" spellCheckingType="no" enablesReturnKeyAutomatically="YES"/>
                                                     <userDefinedRuntimeAttributes>
                                                         <userDefinedRuntimeAttribute type="number" keyPath="maxLength">

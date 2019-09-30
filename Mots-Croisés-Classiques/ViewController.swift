@@ -283,6 +283,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         let isBackSpace = strcmp(char, "\\b")
         
         if (isBackSpace == -92) {
+            print("isBackSpace")
             backSpacePressed = true
             if h {
                 if indexPathBack == [] {indexPathBack = [0, 0]}
