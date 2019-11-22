@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Errer</string>
+			<string> Elles parcourent le monde</string>
+			<string>VAGABONDER</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Plantes herbacées</string>
+			<string>VAGABONDER</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string></string>
+			<string>VAGABONDER</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Acquérir</string>
+			<string>VAGABONDER</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Unités élémentaires d'information</string>
+			<string>VAGABONDER</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Commune française</string>
+			<string>VAGABONDER</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Nickel</string>
+			<string>VAGABONDER</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Refuse de reconnaître</string>
+			<string>VAGABONDER</string>
+			<string>DENIE</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string>  Espaces de temps.</string>
+			<string>VAGABONDER</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Errer</string>
+			<string> Discrets</string>
+			<string>VAGABONDER</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Précieux métal</string>
+			<string> Elles parcourent le monde</string>
+			<string>OR</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Précieux métal</string>
+			<string> Plantes herbacées</string>
+			<string>OR</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string> Acquérir</string>
+			<string>CIRIERE</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string> Unités élémentaires d'information</string>
+			<string>CIRIERE</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string> Commune française</string>
+			<string>CIRIERE</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string> Nickel</string>
+			<string>CIRIERE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string> Refuse de reconnaître</string>
+			<string>CIRIERE</string>
+			<string>DENIE</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string>  Espaces de temps.</string>
+			<string>CIRIERE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Une abeille</string>
+			<string> Discrets</string>
+			<string>CIRIERE</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Grands navires de plaisance.</string>
+			<string> Elles parcourent le monde</string>
+			<string>YACHTS</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Grands navires de plaisance.</string>
+			<string> Plantes herbacées</string>
+			<string>YACHTS</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> Grands navires de plaisance.</string>
+			<string> Démonstratif</string>
+			<string>YACHTS</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> Grands navires de plaisance.</string>
+			<string> Acquérir</string>
+			<string>YACHTS</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string> Grands navires de plaisance.</string>
+			<string> Unités élémentaires d'information</string>
+			<string>YACHTS</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string> Grands navires de plaisance.</string>
+			<string> Commune française</string>
+			<string>YACHTS</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Propre</string>
+			<string> Refuse de reconnaître</string>
+			<string>NET</string>
+			<string>DENIE</string>
+		</array>
+		<array>
+			<string>  Propre</string>
+			<string>  Espaces de temps.</string>
+			<string>NET</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>  Propre</string>
+			<string> Discrets</string>
+			<string>NET</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Canaux d'évacuation d'un moulin</string>
+			<string> Elles parcourent le monde</string>
+			<string>ABEES</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Canaux d'évacuation d'un moulin</string>
+			<string> Plantes herbacées</string>
+			<string>ABEES</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> Canaux d'évacuation d'un moulin</string>
+			<string> Démonstratif</string>
+			<string>ABEES</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> Canaux d'évacuation d'un moulin</string>
+			<string> Acquérir</string>
+			<string>ABEES</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string> Canaux d'évacuation d'un moulin</string>
+			<string> Unités élémentaires d'information</string>
+			<string>ABEES</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Facile</string>
+			<string> Enzyme.</string>
+			<string>AISE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Facile</string>
+			<string> Refuse de reconnaître</string>
+			<string>AISE</string>
+			<string>DENIE</string>
+		</array>
+		<array>
+			<string> Facile</string>
+			<string>  Espaces de temps.</string>
+			<string>AISE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Facile</string>
+			<string> Discrets</string>
+			<string>AISE</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mère des Titans</string>
+			<string> Elles parcourent le monde</string>
+			<string>GE</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Mère des Titans</string>
+			<string> Plantes herbacées</string>
+			<string>GE</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Acquérir</string>
+			<string>T</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Naturel</string>
+			<string>ISE</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Enzyme.</string>
+			<string>ISE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Refuse de reconnaître</string>
+			<string>ISE</string>
+			<string>DENIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Discrets</string>
+			<string>N</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Elles parcourent le monde</string>
+			<string>ETRENNE</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Plantes herbacées</string>
+			<string>ETRENNE</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Demeura</string>
+			<string>ETRENNE</string>
+			<string>RESTA</string>
+		</array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Acquérir</string>
+			<string>ETRENNE</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Rejetas</string>
+			<string>ETRENNE</string>
+			<string>NIAS</string>
+		</array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Naturel</string>
+			<string>ETRENNE</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Utilise une première fois</string>
+			<string> Enzyme.</string>
+			<string>ETRENNE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petit ruisseau</string>
+			<string> Tondue</string>
+			<string>RU</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Petit ruisseau</string>
+			<string> Discrets</string>
+			<string>RU</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> De la même mère</string>
+			<string> Elles parcourent le monde</string>
+			<string>UTERIN</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> De la même mère</string>
+			<string> Plantes herbacées</string>
+			<string>UTERIN</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> De la même mère</string>
+			<string> Demeura</string>
+			<string>UTERIN</string>
+			<string>RESTA</string>
+		</array>
+		<array>
+			<string> De la même mère</string>
+			<string> Acquérir</string>
+			<string>UTERIN</string>
+			<string>ACHETER</string>
+		</array>
+		<array>
+			<string> De la même mère</string>
+			<string> Rejetas</string>
+			<string>UTERIN</string>
+			<string>NIAS</string>
+		</array>
+		<array>
+			<string> De la même mère</string>
+			<string> Naturel</string>
+			<string>UTERIN</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Il y en a cinq</string>
+			<string>SAS</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Tondue</string>
+			<string>SAS</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Discrets</string>
+			<string>SAS</string>
+			<string>RETENUS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif.</string>
+			<string> Elles parcourent le monde</string>
+			<string>SES</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Plantes herbacées</string>
+			<string>SES</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Demeura</string>
+			<string>SES</string>
+			<string>RESTA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ouvres la fenêtre</string>
+			<string> Rejetas</string>
+			<string>AERES</string>
+			<string>NIAS</string>
+		</array>
+		<array>
+			<string> Ouvres la fenêtre</string>
+			<string> Naturel</string>
+			<string>AERES</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Ouvres la fenêtre</string>
+			<string> Les gens y circulent</string>
+			<string>AERES</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Ouvres la fenêtre</string>
+			<string> Il y en a cinq</string>
+			<string>AERES</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Ouvres la fenêtre</string>
+			<string> Tondue</string>
+			<string>AERES</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Estoniens</string>
+			<string> Elles parcourent le monde</string>
+			<string>ESTES</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Plantes herbacées</string>
+			<string>ESTES</string>
+			<string>ARABETTES</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Demeura</string>
+			<string>ESTES</string>
+			<string>RESTA</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Du verbe être</string>
+			<string>ESTES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Rejetas</string>
+			<string>ESTES</string>
+			<string>NIAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Les gens y circulent</string>
+			<string>UNES</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Il y en a cinq</string>
+			<string>UNES</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Tondue</string>
+			<string>UNES</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Pronom</string>
+			<string>UNES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elles parcourent le monde</string>
+			<string>S</string>
+			<string>VOYAGEUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Demeura</string>
+			<string>AS</string>
+			<string>RESTA</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Du verbe être</string>
+			<string>AS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Blessée</string>
+			<string></string>
+			<string>LESEE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Blessée</string>
+			<string> Les gens y circulent</string>
+			<string>LESEE</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Blessée</string>
+			<string> Il y en a cinq</string>
+			<string>LESEE</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Blessée</string>
+			<string> Tondue</string>
+			<string>LESEE</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Blessée</string>
+			<string> Pronom</string>
+			<string>LESEE</string>
+			<string>SE</string>
+		</array>
+	</array>
+</array>
+</plist>

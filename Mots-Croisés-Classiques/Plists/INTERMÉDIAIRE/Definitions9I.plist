@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Détérioration</string>
+			<string>APOCALYPSE</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Rit aux éclats</string>
+			<string>APOCALYPSE</string>
+			<string>POILE</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Provoque</string>
+			<string>APOCALYPSE</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Cela</string>
+			<string>APOCALYPSE</string>
+			<string>CA</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Bière anglaise</string>
+			<string>APOCALYPSE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Diode lumineuse</string>
+			<string>APOCALYPSE</string>
+			<string>LED</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string></string>
+			<string>APOCALYPSE</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Fut à même de</string>
+			<string>APOCALYPSE</string>
+			<string>PUT</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Traitent de haut</string>
+			<string>APOCALYPSE</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string>C&apos;est la fin</string>
+			<string>Avant un titre universitaire</string>
+			<string>APOCALYPSE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Régionale</string>
+			<string>Détérioration</string>
+			<string>LOCALE</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Régionale</string>
+			<string>Rit aux éclats</string>
+			<string>LOCALE</string>
+			<string>POILE</string>
+		</array>
+		<array>
+			<string>Régionale</string>
+			<string>Provoque</string>
+			<string>LOCALE</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Régionale</string>
+			<string>Cela</string>
+			<string>LOCALE</string>
+			<string>CA</string>
+		</array>
+		<array>
+			<string>Régionale</string>
+			<string>Bière anglaise</string>
+			<string>LOCALE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string>Régionale</string>
+			<string>Diode lumineuse</string>
+			<string>LOCALE</string>
+			<string>LED</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Fut à même de</string>
+			<string>UNS</string>
+			<string>PUT</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Traitent de haut</string>
+			<string>UNS</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Avant un titre universitaire</string>
+			<string>UNS</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mouvement convulsif</string>
+			<string>Détérioration</string>
+			<string>TIC</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Mouvement convulsif</string>
+			<string>Rit aux éclats</string>
+			<string>TIC</string>
+			<string>POILE</string>
+		</array>
+		<array>
+			<string>Mouvement convulsif</string>
+			<string>Provoque</string>
+			<string>TIC</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Bière anglaise</string>
+			<string>EDITO</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Diode lumineuse</string>
+			<string>EDITO</string>
+			<string>LED</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>D&apos;une province grec</string>
+			<string>EDITO</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Fut à même de</string>
+			<string>EDITO</string>
+			<string>PUT</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Traitent de haut</string>
+			<string>EDITO</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il faut le prendre avant de sauter</string>
+			<string>Détérioration</string>
+			<string>ELAN</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Il faut le prendre avant de sauter</string>
+			<string>Rit aux éclats</string>
+			<string>ELAN</string>
+			<string>POILE</string>
+		</array>
+		<array>
+			<string>Il faut le prendre avant de sauter</string>
+			<string>Provoque</string>
+			<string>ELAN</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Il faut le prendre avant de sauter</string>
+			<string>Argot, sein</string>
+			<string>ELAN</string>
+			<string>NIB</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>D&apos;une province grec</string>
+			<string>O</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Répété, c&apos;est le cri du mouton</string>
+			<string>Traitent de haut</string>
+			<string>BE</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string>Répété, c&apos;est le cri du mouton</string>
+			<string>Existes</string>
+			<string>BE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Domiciles</string>
+			<string>Détérioration</string>
+			<string>RESIDENCES</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Rit aux éclats</string>
+			<string>RESIDENCES</string>
+			<string>POILE</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Provoque</string>
+			<string>RESIDENCES</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Argot, sein</string>
+			<string>RESIDENCES</string>
+			<string>NIB</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Déodorants</string>
+			<string>RESIDENCES</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Commune française</string>
+			<string>RESIDENCES</string>
+			<string>ERR</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>D&apos;une province grec</string>
+			<string>RESIDENCES</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Interrompre</string>
+			<string>RESIDENCES</string>
+			<string>CESSER</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Traitent de haut</string>
+			<string>RESIDENCES</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string>Domiciles</string>
+			<string>Existes</string>
+			<string>RESIDENCES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Détérioration</string>
+			<string>A</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>Provoque</string>
+			<string>IBERIEN</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>Argot, sein</string>
+			<string>IBERIEN</string>
+			<string>NIB</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>Déodorants</string>
+			<string>IBERIEN</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>Commune française</string>
+			<string>IBERIEN</string>
+			<string>ERR</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>D&apos;une province grec</string>
+			<string>IBERIEN</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>Interrompre</string>
+			<string>IBERIEN</string>
+			<string>CESSER</string>
+		</array>
+		<array>
+			<string>Habitait l&apos;Espagne ou le Portugal</string>
+			<string>Traitent de haut</string>
+			<string>IBERIEN</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Principe chinois</string>
+			<string>Détérioration</string>
+			<string>TAO</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Principe chinois</string>
+			<string>Ancienne ville d&apos;Arménie</string>
+			<string>TAO</string>
+			<string>ANI</string>
+		</array>
+		<array>
+			<string>Principe chinois</string>
+			<string>Provoque</string>
+			<string>TAO</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Frère d&apos;Électre</string>
+			<string>Déodorants</string>
+			<string>ORESTE</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string>Frère d&apos;Électre</string>
+			<string>Commune française</string>
+			<string>ORESTE</string>
+			<string>ERR</string>
+		</array>
+		<array>
+			<string>Frère d&apos;Électre</string>
+			<string>D&apos;une province grec</string>
+			<string>ORESTE</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Frère d&apos;Électre</string>
+			<string>Interrompre</string>
+			<string>ORESTE</string>
+			<string>CESSER</string>
+		</array>
+		<array>
+			<string>Frère d&apos;Électre</string>
+			<string>Traitent de haut</string>
+			<string>ORESTE</string>
+			<string>SNOBENT</string>
+		</array>
+		<array>
+			<string>Frère d&apos;Électre</string>
+			<string>Crochet double</string>
+			<string>ORESTE</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas appris</string>
+			<string>Détérioration</string>
+			<string>INNES</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Pas appris</string>
+			<string>Ancienne ville d&apos;Arménie</string>
+			<string>INNES</string>
+			<string>ANI</string>
+		</array>
+		<array>
+			<string>Pas appris</string>
+			<string>Provoque</string>
+			<string>INNES</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Pas appris</string>
+			<string>Vit</string>
+			<string>INNES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Pas appris</string>
+			<string>Déodorants</string>
+			<string>INNES</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Abréviation religieuse</string>
+			<string>D&apos;une province grec</string>
+			<string>NS</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Abréviation religieuse</string>
+			<string>Interrompre</string>
+			<string>NS</string>
+			<string>CESSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Crochet double</string>
+			<string>S</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Enduis</string>
+			<string>Détérioration</string>
+			<string>OINS</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Enduis</string>
+			<string>Ancienne ville d&apos;Arménie</string>
+			<string>OINS</string>
+			<string>ANI</string>
+		</array>
+		<array>
+			<string>Enduis</string>
+			<string>Provoque</string>
+			<string>OINS</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Enduis</string>
+			<string>Vit</string>
+			<string>OINS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Les gonfler avant de partir</string>
+			<string>Une moitié de journée</string>
+			<string>PNEUS</string>
+			<string>PM</string>
+		</array>
+		<array>
+			<string>Les gonfler avant de partir</string>
+			<string>D&apos;une province grec</string>
+			<string>PNEUS</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Les gonfler avant de partir</string>
+			<string>Interrompre</string>
+			<string>PNEUS</string>
+			<string>CESSER</string>
+		</array>
+		<array>
+			<string>Les gonfler avant de partir</string>
+			<string></string>
+			<string>PNEUS</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Les gonfler avant de partir</string>
+			<string>Crochet double</string>
+			<string>PNEUS</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Détérioration</string>
+			<string>N</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Recouvrir d&apos;étain</string>
+			<string>Provoque</string>
+			<string>ETAMER</string>
+			<string>OCCASIONNE</string>
+		</array>
+		<array>
+			<string>Recouvrir d&apos;étain</string>
+			<string>Vit</string>
+			<string>ETAMER</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Recouvrir d&apos;étain</string>
+			<string></string>
+			<string>ETAMER</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Recouvrir d&apos;étain</string>
+			<string>Une moitié de journée</string>
+			<string>ETAMER</string>
+			<string>PM</string>
+		</array>
+		<array>
+			<string>Recouvrir d&apos;étain</string>
+			<string>D&apos;une province grec</string>
+			<string>ETAMER</string>
+			<string>IONIENNE</string>
+		</array>
+		<array>
+			<string>Recouvrir d&apos;étain</string>
+			<string>Interrompre</string>
+			<string>ETAMER</string>
+			<string>CESSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Crochet double</string>
+			<string>E</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+</array>
+</plist>

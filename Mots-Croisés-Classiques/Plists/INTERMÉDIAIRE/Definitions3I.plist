@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>En dernier lieu</string>
+			<string>UNIVERSITE</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Minables</string>
+			<string>UNIVERSITE</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Préfixe</string>
+			<string>UNIVERSITE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Commerce</string>
+			<string>UNIVERSITE</string>
+			<string>VENTE</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Pourris lorsqu&quot;ils sont froids</string>
+			<string>UNIVERSITE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Ville du Brésil</string>
+			<string>UNIVERSITE</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Remarquable</string>
+			<string>UNIVERSITE</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Armée Irlandaise</string>
+			<string>UNIVERSITE</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string></string>
+			<string>UNIVERSITE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Enseignement supérieur</string>
+			<string>Difficile à peigner</string>
+			<string>UNIVERSITE</string>
+			<string>EPI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Opticien</string>
+			<string>En dernier lieu</string>
+			<string>LUNETIER</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Minables</string>
+			<string>LUNETIER</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Préfixe</string>
+			<string>LUNETIER</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Commerce</string>
+			<string>LUNETIER</string>
+			<string>VENTE</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Pourris lorsqu&quot;ils sont froids</string>
+			<string>LUNETIER</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Ville du Brésil</string>
+			<string>LUNETIER</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Remarquable</string>
+			<string>LUNETIER</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string>Opticien</string>
+			<string>Armée Irlandaise</string>
+			<string>LUNETIER</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Difficile à peigner</string>
+			<string>P</string>
+			<string>EPI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Thallium</string>
+			<string>En dernier lieu</string>
+			<string>TL</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Minables</string>
+			<string>TL</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Commerce</string>
+			<string>NEONAZI</string>
+			<string>VENTE</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Pourris lorsqu&quot;ils sont froids</string>
+			<string>NEONAZI</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Ville du Brésil</string>
+			<string>NEONAZI</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Remarquable</string>
+			<string>NEONAZI</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Armée Irlandaise</string>
+			<string>NEONAZI</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Regardais</string>
+			<string>NEONAZI</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string>Extrême droite</string>
+			<string>Difficile à peigner</string>
+			<string>NEONAZI</string>
+			<string>EPI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>lorsqu’ils</string>
+			<string>En dernier lieu</string>
+			<string>ILETS</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Îlots</string>
+			<string>Minables</string>
+			<string>ILETS</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string>Îlots</string>
+			<string>École Normale Supérieure</string>
+			<string>ILETS</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Îlots</string>
+			<string>Commerce</string>
+			<string>ILETS</string>
+			<string>VENTE</string>
+		</array>
+		<array>
+			<string>Îlots</string>
+			<string>Pourris lorsqu&quot;ils sont froids</string>
+			<string>ILETS</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Remarquable</string>
+			<string>S</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Regardais</string>
+			<string>Y</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Comune des Alpes-de-Haute-Provence</string>
+			<string>En dernier lieu</string>
+			<string>MANE</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Comune des Alpes-de-Haute-Provence</string>
+			<string>Minables</string>
+			<string>MANE</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string>Comune des Alpes-de-Haute-Provence</string>
+			<string>École Normale Supérieure</string>
+			<string>MANE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Comune des Alpes-de-Haute-Provence</string>
+			<string>Commerce</string>
+			<string>MANE</string>
+			<string>VENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une tour inachevée</string>
+			<string>Petit bois</string>
+			<string>BABEL</string>
+			<string>BOCAGE</string>
+		</array>
+		<array>
+			<string>Une tour inachevée</string>
+			<string>Remarquable</string>
+			<string>BABEL</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string>Une tour inachevée</string>
+			<string>Béryllium</string>
+			<string>BABEL</string>
+			<string>BE</string>
+		</array>
+		<array>
+			<string>Une tour inachevée</string>
+			<string>Regardais</string>
+			<string>BABEL</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string>Une tour inachevée</string>
+			<string>Lawrencium</string>
+			<string>BABEL</string>
+			<string>LR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Plante herbacée</string>
+			<string>En dernier lieu</string>
+			<string>ERS</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Plante herbacée</string>
+			<string>Minables</string>
+			<string>ERS</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string>Plante herbacée</string>
+			<string>École Normale Supérieure</string>
+			<string>ERS</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pédant</string>
+			<string>Cogna</string>
+			<string>POSEUR</string>
+			<string>PUA</string>
+		</array>
+		<array>
+			<string>Pédant</string>
+			<string>Petit bois</string>
+			<string>POSEUR</string>
+			<string>BOCAGE</string>
+		</array>
+		<array>
+			<string>Pédant</string>
+			<string>Remarquable</string>
+			<string>POSEUR</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string>Pédant</string>
+			<string>Béryllium</string>
+			<string>POSEUR</string>
+			<string>BE</string>
+		</array>
+		<array>
+			<string>Pédant</string>
+			<string>Regardais</string>
+			<string>POSEUR</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string>Pédant</string>
+			<string>Lawrencium</string>
+			<string>POSEUR</string>
+			<string>LR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mendélévium</string>
+			<string>En dernier lieu</string>
+			<string>MD</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Mendélévium</string>
+			<string>Minables</string>
+			<string>MD</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sèves</string>
+			<string></string>
+			<string>SUCS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Sèves</string>
+			<string>Cogna</string>
+			<string>SUCS</string>
+			<string>PUA</string>
+		</array>
+		<array>
+			<string>Sèves</string>
+			<string>Petit bois</string>
+			<string>SUCS</string>
+			<string>BOCAGE</string>
+		</array>
+		<array>
+			<string>Sèves</string>
+			<string>Remarquable</string>
+			<string>SUCS</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Regardais</string>
+			<string>T</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Levant</string>
+			<string>En dernier lieu</string>
+			<string>EST</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Levant</string>
+			<string>Minables</string>
+			<string>EST</string>
+			<string>NULLARDS</string>
+		</array>
+		<array>
+			<string>Levant</string>
+			<string>Demi mouche</string>
+			<string>EST</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Cogna</string>
+			<string>AA</string>
+			<string>PUA</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Petit bois</string>
+			<string>AA</string>
+			<string>BOCAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ancienne capitale du Béarn</string>
+			<string></string>
+			<string>PAU</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Ancienne capitale du Béarn</string>
+			<string>Regardais</string>
+			<string>PAU</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string>Ancienne capitale du Béarn</string>
+			<string>Première page</string>
+			<string>PAU</string>
+			<string>UNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>En dernier lieu</string>
+			<string>N</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Demi mouche</string>
+			<string>SE</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string></string>
+			<string>SE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Germanium</string>
+			<string>Petit bois</string>
+			<string>GE</string>
+			<string>BOCAGE</string>
+		</array>
+		<array>
+			<string>Germanium</string>
+			<string>Vient d&apos;une autre planète</string>
+			<string>GE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Préfixe</string>
+			<string>Regardais</string>
+			<string>IN</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string>Préfixe</string>
+			<string>Première page</string>
+			<string>IN</string>
+			<string>UNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Élimine</string>
+			<string>En dernier lieu</string>
+			<string>TUE</string>
+			<string>ULTIMEMENT</string>
+		</array>
+		<array>
+			<string>Élimine</string>
+			<string></string>
+			<string>TUE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Élimine</string>
+			<string>Demi mouche</string>
+			<string>TUE</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ânerie</string>
+			<string></string>
+			<string>BETISE</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string>Ânerie</string>
+			<string>Petit bois</string>
+			<string>BETISE</string>
+			<string>BOCAGE</string>
+		</array>
+		<array>
+			<string>Ânerie</string>
+			<string>Vient d&apos;une autre planète</string>
+			<string>BETISE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Ânerie</string>
+			<string></string>
+			<string>BETISE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Ânerie</string>
+			<string>Regardais</string>
+			<string>BETISE</string>
+			<string>ZYEUTAIS</string>
+		</array>
+		<array>
+			<string>Ânerie</string>
+			<string>Première page</string>
+			<string>BETISE</string>
+			<string>UNE</string>
+		</array>
+	</array>
+</array>
+</plist>

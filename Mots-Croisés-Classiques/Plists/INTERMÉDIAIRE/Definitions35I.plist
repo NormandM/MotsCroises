@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Entractes</string>
+			<string>INDIVIDUS</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Non!</string>
+			<string>INDIVIDUS</string>
+			<string>NIET</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Cinéaste québécois</string>
+			<string>INDIVIDUS</string>
+			<string>DOLAN</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Groupe de maisons aux Antilles</string>
+			<string>INDIVIDUS</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Lombric</string>
+			<string>INDIVIDUS</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string></string>
+			<string>INDIVIDUS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>INDIVIDUS</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string>Son oncle est Sam</string>
+			<string>INDIVIDUS</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Hommes quelconques</string>
+			<string></string>
+			<string>INDIVIDUS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Eau de vie</string>
+			<string>Entractes</string>
+			<string>NIOLE</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Eau de vie</string>
+			<string>Non!</string>
+			<string>NIOLE</string>
+			<string>NIET</string>
+		</array>
+		<array>
+			<string>Eau de vie</string>
+			<string>Cinéaste québécois</string>
+			<string>NIOLE</string>
+			<string>DOLAN</string>
+		</array>
+		<array>
+			<string>Eau de vie</string>
+			<string>Groupe de maisons aux Antilles</string>
+			<string>NIOLE</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Eau de vie</string>
+			<string>Lombric</string>
+			<string>NIOLE</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>ES</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Son oncle est Sam</string>
+			<string>ES</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Dans un titre universitaire</string>
+			<string>E</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Entractes</string>
+			<string>TELEROMANS</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Non!</string>
+			<string>TELEROMANS</string>
+			<string>NIET</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Cinéaste québécois</string>
+			<string>TELEROMANS</string>
+			<string>DOLAN</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Groupe de maisons aux Antilles</string>
+			<string>TELEROMANS</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Lombric</string>
+			<string>TELEROMANS</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Oui en Occitan</string>
+			<string>TELEROMANS</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>TELEROMANS</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Son oncle est Sam</string>
+			<string>TELEROMANS</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Pataugiez</string>
+			<string>TELEROMANS</string>
+			<string>NAGIEZ</string>
+		</array>
+		<array>
+			<string>Feuilletons</string>
+			<string>Dans un titre universitaire</string>
+			<string>TELEROMANS</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Nation</string>
+			<string>Entractes</string>
+			<string>ETAT</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Nation</string>
+			<string>Non!</string>
+			<string>ETAT</string>
+			<string>NIET</string>
+		</array>
+		<array>
+			<string>Nation</string>
+			<string>Cinéaste québécois</string>
+			<string>ETAT</string>
+			<string>DOLAN</string>
+		</array>
+		<array>
+			<string>Nation</string>
+			<string>Groupe de maisons aux Antilles</string>
+			<string>ETAT</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Calcium</string>
+			<string>Oui en Occitan</string>
+			<string>CA</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Calcium</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>CA</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pataugiez</string>
+			<string>A</string>
+			<string>NAGIEZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Entractes</string>
+			<string>R</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Cinéaste québécois</string>
+			<string>N</string>
+			<string>DOLAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pas à moi</string>
+			<string>T</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Blagues</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>GAGS</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Blagues</string>
+			<string>100 mètres carrés</string>
+			<string>GAGS</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Blagues</string>
+			<string>Pataugiez</string>
+			<string>GAGS</string>
+			<string>NAGIEZ</string>
+		</array>
+		<array>
+			<string>Blagues</string>
+			<string>Pronom personnel</string>
+			<string>GAGS</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Montana</string>
+			<string>Entractes</string>
+			<string>MT</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Montana</string>
+			<string>Trompé</string>
+			<string>MT</string>
+			<string>TRAHI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>Césium</string>
+			<string>CALORIE</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>Pas à moi</string>
+			<string>CALORIE</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>Chef lieu du département de l&apos;Aisne</string>
+			<string>CALORIE</string>
+			<string>LAON</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>CALORIE</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>100 mètres carrés</string>
+			<string>CALORIE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>Pataugiez</string>
+			<string>CALORIE</string>
+			<string>NAGIEZ</string>
+		</array>
+		<array>
+			<string>Valeur énergétique</string>
+			<string>Pronom personnel</string>
+			<string>CALORIE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Époques</string>
+			<string>Entractes</string>
+			<string>ERES</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Trompé</string>
+			<string>ERES</string>
+			<string>TRAHI</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Dans</string>
+			<string>ERES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Césium</string>
+			<string>ERES</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>D&apos;un âge avancé</string>
+			<string>Chef lieu du département de l&apos;Aisne</string>
+			<string>AGEE</string>
+			<string>LAON</string>
+		</array>
+		<array>
+			<string>D&apos;un âge avancé</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>AGEE</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>D&apos;un âge avancé</string>
+			<string>100 mètres carrés</string>
+			<string>AGEE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>D&apos;un âge avancé</string>
+			<string>Pataugiez</string>
+			<string>AGEE</string>
+			<string>NAGIEZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Grade des arts martiaux</string>
+			<string>Entractes</string>
+			<string>DAN</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Grade des arts martiaux</string>
+			<string>Trompé</string>
+			<string>DAN</string>
+			<string>TRAHI</string>
+		</array>
+		<array>
+			<string>Grade des arts martiaux</string>
+			<string>Dans</string>
+			<string>DAN</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>On doit tous d&apos;y conformer</string>
+			<string>Article</string>
+			<string>LOI</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>On doit tous d&apos;y conformer</string>
+			<string>Chef lieu du département de l&apos;Aisne</string>
+			<string>LOI</string>
+			<string>LAON</string>
+		</array>
+		<array>
+			<string>On doit tous d&apos;y conformer</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>LOI</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Zirconium</string>
+			<string>Pataugiez</string>
+			<string>ZR</string>
+			<string>NAGIEZ</string>
+		</array>
+		<array>
+			<string>Zirconium</string>
+			<string>Un met apprécié</string>
+			<string>ZR</string>
+			<string>RIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Exclamation</string>
+			<string>Entractes</string>
+			<string>EH</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Trompé</string>
+			<string>EH</string>
+			<string>TRAHI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pièces mobiles d&apos;une serrure</string>
+			<string>Pluriel</string>
+			<string>PENES</string>
+			<string>PL</string>
+		</array>
+		<array>
+			<string>Pièces mobiles d&apos;une serrure</string>
+			<string>Article</string>
+			<string>PENES</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>Pièces mobiles d&apos;une serrure</string>
+			<string>Chef lieu du département de l&apos;Aisne</string>
+			<string>PENES</string>
+			<string>LAON</string>
+		</array>
+		<array>
+			<string>Pièces mobiles d&apos;une serrure</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>PENES</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Pièces mobiles d&apos;une serrure</string>
+			<string>Strontium</string>
+			<string>PENES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Un met apprécié</string>
+			<string>I</string>
+			<string>RIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Couches superficielles du globe terrestre</string>
+			<string>Entractes</string>
+			<string>SIALS</string>
+			<string>INTERMEDES</string>
+		</array>
+		<array>
+			<string>Couches superficielles du globe terrestre</string>
+			<string>Trompé</string>
+			<string>SIALS</string>
+			<string>TRAHI</string>
+		</array>
+		<array>
+			<string>Couches superficielles du globe terrestre</string>
+			<string></string>
+			<string>SIALS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Couches superficielles du globe terrestre</string>
+			<string>Pluriel</string>
+			<string>SIALS</string>
+			<string>PL</string>
+		</array>
+		<array>
+			<string>Couches superficielles du globe terrestre</string>
+			<string>Article</string>
+			<string>SIALS</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Maladie respiratoire</string>
+			<string>Utilisées pour se faire élire</string>
+			<string>SRAS</string>
+			<string>DEMAGOGIES</string>
+		</array>
+		<array>
+			<string>Maladie respiratoire</string>
+			<string>Strontium</string>
+			<string>SRAS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Maladie respiratoire</string>
+			<string></string>
+			<string>SRAS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Maladie respiratoire</string>
+			<string>Un met apprécié</string>
+			<string>SRAS</string>
+			<string>RIS</string>
+		</array>
+	</array>
+</array>
+</plist>

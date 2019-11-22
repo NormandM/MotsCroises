@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Criminalité</string>
+			<string>BREDOUILLE</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Rubidium</string>
+			<string>BREDOUILLE</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Point cardinal</string>
+			<string>BREDOUILLE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Un poisson à chair estimée</string>
+			<string>BREDOUILLE</string>
+			<string>DORE</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Singes de petite taille.</string>
+			<string>BREDOUILLE</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Instrument du Maghreb</string>
+			<string>BREDOUILLE</string>
+			<string>UD</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Utopiste</string>
+			<string>BREDOUILLE</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Note qui donne le ton</string>
+			<string>BREDOUILLE</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Nouées</string>
+			<string>BREDOUILLE</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Revenir les mains vides</string>
+			<string> Crochet</string>
+			<string>BREDOUILLE</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Criminalité</string>
+			<string>ABSOUDRAIS</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Rubidium</string>
+			<string>ABSOUDRAIS</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Point cardinal</string>
+			<string>ABSOUDRAIS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Un poisson à chair estimée</string>
+			<string>ABSOUDRAIS</string>
+			<string>DORE</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Singes de petite taille.</string>
+			<string>ABSOUDRAIS</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Instrument du Maghreb</string>
+			<string>ABSOUDRAIS</string>
+			<string>UD</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Utopiste</string>
+			<string>ABSOUDRAIS</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Note qui donne le ton</string>
+			<string>ABSOUDRAIS</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Nouées</string>
+			<string>ABSOUDRAIS</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Pardonnerais</string>
+			<string> Crochet</string>
+			<string>ABSOUDRAIS</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Criminalité</string>
+			<string>N</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Point cardinal</string>
+			<string>TRI</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Un poisson à chair estimée</string>
+			<string>TRI</string>
+			<string>DORE</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Singes de petite taille.</string>
+			<string>TRI</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Utopiste</string>
+			<string>R</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string> Nouées</string>
+			<string>ES</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string> Crochet</string>
+			<string>ES</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petit cube</string>
+			<string> Criminalité</string>
+			<string>DE</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Petit cube</string>
+			<string> Période historique</string>
+			<string>DE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Un poisson à chair estimée</string>
+			<string>ESPEREE</string>
+			<string>DORE</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Singes de petite taille.</string>
+			<string>ESPEREE</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Praséodyme</string>
+			<string>ESPEREE</string>
+			<string>PR</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Utopiste</string>
+			<string>ESPEREE</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Néant</string>
+			<string>ESPEREE</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Nouées</string>
+			<string>ESPEREE</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Crochet</string>
+			<string>ESPEREE</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colère</string>
+			<string> Criminalité</string>
+			<string>IRE</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Période historique</string>
+			<string>IRE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Vagabonde</string>
+			<string>IRE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tires le lait</string>
+			<string> Singes de petite taille.</string>
+			<string>TRAIS</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string> Tires le lait</string>
+			<string> Praséodyme</string>
+			<string>TRAIS</string>
+			<string>PR</string>
+		</array>
+		<array>
+			<string> Tires le lait</string>
+			<string> Utopiste</string>
+			<string>TRAIS</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Tires le lait</string>
+			<string> Néant</string>
+			<string>TRAIS</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Tires le lait</string>
+			<string> Nouées</string>
+			<string>TRAIS</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Flétri</string>
+			<string> Criminalité</string>
+			<string>TERNI</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Flétri</string>
+			<string> Période historique</string>
+			<string>TERNI</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Flétri</string>
+			<string> Vagabonde</string>
+			<string>TERNI</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Flétri</string>
+			<string> Négation</string>
+			<string>TERNI</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Flétri</string>
+			<string> Singes de petite taille.</string>
+			<string>TERNI</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Utopiste</string>
+			<string>LE</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Néant</string>
+			<string>LE</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Laboure une troisième fois</string>
+			<string>T</string>
+			<string>TERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Criminalité</string>
+			<string>I</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Vagabonde</string>
+			<string>RETEINTE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Négation</string>
+			<string>RETEINTE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Singes de petite taille.</string>
+			<string>RETEINTE</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string></string>
+			<string>RETEINTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Utopiste</string>
+			<string>RETEINTE</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Néant</string>
+			<string>RETEINTE</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>RETEINTE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Colorée à nouveau</string>
+			<string> Laboure une troisième fois</string>
+			<string>RETEINTE</string>
+			<string>TERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trime dur</string>
+			<string> Criminalité</string>
+			<string>SUE</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Avant les autres</string>
+			<string>SUE</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Vagabonde</string>
+			<string>SUE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Singes de petite taille.</string>
+			<string>I</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Utopiste</string>
+			<string>S</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>ER</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Laboure une troisième fois</string>
+			<string>ER</string>
+			<string>TERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Manganèse</string>
+			<string> Criminalité</string>
+			<string>MN</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Avant les autres</string>
+			<string>MN</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Règle</string>
+			<string>TSETSES</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Singes de petite taille.</string>
+			<string>TSETSES</string>
+			<string>OUISTITIS</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Existes</string>
+			<string>TSETSES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Utopiste</string>
+			<string>TSETSES</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Étain</string>
+			<string>TSETSES</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>TSETSES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Laboure une troisième fois</string>
+			<string>TSETSES</string>
+			<string>TERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Criminalité</string>
+			<string>ESTE</string>
+			<string>BANDITISME</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Avant les autres</string>
+			<string>ESTE</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string></string>
+			<string>ESTE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Règle</string>
+			<string>ESTE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Existes</string>
+			<string>SENSE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Utopiste</string>
+			<string>SENSE</string>
+			<string>IRREALISTE</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Étain</string>
+			<string>SENSE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>SENSE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Laboure une troisième fois</string>
+			<string>SENSE</string>
+			<string>TERSE</string>
+		</array>
+	</array>
+</array>
+</plist>

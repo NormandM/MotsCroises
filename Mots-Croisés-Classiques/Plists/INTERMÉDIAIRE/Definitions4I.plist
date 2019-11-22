@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>FLECHETTES</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Portent des lunettes</string>
+			<string>FLECHETTES</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Déportation</string>
+			<string>FLECHETTES</string>
+			<string>EXIL</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Unité de longueur</string>
+			<string>FLECHETTES</string>
+			<string>CM</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Logeais</string>
+			<string>FLECHETTES</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Lettre de l&apos;alphabet grec</string>
+			<string>FLECHETTES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Façon de mesurer</string>
+			<string>FLECHETTES</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Utiles aux golfeurs</string>
+			<string>FLECHETTES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string>Existes</string>
+			<string>FLECHETTES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Un jeu d&apos;habileté</string>
+			<string></string>
+			<string>FLECHETTES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>LUXMETRES</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Portent des lunettes</string>
+			<string>LUXMETRES</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Déportation</string>
+			<string>LUXMETRES</string>
+			<string>EXIL</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Unité de longueur</string>
+			<string>LUXMETRES</string>
+			<string>CM</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Logeais</string>
+			<string>LUXMETRES</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Lettre de l&apos;alphabet grec</string>
+			<string>LUXMETRES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Façon de mesurer</string>
+			<string>LUXMETRES</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Utiles aux golfeurs</string>
+			<string>LUXMETRES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string>Appareils qui servent à mesurer l&apos;éclairement</string>
+			<string>Existes</string>
+			<string>LUXMETRES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ancienne ville d&apos;Arménie située en Turquie</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>ANI</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Ancienne ville d&apos;Arménie située en Turquie</string>
+			<string>Portent des lunettes</string>
+			<string>ANI</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Ancienne ville d&apos;Arménie située en Turquie</string>
+			<string>Déportation</string>
+			<string>ANI</string>
+			<string>EXIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petit fruit</string>
+			<string>Logeais</string>
+			<string>BAIE</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Petit fruit</string>
+			<string>Lettre de l&apos;alphabet grec</string>
+			<string>BAIE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Petit fruit</string>
+			<string>Façon de mesurer</string>
+			<string>BAIE</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Petit fruit</string>
+			<string>Utiles aux golfeurs</string>
+			<string>BAIE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Se réjouir</string>
+			<string>E</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lutte</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>MELEE</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Lutte</string>
+			<string>Portent des lunettes</string>
+			<string>MELEE</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Lutte</string>
+			<string>Déportation</string>
+			<string>MELEE</string>
+			<string>EXIL</string>
+		</array>
+		<array>
+			<string>Lutte</string>
+			<string>En matière de</string>
+			<string>MELEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Lutte</string>
+			<string>Logeais</string>
+			<string>MELEE</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Enzymes</string>
+			<string>Façon de mesurer</string>
+			<string>ASES</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Enzymes</string>
+			<string>Utiles aux golfeurs</string>
+			<string>ASES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string>Enzymes</string>
+			<string>Vagabondage</string>
+			<string>ASES</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>Enzymes</string>
+			<string>Se réjouir</string>
+			<string>ASES</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Montana</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>MT</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Montana</string>
+			<string>Portent des lunettes</string>
+			<string>MT</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>En matière de</string>
+			<string>SR</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Logeais</string>
+			<string>SR</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Façon de mesurer</string>
+			<string>N</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rubidium</string>
+			<string>Vagabondage</string>
+			<string>RB</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>Rubidium</string>
+			<string>Se réjouir</string>
+			<string>RB</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Six mois après Noël</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>ETE</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Six mois après Noël</string>
+			<string>Portent des lunettes</string>
+			<string>ETE</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Six mois après Noël</string>
+			<string>Lancées d&apos;un navire</string>
+			<string>ETE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pariera</string>
+			<string>Logeais</string>
+			<string>GAGERA</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Pariera</string>
+			<string>Ne boit plus</string>
+			<string>GAGERA</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string>Pariera</string>
+			<string>Façon de mesurer</string>
+			<string>GAGERA</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Pariera</string>
+			<string></string>
+			<string>GAGERA</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Pariera</string>
+			<string>Vagabondage</string>
+			<string>GAGERA</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>Pariera</string>
+			<string>Se réjouir</string>
+			<string>GAGERA</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>CERCEAU</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Portent des lunettes</string>
+			<string>CERCEAU</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Lancées d&apos;un navire</string>
+			<string>CERCEAU</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Caesium</string>
+			<string>CERCEAU</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Logeais</string>
+			<string>CERCEAU</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Ne boit plus</string>
+			<string>CERCEAU</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string>Accessoire utilisé en gymnastique</string>
+			<string>Façon de mesurer</string>
+			<string>CERCEAU</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Or</string>
+			<string>Vagabondage</string>
+			<string>AU</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>Or</string>
+			<string>Se réjouir</string>
+			<string>AU</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Laboura</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>HERSA</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Laboura</string>
+			<string>Portent des lunettes</string>
+			<string>HERSA</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Laboura</string>
+			<string>Lancées d&apos;un navire</string>
+			<string>HERSA</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string>Laboura</string>
+			<string>Caesium</string>
+			<string>HERSA</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Laboura</string>
+			<string>Logeais</string>
+			<string>HERSA</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>État de l&apos;Allemagne</string>
+			<string>Façon de mesurer</string>
+			<string>LAND</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>État de l&apos;Allemagne</string>
+			<string></string>
+			<string>LAND</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>État de l&apos;Allemagne</string>
+			<string>Vagabondage</string>
+			<string>LAND</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>État de l&apos;Allemagne</string>
+			<string>Se réjouir</string>
+			<string>LAND</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Est-Sud-est</string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>ESE</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string>Est-Sud-est</string>
+			<string>Portent des lunettes</string>
+			<string>ESE</string>
+			<string>LUNETTEES</string>
+		</array>
+		<array>
+			<string>Est-Sud-est</string>
+			<string>Lancées d&apos;un navire</string>
+			<string>ESE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Logeais</string>
+			<string>IRE</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Petit ruisseau</string>
+			<string>IRE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Façon de mesurer</string>
+			<string>IRE</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Vagabondage</string>
+			<string>CI</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Se réjouir</string>
+			<string>CI</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Se détachent d&apos;un brazier</string>
+			<string>S</string>
+			<string>FLAMMECHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string>Lancées d&apos;un navire</string>
+			<string>SUSURRER</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string></string>
+			<string>SUSURRER</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string>Logeais</string>
+			<string>SUSURRER</string>
+			<string>HEBERGEAIS</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string>Petit ruisseau</string>
+			<string>SUSURRER</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string>Façon de mesurer</string>
+			<string>SUSURRER</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string></string>
+			<string>SUSURRER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string>Vagabondage</string>
+			<string>SUSURRER</string>
+			<string>ERRANCE</string>
+		</array>
+		<array>
+			<string>Murmurer</string>
+			<string>Se réjouir</string>
+			<string>SUSURRER</string>
+			<string>ESBAUDIR</string>
+		</array>
+	</array>
+</array>
+</plist>

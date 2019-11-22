@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Utilisation</string>
+			<string> Nécessaires à la construction</string>
+			<string>MANIEMENT</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Désagréables</string>
+			<string>MANIEMENT</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Divisé par un milliard</string>
+			<string>MANIEMENT</string>
+			<string>NANO</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Fin de verbe</string>
+			<string>MANIEMENT</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Canard nordique</string>
+			<string>MANIEMENT</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Génitrice</string>
+			<string>MANIEMENT</string>
+			<string>MERE</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Forme de futurs cadres</string>
+			<string>MANIEMENT</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string></string>
+			<string>MANIEMENT</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Utilisation</string>
+			<string> Objets attestants des victoires</string>
+			<string>MANIEMENT</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Nécessaires à la construction</string>
+			<string>ACARIEN</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Désagréables</string>
+			<string>ACARIEN</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Divisé par un milliard</string>
+			<string>ACARIEN</string>
+			<string>NANO</string>
+		</array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Fin de verbe</string>
+			<string>ACARIEN</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Canard nordique</string>
+			<string>ACARIEN</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Génitrice</string>
+			<string>ACARIEN</string>
+			<string>MERE</string>
+		</array>
+		<array>
+			<string> Petit parasite</string>
+			<string> Forme de futurs cadres</string>
+			<string>ACARIEN</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petit ruisseau</string>
+			<string> Objets attestants des victoires</string>
+			<string>RU</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string> Petit ruisseau</string>
+			<string> Article</string>
+			<string>RU</string>
+			<string>UNES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Écorce de chêne</string>
+			<string> Nécessaires à la construction</string>
+			<string>TAN</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Écorce de chêne</string>
+			<string> Désagréables</string>
+			<string>TAN</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Écorce de chêne</string>
+			<string> Divisé par un milliard</string>
+			<string>TAN</string>
+			<string>NANO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crache le feu</string>
+			<string> Canard nordique</string>
+			<string>DRAGON</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Crache le feu</string>
+			<string> Génitrice</string>
+			<string>DRAGON</string>
+			<string>MERE</string>
+		</array>
+		<array>
+			<string> Crache le feu</string>
+			<string> Forme de futurs cadres</string>
+			<string>DRAGON</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Crache le feu</string>
+			<string> Il est armé</string>
+			<string>DRAGON</string>
+			<string>GI</string>
+		</array>
+		<array>
+			<string> Crache le feu</string>
+			<string> Objets attestants des victoires</string>
+			<string>DRAGON</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string> Crache le feu</string>
+			<string> Article</string>
+			<string>DRAGON</string>
+			<string>UNES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Usée</string>
+			<string> Nécessaires à la construction</string>
+			<string>ERODEE</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Usée</string>
+			<string> Désagréables</string>
+			<string>ERODEE</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Usée</string>
+			<string> Divisé par un milliard</string>
+			<string>ERODEE</string>
+			<string>NANO</string>
+		</array>
+		<array>
+			<string> Usée</string>
+			<string> Divinités</string>
+			<string>ERODEE</string>
+			<string>DEITES</string>
+		</array>
+		<array>
+			<string> Usée</string>
+			<string> Canard nordique</string>
+			<string>ERODEE</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Usée</string>
+			<string> Génitrice</string>
+			<string>ERODEE</string>
+			<string>MERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Il est armé</string>
+			<string>IPE</string>
+			<string>GI</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Objets attestants des victoires</string>
+			<string>IPE</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Article</string>
+			<string>IPE</string>
+			<string>UNES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pouffé</string>
+			<string> Nécessaires à la construction</string>
+			<string>RI</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Désagréables</string>
+			<string>RI</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Divinités</string>
+			<string>ER</string>
+			<string>DEITES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Canard nordique</string>
+			<string>ER</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Écimée</string>
+			<string>E</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Objets attestants des victoires</string>
+			<string>HS</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Article</string>
+			<string>HS</string>
+			<string>UNES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville de Roumanie</string>
+			<string> Nécessaires à la construction</string>
+			<string>IASI</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Ville de Roumanie</string>
+			<string> Désagréables</string>
+			<string>IASI</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Ville de Roumanie</string>
+			<string></string>
+			<string>IASI</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Ville de Roumanie</string>
+			<string> Divinités</string>
+			<string>IASI</string>
+			<string>DEITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> défalquée</string>
+			<string> Lac des Pyrénées</string>
+			<string>OTEE</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string> défalquée</string>
+			<string> Écimée</string>
+			<string>OTEE</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> défalquée</string>
+			<string> Prince troyen</string>
+			<string>OTEE</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> défalquée</string>
+			<string> Objets attestants des victoires</string>
+			<string>OTEE</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Astate</string>
+			<string> Nécessaires à la construction</string>
+			<string>AT</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Astate</string>
+			<string> Désagréables</string>
+			<string>AT</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string> Divinités</string>
+			<string>TROENES</string>
+			<string>DEITES</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string> Roues à gorge</string>
+			<string>TROENES</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string> Lac des Pyrénées</string>
+			<string>TROENES</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string> Écimée</string>
+			<string>TROENES</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string> Prince troyen</string>
+			<string>TROENES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string> Objets attestants des victoires</string>
+			<string>TROENES</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string>Arbustes</string>
+			<string></string>
+			<string>TROENES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pressée</string>
+			<string> Nécessaires à la construction</string>
+			<string>URGEE</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Pressée</string>
+			<string> Désagréables</string>
+			<string>URGEE</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Pressée</string>
+			<string></string>
+			<string>URGEE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Pressée</string>
+			<string> Divinités</string>
+			<string>URGEE</string>
+			<string>DEITES</string>
+		</array>
+		<array>
+			<string> Pressée</string>
+			<string> Roues à gorge</string>
+			<string>URGEE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Écimée</string>
+			<string>TES</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Prince troyen</string>
+			<string>TES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Objets attestants des victoires</string>
+			<string>TES</string>
+			<string>TROPHEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Xénon</string>
+			<string> Nécessaires à la construction</string>
+			<string>XE</string>
+			<string>MATERIAUX</string>
+		</array>
+		<array>
+			<string> Xénon</string>
+			<string> Désagréables</string>
+			<string>XE</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prix excessif</string>
+			<string> Divinités</string>
+			<string>SALEE</string>
+			<string>DEITES</string>
+		</array>
+		<array>
+			<string> Prix excessif</string>
+			<string> Roues à gorge</string>
+			<string>SALEE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Prix excessif</string>
+			<string> Avant d&apos;être approuvé </string>
+			<string>SALEE</string>
+			<string>LU</string>
+		</array>
+		<array>
+			<string> Prix excessif</string>
+			<string> Écimée</string>
+			<string>SALEE</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Prix excessif</string>
+			<string> Prince troyen</string>
+			<string>SALEE</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Du verbe avoir</string>
+			<string>A</string>
+			<string>AS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Désagréables</string>
+			<string>SE</string>
+			<string>ACARIATRES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string></string>
+			<string>SE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Roues à gorge</string>
+			<string>SUE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Avant d&apos;être approuvé </string>
+			<string>SUE</string>
+			<string>LU</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Écimée</string>
+			<string>SUE</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string></string>
+			<string>ES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Du verbe avoir</string>
+			<string>ES</string>
+			<string>AS</string>
+		</array>
+	</array>
+</array>
+</plist>

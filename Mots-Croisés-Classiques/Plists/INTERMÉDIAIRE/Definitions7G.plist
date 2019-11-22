@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Aplombs</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>CONFIANCES</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Commune française</string>
+			<string>CONFIANCES</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Refuseras</string>
+			<string>CONFIANCES</string>
+			<string>NIERAS</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Une espèce animale retournée à l&apos;état sauvage</string>
+			<string>CONFIANCES</string>
+			<string>FERAL</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Inchangée</string>
+			<string>CONFIANCES</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Astate</string>
+			<string>CONFIANCES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Des lumières dans la nuit</string>
+			<string>CONFIANCES</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Prêt à être mangé</string>
+			<string>CONFIANCES</string>
+			<string>CUIT</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Estoniens</string>
+			<string>CONFIANCES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Aplombs</string>
+			<string> Pronom</string>
+			<string>CONFIANCES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>ORIENTEUSE</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Commune française</string>
+			<string>ORIENTEUSE</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Refuseras</string>
+			<string>ORIENTEUSE</string>
+			<string>NIERAS</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Une espèce animale retournée à l&apos;état sauvage</string>
+			<string>ORIENTEUSE</string>
+			<string>FERAL</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Inchangée</string>
+			<string>ORIENTEUSE</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Astate</string>
+			<string>ORIENTEUSE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Des lumières dans la nuit</string>
+			<string>ORIENTEUSE</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Prêt à être mangé</string>
+			<string>ORIENTEUSE</string>
+			<string>CUIT</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Estoniens</string>
+			<string>ORIENTEUSE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Conseillère d&apos;orientation</string>
+			<string> Pronom</string>
+			<string>ORIENTEUSE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Foncera</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>OSERA</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Commune française</string>
+			<string>OSERA</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Refuseras</string>
+			<string>OSERA</string>
+			<string>NIERAS</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Une espèce animale retournée à l&apos;état sauvage</string>
+			<string>OSERA</string>
+			<string>FERAL</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Inchangée</string>
+			<string>OSERA</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Organisation internationale du travail</string>
+			<string> Des lumières dans la nuit</string>
+			<string>OIT</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Organisation internationale du travail</string>
+			<string> Prêt à être mangé</string>
+			<string>OIT</string>
+			<string>CUIT</string>
+		</array>
+		<array>
+			<string> Organisation internationale du travail</string>
+			<string> Estoniens</string>
+			<string>OIT</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Souvent dans un pays étranger</string>
+			<string>P</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Refuseras</string>
+			<string>RALANTES</string>
+			<string>NIERAS</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Une espèce animale retournée à l&apos;état sauvage</string>
+			<string>RALANTES</string>
+			<string>FERAL</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Inchangée</string>
+			<string>RALANTES</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Ouvres la fenêtre</string>
+			<string>RALANTES</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Des lumières dans la nuit</string>
+			<string>RALANTES</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Prêt à être mangé</string>
+			<string>RALANTES</string>
+			<string>CUIT</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Estoniens</string>
+			<string>RALANTES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Rageantes</string>
+			<string> Souvent en après-midi</string>
+			<string>RALANTES</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Stimules</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>EXALTES</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Stimules</string>
+			<string> Lettre grec</string>
+			<string>EXALTES</string>
+			<string>XI</string>
+		</array>
+		<array>
+			<string> Stimules</string>
+			<string> Refuseras</string>
+			<string>EXALTES</string>
+			<string>NIERAS</string>
+		</array>
+		<array>
+			<string> Stimules</string>
+			<string> Une espèce animale retournée à l&apos;état sauvage</string>
+			<string>EXALTES</string>
+			<string>FERAL</string>
+		</array>
+		<array>
+			<string> Stimules</string>
+			<string> Inchangée</string>
+			<string>EXALTES</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Stimules</string>
+			<string> Ouvres la fenêtre</string>
+			<string>EXALTES</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Stimules</string>
+			<string> Des lumières dans la nuit</string>
+			<string>EXALTES</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Estoniens</string>
+			<string>SI</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Souvent en après-midi</string>
+			<string>SI</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Met apprécié qui vient du veau</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>RIS</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Met apprécié qui vient du veau</string>
+			<string> Lettre grec</string>
+			<string>RIS</string>
+			<string>XI</string>
+		</array>
+		<array>
+			<string> Met apprécié qui vient du veau</string>
+			<string> Refuseras</string>
+			<string>RIS</string>
+			<string>NIERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Inchangée</string>
+			<string>ER</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Ouvres la fenêtre</string>
+			<string>ER</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Période historique</string>
+			<string>E</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souvent en après-midi</string>
+			<string>E</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Souvent dans un pays étranger</string>
+			<string>A</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string> Elles ouvrent des portes</string>
+			<string>CREERAS</string>
+			<string>CLES</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string> Inchangée</string>
+			<string>CREERAS</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string> Ouvres la fenêtre</string>
+			<string>CREERAS</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>CREERAS</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string> Période historique</string>
+			<string>CREERAS</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string></string>
+			<string>CREERAS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Tireras du néant</string>
+			<string> Souvent en après-midi</string>
+			<string>CREERAS</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>NOBLESSE</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Son foie est apprécié</string>
+			<string>NOBLESSE</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Brome</string>
+			<string>NOBLESSE</string>
+			<string>BR</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Elles ouvrent des portes</string>
+			<string>NOBLESSE</string>
+			<string>CLES</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Inchangée</string>
+			<string>NOBLESSE</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Ouvres la fenêtre</string>
+			<string>NOBLESSE</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>NOBLESSE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Aristocratie</string>
+			<string> Période historique</string>
+			<string>NOBLESSE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souvent en après-midi</string>
+			<string>T</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Halée</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>TIREE</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string> Halée</string>
+			<string> Son foie est apprécié</string>
+			<string>TIREE</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string> Halée</string>
+			<string> Brome</string>
+			<string>TIREE</string>
+			<string>BR</string>
+		</array>
+		<array>
+			<string> Halée</string>
+			<string> Elles ouvrent des portes</string>
+			<string>TIREE</string>
+			<string>CLES</string>
+		</array>
+		<array>
+			<string> Halée</string>
+			<string> Inchangée</string>
+			<string>TIREE</string>
+			<string>INALTEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>T</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petit cube</string>
+			<string>Petit cube</string>
+			<string>DE</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Article partitif</string>
+			<string> Souvent en après-midi</string>
+			<string>DE</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sélénium</string>
+			<string> Souvent dans un pays étranger</string>
+			<string>SE</string>
+			<string>COOPERANTS</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string> Son foie est apprécié</string>
+			<string>SE</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Elles ouvrent des portes</string>
+			<string>S</string>
+			<string>CLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string></string>
+			<string>SERES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>SERES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string></string>
+			<string>SERES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Article partitif</string>
+			<string>SERES</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Souvent en après-midi</string>
+			<string>SERES</string>
+			<string>SIESTES</string>
+		</array>
+	</array>
+</array>
+</plist>

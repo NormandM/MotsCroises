@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Papotages</string>
+			<string> Elle produit une racine comestible</string>
+			<string>BAVARDAGES</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string>  Loges</string>
+			<string>BAVARDAGES</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Cale</string>
+			<string>BAVARDAGES</string>
+			<string>VE</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Dispose en anneau</string>
+			<string>BAVARDAGES</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Vallée envahie par la mer</string>
+			<string>BAVARDAGES</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Délégué syndicale</string>
+			<string>BAVARDAGES</string>
+			<string>DS</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Singe-araignée</string>
+			<string>BAVARDAGES</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Situé au nord de Genève</string>
+			<string>BAVARDAGES</string>
+			<string>GEX</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string>  Périodes historiques</string>
+			<string>BAVARDAGES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Papotages</string>
+			<string> Une grande île avec beaucoup d'histoire</string>
+			<string>BAVARDAGES</string>
+			<string>SICILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Foncèrent</string>
+			<string>O</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Elle produit une racine comestible</string>
+			<string>EBENISTERIES</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string>  Loges</string>
+			<string>EBENISTERIES</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Cale</string>
+			<string>EBENISTERIES</string>
+			<string>VE</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Dispose en anneau</string>
+			<string>EBENISTERIES</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Vallée envahie par la mer</string>
+			<string>EBENISTERIES</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Délégué syndicale</string>
+			<string>EBENISTERIES</string>
+			<string>DS</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Singe-araignée</string>
+			<string>EBENISTERIES</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Situé au nord de Genève</string>
+			<string>EBENISTERIES</string>
+			<string>GEX</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string>  Périodes historiques</string>
+			<string>EBENISTERIES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Une grande île avec beaucoup d'histoire</string>
+			<string>EBENISTERIES</string>
+			<string>SICILE</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Infinitif</string>
+			<string>EBENISTERIES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Fabrications de meuble</string>
+			<string> Foncèrent</string>
+			<string>EBENISTERIES</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tour</string>
+			<string> Elle produit une racine comestible</string>
+			<string>TR</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string>  Loges</string>
+			<string>TR</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Souvent un caprice</string>
+			<string> Dispose en anneau</string>
+			<string>NA</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string> Souvent un caprice</string>
+			<string> Vallée envahie par la mer</string>
+			<string>NA</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Déteste</string>
+			<string> Singe-araignée</string>
+			<string>EXECRE</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Déteste</string>
+			<string> Situé au nord de Genève</string>
+			<string>EXECRE</string>
+			<string>GEX</string>
+		</array>
+		<array>
+			<string> Déteste</string>
+			<string>  Périodes historiques</string>
+			<string>EXECRE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Déteste</string>
+			<string> Une grande île avec beaucoup d'histoire</string>
+			<string>EXECRE</string>
+			<string>SICILE</string>
+		</array>
+		<array>
+			<string> Déteste</string>
+			<string> Infinitif</string>
+			<string>EXECRE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Déteste</string>
+			<string> Foncèrent</string>
+			<string>EXECRE</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Met du combustible</string>
+			<string> Elle produit une racine comestible</string>
+			<string>TISE</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Met du combustible</string>
+			<string>  Loges</string>
+			<string>TISE</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string> Met du combustible</string>
+			<string> Contenant</string>
+			<string>TISE</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Met du combustible</string>
+			<string> Dispose en anneau</string>
+			<string>TISE</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom d'un célèbre malfaiteur</string>
+			<string></string>
+			<string>AL</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Prénom d'un célèbre malfaiteur</string>
+			<string> Singe-araignée</string>
+			<string>AL</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string>  Périodes historiques</string>
+			<string>SI</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Une grande île avec beaucoup d'histoire</string>
+			<string>SI</string>
+			<string>SICILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Foncèrent</string>
+			<string>R</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étend</string>
+			<string> Elle produit une racine comestible</string>
+			<string>ETALE</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string>  Loges</string>
+			<string>ETALE</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Contenant</string>
+			<string>ETALE</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Dispose en anneau</string>
+			<string>ETALE</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Affluent de la Seine</string>
+			<string>ETALE</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Singe-araignée</string>
+			<string>ES</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Science-Fiction</string>
+			<string>ES</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Une grande île avec beaucoup d'histoire</string>
+			<string>LEE</string>
+			<string>SICILE</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Irlande</string>
+			<string>LEE</string>
+			<string>EIRE</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Foncèrent</string>
+			<string>LEE</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Retiré du monde</string>
+			<string> Elle produit une racine comestible</string>
+			<string>RECLUS</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Retiré du monde</string>
+			<string>  Loges</string>
+			<string>RECLUS</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string> Retiré du monde</string>
+			<string> Contenant</string>
+			<string>RECLUS</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Retiré du monde</string>
+			<string> Dispose en anneau</string>
+			<string>RECLUS</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string> Retiré du monde</string>
+			<string> Affluent de la Seine</string>
+			<string>RECLUS</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string> Retiré du monde</string>
+			<string> Strontium.</string>
+			<string>RECLUS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Entrave</string>
+			<string> Science-Fiction</string>
+			<string>FREIN</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string> Entrave</string>
+			<string> Outil à pointe recourbée</string>
+			<string>FREIN</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string> Entrave</string>
+			<string> Une grande île avec beaucoup d'histoire</string>
+			<string>FREIN</string>
+			<string>SICILE</string>
+		</array>
+		<array>
+			<string> Entrave</string>
+			<string> Irlande</string>
+			<string>FREIN</string>
+			<string>EIRE</string>
+		</array>
+		<array>
+			<string> Entrave</string>
+			<string> Foncèrent</string>
+			<string>FREIN</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie de bronze ou de cuivre</string>
+			<string> Elle produit une racine comestible</string>
+			<string>AS</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Monnaie de bronze ou de cuivre</string>
+			<string>  Loges</string>
+			<string>AS</string>
+			<string>ABRITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Dispose en anneau</string>
+			<string>ERRE</string>
+			<string>ANNELLE</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Affluent de la Seine</string>
+			<string>ERRE</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Strontium.</string>
+			<string>ERRE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Construire</string>
+			<string>ERRE</string>
+			<string>ERIGER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Outil à pointe recourbée</string>
+			<string>E</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Route</string>
+			<string> Irlande</string>
+			<string>RT</string>
+			<string>EIRE</string>
+		</array>
+		<array>
+			<string> Route</string>
+			<string> Foncèrent</string>
+			<string>RT</string>
+			<string>OSERENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elle produit une racine comestible</string>
+			<string>V</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> On ne connait pas leur sexe</string>
+			<string>A</string>
+			<string>ANGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Affluent de la Seine</string>
+			<string>E</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vit dans les régions froides</string>
+			<string> Construire</string>
+			<string>RENNE</string>
+			<string>ERIGER</string>
+		</array>
+		<array>
+			<string> Vit dans les régions froides</string>
+			<string> Épince</string>
+			<string>RENNE</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Vit dans les régions froides</string>
+			<string> Outil à pointe recourbée</string>
+			<string>RENNE</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string> Vit dans les régions froides</string>
+			<string> Négation</string>
+			<string>RENNE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Vit dans les régions froides</string>
+			<string> Irlande</string>
+			<string>RENNE</string>
+			<string>EIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Elle produit une racine comestible</string>
+			<string>IENA</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Irlande</string>
+			<string>IENA</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> On ne connait pas leur sexe</string>
+			<string>IENA</string>
+			<string>ANGES</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string></string>
+			<string>IENA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> La première</string>
+			<string> Gaz rare</string>
+			<string>AINEE</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> La première</string>
+			<string> Construire</string>
+			<string>AINEE</string>
+			<string>ERIGER</string>
+		</array>
+		<array>
+			<string> La première</string>
+			<string> Épince</string>
+			<string>AINEE</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> La première</string>
+			<string> Outil à pointe recourbée</string>
+			<string>AINEE</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string> La première</string>
+			<string> Négation</string>
+			<string>AINEE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ennui</string>
+			<string>O</string>
+			<string>OS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Désert</string>
+			<string> Elle produit une racine comestible</string>
+			<string>ERG</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Désert</string>
+			<string> Irlande</string>
+			<string>ERG</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Désert</string>
+			<string> On ne connait pas leur sexe</string>
+			<string>ERG</string>
+			<string>ANGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jargon</string>
+			<string> Unité en photographie</string>
+			<string>ARGOT</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string> Jargon</string>
+			<string> Gaz rare</string>
+			<string>ARGOT</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> Jargon</string>
+			<string> Construire</string>
+			<string>ARGOT</string>
+			<string>ERIGER</string>
+		</array>
+		<array>
+			<string> Jargon</string>
+			<string> Épince</string>
+			<string>ARGOT</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Jargon</string>
+			<string> Outil à pointe recourbée</string>
+			<string>ARGOT</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Son oncle est Sam</string>
+			<string>US</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Ennui</string>
+			<string>US</string>
+			<string>OS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Circulent au Cambodge</string>
+			<string> Elle produit une racine comestible</string>
+			<string>RIELS</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Circulent au Cambodge</string>
+			<string> Irlande</string>
+			<string>RIELS</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Circulent au Cambodge</string>
+			<string> On ne connait pas leur sexe</string>
+			<string>RIELS</string>
+			<string>ANGES</string>
+		</array>
+		<array>
+			<string> Circulent au Cambodge</string>
+			<string></string>
+			<string>RIELS</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Circulent au Cambodge</string>
+			<string> Unité en photographie</string>
+			<string>RIELS</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Obtîntes</string>
+			<string> Construire</string>
+			<string>EUTES</string>
+			<string>ERIGER</string>
+		</array>
+		<array>
+			<string> Obtîntes</string>
+			<string> Épince</string>
+			<string>EUTES</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Obtîntes</string>
+			<string> Outil à pointe recourbée</string>
+			<string>EUTES</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string> Obtîntes</string>
+			<string></string>
+			<string>EUTES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Obtîntes</string>
+			<string> Son oncle est Sam</string>
+			<string>EUTES</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Elle produit une racine comestible</string>
+			<string>ENS</string>
+			<string>BETTERAVIERE</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Irlande</string>
+			<string>ENS</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> On ne connait pas leur sexe</string>
+			<string>ENS</string>
+			<string>ANGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Accepte</string>
+			<string> Unité en photographie</string>
+			<string>AGREE</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string> Accepte</string>
+			<string></string>
+			<string>AGREE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Accepte</string>
+			<string> Construire</string>
+			<string>AGREE</string>
+			<string>ERIGER</string>
+		</array>
+		<array>
+			<string> Accepte</string>
+			<string> Épince</string>
+			<string>AGREE</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Accepte</string>
+			<string> Outil à pointe recourbée</string>
+			<string>AGREE</string>
+			<string>RENETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Astate</string>
+			<string> Son oncle est Sam</string>
+			<string>AT</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string> Astate</string>
+			<string></string>
+			<string>AT</string>
+			<string>T</string>
+		</array>
+	</array>
+</array>
+</plist>

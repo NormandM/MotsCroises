@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Épithète</string>
+			<string>QUADRILATERE</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Élément logique d&apos;un seul d&apos;argument</string>
+			<string>QUADRILATERE</string>
+			<string>UNAIRE</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Argent</string>
+			<string>QUADRILATERE</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Doivent être remboursés</string>
+			<string>QUADRILATERE</string>
+			<string>DUS</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Courte phrase musicale</string>
+			<string>QUADRILATERE</string>
+			<string>RIFF</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Ilot français de la Méditerranée</string>
+			<string>QUADRILATERE</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string>  Général sudiste</string>
+			<string>QUADRILATERE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>QUADRILATERE</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Pour le premier coup</string>
+			<string>QUADRILATERE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Orient</string>
+			<string>QUADRILATERE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string></string>
+			<string>QUADRILATERE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Il a quatre côtés</string>
+			<string> Vigueurs</string>
+			<string>QUADRILATERE</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Épithète</string>
+			<string>UNGUIFERES</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Élément logique d&apos;un seul d&apos;argument</string>
+			<string>UNGUIFERES</string>
+			<string>UNAIRE</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Argent</string>
+			<string>UNGUIFERES</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Doivent être remboursés</string>
+			<string>UNGUIFERES</string>
+			<string>DUS</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Courte phrase musicale</string>
+			<string>UNGUIFERES</string>
+			<string>RIFF</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Ilot français de la Méditerranée</string>
+			<string>UNGUIFERES</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string>  Général sudiste</string>
+			<string>UNGUIFERES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>UNGUIFERES</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Pour le premier coup</string>
+			<string>UNGUIFERES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Portent l&apos;ongle</string>
+			<string> Orient</string>
+			<string>UNGUIFERES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vigueurs</string>
+			<string>N</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Épithète</string>
+			<string>AA</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Élément logique d&apos;un seul d&apos;argument</string>
+			<string>AA</string>
+			<string>UNAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Science-Fiction</string>
+			<string> Doivent être remboursés</string>
+			<string>SF</string>
+			<string>DUS</string>
+		</array>
+		<array>
+			<string> Science-Fiction</string>
+			<string> Courte phrase musicale</string>
+			<string>SF</string>
+			<string>RIFF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus courte</string>
+			<string>  Général sudiste</string>
+			<string>ETETEE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Plus courte</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>ETETEE</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Plus courte</string>
+			<string> Pour le premier coup</string>
+			<string>ETETEE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Plus courte</string>
+			<string> Orient</string>
+			<string>ETETEE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Plus courte</string>
+			<string> Direction</string>
+			<string>ETETEE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Plus courte</string>
+			<string> Vigueurs</string>
+			<string>ETETEE</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Uni</string>
+			<string> Épithète</string>
+			<string>LIE</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Uni</string>
+			<string> Élément logique d&apos;un seul d&apos;argument</string>
+			<string>LIE</string>
+			<string>UNAIRE</string>
+		</array>
+		<array>
+			<string> Uni</string>
+			<string></string>
+			<string>LIE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Courte phrase musicale</string>
+			<string>FE</string>
+			<string>RIFF</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Enfoncées</string>
+			<string>FE</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>ES</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Pour le premier coup</string>
+			<string>ES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Direction</string>
+			<string>SR</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Vigueurs</string>
+			<string>SR</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Épithète</string>
+			<string>IR</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Élément logique d&apos;un seul d&apos;argument</string>
+			<string>IR</string>
+			<string>UNAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Posséda</string>
+			<string>E</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Navire à voiles</string>
+			<string> Enfoncées</string>
+			<string>NEF</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string> Navire à voiles</string>
+			<string></string>
+			<string>NEF</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Navire à voiles</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>NEF</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Désert rocheux</string>
+			<string> Poulies</string>
+			<string>REG</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Désert rocheux</string>
+			<string> Direction</string>
+			<string>REG</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Désert rocheux</string>
+			<string> Vigueurs</string>
+			<string>REG</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Passionnées</string>
+			<string> Épithète</string>
+			<string>FERUES</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Passionnées</string>
+			<string> Élément logique d&apos;un seul d&apos;argument</string>
+			<string>FERUES</string>
+			<string>UNAIRE</string>
+		</array>
+		<array>
+			<string> Passionnées</string>
+			<string> Ressassée</string>
+			<string>FERUES</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string> Passionnées</string>
+			<string> Posséda</string>
+			<string>FERUES</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string> Passionnées</string>
+			<string></string>
+			<string>FERUES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Passionnées</string>
+			<string> Enfoncées</string>
+			<string>FERUES</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une blonde anglaise</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>ALE</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Une blonde anglaise</string>
+			<string> Symbole chimique</string>
+			<string>ALE</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Une blonde anglaise</string>
+			<string> Poulies</string>
+			<string>ALE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vigueurs</string>
+			<string>I</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Épithète</string>
+			<string>I</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Ressassée</string>
+			<string>ET</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Posséda</string>
+			<string>ET</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Enfoncées</string>
+			<string>ANCRAGE</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Flûtes</string>
+			<string>ANCRAGE</string>
+			<string>NAYS</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>ANCRAGE</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Symbole chimique</string>
+			<string>ANCRAGE</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Poulies</string>
+			<string>ANCRAGE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Administrées</string>
+			<string>ANCRAGE</string>
+			<string>GEREES</string>
+		</array>
+		<array>
+			<string> Fixation</string>
+			<string> Vigueurs</string>
+			<string>ANCRAGE</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Promontoire</string>
+			<string> Épithète</string>
+			<string>CAP</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Promontoire</string>
+			<string> Lieu de combat</string>
+			<string>CAP</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Promontoire</string>
+			<string> Ressassée</string>
+			<string>CAP</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Batifolage</string>
+			<string></string>
+			<string>EBAT</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Batifolage</string>
+			<string> Enfoncées</string>
+			<string>EBAT</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string> Batifolage</string>
+			<string> Flûtes</string>
+			<string>EBAT</string>
+			<string>NAYS</string>
+		</array>
+		<array>
+			<string> Batifolage</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>EBAT</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Poulies</string>
+			<string>SES</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Administrées</string>
+			<string>SES</string>
+			<string>GEREES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Vigueurs</string>
+			<string>SES</string>
+			<string>ENERGIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Épithète</string>
+			<string>ARES</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Lieu de combat</string>
+			<string>ARES</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Ressassée</string>
+			<string>ARES</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string></string>
+			<string>ARES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Destruction d&apos;éléments organiques</string>
+			<string> Enfoncées</string>
+			<string>LYSE</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string> Destruction d&apos;éléments organiques</string>
+			<string> Flûtes</string>
+			<string>LYSE</string>
+			<string>NAYS</string>
+		</array>
+		<array>
+			<string> Destruction d&apos;éléments organiques</string>
+			<string> Phénomènes d&apos;origine humaine</string>
+			<string>LYSE</string>
+			<string>ARTEFACTS</string>
+		</array>
+		<array>
+			<string> Destruction d&apos;éléments organiques</string>
+			<string>  Périodes historiques</string>
+			<string>LYSE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Administrées</string>
+			<string>R</string>
+			<string>GEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Règles</string>
+			<string> Épithète</string>
+			<string>TES</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Lieu de combat</string>
+			<string>TES</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Ressassée</string>
+			<string>TES</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Abréviation</string>
+			<string>MES</string>
+			<string>MME</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Enfoncées</string>
+			<string>MES</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Flûtes</string>
+			<string>MES</string>
+			<string>NAYS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string>  Périodes historiques</string>
+			<string>REES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Infinitif</string>
+			<string>REES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Administrées</string>
+			<string>REES</string>
+			<string>GEREES</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string>REES</string>
+			<string>SSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> N&apos;a pas d&apos;épines</string>
+			<string> Épithète</string>
+			<string>INERME</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> N&apos;a pas d&apos;épines</string>
+			<string> Lieu de combat</string>
+			<string>INERME</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> N&apos;a pas d&apos;épines</string>
+			<string> Ressassée</string>
+			<string>INERME</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string> N&apos;a pas d&apos;épines</string>
+			<string></string>
+			<string>INERME</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> N&apos;a pas d&apos;épines</string>
+			<string> Abréviation</string>
+			<string>INERME</string>
+			<string>MME</string>
+		</array>
+		<array>
+			<string> N&apos;a pas d&apos;épines</string>
+			<string> Enfoncées</string>
+			<string>INERME</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Négation</string>
+			<string>NERES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string>  Périodes historiques</string>
+			<string>NERES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Infinitif</string>
+			<string>NERES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Administrées</string>
+			<string>NERES</string>
+			<string>GEREES</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string>NERES</string>
+			<string>SSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elle a une baguette</string>
+			<string> Épithète</string>
+			<string>FEE</string>
+			<string>QUALIFICATIF</string>
+		</array>
+		<array>
+			<string> Elle a une baguette</string>
+			<string> Lieu de combat</string>
+			<string>FEE</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Elle a une baguette</string>
+			<string> Ressassée</string>
+			<string>FEE</string>
+			<string>REPESEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Abréviation</string>
+			<string>ESSES</string>
+			<string>MME</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Enfoncées</string>
+			<string>ESSES</string>
+			<string>ENSABLEES</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string></string>
+			<string>ESSES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Négation</string>
+			<string>ESSES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string>  Périodes historiques</string>
+			<string>ESSES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Administrées</string>
+			<string>SE</string>
+			<string>GEREES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string>SE</string>
+			<string>SSE</string>
+		</array>
+	</array>
+</array>
+</plist>

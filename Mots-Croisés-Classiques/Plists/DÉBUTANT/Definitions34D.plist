@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Planétaire</string>
+			<string>METEORITES</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Age</string>
+			<string>METEORITES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Desserts</string>
+			<string>METEORITES</string>
+			<string>TARTES</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Période de vacance</string>
+			<string>METEORITES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Lac des Pyrénées</string>
+			<string>METEORITES</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Cérémonies</string>
+			<string>METEORITES</string>
+			<string>Footballeur belge</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Colère</string>
+			<string>METEORITES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>METEORITES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string> Intenter un procès</string>
+			<string>METEORITES</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Fragments de corps céleste</string>
+			<string></string>
+			<string>METEORITES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Planétaire</string>
+			<string>ORATOIRES</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Age</string>
+			<string>ORATOIRES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Desserts</string>
+			<string>ORATOIRES</string>
+			<string>TARTES</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Période de vacance</string>
+			<string>ORATOIRES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Lac des Pyrénées</string>
+			<string>ORATOIRES</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Cérémonies</string>
+			<string>ORATOIRES</string>
+			<string>Footballeur belge</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Colère</string>
+			<string>ORATOIRES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ORATOIRES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Concernent l&apos;art de parler en public</string>
+			<string> Intenter un procès</string>
+			<string>ORATOIRES</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Planétaire</string>
+			<string>NERE</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Age</string>
+			<string>NERE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Desserts</string>
+			<string>NERE</string>
+			<string>TARTES</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Période de vacance</string>
+			<string>NERE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Cérémonies</string>
+			<string>TESTE</string>
+			<string>Footballeur belge</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Colère</string>
+			<string>TESTE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>TESTE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Intenter un procès</string>
+			<string>TESTE</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>TESTE</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Planétaire</string>
+			<string>D</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Desserts</string>
+			<string>T</string>
+			<string>TARTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Enzyme.</string>
+			<string>AS</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Cérémonies</string>
+			<string>AS</string>
+			<string>Footballeur belge</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>SES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Intenter un procès</string>
+			<string>SES</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>SES</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pensées.</string>
+			<string> Planétaire</string>
+			<string>IDEES</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Signes musicaux</string>
+			<string>IDEES</string>
+			<string>DIESES</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Desserts</string>
+			<string>IDEES</string>
+			<string>TARTES</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string></string>
+			<string>IDEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Enzyme.</string>
+			<string>IDEES</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Petites brosses de soie</string>
+			<string>SERE</string>
+			<string>SAIES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>SERE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Intenter un procès</string>
+			<string>SERE</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>SERE</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plaque</string>
+			<string> Planétaire</string>
+			<string>AIS</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Plaque</string>
+			<string> Signes musicaux</string>
+			<string>AIS</string>
+			<string>DIESES</string>
+		</array>
+		<array>
+			<string> Plaque</string>
+			<string> Desserts</string>
+			<string>AIS</string>
+			<string>TARTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pour fermer une porte</string>
+			<string> Enzyme.</string>
+			<string>EPAR</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Pour fermer une porte</string>
+			<string> Platine</string>
+			<string>EPAR</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Pour fermer une porte</string>
+			<string> Petites brosses de soie</string>
+			<string>EPAR</string>
+			<string>SAIES</string>
+		</array>
+		<array>
+			<string> Pour fermer une porte</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>EPAR</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Alcaloïdes toxiques</string>
+			<string>R</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Planétaire</string>
+			<string>LE</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Signes musicaux</string>
+			<string>LE</string>
+			<string>DIESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fleuve d&apos;Europe occidentale</string>
+			<string>R</string>
+			<string>RHIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rendu plus froid</string>
+			<string> Platine</string>
+			<string>TIEDI</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Rendu plus froid</string>
+			<string> Petites brosses de soie</string>
+			<string>TIEDI</string>
+			<string>SAIES</string>
+		</array>
+		<array>
+			<string> Rendu plus froid</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>TIEDI</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Rendu plus froid</string>
+			<string> Mesure</string>
+			<string>TIEDI</string>
+			<string>DOSE</string>
+		</array>
+		<array>
+			<string> Rendu plus froid</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>TIEDI</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Appât</string>
+			<string> Planétaire</string>
+			<string>ESCHE</string>
+			<string>MONDIALE</string>
+		</array>
+		<array>
+			<string> Appât</string>
+			<string> Signes musicaux</string>
+			<string>ESCHE</string>
+			<string>DIESES</string>
+		</array>
+		<array>
+			<string> Appât</string>
+			<string> Hurlement</string>
+			<string>ESCHE</string>
+			<string>CRI</string>
+		</array>
+		<array>
+			<string> Appât</string>
+			<string> Fleuve d&apos;Europe occidentale</string>
+			<string>ESCHE</string>
+			<string>RHIN</string>
+		</array>
+		<array>
+			<string> Appât</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string>ESCHE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Roi mythique, père de Jason</string>
+			<string> Petites brosses de soie</string>
+			<string>ESON</string>
+			<string>SAIES</string>
+		</array>
+		<array>
+			<string> Roi mythique, père de Jason</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ESON</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Roi mythique, père de Jason</string>
+			<string> Mesure</string>
+			<string>ESON</string>
+			<string>DOSE</string>
+		</array>
+		<array>
+			<string> Roi mythique, père de Jason</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>ESON</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Signes musicaux</string>
+			<string>ERINES</string>
+			<string>DIESES</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Hurlement</string>
+			<string>ERINES</string>
+			<string>CRI</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Fleuve d&apos;Europe occidentale</string>
+			<string>ERINES</string>
+			<string>RHIN</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string>ERINES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Du verbe être</string>
+			<string>ERINES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Petites brosses de soie</string>
+			<string>ERINES</string>
+			<string>SAIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Mesure</string>
+			<string>SE</string>
+			<string>DOSE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>SE</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Manufactures</string>
+			<string></string>
+			<string>USINES</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Signes musicaux</string>
+			<string>USINES</string>
+			<string>DIESES</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Hurlement</string>
+			<string>USINES</string>
+			<string>CRI</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Fleuve d&apos;Europe occidentale</string>
+			<string>USINES</string>
+			<string>RHIN</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string>USINES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Du verbe être</string>
+			<string>USINES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string></string>
+			<string>TES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Mesure</string>
+			<string>TES</string>
+			<string>DOSE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>TES</string>
+			<string>ESERINES</string>
+		</array>
+	</array>
+</array>
+</plist>

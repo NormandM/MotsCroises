@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Résidentes</string>
+			<string> Transgressé</string>
+			<string>CITOYENNES</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Relatifs à l'oeil</string>
+			<string>CITOYENNES</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>CITOYENNES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Rivière de Russie</string>
+			<string>CITOYENNES</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Péninsule du Mexique</string>
+			<string>CITOYENNES</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Existes</string>
+			<string>CITOYENNES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string></string>
+			<string>CITOYENNES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Une vieille façon de dire non</string>
+			<string>CITOYENNES</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Infinitif</string>
+			<string>CITOYENNES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Résidentes</string>
+			<string> Monnaie du Japon</string>
+			<string>CITOYENNES</string>
+			<string>SEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prière</string>
+			<string> Transgressé</string>
+			<string>OREMUS</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Prière</string>
+			<string> Relatifs à l'oeil</string>
+			<string>OREMUS</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Prière</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>OREMUS</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Prière</string>
+			<string> Rivière de Russie</string>
+			<string>OREMUS</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string> Prière</string>
+			<string> Péninsule du Mexique</string>
+			<string>OREMUS</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string> Prière</string>
+			<string> Existes</string>
+			<string>OREMUS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période historique</string>
+			<string> Une vieille façon de dire non</string>
+			<string>ERE</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string> Période historique</string>
+			<string> Infinitif</string>
+			<string>ERE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Période historique</string>
+			<string> Monnaie du Japon</string>
+			<string>ERE</string>
+			<string>SEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Refute</string>
+			<string> Transgressé</string>
+			<string>NIE</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Refute</string>
+			<string> Relatifs à l'oeil</string>
+			<string>NIE</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Refute</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>NIE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Péninsule du Mexique</string>
+			<string>C</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Passereaux</string>
+			<string>MN</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Une vieille façon de dire non</string>
+			<string>MN</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaie du Japon</string>
+			<string>N</string>
+			<string>SEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Transgressé</string>
+			<string>TESTAMENT</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Relatifs à l'oeil</string>
+			<string>TESTAMENT</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Essentiels pour les coups de départ</string>
+			<string>TESTAMENT</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Règle</string>
+			<string>TESTAMENT</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Péninsule du Mexique</string>
+			<string>TESTAMENT</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Possessif</string>
+			<string>TESTAMENT</string>
+			<string>MES</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Passereaux</string>
+			<string>TESTAMENT</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Une vieille façon de dire non</string>
+			<string>TESTAMENT</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string> Il y a l'ancien et le nouveau</string>
+			<string> Mises à l'épreuve</string>
+			<string>TESTAMENT</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Radon</string>
+			<string> Transgressé</string>
+			<string>RN</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Relatifs à l'oeil</string>
+			<string>RN</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Règle</string>
+			<string>ETESIEN</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Péninsule du Mexique</string>
+			<string>ETESIEN</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Possessif</string>
+			<string>ETESIEN</string>
+			<string>MES</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Passereaux</string>
+			<string>ETESIEN</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Une vieille façon de dire non</string>
+			<string>ETESIEN</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Mises à l'épreuve</string>
+			<string>ETESIEN</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string>  Apparus.</string>
+			<string>ETESIEN</string>
+			<string>NES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Transgressé</string>
+			<string>EST</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Relatifs à l'oeil</string>
+			<string>EST</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Palpée</string>
+			<string>EST</string>
+			<string>TATEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Unité en photographie</string>
+			<string> Péninsule du Mexique</string>
+			<string>ASA</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string> Unité en photographie</string>
+			<string> Possessif</string>
+			<string>ASA</string>
+			<string>MES</string>
+		</array>
+		<array>
+			<string> Unité en photographie</string>
+			<string> Passereaux</string>
+			<string>ASA</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Mises à l'épreuve</string>
+			<string>SE</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string>  Apparus.</string>
+			<string>SE</string>
+			<string>NES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Transgressé</string>
+			<string>V</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Porteur de la génétique</string>
+			<string> Palpée</string>
+			<string>ADN</string>
+			<string>TATEE</string>
+		</array>
+		<array>
+			<string> Porteur de la génétique</string>
+			<string> Article partitif</string>
+			<string>ADN</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Porteur de la génétique</string>
+			<string> Péninsule du Mexique</string>
+			<string>ADN</string>
+			<string>YUCATAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tranchés</string>
+			<string> Passereaux</string>
+			<string>NETS</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string> Tranchés</string>
+			<string> Indique la manière</string>
+			<string>NETS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Tranchés</string>
+			<string> Mises à l'épreuve</string>
+			<string>NETS</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Tranchés</string>
+			<string>  Apparus.</string>
+			<string>NETS</string>
+			<string>NES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Transgressé</string>
+			<string>ESTE</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Possessif.</string>
+			<string>ESTE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Palpée</string>
+			<string>ESTE</string>
+			<string>TATEE</string>
+		</array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Article partitif</string>
+			<string>ESTE</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Fin de verbe</string>
+			<string>IGNE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Passereaux</string>
+			<string>IGNE</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Indique la manière</string>
+			<string>IGNE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Mises à l'épreuve</string>
+			<string>IGNE</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arrivée</string>
+			<string> Transgressé</string>
+			<string>NEE</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Possessif.</string>
+			<string>NEE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Palpée</string>
+			<string>NEE</string>
+			<string>TATEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Champion</string>
+			<string>ARE</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Fin de verbe</string>
+			<string>ARE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Passereaux</string>
+			<string>ARE</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Mises à l'épreuve</string>
+			<string>EM</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Pronom personnel</string>
+			<string>EM</string>
+			<string>ME</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Erodées</string>
+			<string> Transgressé</string>
+			<string>USEES</string>
+			<string>CONTREVENU</string>
+		</array>
+		<array>
+			<string> Erodées</string>
+			<string> Possessif.</string>
+			<string>USEES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Erodées</string>
+			<string> Palpée</string>
+			<string>USEES</string>
+			<string>TATEE</string>
+		</array>
+		<array>
+			<string> Erodées</string>
+			<string></string>
+			<string>USEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Erodées</string>
+			<string> Champion</string>
+			<string>USEES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Située</string>
+			<string> Passereaux</string>
+			<string>SISE</string>
+			<string>MESANGES</string>
+		</array>
+		<array>
+			<string> Située</string>
+			<string></string>
+			<string>SISE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Située</string>
+			<string> Mises à l'épreuve</string>
+			<string>SISE</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Située</string>
+			<string> Pronom personnel</string>
+			<string>SISE</string>
+			<string>ME</string>
+		</array>
+	</array>
+</array>
+</plist>

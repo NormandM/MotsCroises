@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>S'accorde</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>SYMPATHISE</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>SYMPATHISE</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string></string>
+			<string>SYMPATHISE</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Ancienne capitale du Béarn</string>
+			<string>SYMPATHISE</string>
+			<string>PAU</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Astate</string>
+			<string>SYMPATHISE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>SYMPATHISE</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Appeler de loin</string>
+			<string>SYMPATHISE</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>À la mode</string>
+			<string>SYMPATHISE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Isolés</string>
+			<string>SYMPATHISE</string>
+			<string>SEULS</string>
+		</array>
+		<array>
+			<string>S'accorde</string>
+			<string>Existe</string>
+			<string>SYMPATHISE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lac des Pyrénées</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>OO</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Lac des Pyrénées</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>OO</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>Ancienne capitale du Béarn</string>
+			<string>ATHENES</string>
+			<string>PAU</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>Astate</string>
+			<string>ATHENES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>ATHENES</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>Appeler de loin</string>
+			<string>ATHENES</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>À la mode</string>
+			<string>ATHENES</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>Isolés</string>
+			<string>ATHENES</string>
+			<string>SEULS</string>
+		</array>
+		<array>
+			<string>Une ville qui a beaucoup d'histoire</string>
+			<string>Existe</string>
+			<string>ATHENES</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Langue parlée en Inde</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>URDU</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Langue parlée en Inde</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>URDU</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string>Langue parlée en Inde</string>
+			<string>Grands filets pour la pêche</string>
+			<string>URDU</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string>Langue parlée en Inde</string>
+			<string>Ancienne capitale du Béarn</string>
+			<string>URDU</string>
+			<string>PAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Aluminium</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>AL</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>Aluminium</string>
+			<string>Appeler de loin</string>
+			<string>AL</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une ancienne note</string>
+			<string>Isolés</string>
+			<string>UT</string>
+			<string>SEULS</string>
+		</array>
+		<array>
+			<string>Une ancienne note</string>
+			<string>Existe</string>
+			<string>UT</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Guitariste espagnol</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>SOR</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Guitariste espagnol</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>SOR</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string>Guitariste espagnol</string>
+			<string>Grands filets pour la pêche</string>
+			<string>SOR</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>D'une partie de l'intestin grêle</string>
+			<string></string>
+			<string>ILEAL</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>D'une partie de l'intestin grêle</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>ILEAL</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>D'une partie de l'intestin grêle</string>
+			<string>Appeler de loin</string>
+			<string>ILEAL</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>D'une partie de l'intestin grêle</string>
+			<string>Fête religieuse musulmane</string>
+			<string>ILEAL</string>
+			<string>AID</string>
+		</array>
+		<array>
+			<string>D'une partie de l'intestin grêle</string>
+			<string>Isolés</string>
+			<string>ILEAL</string>
+			<string>SEULS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dupées</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>EUES</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Dupées</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>EUES</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string>Dupées</string>
+			<string>Grands filets pour la pêche</string>
+			<string>EUES</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string>Dupées</string>
+			<string>Strontium</string>
+			<string>EUES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Diminue la hauteur de la voile</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>ARISE</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>Diminue la hauteur de la voile</string>
+			<string>Appeler de loin</string>
+			<string>ARISE</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>Diminue la hauteur de la voile</string>
+			<string>Fête religieuse musulmane</string>
+			<string>ARISE</string>
+			<string>AID</string>
+		</array>
+		<array>
+			<string>Diminue la hauteur de la voile</string>
+			<string>Isolés</string>
+			<string>ARISE</string>
+			<string>SEULS</string>
+		</array>
+		<array>
+			<string>Diminue la hauteur de la voile</string>
+			<string>Pourris lorsqu'ils sont froids</string>
+			<string>ARISE</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Hommes de main</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>SBIRES</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Hommes de main</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>SBIRES</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string>Hommes de main</string>
+			<string>Grands filets pour la pêche</string>
+			<string>SBIRES</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string>Hommes de main</string>
+			<string>Strontium</string>
+			<string>SBIRES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Hommes de main</string>
+			<string>Europe</string>
+			<string>SBIRES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Hommes de main</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>SBIRES</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fête religieuse musulmane</string>
+			<string>D</string>
+			<string>AID</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pourris lorsqu'ils sont froids</string>
+			<string>T</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Graffiti</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>TAG</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Graffiti</string>
+			<string>Peuple de l'Afrique de l'Ouest</string>
+			<string>TAG</string>
+			<string>YOROUBA</string>
+		</array>
+		<array>
+			<string>Graffiti</string>
+			<string>Grands filets pour la pêche</string>
+			<string>TAG</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>De l'atlantique au pacifique</string>
+			<string>Europe</string>
+			<string>USA</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>De l'atlantique au pacifique</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>USA</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>De l'atlantique au pacifique</string>
+			<string>On y fait du feu</string>
+			<string>USA</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Bleu c'est un pantalon</string>
+			<string>JE</string>
+			<string>JEAN</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Pourris lorsqu'ils sont froids</string>
+			<string>JE</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Il peut donc nous surprendre</string>
+			<string>I</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le bavard utilise beaucoup ce mot</string>
+			<string>Grands filets pour la pêche</string>
+			<string>ET</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string>Le bavard utilise beaucoup ce mot</string>
+			<string>Camelote</string>
+			<string>ET</string>
+			<string>TOC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Enlevées</string>
+			<string>Thérapie qui fait usage d'eau de mer</string>
+			<string>OTEES</string>
+			<string>THALASSO</string>
+		</array>
+		<array>
+			<string>Enlevées</string>
+			<string>On y fait du feu</string>
+			<string>OTEES</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string>Enlevées</string>
+			<string>Possédé</string>
+			<string>OTEES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Enlevées</string>
+			<string>Bleu c'est un pantalon</string>
+			<string>OTEES</string>
+			<string>JEAN</string>
+		</array>
+		<array>
+			<string>Enlevées</string>
+			<string>Pourris lorsqu'ils sont froids</string>
+			<string>OTEES</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Particule élémentaire</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>MESON</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Particule élémentaire</string>
+			<string>Jamais le dernier mot</string>
+			<string>MESON</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Particule élémentaire</string>
+			<string>Grands filets pour la pêche</string>
+			<string>MESON</string>
+			<string>DREIGES</string>
+		</array>
+		<array>
+			<string>Particule élémentaire</string>
+			<string>Camelote</string>
+			<string>MESON</string>
+			<string>TOC</string>
+		</array>
+		<array>
+			<string>Particule élémentaire</string>
+			<string>Sodium</string>
+			<string>MESON</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Protesta</string>
+			<string>On y fait du feu</string>
+			<string>RUA</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string>Protesta</string>
+			<string>Possédé</string>
+			<string>RUA</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Protesta</string>
+			<string>Bleu c'est un pantalon</string>
+			<string>RUA</string>
+			<string>JEAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un film de Spielberg</string>
+			<string>Il peut donc nous surprendre</string>
+			<string>ET</string>
+			<string>SOUSESTIME</string>
+		</array>
+		<array>
+			<string>Un film de Spielberg</string>
+			<string>Jamais le dernier mot</string>
+			<string>ET</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Difficile de s'en passer le matin</string>
+			<string>Camelote</string>
+			<string>CAFE</string>
+			<string>TOC</string>
+		</array>
+		<array>
+			<string>Difficile de s'en passer le matin</string>
+			<string>Sodium</string>
+			<string>CAFE</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Difficile de s'en passer le matin</string>
+			<string></string>
+			<string>CAFE</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string>Difficile de s'en passer le matin</string>
+			<string>On y fait du feu</string>
+			<string>CAFE</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Néon</string>
+			<string>Bleu c'est un pantalon</string>
+			<string>NE</string>
+			<string>JEAN</string>
+		</array>
+		<array>
+			<string>Néon</string>
+			<string></string>
+			<string>NE</string>
+			<string>E</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Horrible</string>
+			<string> Endommagés</string>
+			<string>ABOMINABLE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Exprime le froid</string>
+			<string>ABOMINABLE</string>
+			<string>BRRR</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string></string>
+			<string>ABOMINABLE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Maison rurale de Provence</string>
+			<string>ABOMINABLE</string>
+			<string>MAS</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Groupes de maisons aux Antilles</string>
+			<string>ABOMINABLE</string>
+			<string>ILETS</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string>  Apparus.</string>
+			<string>ABOMINABLE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Du verbe avoir</string>
+			<string>ABOMINABLE</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Sacrer</string>
+			<string>ABOMINABLE</string>
+			<string>BENIR</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Pronom personnel</string>
+			<string>ABOMINABLE</string>
+			<string>LEUR</string>
+		</array>
+		<array>
+			<string> Horrible</string>
+			<string> Crochets</string>
+			<string>ABOMINABLE</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Chrome</string>
+			<string> Endommagés</string>
+			<string>CR</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Chrome</string>
+			<string> Exprime le froid</string>
+			<string>CR</string>
+			<string>BRRR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Maison rurale de Provence</string>
+			<string>ALESEES</string>
+			<string>MAS</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Groupes de maisons aux Antilles</string>
+			<string>ALESEES</string>
+			<string>ILETS</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string>  Apparus.</string>
+			<string>ALESEES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Du verbe avoir</string>
+			<string>ALESEES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Sacrer</string>
+			<string>ALESEES</string>
+			<string>BENIR</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Pronom personnel</string>
+			<string>ALESEES</string>
+			<string>LEUR</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Crochets</string>
+			<string>ALESEES</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Conflits</string>
+			<string> Endommagés</string>
+			<string>CRISES</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Conflits</string>
+			<string> Exprime le froid</string>
+			<string>CRISES</string>
+			<string>BRRR</string>
+		</array>
+		<array>
+			<string> Conflits</string>
+			<string> Une victoire de Napoléon</string>
+			<string>CRISES</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Conflits</string>
+			<string> Maison rurale de Provence</string>
+			<string>CRISES</string>
+			<string>MAS</string>
+		</array>
+		<array>
+			<string> Conflits</string>
+			<string> Groupes de maisons aux Antilles</string>
+			<string>CRISES</string>
+			<string>ILETS</string>
+		</array>
+		<array>
+			<string> Conflits</string>
+			<string>  Apparus.</string>
+			<string>CRISES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dépouillés</string>
+			<string> Sacrer</string>
+			<string>NUS</string>
+			<string>BENIR</string>
+		</array>
+		<array>
+			<string> Dépouillés</string>
+			<string> Pronom personnel</string>
+			<string>NUS</string>
+			<string>LEUR</string>
+		</array>
+		<array>
+			<string> Dépouillés</string>
+			<string> Crochets</string>
+			<string>NUS</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colère</string>
+			<string> Endommagés</string>
+			<string>IRE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Exprime le froid</string>
+			<string>IRE</string>
+			<string>BRRR</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Une victoire de Napoléon</string>
+			<string>IRE</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Groupes de maisons aux Antilles</string>
+			<string>T</string>
+			<string>ILETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Titre donné à un souverain</string>
+			<string> Aidé</string>
+			<string>SIRE</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string> Titre donné à un souverain</string>
+			<string> Sacrer</string>
+			<string>SIRE</string>
+			<string>BENIR</string>
+		</array>
+		<array>
+			<string> Titre donné à un souverain</string>
+			<string> Pronom personnel</string>
+			<string>SIRE</string>
+			<string>LEUR</string>
+		</array>
+		<array>
+			<string> Titre donné à un souverain</string>
+			<string> Crochets</string>
+			<string>SIRE</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Endommagés</string>
+			<string>D</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Une victoire de Napoléon</string>
+			<string>NESTOR</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Trompée</string>
+			<string>NESTOR</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Groupes de maisons aux Antilles</string>
+			<string>NESTOR</string>
+			<string>ILETS</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> On y met une balle</string>
+			<string>NESTOR</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Aidé</string>
+			<string>NESTOR</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Sacrer</string>
+			<string>NESTOR</string>
+			<string>BENIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crochets</string>
+			<string>S</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Endommagés</string>
+			<string>ESAU</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Elle traverse Paris</string>
+			<string>ESAU</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Une victoire de Napoléon</string>
+			<string>ESAU</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Trompée</string>
+			<string>ESAU</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> D'un auxiliaire</string>
+			<string> On y met une balle</string>
+			<string>EU</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> D'un auxiliaire</string>
+			<string> Aidé</string>
+			<string>EU</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Isolée</string>
+			<string>S</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Endommagés</string>
+			<string>NE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Elle traverse Paris</string>
+			<string>NE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> Trompée</string>
+			<string>ETETEES</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> Poids de l'emballage</string>
+			<string>ETETEES</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> On y met une balle</string>
+			<string>ETETEES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> Aidé</string>
+			<string>ETETEES</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> Il a déjà été important</string>
+			<string>ETETEES</string>
+			<string>EX</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> Isolée</string>
+			<string>ETETEES</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> Raccourcies</string>
+			<string> Es utile</string>
+			<string>ETETEES</string>
+			<string>SERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Salve</string>
+			<string> Endommagés</string>
+			<string>TIR</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Salve</string>
+			<string> Elle traverse Paris</string>
+			<string>TIR</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Salve</string>
+			<string> Radiofréquence</string>
+			<string>TIR</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Qui n'a pas de sexe</string>
+			<string> Poids de l'emballage</string>
+			<string>ASEXUE</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string> Qui n'a pas de sexe</string>
+			<string> On y met une balle</string>
+			<string>ASEXUE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Qui n'a pas de sexe</string>
+			<string> Aidé</string>
+			<string>ASEXUE</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string> Qui n'a pas de sexe</string>
+			<string> Il a déjà été important</string>
+			<string>ASEXUE</string>
+			<string>EX</string>
+		</array>
+		<array>
+			<string> Qui n'a pas de sexe</string>
+			<string> Isolée</string>
+			<string>ASEXUE</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> Qui n'a pas de sexe</string>
+			<string> Es utile</string>
+			<string>ASEXUE</string>
+			<string>SERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Géhenne</string>
+			<string> Endommagés</string>
+			<string>ENFER</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Géhenne</string>
+			<string> Elle traverse Paris</string>
+			<string>ENFER</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Géhenne</string>
+			<string> Radiofréquence</string>
+			<string>ENFER</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string> Géhenne</string>
+			<string> Avant un titre universitaire</string>
+			<string>ENFER</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Géhenne</string>
+			<string> Poids de l'emballage</string>
+			<string>ENFER</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Aidé</string>
+			<string>N</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lawrencium</string>
+			<string> Isolée</string>
+			<string>LR</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> Lawrencium</string>
+			<string> Es utile</string>
+			<string>LR</string>
+			<string>SERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Endommagés</string>
+			<string>SE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Elle traverse Paris</string>
+			<string>SE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string> Avant un titre universitaire</string>
+			<string>SEXUEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string> Poids de l'emballage</string>
+			<string>SEXUEES</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string></string>
+			<string>SEXUEES</string>
+			<string>X</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string> Aidé</string>
+			<string>SEXUEES</string>
+			<string>SOUTENU</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string></string>
+			<string>SEXUEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string> Isolée</string>
+			<string>SEXUEES</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> Qui ont un sexe</string>
+			<string> Es utile</string>
+			<string>SEXUEES</string>
+			<string>SERS</string>
+		</array>
+	</array>
+</array>
+</plist>

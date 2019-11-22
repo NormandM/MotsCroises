@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Ambiance</string>
+			<string>Inégalités du relief</string>
+			<string>ATMOSPHERE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Il est solitaire</string>
+			<string>ATMOSPHERE</string>
+			<string>TAENIA</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Manganèse</string>
+			<string>ATMOSPHERE</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Oui dans le sud de la France</string>
+			<string>ATMOSPHERE</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Parlementaires</string>
+			<string>ATMOSPHERE</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Paressées</string>
+			<string>ATMOSPHERE</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Hors Service</string>
+			<string>ATMOSPHERE</string>
+			<string>HS</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string></string>
+			<string>ATMOSPHERE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Difficile à trouver</string>
+			<string>ATMOSPHERE</string>
+			<string>RARE</string>
+		</array>
+		<array>
+			<string>Ambiance</string>
+			<string>Existes</string>
+			<string>ATMOSPHERE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Inégalités du relief</string>
+			<string>CANCERS</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Il est solitaire</string>
+			<string>CANCERS</string>
+			<string>TAENIA</string>
+		</array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Manganèse</string>
+			<string>CANCERS</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Oui dans le sud de la France</string>
+			<string>CANCERS</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Parlementaires</string>
+			<string>CANCERS</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Paressées</string>
+			<string>CANCERS</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Ils sont la cause de beaucoup de morts</string>
+			<string>Hors Service</string>
+			<string>CANCERS</string>
+			<string>HS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Unité monétaire romaine</string>
+			<string>Difficile à trouver</string>
+			<string>AS</string>
+			<string>RARE</string>
+		</array>
+		<array>
+			<string>Unité monétaire romaine</string>
+			<string>Existes</string>
+			<string>AS</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cérium</string>
+			<string>Inégalités du relief</string>
+			<string>CE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Cérium</string>
+			<string>Il est solitaire</string>
+			<string>CE</string>
+			<string>TAENIA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Négation</string>
+			<string>Parlementaires</string>
+			<string>NE</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Négation</string>
+			<string>Paressées</string>
+			<string>NE</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ancienne cité de Mésopotamie</string>
+			<string>Amérindiens de l'Utah</string>
+			<string>UR</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Ancienne cité de Mésopotamie</string>
+			<string>Difficile à trouver</string>
+			<string>UR</string>
+			<string>RARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Différences</string>
+			<string>Inégalités du relief</string>
+			<string>INEGALITES</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Il est solitaire</string>
+			<string>INEGALITES</string>
+			<string>TAENIA</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Ouvert de façon forcée</string>
+			<string>INEGALITES</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Il est armé</string>
+			<string>INEGALITES</string>
+			<string>GI</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Parlementaires</string>
+			<string>INEGALITES</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Paressées</string>
+			<string>INEGALITES</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Toujours masculin</string>
+			<string>INEGALITES</string>
+			<string>IL</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Amérindiens de l'Utah</string>
+			<string>INEGALITES</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Difficile à trouver</string>
+			<string>INEGALITES</string>
+			<string>RARE</string>
+		</array>
+		<array>
+			<string>Différences</string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>INEGALITES</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Inégalités du relief</string>
+			<string>DIGITALE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Il est solitaire</string>
+			<string>DIGITALE</string>
+			<string>TAENIA</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Ouvert de façon forcée</string>
+			<string>DIGITALE</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Il est armé</string>
+			<string>DIGITALE</string>
+			<string>GI</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Parlementaires</string>
+			<string>DIGITALE</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Paressées</string>
+			<string>DIGITALE</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Toujours masculin</string>
+			<string>DIGITALE</string>
+			<string>IL</string>
+		</array>
+		<array>
+			<string>Son empreinte nous identifie</string>
+			<string>Amérindiens de l'Utah</string>
+			<string>DIGITALE</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>A</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Recouvre 72% de la terre</string>
+			<string>Inégalités du relief</string>
+			<string>EAU</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Recouvre 72% de la terre</string>
+			<string>Il est solitaire</string>
+			<string>EAU</string>
+			<string>TAENIA</string>
+		</array>
+		<array>
+			<string>Recouvre 72% de la terre</string>
+			<string>Ouvert de façon forcée</string>
+			<string>EAU</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>existes</string>
+			<string>Parlementaires</string>
+			<string>ES</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>existes</string>
+			<string>Paressées</string>
+			<string>ES</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un contenant</string>
+			<string>Amérindiens de l'Utah</string>
+			<string>SAC</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Un contenant</string>
+			<string>Fleuve du nord de la France</string>
+			<string>SAC</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string>Un contenant</string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>SAC</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Inégalités du relief</string>
+			<string>N</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ouvert de façon forcée</string>
+			<string>E</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sam est son oncle</string>
+			<string>Parlementaires</string>
+			<string>USA</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Sam est son oncle</string>
+			<string>Paressées</string>
+			<string>USA</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Sam est son oncle</string>
+			<string>Argent</string>
+			<string>USA</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Actium</string>
+			<string>Fleuve du nord de la France</string>
+			<string>AC</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string>Actium</string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>AC</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Inégalités du relief</string>
+			<string>TOUAREGS</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Siège à New York</string>
+			<string>TOUAREGS</string>
+			<string>ONU</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Ouvert de façon forcée</string>
+			<string>TOUAREGS</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Exprime la douleur</string>
+			<string>TOUAREGS</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Parlementaires</string>
+			<string>TOUAREGS</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Paressées</string>
+			<string>TOUAREGS</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Argent</string>
+			<string>TOUAREGS</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string>Nomades du Sahara</string>
+			<string>Singe</string>
+			<string>TOUAREGS</string>
+			<string>SAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>A</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>S'enfonce dans le sable</string>
+			<string>Inégalités du relief</string>
+			<string>ENLISE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>S'enfonce dans le sable</string>
+			<string>Siège à New York</string>
+			<string>ENLISE</string>
+			<string>ONU</string>
+		</array>
+		<array>
+			<string>S'enfonce dans le sable</string>
+			<string>Ouvert de façon forcée</string>
+			<string>ENLISE</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string>S'enfonce dans le sable</string>
+			<string>Exprime la douleur</string>
+			<string>ENLISE</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>S'enfonce dans le sable</string>
+			<string>Parlementaires</string>
+			<string>ENLISE</string>
+			<string>SENATEURS</string>
+		</array>
+		<array>
+			<string>S'enfonce dans le sable</string>
+			<string>Paressées</string>
+			<string>ENLISE</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Toute fête religieuse musulmane</string>
+			<string>Singe</string>
+			<string>AID</string>
+			<string>SAI</string>
+		</array>
+		<array>
+			<string>Toute fête religieuse musulmane</string>
+			<string>À la mode</string>
+			<string>AID</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Toute fête religieuse musulmane</string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>AID</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Transpiration abondante</string>
+			<string>Inégalités du relief</string>
+			<string>SUEE</string>
+			<string>ACCIDENTES</string>
+		</array>
+		<array>
+			<string>Transpiration abondante</string>
+			<string>Siège à New York</string>
+			<string>SUEE</string>
+			<string>ONU</string>
+		</array>
+		<array>
+			<string>Transpiration abondante</string>
+			<string>Ouvert de façon forcée</string>
+			<string>SUEE</string>
+			<string>EGUEULE</string>
+		</array>
+		<array>
+			<string>Transpiration abondante</string>
+			<string>Exprime la douleur</string>
+			<string>SUEE</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bien portante</string>
+			<string>Paressées</string>
+			<string>SAINE</string>
+			<string>PRELASSEES</string>
+		</array>
+		<array>
+			<string>Bien portante</string>
+			<string></string>
+			<string>SAINE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Bien portante</string>
+			<string>Singe</string>
+			<string>SAINE</string>
+			<string>SAI</string>
+		</array>
+		<array>
+			<string>Bien portante</string>
+			<string>À la mode</string>
+			<string>SAINE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Bien portante</string>
+			<string>Mouvement brusque et irrégulier</string>
+			<string>SAINE</string>
+			<string>SACCADE</string>
+		</array>
+	</array>
+</array>
+</plist>

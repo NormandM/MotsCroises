@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Concepts</string>
+			<string> Champignon</string>
+			<string>ABSTRACTIONS</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Les ouvrir c&apos;est aider</string>
+			<string>ABSTRACTIONS</string>
+			<string>BRAS</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Fils de Noé</string>
+			<string>ABSTRACTIONS</string>
+			<string>SEM</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> On y met une balle</string>
+			<string>ABSTRACTIONS</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Recopie</string>
+			<string>ABSTRACTIONS</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Circulait à Rome</string>
+			<string>ABSTRACTIONS</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string></string>
+			<string>ABSTRACTIONS</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Explorées</string>
+			<string>ABSTRACTIONS</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Fait partie de la finale</string>
+			<string>ABSTRACTIONS</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Armées du Moyen Âge</string>
+			<string>ABSTRACTIONS</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Négation</string>
+			<string>ABSTRACTIONS</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Concepts</string>
+			<string> Plus au sud qu&apos;à l&apos;ouest</string>
+			<string>ABSTRACTIONS</string>
+			<string>SSO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tirées du néant</string>
+			<string> Champignon</string>
+			<string>CREEES</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Tirées du néant</string>
+			<string> Les ouvrir c&apos;est aider</string>
+			<string>CREEES</string>
+			<string>BRAS</string>
+		</array>
+		<array>
+			<string> Tirées du néant</string>
+			<string> Fils de Noé</string>
+			<string>CREEES</string>
+			<string>SEM</string>
+		</array>
+		<array>
+			<string> Tirées du néant</string>
+			<string> On y met une balle</string>
+			<string>CREEES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Tirées du néant</string>
+			<string> Recopie</string>
+			<string>CREEES</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string> Tirées du néant</string>
+			<string> Circulait à Rome</string>
+			<string>CREEES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Explorées</string>
+			<string>ANSES</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Fait partie de la finale</string>
+			<string>ANSES</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Armées du Moyen Âge</string>
+			<string>ANSES</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Négation</string>
+			<string>ANSES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Plus au sud qu&apos;à l&apos;ouest</string>
+			<string>ANSES</string>
+			<string>SSO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pierre fine</string>
+			<string> Champignon</string>
+			<string>CAMEE</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Pierre fine</string>
+			<string> Les ouvrir c&apos;est aider</string>
+			<string>CAMEE</string>
+			<string>BRAS</string>
+		</array>
+		<array>
+			<string> Pierre fine</string>
+			<string> Fils de Noé</string>
+			<string>CAMEE</string>
+			<string>SEM</string>
+		</array>
+		<array>
+			<string> Pierre fine</string>
+			<string> On y met une balle</string>
+			<string>CAMEE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Pierre fine</string>
+			<string> Recopie</string>
+			<string>CAMEE</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Condition</string>
+			<string> Au centre de la pensée</string>
+			<string>ETAT</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Condition</string>
+			<string> Explorées</string>
+			<string>ETAT</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Condition</string>
+			<string> Fait partie de la finale</string>
+			<string>ETAT</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Condition</string>
+			<string> Armées du Moyen Âge</string>
+			<string>ETAT</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plus au sud qu&apos;à l&apos;ouest</string>
+			<string>O</string>
+			<string>SSO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Champignon</string>
+			<string>ES</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Les ouvrir c&apos;est aider</string>
+			<string>ES</string>
+			<string>BRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> On y met une balle</string>
+			<string>SCENE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Recopie</string>
+			<string>SCENE</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Posséda</string>
+			<string>SCENE</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Au centre de la pensée</string>
+			<string>SCENE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Explorées</string>
+			<string>SCENE</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un type de littérature</string>
+			<string> Armées du Moyen Âge</string>
+			<string>SF</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string> Un type de littérature</string>
+			<string> Creusent</string>
+			<string>SF</string>
+			<string>FORENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Champignon</string>
+			<string>L</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Entrebâiller</string>
+			<string>O</string>
+			<string>OUVRIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Futée</string>
+			<string> Recopie</string>
+			<string>RUSEE</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string> Futée</string>
+			<string> Posséda</string>
+			<string>RUSEE</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string> Futée</string>
+			<string> Au centre de la pensée</string>
+			<string>RUSEE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Futée</string>
+			<string> Explorées</string>
+			<string>RUSEE</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Futée</string>
+			<string> Tartiner</string>
+			<string>RUSEE</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Couac</string>
+			<string> Creusent</string>
+			<string>OS</string>
+			<string>FORENT</string>
+		</array>
+		<array>
+			<string> Couac</string>
+			<string> Monnaie romaine</string>
+			<string>OS</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lettré</string>
+			<string> Champignon</string>
+			<string>ERUDIT</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Lettré</string>
+			<string> Laboure une quatrième fois</string>
+			<string>ERUDIT</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Lettré</string>
+			<string> Entrebâiller</string>
+			<string>ERUDIT</string>
+			<string>OUVRIR</string>
+		</array>
+		<array>
+			<string> Lettré</string>
+			<string> Hydrocarbures</string>
+			<string>ERUDIT</string>
+			<string>DIENES</string>
+		</array>
+		<array>
+			<string> Lettré</string>
+			<string> Recopie</string>
+			<string>ERUDIT</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string> Lettré</string>
+			<string> Posséda</string>
+			<string>ERUDIT</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Explorées</string>
+			<string>STERE</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Tartiner</string>
+			<string>STERE</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Direction</string>
+			<string>STERE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Creusent</string>
+			<string>STERE</string>
+			<string>FORENT</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Monnaie romaine</string>
+			<string>STERE</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ressentit</string>
+			<string> Champignon</string>
+			<string>REVIT</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Ressentit</string>
+			<string> Laboure une quatrième fois</string>
+			<string>REVIT</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Ressentit</string>
+			<string> Entrebâiller</string>
+			<string>REVIT</string>
+			<string>OUVRIR</string>
+		</array>
+		<array>
+			<string> Ressentit</string>
+			<string> Hydrocarbures</string>
+			<string>REVIT</string>
+			<string>DIENES</string>
+		</array>
+		<array>
+			<string> Ressentit</string>
+			<string> Recopie</string>
+			<string>REVIT</string>
+			<string>REECRIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Son âge est ingrat</string>
+			<string>A</string>
+			<string>ADO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Tartiner</string>
+			<string>ANES</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Direction</string>
+			<string>ANES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Creusent</string>
+			<string>ANES</string>
+			<string>FORENT</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Monnaie romaine</string>
+			<string>ANES</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Champignon</string>
+			<string>ATRE</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Laboure une quatrième fois</string>
+			<string>ATRE</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Entrebâiller</string>
+			<string>ATRE</string>
+			<string>OUVRIR</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Hydrocarbures</string>
+			<string>ATRE</string>
+			<string>DIENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string></string>
+			<string>ADULENT</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string> Son âge est ingrat</string>
+			<string>ADULENT</string>
+			<string>ADO</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string> Engrais</string>
+			<string>ADULENT</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string> Tartiner</string>
+			<string>ADULENT</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string> Direction</string>
+			<string>ADULENT</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string> Creusent</string>
+			<string>ADULENT</string>
+			<string>FORENT</string>
+		</array>
+		<array>
+			<string> Flattent</string>
+			<string> Monnaie romaine</string>
+			<string>ADULENT</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Couleur du visage</string>
+			<string> Champignon</string>
+			<string>TEINT</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Couleur du visage</string>
+			<string> Laboure une quatrième fois</string>
+			<string>TEINT</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Couleur du visage</string>
+			<string> Entrebâiller</string>
+			<string>TEINT</string>
+			<string>OUVRIR</string>
+		</array>
+		<array>
+			<string> Couleur du visage</string>
+			<string> Hydrocarbures</string>
+			<string>TEINT</string>
+			<string>DIENES</string>
+		</array>
+		<array>
+			<string> Couleur du visage</string>
+			<string> Éliminas</string>
+			<string>TEINT</string>
+			<string>TUAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie scandinave</string>
+			<string> Son âge est ingrat</string>
+			<string>ORE</string>
+			<string>ADO</string>
+		</array>
+		<array>
+			<string> Monnaie scandinave</string>
+			<string> Engrais</string>
+			<string>ORE</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Monnaie scandinave</string>
+			<string> Tartiner</string>
+			<string>ORE</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Creusent</string>
+			<string>TE</string>
+			<string>FORENT</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Monnaie romaine</string>
+			<string>TE</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Quiproquo</string>
+			<string> Champignon</string>
+			<string>ERREUR</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Quiproquo</string>
+			<string> Laboure une quatrième fois</string>
+			<string>ERREUR</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Quiproquo</string>
+			<string> Entrebâiller</string>
+			<string>ERREUR</string>
+			<string>OUVRIR</string>
+		</array>
+		<array>
+			<string> Quiproquo</string>
+			<string> Hydrocarbures</string>
+			<string>ERREUR</string>
+			<string>DIENES</string>
+		</array>
+		<array>
+			<string> Quiproquo</string>
+			<string> Éliminas</string>
+			<string>ERREUR</string>
+			<string>TUAS</string>
+		</array>
+		<array>
+			<string> Quiproquo</string>
+			<string> Symbole chimique</string>
+			<string>ERREUR</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Engrais</string>
+			<string>ERE</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Tartiner</string>
+			<string>ERE</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Orient</string>
+			<string>ERE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaie romaine</string>
+			<string>R</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coutumes</string>
+			<string> Champignon</string>
+			<string>US</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Laboure une quatrième fois</string>
+			<string>US</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> La chose la plus importante à posséder</string>
+			<string> Hydrocarbures</string>
+			<string>SANTE</string>
+			<string>DIENES</string>
+		</array>
+		<array>
+			<string> La chose la plus importante à posséder</string>
+			<string> Éliminas</string>
+			<string>SANTE</string>
+			<string>TUAS</string>
+		</array>
+		<array>
+			<string> La chose la plus importante à posséder</string>
+			<string> Symbole chimique</string>
+			<string>SANTE</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> La chose la plus importante à posséder</string>
+			<string> Pronom personnel</string>
+			<string>SANTE</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string> La chose la plus importante à posséder</string>
+			<string> Engrais</string>
+			<string>SANTE</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Que l&apos;on cite</string>
+			<string> Orient</string>
+			<string>SIC</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Que l&apos;on cite</string>
+			<string> C&apos;est-à-dire</string>
+			<string>SIC</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string> Que l&apos;on cite</string>
+			<string> Monnaie romaine</string>
+			<string>SIC</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Roue</string>
+			<string> Champignon</string>
+			<string>REA</string>
+			<string>ACCELERATEUR</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string> Laboure une quatrième fois</string>
+			<string>REA</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string></string>
+			<string>REA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Éliminas</string>
+			<string>S</string>
+			<string>TUAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Courante</string>
+			<string> Pronom personnel</string>
+			<string>USITEE</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string> Courante</string>
+			<string> Engrais</string>
+			<string>USITEE</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Courante</string>
+			<string></string>
+			<string>USITEE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Courante</string>
+			<string> Orient</string>
+			<string>USITEE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Courante</string>
+			<string> C&apos;est-à-dire</string>
+			<string>USITEE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string> Courante</string>
+			<string> Monnaie romaine</string>
+			<string>USITEE</string>
+			<string>SESTERCE</string>
+		</array>
+	</array>
+</array>
+</plist>

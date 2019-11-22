@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Suites</string>
+			<string>STRATIFIES</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Radio</string>
+			<string>STRATIFIES</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Tradition</string>
+			<string>STRATIFIES</string>
+			<string>RITE</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Officiers de la cour du sultan</string>
+			<string>STRATIFIES</string>
+			<string>AGAS</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Le troisième</string>
+			<string>STRATIFIES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string></string>
+			<string>STRATIFIES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Jeu d'habilité</string>
+			<string>STRATIFIES</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Victoire de Napoléon contre les Prussiens</string>
+			<string>STRATIFIES</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string>Agent secret pour Louis XV</string>
+			<string>STRATIFIES</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string>Constitués de couches</string>
+			<string></string>
+			<string>STRATIFIES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Construit</string>
+			<string>Suites</string>
+			<string>ERIGE</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Construit</string>
+			<string>Radio</string>
+			<string>ERIGE</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Construit</string>
+			<string>Tradition</string>
+			<string>ERIGE</string>
+			<string>RITE</string>
+		</array>
+		<array>
+			<string>Construit</string>
+			<string>Officiers de la cour du sultan</string>
+			<string>ERIGE</string>
+			<string>AGAS</string>
+		</array>
+		<array>
+			<string>Construit</string>
+			<string>Le troisième</string>
+			<string>ERIGE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Jeu d'habilité</string>
+			<string>LEO</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Victoire de Napoléon contre les Prussiens</string>
+			<string>LEO</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Agent secret pour Louis XV</string>
+			<string>LEO</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Suites</string>
+			<string>QATARIENNE</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Radio</string>
+			<string>QATARIENNE</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Tradition</string>
+			<string>QATARIENNE</string>
+			<string>RITE</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Officiers de la cour du sultan</string>
+			<string>QATARIENNE</string>
+			<string>AGAS</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Le troisième</string>
+			<string>QATARIENNE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string></string>
+			<string>QATARIENNE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Jeu d'habilité</string>
+			<string>QATARIENNE</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Victoire de Napoléon contre les Prussiens</string>
+			<string>QATARIENNE</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Agent secret pour Louis XV</string>
+			<string>QATARIENNE</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string>Elle habite la péninsule Arabique</string>
+			<string>Dans un titre universitaire</string>
+			<string>QATARIENNE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Suites</string>
+			<string>UNES</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Radio</string>
+			<string>UNES</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Tradition</string>
+			<string>UNES</string>
+			<string>RITE</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Officiers de la cour du sultan</string>
+			<string>UNES</string>
+			<string>AGAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cela</string>
+			<string>Jeu d'habilité</string>
+			<string>CA</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Cela</string>
+			<string>Victoire de Napoléon contre les Prussiens</string>
+			<string>CA</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Dans un titre universitaire</string>
+			<string>S</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Suites</string>
+			<string>ES</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Radio</string>
+			<string>ES</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Marque le doute</string>
+			<string>Obtenues</string>
+			<string>EUH</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Marque le doute</string>
+			<string>Université de Sherbrooke</string>
+			<string>EUH</string>
+			<string>UDS</string>
+		</array>
+		<array>
+			<string>Marque le doute</string>
+			<string>Jeu d'habilité</string>
+			<string>EUH</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Langue indo-européenne dérivée du sanskrit</string>
+			<string>H</string>
+			<string>HINDI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Suites</string>
+			<string>NIGAUDERIE</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Radio</string>
+			<string>NIGAUDERIE</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string></string>
+			<string>NIGAUDERIE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Le kir, par exemple</string>
+			<string>NIGAUDERIE</string>
+			<string>APERO</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Obtenues</string>
+			<string>NIGAUDERIE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Université de Sherbrooke</string>
+			<string>NIGAUDERIE</string>
+			<string>UDS</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Jeu d'habilité</string>
+			<string>NIGAUDERIE</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Bramer</string>
+			<string>NIGAUDERIE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Langue indo-européenne dérivée du sanskrit</string>
+			<string>NIGAUDERIE</string>
+			<string>HINDI</string>
+		</array>
+		<array>
+			<string>Niaiserie</string>
+			<string>Jamais le dernier le mot</string>
+			<string>NIGAUDERIE</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Césium</string>
+			<string>Suites</string>
+			<string>CS</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Césium</string>
+			<string>Radio</string>
+			<string>CS</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Le kir, par exemple</string>
+			<string>PESTENT</string>
+			<string>APERO</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Obtenues</string>
+			<string>PESTENT</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Université de Sherbrooke</string>
+			<string>PESTENT</string>
+			<string>UDS</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Jeu d'habilité</string>
+			<string>PESTENT</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Bramer</string>
+			<string>PESTENT</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Langue indo-européenne dérivée du sanskrit</string>
+			<string>PESTENT</string>
+			<string>HINDI</string>
+		</array>
+		<array>
+			<string>Maugréent</string>
+			<string>Jamais le dernier le mot</string>
+			<string>PESTENT</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Individus</string>
+			<string>Suites</string>
+			<string>ETRES</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Radio</string>
+			<string>ETRES</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Vallée envahie par la mer</string>
+			<string>ETRES</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Le kir, par exemple</string>
+			<string>ETRES</string>
+			<string>APERO</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Obtenues</string>
+			<string>ETRES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prénom anglais</string>
+			<string>Jeu d'habilité</string>
+			<string>TED</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Prénom anglais</string>
+			<string>Bramer</string>
+			<string>TED</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Prénom anglais</string>
+			<string>Langue indo-européenne dérivée du sanskrit</string>
+			<string>TED</string>
+			<string>HINDI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le moment où la famille se retrouve</string>
+			<string>Suites</string>
+			<string>SOIR</string>
+			<string>SEQUENCES</string>
+		</array>
+		<array>
+			<string>Le moment où la famille se retrouve</string>
+			<string>Radio</string>
+			<string>SOIR</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Le moment où la famille se retrouve</string>
+			<string>Vallée envahie par la mer</string>
+			<string>SOIR</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string>Le moment où la famille se retrouve</string>
+			<string>Le kir, par exemple</string>
+			<string>SOIR</string>
+			<string>APERO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Danger</string>
+			<string>Platine</string>
+			<string>PERIL</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Danger</string>
+			<string>Jeu d'habilité</string>
+			<string>PERIL</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string>Danger</string>
+			<string>Bramer</string>
+			<string>PERIL</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Danger</string>
+			<string>Langue indo-européenne dérivée du sanskrit</string>
+			<string>PERIL</string>
+			<string>HINDI</string>
+		</array>
+		<array>
+			<string>Danger</string>
+			<string>Largeur d'une étoffe</string>
+			<string>PERIL</string>
+			<string>LE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fêtes mondaines</string>
+			<string>Radio</string>
+			<string>RAOUTS</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Fêtes mondaines</string>
+			<string>Vallée envahie par la mer</string>
+			<string>RAOUTS</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string>Fêtes mondaines</string>
+			<string>Le kir, par exemple</string>
+			<string>RAOUTS</string>
+			<string>APERO</string>
+		</array>
+		<array>
+			<string>Fêtes mondaines</string>
+			<string></string>
+			<string>RAOUTS</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Fêtes mondaines</string>
+			<string>Platine</string>
+			<string>RAOUTS</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Fêtes mondaines</string>
+			<string>Jeu d'habilité</string>
+			<string>RAOUTS</string>
+			<string>FLECHETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Largeur d'une étoffe</string>
+			<string>E</string>
+			<string>LE</string>
+		</array>
+	</array>
+</array>
+</plist>

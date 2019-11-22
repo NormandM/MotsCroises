@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Retentissant</string>
+			<string>FRATERNITE</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Aménagée à nouveau</string>
+			<string>FRATERNITE</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Actium</string>
+			<string>FRATERNITE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Camelotes</string>
+			<string>FRATERNITE</string>
+			<string>TOCS</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Écrit</string>
+			<string>FRATERNITE</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Renseignements généraux</string>
+			<string>FRATERNITE</string>
+			<string>RG</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Pâté impérial</string>
+			<string>FRATERNITE</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Groupe de maisons des Antilles</string>
+			<string>FRATERNITE</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Spécialiste</string>
+			<string>FRATERNITE</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Camaraderie</string>
+			<string>Langue celtique</string>
+			<string>FRATERNITE</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Retentissant</string>
+			<string>RECONGELER</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Aménagée à nouveau</string>
+			<string>RECONGELER</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Actium</string>
+			<string>RECONGELER</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Camelotes</string>
+			<string>RECONGELER</string>
+			<string>TOCS</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Écrit</string>
+			<string>RECONGELER</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Renseignements généraux</string>
+			<string>RECONGELER</string>
+			<string>RG</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Pâté impérial</string>
+			<string>RECONGELER</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Groupe de maisons des Antilles</string>
+			<string>RECONGELER</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Spécialiste</string>
+			<string>RECONGELER</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Visiter à nouveau le congélateur</string>
+			<string>Langue celtique</string>
+			<string>RECONGELER</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Retentissant</string>
+			<string>AA</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Aménagée à nouveau</string>
+			<string>AA</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chrome</string>
+			<string>Camelotes</string>
+			<string>CR</string>
+			<string>TOCS</string>
+		</array>
+		<array>
+			<string>Chrome</string>
+			<string>Écrit</string>
+			<string>CR</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gars</string>
+			<string>Pâté impérial</string>
+			<string>MECS</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string>Gars</string>
+			<string>Groupe de maisons des Antilles</string>
+			<string>MECS</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Gars</string>
+			<string>Spécialiste</string>
+			<string>MECS</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Gars</string>
+			<string>Langue celtique</string>
+			<string>MECS</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conflits</string>
+			<string>Retentissant</string>
+			<string>CRISES</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Conflits</string>
+			<string>Aménagée à nouveau</string>
+			<string>CRISES</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Conflits</string>
+			<string>C&apos;est-à-dire</string>
+			<string>CRISES</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Conflits</string>
+			<string>Camelotes</string>
+			<string>CRISES</string>
+			<string>TOCS</string>
+		</array>
+		<array>
+			<string>Conflits</string>
+			<string>Écrit</string>
+			<string>CRISES</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Conflits</string>
+			<string>Strontium</string>
+			<string>CRISES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Infusion</string>
+			<string>Groupe de maisons des Antilles</string>
+			<string>THE</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string>Infusion</string>
+			<string>Spécialiste</string>
+			<string>THE</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Infusion</string>
+			<string>Langue celtique</string>
+			<string>THE</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Retentissant</string>
+			<string>ARE</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Aménagée à nouveau</string>
+			<string>ARE</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>C&apos;est-à-dire</string>
+			<string>ARE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Convenance</string>
+			<string>Écrit</string>
+			<string>GRE</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Convenance</string>
+			<string>Strontium</string>
+			<string>GRE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Convenance</string>
+			<string>Vit</string>
+			<string>GRE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Spécialiste</string>
+			<string>N</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lui appartient</string>
+			<string>Retentissant</string>
+			<string>SA</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Lui appartient</string>
+			<string>Aménagée à nouveau</string>
+			<string>SA</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gloussé</string>
+			<string>Rubidium</string>
+			<string>RI</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Gloussé</string>
+			<string>Écrit</string>
+			<string>RI</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vipère</string>
+			<string>Vit</string>
+			<string>SPIC</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Vipère</string>
+			<string>Plus de trois moins de quatre</string>
+			<string>SPIC</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Vipère</string>
+			<string>Spécialiste</string>
+			<string>SPIC</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Vipère</string>
+			<string>Caesium</string>
+			<string>SPIC</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mondains</string>
+			<string>Retentissant</string>
+			<string>SNOBS</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Mondains</string>
+			<string>Aménagée à nouveau</string>
+			<string>SNOBS</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Mondains</string>
+			<string>Niaises</string>
+			<string>SNOBS</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string>Mondains</string>
+			<string>Rubidium</string>
+			<string>SNOBS</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Mondains</string>
+			<string>Écrit</string>
+			<string>SNOBS</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Manies</string>
+			<string>Vit</string>
+			<string>TICS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Manies</string>
+			<string>Plus de trois moins de quatre</string>
+			<string>TICS</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Manies</string>
+			<string>Spécialiste</string>
+			<string>TICS</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Manies</string>
+			<string>Caesium</string>
+			<string>TICS</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Produit un effet</string>
+			<string>Retentissant</string>
+			<string>AGI</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Produit un effet</string>
+			<string>Aménagée à nouveau</string>
+			<string>AGI</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Produit un effet</string>
+			<string>Niaises</string>
+			<string>AGI</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Technétium</string>
+			<string>Écrit</string>
+			<string>TC</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Technétium</string>
+			<string>Tombé</string>
+			<string>TC</string>
+			<string>CHU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Spécialiste</string>
+			<string>I</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Apparue</string>
+			<string>Retentissant</string>
+			<string>NEE</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Apparue</string>
+			<string>Aménagée à nouveau</string>
+			<string>NEE</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Apparue</string>
+			<string>Niaises</string>
+			<string>NEE</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se propagent l&apos;hiver</string>
+			<string>Écrit</string>
+			<string>RHUMES</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Se propagent l&apos;hiver</string>
+			<string>Tombé</string>
+			<string>RHUMES</string>
+			<string>CHU</string>
+		</array>
+		<array>
+			<string>Se propagent l&apos;hiver</string>
+			<string>Ancienne cité</string>
+			<string>RHUMES</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string>Se propagent l&apos;hiver</string>
+			<string></string>
+			<string>RHUMES</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Se propagent l&apos;hiver</string>
+			<string>Spécialiste</string>
+			<string>RHUMES</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Se propagent l&apos;hiver</string>
+			<string>Antimoine</string>
+			<string>RHUMES</string>
+			<string>SB</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string>Retentissant</string>
+			<string>TESTEUR</string>
+			<string>FRACASSANT</string>
+		</array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string>Aménagée à nouveau</string>
+			<string>TESTEUR</string>
+			<string>REARRANGEE</string>
+		</array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string>Niaises</string>
+			<string>TESTEUR</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string></string>
+			<string>TESTEUR</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string>Écrit</string>
+			<string>TESTEUR</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string>Tombé</string>
+			<string>TESTEUR</string>
+			<string>CHU</string>
+		</array>
+		<array>
+			<string>Appareil de contrôle</string>
+			<string>Ancienne cité</string>
+			<string>TESTEUR</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Spécialiste</string>
+			<string>NB</string>
+			<string>TECHNICIEN</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Antimoine</string>
+			<string>NB</string>
+			<string>SB</string>
+		</array>
+	</array>
+</array>
+</plist>

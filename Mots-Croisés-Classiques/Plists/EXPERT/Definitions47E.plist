@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Bonification</string>
+			<string> Atomiseur</string>
+			<string>VALORISATION</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Mis à niveau</string>
+			<string>VALORISATION</string>
+			<string>ARASE</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Blessées</string>
+			<string>VALORISATION</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Petites quantités</string>
+			<string>VALORISATION</string>
+			<string>ONCES</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Poulies</string>
+			<string>VALORISATION</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string></string>
+			<string>VALORISATION</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Tamises</string>
+			<string>VALORISATION</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Air Canada</string>
+			<string>VALORISATION</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Jetons</string>
+			<string>VALORISATION</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Fait partie de la finale</string>
+			<string>VALORISATION</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Hôpitaux</string>
+			<string>VALORISATION</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Bonification</string>
+			<string> Arrivées</string>
+			<string>VALORISATION</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lieu de combat</string>
+			<string> Atomiseur</string>
+			<string>ARENE</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Lieu de combat</string>
+			<string> Mis à niveau</string>
+			<string>ARENE</string>
+			<string>ARASE</string>
+		</array>
+		<array>
+			<string> Lieu de combat</string>
+			<string> Blessées</string>
+			<string>ARENE</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Lieu de combat</string>
+			<string> Petites quantités</string>
+			<string>ARENE</string>
+			<string>ONCES</string>
+		</array>
+		<array>
+			<string> Lieu de combat</string>
+			<string> Poulies</string>
+			<string>ARENE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Donne la propriété utile d&apos;une terre</string>
+			<string> Tamises</string>
+			<string>ACENSE</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string> Donne la propriété utile d&apos;une terre</string>
+			<string> Air Canada</string>
+			<string>ACENSE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Donne la propriété utile d&apos;une terre</string>
+			<string> Jetons</string>
+			<string>ACENSE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Donne la propriété utile d&apos;une terre</string>
+			<string> Fait partie de la finale</string>
+			<string>ACENSE</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Donne la propriété utile d&apos;une terre</string>
+			<string> Hôpitaux</string>
+			<string>ACENSE</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Donne la propriété utile d&apos;une terre</string>
+			<string> Arrivées</string>
+			<string>ACENSE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string> Atomiseur</string>
+			<string>PASCALS</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string> Mis à niveau</string>
+			<string>PASCALS</string>
+			<string>ARASE</string>
+		</array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string> Blessées</string>
+			<string>PASCALS</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string> Petites quantités</string>
+			<string>PASCALS</string>
+			<string>ONCES</string>
+		</array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string> Poulies</string>
+			<string>PASCALS</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string></string>
+			<string>PASCALS</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Unités de mesure de pression</string>
+			<string> Tamises</string>
+			<string>PASCALS</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plat asiatique</string>
+			<string> Jetons</string>
+			<string>SATE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Plat asiatique</string>
+			<string> Fait partie de la finale</string>
+			<string>SATE</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Plat asiatique</string>
+			<string> Hôpitaux</string>
+			<string>SATE</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Plat asiatique</string>
+			<string> Arrivées</string>
+			<string>SATE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lestes</string>
+			<string> Atomiseur</string>
+			<string>OSEES</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Mis à niveau</string>
+			<string>OSEES</string>
+			<string>ARASE</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Blessées</string>
+			<string>OSEES</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Petites quantités</string>
+			<string>OSEES</string>
+			<string>ONCES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Poulies</string>
+			<string>OSEES</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Tamises</string>
+			<string>SES</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Maladie de la peau</string>
+			<string>SES</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Jetons</string>
+			<string>SES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hic</string>
+			<string> Hôpitaux</string>
+			<string>OS</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Hic</string>
+			<string> Arrivées</string>
+			<string>OS</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Cris</string>
+			<string> Atomiseur</string>
+			<string>REES</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Mis à niveau</string>
+			<string>REES</string>
+			<string>ARASE</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Blessées</string>
+			<string>REES</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Petites quantités</string>
+			<string>REES</string>
+			<string>ONCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Plaque</string>
+			<string>AEREES</string>
+			<string>AIS</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Tamises</string>
+			<string>AEREES</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Maladie de la peau</string>
+			<string>AEREES</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Jetons</string>
+			<string>AEREES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Estoniens</string>
+			<string>AEREES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Hôpitaux</string>
+			<string>AEREES</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Atomiseur</string>
+			<string>I</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Blessées</string>
+			<string>S</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conduits</string>
+			<string>Brame</string>
+			<string>RISERS</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Conduits</string>
+			<string> Plaque</string>
+			<string>RISERS</string>
+			<string>AIS</string>
+		</array>
+		<array>
+			<string> Conduits</string>
+			<string> Tamises</string>
+			<string>RISERS</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string> Conduits</string>
+			<string> Maladie de la peau</string>
+			<string>RISERS</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Conduits</string>
+			<string> Jetons</string>
+			<string>RISERS</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Conduits</string>
+			<string> Estoniens</string>
+			<string>RISERS</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Les sauces le sont souvent</string>
+			<string>C</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note</string>
+			<string> Atomiseur</string>
+			<string>SI</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Apathique</string>
+			<string>SI</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Désolé</string>
+			<string>DES</string>
+			<string>DESERT</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string>Brame</string>
+			<string>DES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Plaque</string>
+			<string>DES</string>
+			<string>AIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Instrument de musique iranien</string>
+			<string> Maladie de la peau</string>
+			<string>SETAR</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Instrument de musique iranien</string>
+			<string> Jetons</string>
+			<string>SETAR</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Instrument de musique iranien</string>
+			<string> Estoniens</string>
+			<string>SETAR</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Instrument de musique iranien</string>
+			<string> Dieu de la guerre</string>
+			<string>SETAR</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Instrument de musique iranien</string>
+			<string> Les sauces le sont souvent</string>
+			<string>SETAR</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plus facile à saisir</string>
+			<string> Atomiseur</string>
+			<string>ANSEE</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Plus facile à saisir</string>
+			<string> Apathique</string>
+			<string>ANSEE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Plus facile à saisir</string>
+			<string> Se font avec du lait caillé</string>
+			<string>ANSEE</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Plus facile à saisir</string>
+			<string> Désolé</string>
+			<string>ANSEE</string>
+			<string>DESERT</string>
+		</array>
+		<array>
+			<string> Plus facile à saisir</string>
+			<string>Brame</string>
+			<string>ANSEE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ruban étroit</string>
+			<string> Crevé</string>
+			<string>LISERE</string>
+			<string>LAS</string>
+		</array>
+		<array>
+			<string> Ruban étroit</string>
+			<string> Maladie de la peau</string>
+			<string>LISERE</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Ruban étroit</string>
+			<string> Jetons</string>
+			<string>LISERE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Ruban étroit</string>
+			<string> Estoniens</string>
+			<string>LISERE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Ruban étroit</string>
+			<string> Dieu de la guerre</string>
+			<string>LISERE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Ruban étroit</string>
+			<string> Les sauces le sont souvent</string>
+			<string>LISERE</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Se plantent dans la terre</string>
+			<string> Atomiseur</string>
+			<string>TEES</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Se plantent dans la terre</string>
+			<string> Apathique</string>
+			<string>TEES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Se plantent dans la terre</string>
+			<string> Se font avec du lait caillé</string>
+			<string>TEES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Se plantent dans la terre</string>
+			<string> Désolé</string>
+			<string>TEES</string>
+			<string>DESERT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écart</string>
+			<string></string>
+			<string>GAP</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Écart</string>
+			<string> Crevé</string>
+			<string>GAP</string>
+			<string>LAS</string>
+		</array>
+		<array>
+			<string> Écart</string>
+			<string> Maladie de la peau</string>
+			<string>GAP</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fils de Noé</string>
+			<string> Estoniens</string>
+			<string>SEM</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Fils de Noé</string>
+			<string> Dieu de la guerre</string>
+			<string>SEM</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Fils de Noé</string>
+			<string> Les sauces le sont souvent</string>
+			<string>SEM</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Atomiseur</string>
+			<string>ERRES</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Apathique</string>
+			<string>ERRES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Se font avec du lait caillé</string>
+			<string>ERRES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Désolé</string>
+			<string>ERRES</string>
+			<string>DESERT</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Trime dur</string>
+			<string>ERRES</string>
+			<string>SUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Crevé</string>
+			<string>SEN</string>
+			<string>LAS</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Maladie de la peau</string>
+			<string>SEN</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string>  Sortis</string>
+			<string>SEN</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Dieu de la guerre</string>
+			<string>SE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Les sauces le sont souvent</string>
+			<string>SE</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nous y avons tous séjourné</string>
+			<string> Atomiseur</string>
+			<string>UTERUS</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Nous y avons tous séjourné</string>
+			<string> Apathique</string>
+			<string>UTERUS</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Nous y avons tous séjourné</string>
+			<string> Se font avec du lait caillé</string>
+			<string>UTERUS</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Nous y avons tous séjourné</string>
+			<string> Désolé</string>
+			<string>UTERUS</string>
+			<string>DESERT</string>
+		</array>
+		<array>
+			<string> Nous y avons tous séjourné</string>
+			<string> Trime dur</string>
+			<string>UTERUS</string>
+			<string>SUE</string>
+		</array>
+		<array>
+			<string> Nous y avons tous séjourné</string>
+			<string></string>
+			<string>UTERUS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Maladie de la peau</string>
+			<string>LEE</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string>  Sortis</string>
+			<string>LEE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Extra- terrestre</string>
+			<string>LEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Les sauces le sont souvent</string>
+			<string>E</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Demeure</string>
+			<string> Atomiseur</string>
+			<string>RESTE</string>
+			<string>VAPORISATEUR</string>
+		</array>
+		<array>
+			<string> Demeure</string>
+			<string> Apathique</string>
+			<string>RESTE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Demeure</string>
+			<string> Se font avec du lait caillé</string>
+			<string>RESTE</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Demeure</string>
+			<string> Désolé</string>
+			<string>RESTE</string>
+			<string>DESERT</string>
+		</array>
+		<array>
+			<string> Demeure</string>
+			<string> Trime dur</string>
+			<string>RESTE</string>
+			<string>SUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fulmines</string>
+			<string></string>
+			<string>PESTES</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Fulmines</string>
+			<string> Maladie de la peau</string>
+			<string>PESTES</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string> Fulmines</string>
+			<string>  Sortis</string>
+			<string>PESTES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Fulmines</string>
+			<string> Extra- terrestre</string>
+			<string>PESTES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Fulmines</string>
+			<string></string>
+			<string>PESTES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Fulmines</string>
+			<string> Les sauces le sont souvent</string>
+			<string>PESTES</string>
+			<string>CREMEES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>RAPPROCHER</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Immense étendue d'eau</string>
+			<string>RAPPROCHER</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Il est important de faire le premier</string>
+			<string>RAPPROCHER</string>
+			<string>PAS</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Platine</string>
+			<string>RAPPROCHER</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Laver à l'eau</string>
+			<string>RAPPROCHER</string>
+			<string>RINCER</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Lestes</string>
+			<string>RAPPROCHER</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Adjectif démonstratif</string>
+			<string>RAPPROCHER</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Helium</string>
+			<string>RAPPROCHER</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string> Intenter un procès</string>
+			<string>RAPPROCHER</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Mettre plus près</string>
+			<string></string>
+			<string>RAPPROCHER</string>
+			<string>R</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>ETATISEES</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Immense étendue d'eau</string>
+			<string>ETATISEES</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Il est important de faire le premier</string>
+			<string>ETATISEES</string>
+			<string>PAS</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Platine</string>
+			<string>ETATISEES</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Laver à l'eau</string>
+			<string>ETATISEES</string>
+			<string>RINCER</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Lestes</string>
+			<string>ETATISEES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Adjectif démonstratif</string>
+			<string>ETATISEES</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Helium</string>
+			<string>ETATISEES</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Achetées par l'état</string>
+			<string> Intenter un procès</string>
+			<string>ETATISEES</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Des hommes</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>ILS</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Des hommes</string>
+			<string> Immense étendue d'eau</string>
+			<string>ILS</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Des hommes</string>
+			<string> Il est important de faire le premier</string>
+			<string>ILS</string>
+			<string>PAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Laver à l'eau</string>
+			<string>NES</string>
+			<string>RINCER</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Lestes</string>
+			<string>NES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Adjectif démonstratif</string>
+			<string>NES</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Intenter un procès</string>
+			<string>TA</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Enzyme.</string>
+			<string>TA</string>
+			<string>ASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sodium</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>NA</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Sodium</string>
+			<string> Immense étendue d'eau</string>
+			<string>NA</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Annulé</string>
+			<string>ACE</string>
+			<string>ABOLI</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Laver à l'eau</string>
+			<string>ACE</string>
+			<string>RINCER</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Lestes</string>
+			<string>ACE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Cachée</string>
+			<string>SES</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Intenter un procès</string>
+			<string>SES</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Enzyme.</string>
+			<string>SES</string>
+			<string>ASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Traites de haut</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>SNOBES</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Traites de haut</string>
+			<string> Immense étendue d'eau</string>
+			<string>SNOBES</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Traites de haut</string>
+			<string></string>
+			<string>SNOBES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Traites de haut</string>
+			<string> Annulé</string>
+			<string>SNOBES</string>
+			<string>ABOLI</string>
+		</array>
+		<array>
+			<string> Traites de haut</string>
+			<string> Laver à l'eau</string>
+			<string>SNOBES</string>
+			<string>RINCER</string>
+		</array>
+		<array>
+			<string> Traites de haut</string>
+			<string> Lestes</string>
+			<string>SNOBES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Longue période de temps</string>
+			<string> Cachée</string>
+			<string>ERE</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string> Longue période de temps</string>
+			<string> Intenter un procès</string>
+			<string>ERE</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Longue période de temps</string>
+			<string> Enzyme.</string>
+			<string>ERE</string>
+			<string>ASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un mot souvent utilisé par le bavard</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>ET</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Un mot souvent utilisé par le bavard</string>
+			<string> Immense étendue d'eau</string>
+			<string>ET</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Au</string>
+			<string> Annulé</string>
+			<string>OR</string>
+			<string>ABOLI</string>
+		</array>
+		<array>
+			<string> Au</string>
+			<string> Laver à l'eau</string>
+			<string>OR</string>
+			<string>RINCER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Scandium</string>
+			<string> À côté du poivre</string>
+			<string>SC</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string> Scandium</string>
+			<string> Cachée</string>
+			<string>SC</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>RIEL</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Immense étendue d'eau</string>
+			<string>RIEL</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Possédées</string>
+			<string>RIEL</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Annulé</string>
+			<string>RIEL</string>
+			<string>ABOLI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Suite</string>
+			<string> Possessif</string>
+			<string>SERIE</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Suite</string>
+			<string> À côté du poivre</string>
+			<string>SERIE</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string> Suite</string>
+			<string> Cachée</string>
+			<string>SERIE</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string> Suite</string>
+			<string> À la mode</string>
+			<string>SERIE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Suite</string>
+			<string> Six mois après Noël</string>
+			<string>SERIE</string>
+			<string>ETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Semblable</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>EQUIVALENT</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Immense étendue d'eau</string>
+			<string>EQUIVALENT</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Possédées</string>
+			<string>EQUIVALENT</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Annulé</string>
+			<string>EQUIVALENT</string>
+			<string>ABOLI</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Existence</string>
+			<string>EQUIVALENT</string>
+			<string>VIE</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Possessif</string>
+			<string>EQUIVALENT</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> À côté du poivre</string>
+			<string>EQUIVALENT</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Cachée</string>
+			<string>EQUIVALENT</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> À la mode</string>
+			<string>EQUIVALENT</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Six mois après Noël</string>
+			<string>EQUIVALENT</string>
+			<string>ETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trompée</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>EUE</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Immense étendue d'eau</string>
+			<string>EUE</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Possédées</string>
+			<string>EUE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Existence</string>
+			<string>I</string>
+			<string>VIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Cachée</string>
+			<string>T</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Six mois après Noël</string>
+			<string>E</string>
+			<string>ETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string> Réadaptées à la vie sociale</string>
+			<string>SESTERCES</string>
+			<string>REINSEREES</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string> Immense étendue d'eau</string>
+			<string>SESTERCES</string>
+			<string>ATLANTIQUE</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string> Possédées</string>
+			<string>SESTERCES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string> Existence</string>
+			<string>SESTERCES</string>
+			<string>VIE</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string> Cachée</string>
+			<string>SESTERCES</string>
+			<string>SECRETE</string>
+		</array>
+		<array>
+			<string> Monnaies anciennes</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Acteur</string>
+			<string> Chancelants</string>
+			<string>INTERPRETE</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Sodium</string>
+			<string>INTERPRETE</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Sert pour la démolition</string>
+			<string>INTERPRETE</string>
+			<string>TNT</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Exister</string>
+			<string>INTERPRETE</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Vallée envahie par la mer</string>
+			<string>INTERPRETE</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string></string>
+			<string>INTERPRETE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Otent </string>
+			<string>INTERPRETE</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Le gel y est rare</string>
+			<string>INTERPRETE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Abris</string>
+			<string>INTERPRETE</string>
+			<string>TENTES</string>
+		</array>
+		<array>
+			<string> Acteur</string>
+			<string> Estoniens</string>
+			<string>INTERPRETE</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Riche</string>
+			<string> Chancelants</string>
+			<string>NANTI</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Sodium</string>
+			<string>NANTI</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Sert pour la démolition</string>
+			<string>NANTI</string>
+			<string>TNT</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Exister</string>
+			<string>NANTI</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Vallée envahie par la mer</string>
+			<string>NANTI</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Otent </string>
+			<string>ETES</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Le gel y est rare</string>
+			<string>ETES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Abris</string>
+			<string>ETES</string>
+			<string>TENTES</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Estoniens</string>
+			<string>ETES</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Chancelants</string>
+			<string>S</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Sert pour la démolition</string>
+			<string>TRAITENT</string>
+			<string>TNT</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Exister</string>
+			<string>TRAITENT</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Vallée envahie par la mer</string>
+			<string>TRAITENT</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Colères</string>
+			<string>TRAITENT</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Otent </string>
+			<string>TRAITENT</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Le gel y est rare</string>
+			<string>TRAITENT</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Abris</string>
+			<string>TRAITENT</string>
+			<string>TENTES</string>
+		</array>
+		<array>
+			<string> Soignent</string>
+			<string> Estoniens</string>
+			<string>TRAITENT</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Chancelants</string>
+			<string>TU</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Coutumes</string>
+			<string>TU</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Exister</string>
+			<string>E</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Colères</string>
+			<string>RI</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Otent </string>
+			<string>RI</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Abris</string>
+			<string>TE</string>
+			<string>TENTES</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Estoniens</string>
+			<string>TE</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Chancelants</string>
+			<string>ASE</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Coutumes</string>
+			<string>ASE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Extra terrestre</string>
+			<string>ASE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Massif des Alpes suisses</string>
+			<string>AEREES</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Colères</string>
+			<string>AEREES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Otent </string>
+			<string>AEREES</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Substitut</string>
+			<string>AEREES</string>
+			<string>ERSATZ</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Abris</string>
+			<string>AEREES</string>
+			<string>TENTES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Estoniens</string>
+			<string>AEREES</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Chancelants</string>
+			<string>B</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Extra terrestre</string>
+			<string>TEASERS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Plus court</string>
+			<string>TEASERS</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Massif des Alpes suisses</string>
+			<string>TEASERS</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Colères</string>
+			<string>TEASERS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Otent </string>
+			<string>TEASERS</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Substitut</string>
+			<string>TEASERS</string>
+			<string>ERSATZ</string>
+		</array>
+		<array>
+			<string> Anglicisme signifiant aguiches</string>
+			<string> Abris</string>
+			<string>TEASERS</string>
+			<string>TENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Chancelants</string>
+			<string>LE</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string>  Espaces de temps.</string>
+			<string>LE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Plus court</string>
+			<string>TR</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Massif des Alpes suisses</string>
+			<string>TR</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Notre Seigneur</string>
+			<string> Otent </string>
+			<string>NS</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Notre Seigneur</string>
+			<string> Substitut</string>
+			<string>NS</string>
+			<string>ERSATZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Femme politique Israélienne</string>
+			<string>M</string>
+			<string>MEIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Chancelants</string>
+			<string>ERSE</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string>  Espaces de temps.</string>
+			<string>ERSE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Une femme irréprochable</string>
+			<string>ERSE</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Plus court</string>
+			<string>ERSE</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Appuie</string>
+			<string> Infinitif</string>
+			<string>ETAIE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Appuie</string>
+			<string> Otent </string>
+			<string>ETAIE</string>
+			<string>RETIRENT</string>
+		</array>
+		<array>
+			<string> Appuie</string>
+			<string> Substitut</string>
+			<string>ETAIE</string>
+			<string>ERSATZ</string>
+		</array>
+		<array>
+			<string> Appuie</string>
+			<string> Armée Irlandaise</string>
+			<string>ETAIE</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Appuie</string>
+			<string> Femme politique Israélienne</string>
+			<string>ETAIE</string>
+			<string>MEIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Chien de chasse</string>
+			<string> Chancelants</string>
+			<string>SETTER</string>
+			<string>INSTABLES</string>
+		</array>
+		<array>
+			<string> Chien de chasse</string>
+			<string>  Espaces de temps.</string>
+			<string>SETTER</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Chien de chasse</string>
+			<string> Une femme irréprochable</string>
+			<string>SETTER</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Chien de chasse</string>
+			<string> Plus court</string>
+			<string>SETTER</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Chien de chasse</string>
+			<string> Avant un titre universitaire</string>
+			<string>SETTER</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Chien de chasse</string>
+			<string> Infinitif</string>
+			<string>SETTER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Substitut</string>
+			<string>TRI</string>
+			<string>ERSATZ</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Armée Irlandaise</string>
+			<string>TRI</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Femme politique Israélienne</string>
+			<string>TRI</string>
+			<string>MEIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Commune de l&apos;Orne</string>
+			<string>  Espaces de temps.</string>
+			<string>SEES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Commune de l&apos;Orne</string>
+			<string> Une femme irréprochable</string>
+			<string>SEES</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Commune de l&apos;Orne</string>
+			<string> Plus court</string>
+			<string>SEES</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Commune de l&apos;Orne</string>
+			<string> Avant un titre universitaire</string>
+			<string>SEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Titre porté par les empereurs Russes</string>
+			<string></string>
+			<string>TZAR</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Titre porté par les empereurs Russes</string>
+			<string> Substitut</string>
+			<string>TZAR</string>
+			<string>ERSATZ</string>
+		</array>
+		<array>
+			<string> Titre porté par les empereurs Russes</string>
+			<string> Armée Irlandaise</string>
+			<string>TZAR</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Titre porté par les empereurs Russes</string>
+			<string> Femme politique Israélienne</string>
+			<string>TZAR</string>
+			<string>MEIR</string>
+		</array>
+	</array>
+</array>
+</plist>

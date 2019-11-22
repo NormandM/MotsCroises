@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Transforme le sucre</string>
+			<string>CENTRALISEES</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Direction</string>
+			<string>CENTRALISEES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Propre</string>
+			<string>CENTRALISEES</string>
+			<string>NETTE</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Armes non létales</string>
+			<string>CENTRALISEES</string>
+			<string>TASERS</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Symbole chimique</string>
+			<string>CENTRALISEES</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Ils ont de longs bras</string>
+			<string>CENTRALISEES</string>
+			<string>ATELES</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Entre le pont et la coque d&apos;un navire</string>
+			<string>CENTRALISEES</string>
+			<string>LIVET</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Colorées</string>
+			<string>CENTRALISEES</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Terme de tennis</string>
+			<string>CENTRALISEES</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>CENTRALISEES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string> Infinies</string>
+			<string>CENTRALISEES</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string> Monopolisées</string>
+			<string></string>
+			<string>CENTRALISEES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Transforme le sucre</string>
+			<string>ANEANTIRENT</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Direction</string>
+			<string>ANEANTIRENT</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Propre</string>
+			<string>ANEANTIRENT</string>
+			<string>NETTE</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Armes non létales</string>
+			<string>ANEANTIRENT</string>
+			<string>TASERS</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Symbole chimique</string>
+			<string>ANEANTIRENT</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Ils ont de longs bras</string>
+			<string>ANEANTIRENT</string>
+			<string>ATELES</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Entre le pont et la coque d&apos;un navire</string>
+			<string>ANEANTIRENT</string>
+			<string>LIVET</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Colorées</string>
+			<string>ANEANTIRENT</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Terme de tennis</string>
+			<string>ANEANTIRENT</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>ANEANTIRENT</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Annihilèrent</string>
+			<string> Infinies</string>
+			<string>ANEANTIRENT</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Filet</string>
+			<string> Transforme le sucre</string>
+			<string>RETS</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Filet</string>
+			<string> Direction</string>
+			<string>RETS</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Filet</string>
+			<string> Propre</string>
+			<string>RETS</string>
+			<string>NETTE</string>
+		</array>
+		<array>
+			<string> Filet</string>
+			<string> Armes non létales</string>
+			<string>RETS</string>
+			<string>TASERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string> Ils ont de longs bras</string>
+			<string>EVITEES</string>
+			<string>ATELES</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string> Entre le pont et la coque d&apos;un navire</string>
+			<string>EVITEES</string>
+			<string>LIVET</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string> Colorées</string>
+			<string>EVITEES</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string> Terme de tennis</string>
+			<string>EVITEES</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>EVITEES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string> Infinies</string>
+			<string>EVITEES</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string> Esquivées</string>
+			<string></string>
+			<string>EVITEES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Transforme le sucre</string>
+			<string>A</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Identiques</string>
+			<string> Propre</string>
+			<string>TELLES</string>
+			<string>NETTE</string>
+		</array>
+		<array>
+			<string> Identiques</string>
+			<string> Armes non létales</string>
+			<string>TELLES</string>
+			<string>TASERS</string>
+		</array>
+		<array>
+			<string> Identiques</string>
+			<string></string>
+			<string>TELLES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Identiques</string>
+			<string> Ils ont de longs bras</string>
+			<string>TELLES</string>
+			<string>ATELES</string>
+		</array>
+		<array>
+			<string> Identiques</string>
+			<string> Entre le pont et la coque d&apos;un navire</string>
+			<string>TELLES</string>
+			<string>LIVET</string>
+		</array>
+		<array>
+			<string> Identiques</string>
+			<string> Colorées</string>
+			<string>TELLES</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>ER</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Infinies</string>
+			<string>ER</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Se transformer</string>
+			<string> Transforme le sucre</string>
+			<string>MUER</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Se transformer</string>
+			<string> Ouvrière</string>
+			<string>MUER</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Se transformer</string>
+			<string> Propre</string>
+			<string>MUER</string>
+			<string>NETTE</string>
+		</array>
+		<array>
+			<string> Se transformer</string>
+			<string> Armes non létales</string>
+			<string>MUER</string>
+			<string>TASERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Ils ont de longs bras</string>
+			<string>ETES</string>
+			<string>ATELES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Entre le pont et la coque d&apos;un navire</string>
+			<string>ETES</string>
+			<string>LIVET</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Colorées</string>
+			<string>ETES</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Généralement en après-midi</string>
+			<string>ETES</string>
+			<string>SIESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sodium</string>
+			<string> Infinies</string>
+			<string>NA</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string> Sodium</string>
+			<string> Talent, habileté</string>
+			<string>NA</string>
+			<string>ART</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Transforme le sucre</string>
+			<string>ES</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Ouvrière</string>
+			<string>ES</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Armes non létales</string>
+			<string>SES</string>
+			<string>TASERS</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Souhaitée</string>
+			<string>SES</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Ils ont de longs bras</string>
+			<string>SES</string>
+			<string>ATELES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Colorées</string>
+			<string>EIDER</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Généralement en après-midi</string>
+			<string>EIDER</string>
+			<string>SIESTE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Doit être remboursée</string>
+			<string>EIDER</string>
+			<string>DUE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Infinies</string>
+			<string>EIDER</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Talent, habileté</string>
+			<string>EIDER</string>
+			<string>ART</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Bouquines</string>
+			<string> Transforme le sucre</string>
+			<string>LIS</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Bouquines</string>
+			<string> Ouvrière</string>
+			<string>LIS</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Bouquines</string>
+			<string> Connaisses</string>
+			<string>LIS</string>
+			<string>SACHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souhaitée</string>
+			<string>S</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Prénom</string>
+			<string>ISEULT</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Colorées</string>
+			<string>ISEULT</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Généralement en après-midi</string>
+			<string>ISEULT</string>
+			<string>SIESTE</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Doit être remboursée</string>
+			<string>ISEULT</string>
+			<string>DUE</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Infinies</string>
+			<string>ISEULT</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Talent, habileté</string>
+			<string>ISEULT</string>
+			<string>ART</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Transforme le sucre</string>
+			<string>INALPER</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Ouvrière</string>
+			<string>INALPER</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Connaisses</string>
+			<string>INALPER</string>
+			<string>SACHES</string>
+		</array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Lawrencium</string>
+			<string>INALPER</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Souhaitée</string>
+			<string>INALPER</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Attendu avec impatience</string>
+			<string>INALPER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Passer l&apos;été dans les montagnes</string>
+			<string> Prénom</string>
+			<string>INALPER</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ce qui donne du piquant</string>
+			<string> Généralement en après-midi</string>
+			<string>SEL</string>
+			<string>SIESTE</string>
+		</array>
+		<array>
+			<string> Ce qui donne du piquant</string>
+			<string> Doit être remboursée</string>
+			<string>SEL</string>
+			<string>DUE</string>
+		</array>
+		<array>
+			<string> Ce qui donne du piquant</string>
+			<string> Infinies</string>
+			<string>SEL</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Suintent</string>
+			<string> Transforme le sucre</string>
+			<string>SECRETENT</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Ouvrière</string>
+			<string>SECRETENT</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Connaisses</string>
+			<string>SECRETENT</string>
+			<string>SACHES</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Lawrencium</string>
+			<string>SECRETENT</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Souhaitée</string>
+			<string>SECRETENT</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Attendu avec impatience</string>
+			<string>SECRETENT</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Prénom</string>
+			<string>SECRETENT</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Habitations en hauteur</string>
+			<string>SECRETENT</string>
+			<string>NIDS</string>
+		</array>
+		<array>
+			<string> Suintent</string>
+			<string> Généralement en après-midi</string>
+			<string>SECRETENT</string>
+			<string>SIESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Infinies</string>
+			<string>EN</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string></string>
+			<string>EN</string>
+			<string>N</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Marque le doute</string>
+			<string> Transforme le sucre</string>
+			<string>EUH</string>
+			<string>CARAMELISE</string>
+		</array>
+		<array>
+			<string> Marque le doute</string>
+			<string> Ouvrière</string>
+			<string>EUH</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Marque le doute</string>
+			<string> Connaisses</string>
+			<string>EUH</string>
+			<string>SACHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Souhaitée</string>
+			<string>RENIEES</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Attendu avec impatience</string>
+			<string>RENIEES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Prénom</string>
+			<string>RENIEES</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Habitations en hauteur</string>
+			<string>RENIEES</string>
+			<string>NIDS</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Généralement en après-midi</string>
+			<string>RENIEES</string>
+			<string>SIESTE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Période</string>
+			<string>RENIEES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Infinies</string>
+			<string>RENIEES</string>
+			<string>ETERNELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Ouvrière</string>
+			<string>SERE</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Connaisses</string>
+			<string>SERE</string>
+			<string>SACHES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Note</string>
+			<string>SERE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Souhaitée</string>
+			<string>SERE</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom anglais</string>
+			<string> Prénom</string>
+			<string>ED</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Prénom anglais</string>
+			<string> Habitations en hauteur</string>
+			<string>ED</string>
+			<string>NIDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Période</string>
+			<string>R</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Négation</string>
+			<string>N</string>
+			<string>NE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Frustrées</string>
+			<string></string>
+			<string>LESEES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Ouvrière</string>
+			<string>LESEES</string>
+			<string>USINEUSE</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Connaisses</string>
+			<string>LESEES</string>
+			<string>SACHES</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Note</string>
+			<string>LESEES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Souhaitée</string>
+			<string>LESEES</string>
+			<string>ESPEREE</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string></string>
+			<string>LESEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Habitations en hauteur</string>
+			<string>STERE</string>
+			<string>NIDS</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string></string>
+			<string>STERE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Période</string>
+			<string>STERE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string></string>
+			<string>STERE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Négation</string>
+			<string>STERE</string>
+			<string>NE</string>
+		</array>
+	</array>
+</array>
+</plist>

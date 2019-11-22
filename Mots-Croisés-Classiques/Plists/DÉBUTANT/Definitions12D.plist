@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Elle est un pilote</string>
+			<string>ALTERNANTE</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Lawrencium</string>
+			<string>ALTERNANTE</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> La plus grande ville du Canada</string>
+			<string>ALTERNANTE</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Est-Sud-est</string>
+			<string>ALTERNANTE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string></string>
+			<string>ALTERNANTE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Coudriers</string>
+			<string>ALTERNANTE</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Enzyme.</string>
+			<string>ALTERNANTE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Arrivées</string>
+			<string>ALTERNANTE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ALTERNANTE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Fluctuante</string>
+			<string> Avant un titre universitaire</string>
+			<string>ALTERNANTE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dieu de l&apos;amour</string>
+			<string> Elle est un pilote</string>
+			<string>EROS</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Dieu de l&apos;amour</string>
+			<string> Lawrencium</string>
+			<string>EROS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Dieu de l&apos;amour</string>
+			<string> La plus grande ville du Canada</string>
+			<string>EROS</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string> Dieu de l&apos;amour</string>
+			<string> Est-Sud-est</string>
+			<string>EROS</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Coudriers</string>
+			<string>OSEES</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Enzyme.</string>
+			<string>OSEES</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Arrivées</string>
+			<string>OSEES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>OSEES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Avant un titre universitaire</string>
+			<string>OSEES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elle est un pilote</string>
+			<string>R</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> La plus grande ville du Canada</string>
+			<string>RENIEES</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Est-Sud-est</string>
+			<string>RENIEES</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Sodium</string>
+			<string>RENIEES</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Coudriers</string>
+			<string>RENIEES</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Enzyme.</string>
+			<string>RENIEES</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Arrivées</string>
+			<string>RENIEES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Répudiées</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>RENIEES</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plus à l&apos;ouest qu&apos;au sud</string>
+			<string> Elle est un pilote</string>
+			<string>OSO</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Plus à l&apos;ouest qu&apos;au sud</string>
+			<string> Convenable</string>
+			<string>OSO</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Plus à l&apos;ouest qu&apos;au sud</string>
+			<string> La plus grande ville du Canada</string>
+			<string>OSO</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Sodium</string>
+			<string>AS</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Coudriers</string>
+			<string>AS</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string> Arrivées</string>
+			<string>SSE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>SSE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string> Écimées</string>
+			<string>SSE</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Flaire</string>
+			<string> Elle est un pilote</string>
+			<string>SENT</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Flaire</string>
+			<string> Convenable</string>
+			<string>SENT</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Flaire</string>
+			<string> La plus grande ville du Canada</string>
+			<string>SENT</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string> Flaire</string>
+			<string> Règle</string>
+			<string>SENT</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Coudriers</string>
+			<string>EM</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string></string>
+			<string>EM</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Liaison</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ET</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string>Liaison</string>
+			<string> Écimées</string>
+			<string>ET</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Explorent</string>
+			<string> Elle est un pilote</string>
+			<string>TATENT</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Explorent</string>
+			<string> Convenable</string>
+			<string>TATENT</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Explorent</string>
+			<string> La plus grande ville du Canada</string>
+			<string>TATENT</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string> Explorent</string>
+			<string> Règle</string>
+			<string>TATENT</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Explorent</string>
+			<string> Neptunium</string>
+			<string>TATENT</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Explorent</string>
+			<string> Coudriers</string>
+			<string>TATENT</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Interjection</string>
+			<string>ERE</string>
+			<string>EH</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ERE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Écimées</string>
+			<string>ERE</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nourrice de Dionysos</string>
+			<string> Elle est un pilote</string>
+			<string>INO</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Nourrice de Dionysos</string>
+			<string> Convenable</string>
+			<string>INO</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Nourrice de Dionysos</string>
+			<string> La plus grande ville du Canada</string>
+			<string>INO</string>
+			<string>TORONTO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petite cruche</string>
+			<string> Neptunium</string>
+			<string>PICHET</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Petite cruche</string>
+			<string> Coudriers</string>
+			<string>PICHET</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Petite cruche</string>
+			<string> Invente</string>
+			<string>PICHET</string>
+			<string>CREE</string>
+		</array>
+		<array>
+			<string> Petite cruche</string>
+			<string> Interjection</string>
+			<string>PICHET</string>
+			<string>EH</string>
+		</array>
+		<array>
+			<string> Petite cruche</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>PICHET</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Petite cruche</string>
+			<string> Écimées</string>
+			<string>PICHET</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Extra terrestre</string>
+			<string> Elle est un pilote</string>
+			<string>ET</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string> Extra terrestre</string>
+			<string> Convenable</string>
+			<string>ET</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lettre grec</string>
+			<string>E</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Coudriers</string>
+			<string>ER</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Invente</string>
+			<string>ER</string>
+			<string>CREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>SE</string>
+			<string>TESSERES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Écimées</string>
+			<string>SE</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Redits</string>
+			<string> Elle est un pilote</string>
+			<string>REITERES</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> Convenable</string>
+			<string>REITERES</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> De même</string>
+			<string>REITERES</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> Lettre grec</string>
+			<string>REITERES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> Indique la manière</string>
+			<string>REITERES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> Coudriers</string>
+			<string>REITERES</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> Invente</string>
+			<string>REITERES</string>
+			<string>CREE</string>
+		</array>
+		<array>
+			<string>  Redits</string>
+			<string> Strontium.</string>
+			<string>REITERES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Écimées</string>
+			<string>E</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elle est un pilote</string>
+			<string>E</string>
+			<string>AEROSTIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> De même</string>
+			<string>DANSERAS</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> Lettre grec</string>
+			<string>DANSERAS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> Indique la manière</string>
+			<string>DANSERAS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> Coudriers</string>
+			<string>DANSERAS</string>
+			<string>NOISETIERS</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> Invente</string>
+			<string>DANSERAS</string>
+			<string>CREE</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> Strontium.</string>
+			<string>DANSERAS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string></string>
+			<string>DANSERAS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Valseras</string>
+			<string> Écimées</string>
+			<string>DANSERAS</string>
+			<string>ETETEES</string>
+		</array>
+	</array>
+</array>
+</plist>

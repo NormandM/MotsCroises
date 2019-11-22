@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Structurées</string>
+			<string>OPTIMISTES</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Qui doivent être payés</string>
+			<string>OPTIMISTES</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Thallium</string>
+			<string>OPTIMISTES</string>
+			<string>TL</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Insensés</string>
+			<string>OPTIMISTES</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Frères</string>
+			<string>OPTIMISTES</string>
+			<string>MOINES</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Traverse la Suisse et l&apos;Autriche</string>
+			<string>OPTIMISTES</string>
+			<string>INN</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Société générale</string>
+			<string>OPTIMISTES</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Unité de mesure thermique</string>
+			<string>OPTIMISTES</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Langue celtique</string>
+			<string>OPTIMISTES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Enthousiastes</string>
+			<string>Équilibrés</string>
+			<string>OPTIMISTES</string>
+			<string>SAINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Augmentera</string>
+			<string>Structurées</string>
+			<string>RALLONGERA</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Qui doivent être payés</string>
+			<string>RALLONGERA</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Thallium</string>
+			<string>RALLONGERA</string>
+			<string>TL</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Insensés</string>
+			<string>RALLONGERA</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Frères</string>
+			<string>RALLONGERA</string>
+			<string>MOINES</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Traverse la Suisse et l&apos;Autriche</string>
+			<string>RALLONGERA</string>
+			<string>INN</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Société générale</string>
+			<string>RALLONGERA</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Unité de mesure thermique</string>
+			<string>RALLONGERA</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Langue celtique</string>
+			<string>RALLONGERA</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Augmentera</string>
+			<string>Équilibrés</string>
+			<string>RALLONGERA</string>
+			<string>SAINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Église du XVIIe siècle</string>
+			<string>Structurées</string>
+			<string>GY</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Église du XVIIe siècle</string>
+			<string>Qui doivent être payés</string>
+			<string>GY</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cultivé pour ses fibres textiles</string>
+			<string>Insensés</string>
+			<string>LIN</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Cultivé pour ses fibres textiles</string>
+			<string>Frères</string>
+			<string>LIN</string>
+			<string>MOINES</string>
+		</array>
+		<array>
+			<string>Cultivé pour ses fibres textiles</string>
+			<string>Traverse la Suisse et l&apos;Autriche</string>
+			<string>LIN</string>
+			<string>INN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lettre Grec</string>
+			<string>Unité de mesure thermique</string>
+			<string>PSI</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Lettre Grec</string>
+			<string>Langue celtique</string>
+			<string>PSI</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Lettre Grec</string>
+			<string>Équilibrés</string>
+			<string>PSI</string>
+			<string>SAINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Structurées</string>
+			<string>AARON</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Qui doivent être payés</string>
+			<string>AARON</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string></string>
+			<string>AARON</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Insensés</string>
+			<string>AARON</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Frères</string>
+			<string>AARON</string>
+			<string>MOINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pronom personnel</string>
+			<string>S</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Langue celtique</string>
+			<string>EN</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Équilibrés</string>
+			<string>EN</string>
+			<string>SAINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Note</string>
+			<string>Structurées</string>
+			<string>NB</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Qui doivent être payés</string>
+			<string>NB</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Entraver</string>
+			<string>Insensés</string>
+			<string>GENER</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Entraver</string>
+			<string>Frères</string>
+			<string>GENER</string>
+			<string>MOINES</string>
+		</array>
+		<array>
+			<string>Entraver</string>
+			<string>Lumières dans la nuit</string>
+			<string>GENER</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string>Entraver</string>
+			<string>Pronom personnel</string>
+			<string>GENER</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Entraver</string>
+			<string>Les gens y circulent</string>
+			<string>GENER</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Équilibrés</string>
+			<string>S</string>
+			<string>SAINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Habitante d&apos;Ile-sur-Têt</string>
+			<string>Structurées</string>
+			<string>ILOISE</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Habitante d&apos;Ile-sur-Têt</string>
+			<string>Qui doivent être payés</string>
+			<string>ILOISE</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string>Habitante d&apos;Ile-sur-Têt</string>
+			<string></string>
+			<string>ILOISE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Habitante d&apos;Ile-sur-Têt</string>
+			<string>Insensés</string>
+			<string>ILOISE</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Habitante d&apos;Ile-sur-Têt</string>
+			<string>Frères</string>
+			<string>ILOISE</string>
+			<string>MOINES</string>
+		</array>
+		<array>
+			<string>Habitante d&apos;Ile-sur-Têt</string>
+			<string>Lumières dans la nuit</string>
+			<string>ILOISE</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cité antique</string>
+			<string>Les gens y circulent</string>
+			<string>UR</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string>Cité antique</string>
+			<string>Reporté au pouvoir</string>
+			<string>UR</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Structurées</string>
+			<string>SE</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Qui doivent être payés</string>
+			<string>SE</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Insensés</string>
+			<string>Q</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lestes</string>
+			<string>Lumières dans la nuit</string>
+			<string>OSEES</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string>Lestes</string>
+			<string>Sélénium</string>
+			<string>OSEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Lestes</string>
+			<string>Les gens y circulent</string>
+			<string>OSEES</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string>Lestes</string>
+			<string>Reporté au pouvoir</string>
+			<string>OSEES</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string>Lestes</string>
+			<string>Strontium</string>
+			<string>OSEES</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Structurées</string>
+			<string>ES</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Qui doivent être payés</string>
+			<string>ES</string>
+			<string>PAYABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Contient les cendres</string>
+			<string>Insensés</string>
+			<string>URNE</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Contient les cendres</string>
+			<string></string>
+			<string>URNE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Contient les cendres</string>
+			<string>Lumières dans la nuit</string>
+			<string>URNE</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string>Contient les cendres</string>
+			<string>Sélénium</string>
+			<string>URNE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Erbium</string>
+			<string>Reporté au pouvoir</string>
+			<string>ER</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string>Erbium</string>
+			<string>Strontium</string>
+			<string>ER</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Structurées</string>
+			<string>E</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cale</string>
+			<string>Par opposition à</string>
+			<string>VE</string>
+			<string>VS</string>
+		</array>
+		<array>
+			<string>Cale</string>
+			<string>Insensés</string>
+			<string>VE</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Lumières dans la nuit</string>
+			<string>S</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Très bien</string>
+			<string>TL</string>
+			<string>TB</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Reporté au pouvoir</string>
+			<string>TL</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tamise</string>
+			<string>Structurées</string>
+			<string>SASSE</string>
+			<string>ORGANISEES</string>
+		</array>
+		<array>
+			<string>Tamise</string>
+			<string></string>
+			<string>SASSE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Tamise</string>
+			<string>Par opposition à</string>
+			<string>SASSE</string>
+			<string>VS</string>
+		</array>
+		<array>
+			<string>Tamise</string>
+			<string>Insensés</string>
+			<string>SASSE</string>
+			<string>ILLOGIQUES</string>
+		</array>
+		<array>
+			<string>Tamise</string>
+			<string></string>
+			<string>SASSE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Projectile</string>
+			<string></string>
+			<string>OBUS</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Projectile</string>
+			<string>Très bien</string>
+			<string>OBUS</string>
+			<string>TB</string>
+		</array>
+		<array>
+			<string>Projectile</string>
+			<string>Reporté au pouvoir</string>
+			<string>OBUS</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string>Projectile</string>
+			<string></string>
+			<string>OBUS</string>
+			<string>S</string>
+		</array>
+	</array>
+</array>
+</plist>

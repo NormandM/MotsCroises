@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Des sons formant les mots</string>
+			<string>COMPTABLES</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Branchies</string>
+			<string>COMPTABLES</string>
+			<string>OUIES</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Montana</string>
+			<string>COMPTABLES</string>
+			<string>MT</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Langue indo-européenne</string>
+			<string>COMPTABLES</string>
+			<string>PACHTO</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Prison</string>
+			<string>COMPTABLES</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Or</string>
+			<string>COMPTABLES</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>COMPTABLES</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Dépots</string>
+			<string>COMPTABLES</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Einsteinium</string>
+			<string>COMPTABLES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Bien utiles pour faire les impôts</string>
+			<string>Intransigeants</string>
+			<string>COMPTABLES</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Des sons formant les mots</string>
+			<string>OUTAOUAISE</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Branchies</string>
+			<string>OUTAOUAISE</string>
+			<string>OUIES</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Montana</string>
+			<string>OUTAOUAISE</string>
+			<string>MT</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Langue indo-européenne</string>
+			<string>OUTAOUAISE</string>
+			<string>PACHTO</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Prison</string>
+			<string>OUTAOUAISE</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Or</string>
+			<string>OUTAOUAISE</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>OUTAOUAISE</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Dépots</string>
+			<string>OUTAOUAISE</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Einsteinium</string>
+			<string>OUTAOUAISE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Habite Ottawa</string>
+			<string>Intransigeants</string>
+			<string>OUTAOUAISE</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction servant à nier</string>
+			<string>Des sons formant les mots</string>
+			<string>NI</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Conjonction servant à nier</string>
+			<string>Branchies</string>
+			<string>NI</string>
+			<string>OUIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mesure de volume</string>
+			<string>Langue indo-européenne</string>
+			<string>CL</string>
+			<string>PACHTO</string>
+		</array>
+		<array>
+			<string>Mesure de volume</string>
+			<string>Prison</string>
+			<string>CL</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Largeur d&apos;une étoffe</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>LE</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Largeur d&apos;une étoffe</string>
+			<string>Dépots</string>
+			<string>LE</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Intransigeants</string>
+			<string>V</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Aridité</string>
+			<string>Des sons formant les mots</string>
+			<string>SECHERESSE</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Branchies</string>
+			<string>SECHERESSE</string>
+			<string>OUIES</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>SECHERESSE</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Langue indo-européenne</string>
+			<string>SECHERESSE</string>
+			<string>PACHTO</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Prison</string>
+			<string>SECHERESSE</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Opérations militaires</string>
+			<string>SECHERESSE</string>
+			<string>RAIDS</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>SECHERESSE</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Dépots</string>
+			<string>SECHERESSE</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Modération et prudence</string>
+			<string>SECHERESSE</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string>Aridité</string>
+			<string>Intransigeants</string>
+			<string>SECHERESSE</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fonçât</string>
+			<string>Des sons formant les mots</string>
+			<string>OSAT</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Fonçât</string>
+			<string>Branchies</string>
+			<string>OSAT</string>
+			<string>OUIES</string>
+		</array>
+		<array>
+			<string>Fonçât</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>OSAT</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string>Fonçât</string>
+			<string>Langue indo-européenne</string>
+			<string>OSAT</string>
+			<string>PACHTO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Paresseux</string>
+			<string>Opérations militaires</string>
+			<string>AI</string>
+			<string>RAIDS</string>
+		</array>
+		<array>
+			<string>Paresseux</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>AI</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Argon</string>
+			<string>Modération et prudence</string>
+			<string>AR</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string>Argon</string>
+			<string>Intransigeants</string>
+			<string>AR</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Des sons formant les mots</string>
+			<string>N</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>BOBINAGE</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Langue indo-européenne</string>
+			<string>BOBINAGE</string>
+			<string>PACHTO</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Béryllium</string>
+			<string>BOBINAGE</string>
+			<string>BE</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Opérations militaires</string>
+			<string>BOBINAGE</string>
+			<string>RAIDS</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>BOBINAGE</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Hasard</string>
+			<string>BOBINAGE</string>
+			<string>ALEA</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Modération et prudence</string>
+			<string>BOBINAGE</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string>Action d&apos;enrouler un fil sur une bobine</string>
+			<string>Intransigeants</string>
+			<string>BOBINAGE</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Incapable</string>
+			<string>Des sons formant les mots</string>
+			<string>NUL</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Incapable</string>
+			<string></string>
+			<string>NUL</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Incapable</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>NUL</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conseillers municipaux</string>
+			<string>Béryllium</string>
+			<string>EDILES</string>
+			<string>BE</string>
+		</array>
+		<array>
+			<string>Conseillers municipaux</string>
+			<string>Opérations militaires</string>
+			<string>EDILES</string>
+			<string>RAIDS</string>
+		</array>
+		<array>
+			<string>Conseillers municipaux</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>EDILES</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Conseillers municipaux</string>
+			<string>Hasard</string>
+			<string>EDILES</string>
+			<string>ALEA</string>
+		</array>
+		<array>
+			<string>Conseillers municipaux</string>
+			<string>Modération et prudence</string>
+			<string>EDILES</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string>Conseillers municipaux</string>
+			<string>Intransigeants</string>
+			<string>EDILES</string>
+			<string>SEVERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Des sons formant les mots</string>
+			<string>E</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une révolution compète</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>AN</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string>Une révolution compète</string>
+			<string>Négation</string>
+			<string>AN</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orme</string>
+			<string>Opérations militaires</string>
+			<string>SEES</string>
+			<string>RAIDS</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orme</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>SEES</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orme</string>
+			<string>Hasard</string>
+			<string>SEES</string>
+			<string>ALEA</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orme</string>
+			<string>Modération et prudence</string>
+			<string>SEES</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Réfléchis et modérés</string>
+			<string>Des sons formant les mots</string>
+			<string>SAGES</string>
+			<string>CONSONNES</string>
+		</array>
+		<array>
+			<string>Réfléchis et modérés</string>
+			<string>Astate</string>
+			<string>SAGES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Réfléchis et modérés</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>SAGES</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string>Réfléchis et modérés</string>
+			<string>Négation</string>
+			<string>SAGES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Réfléchis et modérés</string>
+			<string>Adjectif possessif</string>
+			<string>SAGES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tondu</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>RASE</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string>Tondu</string>
+			<string>Hasard</string>
+			<string>RASE</string>
+			<string>ALEA</string>
+		</array>
+		<array>
+			<string>Tondu</string>
+			<string>Modération et prudence</string>
+			<string>RASE</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string>Tondu</string>
+			<string>Existes</string>
+			<string>RASE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Règle</string>
+			<string>Astate</string>
+			<string>TE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Règle</string>
+			<string>Connexions d&apos;un appareil électronique</string>
+			<string>TE</string>
+			<string>CABLAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une blonde anglaise</string>
+			<string>Adjectif possessif</string>
+			<string>ALE</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string>Une blonde anglaise</string>
+			<string></string>
+			<string>ALE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Une blonde anglaise</string>
+			<string>Relative à la pêche à la baleine</string>
+			<string>ALE</string>
+			<string>BALEINIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Einsteinium</string>
+			<string>Modération et prudence</string>
+			<string>ES</string>
+			<string>SAGESSE</string>
+		</array>
+		<array>
+			<string>Einsteinium</string>
+			<string>Existes</string>
+			<string>ES</string>
+			<string>ES</string>
+		</array>
+	</array>
+</array>
+</plist>

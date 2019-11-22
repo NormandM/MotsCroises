@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Normales</string>
+			<string>MALADROITS</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Jonction du cheval</string>
+			<string>MALADROITS</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Injustes</string>
+			<string>MALADROITS</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Ambition</string>
+			<string>MALADROITS</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string></string>
+			<string>MALADROITS</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Éructât</string>
+			<string>MALADROITS</string>
+			<string>ROTAT</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Conjonction</string>
+			<string>MALADROITS</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Zeus y serait né</string>
+			<string>MALADROITS</string>
+			<string>IDA</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Classes</string>
+			<string>MALADROITS</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Malhabiles</string>
+			<string>Chlorures de sodium</string>
+			<string>MALADROITS</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>D'une expression signifiant:désormais</string>
+			<string>Normales</string>
+			<string>ORES</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string>D'une expression signifiant:désormais</string>
+			<string>Jonction du cheval</string>
+			<string>ORES</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>D'une expression signifiant:désormais</string>
+			<string>Injustes</string>
+			<string>ORES</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>D'une expression signifiant:désormais</string>
+			<string>Ambition</string>
+			<string>ORES</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Organisation</string>
+			<string>Éructât</string>
+			<string>ORDRE</string>
+			<string>ROTAT</string>
+		</array>
+		<array>
+			<string>Organisation</string>
+			<string>Conjonction</string>
+			<string>ORDRE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string>Organisation</string>
+			<string>Zeus y serait né</string>
+			<string>ORDRE</string>
+			<string>IDA</string>
+		</array>
+		<array>
+			<string>Organisation</string>
+			<string>Classes</string>
+			<string>ORDRE</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Organisation</string>
+			<string>Chlorures de sodium</string>
+			<string>ORDRE</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Recueil de fables</string>
+			<string>Normales</string>
+			<string>YSOPET</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string>Recueil de fables</string>
+			<string>Jonction du cheval</string>
+			<string>YSOPET</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Recueil de fables</string>
+			<string>Injustes</string>
+			<string>YSOPET</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>Recueil de fables</string>
+			<string>Ambition</string>
+			<string>YSOPET</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>Recueil de fables</string>
+			<string>Indique la façon</string>
+			<string>YSOPET</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Recueil de fables</string>
+			<string>Éructât</string>
+			<string>YSOPET</string>
+			<string>ROTAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Beaucoup utilisé en cuisine</string>
+			<string>Zeus y serait né</string>
+			<string>AIL</string>
+			<string>IDA</string>
+		</array>
+		<array>
+			<string>Beaucoup utilisé en cuisine</string>
+			<string>Classes</string>
+			<string>AIL</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Beaucoup utilisé en cuisine</string>
+			<string>Chlorures de sodium</string>
+			<string>AIL</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Normales</string>
+			<string>E</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>S'envolent en fumée</string>
+			<string>Injustes</string>
+			<string>NINAS</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>S'envolent en fumée</string>
+			<string>Ambition</string>
+			<string>NINAS</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>S'envolent en fumée</string>
+			<string>Indique la façon</string>
+			<string>NINAS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>S'envolent en fumée</string>
+			<string>Éructât</string>
+			<string>NINAS</string>
+			<string>ROTAT</string>
+		</array>
+		<array>
+			<string>S'envolent en fumée</string>
+			<string>Strontium</string>
+			<string>NINAS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Classes</string>
+			<string>ES</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Chlorures de sodium</string>
+			<string>ES</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Plus que sombre</string>
+			<string>Normales</string>
+			<string>NOIR</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string>Plus que sombre</string>
+			<string></string>
+			<string>NOIR</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Plus que sombre</string>
+			<string>Injustes</string>
+			<string>NOIR</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>Plus que sombre</string>
+			<string>Ambition</string>
+			<string>NOIR</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rudement</string>
+			<string>Éructât</string>
+			<string>TRES</string>
+			<string>ROTAT</string>
+		</array>
+		<array>
+			<string>Rudement</string>
+			<string>Strontium</string>
+			<string>TRES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Rudement</string>
+			<string>Grand arbre</string>
+			<string>TRES</string>
+			<string>ERABLE</string>
+		</array>
+		<array>
+			<string>Rudement</string>
+			<string>Classes</string>
+			<string>TRES</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Normales</string>
+			<string>N</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Flute</string>
+			<string>Injustes</string>
+			<string>NAY</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>Flute</string>
+			<string>Ambition</string>
+			<string>NAY</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>Flute</string>
+			<string></string>
+			<string>NAY</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Grand arbre</string>
+			<string>R</string>
+			<string>ERABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Relatifs à l'ane</string>
+			<string>A</string>
+			<string>ASINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Diffuse</string>
+			<string>Normales</string>
+			<string>EMET</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string>Diffuse</string>
+			<string>Manière</string>
+			<string>EMET</string>
+			<string>MODE</string>
+		</array>
+		<array>
+			<string>Diffuse</string>
+			<string>Injustes</string>
+			<string>EMET</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>Diffuse</string>
+			<string>Ambition</string>
+			<string>EMET</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avancerais</string>
+			<string></string>
+			<string>IRAIS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Avancerais</string>
+			<string>Dieu Egyptien</string>
+			<string>IRAIS</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string>Avancerais</string>
+			<string>Grand arbre</string>
+			<string>IRAIS</string>
+			<string>ERABLE</string>
+		</array>
+		<array>
+			<string>Avancerais</string>
+			<string>Infinitif</string>
+			<string>IRAIS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Avancerais</string>
+			<string>Relatifs à l'ane</string>
+			<string>IRAIS</string>
+			<string>ASINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Une réplique</string>
+			<string>Normales</string>
+			<string>SOSIE</string>
+			<string>MOYENNES</string>
+		</array>
+		<array>
+			<string>Une réplique</string>
+			<string>Manière</string>
+			<string>SOSIE</string>
+			<string>MODE</string>
+		</array>
+		<array>
+			<string>Une réplique</string>
+			<string>Injustes</string>
+			<string>SOSIE</string>
+			<string>LEONINES</string>
+		</array>
+		<array>
+			<string>Une réplique</string>
+			<string>Ambition</string>
+			<string>SOSIE</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>Une réplique</string>
+			<string>Époque</string>
+			<string>SOSIE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Dieu Egyptien</string>
+			<string>ABRI</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Grand arbre</string>
+			<string>ABRI</string>
+			<string>ERABLE</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Infinitif</string>
+			<string>ABRI</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Relatifs à l'ane</string>
+			<string>ABRI</string>
+			<string>ASINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Manière</string>
+			<string>D</string>
+			<string>MODE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Monnaie scandinave</string>
+			<string>Ambition</string>
+			<string>ORE</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>Monnaie scandinave</string>
+			<string>Époque</string>
+			<string>ORE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Monnaie scandinave</string>
+			<string>Avant un titre universitaire</string>
+			<string>ORE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Grand arbre</string>
+			<string>L</string>
+			<string>ERABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Relatifs à l'ane</string>
+			<string>N</string>
+			<string>ASINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>De théories économiques</string>
+			<string></string>
+			<string>KEYNESIENS</string>
+			<string>K</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string>Manière</string>
+			<string>KEYNESIENS</string>
+			<string>MODE</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string></string>
+			<string>KEYNESIENS</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string>Ambition</string>
+			<string>KEYNESIENS</string>
+			<string>ASPIRATION</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string>Époque</string>
+			<string>KEYNESIENS</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string>Avant un titre universitaire</string>
+			<string>KEYNESIENS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string></string>
+			<string>KEYNESIENS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string>Grand arbre</string>
+			<string>KEYNESIENS</string>
+			<string>ERABLE</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string></string>
+			<string>KEYNESIENS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>De théories économiques</string>
+			<string>Relatifs à l'ane</string>
+			<string>KEYNESIENS</string>
+			<string>ASINS</string>
+		</array>
+	</array>
+</array>
+</plist>

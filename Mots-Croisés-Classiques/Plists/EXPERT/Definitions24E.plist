@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>TAILLECRAYON</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Surfaces</string>
+			<string>TAILLECRAYON</string>
+			<string>AIRES</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Font crier</string>
+			<string>TAILLECRAYON</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string>  Général sudiste</string>
+			<string>TAILLECRAYON</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Largeur d&apos;une étoffe</string>
+			<string>TAILLECRAYON</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string></string>
+			<string>TAILLECRAYON</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Mesure de longueur</string>
+			<string>TAILLECRAYON</string>
+			<string>CM</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Prénom.</string>
+			<string>TAILLECRAYON</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Petits cloportes</string>
+			<string>TAILLECRAYON</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Peintre et poète chinois</string>
+			<string>TAILLECRAYON</string>
+			<string>YUN</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Lestes</string>
+			<string>TAILLECRAYON</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Il y en a un dans chaque classe</string>
+			<string> Arrivées</string>
+			<string>TAILLECRAYON</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nichée</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>AIREE</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Nichée</string>
+			<string> Surfaces</string>
+			<string>AIREE</string>
+			<string>AIRES</string>
+		</array>
+		<array>
+			<string> Nichée</string>
+			<string> Font crier</string>
+			<string>AIREE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Nichée</string>
+			<string>  Général sudiste</string>
+			<string>AIREE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Nichée</string>
+			<string> Largeur d&apos;une étoffe</string>
+			<string>AIREE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abuse</string>
+			<string> Mesure de longueur</string>
+			<string>MESUSE</string>
+			<string>CM</string>
+		</array>
+		<array>
+			<string> Abuse</string>
+			<string> Prénom.</string>
+			<string>MESUSE</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Abuse</string>
+			<string> Petits cloportes</string>
+			<string>MESUSE</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string> Abuse</string>
+			<string> Peintre et poète chinois</string>
+			<string>MESUSE</string>
+			<string>YUN</string>
+		</array>
+		<array>
+			<string> Abuse</string>
+			<string> Lestes</string>
+			<string>MESUSE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Abuse</string>
+			<string> Arrivées</string>
+			<string>MESUSE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nous empoisonne la vie</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>UREE</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Nous empoisonne la vie</string>
+			<string> Surfaces</string>
+			<string>UREE</string>
+			<string>AIRES</string>
+		</array>
+		<array>
+			<string> Nous empoisonne la vie</string>
+			<string> Font crier</string>
+			<string>UREE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Nous empoisonne la vie</string>
+			<string>  Général sudiste</string>
+			<string>UREE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ivres</string>
+			<string>E</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Prénom.</string>
+			<string>MENEE</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Petits cloportes</string>
+			<string>MENEE</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Peintre et poète chinois</string>
+			<string>MENEE</string>
+			<string>YUN</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Lestes</string>
+			<string>MENEE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Arrivées</string>
+			<string>MENEE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Possessif</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>TES</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string>  Possessif</string>
+			<string> Surfaces</string>
+			<string>TES</string>
+			<string>AIRES</string>
+		</array>
+		<array>
+			<string>  Possessif</string>
+			<string> Font crier</string>
+			<string>TES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une adresse</string>
+			<string> Période</string>
+			<string>EMAIL</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Une adresse</string>
+			<string> Ivres</string>
+			<string>EMAIL</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string> Une adresse</string>
+			<string> Résines</string>
+			<string>EMAIL</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Une adresse</string>
+			<string> Prénom.</string>
+			<string>EMAIL</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Une adresse</string>
+			<string> Petits cloportes</string>
+			<string>EMAIL</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Lestes</string>
+			<string>ES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Arrivées</string>
+			<string>ES</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Hic</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>OS</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Hic</string>
+			<string> Surfaces</string>
+			<string>OS</string>
+			<string>AIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Langue celtique</string>
+			<string>ERES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Période</string>
+			<string>ERES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Ivres</string>
+			<string>ERES</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Résines</string>
+			<string>ERES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Petits cloportes</string>
+			<string>LES</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Estoniens</string>
+			<string>LES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Lestes</string>
+			<string>LES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui a un  caractère redondant</string>
+			<string>L</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Divinités romaines</string>
+			<string>PRECEDES</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Langue celtique</string>
+			<string>PRECEDES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Période</string>
+			<string>PRECEDES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Ivres</string>
+			<string>PRECEDES</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Résines</string>
+			<string>PRECEDES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string></string>
+			<string>PRECEDES</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Petits cloportes</string>
+			<string>PRECEDES</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string> Devances</string>
+			<string> Estoniens</string>
+			<string>PRECEDES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Critique durement</string>
+			<string>E</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fonces</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>OSES</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Fonces</string>
+			<string> Circule au Japon</string>
+			<string>OSES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Fonces</string>
+			<string> Divinités romaines</string>
+			<string>OSES</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string> Fonces</string>
+			<string> Langue celtique</string>
+			<string>OSES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Ivres</string>
+			<string>HS</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Résines</string>
+			<string>HS</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle fait souvent la une</string>
+			<string> Petits cloportes</string>
+			<string>STAR</string>
+			<string>ASELLES</string>
+		</array>
+		<array>
+			<string> Elle fait souvent la une</string>
+			<string> Estoniens</string>
+			<string>STAR</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Elle fait souvent la une</string>
+			<string> Astate</string>
+			<string>STAR</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Elle fait souvent la une</string>
+			<string> Critique durement</string>
+			<string>STAR</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Naissance</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>GENESE</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Naissance</string>
+			<string> Circule au Japon</string>
+			<string>GENESE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Naissance</string>
+			<string> Divinités romaines</string>
+			<string>GENESE</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string> Naissance</string>
+			<string> Langue celtique</string>
+			<string>GENESE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Naissance</string>
+			<string> Poisson osseux</string>
+			<string>GENESE</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Naissance</string>
+			<string> Ivres</string>
+			<string>GENESE</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Épince</string>
+			<string>E</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le temps des vacances</string>
+			<string> Estoniens</string>
+			<string>ETE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Le temps des vacances</string>
+			<string> Astate</string>
+			<string>ETE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Le temps des vacances</string>
+			<string> Critique durement</string>
+			<string>ETE</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fait partie de la finale</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>INA</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Fait partie de la finale</string>
+			<string> Circule au Japon</string>
+			<string>INA</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Fait partie de la finale</string>
+			<string> Divinités romaines</string>
+			<string>INA</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Poisson osseux</string>
+			<string>ASINES</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Ivres</string>
+			<string>ASINES</string>
+			<string>EMECHES</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Un acier qui ne rouille pas</string>
+			<string>ASINES</string>
+			<string>INOX</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Épince</string>
+			<string>ASINES</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Orient</string>
+			<string>ASINES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Estoniens</string>
+			<string>ASINES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Critique durement</string>
+			<string>I</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui a un  caractère redondant</string>
+			<string>Q</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Luth</string>
+			<string> Divinités romaines</string>
+			<string>TAR</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string> Luth</string>
+			<string> Champion</string>
+			<string>TAR</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Luth</string>
+			<string> Poisson osseux</string>
+			<string>TAR</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Un acier qui ne rouille pas</string>
+			<string>NOS</string>
+			<string>INOX</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Épince</string>
+			<string>NOS</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Orient</string>
+			<string>NOS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Direction</string>
+			<string>EN</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Critique durement</string>
+			<string>EN</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fatigués</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>USES</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Fatigués</string>
+			<string> Strontium.</string>
+			<string>USES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Fatigués</string>
+			<string> Divinités romaines</string>
+			<string>USES</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string> Fatigués</string>
+			<string> Champion</string>
+			<string>USES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Symbole chimique</string>
+			<string>BOUTENT</string>
+			<string>BI</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Un acier qui ne rouille pas</string>
+			<string>BOUTENT</string>
+			<string>INOX</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Épince</string>
+			<string>BOUTENT</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Orient</string>
+			<string>BOUTENT</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Liaison</string>
+			<string>BOUTENT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Direction</string>
+			<string>BOUTENT</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Chassent</string>
+			<string> Critique durement</string>
+			<string>BOUTENT</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plante herbacée</string>
+			<string>Qui a un  caractère redondant</string>
+			<string>ERS</string>
+			<string>TAUTOLOGIQUE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Strontium.</string>
+			<string>ERS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Divinités romaines</string>
+			<string>ERS</string>
+			<string>PENATES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mélange</string>
+			<string></string>
+			<string>MIXE</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Mélange</string>
+			<string> Symbole chimique</string>
+			<string>MIXE</string>
+			<string>BI</string>
+		</array>
+		<array>
+			<string> Mélange</string>
+			<string> Un acier qui ne rouille pas</string>
+			<string>MIXE</string>
+			<string>INOX</string>
+		</array>
+		<array>
+			<string> Mélange</string>
+			<string> Épince</string>
+			<string>MIXE</string>
+			<string>ENOUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Toujours présent au départ</string>
+			<string> Liaison</string>
+			<string>TEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>  Toujours présent au départ</string>
+			<string> Direction</string>
+			<string>TEE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string>  Toujours présent au départ</string>
+			<string> Critique durement</string>
+			<string>TEE</string>
+			<string>EREINTE</string>
+		</array>
+	</array>
+</array>
+</plist>

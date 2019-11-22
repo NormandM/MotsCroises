@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Modèles</string>
+			<string> Supports</string>
+			<string>ARCHETYPES</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string>  Redits</string>
+			<string>ARCHETYPES</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string> Californium</string>
+			<string>ARCHETYPES</string>
+			<string>CF</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string> Légataires</string>
+			<string>ARCHETYPES</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string>  Espaces de temps.</string>
+			<string>ARCHETYPES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string> Thulium</string>
+			<string>ARCHETYPES</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string> Circule au Japon</string>
+			<string>ARCHETYPES</string>
+			<string>YEN</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string> Pas données</string>
+			<string>ARCHETYPES</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string></string>
+			<string>ARCHETYPES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Modèles</string>
+			<string> Située</string>
+			<string>ARCHETYPES</string>
+			<string>SISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fermer</string>
+			<string> Supports</string>
+			<string>REFERMER</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string>  Redits</string>
+			<string>REFERMER</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string> Californium</string>
+			<string>REFERMER</string>
+			<string>CF</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string> Légataires</string>
+			<string>REFERMER</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string>  Espaces de temps.</string>
+			<string>REFERMER</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string> Thulium</string>
+			<string>REFERMER</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string> Circule au Japon</string>
+			<string>REFERMER</string>
+			<string>YEN</string>
+		</array>
+		<array>
+			<string> Fermer</string>
+			<string> Pas données</string>
+			<string>REFERMER</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Située</string>
+			<string>I</string>
+			<string>SISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note</string>
+			<string> Supports</string>
+			<string>MI</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string>  Redits</string>
+			<string>MI</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Légataires</string>
+			<string>RE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string>  Espaces de temps.</string>
+			<string>RE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Circule au Japon</string>
+			<string>NEES</string>
+			<string>YEN</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Pas données</string>
+			<string>NEES</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Trompée</string>
+			<string>NEES</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Située</string>
+			<string>NEES</string>
+			<string>SISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Stimule</string>
+			<string> Supports</string>
+			<string>ATTISE</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Stimule</string>
+			<string>  Redits</string>
+			<string>ATTISE</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string> Stimule</string>
+			<string></string>
+			<string>ATTISE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Stimule</string>
+			<string> Légataires</string>
+			<string>ATTISE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Stimule</string>
+			<string>  Espaces de temps.</string>
+			<string>ATTISE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Stimule</string>
+			<string> Plus à l'est qu'au nord</string>
+			<string>ATTISE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Élimine</string>
+			<string> Pas données</string>
+			<string>TUE</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string> Élimine</string>
+			<string> Trompée</string>
+			<string>TUE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string> Élimine</string>
+			<string> Située</string>
+			<string>TUE</string>
+			<string>SISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Règle</string>
+			<string> Supports</string>
+			<string>TE</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string>  Redits</string>
+			<string>TE</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Légataires</string>
+			<string>T</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Plus à l'est qu'au nord</string>
+			<string>NIEE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string></string>
+			<string>NIEE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Pas données</string>
+			<string>NIEE</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Trompée</string>
+			<string>NIEE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un ours par exemple</string>
+			<string> Supports</string>
+			<string>URSIDE</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Un ours par exemple</string>
+			<string>  Redits</string>
+			<string>URSIDE</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string> Un ours par exemple</string>
+			<string> Étain</string>
+			<string>URSIDE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Un ours par exemple</string>
+			<string> Légataires</string>
+			<string>URSIDE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Un ours par exemple</string>
+			<string> Divinité</string>
+			<string>URSIDE</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Un ours par exemple</string>
+			<string> Plus à l'est qu'au nord</string>
+			<string>URSIDE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pas données</string>
+			<string>E</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Au sud du Canada</string>
+			<string>U</string>
+			<string>USA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Supports</string>
+			<string>RENEE</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string>  Redits</string>
+			<string>RENEE</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Étain</string>
+			<string>RENEE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Légataires</string>
+			<string>RENEE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Divinité</string>
+			<string>RENEE</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Hameau des Antilles</string>
+			<string>ISIS</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Pas données</string>
+			<string>ISIS</string>
+			<string>PRETEES</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Sorti</string>
+			<string>ISIS</string>
+			<string>ISSU</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Au sud du Canada</string>
+			<string>ISIS</string>
+			<string>USA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Supports</string>
+			<string>ES</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string>  Redits</string>
+			<string>ES</string>
+			<string>REITERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Légataires</string>
+			<string>RIEL</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Divinité</string>
+			<string>RIEL</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Liaison</string>
+			<string>RIEL</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Circule au Cambodge</string>
+			<string> Hameau des Antilles</string>
+			<string>RIEL</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Sorti</string>
+			<string>SA</string>
+			<string>ISSU</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Au sud du Canada</string>
+			<string>SA</string>
+			<string>USA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Supports</string>
+			<string>S</string>
+			<string>ARMATURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Pronom</string>
+			<string>SETTERS</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Légataires</string>
+			<string>SETTERS</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Divinité</string>
+			<string>SETTERS</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Liaison</string>
+			<string>SETTERS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Hameau des Antilles</string>
+			<string>SETTERS</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Dieu Egyptien</string>
+			<string>SETTERS</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Chiens de chasse</string>
+			<string> Sorti</string>
+			<string>SETTERS</string>
+			<string>ISSU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Appuyer</string>
+			<string></string>
+			<string>PESE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Appuyer</string>
+			<string> Pronom</string>
+			<string>PESE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Appuyer</string>
+			<string> Légataires</string>
+			<string>PESE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string> Appuyer</string>
+			<string> Divinité</string>
+			<string>PESE</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rapport</string>
+			<string> Hameau des Antilles</string>
+			<string>TAUX</string>
+			<string>ILET</string>
+		</array>
+		<array>
+			<string> Rapport</string>
+			<string> Dieu Egyptien</string>
+			<string>TAUX</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Rapport</string>
+			<string> Sorti</string>
+			<string>TAUX</string>
+			<string>ISSU</string>
+		</array>
+		<array>
+			<string> Rapport</string>
+			<string></string>
+			<string>TAUX</string>
+			<string>X</string>
+		</array>
+	</array>
+</array>
+</plist>

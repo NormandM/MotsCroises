@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Éphémères</string>
+			<string>PAPILLONNE</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Armes anciennes</string>
+			<string>PAPILLONNE</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Pascal</string>
+			<string>PAPILLONNE</string>
+			<string>PA</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Il y en a plusieurs dans les caraïbes</string>
+			<string>PAPILLONNE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Déchiffreraient</string>
+			<string>PAPILLONNE</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Crevé</string>
+			<string>PAPILLONNE</string>
+			<string>LAS</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Oui en Occitan</string>
+			<string>PAPILLONNE</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Déesse de la vengeance</string>
+			<string>PAPILLONNE</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Apparues</string>
+			<string>PAPILLONNE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Va d&apos;une chose à l&apos;autre</string>
+			<string>Intenter un procès</string>
+			<string>PAPILLONNE</string>
+			<string>ESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Éphémères</string>
+			<string>ARALIACEES</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Armes anciennes</string>
+			<string>ARALIACEES</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Pascal</string>
+			<string>ARALIACEES</string>
+			<string>PA</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Il y en a plusieurs dans les caraïbes</string>
+			<string>ARALIACEES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Déchiffreraient</string>
+			<string>ARALIACEES</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Crevé</string>
+			<string>ARALIACEES</string>
+			<string>LAS</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Oui en Occitan</string>
+			<string>ARALIACEES</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Déesse de la vengeance</string>
+			<string>ARALIACEES</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Apparues</string>
+			<string>ARALIACEES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Les lierres font partie de cette famille de plante (pl)</string>
+			<string>Intenter un procès</string>
+			<string>ARALIACEES</string>
+			<string>ESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Antimoine</string>
+			<string>Éphémères</string>
+			<string>SB</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Antimoine</string>
+			<string>Armes anciennes</string>
+			<string>SB</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cultivé comme fourrage</string>
+			<string>Il y en a plusieurs dans les caraïbes</string>
+			<string>ERS</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Cultivé comme fourrage</string>
+			<string>Déchiffreraient</string>
+			<string>ERS</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Cultivé comme fourrage</string>
+			<string>Crevé</string>
+			<string>ERS</string>
+			<string>LAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Place</string>
+			<string>Déesse de la vengeance</string>
+			<string>MET</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string>Place</string>
+			<string>Apparues</string>
+			<string>MET</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Place</string>
+			<string>Intenter un procès</string>
+			<string>MET</string>
+			<string>ESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Musique afro-cubaine</string>
+			<string>Éphémères</string>
+			<string>SALSA</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Musique afro-cubaine</string>
+			<string>Armes anciennes</string>
+			<string>SALSA</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string>Musique afro-cubaine</string>
+			<string>Mesure chinoise</string>
+			<string>SALSA</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Musique afro-cubaine</string>
+			<string>Il y en a plusieurs dans les caraïbes</string>
+			<string>SALSA</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Musique afro-cubaine</string>
+			<string>Déchiffreraient</string>
+			<string>SALSA</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Désavantagé</string>
+			<string>Largeur d&apos;une étoffe</string>
+			<string>LESE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string>Désavantagé</string>
+			<string>Déesse de la vengeance</string>
+			<string>LESE</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string>Désavantagé</string>
+			<string>Apparues</string>
+			<string>LESE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Désavantagé</string>
+			<string>Intenter un procès</string>
+			<string>LESE</string>
+			<string>ESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un grand champion</string>
+			<string>Éphémères</string>
+			<string>ALI</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Un grand champion</string>
+			<string>Armes anciennes</string>
+			<string>ALI</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string>Un grand champion</string>
+			<string>Mesure chinoise</string>
+			<string>ALI</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nagent dans un bocal</string>
+			<string>Déchiffreraient</string>
+			<string>IDES</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Nagent dans un bocal</string>
+			<string>Robot</string>
+			<string>IDES</string>
+			<string>DROIDE</string>
+		</array>
+		<array>
+			<string>Nagent dans un bocal</string>
+			<string>Largeur d&apos;une étoffe</string>
+			<string>IDES</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string>Nagent dans un bocal</string>
+			<string>Déesse de la vengeance</string>
+			<string>IDES</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Intenter un procès</string>
+			<string>R</string>
+			<string>ESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mère des titans</string>
+			<string>Éphémères</string>
+			<string>GE</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Mère des titans</string>
+			<string>Armes anciennes</string>
+			<string>GE</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un métal bien utile</string>
+			<string>Note</string>
+			<string>FER</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Un métal bien utile</string>
+			<string>Déchiffreraient</string>
+			<string>FER</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Un métal bien utile</string>
+			<string>Robot</string>
+			<string>FER</string>
+			<string>DROIDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Îlot français de la Méditerranée</string>
+			<string>Déesse de la vengeance</string>
+			<string>IF</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string>Îlot français de la Méditerranée</string>
+			<string></string>
+			<string>IF</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Éphémères</string>
+			<string>ETHANOLS</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Armes anciennes</string>
+			<string>ETHANOLS</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Mercure</string>
+			<string>ETHANOLS</string>
+			<string>HG</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Note</string>
+			<string>ETHANOLS</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Déchiffreraient</string>
+			<string>ETHANOLS</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Robot</string>
+			<string>ETHANOLS</string>
+			<string>DROIDE</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Lawrencium</string>
+			<string>ETHANOLS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string>Alcools éthyliques</string>
+			<string>Déesse de la vengeance</string>
+			<string>ETHANOLS</string>
+			<string>NEMESIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Passer à l&apos;action</string>
+			<string>A</string>
+			<string>AGIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Désert rocheux</string>
+			<string>Éphémères</string>
+			<string>REG</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Désert rocheux</string>
+			<string>Armes anciennes</string>
+			<string>REG</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string>Désert rocheux</string>
+			<string>Mercure</string>
+			<string>REG</string>
+			<string>HG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Demande de l&apos;habileté</string>
+			<string>Déchiffreraient</string>
+			<string>TIR</string>
+			<string>LIRAIENT</string>
+		</array>
+		<array>
+			<string>Demande de l&apos;habileté</string>
+			<string>Robot</string>
+			<string>TIR</string>
+			<string>DROIDE</string>
+		</array>
+		<array>
+			<string>Demande de l&apos;habileté</string>
+			<string>Lawrencium</string>
+			<string>TIR</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Métal liquide à la température de la pièce</string>
+			<string>Cri pour faire avancer le cheval</string>
+			<string>HG</string>
+			<string>HUE</string>
+		</array>
+		<array>
+			<string>Métal liquide à la température de la pièce</string>
+			<string>Passer à l&apos;action</string>
+			<string>HG</string>
+			<string>AGIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Éphémères</string>
+			<string>ES</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Armes anciennes</string>
+			<string>ES</string>
+			<string>ARBALETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Conifère à fruits rouges</string>
+			<string>I</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Robot</string>
+			<string>D</string>
+			<string>DROIDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Réponse espérée</string>
+			<string>Un problème</string>
+			<string>OUI</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Réponse espérée</string>
+			<string>Cri pour faire avancer le cheval</string>
+			<string>OUI</string>
+			<string>HUE</string>
+		</array>
+		<array>
+			<string>Réponse espérée</string>
+			<string>Passer à l&apos;action</string>
+			<string>OUI</string>
+			<string>AGIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Éphémères</string>
+			<string>S</string>
+			<string>PASSAGERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string></string>
+			<string>OFFENSER</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string>Conifère à fruits rouges</string>
+			<string>OFFENSER</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string></string>
+			<string>OFFENSER</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string>Robot</string>
+			<string>OFFENSER</string>
+			<string>DROIDE</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string></string>
+			<string>OFFENSER</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string>Un problème</string>
+			<string>OFFENSER</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string>Cri pour faire avancer le cheval</string>
+			<string>OFFENSER</string>
+			<string>HUE</string>
+		</array>
+		<array>
+			<string>Outrager</string>
+			<string>Passer à l&apos;action</string>
+			<string>OFFENSER</string>
+			<string>AGIR</string>
+		</array>
+	</array>
+</array>
+</plist>

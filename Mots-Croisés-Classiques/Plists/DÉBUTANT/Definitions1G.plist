@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Inédites</string>
+			<string>ONOMATOPEE</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Arbre africain</string>
+			<string>ONOMATOPEE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Pronom indéfini.</string>
+			<string>ONOMATOPEE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>ONOMATOPEE</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Poète dans la Grèce antique</string>
+			<string>ONOMATOPEE</string>
+			<string>AEDE</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string></string>
+			<string>ONOMATOPEE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Fonce</string>
+			<string>ONOMATOPEE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Portions</string>
+			<string>ONOMATOPEE</string>
+			<string>PARTS</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Langue celtique</string>
+			<string>ONOMATOPEE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Mot qui évoque par le son la chose dénommée</string>
+			<string> Alcaloïde toxique</string>
+			<string>ONOMATOPEE</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Inédites</string>
+			<string>RENEE</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Arbre africain</string>
+			<string>RENEE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Pronom indéfini.</string>
+			<string>RENEE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>RENEE</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Poète dans la Grèce antique</string>
+			<string>RENEE</string>
+			<string>AEDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poissons vivant en Méditerranée</string>
+			<string> Fonce</string>
+			<string>SARS</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Poissons vivant en Méditerranée</string>
+			<string> Portions</string>
+			<string>SARS</string>
+			<string>PARTS</string>
+		</array>
+		<array>
+			<string> Poissons vivant en Méditerranée</string>
+			<string> Langue celtique</string>
+			<string>SARS</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Poissons vivant en Méditerranée</string>
+			<string> Alcaloïde toxique</string>
+			<string>SARS</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Inédites</string>
+			<string>IR</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Arbre africain</string>
+			<string>IR</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>ADVERSE</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Poète dans la Grèce antique</string>
+			<string>ADVERSE</string>
+			<string>AEDE</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Habillement</string>
+			<string>ADVERSE</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Fonce</string>
+			<string>ADVERSE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Portions</string>
+			<string>ADVERSE</string>
+			<string>PARTS</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Langue celtique</string>
+			<string>ADVERSE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Opposé</string>
+			<string> Alcaloïde toxique</string>
+			<string>ADVERSE</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Crevassée</string>
+			<string> Inédites</string>
+			<string>GERCEE</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Crevassée</string>
+			<string> Arbre africain</string>
+			<string>GERCEE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Crevassée</string>
+			<string> Rubidium</string>
+			<string>GERCEE</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string> Crevassée</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>GERCEE</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string> Crevassée</string>
+			<string> Poète dans la Grèce antique</string>
+			<string>GERCEE</string>
+			<string>AEDE</string>
+		</array>
+		<array>
+			<string> Crevassée</string>
+			<string> Habillement</string>
+			<string>GERCEE</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Portions</string>
+			<string>TER</string>
+			<string>PARTS</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Langue celtique</string>
+			<string>TER</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Alcaloïde toxique</string>
+			<string>TER</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Inédites</string>
+			<string>I</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avalé</string>
+			<string> Rubidium</string>
+			<string>BU</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string> Avalé</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>BU</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Habillement</string>
+			<string>TES</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Agace</string>
+			<string>TES</string>
+			<string>ENERVE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Portions</string>
+			<string>TES</string>
+			<string>PARTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Alcaloïde toxique</string>
+			<string>I</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Inédites</string>
+			<string>NE</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Gratin</string>
+			<string>NE</string>
+			<string>ELITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Corde</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>LIEN</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string> Corde</string>
+			<string></string>
+			<string>LIEN</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Corde</string>
+			<string> Habillement</string>
+			<string>LIEN</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string> Corde</string>
+			<string> Agace</string>
+			<string>LIEN</string>
+			<string>ENERVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Étain</string>
+			<string> Suite</string>
+			<string>SN</string>
+			<string>SERIE</string>
+		</array>
+		<array>
+			<string> Étain</string>
+			<string> Alcaloïde toxique</string>
+			<string>SN</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville du N.-O. de la Syrie</string>
+			<string> Inédites</string>
+			<string>ALEP</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Ville du N.-O. de la Syrie</string>
+			<string> Gratin</string>
+			<string>ALEP</string>
+			<string>ELITE</string>
+		</array>
+		<array>
+			<string> Ville du N.-O. de la Syrie</string>
+			<string></string>
+			<string>ALEP</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Ville du N.-O. de la Syrie</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>ALEP</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Habillement</string>
+			<string>MENEE</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Agace</string>
+			<string>MENEE</string>
+			<string>ENERVE</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Qui signifie nouveau</string>
+			<string>MENEE</string>
+			<string>NEO</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Suite</string>
+			<string>MENEE</string>
+			<string>SERIE</string>
+		</array>
+		<array>
+			<string> Conduite</string>
+			<string> Alcaloïde toxique</string>
+			<string>MENEE</string>
+			<string>ESERINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mesure chinoise</string>
+			<string> Inédites</string>
+			<string>LI</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Mesure chinoise</string>
+			<string> Gratin</string>
+			<string>LI</string>
+			<string>ELITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aiguiser</string>
+			<string> Locution latine signifiant par ma faute</string>
+			<string>ACERER</string>
+			<string>MEACULPA</string>
+		</array>
+		<array>
+			<string> Aiguiser</string>
+			<string> Adjectif démonstratif</string>
+			<string>ACERER</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Aiguiser</string>
+			<string> Habillement</string>
+			<string>ACERER</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string> Aiguiser</string>
+			<string> Agace</string>
+			<string>ACERER</string>
+			<string>ENERVE</string>
+		</array>
+		<array>
+			<string> Aiguiser</string>
+			<string> Qui signifie nouveau</string>
+			<string>ACERER</string>
+			<string>NEO</string>
+		</array>
+		<array>
+			<string> Aiguiser</string>
+			<string> Suite</string>
+			<string>ACERER</string>
+			<string>SERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Inédites</string>
+			<string>ETA</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Gratin</string>
+			<string>ETA</string>
+			<string>ELITE</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Assez bien</string>
+			<string>ETA</string>
+			<string>AB</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Colis</string>
+			<string> Adjectif démonstratif</string>
+			<string>ENVOIS</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Colis</string>
+			<string> Habillement</string>
+			<string>ENVOIS</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string> Colis</string>
+			<string> Agace</string>
+			<string>ENVOIS</string>
+			<string>ENERVE</string>
+		</array>
+		<array>
+			<string> Colis</string>
+			<string> Qui signifie nouveau</string>
+			<string>ENVOIS</string>
+			<string>NEO</string>
+		</array>
+		<array>
+			<string> Colis</string>
+			<string> Suite</string>
+			<string>ENVOIS</string>
+			<string>SERIE</string>
+		</array>
+		<array>
+			<string> Colis</string>
+			<string> Strontium.</string>
+			<string>ENVOIS</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Poisson</string>
+			<string> Inédites</string>
+			<string>SEBASTE</string>
+			<string>ORIGINALES</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Gratin</string>
+			<string>SEBASTE</string>
+			<string>ELITE</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Assez bien</string>
+			<string>SEBASTE</string>
+			<string>AB</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string></string>
+			<string>SEBASTE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Adjectif démonstratif</string>
+			<string>SEBASTE</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Habillement</string>
+			<string>SEBASTE</string>
+			<string>VETEMENT</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Agace</string>
+			<string>SEBASTE</string>
+			<string>ENERVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Suite</string>
+			<string>ER</string>
+			<string>SERIE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Strontium.</string>
+			<string>ER</string>
+			<string>SR</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Petite ville</string>
+			<string> Elles contiennent du poison</string>
+			<string>VILLAGE</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Petite ville</string>
+			<string> Colère</string>
+			<string>VILLAGE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Petite ville</string>
+			<string> Désavantage</string>
+			<string>VILLAGE</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string> Petite ville</string>
+			<string></string>
+			<string>VILLAGE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Petite ville</string>
+			<string> Arbres à fruit</string>
+			<string>VILLAGE</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Petite ville</string>
+			<string>Vigile</string>
+			<string>VILLAGE</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string> Petite ville</string>
+			<string> Infinitif</string>
+			<string>VILLAGE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Unité de temps</string>
+			<string>HS</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Possessif.</string>
+			<string>HS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Age</string>
+			<string> Elles contiennent du poison</string>
+			<string>ERE</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Colère</string>
+			<string>ERE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Désavantage</string>
+			<string>ERE</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Diversifiée</string>
+			<string> Arbres à fruit</string>
+			<string>VARIEE</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Diversifiée</string>
+			<string>Vigile</string>
+			<string>VARIEE</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string> Diversifiée</string>
+			<string> Infinitif</string>
+			<string>VARIEE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Diversifiée</string>
+			<string> Elle parle le persan</string>
+			<string>VARIEE</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Diversifiée</string>
+			<string> Unité de temps</string>
+			<string>VARIEE</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Diversifiée</string>
+			<string> Possessif.</string>
+			<string>VARIEE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom</string>
+			<string> Elles contiennent du poison</string>
+			<string>NESTOR</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Colère</string>
+			<string>NESTOR</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Désavantage</string>
+			<string>NESTOR</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string></string>
+			<string>NESTOR</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Arbres à fruit</string>
+			<string>NESTOR</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Vigile</string>
+			<string>NESTOR</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petits ruisseaux</string>
+			<string> Elle parle le persan</string>
+			<string>RUS</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Petits ruisseaux</string>
+			<string> Unité de temps</string>
+			<string>RUS</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Petits ruisseaux</string>
+			<string> Possessif.</string>
+			<string>RUS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elles contiennent du poison</string>
+			<string>E</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Désavantage</string>
+			<string>E</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Disque</string>
+			<string> Arbres à fruit</string>
+			<string>CD</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Disque</string>
+			<string> Vigile</string>
+			<string>CD</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Elle parle le persan</string>
+			<string>AR</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Unité de temps</string>
+			<string>AR</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Drame japonais</string>
+			<string> Elles contiennent du poison</string>
+			<string>NO</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Drame japonais</string>
+			<string> Édit promulgué par le tsar</string>
+			<string>NO</string>
+			<string>OUKASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string></string>
+			<string>SAIGNEE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string> Arbres à fruit</string>
+			<string>SAIGNEE</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string> Vigile</string>
+			<string>SAIGNEE</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string></string>
+			<string>SAIGNEE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string> Elle parle le persan</string>
+			<string>SAIGNEE</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string> Unité de temps</string>
+			<string>SAIGNEE</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Évacuation de sang</string>
+			<string> Anneau de cordage</string>
+			<string>SAIGNEE</string>
+			<string>ERSEAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trompée</string>
+			<string> Elles contiennent du poison</string>
+			<string>EUE</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Édit promulgué par le tsar</string>
+			<string>EUE</string>
+			<string>OUKASE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Plante herbacée</string>
+			<string>EUE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Arbres à fruit</string>
+			<string>TE</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string>Vigile</string>
+			<string>TE</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Elle parle le persan</string>
+			<string>I</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Anneau de cordage</string>
+			<string>R</string>
+			<string>ERSEAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Elles contiennent du poison</string>
+			<string>UKRAINIENS</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Édit promulgué par le tsar</string>
+			<string>UKRAINIENS</string>
+			<string>OUKASE</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Plante herbacée</string>
+			<string>UKRAINIENS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string></string>
+			<string>UKRAINIENS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Arbres à fruit</string>
+			<string>UKRAINIENS</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Vigile</string>
+			<string>UKRAINIENS</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string></string>
+			<string>UKRAINIENS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Elle parle le persan</string>
+			<string>UKRAINIENS</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string>  Pur</string>
+			<string>UKRAINIENS</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string> Habitants d&apos;un pays d&apos;Europe Orientale </string>
+			<string> Anneau de cordage</string>
+			<string>UKRAINIENS</string>
+			<string>ERSEAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tamis</string>
+			<string> Elles contiennent du poison</string>
+			<string>SAS</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Édit promulgué par le tsar</string>
+			<string>SAS</string>
+			<string>OUKASE</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Plante herbacée</string>
+			<string>SAS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dans</string>
+			<string> Arbres à fruit</string>
+			<string>EN</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string>Dans</string>
+			<string>Vigile</string>
+			<string>EN</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Elle parle le persan</string>
+			<string>NEE</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string>  Pur</string>
+			<string>NEE</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Anneau de cordage</string>
+			<string>NEE</string>
+			<string>ERSEAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Du verbe être</string>
+			<string> Elles contiennent du poison</string>
+			<string>ES</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string>Du verbe être</string>
+			<string> Édit promulgué par le tsar</string>
+			<string>ES</string>
+			<string>OUKASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string> Indique la manière</string>
+			<string>EREINTA</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string> Arbres à fruit</string>
+			<string>EREINTA</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string> Vigile</string>
+			<string>EREINTA</string>
+			<string>GARDIENNE</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string> Fin de verbe</string>
+			<string>EREINTA</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string> Elle parle le persan</string>
+			<string>EREINTA</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string>  Pur</string>
+			<string>EREINTA</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string> Fatigua</string>
+			<string> Anneau de cordage</string>
+			<string>EREINTA</string>
+			<string>ERSEAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Roberts</string>
+			<string> Elles contiennent du poison</string>
+			<string>SEINS</string>
+			<string>VENENEUSES</string>
+		</array>
+		<array>
+			<string> Roberts</string>
+			<string> Édit promulgué par le tsar</string>
+			<string>SEINS</string>
+			<string>OUKASE</string>
+		</array>
+		<array>
+			<string> Roberts</string>
+			<string></string>
+			<string>SEINS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Roberts</string>
+			<string> Indique la manière</string>
+			<string>SEINS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Roberts</string>
+			<string> Arbres à fruit</string>
+			<string>SEINS</string>
+			<string>AVOCATIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Fin de verbe</string>
+			<string>RE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Elle parle le persan</string>
+			<string>RE</string>
+			<string>IRANIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Anneau de cordage</string>
+			<string>U</string>
+			<string>ERSEAU</string>
+		</array>
+	</array>
+</array>
+</plist>

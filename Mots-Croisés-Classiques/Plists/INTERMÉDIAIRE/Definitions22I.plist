@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Taciturne</string>
+			<string>Pantouflard</string>
+			<string>SILENCIEUX</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Le soleil lui a brulé les ailes</string>
+			<string>SILENCIEUX</string>
+			<string>ICARE</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Lawrencium</string>
+			<string>SILENCIEUX</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>SILENCIEUX</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string></string>
+			<string>SILENCIEUX</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Cela</string>
+			<string>SILENCIEUX</string>
+			<string>CA</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Entourées d&apos;eau</string>
+			<string>SILENCIEUX</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>École d&apos;urbanisme de Paris</string>
+			<string>SILENCIEUX</string>
+			<string>EUP</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Lierai</string>
+			<string>SILENCIEUX</string>
+			<string>UNIRAI</string>
+		</array>
+		<array>
+			<string>Taciturne</string>
+			<string>Xénon</string>
+			<string>SILENCIEUX</string>
+			<string>XE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Qui n&apos;est pas blanchi</string>
+			<string>Pantouflard</string>
+			<string>ECRU</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Qui n&apos;est pas blanchi</string>
+			<string>Le soleil lui a brulé les ailes</string>
+			<string>ECRU</string>
+			<string>ICARE</string>
+		</array>
+		<array>
+			<string>Qui n&apos;est pas blanchi</string>
+			<string>Lawrencium</string>
+			<string>ECRU</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string>Qui n&apos;est pas blanchi</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>ECRU</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rend imperméable</string>
+			<string>Cela</string>
+			<string>ALUNE</string>
+			<string>CA</string>
+		</array>
+		<array>
+			<string>Rend imperméable</string>
+			<string>Entourées d&apos;eau</string>
+			<string>ALUNE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Rend imperméable</string>
+			<string>École d&apos;urbanisme de Paris</string>
+			<string>ALUNE</string>
+			<string>EUP</string>
+		</array>
+		<array>
+			<string>Rend imperméable</string>
+			<string>Lierai</string>
+			<string>ALUNE</string>
+			<string>UNIRAI</string>
+		</array>
+		<array>
+			<string>Rend imperméable</string>
+			<string>Xénon</string>
+			<string>ALUNE</string>
+			<string>XE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dinar Algérien</string>
+			<string>Pantouflard</string>
+			<string>DA</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Dinar Algérien</string>
+			<string>Le soleil lui a brulé les ailes</string>
+			<string>DA</string>
+			<string>ICARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Démonstratif</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>CE</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>Démonstratif</string>
+			<string>À l&apos;intérieur</string>
+			<string>CE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mèche</string>
+			<string>Entourées d&apos;eau</string>
+			<string>EPI</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Mèche</string>
+			<string>École d&apos;urbanisme de Paris</string>
+			<string>EPI</string>
+			<string>EUP</string>
+		</array>
+		<array>
+			<string>Mèche</string>
+			<string>Lierai</string>
+			<string>EPI</string>
+			<string>UNIRAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vagabonds</string>
+			<string>Pantouflard</string>
+			<string>ERRANTS</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Vagabonds</string>
+			<string>Le soleil lui a brulé les ailes</string>
+			<string>ERRANTS</string>
+			<string>ICARE</string>
+		</array>
+		<array>
+			<string>Vagabonds</string>
+			<string>Prénom féminin</string>
+			<string>ERRANTS</string>
+			<string>RITA</string>
+		</array>
+		<array>
+			<string>Vagabonds</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>ERRANTS</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>Vagabonds</string>
+			<string>À l&apos;intérieur</string>
+			<string>ERRANTS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Vagabonds</string>
+			<string>Grillée</string>
+			<string>ERRANTS</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string>Vagabonds</string>
+			<string>Entourées d&apos;eau</string>
+			<string>ERRANTS</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rubidium</string>
+			<string>Lierai</string>
+			<string>RB</string>
+			<string>UNIRAI</string>
+		</array>
+		<array>
+			<string>Rubidium</string>
+			<string>Rapide</string>
+			<string>RB</string>
+			<string>BREVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prénom du premier homme sur la lune</string>
+			<string>Pantouflard</string>
+			<string>NEIL</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Prénom du premier homme sur la lune</string>
+			<string>Le soleil lui a brulé les ailes</string>
+			<string>NEIL</string>
+			<string>ICARE</string>
+		</array>
+		<array>
+			<string>Prénom du premier homme sur la lune</string>
+			<string>Prénom féminin</string>
+			<string>NEIL</string>
+			<string>RITA</string>
+		</array>
+		<array>
+			<string>Prénom du premier homme sur la lune</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>NEIL</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Grillée</string>
+			<string>O</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rivière de Suisse</string>
+			<string>Fruit à la pulpe sucrée</string>
+			<string>AAR</string>
+			<string>ANANAS</string>
+		</array>
+		<array>
+			<string>Rivière de Suisse</string>
+			<string>Lierai</string>
+			<string>AAR</string>
+			<string>UNIRAI</string>
+		</array>
+		<array>
+			<string>Rivière de Suisse</string>
+			<string>Rapide</string>
+			<string>AAR</string>
+			<string>BREVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Pantouflard</string>
+			<string>T</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Prénom féminin</string>
+			<string>TYRANNIE</string>
+			<string>RITA</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>TYRANNIE</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Crier</string>
+			<string>TYRANNIE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Grillée</string>
+			<string>TYRANNIE</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string></string>
+			<string>TYRANNIE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Fruit à la pulpe sucrée</string>
+			<string>TYRANNIE</string>
+			<string>ANANAS</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Lierai</string>
+			<string>TYRANNIE</string>
+			<string>UNIRAI</string>
+		</array>
+		<array>
+			<string>Abus de pouvoir</string>
+			<string>Rapide</string>
+			<string>TYRANNIE</string>
+			<string>BREVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Festins</string>
+			<string>Pantouflard</string>
+			<string>AGAPES</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Festins</string>
+			<string>Un triste son</string>
+			<string>AGAPES</string>
+			<string>GLAS</string>
+		</array>
+		<array>
+			<string>Festins</string>
+			<string>Prénom féminin</string>
+			<string>AGAPES</string>
+			<string>RITA</string>
+		</array>
+		<array>
+			<string>Festins</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>AGAPES</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>Festins</string>
+			<string>Crier</string>
+			<string>AGAPES</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Festins</string>
+			<string>Grillée</string>
+			<string>AGAPES</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fruit à la pulpe sucrée</string>
+			<string>A</string>
+			<string>ANANAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rapide</string>
+			<string>V</string>
+			<string>BREVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pronom</string>
+			<string>Pantouflard</string>
+			<string>IL</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Pronom</string>
+			<string>Un triste son</string>
+			<string>IL</string>
+			<string>GLAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>TETANIE</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Crier</string>
+			<string>TETANIE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Grillée</string>
+			<string>TETANIE</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Jonction du cheval</string>
+			<string>TETANIE</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Fruit à la pulpe sucrée</string>
+			<string>TETANIE</string>
+			<string>ANANAS</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Baie nippone</string>
+			<string>TETANIE</string>
+			<string>ISE</string>
+		</array>
+		<array>
+			<string>État pathologique</string>
+			<string>Rapide</string>
+			<string>TETANIE</string>
+			<string>BREVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rayeras</string>
+			<string>Pantouflard</string>
+			<string>RATURERAS</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Un triste son</string>
+			<string>RATURERAS</string>
+			<string>GLAS</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string></string>
+			<string>RATURERAS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>RATURERAS</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Crier</string>
+			<string>RATURERAS</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Grillée</string>
+			<string>RATURERAS</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Jonction du cheval</string>
+			<string>RATURERAS</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Fruit à la pulpe sucrée</string>
+			<string>RATURERAS</string>
+			<string>ANANAS</string>
+		</array>
+		<array>
+			<string>Rayeras</string>
+			<string>Baie nippone</string>
+			<string>RATURERAS</string>
+			<string>ISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Pantouflard</string>
+			<string>ES</string>
+			<string>SEDENTAIRE</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Un triste son</string>
+			<string>ES</string>
+			<string>GLAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ses feuilles sont odorantes</string>
+			<string>S</string>
+			<string>EUCALYPTUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ouvertures d&apos;un violon</string>
+			<string>Grillée</string>
+			<string>ESSES</string>
+			<string>TOASTEE</string>
+		</array>
+		<array>
+			<string>Ouvertures d&apos;un violon</string>
+			<string>Jonction du cheval</string>
+			<string>ESSES</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Ouvertures d&apos;un violon</string>
+			<string>Fruit à la pulpe sucrée</string>
+			<string>ESSES</string>
+			<string>ANANAS</string>
+		</array>
+		<array>
+			<string>Ouvertures d&apos;un violon</string>
+			<string>Baie nippone</string>
+			<string>ESSES</string>
+			<string>ISE</string>
+		</array>
+		<array>
+			<string>Ouvertures d&apos;un violon</string>
+			<string></string>
+			<string>ESSES</string>
+			<string>S</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Substances molles et grasses</string>
+			<string>VEHEMENCES</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Analyse</string>
+			<string>VEHEMENCES</string>
+			<string>ETUDE</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Ébouriffe</string>
+			<string>VEHEMENCES</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Grattins</string>
+			<string>VEHEMENCES</string>
+			<string>ELITES</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Origines</string>
+			<string>VEHEMENCES</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Du verbe être</string>
+			<string>VEHEMENCES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string></string>
+			<string>VEHEMENCES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Évènement, fait</string>
+			<string>VEHEMENCES</string>
+			<string>CAS</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string> Anneaux de cordage</string>
+			<string>VEHEMENCES</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Impétuosités</string>
+			<string></string>
+			<string>VEHEMENCES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Singes aux bras longs</string>
+			<string> Substances molles et grasses</string>
+			<string>ATELES</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Singes aux bras longs</string>
+			<string> Analyse</string>
+			<string>ATELES</string>
+			<string>ETUDE</string>
+		</array>
+		<array>
+			<string> Singes aux bras longs</string>
+			<string> Ébouriffe</string>
+			<string>ATELES</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string> Singes aux bras longs</string>
+			<string> Grattins</string>
+			<string>ATELES</string>
+			<string>ELITES</string>
+		</array>
+		<array>
+			<string> Singes aux bras longs</string>
+			<string> Origines</string>
+			<string>ATELES</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string> Singes aux bras longs</string>
+			<string> Du verbe être</string>
+			<string>ATELES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Évènement, fait</string>
+			<string>AR</string>
+			<string>CAS</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Anneaux de cordage</string>
+			<string>AR</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Devenir un peu aigre</string>
+			<string> Substances molles et grasses</string>
+			<string>SURIR</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Devenir un peu aigre</string>
+			<string> Analyse</string>
+			<string>SURIR</string>
+			<string>ETUDE</string>
+		</array>
+		<array>
+			<string> Devenir un peu aigre</string>
+			<string> Ébouriffe</string>
+			<string>SURIR</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string> Devenir un peu aigre</string>
+			<string> Grattins</string>
+			<string>SURIR</string>
+			<string>ELITES</string>
+		</array>
+		<array>
+			<string> Devenir un peu aigre</string>
+			<string> Origines</string>
+			<string>SURIR</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sorti</string>
+			<string> Nacrée</string>
+			<string>ISSU</string>
+			<string>IRISEE</string>
+		</array>
+		<array>
+			<string> Sorti</string>
+			<string> Évènement, fait</string>
+			<string>ISSU</string>
+			<string>CAS</string>
+		</array>
+		<array>
+			<string> Sorti</string>
+			<string> Anneaux de cordage</string>
+			<string>ISSU</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Sorti</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>ISSU</string>
+			<string>UR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string> Substances molles et grasses</string>
+			<string>EDITEUR</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string> Analyse</string>
+			<string>EDITEUR</string>
+			<string>ETUDE</string>
+		</array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string> Ébouriffe</string>
+			<string>EDITEUR</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string> Grattins</string>
+			<string>EDITEUR</string>
+			<string>ELITES</string>
+		</array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string> Origines</string>
+			<string>EDITEUR</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string></string>
+			<string>EDITEUR</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Assure la publication des livres</string>
+			<string> Nacrée</string>
+			<string>EDITEUR</string>
+			<string>IRISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Anneaux de cordage</string>
+			<string>ER</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>ER</string>
+			<string>UR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Blessés</string>
+			<string> Substances molles et grasses</string>
+			<string>LESES</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Analyse</string>
+			<string>LESES</string>
+			<string>ETUDE</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Ébouriffe</string>
+			<string>LESES</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Grattins</string>
+			<string>LESES</string>
+			<string>ELITES</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Origines</string>
+			<string>LESES</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Nacrée</string>
+			<string>ILS</string>
+			<string>IRISEE</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Faciles à doubler</string>
+			<string>ILS</string>
+			<string>LENTES</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Anneaux de cordage</string>
+			<string>ILS</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Substances molles et grasses</string>
+			<string>I</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Ébouriffe</string>
+			<string>SS</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Grattins</string>
+			<string>SS</string>
+			<string>ELITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Foyers</string>
+			<string>ASE</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Nacrée</string>
+			<string>ASE</string>
+			<string>IRISEE</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Faciles à doubler</string>
+			<string>ASE</string>
+			<string>LENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ouvres la fenêtre</string>
+			<string>A</string>
+			<string>AERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arrivée</string>
+			<string> Substances molles et grasses</string>
+			<string>NEE</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>NEE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Ébouriffe</string>
+			<string>NEE</string>
+			<string>HERISSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Allonge</string>
+			<string> Age</string>
+			<string>ETENDE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Allonge</string>
+			<string> Foyers</string>
+			<string>ETENDE</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Allonge</string>
+			<string> Nacrée</string>
+			<string>ETENDE</string>
+			<string>IRISEE</string>
+		</array>
+		<array>
+			<string> Allonge</string>
+			<string> Faciles à doubler</string>
+			<string>ETENDE</string>
+			<string>LENTES</string>
+		</array>
+		<array>
+			<string> Allonge</string>
+			<string> Petit cube </string>
+			<string>ETENDE</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Allonge</string>
+			<string> Ouvres la fenêtre</string>
+			<string>ETENDE</string>
+			<string>AERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant un titre universitaire</string>
+			<string> Substances molles et grasses</string>
+			<string>ES</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string>Avant un titre universitaire</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>ES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Petit lopin de terre</string>
+			<string>ARRETER</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Age</string>
+			<string>ARRETER</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Foyers</string>
+			<string>ARRETER</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Nacrée</string>
+			<string>ARRETER</string>
+			<string>IRISEE</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Faciles à doubler</string>
+			<string>ARRETER</string>
+			<string>LENTES</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Petit cube </string>
+			<string>ARRETER</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Stopper</string>
+			<string> Ouvres la fenêtre</string>
+			<string>ARRETER</string>
+			<string>AERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mesurée</string>
+			<string> Substances molles et grasses</string>
+			<string>STEREE</string>
+			<string>VASELINES</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>STEREE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Liaison</string>
+			<string>STEREE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Petit lopin de terre</string>
+			<string>STEREE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Age</string>
+			<string>STEREE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Foyers</string>
+			<string>STEREE</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Faciles à doubler</string>
+			<string>E</string>
+			<string>LENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ouvres la fenêtre</string>
+			<string>E</string>
+			<string>AERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>ETE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Liaison</string>
+			<string>ETE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Petit lopin de terre</string>
+			<string>ETE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Foyers</string>
+			<string>SISES</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string></string>
+			<string>SISES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Faciles à doubler</string>
+			<string>SISES</string>
+			<string>LENTES</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string></string>
+			<string>SISES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Ouvres la fenêtre</string>
+			<string>SISES</string>
+			<string>AERES</string>
+		</array>
+	</array>
+</array>
+</plist>

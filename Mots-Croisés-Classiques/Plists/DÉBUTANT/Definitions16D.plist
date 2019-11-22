@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Tourmentes</string>
+			<string>BRETELLES</string>
+			<string>BRIMES</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Renouvelées</string>
+			<string>BRETELLES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string></string>
+			<string>BRETELLES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Meurtriers</string>
+			<string>BRETELLES</string>
+			<string>TUEURS</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Infinitif</string>
+			<string>BRETELLES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Fatiguée</string>
+			<string>BRETELLES</string>
+			<string>LASSE</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Se soulèvent facilement</string>
+			<string>BRETELLES</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Extra terrestre</string>
+			<string>BRETELLES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Voies de raccordement</string>
+			<string> Boîtes à musique</string>
+			<string>BRETELLES</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Île de France</string>
+			<string> Tourmentes</string>
+			<string>RE</string>
+			<string>BRIMES</string>
+		</array>
+		<array>
+			<string> Île de France</string>
+			<string> Renouvelées</string>
+			<string>RE</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Meurtriers</string>
+			<string>URAETES</string>
+			<string>TUEURS</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Infinitif</string>
+			<string>URAETES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Fatiguée</string>
+			<string>URAETES</string>
+			<string>LASSE</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Se soulèvent facilement</string>
+			<string>URAETES</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Extra terrestre</string>
+			<string>URAETES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Boîtes à musique</string>
+			<string>URAETES</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Aigles d&apos;Australie</string>
+			<string> Transpirations</string>
+			<string>URAETES</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Gouffre naturel</string>
+			<string> Tourmentes</string>
+			<string>IGUE</string>
+			<string>BRIMES</string>
+		</array>
+		<array>
+			<string> Gouffre naturel</string>
+			<string> Renouvelées</string>
+			<string>IGUE</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Gouffre naturel</string>
+			<string> Première page</string>
+			<string>IGUE</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Gouffre naturel</string>
+			<string> Meurtriers</string>
+			<string>IGUE</string>
+			<string>TUEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Société générale</string>
+			<string> Fatiguée</string>
+			<string>SG</string>
+			<string>LASSE</string>
+		</array>
+		<array>
+			<string> Société générale</string>
+			<string> Se soulèvent facilement</string>
+			<string>SG</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petit ruisseau</string>
+			<string> Boîtes à musique</string>
+			<string>RU</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Petit ruisseau</string>
+			<string> Transpirations</string>
+			<string>RU</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Tourmentes</string>
+			<string>MENUISERIE</string>
+			<string>BRIMES</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Renouvelées</string>
+			<string>MENUISERIE</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Première page</string>
+			<string>MENUISERIE</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Meurtriers</string>
+			<string>MENUISERIE</string>
+			<string>TUEURS</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Aviné</string>
+			<string>MENUISERIE</string>
+			<string>IVRE</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Fatiguée</string>
+			<string>MENUISERIE</string>
+			<string>LASSE</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Se soulèvent facilement</string>
+			<string>MENUISERIE</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string></string>
+			<string>MENUISERIE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Boîtes à musique</string>
+			<string>MENUISERIE</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Travail du bois.</string>
+			<string> Transpirations</string>
+			<string>MENUISERIE</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Tourmentes</string>
+			<string>ENERVER</string>
+			<string>BRIMES</string>
+		</array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Renouvelées</string>
+			<string>ENERVER</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Première page</string>
+			<string>ENERVER</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Meurtriers</string>
+			<string>ENERVER</string>
+			<string>TUEURS</string>
+		</array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Aviné</string>
+			<string>ENERVER</string>
+			<string>IVRE</string>
+		</array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Fatiguée</string>
+			<string>ENERVER</string>
+			<string>LASSE</string>
+		</array>
+		<array>
+			<string> Exaspérer</string>
+			<string> Se soulèvent facilement</string>
+			<string>ENERVER</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Boîtes à musique</string>
+			<string>NE</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Transpirations</string>
+			<string>NE</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Tourmentes</string>
+			<string>SE</string>
+			<string>BRIMES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Renouvelées</string>
+			<string>SE</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Meurtriers</string>
+			<string>SR</string>
+			<string>TUEURS</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Aviné</string>
+			<string>SR</string>
+			<string>IVRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Se soulèvent facilement</string>
+			<string>ERES</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string></string>
+			<string>ERES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Boîtes à musique</string>
+			<string>ERES</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Transpirations</string>
+			<string>ERES</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Renseignements généraux</string>
+			<string> Renouvelées</string>
+			<string>RG</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Renseignements généraux</string>
+			<string> Ennui</string>
+			<string>RG</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Obtenus</string>
+			<string> Aviné</string>
+			<string>EUS</string>
+			<string>IVRE</string>
+		</array>
+		<array>
+			<string> Obtenus</string>
+			<string> Élimé</string>
+			<string>EUS</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Obtenus</string>
+			<string> Se soulèvent facilement</string>
+			<string>EUS</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Boîtes à musique</string>
+			<string>T</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Les golfeurs en ont toujours</string>
+			<string> Une ville du japon</string>
+			<string>TEES</string>
+			<string>TSU</string>
+		</array>
+		<array>
+			<string> Les golfeurs en ont toujours</string>
+			<string> Renouvelées</string>
+			<string>TEES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Les golfeurs en ont toujours</string>
+			<string> Ennui</string>
+			<string>TEES</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string> Les golfeurs en ont toujours</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string>TEES</string>
+			<string>SSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Élimé</string>
+			<string>S</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petit mot latin</string>
+			<string> Pronom personnel</string>
+			<string>ITE</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string> Petit mot latin</string>
+			<string> Boîtes à musique</string>
+			<string>ITE</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Petit mot latin</string>
+			<string> Est-Sud-est</string>
+			<string>ITE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Une ville du japon</string>
+			<string>SENSUELLES</string>
+			<string>TSU</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Renouvelées</string>
+			<string>SENSUELLES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Ennui</string>
+			<string>SENSUELLES</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string>SENSUELLES</string>
+			<string>SSE</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Coutumes</string>
+			<string>SENSUELLES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Élimé</string>
+			<string>SENSUELLES</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Article</string>
+			<string>SENSUELLES</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Pronom personnel</string>
+			<string>SENSUELLES</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Boîtes à musique</string>
+			<string>SENSUELLES</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Voluptueuses</string>
+			<string> Est-Sud-est</string>
+			<string>SENSUELLES</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Érodées</string>
+			<string> Une ville du japon</string>
+			<string>USEES</string>
+			<string>TSU</string>
+		</array>
+		<array>
+			<string> Érodées</string>
+			<string> Renouvelées</string>
+			<string>USEES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Érodées</string>
+			<string> Ennui</string>
+			<string>USEES</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string> Érodées</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string>USEES</string>
+			<string>SSE</string>
+		</array>
+		<array>
+			<string> Érodées</string>
+			<string> Coutumes</string>
+			<string>USEES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Article</string>
+			<string>ESSE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Pronom personnel</string>
+			<string>ESSE</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Boîtes à musique</string>
+			<string>ESSE</string>
+			<string>SERINETTES</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Est-Sud-est</string>
+			<string>ESSE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+</array>
+</plist>

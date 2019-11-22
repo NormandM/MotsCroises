@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Ornée</string>
+			<string>OREILLERS</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string>Filtre le sang</string>
+			<string>OREILLERS</string>
+			<string>REIN</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Étale</string>
+			<string>OREILLERS</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Fin de verbe</string>
+			<string>OREILLERS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>OREILLERS</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Dépôts</string>
+			<string>OREILLERS</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Lettre grec</string>
+			<string>OREILLERS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Guéris</string>
+			<string>OREILLERS</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> On y met notre tête</string>
+			<string> Séance</string>
+			<string>OREILLERS</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Retirées</string>
+			<string> Ornée</string>
+			<string>RETRAITEES</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string>Filtre le sang</string>
+			<string>RETRAITEES</string>
+			<string>REIN</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Étale</string>
+			<string>RETRAITEES</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Fin de verbe</string>
+			<string>RETRAITEES</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>RETRAITEES</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Dépôts</string>
+			<string>RETRAITEES</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Lettre grec</string>
+			<string>RETRAITEES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Guéris</string>
+			<string>RETRAITEES</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string> Séance</string>
+			<string>RETRAITEES</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string> Retirées</string>
+			<string></string>
+			<string>RETRAITEES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Refute</string>
+			<string> Ornée</string>
+			<string>NIE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Refute</string>
+			<string>Filtre le sang</string>
+			<string>NIE</string>
+			<string>REIN</string>
+		</array>
+		<array>
+			<string> Refute</string>
+			<string> Étale</string>
+			<string>NIE</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Équipes anglaises</string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>TEAMS</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string> Équipes anglaises</string>
+			<string> Dépôts</string>
+			<string>TEAMS</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string> Équipes anglaises</string>
+			<string> Lettre grec</string>
+			<string>TEAMS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Équipes anglaises</string>
+			<string> Guéris</string>
+			<string>TEAMS</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> Équipes anglaises</string>
+			<string> Séance</string>
+			<string>TEAMS</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Gênes</string>
+			<string> Ornée</string>
+			<string>ENNUIS</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Gênes</string>
+			<string>Filtre le sang</string>
+			<string>ENNUIS</string>
+			<string>REIN</string>
+		</array>
+		<array>
+			<string> Gênes</string>
+			<string> Étale</string>
+			<string>ENNUIS</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string> Gênes</string>
+			<string></string>
+			<string>ENNUIS</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Gênes</string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>ENNUIS</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string> Gênes</string>
+			<string> Dépôts</string>
+			<string>ENNUIS</string>
+			<string>LIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Guéris</string>
+			<string>ISE</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Séance</string>
+			<string>ISE</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Carburant</string>
+			<string>ISE</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ornée</string>
+			<string>M</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Étale</string>
+			<string>D</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>N</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Vieilles colères</string>
+			<string>ISIS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Guéris</string>
+			<string>ISIS</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Séance</string>
+			<string>ISIS</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string> Déesse égyptienne</string>
+			<string> Carburant</string>
+			<string>ISIS</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Ornée</string>
+			<string>ER</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Brament</string>
+			<string>ER</string>
+			<string>REENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Tondue</string>
+			<string>REER</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>REER</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Du verbe être.</string>
+			<string>REER</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Vieilles colères</string>
+			<string>REER</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Séance</string>
+			<string>OS</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Carburant</string>
+			<string>OS</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nuisible</string>
+			<string> Ornée</string>
+			<string>NEFASTE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Nuisible</string>
+			<string> Brament</string>
+			<string>NEFASTE</string>
+			<string>REENT</string>
+		</array>
+		<array>
+			<string> Nuisible</string>
+			<string> Fer</string>
+			<string>NEFASTE</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string> Nuisible</string>
+			<string> Tondue</string>
+			<string>NEFASTE</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Nuisible</string>
+			<string> Elles vivent au sud des États-Unis</string>
+			<string>NEFASTE</string>
+			<string>LATINES</string>
+		</array>
+		<array>
+			<string> Nuisible</string>
+			<string> Du verbe être.</string>
+			<string>NEFASTE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Nuisible</string>
+			<string> Vieilles colères</string>
+			<string>NEFASTE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Néon</string>
+			<string> Séance</string>
+			<string>NE</string>
+			<string>SESSION</string>
+		</array>
+		<array>
+			<string>Néon</string>
+			<string> Carburant</string>
+			<string>NE</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Ornée</string>
+			<string>TEES</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Brament</string>
+			<string>TEES</string>
+			<string>REENT</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Fer</string>
+			<string>TEES</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Tondue</string>
+			<string>TEES</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Du verbe être.</string>
+			<string>EST</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Vieilles colères</string>
+			<string>EST</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Le meilleur</string>
+			<string>EST</string>
+			<string>TOP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Carburant</string>
+			<string>N</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Ornée</string>
+			<string>EN</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Brament</string>
+			<string>EN</string>
+			<string>REENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Obtenus</string>
+			<string> Tondue</string>
+			<string>EUS</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Obtenus</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>EUS</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Obtenus</string>
+			<string> Du verbe être.</string>
+			<string>EUS</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jamais</string>
+			<string> Le meilleur</string>
+			<string>ONC</string>
+			<string>TOP</string>
+		</array>
+		<array>
+			<string> Jamais</string>
+			<string> Négation</string>
+			<string>ONC</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Jamais</string>
+			<string> Carburant</string>
+			<string>ONC</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Composé volatil</string>
+			<string> Ornée</string>
+			<string>ETHER</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Composé volatil</string>
+			<string> Brament</string>
+			<string>ETHER</string>
+			<string>REENT</string>
+		</array>
+		<array>
+			<string> Composé volatil</string>
+			<string></string>
+			<string>ETHER</string>
+			<string>H</string>
+		</array>
+		<array>
+			<string> Composé volatil</string>
+			<string> Tondue</string>
+			<string>ETHER</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Composé volatil</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>ETHER</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Portée par le chevalier</string>
+			<string></string>
+			<string>EPEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Portée par le chevalier</string>
+			<string> Le meilleur</string>
+			<string>EPEE</string>
+			<string>TOP</string>
+		</array>
+		<array>
+			<string> Portée par le chevalier</string>
+			<string> Négation</string>
+			<string>EPEE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Portée par le chevalier</string>
+			<string> Carburant</string>
+			<string>EPEE</string>
+			<string>ESSENCE</string>
+		</array>
+	</array>
+</array>
+</plist>

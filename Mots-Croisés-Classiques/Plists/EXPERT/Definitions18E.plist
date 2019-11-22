@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Essentiel</string>
+			<string>DUCOQALANE</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Seul les hommes y vont</string>
+			<string>DUCOQALANE</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Pied de vigne</string>
+			<string>DUCOQALANE</string>
+			<string>CEP</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> C&apos;était une armée</string>
+			<string>DUCOQALANE</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string></string>
+			<string>DUCOQALANE</string>
+			<string>Q</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Accords</string>
+			<string>DUCOQALANE</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Article</string>
+			<string>DUCOQALANE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Dévidoirs à soie</string>
+			<string>DUCOQALANE</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Refuter</string>
+			<string>DUCOQALANE</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> D&apos;un sujet à l&apos;autre</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>DUCOQALANE</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pour suspendre</string>
+			<string>E</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Essentiel</string>
+			<string>ERES</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Seul les hommes y vont</string>
+			<string>ERES</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Pied de vigne</string>
+			<string>ERES</string>
+			<string>CEP</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> C&apos;était une armée</string>
+			<string>ERES</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Accords</string>
+			<string>RESINES</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Article</string>
+			<string>RESINES</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Dévidoirs à soie</string>
+			<string>RESINES</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Refuter</string>
+			<string>RESINES</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>RESINES</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Directions</string>
+			<string>RESINES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Gommes</string>
+			<string> Pour suspendre</string>
+			<string>RESINES</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Parfait</string>
+			<string> Essentiel</string>
+			<string>TIPTOP</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> Parfait</string>
+			<string> Seul les hommes y vont</string>
+			<string>TIPTOP</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string> Parfait</string>
+			<string> Pied de vigne</string>
+			<string>TIPTOP</string>
+			<string>CEP</string>
+		</array>
+		<array>
+			<string> Parfait</string>
+			<string> C&apos;était une armée</string>
+			<string>TIPTOP</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Parfait</string>
+			<string> Conjonction</string>
+			<string>TIPTOP</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Parfait</string>
+			<string> Accords</string>
+			<string>TIPTOP</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pauvres paysans</string>
+			<string> Dévidoirs à soie</string>
+			<string>PEONS</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Pauvres paysans</string>
+			<string> Refuter</string>
+			<string>PEONS</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Pauvres paysans</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>PEONS</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string> Pauvres paysans</string>
+			<string> Directions</string>
+			<string>PEONS</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Pauvres paysans</string>
+			<string> Pour suspendre</string>
+			<string>PEONS</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans</string>
+			<string> Essentiel</string>
+			<string>EN</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Seul les hommes y vont</string>
+			<string>EN</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Conjonction</string>
+			<string>RETERSEE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Accords</string>
+			<string>RETERSEE</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Luth</string>
+			<string>RETERSEE</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Dévidoirs à soie</string>
+			<string>RETERSEE</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Refuter</string>
+			<string>RETERSEE</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>RETERSEE</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Directions</string>
+			<string>RETERSEE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Labourée quatre fois</string>
+			<string> Pour suspendre</string>
+			<string>RETERSEE</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> devenu rose</string>
+			<string> Essentiel</string>
+			<string>ROSI</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> devenu rose</string>
+			<string> Seul les hommes y vont</string>
+			<string>ROSI</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string> devenu rose</string>
+			<string></string>
+			<string>ROSI</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> devenu rose</string>
+			<string> Colères</string>
+			<string>ROSI</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Essence</string>
+			<string> Accords</string>
+			<string>GAS</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string> Essence</string>
+			<string> Luth</string>
+			<string>GAS</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string> Essence</string>
+			<string> Dévidoirs à soie</string>
+			<string>GAS</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Tumeur de l&apos;os</string>
+			<string>T</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pour suspendre</string>
+			<string>S</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note</string>
+			<string> Essentiel</string>
+			<string>MI</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Seul les hommes y vont</string>
+			<string>MI</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Colères</string>
+			<string>REER</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Patriarche biblique</string>
+			<string>REER</string>
+			<string>ENOCH</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Accords</string>
+			<string>REER</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Luth</string>
+			<string>REER</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écrivain de Boston</string>
+			<string> Lourde</string>
+			<string>POE</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string> Écrivain de Boston</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>POE</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string> Écrivain de Boston</string>
+			<string> Attendu avec impatience</string>
+			<string>POE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Relatifs à l&apos;oeil</string>
+			<string> Essentiel</string>
+			<string>IRIENS</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> Relatifs à l&apos;oeil</string>
+			<string> Seul les hommes y vont</string>
+			<string>IRIENS</string>
+			<string>URINOIR</string>
+		</array>
+		<array>
+			<string> Relatifs à l&apos;oeil</string>
+			<string> Col des Alpes</string>
+			<string>IRIENS</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Relatifs à l&apos;oeil</string>
+			<string> Colères</string>
+			<string>IRIENS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Relatifs à l&apos;oeil</string>
+			<string> Patriarche biblique</string>
+			<string>IRIENS</string>
+			<string>ENOCH</string>
+		</array>
+		<array>
+			<string> Relatifs à l&apos;oeil</string>
+			<string> Accords</string>
+			<string>IRIENS</string>
+			<string>ARPEGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Résidu</string>
+			<string> Met apprécié qui vient du veau</string>
+			<string>RESTE</string>
+			<string>RIS</string>
+		</array>
+		<array>
+			<string> Résidu</string>
+			<string> Lourde</string>
+			<string>RESTE</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string> Résidu</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>RESTE</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string> Résidu</string>
+			<string> Attendu avec impatience</string>
+			<string>RESTE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Résidu</string>
+			<string> Souhaite</string>
+			<string>RESTE</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Essentiel</string>
+			<string>N</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Col des Alpes</string>
+			<string>SSO</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Colères</string>
+			<string>SSO</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Patriarche biblique</string>
+			<string>SSO</string>
+			<string>ENOCH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sans peine</string>
+			<string></string>
+			<string>AISEES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Sans peine</string>
+			<string> Met apprécié qui vient du veau</string>
+			<string>AISEES</string>
+			<string>RIS</string>
+		</array>
+		<array>
+			<string> Sans peine</string>
+			<string> Lourde</string>
+			<string>AISEES</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string> Sans peine</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>AISEES</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string> Sans peine</string>
+			<string> Attendu avec impatience</string>
+			<string>AISEES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Sans peine</string>
+			<string> Souhaite</string>
+			<string>AISEES</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Essentiel</string>
+			<string>ARE</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Dieu Egyptien</string>
+			<string>ARE</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Col des Alpes</string>
+			<string>ARE</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Patriarche biblique</string>
+			<string>CS</string>
+			<string>ENOCH</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Fromage</string>
+			<string>CS</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Met apprécié qui vient du veau</string>
+			<string>SAS</string>
+			<string>RIS</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Lourde</string>
+			<string>SAS</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Tumeur de l&apos;os</string>
+			<string>SAS</string>
+			<string>ENOSTOSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souhaite</string>
+			<string>P</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Essentiel</string>
+			<string>NARTHEX</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Dieu Egyptien</string>
+			<string>NARTHEX</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Col des Alpes</string>
+			<string>NARTHEX</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Demi mouche</string>
+			<string>NARTHEX</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Patriarche biblique</string>
+			<string>NARTHEX</string>
+			<string>ENOCH</string>
+		</array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Fromage</string>
+			<string>NARTHEX</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Vestibule d&apos;une église</string>
+			<string> Xénon</string>
+			<string>NARTHEX</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lourde</string>
+			<string>N</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Toujours présent au départ</string>
+			<string>TE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Souhaite</string>
+			<string>TE</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Essentiel</string>
+			<string>T</string>
+			<string>DETERMINANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie de bronze ou de cuivre</string>
+			<string> Col des Alpes</string>
+			<string>AS</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Monnaie de bronze ou de cuivre</string>
+			<string> Demi mouche</string>
+			<string>AS</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Fromage</string>
+			<string>RENTIER</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Xénon</string>
+			<string>RENTIER</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Souvent un caprice</string>
+			<string>RENTIER</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Lourde</string>
+			<string>RENTIER</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Fin de verbe</string>
+			<string>RENTIER</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Toujours présent au départ</string>
+			<string>RENTIER</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Vit sans travailler</string>
+			<string> Souhaite</string>
+			<string>RENTIER</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string></string>
+			<string>GNETE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Col des Alpes</string>
+			<string>GNETE</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Demi mouche</string>
+			<string>GNETE</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string></string>
+			<string>GNETE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Fromage</string>
+			<string>GNETE</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Souvent un caprice</string>
+			<string>AEREE</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Lourde</string>
+			<string>AEREE</string>
+			<string>PESANTE</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Fin de verbe</string>
+			<string>AEREE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Toujours présent au départ</string>
+			<string>AEREE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Souhaite</string>
+			<string>AEREE</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+</array>
+</plist>

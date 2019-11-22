@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Thérapies </string>
+			<string>ENTRECHOQUER</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Petit cigare</string>
+			<string>ENTRECHOQUER</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Partie de la bride</string>
+			<string>ENTRECHOQUER</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>ENTRECHOQUER</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Levant</string>
+			<string>ENTRECHOQUER</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string></string>
+			<string>ENTRECHOQUER</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Récemment</string>
+			<string>ENTRECHOQUER</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Lac des Pyrénées</string>
+			<string>ENTRECHOQUER</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Pronom relatif</string>
+			<string>ENTRECHOQUER</string>
+			<string>QUI</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Éruption</string>
+			<string>ENTRECHOQUER</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> Du verbe être</string>
+			<string>ENTRECHOQUER</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Faire avec les verres pour porter un toast</string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>ENTRECHOQUER</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nouées</string>
+			<string> Thérapies </string>
+			<string>LIEES</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Nouées</string>
+			<string> Petit cigare</string>
+			<string>LIEES</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Nouées</string>
+			<string> Partie de la bride</string>
+			<string>LIEES</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Nouées</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>LIEES</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string> Nouées</string>
+			<string> Levant</string>
+			<string>LIEES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tente circulaire</string>
+			<string> Récemment</string>
+			<string>IOURTE</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string> Tente circulaire</string>
+			<string> Lac des Pyrénées</string>
+			<string>IOURTE</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string> Tente circulaire</string>
+			<string> Pronom relatif</string>
+			<string>IOURTE</string>
+			<string>QUI</string>
+		</array>
+		<array>
+			<string> Tente circulaire</string>
+			<string> Éruption</string>
+			<string>IOURTE</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Tente circulaire</string>
+			<string> Du verbe être</string>
+			<string>IOURTE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Tente circulaire</string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>IOURTE</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Têtue </string>
+			<string> Thérapies </string>
+			<string>ENTETEE</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Petit cigare</string>
+			<string>ENTETEE</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Partie de la bride</string>
+			<string>ENTETEE</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>ENTETEE</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Levant</string>
+			<string>ENTETEE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Étaler</string>
+			<string>ENTETEE</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Récemment</string>
+			<string>ENTETEE</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Élément</string>
+			<string> Pronom relatif</string>
+			<string>ITEM</string>
+			<string>QUI</string>
+		</array>
+		<array>
+			<string> Élément</string>
+			<string> Éruption</string>
+			<string>ITEM</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Élément</string>
+			<string> Du verbe être</string>
+			<string>ITEM</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Élément</string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>ITEM</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Le premier meurtrier</string>
+			<string> Thérapies </string>
+			<string>CAIN</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Le premier meurtrier</string>
+			<string> Petit cigare</string>
+			<string>CAIN</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Le premier meurtrier</string>
+			<string> Partie de la bride</string>
+			<string>CAIN</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Le premier meurtrier</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>CAIN</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ordre</string>
+			<string> Étaler</string>
+			<string>TRI</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Ordre</string>
+			<string> Récemment</string>
+			<string>TRI</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string> Ordre</string>
+			<string> Colères</string>
+			<string>TRI</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Éruption</string>
+			<string>ISE</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Du verbe être</string>
+			<string>ISE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>ISE</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une mouche</string>
+			<string> Thérapies </string>
+			<string>TSETSE</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Une mouche</string>
+			<string> Petit cigare</string>
+			<string>TSETSE</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Une mouche</string>
+			<string> Partie de la bride</string>
+			<string>TSETSE</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Une mouche</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>TSETSE</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string> Une mouche</string>
+			<string> Connu</string>
+			<string>TSETSE</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string> Une mouche</string>
+			<string> Étaler</string>
+			<string>TSETSE</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Très solide</string>
+			<string> Colères</string>
+			<string>ROC</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Très solide</string>
+			<string></string>
+			<string>ROC</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Très solide</string>
+			<string> Éruption</string>
+			<string>ROC</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>D</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Thérapies </string>
+			<string>R</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Annexée</string>
+			<string> Partie de la bride</string>
+			<string>REUNIE</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Annexée</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>REUNIE</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string> Annexée</string>
+			<string> Connu</string>
+			<string>REUNIE</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string> Annexée</string>
+			<string> Étaler</string>
+			<string>REUNIE</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Annexée</string>
+			<string></string>
+			<string>REUNIE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Annexée</string>
+			<string> Colères</string>
+			<string>REUNIE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Résine</string>
+			<string> Éruption</string>
+			<string>ASE</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Résine</string>
+			<string> Graines</string>
+			<string>ASE</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string> Résine</string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>ASE</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Compétition sportive</string>
+			<string> Thérapies </string>
+			<string>OPEN</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Compétition sportive</string>
+			<string> Accalmies</string>
+			<string>OPEN</string>
+			<string>PAUSES</string>
+		</array>
+		<array>
+			<string> Compétition sportive</string>
+			<string> Partie de la bride</string>
+			<string>OPEN</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Compétition sportive</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>OPEN</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Étaler</string>
+			<string>D</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Colères</string>
+			<string>SAIES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Ne boit plus</string>
+			<string>SAIES</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Éruption</string>
+			<string>SAIES</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Graines</string>
+			<string>SAIES</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> On espère qu&apos;ils sont efficaces</string>
+			<string>SAIES</string>
+			<string>REMEDES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Cela</string>
+			<string> Thérapies </string>
+			<string>CA</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Cela</string>
+			<string> Accalmies</string>
+			<string>CA</string>
+			<string>PAUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se reposes</string>
+			<string> Il n&apos;avait pas compris</string>
+			<string>DORS</string>
+			<string>REENTEND</string>
+		</array>
+		<array>
+			<string> Se reposes</string>
+			<string> Dehors!</string>
+			<string>DORS</string>
+			<string>OUST</string>
+		</array>
+		<array>
+			<string> Se reposes</string>
+			<string> Étaler</string>
+			<string>DORS</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Se reposes</string>
+			<string> Séparateur</string>
+			<string>DORS</string>
+			<string>SLASH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jonction du cheval</string>
+			<string> Ne boit plus</string>
+			<string>ARS</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string> Jonction du cheval</string>
+			<string> Éruption</string>
+			<string>ARS</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Jonction du cheval</string>
+			<string> Graines</string>
+			<string>ARS</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Crie</string>
+			<string> Thérapies </string>
+			<string>HUE</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Accalmies</string>
+			<string>HUE</string>
+			<string>PAUSES</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Écourte une liste</string>
+			<string>HUE</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Dehors!</string>
+			<string>UELE</string>
+			<string>OUST</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Étaler</string>
+			<string>UELE</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Séparateur</string>
+			<string>UELE</string>
+			<string>SLASH</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Infinitif</string>
+			<string>UELE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Onde</string>
+			<string> Éruption</string>
+			<string>EAU</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string> Onde</string>
+			<string> Graines</string>
+			<string>EAU</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string> Onde</string>
+			<string> Avant les autres</string>
+			<string>EAU</string>
+			<string>UNS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Hôpitaux</string>
+			<string> Thérapies </string>
+			<string>OSTOS</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Hôpitaux</string>
+			<string> Accalmies</string>
+			<string>OSTOS</string>
+			<string>PAUSES</string>
+		</array>
+		<array>
+			<string> Hôpitaux</string>
+			<string> Écourte une liste</string>
+			<string>OSTOS</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string> Hôpitaux</string>
+			<string> Elle a son pas</string>
+			<string>OSTOS</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string> Hôpitaux</string>
+			<string> Dehors!</string>
+			<string>OSTOS</string>
+			<string>OUST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Séparateur</string>
+			<string>ARE</string>
+			<string>SLASH</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Infinitif</string>
+			<string>ARE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Orientation</string>
+			<string>ARE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Graines</string>
+			<string>MN</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Avant les autres</string>
+			<string>MN</string>
+			<string>UNS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Thérapies </string>
+			<string>CECITES</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Accalmies</string>
+			<string>CECITES</string>
+			<string>PAUSES</string>
+		</array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Écourte une liste</string>
+			<string>CECITES</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Elle a son pas</string>
+			<string>CECITES</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Dehors!</string>
+			<string>CECITES</string>
+			<string>OUST</string>
+		</array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Début d&apos;écho</string>
+			<string>CECITES</string>
+			<string>EC</string>
+		</array>
+		<array>
+			<string> Aveuglements</string>
+			<string> Séparateur</string>
+			<string>CECITES</string>
+			<string>SLASH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Orientation</string>
+			<string>NEES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Indique la manière</string>
+			<string>NEES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Graines</string>
+			<string>NEES</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Avant les autres</string>
+			<string>NEES</string>
+			<string>UNS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Police nazi</string>
+			<string> Thérapies </string>
+			<string>SS</string>
+			<string>ELECTROCHOCS</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Accalmies</string>
+			<string>SS</string>
+			<string>PAUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Elle a son pas</string>
+			<string>E</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Au bout de la laisse</string>
+			<string> Début d&apos;écho</string>
+			<string>CHIENS</string>
+			<string>EC</string>
+		</array>
+		<array>
+			<string> Au bout de la laisse</string>
+			<string> Séparateur</string>
+			<string>CHIENS</string>
+			<string>SLASH</string>
+		</array>
+		<array>
+			<string> Au bout de la laisse</string>
+			<string></string>
+			<string>CHIENS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Au bout de la laisse</string>
+			<string> Orientation</string>
+			<string>CHIENS</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Au bout de la laisse</string>
+			<string> Indique la manière</string>
+			<string>CHIENS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Au bout de la laisse</string>
+			<string> Graines</string>
+			<string>CHIENS</string>
+			<string>SESAMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

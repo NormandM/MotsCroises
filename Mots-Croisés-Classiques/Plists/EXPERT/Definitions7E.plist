@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>SANSCULOTTE</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Imitée une civilisation</string>
+			<string>SANSCULOTTE</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Nickel</string>
+			<string>SANSCULOTTE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Se protège avec de l'encre</string>
+			<string>SANSCULOTTE</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Il y en a de plus en plus</string>
+			<string>SANSCULOTTE</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string></string>
+			<string>SANSCULOTTE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Article</string>
+			<string>SANSCULOTTE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> N’est pas donné</string>
+			<string>SANSCULOTTE</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Puissantes entreprises</string>
+			<string>SANSCULOTTE</string>
+			<string>TRUSTS</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>SANSCULOTTE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Acteur de la Révolution française</string>
+			<string> Indique la manière</string>
+			<string>SANSCULOTTE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fragmentée</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>EMIEE</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Fragmentée</string>
+			<string> Imitée une civilisation</string>
+			<string>EMIEE</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Fragmentée</string>
+			<string> Nickel</string>
+			<string>EMIEE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Fragmentée</string>
+			<string> Se protège avec de l'encre</string>
+			<string>EMIEE</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string> Fragmentée</string>
+			<string> Il y en a de plus en plus</string>
+			<string>EMIEE</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Article</string>
+			<string>ENRENE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> N’est pas donné</string>
+			<string>ENRENE</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Puissantes entreprises</string>
+			<string>ENRENE</string>
+			<string>TRUSTS</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>ENRENE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Indique la manière</string>
+			<string>ENRENE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Donc plus longues</string>
+			<string>ENRENE</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article partitif</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>DE</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Article partitif</string>
+			<string> Imitée une civilisation</string>
+			<string>DE</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Incorporée</string>
+			<string> Se protège avec de l'encre</string>
+			<string>INC</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string> Incorporée</string>
+			<string> Il y en a de plus en plus</string>
+			<string>INC</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Incorporée</string>
+			<string> Démonstratif</string>
+			<string>INC</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> N’est pas donné</string>
+			<string>EUE</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Puissantes entreprises</string>
+			<string>EUE</string>
+			<string>TRUSTS</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>EUE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Donc plus longues</string>
+			<string>T</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>ERECTEURS</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Imitée une civilisation</string>
+			<string>ERECTEURS</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Début d'écho</string>
+			<string>ERECTEURS</string>
+			<string>EC</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Se protège avec de l'encre</string>
+			<string>ERECTEURS</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Il y en a de plus en plus</string>
+			<string>ERECTEURS</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Démonstratif</string>
+			<string>ERECTEURS</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Utilise</string>
+			<string>ERECTEURS</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> N’est pas donné</string>
+			<string>ERECTEURS</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string> Peuvent être des muscles</string>
+			<string> Puissantes entreprises</string>
+			<string>ERECTEURS</string>
+			<string>TRUSTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Désintoxiquer</string>
+			<string>SI</string>
+			<string>SEVRER</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Donc plus longues</string>
+			<string>SI</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petit abri</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>NICHE</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Petit abri</string>
+			<string> Imitée une civilisation</string>
+			<string>NICHE</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Petit abri</string>
+			<string> Début d'écho</string>
+			<string>NICHE</string>
+			<string>EC</string>
+		</array>
+		<array>
+			<string> Petit abri</string>
+			<string> Se protège avec de l'encre</string>
+			<string>NICHE</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string> Petit abri</string>
+			<string> Il y en a de plus en plus</string>
+			<string>NICHE</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ancienne mesure pour les grains</string>
+			<string> Utilise</string>
+			<string>SETIER</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Ancienne mesure pour les grains</string>
+			<string> N’est pas donné</string>
+			<string>SETIER</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string> Ancienne mesure pour les grains</string>
+			<string> Puissantes entreprises</string>
+			<string>SETIER</string>
+			<string>TRUSTS</string>
+		</array>
+		<array>
+			<string> Ancienne mesure pour les grains</string>
+			<string></string>
+			<string>SETIER</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Ancienne mesure pour les grains</string>
+			<string> Désintoxiquer</string>
+			<string>SETIER</string>
+			<string>SEVRER</string>
+		</array>
+		<array>
+			<string> Ancienne mesure pour les grains</string>
+			<string> Donc plus longues</string>
+			<string>SETIER</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Technétium</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>TC</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Technétium</string>
+			<string> Imitée une civilisation</string>
+			<string>TC</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Niches funéraires à fond plat</string>
+			<string> Se protège avec de l'encre</string>
+			<string>ENFEUS</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string> Niches funéraires à fond plat</string>
+			<string> Il y en a de plus en plus</string>
+			<string>ENFEUS</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Niches funéraires à fond plat</string>
+			<string> Confie</string>
+			<string>ENFEUS</string>
+			<string>FIE</string>
+		</array>
+		<array>
+			<string> Niches funéraires à fond plat</string>
+			<string> Utilise</string>
+			<string>ENFEUS</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Niches funéraires à fond plat</string>
+			<string> N’est pas donné</string>
+			<string>ENFEUS</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string> Niches funéraires à fond plat</string>
+			<string> Puissantes entreprises</string>
+			<string>ENFEUS</string>
+			<string>TRUSTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cale</string>
+			<string> Désintoxiquer</string>
+			<string>VE</string>
+			<string>SEVRER</string>
+		</array>
+		<array>
+			<string> Cale</string>
+			<string> Donc plus longues</string>
+			<string>VE</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>AAR</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Imitée une civilisation</string>
+			<string>AAR</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Fossé tectonique</string>
+			<string>AAR</string>
+			<string>RIFT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Il y en a de plus en plus</string>
+			<string>AI</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Confie</string>
+			<string>AI</string>
+			<string>FIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> N’est pas donné</string>
+			<string>X</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Plus courte</string>
+			<string>ERE</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Désintoxiquer</string>
+			<string>ERE</string>
+			<string>SEVRER</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Donc plus longues</string>
+			<string>ERE</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enseigner</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>INITIER</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Enseigner</string>
+			<string> Imitée une civilisation</string>
+			<string>INITIER</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Enseigner</string>
+			<string> Fossé tectonique</string>
+			<string>INITIER</string>
+			<string>RIFT</string>
+		</array>
+		<array>
+			<string> Enseigner</string>
+			<string></string>
+			<string>INITIER</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Enseigner</string>
+			<string> Il y en a de plus en plus</string>
+			<string>INITIER</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Enseigner</string>
+			<string> Confie</string>
+			<string>INITIER</string>
+			<string>FIE</string>
+		</array>
+		<array>
+			<string> Enseigner</string>
+			<string> Île de France</string>
+			<string>INITIER</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Plante herbacée</string>
+			<string>ETES</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Plus courte</string>
+			<string>ETES</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Désintoxiquer</string>
+			<string>ETES</string>
+			<string>SEVRER</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Donc plus longues</string>
+			<string>ETES</string>
+			<string>ETIREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Bagarre</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>RIF</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Bagarre</string>
+			<string> Imitée une civilisation</string>
+			<string>RIF</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Bagarre</string>
+			<string> Fossé tectonique</string>
+			<string>RIF</string>
+			<string>RIFT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Il y en a de plus en plus</string>
+			<string>R</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Île de France</string>
+			<string>ERRER</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Cris</string>
+			<string>ERRER</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Plante herbacée</string>
+			<string>ERRER</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Plus courte</string>
+			<string>ERRER</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Désintoxiquer</string>
+			<string>ERRER</string>
+			<string>SEVRER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>ESTHER</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Imitée une civilisation</string>
+			<string>ESTHER</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Fossé tectonique</string>
+			<string>ESTHER</string>
+			<string>RIFT</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Dynastie chinoise</string>
+			<string>ESTHER</string>
+			<string>HAN</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Il y en a de plus en plus</string>
+			<string>ESTHER</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Rigole</string>
+			<string>ESTHER</string>
+			<string>RIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Cris</string>
+			<string>EST</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Plante herbacée</string>
+			<string>EST</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Plus courte</string>
+			<string>EST</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaie du Japon</string>
+			<string>S</string>
+			<string>SEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Ils ne sont pas des voyageurs</string>
+			<string>SE</string>
+			<string>SEDENTAIRES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Imitée une civilisation</string>
+			<string>SE</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Relative à l'âne</string>
+			<string> Dynastie chinoise</string>
+			<string>ASINE</string>
+			<string>HAN</string>
+		</array>
+		<array>
+			<string> Relative à l'âne</string>
+			<string> Il y en a de plus en plus</string>
+			<string>ASINE</string>
+			<string>CENTENAIRES</string>
+		</array>
+		<array>
+			<string> Relative à l'âne</string>
+			<string> Rigole</string>
+			<string>ASINE</string>
+			<string>RIE</string>
+		</array>
+		<array>
+			<string> Relative à l'âne</string>
+			<string> Neptunium</string>
+			<string>ASINE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Relative à l'âne</string>
+			<string> Cris</string>
+			<string>ASINE</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Plus courte</string>
+			<string>ETE</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Titane</string>
+			<string>ETE</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Monnaie du Japon</string>
+			<string>ETE</string>
+			<string>SEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Agent secret de Louis XV</string>
+			<string> Imitée une civilisation</string>
+			<string>EON</string>
+			<string>AMERICANISEE</string>
+		</array>
+		<array>
+			<string> Agent secret de Louis XV</string>
+			<string></string>
+			<string>EON</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Agent secret de Louis XV</string>
+			<string> Dynastie chinoise</string>
+			<string>EON</string>
+			<string>HAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string> Rigole</string>
+			<string>EPSTEIN</string>
+			<string>RIE</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string> Neptunium</string>
+			<string>EPSTEIN</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string> Cris</string>
+			<string>EPSTEIN</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string></string>
+			<string>EPSTEIN</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string> Plus courte</string>
+			<string>EPSTEIN</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string> Titane</string>
+			<string>EPSTEIN</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Cinéaste français</string>
+			<string> Monnaie du Japon</string>
+			<string>EPSTEIN</string>
+			<string>SEN</string>
+		</array>
+	</array>
+</array>
+</plist>

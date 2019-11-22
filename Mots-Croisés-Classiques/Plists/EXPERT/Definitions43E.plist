@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Pâtes</string>
+			<string> Ténacité</string>
+			<string>PAPPARDELLES</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Spéculation malhonnête</string>
+			<string>PAPPARDELLES</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Sorties</string>
+			<string>PAPPARDELLES</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Collas</string>
+			<string>PAPPARDELLES</string>
+			<string>PATAS</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Exprime la douleur</string>
+			<string>PAPPARDELLES</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Symbole chimique</string>
+			<string>PAPPARDELLES</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Relative à une détérioration</string>
+			<string>PAPPARDELLES</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Infinitif</string>
+			<string>PAPPARDELLES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string></string>
+			<string>PAPPARDELLES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string>  Général sudiste</string>
+			<string>PAPPARDELLES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Rodent</string>
+			<string>PAPPARDELLES</string>
+			<string>ERRENT</string>
+		</array>
+		<array>
+			<string> Pâtes</string>
+			<string> Terme de tennis</string>
+			<string>PAPPARDELLES</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Détacher</string>
+			<string> Ténacité</string>
+			<string>EGRAINER</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Spéculation malhonnête</string>
+			<string>EGRAINER</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Sorties</string>
+			<string>EGRAINER</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Collas</string>
+			<string>EGRAINER</string>
+			<string>PATAS</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Exprime la douleur</string>
+			<string>EGRAINER</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Symbole chimique</string>
+			<string>EGRAINER</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Relative à une détérioration</string>
+			<string>EGRAINER</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Détacher</string>
+			<string> Infinitif</string>
+			<string>EGRAINER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Subdivision, seconde par durée après l&apos;éon</string>
+			<string>  Général sudiste</string>
+			<string>ERE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Subdivision, seconde par durée après l&apos;éon</string>
+			<string> Rodent</string>
+			<string>ERE</string>
+			<string>ERRENT</string>
+		</array>
+		<array>
+			<string> Subdivision, seconde par durée après l&apos;éon</string>
+			<string> Terme de tennis</string>
+			<string>ERE</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rit un peu</string>
+			<string> Ténacité</string>
+			<string>RIOTE</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Rit un peu</string>
+			<string> Spéculation malhonnête</string>
+			<string>RIOTE</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Rit un peu</string>
+			<string> Sorties</string>
+			<string>RIOTE</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Rit un peu</string>
+			<string> Collas</string>
+			<string>RIOTE</string>
+			<string>PATAS</string>
+		</array>
+		<array>
+			<string> Rit un peu</string>
+			<string> Exprime la douleur</string>
+			<string>RIOTE</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Relative à une détérioration</string>
+			<string>G</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Connu</string>
+			<string>SERT</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string>  Général sudiste</string>
+			<string>SERT</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Rodent</string>
+			<string>SERT</string>
+			<string>ERRENT</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Terme de tennis</string>
+			<string>SERT</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ensemble des cellules non sexuelles</string>
+			<string> Ténacité</string>
+			<string>SOMA</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Ensemble des cellules non sexuelles</string>
+			<string> Spéculation malhonnête</string>
+			<string>SOMA</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Ensemble des cellules non sexuelles</string>
+			<string> Sorties</string>
+			<string>SOMA</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Ensemble des cellules non sexuelles</string>
+			<string> Collas</string>
+			<string>SOMA</string>
+			<string>PATAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sécurité sociale</string>
+			<string> Possessif</string>
+			<string>SECU</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Sécurité sociale</string>
+			<string> Relative à une détérioration</string>
+			<string>SECU</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Sécurité sociale</string>
+			<string> Symbole chimique</string>
+			<string>SECU</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Sécurité sociale</string>
+			<string> Connu</string>
+			<string>SECU</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Rodent</string>
+			<string>E</string>
+			<string>ERRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vents</string>
+			<string> Ténacité</string>
+			<string>ETESIENS</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Spéculation malhonnête</string>
+			<string>ETESIENS</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Sorties</string>
+			<string>ETESIENS</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Collas</string>
+			<string>ETESIENS</string>
+			<string>PATAS</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Négatif ou positif</string>
+			<string>ETESIENS</string>
+			<string>ION</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Possessif</string>
+			<string>ETESIENS</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Relative à une détérioration</string>
+			<string>ETESIENS</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Vents</string>
+			<string> Symbole chimique</string>
+			<string>ETESIENS</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fractions de siècle</string>
+			<string> Enzyme</string>
+			<string>ANS</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Fractions de siècle</string>
+			<string> Rodent</string>
+			<string>ANS</string>
+			<string>ERRENT</string>
+		</array>
+		<array>
+			<string> Fractions de siècle</string>
+			<string></string>
+			<string>ANS</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Panier à fond plat</string>
+			<string> Ténacité</string>
+			<string>VAN</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Panier à fond plat</string>
+			<string> Spéculation malhonnête</string>
+			<string>VAN</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Panier à fond plat</string>
+			<string> Sorties</string>
+			<string>VAN</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> N&apos;hésite pas</string>
+			<string> Négatif ou positif</string>
+			<string>OSE</string>
+			<string>ION</string>
+		</array>
+		<array>
+			<string> N&apos;hésite pas</string>
+			<string> Possessif</string>
+			<string>OSE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> N&apos;hésite pas</string>
+			<string> Relative à une détérioration</string>
+			<string>OSE</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Six mois après Noël</string>
+			<string>EST</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Enzyme</string>
+			<string>EST</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Rodent</string>
+			<string>EST</string>
+			<string>ERRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Qui concerne des pays baignés par une mer</string>
+			<string> Ténacité</string>
+			<string>EGEEN</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string>Qui concerne des pays baignés par une mer</string>
+			<string> Spéculation malhonnête</string>
+			<string>EGEEN</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string>Qui concerne des pays baignés par une mer</string>
+			<string> Sorties</string>
+			<string>EGEEN</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string>Qui concerne des pays baignés par une mer</string>
+			<string> Membre d&apos;une école de philosophie</string>
+			<string>EGEEN</string>
+			<string>ELEATE</string>
+		</array>
+		<array>
+			<string>Qui concerne des pays baignés par une mer</string>
+			<string> Négatif ou positif</string>
+			<string>EGEEN</string>
+			<string>ION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un perdant</string>
+			<string> Relative à une détérioration</string>
+			<string>RATE</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Un perdant</string>
+			<string> Sans peine</string>
+			<string>RATE</string>
+			<string>AISEES</string>
+		</array>
+		<array>
+			<string> Un perdant</string>
+			<string> Six mois après Noël</string>
+			<string>RATE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Un perdant</string>
+			<string> Enzyme</string>
+			<string>RATE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Repaires</string>
+			<string>A</string>
+			<string>ANTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vrai</string>
+			<string> Ténacité</string>
+			<string>REEL</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Spéculation malhonnête</string>
+			<string>REEL</string>
+			<string>AGIOTAGE</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Sorties</string>
+			<string>REEL</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Membre d&apos;une école de philosophie</string>
+			<string>REEL</string>
+			<string>ELEATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Poisson osseux</string>
+			<string>SAIE</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Relative à une détérioration</string>
+			<string>SAIE</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Sans peine</string>
+			<string>SAIE</string>
+			<string>AISEES</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Six mois après Noël</string>
+			<string>SAIE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Indivisible</string>
+			<string> Coutumes</string>
+			<string>UN</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Indivisible</string>
+			<string> Repaires</string>
+			<string>UN</string>
+			<string>ANTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ténacité</string>
+			<string>A</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Sorties</string>
+			<string>SENATS</string>
+			<string>PROMENEES</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Membre d&apos;une école de philosophie</string>
+			<string>SENATS</string>
+			<string>ELEATE</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Sortie</string>
+			<string>SENATS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Poisson osseux</string>
+			<string>SENATS</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Relative à une détérioration</string>
+			<string>SENATS</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Sans peine</string>
+			<string>SENATS</string>
+			<string>AISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> C&apos;était une armée</string>
+			<string> Risquée</string>
+			<string>OST</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string> C&apos;était une armée</string>
+			<string> Coutumes</string>
+			<string>OST</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> C&apos;était une armée</string>
+			<string> Repaires</string>
+			<string>OST</string>
+			<string>ANTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Ténacité</string>
+			<string>NE</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Plante herbacée</string>
+			<string>NE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string> Membre d&apos;une école de philosophie</string>
+			<string>AERIENS</string>
+			<string>ELEATE</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string> Sortie</string>
+			<string>AERIENS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string> Poisson osseux</string>
+			<string>AERIENS</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string> Relative à une détérioration</string>
+			<string>AERIENS</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string> Sans peine</string>
+			<string>AERIENS</string>
+			<string>AISEES</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string></string>
+			<string>AERIENS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Vaporeux</string>
+			<string> Risquée</string>
+			<string>AERIENS</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Repaires</string>
+			<string>R</string>
+			<string>ANTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Excroissance charnue</string>
+			<string> Ténacité</string>
+			<string>CRETE</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Excroissance charnue</string>
+			<string> Plante herbacée</string>
+			<string>CRETE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Excroissance charnue</string>
+			<string> Conjonction</string>
+			<string>CRETE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Excroissance charnue</string>
+			<string> Membre d&apos;une école de philosophie</string>
+			<string>CRETE</string>
+			<string>ELEATE</string>
+		</array>
+		<array>
+			<string> Excroissance charnue</string>
+			<string> Sortie</string>
+			<string>CRETE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cale</string>
+			<string> Relative à une détérioration</string>
+			<string>VE</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Cale</string>
+			<string> Sans peine</string>
+			<string>VE</string>
+			<string>AISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Risquée</string>
+			<string>ESE</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Pronom</string>
+			<string>ESE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Repaires</string>
+			<string>ESE</string>
+			<string>ANTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Ténacité</string>
+			<string>ESTE</string>
+			<string>PERSEVERANCE</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Plante herbacée</string>
+			<string>ESTE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Conjonction</string>
+			<string>ESTE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Membre d&apos;une école de philosophie</string>
+			<string>ESTE</string>
+			<string>ELEATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string></string>
+			<string>RESTEES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string> Relative à une détérioration</string>
+			<string>RESTEES</string>
+			<string>DEGENERATIVE</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string> Sans peine</string>
+			<string>RESTEES</string>
+			<string>AISEES</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string></string>
+			<string>RESTEES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string> Risquée</string>
+			<string>RESTEES</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string> Pronom</string>
+			<string>RESTEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Demeurées</string>
+			<string> Repaires</string>
+			<string>RESTEES</string>
+			<string>ANTRES</string>
+		</array>
+	</array>
+</array>
+</plist>

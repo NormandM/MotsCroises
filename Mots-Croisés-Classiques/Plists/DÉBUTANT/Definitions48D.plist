@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Désinfectée</string>
+			<string>SCENARISES</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>SCENARISES</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Un film de Spielberg</string>
+			<string>SCENARISES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Relatif au noyau</string>
+			<string>SCENARISES</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Rudiments d&apos;un métier</string>
+			<string>SCENARISES</string>
+			<string>ABC</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Îles de France</string>
+			<string>SCENARISES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> On y parle Persan</string>
+			<string>SCENARISES</string>
+			<string>IRAN</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Monnaie du Japon</string>
+			<string>SCENARISES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Éduque</string>
+			<string>SCENARISES</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Introduits un scénario</string>
+			<string> Virage sur la neige</string>
+			<string>SCENARISES</string>
+			<string>STEM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Désinfectée</string>
+			<string>TITUBERENT</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>TITUBERENT</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Un film de Spielberg</string>
+			<string>TITUBERENT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Relatif au noyau</string>
+			<string>TITUBERENT</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Rudiments d&apos;un métier</string>
+			<string>TITUBERENT</string>
+			<string>ABC</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Îles de France</string>
+			<string>TITUBERENT</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> On y parle Persan</string>
+			<string>TITUBERENT</string>
+			<string>IRAN</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Monnaie du Japon</string>
+			<string>TITUBERENT</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Éduque</string>
+			<string>TITUBERENT</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Vacillèrent</string>
+			<string> Virage sur la neige</string>
+			<string>TITUBERENT</string>
+			<string>STEM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans un titre universitaire</string>
+			<string> Désinfectée</string>
+			<string>ES</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Dans un titre universitaire</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>ES</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Centimètre cube</string>
+			<string> Relatif au noyau</string>
+			<string>CC</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Centimètre cube</string>
+			<string> Rudiments d&apos;un métier</string>
+			<string>CC</string>
+			<string>ABC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poignée</string>
+			<string> On y parle Persan</string>
+			<string>ANSE</string>
+			<string>IRAN</string>
+		</array>
+		<array>
+			<string> Poignée</string>
+			<string> Monnaie du Japon</string>
+			<string>ANSE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Poignée</string>
+			<string> Éduque</string>
+			<string>ANSE</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Poignée</string>
+			<string> Virage sur la neige</string>
+			<string>ANSE</string>
+			<string>STEM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie du Brésil</string>
+			<string> Désinfectée</string>
+			<string>REAL</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Monnaie du Brésil</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>REAL</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Monnaie du Brésil</string>
+			<string> Paresseux</string>
+			<string>REAL</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string> Monnaie du Brésil</string>
+			<string> Relatif au noyau</string>
+			<string>REAL</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> En vogue</string>
+			<string> Plantes lacustres</string>
+			<string>IN</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string> En vogue</string>
+			<string> On y parle Persan</string>
+			<string>IN</string>
+			<string>IRAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Éduque</string>
+			<string>EM</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Virage sur la neige</string>
+			<string>EM</string>
+			<string>STEM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Insulaires</string>
+			<string> Désinfectée</string>
+			<string>ILIENS</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Insulaires</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>ILIENS</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Insulaires</string>
+			<string> Paresseux</string>
+			<string>ILIENS</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string> Insulaires</string>
+			<string> Relatif au noyau</string>
+			<string>ILIENS</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Insulaires</string>
+			<string> Notre-Dame</string>
+			<string>ILIENS</string>
+			<string>ND</string>
+		</array>
+		<array>
+			<string> Insulaires</string>
+			<string> Plantes lacustres</string>
+			<string>ILIENS</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus que trois moins que quatre</string>
+			<string></string>
+			<string>PI</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Plus que trois moins que quatre</string>
+			<string> Éduque</string>
+			<string>PI</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Désinfectée</string>
+			<string>LE</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>LE</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Relatif au noyau</string>
+			<string>ADOS</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Notre-Dame</string>
+			<string>ADOS</string>
+			<string>ND</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Plantes lacustres</string>
+			<string>ADOS</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Strontium.</string>
+			<string>ADOS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jeu chinois</string>
+			<string> Éduque</string>
+			<string>GO</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Jeu chinois</string>
+			<string> Un organe fragile mais essential</string>
+			<string>GO</string>
+			<string>OEIL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Marcherai</string>
+			<string> Désinfectée</string>
+			<string>IRAI</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Marcherai</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>IRAI</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Marcherai</string>
+			<string> Air Canada</string>
+			<string>IRAI</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Marcherai</string>
+			<string> Relatif au noyau</string>
+			<string>IRAI</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Plantes lacustres</string>
+			<string>ERINE</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Strontium.</string>
+			<string>ERINE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Parfois reliées par un pont</string>
+			<string>ERINE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Éduque</string>
+			<string>ERINE</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Un organe fragile mais essential</string>
+			<string>ERINE</string>
+			<string>OEIL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Confidentiel</string>
+			<string> Désinfectée</string>
+			<string>SECRET</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Confidentiel</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>SECRET</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Confidentiel</string>
+			<string> Air Canada</string>
+			<string>SECRET</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Confidentiel</string>
+			<string> Relatif au noyau</string>
+			<string>SECRET</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Confidentiel</string>
+			<string> Évite la répétition</string>
+			<string>SECRET</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string> Confidentiel</string>
+			<string> Plantes lacustres</string>
+			<string>SECRET</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie de la Roumanie</string>
+			<string> Parfois reliées par un pont</string>
+			<string>LEI</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Monnaie de la Roumanie</string>
+			<string> Éduque</string>
+			<string>LEI</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Monnaie de la Roumanie</string>
+			<string> Un organe fragile mais essential</string>
+			<string>LEI</string>
+			<string>OEIL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Désinfectée</string>
+			<string>EN</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>EN</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Relatif au noyau</string>
+			<string>ETETE</string>
+			<string>NUCLEAIRE</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Évite la répétition</string>
+			<string>ETETE</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Plantes lacustres</string>
+			<string>ETETE</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string></string>
+			<string>ETETE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Parfois reliées par un pont</string>
+			<string>ETETE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Un organe fragile mais essential</string>
+			<string>L</string>
+			<string>OEIL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Désinfectée</string>
+			<string>ETE</string>
+			<string>STERILISEE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Travaillèrent minutieusement</string>
+			<string>ETE</string>
+			<string>CISELERENT</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string></string>
+			<string>ETE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Césium</string>
+			<string> Évite la répétition</string>
+			<string>CS</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string> Césium</string>
+			<string> Plantes lacustres</string>
+			<string>CS</string>
+			<string>ISOETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Parfois reliées par un pont</string>
+			<string>SE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string></string>
+			<string>SE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

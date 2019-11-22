@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Recueillement</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>MEDITATION</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Brillant</string>
+			<string>MEDITATION</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Décalitre</string>
+			<string>MEDITATION</string>
+			<string>DAL</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Partie de l&apos;intestin (pl)</string>
+			<string>MEDITATION</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Prise</string>
+			<string>MEDITATION</string>
+			<string>TENUE</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Armes</string>
+			<string>MEDITATION</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string></string>
+			<string>MEDITATION</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Fin de verbe</string>
+			<string>MEDITATION</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string> Jamais</string>
+			<string>MEDITATION</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string> Recueillement</string>
+			<string></string>
+			<string>MEDITATION</string>
+			<string>N</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tartiner</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>ETALER</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Tartiner</string>
+			<string> Brillant</string>
+			<string>ETALER</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> Tartiner</string>
+			<string> Décalitre</string>
+			<string>ETALER</string>
+			<string>DAL</string>
+		</array>
+		<array>
+			<string> Tartiner</string>
+			<string> Partie de l&apos;intestin (pl)</string>
+			<string>ETALER</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string> Tartiner</string>
+			<string> Prise</string>
+			<string>ETALER</string>
+			<string>TENUE</string>
+		</array>
+		<array>
+			<string> Tartiner</string>
+			<string> Armes</string>
+			<string>ETALER</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Fin de verbe</string>
+			<string>RN</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Jamais</string>
+			<string>RN</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Paix et calme</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>SILENCE</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Paix et calme</string>
+			<string> Brillant</string>
+			<string>SILENCE</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> Paix et calme</string>
+			<string> Décalitre</string>
+			<string>SILENCE</string>
+			<string>DAL</string>
+		</array>
+		<array>
+			<string> Paix et calme</string>
+			<string> Partie de l&apos;intestin (pl)</string>
+			<string>SILENCE</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string> Paix et calme</string>
+			<string> Prise</string>
+			<string>SILENCE</string>
+			<string>TENUE</string>
+		</array>
+		<array>
+			<string> Paix et calme</string>
+			<string> Armes</string>
+			<string>SILENCE</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string> Paix et calme</string>
+			<string>Liaison</string>
+			<string>SILENCE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Jamais</string>
+			<string>CE</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Mèche</string>
+			<string>CE</string>
+			<string>EPI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>EN</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Brillant</string>
+			<string>EN</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Partie de l&apos;intestin (pl)</string>
+			<string>OUSTE</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Prise</string>
+			<string>OUSTE</string>
+			<string>TENUE</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Armes</string>
+			<string>OUSTE</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string>Liaison</string>
+			<string>OUSTE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Un film de Spielberg</string>
+			<string>OUSTE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mèche</string>
+			<string>P</string>
+			<string>EPI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>SCENE</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Brillant</string>
+			<string>SCENE</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Palmier</string>
+			<string>SCENE</string>
+			<string>ELEIS</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Partie de l&apos;intestin (pl)</string>
+			<string>SCENE</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string> Dispute bruyante</string>
+			<string> Prise</string>
+			<string>SCENE</string>
+			<string>TENUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Un film de Spielberg</string>
+			<string>TRI</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Vraie</string>
+			<string>TRI</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Mèche</string>
+			<string>TRI</string>
+			<string>EPI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Semblables</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>TELS</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Semblables</string>
+			<string> Brillant</string>
+			<string>TELS</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> Semblables</string>
+			<string> Palmier</string>
+			<string>TELS</string>
+			<string>ELEIS</string>
+		</array>
+		<array>
+			<string> Semblables</string>
+			<string> Partie de l&apos;intestin (pl)</string>
+			<string>TELS</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Platine</string>
+			<string> Autrefois l&apos;Iran</string>
+			<string>PT</string>
+			<string>PERSE</string>
+		</array>
+		<array>
+			<string> Platine</string>
+			<string> Classées</string>
+			<string>PT</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vraie</string>
+			<string>E</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Capri</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>ILE</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Brillant</string>
+			<string>ILE</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Palmier</string>
+			<string>ILE</string>
+			<string>ELEIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Labourée trois fois</string>
+			<string></string>
+			<string>TERSEE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Labourée trois fois</string>
+			<string> Autrefois l&apos;Iran</string>
+			<string>TERSEE</string>
+			<string>PERSE</string>
+		</array>
+		<array>
+			<string>Labourée trois fois</string>
+			<string> Classées</string>
+			<string>TERSEE</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Labourée trois fois</string>
+			<string></string>
+			<string>TERSEE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Labourée trois fois</string>
+			<string> Vraie</string>
+			<string>TERSEE</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string>Labourée trois fois</string>
+			<string>  Espaces de temps.</string>
+			<string>TERSEE</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On mange son épi</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>MAIS</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> On mange son épi</string>
+			<string> Brillant</string>
+			<string>MAIS</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> On mange son épi</string>
+			<string> Palmier</string>
+			<string>MAIS</string>
+			<string>ELEIS</string>
+		</array>
+		<array>
+			<string> On mange son épi</string>
+			<string></string>
+			<string>MAIS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Autrefois l&apos;Iran</string>
+			<string>RI</string>
+			<string>PERSE</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Classées</string>
+			<string>RI</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lawrencium</string>
+			<string> Vraie</string>
+			<string>LR</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Lawrencium</string>
+			<string>  Espaces de temps.</string>
+			<string>LR</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>ENS</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Brillant</string>
+			<string>ENS</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Palmier</string>
+			<string>ENS</string>
+			<string>ELEIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petit cloporte d&apos;eau douce</string>
+			<string> Aluminium</string>
+			<string>ASELLE</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string> Petit cloporte d&apos;eau douce</string>
+			<string> Autrefois l&apos;Iran</string>
+			<string>ASELLE</string>
+			<string>PERSE</string>
+		</array>
+		<array>
+			<string> Petit cloporte d&apos;eau douce</string>
+			<string> Classées</string>
+			<string>ASELLE</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string> Petit cloporte d&apos;eau douce</string>
+			<string> Article</string>
+			<string>ASELLE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Petit cloporte d&apos;eau douce</string>
+			<string> Vraie</string>
+			<string>ASELLE</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Petit cloporte d&apos;eau douce</string>
+			<string>  Espaces de temps.</string>
+			<string>ASELLE</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abréviation</string>
+			<string> Ne pas jugés à sa juste valeur</string>
+			<string>ST</string>
+			<string>MESESTIMES</string>
+		</array>
+		<array>
+			<string> Abréviation</string>
+			<string> Brillant</string>
+			<string>ST</string>
+			<string>ETINCELANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string></string>
+			<string>ALESEES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Aluminium</string>
+			<string>ALESEES</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Autrefois l&apos;Iran</string>
+			<string>ALESEES</string>
+			<string>PERSE</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Classées</string>
+			<string>ALESEES</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Article</string>
+			<string>ALESEES</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Vraie</string>
+			<string>ALESEES</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string>  Espaces de temps.</string>
+			<string>ALESEES</string>
+			<string>ERES</string>
+		</array>
+	</array>
+</array>
+</plist>

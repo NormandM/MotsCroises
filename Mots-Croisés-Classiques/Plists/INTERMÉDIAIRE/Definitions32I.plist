@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Cri de chat</string>
+			<string>MONTAGNARD</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Une ou des personnes indéfinies</string>
+			<string>MONTAGNARD</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Indigènes</string>
+			<string>MONTAGNARD</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Traumatisme crânien</string>
+			<string>MONTAGNARD</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Il est imprévu</string>
+			<string>MONTAGNARD</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Ils sont rares en été</string>
+			<string>MONTAGNARD</string>
+			<string>GELS</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Neptunium</string>
+			<string>MONTAGNARD</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Touche</string>
+			<string>MONTAGNARD</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Dignitaire de l'empire Ottoman</string>
+			<string>MONTAGNARD</string>
+			<string>REIS</string>
+		</array>
+		<array>
+			<string>Un sherpa par exemple</string>
+			<string>Terme de belote</string>
+			<string>MONTAGNARD</string>
+			<string>DER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rejetée</string>
+			<string>Cri de chat</string>
+			<string>INACCEPTEE</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Une ou des personnes indéfinies</string>
+			<string>INACCEPTEE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Indigènes</string>
+			<string>INACCEPTEE</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Traumatisme crânien</string>
+			<string>INACCEPTEE</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Il est imprévu</string>
+			<string>INACCEPTEE</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Ils sont rares en été</string>
+			<string>INACCEPTEE</string>
+			<string>GELS</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Neptunium</string>
+			<string>INACCEPTEE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Touche</string>
+			<string>INACCEPTEE</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Dignitaire de l'empire Ottoman</string>
+			<string>INACCEPTEE</string>
+			<string>REIS</string>
+		</array>
+		<array>
+			<string>Rejetée</string>
+			<string>Terme de belote</string>
+			<string>INACCEPTEE</string>
+			<string>DER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Cri de chat</string>
+			<string>A</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Indigènes</string>
+			<string>T</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mesure de volume</string>
+			<string>Il est imprévu</string>
+			<string>CL</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Mesure de volume</string>
+			<string>Ils sont rares en été</string>
+			<string>CL</string>
+			<string>GELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il y a des champs pour s'y exercer</string>
+			<string>Touche</string>
+			<string>TIR</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Il y a des champs pour s'y exercer</string>
+			<string>Dignitaire de l'empire Ottoman</string>
+			<string>TIR</string>
+			<string>REIS</string>
+		</array>
+		<array>
+			<string>Il y a des champs pour s'y exercer</string>
+			<string>Terme de belote</string>
+			<string>TIR</string>
+			<string>DER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Employées</string>
+			<string>Cri de chat</string>
+			<string>UTILISEES</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Grave maladie</string>
+			<string>UTILISEES</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Indigènes</string>
+			<string>UTILISEES</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string></string>
+			<string>UTILISEES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Il est imprévu</string>
+			<string>UTILISEES</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Ils sont rares en été</string>
+			<string>UTILISEES</string>
+			<string>GELS</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Infinitif</string>
+			<string>UTILISEES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Touche</string>
+			<string>UTILISEES</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Employées</string>
+			<string>Dignitaire de l'empire Ottoman</string>
+			<string>UTILISEES</string>
+			<string>REIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Monnaie bulgare</string>
+			<string>Cri de chat</string>
+			<string>LEV</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Monnaie bulgare</string>
+			<string>Grave maladie</string>
+			<string>LEV</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string>Monnaie bulgare</string>
+			<string>Indigènes</string>
+			<string>LEV</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Il est imprévu</string>
+			<string>D</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rigolé</string>
+			<string>Infinitif</string>
+			<string>RI</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Rigolé</string>
+			<string>Touche</string>
+			<string>RI</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Métamorphose</string>
+			<string>M</string>
+			<string>MUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Écimer</string>
+			<string>Cri de chat</string>
+			<string>ETETER</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Écimer</string>
+			<string>Grave maladie</string>
+			<string>ETETER</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string>Écimer</string>
+			<string>Indigènes</string>
+			<string>ETETER</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string>Écimer</string>
+			<string></string>
+			<string>ETETER</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Écimer</string>
+			<string>Il est imprévu</string>
+			<string>ETETER</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Écimer</string>
+			<string>Les abeilles y vivent</string>
+			<string>ETETER</string>
+			<string>RUCHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grossesse extra-utérine</string>
+			<string>Touche</string>
+			<string>GEU</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Grossesse extra-utérine</string>
+			<string>Nouvelles</string>
+			<string>GEU</string>
+			<string>ECHOS</string>
+		</array>
+		<array>
+			<string>Grossesse extra-utérine</string>
+			<string>Métamorphose</string>
+			<string>GEU</string>
+			<string>MUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Maison rurale de Provence</string>
+			<string>Cri de chat</string>
+			<string>MAS</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Maison rurale de Provence</string>
+			<string>Grave maladie</string>
+			<string>MAS</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string>Maison rurale de Provence</string>
+			<string>Indigènes</string>
+			<string>MAS</string>
+			<string>NATIVES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Subtilité</string>
+			<string>Il est imprévu</string>
+			<string>NUANCE</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Subtilité</string>
+			<string>Les abeilles y vivent</string>
+			<string>NUANCE</string>
+			<string>RUCHE</string>
+		</array>
+		<array>
+			<string>Subtilité</string>
+			<string></string>
+			<string>NUANCE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Subtilité</string>
+			<string>Touche</string>
+			<string>NUANCE</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Subtilité</string>
+			<string>Nouvelles</string>
+			<string>NUANCE</string>
+			<string>ECHOS</string>
+		</array>
+		<array>
+			<string>Subtilité</string>
+			<string>Métamorphose</string>
+			<string>NUANCE</string>
+			<string>MUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Cri de chat</string>
+			<string>EN</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Grave maladie</string>
+			<string>EN</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Écourte une liste</string>
+			<string>Point Cardinal</string>
+			<string>ETC</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Écourte une liste</string>
+			<string>Il est imprévu</string>
+			<string>ETC</string>
+			<string>ACCIDENT</string>
+		</array>
+		<array>
+			<string>Écourte une liste</string>
+			<string>Les abeilles y vivent</string>
+			<string>ETC</string>
+			<string>RUCHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Touche</string>
+			<string>EH</string>
+			<string>ATTEIGNE</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Nouvelles</string>
+			<string>EH</string>
+			<string>ECHOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Patronymes</string>
+			<string>Cri de chat</string>
+			<string>NOMS</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Patronymes</string>
+			<string>Grave maladie</string>
+			<string>NOMS</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string>Patronymes</string>
+			<string>Pronom personnel</string>
+			<string>NOMS</string>
+			<string>ME</string>
+		</array>
+		<array>
+			<string>Patronymes</string>
+			<string>Point Cardinal</string>
+			<string>NOMS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Répéter et c'est le rire</string>
+			<string>Les abeilles y vivent</string>
+			<string>HI</string>
+			<string>RUCHE</string>
+		</array>
+		<array>
+			<string>Répéter et c'est le rire</string>
+			<string></string>
+			<string>HI</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ennui</string>
+			<string>Nouvelles</string>
+			<string>OS</string>
+			<string>ECHOS</string>
+		</array>
+		<array>
+			<string>Ennui</string>
+			<string>Abréviation</string>
+			<string>OS</string>
+			<string>ST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Cri de chat</string>
+			<string>TSETSE</string>
+			<string>MIAULEMENT</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Grave maladie</string>
+			<string>TSETSE</string>
+			<string>TETANOS</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Pronom personnel</string>
+			<string>TSETSE</string>
+			<string>ME</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Point Cardinal</string>
+			<string>TSETSE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string></string>
+			<string>TSETSE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Les abeilles y vivent</string>
+			<string>TSETSE</string>
+			<string>RUCHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Armée du Moyen-Âge</string>
+			<string></string>
+			<string>OST</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Armée du Moyen-Âge</string>
+			<string>Nouvelles</string>
+			<string>OST</string>
+			<string>ECHOS</string>
+		</array>
+		<array>
+			<string>Armée du Moyen-Âge</string>
+			<string>Abréviation</string>
+			<string>OST</string>
+			<string>ST</string>
+		</array>
+	</array>
+</array>
+</plist>

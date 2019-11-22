@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Amplement</string>
+			<string> Fanaux</string>
+			<string>LONGUEMENT</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Mammifère marin</string>
+			<string>LONGUEMENT</string>
+			<string>OTARIE</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string></string>
+			<string>LONGUEMENT</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Crevasser</string>
+			<string>LONGUEMENT</string>
+			<string>GERCER</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Première page</string>
+			<string>LONGUEMENT</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Du verbe être.</string>
+			<string>LONGUEMENT</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Petit oiseau</string>
+			<string>LONGUEMENT</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Liaison</string>
+			<string>LONGUEMENT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Vers aquatiques</string>
+			<string>LONGUEMENT</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Amplement</string>
+			<string> Contraction</string>
+			<string>LONGUEMENT</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Astate</string>
+			<string> Fanaux</string>
+			<string>AT</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Astate</string>
+			<string> Mammifère marin</string>
+			<string>AT</string>
+			<string>OTARIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Crevasser</string>
+			<string>ENTETEE</string>
+			<string>GERCER</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Première page</string>
+			<string>ENTETEE</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Du verbe être.</string>
+			<string>ENTETEE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Petit oiseau</string>
+			<string>ENTETEE</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Liaison</string>
+			<string>ENTETEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Vers aquatiques</string>
+			<string>ENTETEE</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Têtue </string>
+			<string> Contraction</string>
+			<string>ENTETEE</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Irisées</string>
+			<string> Fanaux</string>
+			<string>NACREES</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Irisées</string>
+			<string> Mammifère marin</string>
+			<string>NACREES</string>
+			<string>OTARIE</string>
+		</array>
+		<array>
+			<string> Irisées</string>
+			<string></string>
+			<string>NACREES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Irisées</string>
+			<string> Crevasser</string>
+			<string>NACREES</string>
+			<string>GERCER</string>
+		</array>
+		<array>
+			<string> Irisées</string>
+			<string> Première page</string>
+			<string>NACREES</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Irisées</string>
+			<string> Du verbe être.</string>
+			<string>NACREES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Irisées</string>
+			<string> Petit oiseau</string>
+			<string>NACREES</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Vers aquatiques</string>
+			<string>MN</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Contraction</string>
+			<string>MN</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tour</string>
+			<string> Fanaux</string>
+			<string>TR</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Mammifère marin</string>
+			<string>TR</string>
+			<string>OTARIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crevasser</string>
+			<string>C</string>
+			<string>GERCER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Du verbe être.</string>
+			<string>SAIES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Petit oiseau</string>
+			<string>SAIES</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> De déesse à vache</string>
+			<string>SAIES</string>
+			<string>IO</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Vers aquatiques</string>
+			<string>SAIES</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Petites brosses de soie</string>
+			<string> Contraction</string>
+			<string>SAIES</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Fanaux</string>
+			<string>EIDER</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Mammifère marin</string>
+			<string>EIDER</string>
+			<string>OTARIE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Terme de belote</string>
+			<string>EIDER</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Crevasser</string>
+			<string>EIDER</string>
+			<string>GERCER</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string></string>
+			<string>EIDER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enveloppe de sushi</string>
+			<string> Petit oiseau</string>
+			<string>NORI</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string> Enveloppe de sushi</string>
+			<string> De déesse à vache</string>
+			<string>NORI</string>
+			<string>IO</string>
+		</array>
+		<array>
+			<string> Enveloppe de sushi</string>
+			<string> Vers aquatiques</string>
+			<string>NORI</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Enveloppe de sushi</string>
+			<string> Contraction</string>
+			<string>NORI</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Fanaux</string>
+			<string>REER</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Mammifère marin</string>
+			<string>REER</string>
+			<string>OTARIE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Terme de belote</string>
+			<string>REER</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Crevasser</string>
+			<string>REER</string>
+			<string>GERCER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mercure</string>
+			<string> Marque l'hésitation</string>
+			<string>HG</string>
+			<string>HEU</string>
+		</array>
+		<array>
+			<string> Mercure</string>
+			<string> Petit oiseau</string>
+			<string>HG</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Téraoctet</string>
+			<string> Vers aquatiques</string>
+			<string>TO</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Téraoctet</string>
+			<string> Contraction</string>
+			<string>TO</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Fanaux</string>
+			<string>N</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Terme de belote</string>
+			<string>R</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Amas</string>
+			<string>TEE</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Marque l'hésitation</string>
+			<string>TEE</string>
+			<string>HEU</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Petit oiseau</string>
+			<string>TEE</string>
+			<string>MESANGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Vers aquatiques</string>
+			<string>EN</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Contraction</string>
+			<string>EN</string>
+			<string>TENSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Fanaux</string>
+			<string>ER</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Crie comme un cerf</string>
+			<string>ER</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Recouvre 72% de la terre</string>
+			<string> Plus à l'est qu'au nord</string>
+			<string>EAU</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Recouvre 72% de la terre</string>
+			<string> Amas</string>
+			<string>EAU</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string> Recouvre 72% de la terre</string>
+			<string> Marque l'hésitation</string>
+			<string>EAU</string>
+			<string>HEU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> On ne peut vivre sans lui</string>
+			<string>AS</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Vers aquatiques</string>
+			<string>AS</string>
+			<string>NEMERTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Poitrines</string>
+			<string> Fanaux</string>
+			<string>SEINS</string>
+			<string>LANTERNES</string>
+		</array>
+		<array>
+			<string> Poitrines</string>
+			<string> Crie comme un cerf</string>
+			<string>SEINS</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Poitrines</string>
+			<string> Fin de verbe</string>
+			<string>SEINS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Poitrines</string>
+			<string> Plus à l'est qu'au nord</string>
+			<string>SEINS</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Poitrines</string>
+			<string> Amas</string>
+			<string>SEINS</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Pronom</string>
+			<string>SI</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> On ne peut vivre sans lui</string>
+			<string>SI</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Règle</string>
+			<string>T</string>
+			<string>TE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période de temps</string>
+			<string> Crie comme un cerf</string>
+			<string>ERE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Période de temps</string>
+			<string> Fin de verbe</string>
+			<string>ERE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Période de temps</string>
+			<string> Plus à l'est qu'au nord</string>
+			<string>ERE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string></string>
+			<string>AEREE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Pronom</string>
+			<string>AEREE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> On ne peut vivre sans lui</string>
+			<string>AEREE</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string></string>
+			<string>AEREE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Règle</string>
+			<string>AEREE</string>
+			<string>TE</string>
+		</array>
+	</array>
+</array>
+</plist>

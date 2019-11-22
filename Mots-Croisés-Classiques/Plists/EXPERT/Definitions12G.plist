@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Perverse</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>CONTRENATURE</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Garni</string>
+			<string>CONTRENATURE</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Drame japonais</string>
+			<string>CONTRENATURE</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Séparations de deux éléments d&apos;un mot</string>
+			<string>CONTRENATURE</string>
+			<string>TMESES</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Aviron</string>
+			<string>CONTRENATURE</string>
+			<string>RAME</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Lettre grec</string>
+			<string>CONTRENATURE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Petit cigare</string>
+			<string>CONTRENATURE</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Dieu guerrier</string>
+			<string>CONTRENATURE</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Vérifies</string>
+			<string>CONTRENATURE</string>
+			<string>TESTES</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Coutumes</string>
+			<string>CONTRENATURE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string></string>
+			<string>CONTRENATURE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Perverse</string>
+			<string> Plus à l&apos;est qu&apos;au sud</string>
+			<string>CONTRENATURE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Parfumés</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>AROMATISES</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Garni</string>
+			<string>AROMATISES</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Drame japonais</string>
+			<string>AROMATISES</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Séparations de deux éléments d&apos;un mot</string>
+			<string>AROMATISES</string>
+			<string>TMESES</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Aviron</string>
+			<string>AROMATISES</string>
+			<string>RAME</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Lettre grec</string>
+			<string>AROMATISES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Petit cigare</string>
+			<string>AROMATISES</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Dieu guerrier</string>
+			<string>AROMATISES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Vérifies</string>
+			<string>AROMATISES</string>
+			<string>TESTES</string>
+		</array>
+		<array>
+			<string> Parfumés</string>
+			<string> Coutumes</string>
+			<string>AROMATISES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plus à l&apos;est qu&apos;au sud</string>
+			<string>S</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étain</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>SN</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Étain</string>
+			<string> Garni</string>
+			<string>SN</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se dégages</string>
+			<string> Séparations de deux éléments d&apos;un mot</string>
+			<string>EMANES</string>
+			<string>TMESES</string>
+		</array>
+		<array>
+			<string> Se dégages</string>
+			<string> Aviron</string>
+			<string>EMANES</string>
+			<string>RAME</string>
+		</array>
+		<array>
+			<string> Se dégages</string>
+			<string> Lettre grec</string>
+			<string>EMANES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Se dégages</string>
+			<string> Petit cigare</string>
+			<string>EMANES</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Se dégages</string>
+			<string> Dieu guerrier</string>
+			<string>EMANES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Se dégages</string>
+			<string> Vérifies</string>
+			<string>EMANES</string>
+			<string>TESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Inventais</string>
+			<string>CE</string>
+			<string>CREAIS</string>
+		</array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Plus à l&apos;est qu&apos;au sud</string>
+			<string>CE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Présumé</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>CENSE</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Présumé</string>
+			<string> Garni</string>
+			<string>CENSE</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> Présumé</string>
+			<string> Nickel</string>
+			<string>CENSE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Présumé</string>
+			<string> Séparations de deux éléments d&apos;un mot</string>
+			<string>CENSE</string>
+			<string>TMESES</string>
+		</array>
+		<array>
+			<string> Présumé</string>
+			<string> Aviron</string>
+			<string>CENSE</string>
+			<string>RAME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Petit cigare</string>
+			<string>ASTER</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Dieu guerrier</string>
+			<string>ASTER</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Vérifies</string>
+			<string>ASTER</string>
+			<string>TESTES</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Égalisées</string>
+			<string>ASTER</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Inventais</string>
+			<string>ASTER</string>
+			<string>CREAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On se confie à elle</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>AMIE</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> On se confie à elle</string>
+			<string> Garni</string>
+			<string>AMIE</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> On se confie à elle</string>
+			<string> Nickel</string>
+			<string>AMIE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> On se confie à elle</string>
+			<string> Séparations de deux éléments d&apos;un mot</string>
+			<string>AMIE</string>
+			<string>TMESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Liaison</string>
+			<string>ES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Petit cigare</string>
+			<string>ES</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Roi et mer</string>
+			<string> Vérifies</string>
+			<string>EGEE</string>
+			<string>TESTES</string>
+		</array>
+		<array>
+			<string> Roi et mer</string>
+			<string> Égalisées</string>
+			<string>EGEE</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string> Roi et mer</string>
+			<string> Inventais</string>
+			<string>EGEE</string>
+			<string>CREAIS</string>
+		</array>
+		<array>
+			<string> Roi et mer</string>
+			<string> Stupéfiant</string>
+			<string>EGEE</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article partitif</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>DE</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Article partitif</string>
+			<string> Garni</string>
+			<string>DE</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Séparations de deux éléments d&apos;un mot</string>
+			<string>SET</string>
+			<string>TMESES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Donc plus longues</string>
+			<string>SET</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Liaison</string>
+			<string>SET</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Son père a voulu le tuer</string>
+			<string> Fin de verbe</string>
+			<string>ISAAC</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Son père a voulu le tuer</string>
+			<string> Vérifies</string>
+			<string>ISAAC</string>
+			<string>TESTES</string>
+		</array>
+		<array>
+			<string> Son père a voulu le tuer</string>
+			<string> Égalisées</string>
+			<string>ISAAC</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string> Son père a voulu le tuer</string>
+			<string> Inventais</string>
+			<string>ISAAC</string>
+			<string>CREAIS</string>
+		</array>
+		<array>
+			<string> Son père a voulu le tuer</string>
+			<string> Stupéfiant</string>
+			<string>ISAAC</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Grande école</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>ENA</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Grande école</string>
+			<string> Garni</string>
+			<string>ENA</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> Grande école</string>
+			<string> Ventilées</string>
+			<string>ENA</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Donc plus longues</string>
+			<string>T</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Monnaie du Japon</string>
+			<string>SR</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Fin de verbe</string>
+			<string>SR</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bouquines</string>
+			<string> Égalisées</string>
+			<string>LIS</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string> Bouquines</string>
+			<string> Inventais</string>
+			<string>LIS</string>
+			<string>CREAIS</string>
+		</array>
+		<array>
+			<string> Bouquines</string>
+			<string> Stupéfiant</string>
+			<string>LIS</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Née de la même mère</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>UTERINE</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Née de la même mère</string>
+			<string> Garni</string>
+			<string>UTERINE</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> Née de la même mère</string>
+			<string> Ventilées</string>
+			<string>UTERINE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Née de la même mère</string>
+			<string></string>
+			<string>UTERINE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Née de la même mère</string>
+			<string> Donc plus longues</string>
+			<string>UTERINE</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string> Née de la même mère</string>
+			<string>  Apparus.</string>
+			<string>UTERINE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Née de la même mère</string>
+			<string> Monnaie du Japon</string>
+			<string>UTERINE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Petits socles</string>
+			<string>TEST</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Égalisées</string>
+			<string>TEST</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Inventais</string>
+			<string>TEST</string>
+			<string>CREAIS</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Stupéfiant</string>
+			<string>TEST</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Transporte les parisiens</string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>RER</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string> Transporte les parisiens</string>
+			<string> Garni</string>
+			<string>RER</string>
+			<string>ORNEMENTE</string>
+		</array>
+		<array>
+			<string> Transporte les parisiens</string>
+			<string> Ventilées</string>
+			<string>RER</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Donc plus longues</string>
+			<string>RENIEE</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string>  Apparus.</string>
+			<string>RENIEE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Monnaie du Japon</string>
+			<string>RENIEE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Parfois reliées par un pont</string>
+			<string>RENIEE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Petits socles</string>
+			<string>RENIEE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Égalisées</string>
+			<string>RENIEE</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Stupéfiant</string>
+			<string>A</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ils prennent des risques à la place des autres</string>
+			<string>S</string>
+			<string>CASCADEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Ventilées</string>
+			<string>ETES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Avant la distribution</string>
+			<string>ETES</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string> Donc plus longues</string>
+			<string>ETES</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string> Ils sont parfois pluvieux</string>
+			<string>  Apparus.</string>
+			<string>ETES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Parfois reliées par un pont</string>
+			<string>LESES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Petits socles</string>
+			<string>LESES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Égalisées</string>
+			<string>LESES</string>
+			<string>EGALEES</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Essentielle à la vie</string>
+			<string>LESES</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Blessés</string>
+			<string> Stupéfiant</string>
+			<string>LESES</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Pronom</string>
+			<string>SERE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Ventilées</string>
+			<string>SERE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Avant la distribution</string>
+			<string>SERE</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Donc plus longues</string>
+			<string>SERE</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Règle</string>
+			<string>TES</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Parfois reliées par un pont</string>
+			<string>TES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Petits socles</string>
+			<string>TES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vin de Champagne</string>
+			<string> Essentielle à la vie</string>
+			<string>AY</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Vin de Champagne</string>
+			<string> Stupéfiant</string>
+			<string>AY</string>
+			<string>ECSTASY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Luttes</string>
+			<string></string>
+			<string>RESISTES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string> Pronom</string>
+			<string>RESISTES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string> Ventilées</string>
+			<string>RESISTES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string> Avant la distribution</string>
+			<string>RESISTES</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string> Donc plus longues</string>
+			<string>RESISTES</string>
+			<string>ETIREES</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string></string>
+			<string>RESISTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string> Règle</string>
+			<string>RESISTES</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Luttes</string>
+			<string> Parfois reliées par un pont</string>
+			<string>RESISTES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Connu</string>
+			<string></string>
+			<string>SU</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Connu</string>
+			<string> Essentielle à la vie</string>
+			<string>SU</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

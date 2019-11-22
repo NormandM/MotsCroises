@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Résumé</string>
+			<string> Qualifiée</string>
+			<string>COMPTERENDU</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>COMPTERENDU</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> C&apos;est du pain</string>
+			<string>COMPTERENDU</string>
+			<string>MIE</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Plat et rond</string>
+			<string>COMPTERENDU</string>
+			<string>PALET</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string></string>
+			<string>COMPTERENDU</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Intenter un procès</string>
+			<string>COMPTERENDU</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Île de France</string>
+			<string>COMPTERENDU</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Plante herbacée</string>
+			<string>COMPTERENDU</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Arrivées</string>
+			<string>COMPTERENDU</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Des heures. par exemple</string>
+			<string>COMPTERENDU</string>
+			<string>DUREES</string>
+		</array>
+		<array>
+			<string> Résumé</string>
+			<string> Utilisent</string>
+			<string>COMPTERENDU</string>
+			<string>USENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Soucis</string>
+			<string> Qualifiée</string>
+			<string>ARIA</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Soucis</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>ARIA</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string> Soucis</string>
+			<string> C&apos;est du pain</string>
+			<string>ARIA</string>
+			<string>MIE</string>
+		</array>
+		<array>
+			<string> Soucis</string>
+			<string> Plat et rond</string>
+			<string>ARIA</string>
+			<string>PALET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Intenter un procès</string>
+			<string>SEREUSE</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Île de France</string>
+			<string>SEREUSE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Plante herbacée</string>
+			<string>SEREUSE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Arrivées</string>
+			<string>SEREUSE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Des heures. par exemple</string>
+			<string>SEREUSE</string>
+			<string>DUREES</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Utilisent</string>
+			<string>SEREUSE</string>
+			<string>USENT</string>
+		</array>
+		<array>
+			<string> Du sérum sanguin</string>
+			<string> Crochets</string>
+			<string>SEREUSE</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Reporte au pouvoir</string>
+			<string> Qualifiée</string>
+			<string>REELIT</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Reporte au pouvoir</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>REELIT</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string> Reporte au pouvoir</string>
+			<string> C&apos;est du pain</string>
+			<string>REELIT</string>
+			<string>MIE</string>
+		</array>
+		<array>
+			<string> Reporte au pouvoir</string>
+			<string> Plat et rond</string>
+			<string>REELIT</string>
+			<string>PALET</string>
+		</array>
+		<array>
+			<string> Reporte au pouvoir</string>
+			<string> Prénom</string>
+			<string>REELIT</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Reporte au pouvoir</string>
+			<string> Intenter un procès</string>
+			<string>REELIT</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromages</string>
+			<string> Plante herbacée</string>
+			<string>SERES</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Fromages</string>
+			<string> Arrivées</string>
+			<string>SERES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Fromages</string>
+			<string> Des heures. par exemple</string>
+			<string>SERES</string>
+			<string>DUREES</string>
+		</array>
+		<array>
+			<string> Fromages</string>
+			<string> Utilisent</string>
+			<string>SERES</string>
+			<string>USENT</string>
+		</array>
+		<array>
+			<string> Fromages</string>
+			<string> Crochets</string>
+			<string>SERES</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Qualifiée</string>
+			<string>AS</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>AS</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Plat et rond</string>
+			<string>ERES</string>
+			<string>PALET</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Prénom</string>
+			<string>ERES</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Intenter un procès</string>
+			<string>ERES</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Chien de chasse</string>
+			<string>ERES</string>
+			<string>SETTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Il y en a cinq</string>
+			<string> Arrivées</string>
+			<string>SENS</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Il y en a cinq</string>
+			<string> Des heures. par exemple</string>
+			<string>SENS</string>
+			<string>DUREES</string>
+		</array>
+		<array>
+			<string> Il y en a cinq</string>
+			<string> Utilisent</string>
+			<string>SENS</string>
+			<string>USENT</string>
+		</array>
+		<array>
+			<string> Il y en a cinq</string>
+			<string> Crochets</string>
+			<string>SENS</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Qualifiée</string>
+			<string>C</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Strontium.</string>
+			<string>STEREE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Plat et rond</string>
+			<string>STEREE</string>
+			<string>PALET</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Prénom</string>
+			<string>STEREE</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Intenter un procès</string>
+			<string>STEREE</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Chien de chasse</string>
+			<string>STEREE</string>
+			<string>SETTER</string>
+		</array>
+		<array>
+			<string> Mesurée</string>
+			<string> Période</string>
+			<string>STEREE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Des heures. par exemple</string>
+			<string>ETE</string>
+			<string>DUREES</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Utilisent</string>
+			<string>ETE</string>
+			<string>USENT</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Crochets</string>
+			<string>ETE</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Salve</string>
+			<string> Qualifiée</string>
+			<string>TIR</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Salve</string>
+			<string> Col des Alpes</string>
+			<string>TIR</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Salve</string>
+			<string> Strontium.</string>
+			<string>TIR</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Prénom</string>
+			<string>N</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Chien de chasse</string>
+			<string>TRES</string>
+			<string>SETTER</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Période</string>
+			<string>TRES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Levant</string>
+			<string>TRES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Des heures. par exemple</string>
+			<string>TRES</string>
+			<string>DUREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crochets</string>
+			<string>S</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existes</string>
+			<string> Qualifiée</string>
+			<string>ES</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Col des Alpes</string>
+			<string>ES</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> C&apos;étaient des gants de boxe</string>
+			<string> Démonstratif</string>
+			<string>CESTES</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> C&apos;étaient des gants de boxe</string>
+			<string> Prénom</string>
+			<string>CESTES</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> C&apos;étaient des gants de boxe</string>
+			<string> Érafler</string>
+			<string>CESTES</string>
+			<string>STRIER</string>
+		</array>
+		<array>
+			<string> C&apos;étaient des gants de boxe</string>
+			<string> Chien de chasse</string>
+			<string>CESTES</string>
+			<string>SETTER</string>
+		</array>
+		<array>
+			<string> C&apos;étaient des gants de boxe</string>
+			<string> Période</string>
+			<string>CESTES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> C&apos;étaient des gants de boxe</string>
+			<string> Levant</string>
+			<string>CESTES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pronom personnel</string>
+			<string>M</string>
+			<string>ME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom</string>
+			<string> Qualifiée</string>
+			<string>RENE</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Col des Alpes</string>
+			<string>RENE</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Raconte</string>
+			<string>RENE</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Démonstratif</string>
+			<string>RENE</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Érafler</string>
+			<string>TE</string>
+			<string>STRIER</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Chien de chasse</string>
+			<string>TE</string>
+			<string>SETTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petits socles</string>
+			<string> Levant</string>
+			<string>TEES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Petits socles</string>
+			<string> Greffée</string>
+			<string>TEES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Petits socles</string>
+			<string> Pronom personnel</string>
+			<string>TEES</string>
+			<string>ME</string>
+		</array>
+		<array>
+			<string> Petits socles</string>
+			<string> Transpirations</string>
+			<string>TEES</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Armée révolutionnaire</string>
+			<string> Qualifiée</string>
+			<string>IRA</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Armée révolutionnaire</string>
+			<string> Col des Alpes</string>
+			<string>IRA</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Armée révolutionnaire</string>
+			<string> Raconte</string>
+			<string>IRA</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string></string>
+			<string>ERRE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Érafler</string>
+			<string>ERRE</string>
+			<string>STRIER</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Chien de chasse</string>
+			<string>ERRE</string>
+			<string>SETTER</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Langue celtique</string>
+			<string>ERRE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Greffée</string>
+			<string>N</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Transpirations</string>
+			<string>U</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Poissons</string>
+			<string> Qualifiée</string>
+			<string>SARS</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Col des Alpes</string>
+			<string>SARS</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Raconte</string>
+			<string>SARS</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Contenant</string>
+			<string>SARS</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Érafler</string>
+			<string>I</string>
+			<string>STRIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Langue celtique</string>
+			<string>RATTE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string></string>
+			<string>RATTE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Greffée</string>
+			<string>RATTE</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Abat</string>
+			<string>RATTE</string>
+			<string>TUE</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Transpirations</string>
+			<string>RATTE</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Qualifiée</string>
+			<string>ENRAGEES</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Col des Alpes</string>
+			<string>ENRAGEES</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Raconte</string>
+			<string>ENRAGEES</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Contenant</string>
+			<string>ENRAGEES</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Gallium</string>
+			<string>ENRAGEES</string>
+			<string>GA</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Érafler</string>
+			<string>ENRAGEES</string>
+			<string>STRIER</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Jamais le dernier mot</string>
+			<string>ENRAGEES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Extrémistes</string>
+			<string> Langue celtique</string>
+			<string>ENRAGEES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Greffée</string>
+			<string>EUE</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Abat</string>
+			<string>EUE</string>
+			<string>TUE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Transpirations</string>
+			<string>EUE</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Qualifiée</string>
+			<string>E</string>
+			<string>CARACTERISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Raconte</string>
+			<string>ECARTELEES</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Contenant</string>
+			<string>ECARTELEES</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Gallium</string>
+			<string>ECARTELEES</string>
+			<string>GA</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Érafler</string>
+			<string>ECARTELEES</string>
+			<string>STRIER</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Jamais le dernier mot</string>
+			<string>ECARTELEES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Langue celtique</string>
+			<string>ECARTELEES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string></string>
+			<string>ECARTELEES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Greffée</string>
+			<string>ECARTELEES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Abat</string>
+			<string>ECARTELEES</string>
+			<string>TUE</string>
+		</array>
+		<array>
+			<string> Tiraillées</string>
+			<string> Transpirations</string>
+			<string>ECARTELEES</string>
+			<string>SUEES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Étagères</string>
+			<string> Contient le ciboire</string>
+			<string>TABLETTES</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string> Lieu de combat</string>
+			<string>TABLETTES</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string> Unités élémentaires d'information</string>
+			<string>TABLETTES</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string>  Général sudiste</string>
+			<string>TABLETTES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string> Indique l'origine</string>
+			<string>TABLETTES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string></string>
+			<string>TABLETTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string> Mât sculpté</string>
+			<string>TABLETTES</string>
+			<string>TOTEM</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string> Utilisé par le boucher</string>
+			<string>TABLETTES</string>
+			<string>ETAL</string>
+		</array>
+		<array>
+			<string> Étagères</string>
+			<string> Relatifs à la lune</string>
+			<string>TABLETTES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Partisan de la doctrine d'Arius</string>
+			<string> Contient le ciboire</string>
+			<string>ARIEN</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d'Arius</string>
+			<string> Lieu de combat</string>
+			<string>ARIEN</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d'Arius</string>
+			<string> Unités élémentaires d'information</string>
+			<string>ARIEN</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d'Arius</string>
+			<string>  Général sudiste</string>
+			<string>ARIEN</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d'Arius</string>
+			<string> Indique l'origine</string>
+			<string>ARIEN</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Mât sculpté</string>
+			<string>OTES</string>
+			<string>TOTEM</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Utilisé par le boucher</string>
+			<string>OTES</string>
+			<string>ETAL</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Relatifs à la lune</string>
+			<string>OTES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Possessif</string>
+			<string>OTES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Idiot</string>
+			<string> Contient le ciboire</string>
+			<string>BETE</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Idiot</string>
+			<string> Lieu de combat</string>
+			<string>BETE</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Idiot</string>
+			<string> Unités élémentaires d'information</string>
+			<string>BETE</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string> Idiot</string>
+			<string>  Général sudiste</string>
+			<string>BETE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Capable de se dresser</string>
+			<string>ETALE</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Mât sculpté</string>
+			<string>ETALE</string>
+			<string>TOTEM</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Utilisé par le boucher</string>
+			<string>ETALE</string>
+			<string>ETAL</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Relatifs à la lune</string>
+			<string>ETALE</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Étend</string>
+			<string> Possessif</string>
+			<string>ETALE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Contient le ciboire</string>
+			<string>ENS</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Lieu de combat</string>
+			<string>ENS</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Unités élémentaires d'information</string>
+			<string>ENS</string>
+			<string>BITS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Précipitations de grain de glace</string>
+			<string> Gadolinium</string>
+			<string>GRELES</string>
+			<string>GD</string>
+		</array>
+		<array>
+			<string> Précipitations de grain de glace</string>
+			<string> Capable de se dresser</string>
+			<string>GRELES</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string> Précipitations de grain de glace</string>
+			<string> Mât sculpté</string>
+			<string>GRELES</string>
+			<string>TOTEM</string>
+		</array>
+		<array>
+			<string> Précipitations de grain de glace</string>
+			<string> Utilisé par le boucher</string>
+			<string>GRELES</string>
+			<string>ETAL</string>
+		</array>
+		<array>
+			<string> Précipitations de grain de glace</string>
+			<string> Relatifs à la lune</string>
+			<string>GRELES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Précipitations de grain de glace</string>
+			<string> Possessif</string>
+			<string>GRELES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note</string>
+			<string> Contient le ciboire</string>
+			<string>RE</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Lieu de combat</string>
+			<string>RE</string>
+			<string>ARENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Colères</string>
+			<string>IDEM</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Gadolinium</string>
+			<string>IDEM</string>
+			<string>GD</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Capable de se dresser</string>
+			<string>IDEM</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Mât sculpté</string>
+			<string>IDEM</string>
+			<string>TOTEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Relatifs à la lune</string>
+			<string>N</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Contient le ciboire</string>
+			<string>N</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Une révolution compète</string>
+			<string>AR</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Colères</string>
+			<string>AR</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Capable de se dresser</string>
+			<string>C</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Indispensable au golfeur</string>
+			<string></string>
+			<string>TEE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Indispensable au golfeur</string>
+			<string> Relatifs à la lune</string>
+			<string>TEE</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Indispensable au golfeur</string>
+			<string> Transmise</string>
+			<string>TEE</string>
+			<string>EMISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Contient le ciboire</string>
+			<string>ANNETTE</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Arrivées</string>
+			<string>ANNETTE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Une révolution compète</string>
+			<string>ANNETTE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Colères</string>
+			<string>ANNETTE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Héros légendaire suisse</string>
+			<string>ANNETTE</string>
+			<string>TELL</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Capable de se dresser</string>
+			<string>ANNETTE</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Ce n'est pas une école de métier</string>
+			<string>ANNETTE</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Samarium</string>
+			<string> Relatifs à la lune</string>
+			<string>SM</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Samarium</string>
+			<string> Transmise</string>
+			<string>SM</string>
+			<string>EMISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Contient le ciboire</string>
+			<string>CE</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Arrivées</string>
+			<string>CE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Colères</string>
+			<string>SEINE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Héros légendaire suisse</string>
+			<string>SEINE</string>
+			<string>TELL</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Capable de se dresser</string>
+			<string>SEINE</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Ce n'est pas une école de métier</string>
+			<string>SEINE</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Direction</string>
+			<string>SEINE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Transmise</string>
+			<string>I</string>
+			<string>EMISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Contient le ciboire</string>
+			<string>LES</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Arrivées</string>
+			<string>LES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Symbole</string>
+			<string>LES</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Région de plaines herbeuses en Amérique du Sud</string>
+			<string> Héros légendaire suisse</string>
+			<string>LLANOS</string>
+			<string>TELL</string>
+		</array>
+		<array>
+			<string> Région de plaines herbeuses en Amérique du Sud</string>
+			<string> Capable de se dresser</string>
+			<string>LLANOS</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string> Région de plaines herbeuses en Amérique du Sud</string>
+			<string> Ce n'est pas une école de métier</string>
+			<string>LLANOS</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Région de plaines herbeuses en Amérique du Sud</string>
+			<string> Direction</string>
+			<string>LLANOS</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Région de plaines herbeuses en Amérique du Sud</string>
+			<string> Conjonction</string>
+			<string>LLANOS</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Région de plaines herbeuses en Amérique du Sud</string>
+			<string> Transmise</string>
+			<string>LLANOS</string>
+			<string>EMISE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étape</string>
+			<string> Contient le ciboire</string>
+			<string>ESCALE</string>
+			<string>TABERNACLE</string>
+		</array>
+		<array>
+			<string> Étape</string>
+			<string> Arrivées</string>
+			<string>ESCALE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Étape</string>
+			<string> Symbole</string>
+			<string>ESCALE</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string> Étape</string>
+			<string></string>
+			<string>ESCALE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Étape</string>
+			<string> Héros légendaire suisse</string>
+			<string>ESCALE</string>
+			<string>TELL</string>
+		</array>
+		<array>
+			<string> Étape</string>
+			<string> Capable de se dresser</string>
+			<string>ESCALE</string>
+			<string>ERECTILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Direction</string>
+			<string>ERE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Conjonction</string>
+			<string>ERE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Transmise</string>
+			<string>ERE</string>
+			<string>EMISE</string>
+		</array>
+	</array>
+</array>
+</plist>

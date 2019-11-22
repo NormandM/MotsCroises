@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Pansu</string>
+			<string>VAGISSEMENTS</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Détester</string>
+			<string>VAGISSEMENTS</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Produire</string>
+			<string>VAGISSEMENTS</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> À la mode</string>
+			<string>VAGISSEMENTS</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Laxatif</string>
+			<string>VAGISSEMENTS</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string></string>
+			<string>VAGISSEMENTS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Orient</string>
+			<string>VAGISSEMENTS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Règle</string>
+			<string>VAGISSEMENTS</string>
+			<string>METRE</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Age</string>
+			<string>VAGISSEMENTS</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Salpêtres</string>
+			<string>VAGISSEMENTS</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Indispensable au golfeur</string>
+			<string>VAGISSEMENTS</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Cris plaintifs</string>
+			<string> Dirigées par Himmler</string>
+			<string>VAGISSEMENTS</string>
+			<string>SS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On ne le brule pas</string>
+			<string> Pansu</string>
+			<string>EBENE</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> On ne le brule pas</string>
+			<string> Détester</string>
+			<string>EBENE</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> On ne le brule pas</string>
+			<string> Produire</string>
+			<string>EBENE</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string> On ne le brule pas</string>
+			<string> À la mode</string>
+			<string>EBENE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> On ne le brule pas</string>
+			<string> Laxatif</string>
+			<string>EBENE</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Feuilletons</string>
+			<string> Orient</string>
+			<string>SERIES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Feuilletons</string>
+			<string> Règle</string>
+			<string>SERIES</string>
+			<string>METRE</string>
+		</array>
+		<array>
+			<string> Feuilletons</string>
+			<string> Age</string>
+			<string>SERIES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Feuilletons</string>
+			<string> Salpêtres</string>
+			<string>SERIES</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string> Feuilletons</string>
+			<string> Indispensable au golfeur</string>
+			<string>SERIES</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Feuilletons</string>
+			<string> Dirigées par Himmler</string>
+			<string>SERIES</string>
+			<string>SS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ce n'est pas la réponse espérée</string>
+			<string> Pansu</string>
+			<string>NON</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Ce n'est pas la réponse espérée</string>
+			<string> Détester</string>
+			<string>NON</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> Ce n'est pas la réponse espérée</string>
+			<string> Produire</string>
+			<string>NON</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Laxatif</string>
+			<string>NETTETE</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Souhaite</string>
+			<string>NETTETE</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Orient</string>
+			<string>NETTETE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Règle</string>
+			<string>NETTETE</string>
+			<string>METRE</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Age</string>
+			<string>NETTETE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Salpêtres</string>
+			<string>NETTETE</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string> Précision</string>
+			<string> Indispensable au golfeur</string>
+			<string>NETTETE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Séparations de deux éléments d'un mot</string>
+			<string> Pansu</string>
+			<string>TMESES</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Séparations de deux éléments d'un mot</string>
+			<string> Détester</string>
+			<string>TMESES</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> Séparations de deux éléments d'un mot</string>
+			<string> Produire</string>
+			<string>TMESES</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string> Séparations de deux éléments d'un mot</string>
+			<string> Paisibles</string>
+			<string>TMESES</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string> Séparations de deux éléments d'un mot</string>
+			<string> Laxatif</string>
+			<string>TMESES</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Séparations de deux éléments d'un mot</string>
+			<string> Souhaite</string>
+			<string>TMESES</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Règle</string>
+			<string>R</string>
+			<string>METRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Salpêtres</string>
+			<string>R</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Désinfectés</string>
+			<string>A</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Bonne humeur</string>
+			<string> Pansu</string>
+			<string>RIRE</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Bonne humeur</string>
+			<string> Détester</string>
+			<string>RIRE</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> Bonne humeur</string>
+			<string> Produire</string>
+			<string>RIRE</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string> Bonne humeur</string>
+			<string> Paisibles</string>
+			<string>RIRE</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Souhaite</string>
+			<string>PUERAIS</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Lichens</string>
+			<string>PUERAIS</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Règle</string>
+			<string>PUERAIS</string>
+			<string>METRE</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Très court</string>
+			<string>PUERAIS</string>
+			<string>RAS</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Salpêtres</string>
+			<string>PUERAIS</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Fin de verbe</string>
+			<string>PUERAIS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Cognerais</string>
+			<string> Désinfectés</string>
+			<string>PUERAIS</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Inanimés</string>
+			<string> Pansu</string>
+			<string>INERTES</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Détester</string>
+			<string>INERTES</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Produire</string>
+			<string>INERTES</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Paisibles</string>
+			<string>INERTES</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string></string>
+			<string>INERTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Souhaite</string>
+			<string>INERTES</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Lichens</string>
+			<string>INERTES</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Très court</string>
+			<string>ATRE</string>
+			<string>RAS</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Salpêtres</string>
+			<string>ATRE</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Fin de verbe</string>
+			<string>ATRE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Désinfectés</string>
+			<string>ATRE</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Chef de famille</string>
+			<string> Pansu</string>
+			<string>PERE</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Chef de famille</string>
+			<string> Détester</string>
+			<string>PERE</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string> Chef de famille</string>
+			<string> Produire</string>
+			<string>PERE</string>
+			<string>GENERER</string>
+		</array>
+		<array>
+			<string> Chef de famille</string>
+			<string> Paisibles</string>
+			<string>PERE</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Souhaite</string>
+			<string>RN</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Lichens</string>
+			<string>RN</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Très court</string>
+			<string>SE</string>
+			<string>RAS</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Salpêtres</string>
+			<string>SE</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Désinfectés</string>
+			<string>P</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Conjonction</string>
+			<string> Pansu</string>
+			<string>OR</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Conjonction</string>
+			<string> Détester</string>
+			<string>OR</string>
+			<string>ABOMINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Paisibles</string>
+			<string>IDEES</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Terme de belote</string>
+			<string>IDEES</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Souhaite</string>
+			<string>IDEES</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Lichens</string>
+			<string>IDEES</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Pensées.</string>
+			<string> Symbole chimique</string>
+			<string>IDEES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Salpêtres</string>
+			<string>SET</string>
+			<string>NITRATES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Appât</string>
+			<string>SET</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Désinfectés</string>
+			<string>SET</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Pansu</string>
+			<string>T</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string>  Périodes</string>
+			<string>ENE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Paisibles</string>
+			<string>ENE</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Terme de belote</string>
+			<string>ENE</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Lichens</string>
+			<string>ERS</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Symbole chimique</string>
+			<string>ERS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Veuve qui s'immolait</string>
+			<string>ERS</string>
+			<string>SATI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Appât</string>
+			<string>SI</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Désinfectés</string>
+			<string>SI</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vagabonderas</string>
+			<string> Pansu</string>
+			<string>ERRERAS</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Vagabonderas</string>
+			<string> Crie</string>
+			<string>ERRERAS</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Vagabonderas</string>
+			<string>  Périodes</string>
+			<string>ERRERAS</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Vagabonderas</string>
+			<string> Paisibles</string>
+			<string>ERRERAS</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string> Vagabonderas</string>
+			<string> Terme de belote</string>
+			<string>ERRERAS</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Vagabonderas</string>
+			<string> coulée de lave (pl)</string>
+			<string>ERRERAS</string>
+			<string>AAS</string>
+		</array>
+		<array>
+			<string> Vagabonderas</string>
+			<string> Lichens</string>
+			<string>ERRERAS</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Armes</string>
+			<string> Veuve qui s'immolait</string>
+			<string>ARCS</string>
+			<string>SATI</string>
+		</array>
+		<array>
+			<string> Armes</string>
+			<string></string>
+			<string>ARCS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Armes</string>
+			<string> Appât</string>
+			<string>ARCS</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string> Armes</string>
+			<string> Désinfectés</string>
+			<string>ARCS</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arrivées</string>
+			<string> Pansu</string>
+			<string>NEES</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Crie</string>
+			<string>NEES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string>  Périodes</string>
+			<string>NEES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Paisibles</string>
+			<string>NEES</string>
+			<string>SEREINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> coulée de lave (pl)</string>
+			<string>A</string>
+			<string>AAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conjonction</string>
+			<string> Infinitif</string>
+			<string>ET</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Conjonction</string>
+			<string> Veuve qui s'immolait</string>
+			<string>ET</string>
+			<string>SATI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Interjection</string>
+			<string> Appât</string>
+			<string>HE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string> Interjection</string>
+			<string> Désinfectés</string>
+			<string>HE</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Règles</string>
+			<string> Pansu</string>
+			<string>TES</string>
+			<string>VENTRIPOTENT</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Crie</string>
+			<string>TES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string>  Périodes</string>
+			<string>TES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string></string>
+			<string>ESERINES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string> coulée de lave (pl)</string>
+			<string>ESERINES</string>
+			<string>AAS</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string></string>
+			<string>ESERINES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string> Infinitif</string>
+			<string>ESERINES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string> Veuve qui s'immolait</string>
+			<string>ESERINES</string>
+			<string>SATI</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string></string>
+			<string>ESERINES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string> Appât</string>
+			<string>ESERINES</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string> Utilisés comme stimulants</string>
+			<string> Désinfectés</string>
+			<string>ESERINES</string>
+			<string>ASEPTISES</string>
+		</array>
+	</array>
+</array>
+</plist>

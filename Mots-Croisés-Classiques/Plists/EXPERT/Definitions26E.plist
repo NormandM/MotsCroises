@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Il travaille sous pression</string>
+			<string>ULTRAVIOLETS</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Circulent en Roumanie</string>
+			<string>ULTRAVIOLETS</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Baquets</string>
+			<string>ULTRAVIOLETS</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Symbole chimique</string>
+			<string>ULTRAVIOLETS</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Aiguisés</string>
+			<string>ULTRAVIOLETS</string>
+			<string>ACERES</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Terrain inculte</string>
+			<string>ULTRAVIOLETS</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Elle fait crier</string>
+			<string>ULTRAVIOLETS</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Ancien oui</string>
+			<string>ULTRAVIOLETS</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Vrais chefs</string>
+			<string>ULTRAVIOLETS</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Vagabondes</string>
+			<string>ULTRAVIOLETS</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Pour le premier coup</string>
+			<string>ULTRAVIOLETS</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Ils nous font bronzés</string>
+			<string> Possessif</string>
+			<string>ULTRAVIOLETS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Il travaille sous pression</string>
+			<string>REINCARCEREE</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Circulent en Roumanie</string>
+			<string>REINCARCEREE</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Baquets</string>
+			<string>REINCARCEREE</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Symbole chimique</string>
+			<string>REINCARCEREE</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Aiguisés</string>
+			<string>REINCARCEREE</string>
+			<string>ACERES</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Terrain inculte</string>
+			<string>REINCARCEREE</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Elle fait crier</string>
+			<string>REINCARCEREE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Ancien oui</string>
+			<string>REINCARCEREE</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Vrais chefs</string>
+			<string>REINCARCEREE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Vagabondes</string>
+			<string>REINCARCEREE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Pour le premier coup</string>
+			<string>REINCARCEREE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> A dû retourner en prison</string>
+			<string> Possessif</string>
+			<string>REINCARCEREE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Très important dans un Martini</string>
+			<string> Il travaille sous pression</string>
+			<string>GIN</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Très important dans un Martini</string>
+			<string> Circulent en Roumanie</string>
+			<string>GIN</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string> Très important dans un Martini</string>
+			<string> Baquets</string>
+			<string>GIN</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Aiguisés</string>
+			<string>ERE</string>
+			<string>ACERES</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Terrain inculte</string>
+			<string>ERE</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Elle fait crier</string>
+			<string>ERE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Vrais chefs</string>
+			<string>ARES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Vagabondes</string>
+			<string>ARES</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Pour le premier coup</string>
+			<string>ARES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Mesures agraires</string>
+			<string> Possessif</string>
+			<string>ARES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Il travaille sous pression</string>
+			<string>E</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Baquets</string>
+			<string>EURE</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Note</string>
+			<string>EURE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Aiguisés</string>
+			<string>EURE</string>
+			<string>ACERES</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Terrain inculte</string>
+			<string>EURE</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tournent dans un bocal</string>
+			<string></string>
+			<string>IDES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Tournent dans un bocal</string>
+			<string> Vrais chefs</string>
+			<string>IDES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Tournent dans un bocal</string>
+			<string> Vagabondes</string>
+			<string>IDES</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Tournent dans un bocal</string>
+			<string> Pour le premier coup</string>
+			<string>IDES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tressent</string>
+			<string> Il travaille sous pression</string>
+			<string>NATTENT</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Tressent</string>
+			<string> Éclaircirent</string>
+			<string>NATTENT</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Tressent</string>
+			<string> Baquets</string>
+			<string>NATTENT</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string> Tressent</string>
+			<string> Note</string>
+			<string>NATTENT</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Tressent</string>
+			<string> Aiguisés</string>
+			<string>NATTENT</string>
+			<string>ACERES</string>
+		</array>
+		<array>
+			<string> Tressent</string>
+			<string> Terrain inculte</string>
+			<string>NATTENT</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string> Tressent</string>
+			<string></string>
+			<string>NATTENT</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Vrais chefs</string>
+			<string>ES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Vagabondes</string>
+			<string>ES</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Renouvelle</string>
+			<string>R</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nouvel an vietnamien</string>
+			<string> Il travaille sous pression</string>
+			<string>TET</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Nouvel an vietnamien</string>
+			<string> Éclaircirent</string>
+			<string>TET</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Nouvel an vietnamien</string>
+			<string> Baquets</string>
+			<string>TET</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Aiguisés</string>
+			<string>SN</string>
+			<string>ACERES</string>
+		</array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Terrain inculte</string>
+			<string>SN</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Intransigeants</string>
+			<string>SR</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Vrais chefs</string>
+			<string>SR</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Judicieux</string>
+			<string>SE</string>
+			<string>SENSE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Renouvelle</string>
+			<string>SE</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lisière</string>
+			<string> Il travaille sous pression</string>
+			<string>OREE</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Lisière</string>
+			<string> Éclaircirent</string>
+			<string>OREE</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Lisière</string>
+			<string> Baquets</string>
+			<string>OREE</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string> Lisière</string>
+			<string> Lettre grec</string>
+			<string>OREE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Terrain inculte</string>
+			<string>ETESIEN</string>
+			<string>VARENNE</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Essais</string>
+			<string>ETESIEN</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Intransigeants</string>
+			<string>ETESIEN</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Vrais chefs</string>
+			<string>ETESIEN</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Au milieu du triage</string>
+			<string>ETESIEN</string>
+			<string>IA</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Judicieux</string>
+			<string>ETESIEN</string>
+			<string>SENSE</string>
+		</array>
+		<array>
+			<string> Vent du nord en Méditerranée</string>
+			<string> Renouvelle</string>
+			<string>ETESIEN</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Alourdit</string>
+			<string> Il travaille sous pression</string>
+			<string>LESTA</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Alourdit</string>
+			<string> Éclaircirent</string>
+			<string>LESTA</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Alourdit</string>
+			<string> Baquets</string>
+			<string>LESTA</string>
+			<string>TINETTES</string>
+		</array>
+		<array>
+			<string> Alourdit</string>
+			<string> Lettre grec</string>
+			<string>LESTA</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Alourdit</string>
+			<string> Lopin de terre</string>
+			<string>LESTA</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Essais</string>
+			<string>EV</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Intransigeants</string>
+			<string>EV</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Recueil de bons mots</string>
+			<string> Au milieu du triage</string>
+			<string>ANA</string>
+			<string>IA</string>
+		</array>
+		<array>
+			<string> Recueil de bons mots</string>
+			<string> Judicieux</string>
+			<string>ANA</string>
+			<string>SENSE</string>
+		</array>
+		<array>
+			<string> Recueil de bons mots</string>
+			<string> Renouvelle</string>
+			<string>ANA</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Conjonction</string>
+			<string> Il travaille sous pression</string>
+			<string>OR</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Conjonction</string>
+			<string> Éclaircirent</string>
+			<string>OR</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Égalisée</string>
+			<string> Lettre grec</string>
+			<string>ARASEE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Égalisée</string>
+			<string> Lopin de terre</string>
+			<string>ARASEE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Égalisée</string>
+			<string> Deuxième vertèbres du cou</string>
+			<string>ARASEE</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string> Égalisée</string>
+			<string> Essais</string>
+			<string>ARASEE</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string> Égalisée</string>
+			<string> Intransigeants</string>
+			<string>ARASEE</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string> Égalisée</string>
+			<string> Onde</string>
+			<string>ARASEE</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Judicieux</string>
+			<string>SI</string>
+			<string>SENSE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Renouvelle</string>
+			<string>SI</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rare l&apos;été</string>
+			<string> Il travaille sous pression</string>
+			<string>GEL</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Rare l&apos;été</string>
+			<string> Éclaircirent</string>
+			<string>GEL</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Rare l&apos;été</string>
+			<string>  Il a perdu la guerre</string>
+			<string>GEL</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Lopin de terre</string>
+			<string>EXTRAIES</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Deuxième vertèbres du cou</string>
+			<string>EXTRAIES</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Essais</string>
+			<string>EXTRAIES</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Intransigeants</string>
+			<string>EXTRAIES</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Onde</string>
+			<string>EXTRAIES</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string>  Fin de la messe</string>
+			<string>EXTRAIES</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Judicieux</string>
+			<string>EXTRAIES</string>
+			<string>SENSE</string>
+		</array>
+		<array>
+			<string> Extirpes</string>
+			<string> Renouvelle</string>
+			<string>EXTRAIES</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Il travaille sous pression</string>
+			<string>UNES</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Éclaircirent</string>
+			<string>UNES</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string>  Il a perdu la guerre</string>
+			<string>UNES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string></string>
+			<string>UNES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Deuxième vertèbres du cou</string>
+			<string>ISEUT</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Essais</string>
+			<string>ISEUT</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Intransigeants</string>
+			<string>ISEUT</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string> Onde</string>
+			<string>ISEUT</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Héroïne légendaire</string>
+			<string>  Fin de la messe</string>
+			<string>ISEUT</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Renouvelle</string>
+			<string>S</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Le temps des vacances</string>
+			<string> Il travaille sous pression</string>
+			<string>ETE</string>
+			<string>URGENTOLOGUE</string>
+		</array>
+		<array>
+			<string> Le temps des vacances</string>
+			<string> Éclaircirent</string>
+			<string>ETE</string>
+			<string>AERERENT</string>
+		</array>
+		<array>
+			<string> Le temps des vacances</string>
+			<string>  Il a perdu la guerre</string>
+			<string>ETE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string></string>
+			<string>AS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Deuxième vertèbres du cou</string>
+			<string>AS</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Intransigeants</string>
+			<string>S</string>
+			<string>SEVERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle a déjà représenté la moitié de l&apos;humanité</string>
+			<string>  Fin de la messe</string>
+			<string>EVE</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Elle a déjà représenté la moitié de l&apos;humanité</string>
+			<string></string>
+			<string>EVE</string>
+			<string>V</string>
+		</array>
+		<array>
+			<string> Elle a déjà représenté la moitié de l&apos;humanité</string>
+			<string> Renouvelle</string>
+			<string>EVE</string>
+			<string>RENAISSE</string>
+		</array>
+	</array>
+</array>
+</plist>

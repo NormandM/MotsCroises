@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Ils sont souvent immergés</string>
+			<string>SURVEILLER</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Éruption</string>
+			<string>SURVEILLER</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Renseignements généraux</string>
+			<string>SURVEILLER</string>
+			<string>RG</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Errer</string>
+			<string>SURVEILLER</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Dans</string>
+			<string>SURVEILLER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Roi de Libye renversé par Kadhafi</string>
+			<string>SURVEILLER</string>
+			<string>IDRIS</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Lithium</string>
+			<string>SURVEILLER</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string></string>
+			<string>SURVEILLER</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Infinitif</string>
+			<string>SURVEILLER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Suivre avec attention</string>
+			<string>Vallées envahies par la mer</string>
+			<string>SURVEILLER</string>
+			<string>RIAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Ils sont souvent immergés</string>
+			<string>ORGANDI</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Éruption</string>
+			<string>ORGANDI</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Renseignements généraux</string>
+			<string>ORGANDI</string>
+			<string>RG</string>
+		</array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Errer</string>
+			<string>ORGANDI</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Dans</string>
+			<string>ORGANDI</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Roi de Libye renversé par Kadhafi</string>
+			<string>ORGANDI</string>
+			<string>IDRIS</string>
+		</array>
+		<array>
+			<string>Mousseline de coton</string>
+			<string>Lithium</string>
+			<string>ORGANDI</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gloussé</string>
+			<string>Infinitif</string>
+			<string>RI</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Gloussé</string>
+			<string>Vallées envahies par la mer</string>
+			<string>RI</string>
+			<string>RIAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ancien Do</string>
+			<string>Ils sont souvent immergés</string>
+			<string>UT</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Ancien Do</string>
+			<string>Éruption</string>
+			<string>UT</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Errer</string>
+			<string>G</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Roi de Libye renversé par Kadhafi</string>
+			<string>R</string>
+			<string>IDRIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Équipèrent</string>
+			<string>M</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Vallées envahies par la mer</string>
+			<string>A</string>
+			<string>RIAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Ils sont souvent immergés</string>
+			<string>SIDATIQUES</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Éruption</string>
+			<string>SIDATIQUES</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string></string>
+			<string>SIDATIQUES</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Errer</string>
+			<string>SIDATIQUES</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Antre</string>
+			<string>SIDATIQUES</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Roi de Libye renversé par Kadhafi</string>
+			<string>SIDATIQUES</string>
+			<string>IDRIS</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Un instrument à corde de la Chine ancienne</string>
+			<string>SIDATIQUES</string>
+			<string>QIN</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Équipèrent</string>
+			<string>SIDATIQUES</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Dans un titre universitaire</string>
+			<string>SIDATIQUES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Ils sont atteints d'une maladie grave</string>
+			<string>Vallées envahies par la mer</string>
+			<string>SIDATIQUES</string>
+			<string>RIAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Maître de cérémonie</string>
+			<string>Ils sont souvent immergés</string>
+			<string>MC</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Maître de cérémonie</string>
+			<string>Éruption</string>
+			<string>MC</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Étoffes croisées</string>
+			<string>Errer</string>
+			<string>BASINS</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Étoffes croisées</string>
+			<string>Antre</string>
+			<string>BASINS</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string>Étoffes croisées</string>
+			<string>Roi de Libye renversé par Kadhafi</string>
+			<string>BASINS</string>
+			<string>IDRIS</string>
+		</array>
+		<array>
+			<string>Étoffes croisées</string>
+			<string>Un instrument à corde de la Chine ancienne</string>
+			<string>BASINS</string>
+			<string>QIN</string>
+		</array>
+		<array>
+			<string>Étoffes croisées</string>
+			<string>Équipèrent</string>
+			<string>BASINS</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string>Étoffes croisées</string>
+			<string>Dans un titre universitaire</string>
+			<string>BASINS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Ils sont souvent immergés</string>
+			<string>AARON</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Éruption</string>
+			<string>AARON</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string></string>
+			<string>AARON</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Errer</string>
+			<string>AARON</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Antre</string>
+			<string>AARON</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Un instrument à corde de la Chine ancienne</string>
+			<string>NI</string>
+			<string>QIN</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Équipèrent</string>
+			<string>NI</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Essentiel</string>
+			<string>V</string>
+			<string>VITAL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rigolé</string>
+			<string>Ils sont souvent immergés</string>
+			<string>RI</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Rigolé</string>
+			<string>Éruption</string>
+			<string>RI</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Récuse</string>
+			<string>Errer</string>
+			<string>NIE</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Récuse</string>
+			<string>Antre</string>
+			<string>NIE</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string>Récuse</string>
+			<string>Existes</string>
+			<string>NIE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le lion est celui des animaux</string>
+			<string>Équipèrent</string>
+			<string>ROI</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string>Le lion est celui des animaux</string>
+			<string>Une personne quelconque</string>
+			<string>ROI</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Le lion est celui des animaux</string>
+			<string>Essentiel</string>
+			<string>ROI</string>
+			<string>VITAL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Ils sont souvent immergés</string>
+			<string>IRIDESCENT</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Éruption</string>
+			<string>IRIDESCENT</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Un bois très dur</string>
+			<string>IRIDESCENT</string>
+			<string>IPE</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Errer</string>
+			<string>IRIDESCENT</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Antre</string>
+			<string>IRIDESCENT</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Existes</string>
+			<string>IRIDESCENT</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Démonstratif</string>
+			<string>IRIDESCENT</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Équipèrent</string>
+			<string>IRIDESCENT</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Une personne quelconque</string>
+			<string>IRIDESCENT</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Qui a des reflets</string>
+			<string>Essentiel</string>
+			<string>IRIDESCENT</string>
+			<string>VITAL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>NP</string>
+			<string>Ils sont souvent immergés</string>
+			<string>NEPER</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string>NP</string>
+			<string>Éruption</string>
+			<string>NEPER</string>
+			<string>URTICAIRE</string>
+		</array>
+		<array>
+			<string>NP</string>
+			<string>Un bois très dur</string>
+			<string>NEPER</string>
+			<string>IPE</string>
+		</array>
+		<array>
+			<string>NP</string>
+			<string>Errer</string>
+			<string>NEPER</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>NP</string>
+			<string>Antre</string>
+			<string>NEPER</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Indique la manière</string>
+			<string>Démonstratif</string>
+			<string>EN</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string>Indique la manière</string>
+			<string>Équipèrent</string>
+			<string>EN</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Essentiel</string>
+			<string>A</string>
+			<string>VITAL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Ils sont souvent immergés</string>
+			<string>S</string>
+			<string>SOUSMARINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Un bois très dur</string>
+			<string>ERES</string>
+			<string>IPE</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Errer</string>
+			<string>ERES</string>
+			<string>VAGABONDER</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Antre</string>
+			<string>ERES</string>
+			<string>TANIERE</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string></string>
+			<string>ERES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Semblable</string>
+			<string>Équipèrent</string>
+			<string>TEL</string>
+			<string>MUNIRENT</string>
+		</array>
+		<array>
+			<string>Semblable</string>
+			<string></string>
+			<string>TEL</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Semblable</string>
+			<string>Essentiel</string>
+			<string>TEL</string>
+			<string>VITAL</string>
+		</array>
+	</array>
+</array>
+</plist>

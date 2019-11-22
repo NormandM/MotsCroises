@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Ornements légers</string>
+			<string>FRANKENSTEIN</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Ouvrage de fortification</string>
+			<string>FRANKENSTEIN</string>
+			<string>REDAN</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Gaz rare</string>
+			<string>FRANKENSTEIN</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>FRANKENSTEIN</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string></string>
+			<string>FRANKENSTEIN</string>
+			<string>K</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Faute</string>
+			<string>FRANKENSTEIN</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Arrivées</string>
+			<string>FRANKENSTEIN</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Métal malléable</string>
+			<string>FRANKENSTEIN</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Se fier à</string>
+			<string>FRANKENSTEIN</string>
+			<string>TABLER</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Période</string>
+			<string>FRANKENSTEIN</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Pensées.</string>
+			<string>FRANKENSTEIN</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Un monstre qui en a inspiré plusieurs</string>
+			<string> Fébrile</string>
+			<string>FRANKENSTEIN</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Ornements légers</string>
+			<string>AERE</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Ouvrage de fortification</string>
+			<string>AERE</string>
+			<string>REDAN</string>
+		</array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Gaz rare</string>
+			<string>AERE</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> Rend moins dense</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>AERE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Faute</string>
+			<string>RENARDE</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Arrivées</string>
+			<string>RENARDE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Métal malléable</string>
+			<string>RENARDE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Se fier à</string>
+			<string>RENARDE</string>
+			<string>TABLER</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Période</string>
+			<string>RENARDE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Pensées.</string>
+			<string>RENARDE</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Personne rusée</string>
+			<string> Fébrile</string>
+			<string>RENARDE</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Notre-Dame</string>
+			<string> Ornements légers</string>
+			<string>ND</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Notre-Dame</string>
+			<string> Ouvrage de fortification</string>
+			<string>ND</string>
+			<string>REDAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>SERE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Au centre de la pensée</string>
+			<string>SERE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Faute</string>
+			<string>SERE</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Arrivées</string>
+			<string>SERE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Se fier à</string>
+			<string>BEER</string>
+			<string>TABLER</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Période</string>
+			<string>BEER</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Pensées.</string>
+			<string>BEER</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Fébrile</string>
+			<string>BEER</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dessert breton</string>
+			<string> Ornements légers</string>
+			<string>FAR</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Dessert breton</string>
+			<string> Ouvrage de fortification</string>
+			<string>FAR</string>
+			<string>REDAN</string>
+		</array>
+		<array>
+			<string> Dessert breton</string>
+			<string></string>
+			<string>FAR</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Relatif au nez</string>
+			<string> Au centre de la pensée</string>
+			<string>NASAL</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Relatif au nez</string>
+			<string> Faute</string>
+			<string>NASAL</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string> Relatif au nez</string>
+			<string> Arrivées</string>
+			<string>NASAL</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Relatif au nez</string>
+			<string> Résines</string>
+			<string>NASAL</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Relatif au nez</string>
+			<string> Se fier à</string>
+			<string>NASAL</string>
+			<string>TABLER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Pensées.</string>
+			<string>EV</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Fébrile</string>
+			<string>EV</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Ornements légers</string>
+			<string>RN</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Ouvrage de fortification</string>
+			<string>RN</string>
+			<string>REDAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> D&apos;un auxiliaire</string>
+			<string>EST</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Au centre de la pensée</string>
+			<string>EST</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Faute</string>
+			<string>EST</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Résines</string>
+			<string>SENSE</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Se fier à</string>
+			<string>SENSE</string>
+			<string>TABLER</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Galette de pain de l&apos;Inde</string>
+			<string>SENSE</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Pensées.</string>
+			<string>SENSE</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Fébrile</string>
+			<string>SENSE</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ornements légers</string>
+			<string>E</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On ne peut y nager</string>
+			<string> Poulie</string>
+			<string>RU</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> On ne peut y nager</string>
+			<string> D&apos;un auxiliaire</string>
+			<string>RU</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Utilisera</string>
+			<string> Faute</string>
+			<string>USERA</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string> Utilisera</string>
+			<string> Soie de porc</string>
+			<string>USERA</string>
+			<string>SETACE</string>
+		</array>
+		<array>
+			<string> Utilisera</string>
+			<string> Résines</string>
+			<string>USERA</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Utilisera</string>
+			<string> Se fier à</string>
+			<string>USERA</string>
+			<string>TABLER</string>
+		</array>
+		<array>
+			<string> Utilisera</string>
+			<string> Galette de pain de l&apos;Inde</string>
+			<string>USERA</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fébrile</string>
+			<string>U</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Il a perdu la guerre</string>
+			<string> Ornements légers</string>
+			<string>LEE</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string>  Il a perdu la guerre</string>
+			<string> Harnache</string>
+			<string>LEE</string>
+			<string>ENRENE</string>
+		</array>
+		<array>
+			<string>  Il a perdu la guerre</string>
+			<string> Poulie</string>
+			<string>LEE</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Consciences</string>
+			<string> Qui n&apos;a pas de sexe</string>
+			<string>AMES</string>
+			<string>ASEXUE</string>
+		</array>
+		<array>
+			<string> Consciences</string>
+			<string> Faute</string>
+			<string>AMES</string>
+			<string>ERRATUM</string>
+		</array>
+		<array>
+			<string> Consciences</string>
+			<string> Soie de porc</string>
+			<string>AMES</string>
+			<string>SETACE</string>
+		</array>
+		<array>
+			<string> Consciences</string>
+			<string> Résines</string>
+			<string>AMES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Galette de pain de l&apos;Inde</string>
+			<string>AUX</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Utilise</string>
+			<string>AUX</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Fébrile</string>
+			<string>AUX</string>
+			<string>NERVEUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Paresseux</string>
+			<string> Ornements légers</string>
+			<string>UNAUS</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Harnache</string>
+			<string>UNAUS</string>
+			<string>ENRENE</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Poulie</string>
+			<string>UNAUS</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Coutumes</string>
+			<string>UNAUS</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Qui n&apos;a pas de sexe</string>
+			<string>UNAUS</string>
+			<string>ASEXUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Soie de porc</string>
+			<string>T</string>
+			<string>SETACE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Son oncle est Sam</string>
+			<string>UNS</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Galette de pain de l&apos;Inde</string>
+			<string>UNS</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Utilise</string>
+			<string>UNS</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Chrome</string>
+			<string> Ornements légers</string>
+			<string>CR</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Chrome</string>
+			<string> Harnache</string>
+			<string>CR</string>
+			<string>ENRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Blocs de glace</string>
+			<string> Coutumes</string>
+			<string>SERACS</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Blocs de glace</string>
+			<string> Qui n&apos;a pas de sexe</string>
+			<string>SERACS</string>
+			<string>ASEXUE</string>
+		</array>
+		<array>
+			<string> Blocs de glace</string>
+			<string></string>
+			<string>SERACS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Blocs de glace</string>
+			<string> Soie de porc</string>
+			<string>SERACS</string>
+			<string>SETACE</string>
+		</array>
+		<array>
+			<string> Blocs de glace</string>
+			<string> Les abeilles en produisent</string>
+			<string>SERACS</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Blocs de glace</string>
+			<string> Son oncle est Sam</string>
+			<string>SERACS</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Utilise</string>
+			<string>ET</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Meurtri</string>
+			<string>ET</string>
+			<string>TALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Marque l&apos;hésitation</string>
+			<string> Ornements légers</string>
+			<string>HEU</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Marque l&apos;hésitation</string>
+			<string> Harnache</string>
+			<string>HEU</string>
+			<string>ENRENE</string>
+		</array>
+		<array>
+			<string> Marque l&apos;hésitation</string>
+			<string></string>
+			<string>HEU</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Qui n&apos;a pas de sexe</string>
+			<string>X</string>
+			<string>ASEXUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Au revoir</string>
+			<string> Soie de porc</string>
+			<string>CIAO</string>
+			<string>SETACE</string>
+		</array>
+		<array>
+			<string> Au revoir</string>
+			<string> Les abeilles en produisent</string>
+			<string>CIAO</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Au revoir</string>
+			<string> Son oncle est Sam</string>
+			<string>CIAO</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string> Au revoir</string>
+			<string> Choquant</string>
+			<string>CIAO</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Meurtri</string>
+			<string>A</string>
+			<string>TALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans</string>
+			<string> Ornements légers</string>
+			<string>EN</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Harnache</string>
+			<string>EN</string>
+			<string>ENRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Du verbe être</string>
+			<string>EULER</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Qui n&apos;a pas de sexe</string>
+			<string>EULER</string>
+			<string>ASEXUE</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Article</string>
+			<string>EULER</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Soie de porc</string>
+			<string>EULER</string>
+			<string>SETACE</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Les abeilles en produisent</string>
+			<string>EULER</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arbre de l&apos;Inde</string>
+			<string> Choquant</string>
+			<string>SAL</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Arbre de l&apos;Inde</string>
+			<string> Astate</string>
+			<string>SAL</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Arbre de l&apos;Inde</string>
+			<string> Meurtri</string>
+			<string>SAL</string>
+			<string>TALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Ornements légers</string>
+			<string>SENSEE</string>
+			<string>FANFRELUCHES</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Harnache</string>
+			<string>SENSEE</string>
+			<string>ENRENE</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string></string>
+			<string>SENSEE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Du verbe être</string>
+			<string>SENSEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Qui n&apos;a pas de sexe</string>
+			<string>SENSEE</string>
+			<string>ASEXUE</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Article</string>
+			<string>SENSEE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Les abeilles en produisent</string>
+			<string>ETETE</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string></string>
+			<string>ETETE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Choquant</string>
+			<string>ETETE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Astate</string>
+			<string>ETETE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Meurtri</string>
+			<string>ETETE</string>
+			<string>TALE</string>
+		</array>
+	</array>
+</array>
+</plist>

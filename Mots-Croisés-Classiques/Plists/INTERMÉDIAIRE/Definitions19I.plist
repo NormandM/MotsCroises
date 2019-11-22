@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Nettement</string>
+			<string>CAFOUILLER</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Or</string>
+			<string>CAFOUILLER</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Poète et auteur britannique</string>
+			<string>CAFOUILLER</string>
+			<string>FRY</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Lac des Pyrénées</string>
+			<string>CAFOUILLER</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Commando</string>
+			<string>CAFOUILLER</string>
+			<string>UNITE</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Traverse la Suisse et l&apos;Autriche</string>
+			<string>CAFOUILLER</string>
+			<string>INN</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Article</string>
+			<string>CAFOUILLER</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string></string>
+			<string>CAFOUILLER</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Raccourcir</string>
+			<string>CAFOUILLER</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string>Ne pas marcher</string>
+			<string>Eau-de-vie</string>
+			<string>CAFOUILLER</string>
+			<string>RHUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Nettement</string>
+			<string>LURONNE</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Or</string>
+			<string>LURONNE</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Poète et auteur britannique</string>
+			<string>LURONNE</string>
+			<string>FRY</string>
+		</array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Lac des Pyrénées</string>
+			<string>LURONNE</string>
+			<string>OO</string>
+		</array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Commando</string>
+			<string>LURONNE</string>
+			<string>UNITE</string>
+		</array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Traverse la Suisse et l&apos;Autriche</string>
+			<string>LURONNE</string>
+			<string>INN</string>
+		</array>
+		<array>
+			<string>Elle est joyeuse</string>
+			<string>Article</string>
+			<string>LURONNE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bohrium</string>
+			<string>Raccourcir</string>
+			<string>BH</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string>Bohrium</string>
+			<string>Eau-de-vie</string>
+			<string>BH</string>
+			<string>RHUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Nettement</string>
+			<string>A</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Poète et auteur britannique</string>
+			<string>Y</string>
+			<string>FRY</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À la mode</string>
+			<string>Commando</string>
+			<string>IN</string>
+			<string>UNITE</string>
+		</array>
+		<array>
+			<string>À la mode</string>
+			<string>Traverse la Suisse et l&apos;Autriche</string>
+			<string>IN</string>
+			<string>INN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dément</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>FOU</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Dément</string>
+			<string>Raccourcir</string>
+			<string>FOU</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string>Dément</string>
+			<string>Eau-de-vie</string>
+			<string>FOU</string>
+			<string>RHUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Idem</string>
+			<string>Nettement</string>
+			<string>ID</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Idem</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>ID</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Platine</string>
+			<string>lettre grec</string>
+			<string>PT</string>
+			<string>PHI</string>
+		</array>
+		<array>
+			<string>Platine</string>
+			<string>Commando</string>
+			<string>PT</string>
+			<string>UNITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le bruit d&apos;une explosion</string>
+			<string>Commune du Lot-et-Garonne</string>
+			<string>BOUM</string>
+			<string>BOE</string>
+		</array>
+		<array>
+			<string>Le bruit d&apos;une explosion</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>BOUM</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Le bruit d&apos;une explosion</string>
+			<string>Raccourcir</string>
+			<string>BOUM</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string>Le bruit d&apos;une explosion</string>
+			<string>Eau-de-vie</string>
+			<string>BOUM</string>
+			<string>RHUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Acteur Français</string>
+			<string>Nettement</string>
+			<string>ROCHEFORT</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>ROCHEFORT</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string></string>
+			<string>ROCHEFORT</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>lettre grec</string>
+			<string>ROCHEFORT</string>
+			<string>PHI</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>Commando</string>
+			<string>ROCHEFORT</string>
+			<string>UNITE</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>Faim</string>
+			<string>ROCHEFORT</string>
+			<string>FAMINE</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>Commune du Lot-et-Garonne</string>
+			<string>ROCHEFORT</string>
+			<string>BOE</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>ROCHEFORT</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Acteur Français</string>
+			<string>Raccourcir</string>
+			<string>ROCHEFORT</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans un diplôme universitaire</string>
+			<string>Nettement</string>
+			<string>ES</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Dans un diplôme universitaire</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>ES</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>lettre grec</string>
+			<string>I</string>
+			<string>PHI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Poètes de la Grèce ancienne</string>
+			<string>Faim</string>
+			<string>AEDES</string>
+			<string>FAMINE</string>
+		</array>
+		<array>
+			<string>Poètes de la Grèce ancienne</string>
+			<string>Commune du Lot-et-Garonne</string>
+			<string>AEDES</string>
+			<string>BOE</string>
+		</array>
+		<array>
+			<string>Poètes de la Grèce ancienne</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>AEDES</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Poètes de la Grèce ancienne</string>
+			<string>Raccourcir</string>
+			<string>AEDES</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string>Poètes de la Grèce ancienne</string>
+			<string>Il y en a cinq</string>
+			<string>AEDES</string>
+			<string>SENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Nettement</string>
+			<string>MAE</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>MAE</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Portée au pouvoir</string>
+			<string>MAE</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La moitié de la journée</string>
+			<string>Marque le but</string>
+			<string>AM</string>
+			<string>AFIN</string>
+		</array>
+		<array>
+			<string>La moitié de la journée</string>
+			<string>Faim</string>
+			<string>AM</string>
+			<string>FAMINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>IRE</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Raccourcir</string>
+			<string>IRE</string>
+			<string>EBOUTER</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Il y en a cinq</string>
+			<string>IRE</string>
+			<string>SENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Nettement</string>
+			<string>EGLEFINS</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>EGLEFINS</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Portée au pouvoir</string>
+			<string>EGLEFINS</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Erbium</string>
+			<string>EGLEFINS</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Marque le but</string>
+			<string>EGLEFINS</string>
+			<string>AFIN</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Faim</string>
+			<string>EGLEFINS</string>
+			<string>FAMINE</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>Ce n&apos;est pas la réponse espérée</string>
+			<string>EGLEFINS</string>
+			<string>NON</string>
+		</array>
+		<array>
+			<string>Poissons proches de la morue</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>EGLEFINS</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Il y en a cinq</string>
+			<string>N</string>
+			<string>SENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Nettement</string>
+			<string>NEURINOMES</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>NEURINOMES</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Portée au pouvoir</string>
+			<string>NEURINOMES</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Erbium</string>
+			<string>NEURINOMES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Marque le but</string>
+			<string>NEURINOMES</string>
+			<string>AFIN</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Faim</string>
+			<string>NEURINOMES</string>
+			<string>FAMINE</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Ce n&apos;est pas la réponse espérée</string>
+			<string>NEURINOMES</string>
+			<string>NON</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>NEURINOMES</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Einsteinium</string>
+			<string>NEURINOMES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Tumeurs généralement bénignes</string>
+			<string>Il y en a cinq</string>
+			<string>NEURINOMES</string>
+			<string>SENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Demi mouche</string>
+			<string>Nettement</string>
+			<string>TSE</string>
+			<string>CLAIREMENT</string>
+		</array>
+		<array>
+			<string>Demi mouche</string>
+			<string>Actions de mesurer avec précision</string>
+			<string>TSE</string>
+			<string>DOSAGES</string>
+		</array>
+		<array>
+			<string>Demi mouche</string>
+			<string>Portée au pouvoir</string>
+			<string>TSE</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Seins</string>
+			<string>Marque le but</string>
+			<string>NENES</string>
+			<string>AFIN</string>
+		</array>
+		<array>
+			<string>Seins</string>
+			<string>Faim</string>
+			<string>NENES</string>
+			<string>FAMINE</string>
+		</array>
+		<array>
+			<string>Seins</string>
+			<string>Ce n&apos;est pas la réponse espérée</string>
+			<string>NENES</string>
+			<string>NON</string>
+		</array>
+		<array>
+			<string>Seins</string>
+			<string>La réorganisation du travail au début du 20e siècle</string>
+			<string>NENES</string>
+			<string>FORDISME</string>
+		</array>
+		<array>
+			<string>Seins</string>
+			<string>Einsteinium</string>
+			<string>NENES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

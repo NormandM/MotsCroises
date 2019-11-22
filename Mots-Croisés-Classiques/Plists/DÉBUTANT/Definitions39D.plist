@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Alliage de cuivre et de zinc</string>
+			<string>LESINER</string>
+			<string>LAITON</string>
+		</array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>LESINER</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Police nazi</string>
+			<string>LESINER</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Petit mot latin</string>
+			<string>LESINER</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Station touristique du sud de la France</string>
+			<string>LESINER</string>
+			<string>NICE</string>
+		</array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Forme de futurs cadres</string>
+			<string>LESINER</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Épargner avec avarice</string>
+			<string> Unies</string>
+			<string>LESINER</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Stupéfiant.</string>
+			<string>ES</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Pronom</string>
+			<string>ES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Privation</string>
+			<string> Alliage de cuivre et de zinc</string>
+			<string>ABSTINENCE</string>
+			<string>LAITON</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>ABSTINENCE</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Police nazi</string>
+			<string>ABSTINENCE</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Petit mot latin</string>
+			<string>ABSTINENCE</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Station touristique du sud de la France</string>
+			<string>ABSTINENCE</string>
+			<string>NICE</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Forme de futurs cadres</string>
+			<string>ABSTINENCE</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Unies</string>
+			<string>ABSTINENCE</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Des lumières dans la nuit</string>
+			<string>ABSTINENCE</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Stupéfiant.</string>
+			<string>ABSTINENCE</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> Privation</string>
+			<string> Pronom</string>
+			<string>ABSTINENCE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> C'est-à-dire</string>
+			<string> Alliage de cuivre et de zinc</string>
+			<string>IE</string>
+			<string>LAITON</string>
+		</array>
+		<array>
+			<string> C'est-à-dire</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>IE</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écorces</string>
+			<string> Petit mot latin</string>
+			<string>ECALES</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Écorces</string>
+			<string> Station touristique du sud de la France</string>
+			<string>ECALES</string>
+			<string>NICE</string>
+		</array>
+		<array>
+			<string> Écorces</string>
+			<string> Forme de futurs cadres</string>
+			<string>ECALES</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Écorces</string>
+			<string> Unies</string>
+			<string>ECALES</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string> Écorces</string>
+			<string> Des lumières dans la nuit</string>
+			<string>ECALES</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Écorces</string>
+			<string> Stupéfiant.</string>
+			<string>ECALES</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sert pour la démolition</string>
+			<string> Alliage de cuivre et de zinc</string>
+			<string>TNT</string>
+			<string>LAITON</string>
+		</array>
+		<array>
+			<string> Sert pour la démolition</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>TNT</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Sert pour la démolition</string>
+			<string> Délavés</string>
+			<string>TNT</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Station touristique du sud de la France</string>
+			<string>E</string>
+			<string>NICE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Unies</string>
+			<string>IOTA</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Des lumières dans la nuit</string>
+			<string>IOTA</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Stupéfiant.</string>
+			<string>IOTA</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Singes aux bras longs</string>
+			<string>IOTA</string>
+			<string>ATELES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Oiseaux de basse-cour</string>
+			<string> Alliage de cuivre et de zinc</string>
+			<string>OIES</string>
+			<string>LAITON</string>
+		</array>
+		<array>
+			<string> Oiseaux de basse-cour</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>OIES</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Oiseaux de basse-cour</string>
+			<string> Délavés</string>
+			<string>OIES</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Oiseaux de basse-cour</string>
+			<string> Science-Fiction</string>
+			<string>OIES</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Assemblée politique</string>
+			<string></string>
+			<string>SENAT</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Assemblée politique</string>
+			<string> Unies</string>
+			<string>SENAT</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string> Assemblée politique</string>
+			<string> Des lumières dans la nuit</string>
+			<string>SENAT</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Assemblée politique</string>
+			<string> Stupéfiant.</string>
+			<string>SENAT</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> Assemblée politique</string>
+			<string> Singes aux bras longs</string>
+			<string>SENAT</string>
+			<string>ATELES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tendons</string>
+			<string> Alliage de cuivre et de zinc</string>
+			<string>NERFS</string>
+			<string>LAITON</string>
+		</array>
+		<array>
+			<string> Tendons</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>NERFS</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Tendons</string>
+			<string> Délavés</string>
+			<string>NERFS</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Tendons</string>
+			<string> Science-Fiction</string>
+			<string>NERFS</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string> Tendons</string>
+			<string> Note</string>
+			<string>NERFS</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Unies</string>
+			<string>ESSE</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Des lumières dans la nuit</string>
+			<string>ESSE</string>
+			<string>NEONS</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Stupéfiant.</string>
+			<string>ESSE</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> Crochet</string>
+			<string> Singes aux bras longs</string>
+			<string>ESSE</string>
+			<string>ATELES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>RN</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Délavés</string>
+			<string>RN</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conifères décoratifs</string>
+			<string> Note</string>
+			<string>IFS</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string> Conifères décoratifs</string>
+			<string> Organe de l'abdomen </string>
+			<string>IFS</string>
+			<string>FOIE</string>
+		</array>
+		<array>
+			<string> Conifères décoratifs</string>
+			<string> Unies</string>
+			<string>IFS</string>
+			<string>RELIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Stupéfiant.</string>
+			<string>IL</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Singes aux bras longs</string>
+			<string>IL</string>
+			<string>ATELES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fonces</string>
+			<string> Possèdent</string>
+			<string>OSES</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Fonces</string>
+			<string> Arbres tropicaux qui fournissent un beau bois.</string>
+			<string>OSES</string>
+			<string>EBENIERS</string>
+		</array>
+		<array>
+			<string> Fonces</string>
+			<string> Délavés</string>
+			<string>OSES</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Fonces</string>
+			<string> Possessif.</string>
+			<string>OSES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Organe de l'abdomen </string>
+			<string>O</string>
+			<string>FOIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Le troisième</string>
+			<string>TEE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Stupéfiant.</string>
+			<string>TEE</string>
+			<string>ECSTASIE</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Singes aux bras longs</string>
+			<string>TEE</string>
+			<string>ATELES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Possèdent</string>
+			<string>N</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répète</string>
+			<string> Délavés</string>
+			<string>SERINE</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Répète</string>
+			<string> Possessif.</string>
+			<string>SERINE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Répète</string>
+			<string> Petit ruisseau</string>
+			<string>SERINE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Répète</string>
+			<string> Organe de l'abdomen </string>
+			<string>SERINE</string>
+			<string>FOIE</string>
+		</array>
+		<array>
+			<string> Répète</string>
+			<string> Dépouillé</string>
+			<string>SERINE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Répète</string>
+			<string> Le troisième</string>
+			<string>SERINE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Singes aux bras longs</string>
+			<string>S</string>
+			<string>ATELES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> Possèdent</string>
+			<string>TA</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string></string>
+			<string>TA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Transpirations</string>
+			<string> Possessif.</string>
+			<string>SUEURS</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Transpirations</string>
+			<string> Petit ruisseau</string>
+			<string>SUEURS</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Transpirations</string>
+			<string> Organe de l'abdomen </string>
+			<string>SUEURS</string>
+			<string>FOIE</string>
+		</array>
+		<array>
+			<string> Transpirations</string>
+			<string> Dépouillé</string>
+			<string>SUEURS</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Transpirations</string>
+			<string> Le troisième</string>
+			<string>SUEURS</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Transpirations</string>
+			<string></string>
+			<string>SUEURS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

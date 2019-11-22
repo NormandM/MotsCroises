@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Agité</string>
+			<string>EDUCATIONNEL</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> On la vénère</string>
+			<string>EDUCATIONNEL</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Instrument du Maghreb</string>
+			<string>EDUCATIONNEL</string>
+			<string>UD</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Champignons</string>
+			<string>EDUCATIONNEL</string>
+			<string>CEPES</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Dieu de la guerre</string>
+			<string>EDUCATIONNEL</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string>  Règles</string>
+			<string>EDUCATIONNEL</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string></string>
+			<string>EDUCATIONNEL</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Ennui</string>
+			<string>EDUCATIONNEL</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string>Clartés</string>
+			<string>EDUCATIONNEL</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Refute</string>
+			<string>EDUCATIONNEL</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> Ultérieurement</string>
+			<string>EDUCATIONNEL</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Pédagogique</string>
+			<string> D&apos;un pays Balte</string>
+			<string>EDUCATIONNEL</string>
+			<string>LETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Réuni</string>
+			<string> Agité</string>
+			<string>FEDERE</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Réuni</string>
+			<string> On la vénère</string>
+			<string>FEDERE</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Réuni</string>
+			<string> Instrument du Maghreb</string>
+			<string>FEDERE</string>
+			<string>UD</string>
+		</array>
+		<array>
+			<string> Réuni</string>
+			<string> Champignons</string>
+			<string>FEDERE</string>
+			<string>CEPES</string>
+		</array>
+		<array>
+			<string> Réuni</string>
+			<string> Dieu de la guerre</string>
+			<string>FEDERE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Réuni</string>
+			<string>  Règles</string>
+			<string>FEDERE</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Ennui</string>
+			<string>SEINE</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string>Clartés</string>
+			<string>SEINE</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Refute</string>
+			<string>SEINE</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> Ultérieurement</string>
+			<string>SEINE</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Elle traverse Paris</string>
+			<string> D&apos;un pays Balte</string>
+			<string>SEINE</string>
+			<string>LETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Exprime le dédain</string>
+			<string> Agité</string>
+			<string>FI</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Exprime le dédain</string>
+			<string> On la vénère</string>
+			<string>FI</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Examine</string>
+			<string> Champignons</string>
+			<string>PESE</string>
+			<string>CEPES</string>
+		</array>
+		<array>
+			<string> Examine</string>
+			<string> Dieu de la guerre</string>
+			<string>PESE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Examine</string>
+			<string>  Règles</string>
+			<string>PESE</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> Examine</string>
+			<string> Direction</string>
+			<string>PESE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string>Clartés</string>
+			<string>TEST</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Refute</string>
+			<string>TEST</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Ultérieurement</string>
+			<string>TEST</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> D&apos;un pays Balte</string>
+			<string>TEST</string>
+			<string>LETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Personnes</string>
+			<string> Agité</string>
+			<string>ETRES</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> On la vénère</string>
+			<string>ETRES</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Déferlements</string>
+			<string>ETRES</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Champignons</string>
+			<string>ETRES</string>
+			<string>CEPES</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Dieu de la guerre</string>
+			<string>ETRES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Idiot</string>
+			<string> Direction</string>
+			<string>SOT</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Idiot</string>
+			<string> Personnage de la mythologie grecque</string>
+			<string>SOT</string>
+			<string>ORESTE</string>
+		</array>
+		<array>
+			<string> Idiot</string>
+			<string>Clartés</string>
+			<string>SOT</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Ultérieurement</string>
+			<string>UT</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> D&apos;un pays Balte</string>
+			<string>UT</string>
+			<string>LETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville d&apos;Espagne</string>
+			<string> Agité</string>
+			<string>REUS</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Espagne</string>
+			<string> On la vénère</string>
+			<string>REUS</string>
+			<string>DEITE</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Espagne</string>
+			<string> Déferlements</string>
+			<string>REUS</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Espagne</string>
+			<string> Champignons</string>
+			<string>REUS</string>
+			<string>CEPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string> Tollés</string>
+			<string>HERESIE</string>
+			<string>HUEES</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string> Direction</string>
+			<string>HERESIE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string> Personnage de la mythologie grecque</string>
+			<string>HERESIE</string>
+			<string>ORESTE</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string>Clartés</string>
+			<string>HERESIE</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>HERESIE</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string> Ultérieurement</string>
+			<string>HERESIE</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Heurte les opinions communément admises</string>
+			<string> D&apos;un pays Balte</string>
+			<string>HERESIE</string>
+			<string>LETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Agité</string>
+			<string>V</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Déferlements</string>
+			<string>E</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> D&apos;un auxiliaire</string>
+			<string></string>
+			<string>EU</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> D&apos;un auxiliaire</string>
+			<string> Tollés</string>
+			<string>EU</string>
+			<string>HUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dispositions</string>
+			<string> Personnage de la mythologie grecque</string>
+			<string>ETATS</string>
+			<string>ORESTE</string>
+		</array>
+		<array>
+			<string> Dispositions</string>
+			<string>Clartés</string>
+			<string>ETATS</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string> Dispositions</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>ETATS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Dispositions</string>
+			<string> Ultérieurement</string>
+			<string>ETATS</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Dispositions</string>
+			<string> D&apos;un pays Balte</string>
+			<string>ETATS</string>
+			<string>LETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes</string>
+			<string> Agité</string>
+			<string>ERES</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Demeurée</string>
+			<string>ERES</string>
+			<string>RESTEE</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Déferlements</string>
+			<string>ERES</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Contenant</string>
+			<string>ERES</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Tollés</string>
+			<string>ERSE</string>
+			<string>HUEES</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string></string>
+			<string>ERSE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Personnage de la mythologie grecque</string>
+			<string>ERSE</string>
+			<string>ORESTE</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string>Clartés</string>
+			<string>ERSE</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ultérieurement</string>
+			<string>E</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fait partie d&apos;un mot de passe</string>
+			<string> Agité</string>
+			<string>SESAME</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Fait partie d&apos;un mot de passe</string>
+			<string> Demeurée</string>
+			<string>SESAME</string>
+			<string>RESTEE</string>
+		</array>
+		<array>
+			<string> Fait partie d&apos;un mot de passe</string>
+			<string> Déferlements</string>
+			<string>SESAME</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Fait partie d&apos;un mot de passe</string>
+			<string> Contenant</string>
+			<string>SESAME</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Fait partie d&apos;un mot de passe</string>
+			<string> Maison rurale de Provence</string>
+			<string>SESAME</string>
+			<string>MAS</string>
+		</array>
+		<array>
+			<string> Fait partie d&apos;un mot de passe</string>
+			<string> Tollés</string>
+			<string>SESAME</string>
+			<string>HUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Demi mouche</string>
+			<string> Personnage de la mythologie grecque</string>
+			<string>TSE</string>
+			<string>ORESTE</string>
+		</array>
+		<array>
+			<string> Demi mouche</string>
+			<string>Clartés</string>
+			<string>TSE</string>
+			<string>NETTETES</string>
+		</array>
+		<array>
+			<string> Demi mouche</string>
+			<string> Écossais</string>
+			<string>TSE</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Désavantagée</string>
+			<string>L</string>
+			<string>LESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Agité</string>
+			<string>CS</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Demeurée</string>
+			<string>CS</string>
+			<string>RESTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Placée</string>
+			<string> Contenant</string>
+			<string>CASEE</string>
+			<string>SAC</string>
+		</array>
+		<array>
+			<string> Placée</string>
+			<string> Maison rurale de Provence</string>
+			<string>CASEE</string>
+			<string>MAS</string>
+		</array>
+		<array>
+			<string> Placée</string>
+			<string> Tollés</string>
+			<string>CASEE</string>
+			<string>HUEES</string>
+		</array>
+		<array>
+			<string> Placée</string>
+			<string> Portée par le chevalier</string>
+			<string>CASEE</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string> Placée</string>
+			<string> Personnage de la mythologie grecque</string>
+			<string>CASEE</string>
+			<string>ORESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Écossais</string>
+			<string>REE</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Périodes de vacances</string>
+			<string>REE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Désavantagée</string>
+			<string>REE</string>
+			<string>LESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Agité</string>
+			<string>ETA</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Demeurée</string>
+			<string>ETA</string>
+			<string>RESTEE</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Lopin de terre</string>
+			<string>ETA</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Maison rurale de Provence</string>
+			<string>S</string>
+			<string>MAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Portée par le chevalier</string>
+			<string>P</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Armées du Moyen Âge</string>
+			<string> Conjonction</string>
+			<string>OSTS</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Armées du Moyen Âge</string>
+			<string> Écossais</string>
+			<string>OSTS</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Armées du Moyen Âge</string>
+			<string> Périodes de vacances</string>
+			<string>OSTS</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Armées du Moyen Âge</string>
+			<string> Désavantagée</string>
+			<string>OSTS</string>
+			<string>LESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Agité</string>
+			<string>NERE</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Demeurée</string>
+			<string>NERE</string>
+			<string>RESTEE</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Lopin de terre</string>
+			<string>NERE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Dans</string>
+			<string>NERE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Renseignements généraux</string>
+			<string>RECREEE</string>
+			<string>RG</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Portée par le chevalier</string>
+			<string>RECREEE</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Chrome</string>
+			<string>RECREEE</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Conjonction</string>
+			<string>RECREEE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Écossais</string>
+			<string>RECREEE</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Périodes de vacances</string>
+			<string>RECREEE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Reconstituée</string>
+			<string> Désavantagée</string>
+			<string>RECREEE</string>
+			<string>LESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Adolescent</string>
+			<string> Agité</string>
+			<string>TEENAGER</string>
+			<string>EFFERVESCENT</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string> Demeurée</string>
+			<string>TEENAGER</string>
+			<string>RESTEE</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string> Lopin de terre</string>
+			<string>TEENAGER</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string> Dans</string>
+			<string>TEENAGER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string></string>
+			<string>TEENAGER</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string> Renseignements généraux</string>
+			<string>TEENAGER</string>
+			<string>RG</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string> Portée par le chevalier</string>
+			<string>TEENAGER</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string> Adolescent</string>
+			<string> Chrome</string>
+			<string>TEENAGER</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string> Écossais</string>
+			<string>SSE</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string> Périodes de vacances</string>
+			<string>SSE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
+			<string> Désavantagée</string>
+			<string>SSE</string>
+			<string>LESEE</string>
+		</array>
+	</array>
+</array>
+</plist>

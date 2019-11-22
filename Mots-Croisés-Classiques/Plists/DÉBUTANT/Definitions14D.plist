@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Grand respect</string>
+			<string>VOLONTIERS</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Doubler</string>
+			<string>VOLONTIERS</string>
+			<string>OUATER</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Lawrencium</string>
+			<string>VOLONTIERS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> A tué sa mère</string>
+			<string>VOLONTIERS</string>
+			<string>OEDIPE</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string></string>
+			<string>VOLONTIERS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Le troisième</string>
+			<string>VOLONTIERS</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Prénom espagnol</string>
+			<string>VOLONTIERS</string>
+			<string>INES</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Extra terrestre</string>
+			<string>VOLONTIERS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Tangible</string>
+			<string>VOLONTIERS</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Avec plaisir!</string>
+			<string> Séance</string>
+			<string>VOLONTIERS</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Grand respect</string>
+			<string>EURE</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Doubler</string>
+			<string>EURE</string>
+			<string>OUATER</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Lawrencium</string>
+			<string>EURE</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> A tué sa mère</string>
+			<string>EURE</string>
+			<string>OEDIPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Greffée</string>
+			<string> Le troisième</string>
+			<string>ENTEE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Greffée</string>
+			<string> Prénom espagnol</string>
+			<string>ENTEE</string>
+			<string>INES</string>
+		</array>
+		<array>
+			<string> Greffée</string>
+			<string> Extra terrestre</string>
+			<string>ENTEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Greffée</string>
+			<string> Tangible</string>
+			<string>ENTEE</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Greffée</string>
+			<string> Séance</string>
+			<string>ENTEE</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sodium</string>
+			<string> Grand respect</string>
+			<string>NA</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Sodium</string>
+			<string> Doubler</string>
+			<string>NA</string>
+			<string>OUATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coriace</string>
+			<string> A tué sa mère</string>
+			<string>DURE</string>
+			<string>OEDIPE</string>
+		</array>
+		<array>
+			<string> Coriace</string>
+			<string> Manufacture</string>
+			<string>DURE</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string> Coriace</string>
+			<string> Le troisième</string>
+			<string>DURE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Coriace</string>
+			<string> Prénom espagnol</string>
+			<string>DURE</string>
+			<string>INES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Tangible</string>
+			<string>ES</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Séance</string>
+			<string>ES</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existais</string>
+			<string> Grand respect</string>
+			<string>ETAIS</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Existais</string>
+			<string> Doubler</string>
+			<string>ETAIS</string>
+			<string>OUATER</string>
+		</array>
+		<array>
+			<string> Existais</string>
+			<string></string>
+			<string>ETAIS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Existais</string>
+			<string> A tué sa mère</string>
+			<string>ETAIS</string>
+			<string>OEDIPE</string>
+		</array>
+		<array>
+			<string> Existais</string>
+			<string> Manufacture</string>
+			<string>ETAIS</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sont appréciés pour prendre un bain</string>
+			<string> Prénom espagnol</string>
+			<string>SELS</string>
+			<string>INES</string>
+		</array>
+		<array>
+			<string> Sont appréciés pour prendre un bain</string>
+			<string> Infinitif</string>
+			<string>SELS</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Sont appréciés pour prendre un bain</string>
+			<string> Tangible</string>
+			<string>SELS</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Sont appréciés pour prendre un bain</string>
+			<string> Séance</string>
+			<string>SELS</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note de musique</string>
+			<string> Grand respect</string>
+			<string>RE</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Doubler</string>
+			<string>RE</string>
+			<string>OUATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle parle beaucoup</string>
+			<string> A tué sa mère</string>
+			<string>PIE</string>
+			<string>OEDIPE</string>
+		</array>
+		<array>
+			<string> Elle parle beaucoup</string>
+			<string> Manufacture</string>
+			<string>PIE</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string> Elle parle beaucoup</string>
+			<string>De nature céleste</string>
+			<string>PIE</string>
+			<string>ETHERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Infinitif</string>
+			<string>R</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Séance</string>
+			<string>I</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Capitaux</string>
+			<string> Grand respect</string>
+			<string>ARGENTS</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Capitaux</string>
+			<string> Doubler</string>
+			<string>ARGENTS</string>
+			<string>OUATER</string>
+		</array>
+		<array>
+			<string> Capitaux</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>ARGENTS</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string> Capitaux</string>
+			<string> A tué sa mère</string>
+			<string>ARGENTS</string>
+			<string>OEDIPE</string>
+		</array>
+		<array>
+			<string> Capitaux</string>
+			<string> Manufacture</string>
+			<string>ARGENTS</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string> Capitaux</string>
+			<string>De nature céleste</string>
+			<string>ARGENTS</string>
+			<string>ETHERE</string>
+		</array>
+		<array>
+			<string> Capitaux</string>
+			<string></string>
+			<string>ARGENTS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monoxyde de Carbone</string>
+			<string> Démonstratif</string>
+			<string>CO</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Monoxyde de Carbone</string>
+			<string> Séance</string>
+			<string>CO</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Grand respect</string>
+			<string>T</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>N</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Interjection</string>
+			<string> Manufacture</string>
+			<string>EH</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string> Interjection</string>
+			<string>De nature céleste</string>
+			<string>EH</string>
+			<string>ETHERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Pronom</string>
+			<string>SEN</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Démonstratif</string>
+			<string>SEN</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Séance</string>
+			<string>SEN</string>
+			<string>SESSION</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> Grand respect</string>
+			<string>IRES</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> Radon</string>
+			<string>IRES</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>IRES</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string> Vieilles colères</string>
+			<string></string>
+			<string>IRES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Diffuse</string>
+			<string>De nature céleste</string>
+			<string>EMET</string>
+			<string>ETHERE</string>
+		</array>
+		<array>
+			<string> Diffuse</string>
+			<string> Place</string>
+			<string>EMET</string>
+			<string>MET</string>
+		</array>
+		<array>
+			<string> Diffuse</string>
+			<string> Pronom</string>
+			<string>EMET</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Diffuse</string>
+			<string> Démonstratif</string>
+			<string>EMET</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possèdent</string>
+			<string> Grand respect</string>
+			<string>ONT</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string> Possèdent</string>
+			<string> Radon</string>
+			<string>ONT</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Possèdent</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>ONT</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> 100 mètres carrés de terrain</string>
+			<string> Astate</string>
+			<string>ARE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> 100 mètres carrés de terrain</string>
+			<string>De nature céleste</string>
+			<string>ARE</string>
+			<string>ETHERE</string>
+		</array>
+		<array>
+			<string> 100 mètres carrés de terrain</string>
+			<string> Place</string>
+			<string>ARE</string>
+			<string>MET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Démonstratif</string>
+			<string>TA</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Du verbe avoir</string>
+			<string>TA</string>
+			<string>AS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Grand respect</string>
+			<string>N</string>
+			<string>VENERATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>ENTETEES</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string></string>
+			<string>ENTETEES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string> Astate</string>
+			<string>ENTETEES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string>De nature céleste</string>
+			<string>ENTETEES</string>
+			<string>ETHERE</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string> Place</string>
+			<string>ENTETEES</string>
+			<string>MET</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string></string>
+			<string>ENTETEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string> Démonstratif</string>
+			<string>ENTETEES</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Ânes</string>
+			<string> Du verbe avoir</string>
+			<string>ENTETEES</string>
+			<string>AS</string>
+		</array>
+	</array>
+</array>
+</plist>

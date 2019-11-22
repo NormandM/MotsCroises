@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Complots</string>
+			<string> Instrument de mesure</string>
+			<string>MACHINATIONS</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Assisterions</string>
+			<string>MACHINATIONS</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Symbole chimique</string>
+			<string>MACHINATIONS</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Écrivain suisse</string>
+			<string>MACHINATIONS</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string></string>
+			<string>MACHINATIONS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> En mauvais état</string>
+			<string>MACHINATIONS</string>
+			<string>NASES</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Air Canada</string>
+			<string>MACHINATIONS</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Le troisième</string>
+			<string>MACHINATIONS</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Incompétentes</string>
+			<string>MACHINATIONS</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> C&apos;était une armée</string>
+			<string>MACHINATIONS</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Arrivées</string>
+			<string>MACHINATIONS</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Complots</string>
+			<string> Élégantes</string>
+			<string>MACHINATIONS</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Riche</string>
+			<string> Instrument de mesure</string>
+			<string>AISE</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Assisterions</string>
+			<string>AISE</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Symbole chimique</string>
+			<string>AISE</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Écrivain suisse</string>
+			<string>AISE</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> En mauvais état</string>
+			<string>ACENSEE</string>
+			<string>NASES</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> Air Canada</string>
+			<string>ACENSEE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> Le troisième</string>
+			<string>ACENSEE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> Incompétentes</string>
+			<string>ACENSEE</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> C&apos;était une armée</string>
+			<string>ACENSEE</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> Arrivées</string>
+			<string>ACENSEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Donnée la propriété utile d&apos;une ferme</string>
+			<string> Élégantes</string>
+			<string>ACENSEE</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Gadolinium</string>
+			<string> Instrument de mesure</string>
+			<string>GD</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Gadolinium</string>
+			<string> Assisterions</string>
+			<string>GD</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Écrivain suisse</string>
+			<string>SES</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string></string>
+			<string>SES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> En mauvais état</string>
+			<string>SES</string>
+			<string>NASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Blaireau</string>
+			<string> Le troisième</string>
+			<string>RATEL</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Blaireau</string>
+			<string> Incompétentes</string>
+			<string>RATEL</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string> Blaireau</string>
+			<string> C&apos;était une armée</string>
+			<string>RATEL</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Blaireau</string>
+			<string> Arrivées</string>
+			<string>RATEL</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Blaireau</string>
+			<string> Élégantes</string>
+			<string>RATEL</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mets vietnamiens</string>
+			<string> Instrument de mesure</string>
+			<string>NEMS</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Mets vietnamiens</string>
+			<string> Assisterions</string>
+			<string>NEMS</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Mets vietnamiens</string>
+			<string> Dépôt sédimentaire</string>
+			<string>NEMS</string>
+			<string>MERL</string>
+		</array>
+		<array>
+			<string> Mets vietnamiens</string>
+			<string> Écrivain suisse</string>
+			<string>NEMS</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> En mauvais état</string>
+			<string>ES</string>
+			<string>NASES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Convienne</string>
+			<string>ES</string>
+			<string>SIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Incompétentes</string>
+			<string>P</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Arrivées</string>
+			<string>SE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Élégantes</string>
+			<string>SE</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Période</string>
+			<string> Instrument de mesure</string>
+			<string>ERE</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Assisterions</string>
+			<string>ERE</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Dépôt sédimentaire</string>
+			<string>ERE</string>
+			<string>MERL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Originaire de l&apos;orient</string>
+			<string> Métal blanc</string>
+			<string>ASIATE</string>
+			<string>ARGENT</string>
+		</array>
+		<array>
+			<string> Originaire de l&apos;orient</string>
+			<string> En mauvais état</string>
+			<string>ASIATE</string>
+			<string>NASES</string>
+		</array>
+		<array>
+			<string> Originaire de l&apos;orient</string>
+			<string> Convienne</string>
+			<string>ASIATE</string>
+			<string>SIEE</string>
+		</array>
+		<array>
+			<string> Originaire de l&apos;orient</string>
+			<string> Astate</string>
+			<string>ASIATE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Originaire de l&apos;orient</string>
+			<string> Incompétentes</string>
+			<string>ASIATE</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string> Originaire de l&apos;orient</string>
+			<string> Station balnéaire</string>
+			<string>ASIATE</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Élégantes</string>
+			<string>C</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Haler</string>
+			<string> Instrument de mesure</string>
+			<string>TIRER</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Assisterions</string>
+			<string>TIRER</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Dépôt sédimentaire</string>
+			<string>TIRER</string>
+			<string>MERL</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Agent secret de Louis XV</string>
+			<string>TIRER</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Métal blanc</string>
+			<string>TIRER</string>
+			<string>ARGENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Raccourcît</string>
+			<string> Convienne</string>
+			<string>ETETAT</string>
+			<string>SIEE</string>
+		</array>
+		<array>
+			<string> Raccourcît</string>
+			<string> Astate</string>
+			<string>ETETAT</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Raccourcît</string>
+			<string> Incompétentes</string>
+			<string>ETETAT</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string> Raccourcît</string>
+			<string> Station balnéaire</string>
+			<string>ETETAT</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string> Raccourcît</string>
+			<string> Encoignure</string>
+			<string>ETETAT</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string> Raccourcît</string>
+			<string> Élégantes</string>
+			<string>ETETAT</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Instrument de mesure</string>
+			<string>OOLOGIE</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Assisterions</string>
+			<string>OOLOGIE</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Dépôt sédimentaire</string>
+			<string>OOLOGIE</string>
+			<string>MERL</string>
+		</array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Agent secret de Louis XV</string>
+			<string>OOLOGIE</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Métal blanc</string>
+			<string>OOLOGIE</string>
+			<string>ARGENT</string>
+		</array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Plante lacustre</string>
+			<string>OOLOGIE</string>
+			<string>ISOETE</string>
+		</array>
+		<array>
+			<string> Étude des oeufs</string>
+			<string> Convienne</string>
+			<string>OOLOGIE</string>
+			<string>SIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Incompétentes</string>
+			<string>SERE</string>
+			<string>INAPTES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Station balnéaire</string>
+			<string>SERE</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Encoignure</string>
+			<string>SERE</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Élégantes</string>
+			<string>SERE</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Manganèse</string>
+			<string> Instrument de mesure</string>
+			<string>MN</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Manganèse</string>
+			<string> Assisterions</string>
+			<string>MN</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Ont ouvert les yeux</string>
+			<string> Agent secret de Louis XV</string>
+			<string>NES</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string>  Ont ouvert les yeux</string>
+			<string> Métal blanc</string>
+			<string>NES</string>
+			<string>ARGENT</string>
+		</array>
+		<array>
+			<string>  Ont ouvert les yeux</string>
+			<string> Plante lacustre</string>
+			<string>NES</string>
+			<string>ISOETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mousseux d&apos;Italie</string>
+			<string>A</string>
+			<string>ASTI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Station balnéaire</string>
+			<string>LES</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Encoignure</string>
+			<string>LES</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Élégantes</string>
+			<string>LES</string>
+			<string>SELECTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Direction</string>
+			<string> Instrument de mesure</string>
+			<string>ESE</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Assisterions</string>
+			<string>ESE</string>
+			<string>AIDERIONS</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Diffuse</string>
+			<string>ESE</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Acte de la pensée</string>
+			<string> Métal blanc</string>
+			<string>NOESE</string>
+			<string>ARGENT</string>
+		</array>
+		<array>
+			<string> Acte de la pensée</string>
+			<string> Plante lacustre</string>
+			<string>NOESE</string>
+			<string>ISOETE</string>
+		</array>
+		<array>
+			<string> Acte de la pensée</string>
+			<string> Alcène</string>
+			<string>NOESE</string>
+			<string>ENOL</string>
+		</array>
+		<array>
+			<string> Acte de la pensée</string>
+			<string> Mousseux d&apos;Italie</string>
+			<string>NOESE</string>
+			<string>ASTI</string>
+		</array>
+		<array>
+			<string> Acte de la pensée</string>
+			<string></string>
+			<string>NOESE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Encoignure</string>
+			<string>T</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Instrument de mesure</string>
+			<string>T</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Domptent</string>
+			<string> Diffuse</string>
+			<string>MATENT</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string> Domptent</string>
+			<string> Enzyme</string>
+			<string>MATENT</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Domptent</string>
+			<string> Métal blanc</string>
+			<string>MATENT</string>
+			<string>ARGENT</string>
+		</array>
+		<array>
+			<string> Domptent</string>
+			<string> Plante lacustre</string>
+			<string>MATENT</string>
+			<string>ISOETE</string>
+		</array>
+		<array>
+			<string> Domptent</string>
+			<string> Alcène</string>
+			<string>MATENT</string>
+			<string>ENOL</string>
+		</array>
+		<array>
+			<string> Domptent</string>
+			<string> Mousseux d&apos;Italie</string>
+			<string>MATENT</string>
+			<string>ASTI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Désavoua</string>
+			<string> Nickel</string>
+			<string>NIA</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Désavoua</string>
+			<string> Encoignure</string>
+			<string>NIA</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string> Désavoua</string>
+			<string> Lopin de terre</string>
+			<string>NIA</string>
+			<string>ARE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elles se croisent</string>
+			<string> Instrument de mesure</string>
+			<string>RUES</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Elles se croisent</string>
+			<string> Coutumes</string>
+			<string>RUES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Elles se croisent</string>
+			<string> Diffuse</string>
+			<string>RUES</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string> Elles se croisent</string>
+			<string> Enzyme</string>
+			<string>RUES</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Plante lacustre</string>
+			<string>TOILIER</string>
+			<string>ISOETE</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Alcène</string>
+			<string>TOILIER</string>
+			<string>ENOL</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Mousseux d&apos;Italie</string>
+			<string>TOILIER</string>
+			<string>ASTI</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Note qui donne le ton</string>
+			<string>TOILIER</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Nickel</string>
+			<string>TOILIER</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Encoignure</string>
+			<string>TOILIER</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string> Fabrique du tissu</string>
+			<string> Lopin de terre</string>
+			<string>TOILIER</string>
+			<string>ARE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Massif de Provence</string>
+			<string> Instrument de mesure</string>
+			<string>ESTEREL</string>
+			<string>MAGNETOMETRE</string>
+		</array>
+		<array>
+			<string> Massif de Provence</string>
+			<string> Coutumes</string>
+			<string>ESTEREL</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Massif de Provence</string>
+			<string> Diffuse</string>
+			<string>ESTEREL</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string> Massif de Provence</string>
+			<string> Enzyme</string>
+			<string>ESTEREL</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Massif de Provence</string>
+			<string></string>
+			<string>ESTEREL</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Massif de Provence</string>
+			<string> Plante lacustre</string>
+			<string>ESTEREL</string>
+			<string>ISOETE</string>
+		</array>
+		<array>
+			<string> Massif de Provence</string>
+			<string> Alcène</string>
+			<string>ESTEREL</string>
+			<string>ENOL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Note qui donne le ton</string>
+			<string>A</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Encoignure</string>
+			<string>RE</string>
+			<string>ARETIER</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Lopin de terre</string>
+			<string>RE</string>
+			<string>ARE</string>
+		</array>
+	</array>
+</array>
+</plist>

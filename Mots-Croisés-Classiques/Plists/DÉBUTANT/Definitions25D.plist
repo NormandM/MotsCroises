@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Persistes</string>
+			<string>PUISSANCES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Matrice</string>
+			<string>PUISSANCES</string>
+			<string>UTERUS</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string></string>
+			<string>PUISSANCES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Monnaies romaines</string>
+			<string>PUISSANCES</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Étain</string>
+			<string>PUISSANCES</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Singe-araignée</string>
+			<string>PUISSANCES</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Nickel</string>
+			<string>PUISSANCES</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Pieds de vigne</string>
+			<string>PUISSANCES</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Plante herbacée</string>
+			<string>PUISSANCES</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Pouvoirs</string>
+			<string> Mesures pour les grains</string>
+			<string>PUISSANCES</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Liaison</string>
+			<string> Persistes</string>
+			<string>ET</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Matrice</string>
+			<string>ET</string>
+			<string>UTERUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Monnaies romaines</string>
+			<string>ENTIERE</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Étain</string>
+			<string>ENTIERE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Singe-araignée</string>
+			<string>ENTIERE</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Nickel</string>
+			<string>ENTIERE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Pieds de vigne</string>
+			<string>ENTIERE</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Plante herbacée</string>
+			<string>ENTIERE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Totale</string>
+			<string> Mesures pour les grains</string>
+			<string>ENTIERE</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Brames</string>
+			<string> Persistes</string>
+			<string>REES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Brames</string>
+			<string> Matrice</string>
+			<string>REES</string>
+			<string>UTERUS</string>
+		</array>
+		<array>
+			<string> Brames</string>
+			<string></string>
+			<string>REES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Brames</string>
+			<string> Monnaies romaines</string>
+			<string>REES</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Singe-araignée</string>
+			<string>E</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Interjection servant à appeler</string>
+			<string> Pieds de vigne</string>
+			<string>PST</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Interjection servant à appeler</string>
+			<string> Plante herbacée</string>
+			<string>PST</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Interjection servant à appeler</string>
+			<string> Mesures pour les grains</string>
+			<string>PST</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Strontium.</string>
+			<string> Persistes</string>
+			<string>SR</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Matrice</string>
+			<string>SR</string>
+			<string>UTERUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Des écrans répandus</string>
+			<string> Monnaies romaines</string>
+			<string>TELES</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string> Des écrans répandus</string>
+			<string></string>
+			<string>TELES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Des écrans répandus</string>
+			<string> Singe-araignée</string>
+			<string>TELES</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Des écrans répandus</string>
+			<string> Faute </string>
+			<string>TELES</string>
+			<string>ERRATA</string>
+		</array>
+		<array>
+			<string> Des écrans répandus</string>
+			<string> Pieds de vigne</string>
+			<string>TELES</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mesures pour les grains</string>
+			<string>I</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Persistes</string>
+			<string>EURE</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Matrice</string>
+			<string>EURE</string>
+			<string>UTERUS</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string></string>
+			<string>EURE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Monnaies romaines</string>
+			<string>EURE</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Singe-araignée</string>
+			<string>ER</string>
+			<string>ATELE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Faute </string>
+			<string>ER</string>
+			<string>ERRATA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Île de France</string>
+			<string> Vraie</string>
+			<string>RE</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Île de France</string>
+			<string> Mesures pour les grains</string>
+			<string>RE</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Persistes</string>
+			<string>VS</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Matrice</string>
+			<string>VS</string>
+			<string>UTERUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Monnaies romaines</string>
+			<string>RN</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Arrivée</string>
+			<string>RN</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Faute </string>
+			<string>REER</string>
+			<string>ERRATA</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Le gel y est rare</string>
+			<string>REER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Vraie</string>
+			<string>REER</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Mesures pour les grains</string>
+			<string>REER</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Persistes</string>
+			<string>E</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Baudets</string>
+			<string>ACETATES</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Monnaies romaines</string>
+			<string>ACETATES</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Arrivée</string>
+			<string>ACETATES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string></string>
+			<string>ACETATES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Faute </string>
+			<string>ACETATES</string>
+			<string>ERRATA</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Le gel y est rare</string>
+			<string>ACETATES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Vraie</string>
+			<string>ACETATES</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Sels d&apos;un acide</string>
+			<string> Mesures pour les grains</string>
+			<string>ACETATES</string>
+			<string>SETIERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Persistes</string>
+			<string>RENEE</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Période de temps</string>
+			<string>RENEE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Baudets</string>
+			<string>RENEE</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Monnaies romaines</string>
+			<string>RENEE</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Arrivée</string>
+			<string>RENEE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Faute </string>
+			<string>TEL</string>
+			<string>ERRATA</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Le gel y est rare</string>
+			<string>TEL</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Semblable</string>
+			<string> Vraie</string>
+			<string>TEL</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Persistes</string>
+			<string>ERES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Période de temps</string>
+			<string>ERES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Baudets</string>
+			<string>ERES</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Monnaies romaines</string>
+			<string>ERES</string>
+			<string>SESTERCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Du verbe avoir</string>
+			<string>AA</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Faute </string>
+			<string>AA</string>
+			<string>ERRATA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Vraie</string>
+			<string>LE</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Du verbe être</string>
+			<string>LE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif.</string>
+			<string> Persistes</string>
+			<string>SES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Période de temps</string>
+			<string>SES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Baudets</string>
+			<string>SES</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string></string>
+			<string>OS</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Du verbe avoir</string>
+			<string>OS</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string></string>
+			<string>NES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Vraie</string>
+			<string>NES</string>
+			<string>REELLE</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Du verbe être</string>
+			<string>NES</string>
+			<string>ES</string>
+		</array>
+	</array>
+</array>
+</plist>

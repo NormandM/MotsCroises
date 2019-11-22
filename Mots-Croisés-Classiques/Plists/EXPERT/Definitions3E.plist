@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Sacrifices</string>
+			<string>ABSTINENCES</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Très contentes</string>
+			<string>ABSTINENCES</string>
+			<string>BEATES</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Navire marchand</string>
+			<string>ABSTINENCES</string>
+			<string>SENAU</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Un voyage pas comme les autres</string>
+			<string>ABSTINENCES</string>
+			<string>TRIP</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string></string>
+			<string>ABSTINENCES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Arrivées</string>
+			<string>ABSTINENCES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Plus à l&apos;est qu&apos;au sud</string>
+			<string>ABSTINENCES</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Neptunium</string>
+			<string>ABSTINENCES</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Renoncent</string>
+			<string>ABSTINENCES</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string>  Périodes historiques</string>
+			<string>ABSTINENCES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Pratiquées par l&apos;ascète</string>
+			<string> Fromages</string>
+			<string>ABSTINENCES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Sacrifices</string>
+			<string>BEER</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Très contentes</string>
+			<string>BEER</string>
+			<string>BEATES</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Navire marchand</string>
+			<string>BEER</string>
+			<string>SENAU</string>
+		</array>
+		<array>
+			<string> Ouvrir tout grand</string>
+			<string> Un voyage pas comme les autres</string>
+			<string>BEER</string>
+			<string>TRIP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Arrivées</string>
+			<string>ESPEREE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Plus à l&apos;est qu&apos;au sud</string>
+			<string>ESPEREE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Neptunium</string>
+			<string>ESPEREE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Renoncent</string>
+			<string>ESPEREE</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string>  Périodes historiques</string>
+			<string>ESPEREE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Fromages</string>
+			<string>ESPEREE</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>ESPEREE</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Sacrifices</string>
+			<string>NANISEE</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Très contentes</string>
+			<string>NANISEE</string>
+			<string>BEATES</string>
+		</array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Navire marchand</string>
+			<string>NANISEE</string>
+			<string>SENAU</string>
+		</array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Un voyage pas comme les autres</string>
+			<string>NANISEE</string>
+			<string>TRIP</string>
+		</array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Il y en a cinq</string>
+			<string>NANISEE</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Arrivées</string>
+			<string>NANISEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Comme un bonsaï</string>
+			<string> Plus à l&apos;est qu&apos;au sud</string>
+			<string>NANISEE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Renoncent</string>
+			<string>SERS</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string>  Périodes historiques</string>
+			<string>SERS</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Fromages</string>
+			<string>SERS</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>SERS</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Haltes</string>
+			<string> Sacrifices</string>
+			<string>ETAPES</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Très contentes</string>
+			<string>ETAPES</string>
+			<string>BEATES</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Navire marchand</string>
+			<string>ETAPES</string>
+			<string>SENAU</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Un voyage pas comme les autres</string>
+			<string>ETAPES</string>
+			<string>TRIP</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Il y en a cinq</string>
+			<string>ETAPES</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Arrivées</string>
+			<string>ETAPES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Dispositions</string>
+			<string>ESSES</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Renoncent</string>
+			<string>ESSES</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string>  Périodes historiques</string>
+			<string>ESSES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Fromages</string>
+			<string>ESSES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>ESSES</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Grossesse extra-utérine</string>
+			<string> Sacrifices</string>
+			<string>GEU</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Grossesse extra-utérine</string>
+			<string> Très contentes</string>
+			<string>GEU</string>
+			<string>BEATES</string>
+		</array>
+		<array>
+			<string> Grossesse extra-utérine</string>
+			<string> Navire marchand</string>
+			<string>GEU</string>
+			<string>SENAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Il y en a cinq</string>
+			<string>N</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Période</string>
+			<string>ETE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Dispositions</string>
+			<string>ETE</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Renoncent</string>
+			<string>ETE</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Fromages</string>
+			<string>SE</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>SE</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Sacrifices</string>
+			<string>AS</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Très contentes</string>
+			<string>AS</string>
+			<string>BEATES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Fin de verbe</string>
+			<string>ISERANS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Il y en a cinq</string>
+			<string>ISERANS</string>
+			<string>SENS</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Prince</string>
+			<string>ISERANS</string>
+			<string>EMIR</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Période</string>
+			<string>ISERANS</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Dispositions</string>
+			<string>ISERANS</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Renoncent</string>
+			<string>ISERANS</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string> Col des Alpes (pl)</string>
+			<string> Laxatif</string>
+			<string>ISERANS</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ce qui comptent vraiment</string>
+			<string>N</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Sacrifices</string>
+			<string>T</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Grand bouleversement</string>
+			<string>SR</string>
+			<string>SEISME</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Fin de verbe</string>
+			<string>SR</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string> Prince</string>
+			<string>METTENT</string>
+			<string>EMIR</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string> Période</string>
+			<string>METTENT</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string> Dispositions</string>
+			<string>METTENT</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string> Renoncent</string>
+			<string>METTENT</string>
+			<string>CESSENT</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string> Laxatif</string>
+			<string>METTENT</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string></string>
+			<string>METTENT</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Posent</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>METTENT</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elle fait crier</string>
+			<string> Sacrifices</string>
+			<string>IRE</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Elle fait crier</string>
+			<string> Courses</string>
+			<string>IRE</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Elle fait crier</string>
+			<string> Grand bouleversement</string>
+			<string>IRE</string>
+			<string>SEISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Placées.</string>
+			<string>SI</string>
+			<string>SISES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Prince</string>
+			<string>SI</string>
+			<string>EMIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Dispositions</string>
+			<string>S</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Laxatif</string>
+			<string>N</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ce qui comptent vraiment</string>
+			<string>I</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rumeur</string>
+			<string> Sacrifices</string>
+			<string>OUIDIRE</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Rumeur</string>
+			<string> Courses</string>
+			<string>OUIDIRE</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Rumeur</string>
+			<string> Grand bouleversement</string>
+			<string>OUIDIRE</string>
+			<string>SEISME</string>
+		</array>
+		<array>
+			<string> Rumeur</string>
+			<string></string>
+			<string>OUIDIRE</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string> Rumeur</string>
+			<string> Placées.</string>
+			<string>OUIDIRE</string>
+			<string>SISES</string>
+		</array>
+		<array>
+			<string> Rumeur</string>
+			<string> Prince</string>
+			<string>OUIDIRE</string>
+			<string>EMIR</string>
+		</array>
+		<array>
+			<string> Rumeur</string>
+			<string> Un peu d&apos;eau</string>
+			<string>OUIDIRE</string>
+			<string>EA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se déplaçait toujours avec sa lyre</string>
+			<string> Astate</string>
+			<string>AEDE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Se déplaçait toujours avec sa lyre</string>
+			<string> Laxatif</string>
+			<string>AEDE</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Se déplaçait toujours avec sa lyre</string>
+			<string> Au-dessus d&apos;un lit</string>
+			<string>AEDE</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string> Se déplaçait toujours avec sa lyre</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>AEDE</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Sacrifices</string>
+			<string>NES</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Courses</string>
+			<string>NES</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Grand bouleversement</string>
+			<string>NES</string>
+			<string>SEISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Placées.</string>
+			<string>S</string>
+			<string>SISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Talent, habileté</string>
+			<string> Un peu d&apos;eau</string>
+			<string>ART</string>
+			<string>EA</string>
+		</array>
+		<array>
+			<string> Talent, habileté</string>
+			<string> Le lion est celui des animaux</string>
+			<string>ART</string>
+			<string>ROI</string>
+		</array>
+		<array>
+			<string> Talent, habileté</string>
+			<string> Astate</string>
+			<string>ART</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Au-dessus d&apos;un lit</string>
+			<string>AL</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>AL</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Sacrifices</string>
+			<string>SEMEES</string>
+			<string>ABNEGATIONS</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Courses</string>
+			<string>SEMEES</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Grand bouleversement</string>
+			<string>SEMEES</string>
+			<string>SEISME</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Indique la manière</string>
+			<string>SEMEES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Placées.</string>
+			<string>SEMEES</string>
+			<string>SISES</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>SEMEES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Le lion est celui des animaux</string>
+			<string>O</string>
+			<string>ROI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écoutes</string>
+			<string> Pronom indéfini.</string>
+			<string>OIS</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Écoutes</string>
+			<string> Au-dessus d&apos;un lit</string>
+			<string>OIS</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string> Écoutes</string>
+			<string> Ce qui comptent vraiment</string>
+			<string>OIS</string>
+			<string>ESSENTIELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Courses</string>
+			<string>SENSATIONS</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Grand bouleversement</string>
+			<string>SENSATIONS</string>
+			<string>SEISME</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Indique la manière</string>
+			<string>SENSATIONS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Placées.</string>
+			<string>SENSATIONS</string>
+			<string>SISES</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>SENSATIONS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string></string>
+			<string>SENSATIONS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Le lion est celui des animaux</string>
+			<string>SENSATIONS</string>
+			<string>ROI</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string></string>
+			<string>SENSATIONS</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Pronom indéfini.</string>
+			<string>SENSATIONS</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Ils y en a d&apos;agréables et de désagréables</string>
+			<string> Au-dessus d&apos;un lit</string>
+			<string>SENSATIONS</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Un spécialiste des religions</string>
+			<string>TESTAMENTS</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Obtenus</string>
+			<string>TESTAMENTS</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Famille nombreuse</string>
+			<string>TESTAMENTS</string>
+			<string>SMALA</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Lettre grec</string>
+			<string>TESTAMENTS</string>
+			<string>TAU</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Une révolution compète</string>
+			<string>TESTAMENTS</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Livre liturgique</string>
+			<string>TESTAMENTS</string>
+			<string>MISSEL</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>TESTAMENTS</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Arrivée</string>
+			<string>TESTAMENTS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string> Dessinée</string>
+			<string>TESTAMENTS</string>
+			<string>TRACEE</string>
+		</array>
+		<array>
+			<string> Il y a l&apos;ancien et le nouveau</string>
+			<string></string>
+			<string>TESTAMENTS</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Civiliser</string>
+			<string> Un spécialiste des religions</string>
+			<string>HUMANISER</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Obtenus</string>
+			<string>HUMANISER</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Famille nombreuse</string>
+			<string>HUMANISER</string>
+			<string>SMALA</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Lettre grec</string>
+			<string>HUMANISER</string>
+			<string>TAU</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Une révolution compète</string>
+			<string>HUMANISER</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Livre liturgique</string>
+			<string>HUMANISER</string>
+			<string>MISSEL</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>HUMANISER</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Arrivée</string>
+			<string>HUMANISER</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Civiliser</string>
+			<string> Dessinée</string>
+			<string>HUMANISER</string>
+			<string>TRACEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Un spécialiste des religions</string>
+			<string>ESAU</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Obtenus</string>
+			<string>ESAU</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Famille nombreuse</string>
+			<string>ESAU</string>
+			<string>SMALA</string>
+		</array>
+		<array>
+			<string> Personnage biblique</string>
+			<string> Lettre grec</string>
+			<string>ESAU</string>
+			<string>TAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On le mange bien grillé</string>
+			<string> Livre liturgique</string>
+			<string>STEAK</string>
+			<string>MISSEL</string>
+		</array>
+		<array>
+			<string> On le mange bien grillé</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>STEAK</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> On le mange bien grillé</string>
+			<string> Arrivée</string>
+			<string>STEAK</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> On le mange bien grillé</string>
+			<string> Dessinée</string>
+			<string>STEAK</string>
+			<string>TRACEE</string>
+		</array>
+		<array>
+			<string> On le mange bien grillé</string>
+			<string> Activités motrices du corps</string>
+			<string>STEAK</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Un spécialiste des religions</string>
+			<string>O</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Famille nombreuse</string>
+			<string>L</string>
+			<string>SMALA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Champion</string>
+			<string>ASE</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Livre liturgique</string>
+			<string>ASE</string>
+			<string>MISSEL</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>ASE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abréviation de ici</string>
+			<string> Dessinée</string>
+			<string>CI</string>
+			<string>TRACEE</string>
+		</array>
+		<array>
+			<string> Abréviation de ici</string>
+			<string> Activités motrices du corps</string>
+			<string>CI</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ensemble de papiers</string>
+			<string> Un spécialiste des religions</string>
+			<string>LIASSE</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Ensemble de papiers</string>
+			<string> Inanimé</string>
+			<string>LIASSE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Ensemble de papiers</string>
+			<string> Famille nombreuse</string>
+			<string>LIASSE</string>
+			<string>SMALA</string>
+		</array>
+		<array>
+			<string> Ensemble de papiers</string>
+			<string> Transpires</string>
+			<string>LIASSE</string>
+			<string>SUES</string>
+		</array>
+		<array>
+			<string> Ensemble de papiers</string>
+			<string> Champion</string>
+			<string>LIASSE</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Ensemble de papiers</string>
+			<string> Livre liturgique</string>
+			<string>LIASSE</string>
+			<string>MISSEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Coupées</string>
+			<string>SEN</string>
+			<string>SCIEES</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Dessinée</string>
+			<string>SEN</string>
+			<string>TRACEE</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Activités motrices du corps</string>
+			<string>SEN</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Un spécialiste des religions</string>
+			<string>ON</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Inanimé</string>
+			<string>ON</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Transpires</string>
+			<string>U</string>
+			<string>SUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liée</string>
+			<string> Livre liturgique</string>
+			<string>LACEE</string>
+			<string>MISSEL</string>
+		</array>
+		<array>
+			<string> Liée</string>
+			<string> Corps céleste</string>
+			<string>LACEE</string>
+			<string>ASTRE</string>
+		</array>
+		<array>
+			<string> Liée</string>
+			<string> Coupées</string>
+			<string>LACEE</string>
+			<string>SCIEES</string>
+		</array>
+		<array>
+			<string> Liée</string>
+			<string> Dessinée</string>
+			<string>LACEE</string>
+			<string>TRACEE</string>
+		</array>
+		<array>
+			<string> Liée</string>
+			<string> Activités motrices du corps</string>
+			<string>LACEE</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dérangée</string>
+			<string> Un spécialiste des religions</string>
+			<string>GENEE</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> Inanimé</string>
+			<string>GENEE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> S&apos;emploie dans une locution désignant ce qui se fait de mieux</string>
+			<string>GENEE</string>
+			<string>NEC</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> Transpires</string>
+			<string>GENEE</string>
+			<string>SUES</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string></string>
+			<string>GENEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Corps céleste</string>
+			<string>SI</string>
+			<string>ASTRE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Coupées</string>
+			<string>SI</string>
+			<string>SCIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Activités motrices du corps</string>
+			<string>S</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> Un spécialiste des religions</string>
+			<string>IRES</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> Inanimé</string>
+			<string>IRES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> S&apos;emploie dans une locution désignant ce qui se fait de mieux</string>
+			<string>IRES</string>
+			<string>NEC</string>
+		</array>
+		<array>
+			<string> Vieilles colères</string>
+			<string> Transpires</string>
+			<string>IRES</string>
+			<string>SUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un coup des arts martiaux</string>
+			<string> Années</string>
+			<string>ATEMI</string>
+			<string>ANS</string>
+		</array>
+		<array>
+			<string> Un coup des arts martiaux</string>
+			<string> Corps céleste</string>
+			<string>ATEMI</string>
+			<string>ASTRE</string>
+		</array>
+		<array>
+			<string> Un coup des arts martiaux</string>
+			<string> Coupées</string>
+			<string>ATEMI</string>
+			<string>SCIEES</string>
+		</array>
+		<array>
+			<string> Un coup des arts martiaux</string>
+			<string> Manganèse</string>
+			<string>ATEMI</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Un coup des arts martiaux</string>
+			<string> Activités motrices du corps</string>
+			<string>ATEMI</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Écourte une liste</string>
+			<string> Un spécialiste des religions</string>
+			<string>ETC</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Écourte une liste</string>
+			<string> Inanimé</string>
+			<string>ETC</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Écourte une liste</string>
+			<string> S&apos;emploie dans une locution désignant ce qui se fait de mieux</string>
+			<string>ETC</string>
+			<string>NEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Infinitif</string>
+			<string>ENRENE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Années</string>
+			<string>ENRENE</string>
+			<string>ANS</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Corps céleste</string>
+			<string>ENRENE</string>
+			<string>ASTRE</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Coupées</string>
+			<string>ENRENE</string>
+			<string>SCIEES</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Manganèse</string>
+			<string>ENRENE</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Activités motrices du corps</string>
+			<string>ENRENE</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Un spécialiste des religions</string>
+			<string>NE</string>
+			<string>THEOLOGIEN</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Inanimé</string>
+			<string>NE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> De haute Écosse</string>
+			<string></string>
+			<string>ERSES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> De haute Écosse</string>
+			<string> Infinitif</string>
+			<string>ERSES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> De haute Écosse</string>
+			<string> Années</string>
+			<string>ERSES</string>
+			<string>ANS</string>
+		</array>
+		<array>
+			<string> De haute Écosse</string>
+			<string> Corps céleste</string>
+			<string>ERSES</string>
+			<string>ASTRE</string>
+		</array>
+		<array>
+			<string> De haute Écosse</string>
+			<string> Coupées</string>
+			<string>ERSES</string>
+			<string>SCIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Activités motrices du corps</string>
+			<string>S</string>
+			<string>KINESIES</string>
+		</array>
+	</array>
+</array>
+</plist>

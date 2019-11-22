@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Évidence.</string>
+			<string>GAULOISES</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Parfumer.</string>
+			<string>GAULOISES</string>
+			<string>ANISER</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Amérindien.</string>
+			<string>GAULOISES</string>
+			<string>UTE</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Blessais.</string>
+			<string>GAULOISES</string>
+			<string>LESAIS</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Pronom indéfini.</string>
+			<string>GAULOISES</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Pensées.</string>
+			<string>GAULOISES</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string>  Napperons.</string>
+			<string>GAULOISES</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Possédées</string>
+			<string>GAULOISES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Françaises ou cigarettes</string>
+			<string> Strontium.</string>
+			<string>GAULOISES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Évidence.</string>
+			<string>ENTENDEURS</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Parfumer.</string>
+			<string>ENTENDEURS</string>
+			<string>ANISER</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Amérindien.</string>
+			<string>ENTENDEURS</string>
+			<string>UTE</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Blessais.</string>
+			<string>ENTENDEURS</string>
+			<string>LESAIS</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Pronom indéfini.</string>
+			<string>ENTENDEURS</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Pensées.</string>
+			<string>ENTENDEURS</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string>  Napperons.</string>
+			<string>ENTENDEURS</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Possédées</string>
+			<string>ENTENDEURS</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Strontium.</string>
+			<string>ENTENDEURS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Auditeurs</string>
+			<string> Placées.</string>
+			<string>ENTENDEURS</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ne veux pas admettre.</string>
+			<string> Évidence.</string>
+			<string>NIES</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Ne veux pas admettre.</string>
+			<string> Parfumer.</string>
+			<string>NIES</string>
+			<string>ANISER</string>
+		</array>
+		<array>
+			<string> Ne veux pas admettre.</string>
+			<string> Amérindien.</string>
+			<string>NIES</string>
+			<string>UTE</string>
+		</array>
+		<array>
+			<string> Ne veux pas admettre.</string>
+			<string> Blessais.</string>
+			<string>NIES</string>
+			<string>LESAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Pensées.</string>
+			<string>ETE</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string>  Napperons.</string>
+			<string>ETE</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Possédées</string>
+			<string>ETE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Placées.</string>
+			<string>I</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existes</string>
+			<string> Évidence.</string>
+			<string>ES</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Parfumer.</string>
+			<string>ES</string>
+			<string>ANISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string> Blessais.</string>
+			<string>ANESSES</string>
+			<string>LESAIS</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string></string>
+			<string>ANESSES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string> Pensées.</string>
+			<string>ANESSES</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string>  Napperons.</string>
+			<string>ANESSES</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string> Possédées</string>
+			<string>ANESSES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string> Orient.</string>
+			<string>ANESSES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>  Bourriques</string>
+			<string> Placées.</string>
+			<string>ANESSES</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom.</string>
+			<string> Évidence.</string>
+			<string>REMI</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Prénom.</string>
+			<string> Parfumer.</string>
+			<string>REMI</string>
+			<string>ANISER</string>
+		</array>
+		<array>
+			<string> Prénom.</string>
+			<string>Petites étendues d&apos;eau.</string>
+			<string>REMI</string>
+			<string>MARES</string>
+		</array>
+		<array>
+			<string> Prénom.</string>
+			<string> Blessais.</string>
+			<string>REMI</string>
+			<string>LESAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pensées.</string>
+			<string>S</string>
+			<string>IDEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Orient.</string>
+			<string>SE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Placées.</string>
+			<string>SE</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mit à niveau.</string>
+			<string> Évidence.</string>
+			<string>ARASA</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Mit à niveau.</string>
+			<string> Parfumer.</string>
+			<string>ARASA</string>
+			<string>ANISER</string>
+		</array>
+		<array>
+			<string> Mit à niveau.</string>
+			<string>Petites étendues d&apos;eau.</string>
+			<string>ARASA</string>
+			<string>MARES</string>
+		</array>
+		<array>
+			<string> Mit à niveau.</string>
+			<string> Blessais.</string>
+			<string>ARASA</string>
+			<string>LESAIS</string>
+		</array>
+		<array>
+			<string> Mit à niveau.</string>
+			<string> Dévidoirs à soi.</string>
+			<string>ARASA</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Filet pour la chasse.</string>
+			<string> Bonne humeur.</string>
+			<string>RETS</string>
+			<string>RIRE</string>
+		</array>
+		<array>
+			<string> Filet pour la chasse.</string>
+			<string> Du verbe être.</string>
+			<string>RETS</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Filet pour la chasse.</string>
+			<string> Orient.</string>
+			<string>RETS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Filet pour la chasse.</string>
+			<string> Placées.</string>
+			<string>RETS</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Évidence.</string>
+			<string>L</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Petites étendues d&apos;eau.</string>
+			<string>R</string>
+			<string>MARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Connaît.</string>
+			<string> Dévidoirs à soi.</string>
+			<string>SAIT</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Connaît.</string>
+			<string>  Ouvre la fenêtre.</string>
+			<string>SAIT</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string> Connaît.</string>
+			<string> Bonne humeur.</string>
+			<string>SAIT</string>
+			<string>RIRE</string>
+		</array>
+		<array>
+			<string> Connaît.</string>
+			<string> Du verbe être.</string>
+			<string>SAIT</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Inattendues.</string>
+			<string> Évidence.</string>
+			<string>INESPEREES</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string> Pâté impérial</string>
+			<string>INESPEREES</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string>Petites étendues d&apos;eau.</string>
+			<string>INESPEREES</string>
+			<string>MARES</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string></string>
+			<string>INESPEREES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string> Dévidoirs à soi.</string>
+			<string>INESPEREES</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string>  Ouvre la fenêtre.</string>
+			<string>INESPEREES</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string> Bonne humeur.</string>
+			<string>INESPEREES</string>
+			<string>RIRE</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string> Du verbe être.</string>
+			<string>INESPEREES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string></string>
+			<string>INESPEREES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Inattendues.</string>
+			<string> Terme de tennis</string>
+			<string>INESPEREES</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Règles.</string>
+			<string> Évidence.</string>
+			<string>TES</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Pâté impérial</string>
+			<string>TES</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string>Petites étendues d&apos;eau.</string>
+			<string>TES</string>
+			<string>MARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Dévidoirs à soi.</string>
+			<string>ERES</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string>  Ouvre la fenêtre.</string>
+			<string>ERES</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Bonne humeur.</string>
+			<string>ERES</string>
+			<string>RIRE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Du verbe être.</string>
+			<string>ERES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Terme de tennis</string>
+			<string>E</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Éminence</string>
+			<string> Évidence.</string>
+			<string>EM</string>
+			<string>GENERALITE</string>
+		</array>
+		<array>
+			<string> Éminence</string>
+			<string> Pâté impérial</string>
+			<string>EM</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string></string>
+			<string>ASE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Dévidoirs à soi.</string>
+			<string>ASE</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string>  Ouvre la fenêtre.</string>
+			<string>ASE</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Souvent employé par le bavard</string>
+			<string></string>
+			<string>ET</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Souvent employé par le bavard</string>
+			<string> Terme de tennis</string>
+			<string>ET</string>
+			<string>SET</string>
+		</array>
+	</array>
+</array>
+</plist>

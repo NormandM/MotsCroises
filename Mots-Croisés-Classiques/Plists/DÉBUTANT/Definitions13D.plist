@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Bien utiles dans les tours</string>
+			<string>ASEPTISEES</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Poisson osseux</string>
+			<string>ASEPTISEES</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Portée par le chevalier</string>
+			<string>ASEPTISEES</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Exposées</string>
+			<string>ASEPTISEES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Titane</string>
+			<string>ASEPTISEES</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Renard nordique</string>
+			<string>ASEPTISEES</string>
+			<string>ISATIS</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Mesurées</string>
+			<string>ASEPTISEES</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Canard nordique</string>
+			<string>ASEPTISEES</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string></string>
+			<string>ASEPTISEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Désinfectées</string>
+			<string> Appel à l&apos;aide</string>
+			<string>ASEPTISEES</string>
+			<string>SOS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Juron</string>
+			<string> Bien utiles dans les tours</string>
+			<string>SAPRISTI</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Poisson osseux</string>
+			<string>SAPRISTI</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Portée par le chevalier</string>
+			<string>SAPRISTI</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Exposées</string>
+			<string>SAPRISTI</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Titane</string>
+			<string>SAPRISTI</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Renard nordique</string>
+			<string>SAPRISTI</string>
+			<string>ISATIS</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Mesurées</string>
+			<string>SAPRISTI</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string> Juron</string>
+			<string> Canard nordique</string>
+			<string>SAPRISTI</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Appel à l&apos;aide</string>
+			<string>O</string>
+			<string>SOS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Invente</string>
+			<string> Bien utiles dans les tours</string>
+			<string>CREE</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Invente</string>
+			<string> Poisson osseux</string>
+			<string>CREE</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Invente</string>
+			<string> Portée par le chevalier</string>
+			<string>CREE</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string> Invente</string>
+			<string> Exposées</string>
+			<string>CREE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poètes de la Grèce ancienne</string>
+			<string> Renard nordique</string>
+			<string>AEDES</string>
+			<string>ISATIS</string>
+		</array>
+		<array>
+			<string> Poètes de la Grèce ancienne</string>
+			<string> Mesurées</string>
+			<string>AEDES</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string> Poètes de la Grèce ancienne</string>
+			<string> Canard nordique</string>
+			<string>AEDES</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Poètes de la Grèce ancienne</string>
+			<string> Avant un titre universitaire</string>
+			<string>AEDES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Poètes de la Grèce ancienne</string>
+			<string> Appel à l&apos;aide</string>
+			<string>AEDES</string>
+			<string>SOS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Bien utiles dans les tours</string>
+			<string>E</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Du verbe être</string>
+			<string> Portée par le chevalier</string>
+			<string>ES</string>
+			<string>EPEE</string>
+		</array>
+		<array>
+			<string>Du verbe être</string>
+			<string> Exposées</string>
+			<string>ES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Renard nordique</string>
+			<string>TRES</string>
+			<string>ISATIS</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Mesurées</string>
+			<string>TRES</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Canard nordique</string>
+			<string>TRES</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string>Einsteinium</string>
+			<string>TRES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dépouillé</string>
+			<string> Bien utiles dans les tours</string>
+			<string>NU</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Dépouillé</string>
+			<string> Une vieille note</string>
+			<string>NU</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Surveiller</string>
+			<string> Exposées</string>
+			<string>EPIER</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Surveiller</string>
+			<string> Écrivain de Boston</string>
+			<string>EPIER</string>
+			<string>POE</string>
+		</array>
+		<array>
+			<string> Surveiller</string>
+			<string> Renard nordique</string>
+			<string>EPIER</string>
+			<string>ISATIS</string>
+		</array>
+		<array>
+			<string> Surveiller</string>
+			<string> Mesurées</string>
+			<string>EPIER</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string> Surveiller</string>
+			<string> Canard nordique</string>
+			<string>EPIER</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Littoral</string>
+			<string>E</string>
+			<string>ESTRAN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Bien utiles dans les tours</string>
+			<string>STENOSE</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Une vieille note</string>
+			<string>STENOSE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Possédées</string>
+			<string>STENOSE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Exposées</string>
+			<string>STENOSE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Écrivain de Boston</string>
+			<string>STENOSE</string>
+			<string>POE</string>
+		</array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Renard nordique</string>
+			<string>STENOSE</string>
+			<string>ISATIS</string>
+		</array>
+		<array>
+			<string> Rétrécissement d&apos;un canal</string>
+			<string> Mesurées</string>
+			<string>STENOSE</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conseil supérieur</string>
+			<string> Île de la Croatie</string>
+			<string>CS</string>
+			<string>CRES</string>
+		</array>
+		<array>
+			<string> Conseil supérieur</string>
+			<string> Littoral</string>
+			<string>CS</string>
+			<string>ESTRAN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Bien utiles dans les tours</string>
+			<string>E</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Possédées</string>
+			<string>UTE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Exposées</string>
+			<string>UTE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Écrivain de Boston</string>
+			<string>UTE</string>
+			<string>POE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Mesurées</string>
+			<string>SERT</string>
+			<string>STEREES</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Extra terrestre</string>
+			<string>SERT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Île de la Croatie</string>
+			<string>SERT</string>
+			<string>CRES</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Littoral</string>
+			<string>SERT</string>
+			<string>ESTRAN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Bien utiles dans les tours</string>
+			<string>USEE</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Tamis</string>
+			<string>USEE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Possédées</string>
+			<string>USEE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Exposées</string>
+			<string>USEE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Einsteinium</string>
+			<string>E</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Extra terrestre</string>
+			<string>TER</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Île de la Croatie</string>
+			<string>TER</string>
+			<string>CRES</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Littoral</string>
+			<string>TER</string>
+			<string>ESTRAN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Importune</string>
+			<string> Bien utiles dans les tours</string>
+			<string>RASEUSE</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Tamis</string>
+			<string>RASEUSE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Possédées</string>
+			<string>RASEUSE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Exposées</string>
+			<string>RASEUSE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>RASEUSE</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Avant un titre universitaire</string>
+			<string>RASEUSE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Abréviation religieuse</string>
+			<string>RASEUSE</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Île de la Croatie</string>
+			<string>SA</string>
+			<string>CRES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Littoral</string>
+			<string>SA</string>
+			<string>ESTRAN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Police nazi</string>
+			<string> Bien utiles dans les tours</string>
+			<string>SS</string>
+			<string>ASCENSEURS</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Tamis</string>
+			<string>SS</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Exposées</string>
+			<string>SR</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>SR</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Abréviation religieuse</string>
+			<string>ME</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string></string>
+			<string>ME</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Littoral</string>
+			<string>N</string>
+			<string>ESTRAN</string>
+		</array>
+	</array>
+</array>
+</plist>

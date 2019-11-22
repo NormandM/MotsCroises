@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Très froids</string>
+			<string> Renouvelées</string>
+			<string>REFRIGERES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Émoustillante</string>
+			<string>REFRIGERES</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Perdent leur fraîcheur</string>
+			<string>REFRIGERES</string>
+			<string>FANENT</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Radiofréquence</string>
+			<string>REFRIGERES</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Entourée d&apos;eau</string>
+			<string>REFRIGERES</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Dirige</string>
+			<string>REFRIGERES</string>
+			<string>GERE</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Existes</string>
+			<string>REFRIGERES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string></string>
+			<string>REFRIGERES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string></string>
+			<string>REFRIGERES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Très froids</string>
+			<string> Commune de l&apos;Orne</string>
+			<string>REFRIGERES</string>
+			<string>SEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Renouvelées</string>
+			<string>ERAFLES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Émoustillante</string>
+			<string>ERAFLES</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Perdent leur fraîcheur</string>
+			<string>ERAFLES</string>
+			<string>FANENT</string>
+		</array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Radiofréquence</string>
+			<string>ERAFLES</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Entourée d&apos;eau</string>
+			<string>ERAFLES</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Dirige</string>
+			<string>ERAFLES</string>
+			<string>GERE</string>
+		</array>
+		<array>
+			<string> Entamés légèrement</string>
+			<string> Existes</string>
+			<string>ERAFLES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Commune de l&apos;Orne</string>
+			<string>E</string>
+			<string>SEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Unité de mesure d&apos;angle</string>
+			<string> Renouvelées</string>
+			<string>GON</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;angle</string>
+			<string> Émoustillante</string>
+			<string>GON</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;angle</string>
+			<string> Perdent leur fraîcheur</string>
+			<string>GON</string>
+			<string>FANENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Entourée d&apos;eau</string>
+			<string>ER</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Dirige</string>
+			<string>ER</string>
+			<string>GERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Souhaite</string>
+			<string>ERE</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Crier comme un cerf</string>
+			<string>ERE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Commune de l&apos;Orne</string>
+			<string>ERE</string>
+			<string>SEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Renouvelées</string>
+			<string>ETES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Émoustillante</string>
+			<string>ETES</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Perdent leur fraîcheur</string>
+			<string>ETES</string>
+			<string>FANENT</string>
+		</array>
+		<array>
+			<string> Du verbe être.</string>
+			<string> Possessif</string>
+			<string>ETES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Dirige</string>
+			<string>ESSES</string>
+			<string>GERE</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Produisent un son aigu</string>
+			<string>ESSES</string>
+			<string>SILENT</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Souhaite</string>
+			<string>ESSES</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Crier comme un cerf</string>
+			<string>ESSES</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Commune de l&apos;Orne</string>
+			<string>ESSES</string>
+			<string>SEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petit cigare</string>
+			<string> Renouvelées</string>
+			<string>NINAS</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Petit cigare</string>
+			<string> Émoustillante</string>
+			<string>NINAS</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Petit cigare</string>
+			<string> Perdent leur fraîcheur</string>
+			<string>NINAS</string>
+			<string>FANENT</string>
+		</array>
+		<array>
+			<string> Petit cigare</string>
+			<string> Possessif</string>
+			<string>NINAS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Petit cigare</string>
+			<string> Classée</string>
+			<string>NINAS</string>
+			<string>SERIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Produisent un son aigu</string>
+			<string>IPE</string>
+			<string>SILENT</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Souhaite</string>
+			<string>IPE</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Crier comme un cerf</string>
+			<string>IPE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Orient.</string>
+			<string> Renouvelées</string>
+			<string>EST</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Émoustillante</string>
+			<string>EST</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Perdent leur fraîcheur</string>
+			<string>EST</string>
+			<string>FANENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Classée</string>
+			<string>EULER</string>
+			<string>SERIEE</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>EULER</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Produisent un son aigu</string>
+			<string>EULER</string>
+			<string>SILENT</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Souhaite</string>
+			<string>EULER</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Mathématicien suisse</string>
+			<string> Crier comme un cerf</string>
+			<string>EULER</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dieu Egyptien</string>
+			<string> Renouvelées</string>
+			<string>RA</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Dieu Egyptien</string>
+			<string> Émoustillante</string>
+			<string>RA</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string></string>
+			<string>ERRER</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Classée</string>
+			<string>ERRER</string>
+			<string>SERIEE</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>ERRER</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Produisent un son aigu</string>
+			<string>ERRER</string>
+			<string>SILENT</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Souhaite</string>
+			<string>ERRER</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Tentée avec confiance</string>
+			<string>O</string>
+			<string>OSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Renouvelées</string>
+			<string>ENS</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Émoustillante</string>
+			<string>ENS</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Tamis</string>
+			<string>ENS</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Classée</string>
+			<string>I</string>
+			<string>SERIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Produisent un son aigu</string>
+			<string>NEES</string>
+			<string>SILENT</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Souhaite</string>
+			<string>NEES</string>
+			<string>ESPERE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Du verbe être</string>
+			<string>NEES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Tentée avec confiance</string>
+			<string>NEES</string>
+			<string>OSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Existaient</string>
+			<string> Renouvelées</string>
+			<string>ETAIENT</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string>  Existaient</string>
+			<string> Émoustillante</string>
+			<string>ETAIENT</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string>  Existaient</string>
+			<string> Tamis</string>
+			<string>ETAIENT</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string>  Existaient</string>
+			<string></string>
+			<string>ETAIENT</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>  Existaient</string>
+			<string> Classée</string>
+			<string>ETAIENT</string>
+			<string>SERIEE</string>
+		</array>
+		<array>
+			<string>  Existaient</string>
+			<string> Dépouillé</string>
+			<string>ETAIENT</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>  Existaient</string>
+			<string> Produisent un son aigu</string>
+			<string>ETAIENT</string>
+			<string>SILENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Du verbe être</string>
+			<string>TE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Tentée avec confiance</string>
+			<string>TE</string>
+			<string>OSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif.</string>
+			<string> Renouvelées</string>
+			<string>SES</string>
+			<string>REGENEREES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Émoustillante</string>
+			<string>SES</string>
+			<string>EROTISANTE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Tamis</string>
+			<string>SES</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>D&apos;un auxiliaire</string>
+			<string> Classée</string>
+			<string>EU</string>
+			<string>SERIEE</string>
+		</array>
+		<array>
+			<string>D&apos;un auxiliaire</string>
+			<string> Dépouillé</string>
+			<string>EU</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Brame</string>
+			<string></string>
+			<string>REE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Brame</string>
+			<string> Du verbe être</string>
+			<string>REE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Brame</string>
+			<string> Tentée avec confiance</string>
+			<string>REE</string>
+			<string>OSEE</string>
+		</array>
+	</array>
+</array>
+</plist>

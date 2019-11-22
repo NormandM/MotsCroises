@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Se nourrissent des autres</string>
+			<string>Exposées</string>
+			<string>PREDATEURS</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Retapées</string>
+			<string>PREDATEURS</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Un mot souvent utilisé par le bavard</string>
+			<string>PREDATEURS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Attristée</string>
+			<string>PREDATEURS</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Cancre</string>
+			<string>PREDATEURS</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Non dit</string>
+			<string>PREDATEURS</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Dépôts glaciaires</string>
+			<string>PREDATEURS</string>
+			<string>ESKERS</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string></string>
+			<string>PREDATEURS</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Note</string>
+			<string>PREDATEURS</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Se nourissent des autres</string>
+			<string>Transpiration abondante</string>
+			<string>PREDATEURS</string>
+			<string>SUEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Discrets</string>
+			<string>Exposées</string>
+			<string>RETENUS</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Discrets</string>
+			<string>Retapées</string>
+			<string>RETENUS</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string>Discrets</string>
+			<string>Un mot souvent utilisé par le bavard</string>
+			<string>RETENUS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Discrets</string>
+			<string>Attristée</string>
+			<string>RETENUS</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Discrets</string>
+			<string>Cancre</string>
+			<string>RETENUS</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Discrets</string>
+			<string>Non dit</string>
+			<string>RETENUS</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string>Discrets</string>
+			<string>Dépôts glaciaires</string>
+			<string>RETENUS</string>
+			<string>ESKERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>D&apos;un auxiliaire</string>
+			<string>Note</string>
+			<string>EU</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>D&apos;un auxiliaire</string>
+			<string>Transpiration abondante</string>
+			<string>EU</string>
+			<string>SUEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Indique la manière</string>
+			<string>Exposées</string>
+			<string>EN</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Indique la manière</string>
+			<string>Retapées</string>
+			<string>EN</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Attristée</string>
+			<string>SE</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Cancre</string>
+			<string>SE</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le boxeur le recherche et le craint</string>
+			<string>Dépôts glaciaires</string>
+			<string>KO</string>
+			<string>ESKERS</string>
+		</array>
+		<array>
+			<string>Le boxeur le recherche et le craint</string>
+			<string>Lisières</string>
+			<string>KO</string>
+			<string>OREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Transpiration abondante</string>
+			<string>E</string>
+			<string>SUEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Amas de sporanges</string>
+			<string>Exposées</string>
+			<string>SORE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Amas de sporanges</string>
+			<string>Retapées</string>
+			<string>SORE</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string>Amas de sporanges</string>
+			<string>Pouffé</string>
+			<string>SORE</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Amas de sporanges</string>
+			<string>Attristée</string>
+			<string>SORE</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sert à boire</string>
+			<string>Adulée</string>
+			<string>VERSE</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string>Sert à boire</string>
+			<string>Dépôts glaciaires</string>
+			<string>VERSE</string>
+			<string>ESKERS</string>
+		</array>
+		<array>
+			<string>Sert à boire</string>
+			<string>Lisières</string>
+			<string>VERSE</string>
+			<string>OREES</string>
+		</array>
+		<array>
+			<string>Sert à boire</string>
+			<string>Petit chemin</string>
+			<string>VERSE</string>
+			<string>SENTE</string>
+		</array>
+		<array>
+			<string>Sert à boire</string>
+			<string>Transpiration abondante</string>
+			<string>VERSE</string>
+			<string>SUEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Étripée</string>
+			<string>Exposées</string>
+			<string>EVISCEREE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Retapées</string>
+			<string>EVISCEREE</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Pouffé</string>
+			<string>EVISCEREE</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Attristée</string>
+			<string>EVISCEREE</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Démonstratif</string>
+			<string>EVISCEREE</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Adulée</string>
+			<string>EVISCEREE</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Dépôts glaciaires</string>
+			<string>EVISCEREE</string>
+			<string>ESKERS</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Lisières</string>
+			<string>EVISCEREE</string>
+			<string>OREES</string>
+		</array>
+		<array>
+			<string>Étripée</string>
+			<string>Petit chemin</string>
+			<string>EVISCEREE</string>
+			<string>SENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Négation</string>
+			<string>Exposées</string>
+			<string>NE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Négation</string>
+			<string>Retapées</string>
+			<string>NE</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Attristée</string>
+			<string>PENSENT</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Démonstratif</string>
+			<string>PENSENT</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Adulée</string>
+			<string>PENSENT</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Dépôts glaciaires</string>
+			<string>PENSENT</string>
+			<string>ESKERS</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Lisières</string>
+			<string>PENSENT</string>
+			<string>OREES</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Petit chemin</string>
+			<string>PENSENT</string>
+			<string>SENTE</string>
+		</array>
+		<array>
+			<string>Cogitent</string>
+			<string>Sans tête ni membres</string>
+			<string>PENSENT</string>
+			<string>TORSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Extrémité qui pense</string>
+			<string>Exposées</string>
+			<string>TETE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Extrémité qui pense</string>
+			<string>Retapées</string>
+			<string>TETE</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string>Extrémité qui pense</string>
+			<string></string>
+			<string>TETE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Extrémité qui pense</string>
+			<string>Attristée</string>
+			<string>TETE</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Adulée</string>
+			<string>E</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Service de travail obligatoire</string>
+			<string>Lisières</string>
+			<string>STO</string>
+			<string>OREES</string>
+		</array>
+		<array>
+			<string>Service de travail obligatoire</string>
+			<string>Petit chemin</string>
+			<string>STO</string>
+			<string>SENTE</string>
+		</array>
+		<array>
+			<string>Service de travail obligatoire</string>
+			<string>Sans tête ni membres</string>
+			<string>STO</string>
+			<string>TORSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Exposées</string>
+			<string>ES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Retapées</string>
+			<string>ES</string>
+			<string>RENOVEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sort de l&apos;ordinaire</string>
+			<string>Attristée</string>
+			<string>RARE</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Sort de l&apos;ordinaire</string>
+			<string>Gaz rare</string>
+			<string>RARE</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string>Sort de l&apos;ordinaire</string>
+			<string>Adulée</string>
+			<string>RARE</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string>Sort de l&apos;ordinaire</string>
+			<string>Posséda</string>
+			<string>RARE</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Erbium</string>
+			<string>Petit chemin</string>
+			<string>ER</string>
+			<string>SENTE</string>
+		</array>
+		<array>
+			<string>Erbium</string>
+			<string>Sans tête ni membres</string>
+			<string>ER</string>
+			<string>TORSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Exposées</string>
+			<string>E</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Du sérum sanguin</string>
+			<string>Étain</string>
+			<string>SEREUX</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Du sérum sanguin</string>
+			<string>Attristée</string>
+			<string>SEREUX</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string>Du sérum sanguin</string>
+			<string>Gaz rare</string>
+			<string>SEREUX</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string>Du sérum sanguin</string>
+			<string>Adulée</string>
+			<string>SEREUX</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string>Du sérum sanguin</string>
+			<string>Posséda</string>
+			<string>SEREUX</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Du sérum sanguin</string>
+			<string>Xénon</string>
+			<string>SEREUX</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sans tête ni membres</string>
+			<string>S</string>
+			<string>TORSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>On en extrait un laxatif</string>
+			<string>Exposées</string>
+			<string>SENE</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>On en extrait un laxatif</string>
+			<string></string>
+			<string>SENE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>On en extrait un laxatif</string>
+			<string>Étain</string>
+			<string>SENE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>On en extrait un laxatif</string>
+			<string>Attristée</string>
+			<string>SENE</string>
+			<string>DESESPEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plus court</string>
+			<string>Adulée</string>
+			<string>ETETE</string>
+			<string>VENEREE</string>
+		</array>
+		<array>
+			<string>Plus court</string>
+			<string>Posséda</string>
+			<string>ETETE</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Plus court</string>
+			<string>Xénon</string>
+			<string>ETETE</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string>Plus court</string>
+			<string></string>
+			<string>ETETE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Plus court</string>
+			<string>Sans tête ni membres</string>
+			<string>ETETE</string>
+			<string>TORSE</string>
+		</array>
+	</array>
+</array>
+</plist>

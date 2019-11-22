@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Réalismes</string>
+			<string>NATIONALISME</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Peu paraître discordante</string>
+			<string>NATIONALISME</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Pour mesurer les distances</string>
+			<string>NATIONALISME</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Colères</string>
+			<string>NATIONALISME</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Organisation dépendant de l&apos;ONU</string>
+			<string>NATIONALISME</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Drame japonais</string>
+			<string>NATIONALISME</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Sans peine</string>
+			<string>NATIONALISME</string>
+			<string>AISES</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string>  Il a perdu la guerre</string>
+			<string>NATIONALISME</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Empêchent de se mouiller</string>
+			<string>NATIONALISME</string>
+			<string>IMPERS</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Possessif</string>
+			<string>NATIONALISME</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> Manganèse</string>
+			<string>NATIONALISME</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Chauvinisme</string>
+			<string> S&apos;adaptent à l&apos;objet</string>
+			<string>NATIONALISME</string>
+			<string>ETUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Réalismes</string>
+			<string>ATERMOIEMENT</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Peu paraître discordante</string>
+			<string>ATERMOIEMENT</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Pour mesurer les distances</string>
+			<string>ATERMOIEMENT</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Colères</string>
+			<string>ATERMOIEMENT</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Organisation dépendant de l&apos;ONU</string>
+			<string>ATERMOIEMENT</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Drame japonais</string>
+			<string>ATERMOIEMENT</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Sans peine</string>
+			<string>ATERMOIEMENT</string>
+			<string>AISES</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string>  Il a perdu la guerre</string>
+			<string>ATERMOIEMENT</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Empêchent de se mouiller</string>
+			<string>ATERMOIEMENT</string>
+			<string>IMPERS</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Possessif</string>
+			<string>ATERMOIEMENT</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> Manganèse</string>
+			<string>ATERMOIEMENT</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Tergiversation</string>
+			<string> S&apos;adaptent à l&apos;objet</string>
+			<string>ATERMOIEMENT</string>
+			<string>ETUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elles peuvent être ondulées</string>
+			<string> Réalismes</string>
+			<string>TOLES</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Elles peuvent être ondulées</string>
+			<string> Peu paraître discordante</string>
+			<string>TOLES</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Elles peuvent être ondulées</string>
+			<string> Pour mesurer les distances</string>
+			<string>TOLES</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Elles peuvent être ondulées</string>
+			<string> Colères</string>
+			<string>TOLES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Elles peuvent être ondulées</string>
+			<string> Organisation dépendant de l&apos;ONU</string>
+			<string>TOLES</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lézard</string>
+			<string> Sans peine</string>
+			<string>SEPS</string>
+			<string>AISES</string>
+		</array>
+		<array>
+			<string> Lézard</string>
+			<string>  Il a perdu la guerre</string>
+			<string>SEPS</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Lézard</string>
+			<string> Empêchent de se mouiller</string>
+			<string>SEPS</string>
+			<string>IMPERS</string>
+		</array>
+		<array>
+			<string> Lézard</string>
+			<string> Possessif</string>
+			<string>SEPS</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> S&apos;adaptent à l&apos;objet</string>
+			<string>U</string>
+			<string>ETUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Réalismes</string>
+			<string>UNES</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Peu paraître discordante</string>
+			<string>UNES</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Pour mesurer les distances</string>
+			<string>UNES</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Avant les autres</string>
+			<string> Colères</string>
+			<string>UNES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Mondain</string>
+			<string>SE</string>
+			<string>SNOB</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Sans peine</string>
+			<string>SE</string>
+			<string>AISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Empêchent de se mouiller</string>
+			<string>E</string>
+			<string>IMPERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Exsudées</string>
+			<string>SI</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> S&apos;adaptent à l&apos;objet</string>
+			<string>SI</string>
+			<string>ETUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mémoire vive</string>
+			<string> Réalismes</string>
+			<string>RAM</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Mémoire vive</string>
+			<string> Peu paraître discordante</string>
+			<string>RAM</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Mémoire vive</string>
+			<string> Pour mesurer les distances</string>
+			<string>RAM</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string></string>
+			<string>INSEREES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string> Mondain</string>
+			<string>INSEREES</string>
+			<string>SNOB</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string> Sans peine</string>
+			<string>INSEREES</string>
+			<string>AISES</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string> Possédées</string>
+			<string>INSEREES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string> Empêchent de se mouiller</string>
+			<string>INSEREES</string>
+			<string>IMPERS</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string></string>
+			<string>INSEREES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string> Exsudées</string>
+			<string>INSEREES</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string> Introduites</string>
+			<string> S&apos;adaptent à l&apos;objet</string>
+			<string>INSEREES</string>
+			<string>ETUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Blonds breuvages</string>
+			<string> Réalismes</string>
+			<string>ALES</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Blonds breuvages</string>
+			<string> Peu paraître discordante</string>
+			<string>ALES</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Blonds breuvages</string>
+			<string> Pour mesurer les distances</string>
+			<string>ALES</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Blonds breuvages</string>
+			<string></string>
+			<string>ALES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mondain</string>
+			<string>O</string>
+			<string>SNOB</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Possédées</string>
+			<string>US</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Empêchent de se mouiller</string>
+			<string>US</string>
+			<string>IMPERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Exsudées</string>
+			<string>C</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Terme de ping-pong</string>
+			<string> Réalismes</string>
+			<string>LET</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Terme de ping-pong</string>
+			<string> Peu paraître discordante</string>
+			<string>LET</string>
+			<string>ATONALE</string>
+		</array>
+		<array>
+			<string> Terme de ping-pong</string>
+			<string> Pour mesurer les distances</string>
+			<string>LET</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prêtre séculier</string>
+			<string> Astate</string>
+			<string>ABBE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Prêtre séculier</string>
+			<string> Mondain</string>
+			<string>ABBE</string>
+			<string>SNOB</string>
+		</array>
+		<array>
+			<string> Prêtre séculier</string>
+			<string> Rosse</string>
+			<string>ABBE</string>
+			<string>BAT</string>
+		</array>
+		<array>
+			<string> Prêtre séculier</string>
+			<string> Possédées</string>
+			<string>ABBE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jonction du cheval</string>
+			<string> Une révolution compète</string>
+			<string>ARS</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string> Jonction du cheval</string>
+			<string> Exsudées</string>
+			<string>ARS</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string> Jonction du cheval</string>
+			<string> Police militarisée</string>
+			<string>ARS</string>
+			<string>SS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Réalismes</string>
+			<string>I</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avare</string>
+			<string> Pour mesurer les distances</string>
+			<string>RAT</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Avare</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>RAT</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Avare</string>
+			<string> Astate</string>
+			<string>RAT</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Rosse</string>
+			<string>ASINES</string>
+			<string>BAT</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Possédées</string>
+			<string>ASINES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Une sorte de café</string>
+			<string>ASINES</string>
+			<string>IRISH</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Une révolution compète</string>
+			<string>ASINES</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Exsudées</string>
+			<string>ASINES</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string> Relatives à l&apos;âne</string>
+			<string> Police militarisée</string>
+			<string>ASINES</string>
+			<string>SS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Réalismes</string>
+			<string>SAIE</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Atmosphère</string>
+			<string>SAIE</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Pour mesurer les distances</string>
+			<string>SAIE</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Brosse en soies de porc</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>SAIE</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Du verbe être</string>
+			<string>ET</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Rosse</string>
+			<string>ET</string>
+			<string>BAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Une sorte de café</string>
+			<string>R</string>
+			<string>IRISH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Exsudées</string>
+			<string>T</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Changeras</string>
+			<string> Réalismes</string>
+			<string>MUERAS</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Changeras</string>
+			<string> Atmosphère</string>
+			<string>MUERAS</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string> Changeras</string>
+			<string> Pour mesurer les distances</string>
+			<string>MUERAS</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string> Changeras</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>MUERAS</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Changeras</string>
+			<string> Champion</string>
+			<string>MUERAS</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Changeras</string>
+			<string> Du verbe être</string>
+			<string>MUERAS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conduit</string>
+			<string> Elle peut être calme ou animée</string>
+			<string>RISER</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Conduit</string>
+			<string> Une sorte de café</string>
+			<string>RISER</string>
+			<string>IRISH</string>
+		</array>
+		<array>
+			<string> Conduit</string>
+			<string></string>
+			<string>RISER</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Conduit</string>
+			<string> Exsudées</string>
+			<string>RISER</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string> Conduit</string>
+			<string> On ne peut y nager</string>
+			<string>RISER</string>
+			<string>RU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Écossais</string>
+			<string> Réalismes</string>
+			<string>ERSES</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string>Écossais</string>
+			<string> Atmosphère</string>
+			<string>ERSES</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string>Écossais</string>
+			<string> Pour mesurer les distances</string>
+			<string>ERSES</string>
+			<string>TELEMETRIES</string>
+		</array>
+		<array>
+			<string>Écossais</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>ERSES</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string>Écossais</string>
+			<string> Champion</string>
+			<string>ERSES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Connus</string>
+			<string> Direction</string>
+			<string>SUS</string>
+			<string>SO</string>
+		</array>
+		<array>
+			<string> Connus</string>
+			<string> Elle peut être calme ou animée</string>
+			<string>SUS</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Connus</string>
+			<string> Une sorte de café</string>
+			<string>SUS</string>
+			<string>IRISH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> D&apos;un auxiliaire</string>
+			<string> Exsudées</string>
+			<string>EU</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string> D&apos;un auxiliaire</string>
+			<string> On ne peut y nager</string>
+			<string>EU</string>
+			<string>RU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ce n&apos;est pas à toi</string>
+			<string> Réalismes</string>
+			<string>SA</string>
+			<string>NATURALISMES</string>
+		</array>
+		<array>
+			<string> Ce n&apos;est pas à toi</string>
+			<string> Atmosphère</string>
+			<string>SA</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>E</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vents chauds et secs</string>
+			<string></string>
+			<string>FOEHNS</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string> Vents chauds et secs</string>
+			<string> Direction</string>
+			<string>FOEHNS</string>
+			<string>SO</string>
+		</array>
+		<array>
+			<string> Vents chauds et secs</string>
+			<string> Elle peut être calme ou animée</string>
+			<string>FOEHNS</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Vents chauds et secs</string>
+			<string> Une sorte de café</string>
+			<string>FOEHNS</string>
+			<string>IRISH</string>
+		</array>
+		<array>
+			<string> Vents chauds et secs</string>
+			<string></string>
+			<string>FOEHNS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Vents chauds et secs</string>
+			<string> Exsudées</string>
+			<string>FOEHNS</string>
+			<string>SECRETEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

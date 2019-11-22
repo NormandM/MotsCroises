@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Une borne par exemple</string>
+			<string>KALEIDOSCOPE</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Mesures agraires</string>
+			<string>KALEIDOSCOPE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Frustrées</string>
+			<string>KALEIDOSCOPE</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Estoniens</string>
+			<string>KALEIDOSCOPE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string></string>
+			<string>KALEIDOSCOPE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Article contracté</string>
+			<string>KALEIDOSCOPE</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Rivière de Russie</string>
+			<string>KALEIDOSCOPE</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Située</string>
+			<string>KALEIDOSCOPE</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Démonstratif</string>
+			<string>KALEIDOSCOPE</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Monnaie scandinave</string>
+			<string>KALEIDOSCOPE</string>
+			<string>ORE</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string></string>
+			<string>KALEIDOSCOPE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Fabrications de meuble</string>
+			<string>KALEIDOSCOPE</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colères</string>
+			<string> Une borne par exemple</string>
+			<string>IRES</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Mesures agraires</string>
+			<string>IRES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Frustrées</string>
+			<string>IRES</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Estoniens</string>
+			<string>IRES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fractionner</string>
+			<string> Article contracté</string>
+			<string>EMIER</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string> Fractionner</string>
+			<string> Rivière de Russie</string>
+			<string>EMIER</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string> Fractionner</string>
+			<string> Située</string>
+			<string>EMIER</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Fractionner</string>
+			<string> Démonstratif</string>
+			<string>EMIER</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Fractionner</string>
+			<string> Monnaie scandinave</string>
+			<string>EMIER</string>
+			<string>ORE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fabrications de meuble</string>
+			<string>B</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Osés</string>
+			<string> Une borne par exemple</string>
+			<string>LESTES</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Osés</string>
+			<string> Mesures agraires</string>
+			<string>LESTES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Osés</string>
+			<string> Frustrées</string>
+			<string>LESTES</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Osés</string>
+			<string> Estoniens</string>
+			<string>LESTES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Osés</string>
+			<string> Appréciées</string>
+			<string>LESTES</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string> Osés</string>
+			<string> Article contracté</string>
+			<string>LESTES</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Située</string>
+			<string>STERE</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Démonstratif</string>
+			<string>STERE</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Monnaie scandinave</string>
+			<string>STERE</string>
+			<string>ORE</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>STERE</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Fabrications de meuble</string>
+			<string>STERE</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avoir tentées de façon courageuse</string>
+			<string> Une borne par exemple</string>
+			<string>OSEES</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Avoir tentées de façon courageuse</string>
+			<string> Mesures agraires</string>
+			<string>OSEES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Avoir tentées de façon courageuse</string>
+			<string> Frustrées</string>
+			<string>OSEES</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Avoir tentées de façon courageuse</string>
+			<string> Estoniens</string>
+			<string>OSEES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Avoir tentées de façon courageuse</string>
+			<string> Appréciées</string>
+			<string>OSEES</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Symbole chimique</string>
+			<string>SET</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Située</string>
+			<string>SET</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Démonstratif</string>
+			<string>SET</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>EN</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Fabrications de meuble</string>
+			<string>EN</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Une borne par exemple</string>
+			<string>M</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Frustrées</string>
+			<string>ESTER</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Estoniens</string>
+			<string>ESTER</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Appréciées</string>
+			<string>ESTER</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string>  Périodes historiques</string>
+			<string>ESTER</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Symbole chimique</string>
+			<string>ESTER</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Agitation</string>
+			<string> Démonstratif</string>
+			<string>EMOI</string>
+			<string>CETTE</string>
+		</array>
+		<array>
+			<string> Agitation</string>
+			<string> Lettre grec</string>
+			<string>EMOI</string>
+			<string>MU</string>
+		</array>
+		<array>
+			<string> Agitation</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>EMOI</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Agitation</string>
+			<string> Fabrications de meuble</string>
+			<string>EMOI</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Une borne par exemple</string>
+			<string>ERS</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string>ERS</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Frustrées</string>
+			<string>ERS</string>
+			<string>LESEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Appréciées</string>
+			<string>IR</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string>  Périodes historiques</string>
+			<string>IR</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Station balnéaire</string>
+			<string>E</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Entreprise postale</string>
+			<string> Lettre grec</string>
+			<string>UPS</string>
+			<string>MU</string>
+		</array>
+		<array>
+			<string> Entreprise postale</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>UPS</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Entreprise postale</string>
+			<string> Fabrications de meuble</string>
+			<string>UPS</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Une borne par exemple</string>
+			<string>TE</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string>TE</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mette en circulation</string>
+			<string> D'un auxiliaire</string>
+			<string>EMETTE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Mette en circulation</string>
+			<string> Appréciées</string>
+			<string>EMETTE</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string> Mette en circulation</string>
+			<string>  Périodes historiques</string>
+			<string>EMETTE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Mette en circulation</string>
+			<string></string>
+			<string>EMETTE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Mette en circulation</string>
+			<string> Station balnéaire</string>
+			<string>EMETTE</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string> Mette en circulation</string>
+			<string> Nation</string>
+			<string>EMETTE</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>ET</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Fabrications de meuble</string>
+			<string>ET</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Examinées avec soin</string>
+			<string> Une borne par exemple</string>
+			<string>REVUES</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Examinées avec soin</string>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string>REVUES</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Examinées avec soin</string>
+			<string> On en fait des escalopes</string>
+			<string>REVUES</string>
+			<string>VEAUX</string>
+		</array>
+		<array>
+			<string> Examinées avec soin</string>
+			<string> D'un auxiliaire</string>
+			<string>REVUES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Examinées avec soin</string>
+			<string> Appréciées</string>
+			<string>REVUES</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string> Examinées avec soin</string>
+			<string>  Périodes historiques</string>
+			<string>REVUES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Station balnéaire</string>
+			<string>ETIRE</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Nation</string>
+			<string>ETIRE</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Divinité japonaise</string>
+			<string>ETIRE</string>
+			<string>INARI</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>ETIRE</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Fabrications de meuble</string>
+			<string>ETIRE</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Capri</string>
+			<string> Une borne par exemple</string>
+			<string>ILE</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string>ILE</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> On en fait des escalopes</string>
+			<string>ILE</string>
+			<string>VEAUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Appréciées</string>
+			<string>E</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une façon facile de voler</string>
+			<string> Quotidien espagnol</string>
+			<string>PLANER</string>
+			<string>PAIS</string>
+		</array>
+		<array>
+			<string> Une façon facile de voler</string>
+			<string> Station balnéaire</string>
+			<string>PLANER</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string> Une façon facile de voler</string>
+			<string> Nation</string>
+			<string>PLANER</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string> Une façon facile de voler</string>
+			<string> Divinité japonaise</string>
+			<string>PLANER</string>
+			<string>INARI</string>
+		</array>
+		<array>
+			<string> Une façon facile de voler</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>PLANER</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Une façon facile de voler</string>
+			<string> Fabrications de meuble</string>
+			<string>PLANER</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> Une borne par exemple</string>
+			<string>QUASSIA</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string>QUASSIA</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> On en fait des escalopes</string>
+			<string>QUASSIA</string>
+			<string>VEAUX</string>
+		</array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> Plus au sud qu'à l'est</string>
+			<string>QUASSIA</string>
+			<string>SSE</string>
+		</array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> Appréciées</string>
+			<string>QUASSIA</string>
+			<string>ESTIMEES</string>
+		</array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> Elle fait crier</string>
+			<string>QUASSIA</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Petit arbre tropical</string>
+			<string> Quotidien espagnol</string>
+			<string>QUASSIA</string>
+			<string>PAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Desséché</string>
+			<string> Nation</string>
+			<string>TARI</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string> Desséché</string>
+			<string> Divinité japonaise</string>
+			<string>TARI</string>
+			<string>INARI</string>
+		</array>
+		<array>
+			<string> Desséché</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>TARI</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Desséché</string>
+			<string> Fabrications de meuble</string>
+			<string>TARI</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Droit d'utiliser</string>
+			<string> Une borne par exemple</string>
+			<string>USUS</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string> Droit d'utiliser</string>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string>USUS</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Droit d'utiliser</string>
+			<string> On en fait des escalopes</string>
+			<string>USUS</string>
+			<string>VEAUX</string>
+		</array>
+		<array>
+			<string> Droit d'utiliser</string>
+			<string> Plus au sud qu'à l'est</string>
+			<string>USUS</string>
+			<string>SSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vallée envahie par la mer</string>
+			<string> Elle fait crier</string>
+			<string>RIA</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Vallée envahie par la mer</string>
+			<string> Quotidien espagnol</string>
+			<string>RIA</string>
+			<string>PAIS</string>
+		</array>
+		<array>
+			<string> Vallée envahie par la mer</string>
+			<string></string>
+			<string>RIA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Divinité japonaise</string>
+			<string>R</string>
+			<string>INARI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fabrications de meuble</string>
+			<string>E</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Une borne par exemple</string>
+			<string>E</string>
+			<string>KILOMETRIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> On en fait des escalopes</string>
+			<string>XERES</string>
+			<string>VEAUX</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Plus au sud qu'à l'est</string>
+			<string>XERES</string>
+			<string>SSE</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string></string>
+			<string>XERES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Elle fait crier</string>
+			<string>XERES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Quotidien espagnol</string>
+			<string>XERES</string>
+			<string>PAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enduis</string>
+			<string></string>
+			<string>OINS</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Enduis</string>
+			<string> Divinité japonaise</string>
+			<string>OINS</string>
+			<string>INARI</string>
+		</array>
+		<array>
+			<string> Enduis</string>
+			<string></string>
+			<string>OINS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Enduis</string>
+			<string> Fabrications de meuble</string>
+			<string>OINS</string>
+			<string>EBENISTERIES</string>
+		</array>
+	</array>
+</array>
+</plist>

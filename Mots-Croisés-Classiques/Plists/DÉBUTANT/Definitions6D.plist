@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Collaborer</string>
+			<string> Exposées</string>
+			<string>PARTICIPER</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Frère de Moïse</string>
+			<string>PARTICIPER</string>
+			<string>AARON</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Radiofréquence</string>
+			<string>PARTICIPER</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Poids de l&apos;emballage</string>
+			<string>PARTICIPER</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Entourées d&apos;eau</string>
+			<string>PARTICIPER</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Adjectif démonstratif</string>
+			<string>PARTICIPER</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>PARTICIPER</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string></string>
+			<string>PARTICIPER</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string> Crochets</string>
+			<string>PARTICIPER</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string></string>
+			<string>PARTICIPER</string>
+			<string>R</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Exposées</string>
+			<string>RAFALES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Frère de Moïse</string>
+			<string>RAFALES</string>
+			<string>AARON</string>
+		</array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Radiofréquence</string>
+			<string>RAFALES</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Poids de l&apos;emballage</string>
+			<string>RAFALES</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Entourées d&apos;eau</string>
+			<string>RAFALES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Adjectif démonstratif</string>
+			<string>RAFALES</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Coups de vent.</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>RAFALES</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crochets</string>
+			<string>S</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Exposées</string>
+			<string>ER</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Frère de Moïse</string>
+			<string>ER</string>
+			<string>AARON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Poids de l&apos;emballage</string>
+			<string>RETORSE</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Entourées d&apos;eau</string>
+			<string>RETORSE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Adjectif démonstratif</string>
+			<string>RETORSE</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>RETORSE</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Note de musique</string>
+			<string>RETORSE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Crochets</string>
+			<string>RETORSE</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Pleine de ruse</string>
+			<string> Avant un titre universitaire</string>
+			<string>RETORSE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Doux tissus</string>
+			<string> Exposées</string>
+			<string>SOIES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Doux tissus</string>
+			<string> Frère de Moïse</string>
+			<string>SOIES</string>
+			<string>AARON</string>
+		</array>
+		<array>
+			<string> Doux tissus</string>
+			<string> Recueil de fables (pl)</string>
+			<string>SOIES</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string> Doux tissus</string>
+			<string> Poids de l&apos;emballage</string>
+			<string>SOIES</string>
+			<string>TARE</string>
+		</array>
+		<array>
+			<string> Doux tissus</string>
+			<string> Entourées d&apos;eau</string>
+			<string>SOIES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Essentiels pour les coups de départ</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>TEES</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string>  Essentiels pour les coups de départ</string>
+			<string> Note de musique</string>
+			<string>TEES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>  Essentiels pour les coups de départ</string>
+			<string> Crochets</string>
+			<string>TEES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string>  Essentiels pour les coups de départ</string>
+			<string> Avant un titre universitaire</string>
+			<string>TEES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Exposées</string>
+			<string>ENS</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Frère de Moïse</string>
+			<string>ENS</string>
+			<string>AARON</string>
+		</array>
+		<array>
+			<string> École normale supérieure</string>
+			<string> Recueil de fables (pl)</string>
+			<string>ENS</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sud-Ouest</string>
+			<string> Plante herbacée</string>
+			<string>SO</string>
+			<string>SILENE</string>
+		</array>
+		<array>
+			<string> Sud-Ouest</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>SO</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crochets</string>
+			<string>S</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Exposées</string>
+			<string>N</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> A tué sa mère</string>
+			<string> Recueil de fables (pl)</string>
+			<string>OEDIPE</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string> A tué sa mère</string>
+			<string></string>
+			<string>OEDIPE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> A tué sa mère</string>
+			<string> Dinar</string>
+			<string>OEDIPE</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string> A tué sa mère</string>
+			<string> Plante herbacée</string>
+			<string>OEDIPE</string>
+			<string>SILENE</string>
+		</array>
+		<array>
+			<string> A tué sa mère</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>OEDIPE</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string> A tué sa mère</string>
+			<string> Avant un titre universitaire</string>
+			<string>OEDIPE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ventilée</string>
+			<string>A</string>
+			<string>AEREE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Unité de mesure thermique</string>
+			<string> Exposées</string>
+			<string>TEP</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Unité de mesure thermique</string>
+			<string> Langue celtique</string>
+			<string>TEP</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Unité de mesure thermique</string>
+			<string> Recueil de fables (pl)</string>
+			<string>TEP</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Calibrée</string>
+			<string> Dinar</string>
+			<string>ALESEE</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string> Calibrée</string>
+			<string> Plante herbacée</string>
+			<string>ALESEE</string>
+			<string>SILENE</string>
+		</array>
+		<array>
+			<string> Calibrée</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>ALESEE</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string> Calibrée</string>
+			<string> Avant un titre universitaire</string>
+			<string>ALESEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Calibrée</string>
+			<string> Exister</string>
+			<string>ALESEE</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Calibrée</string>
+			<string>Ventilée</string>
+			<string>ALESEE</string>
+			<string>AEREE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Exposées</string>
+			<string>ERES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Langue celtique</string>
+			<string>ERES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Recueil de fables (pl)</string>
+			<string>ERES</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Strontium.</string>
+			<string>ERES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Plante herbacée</string>
+			<string>ES</string>
+			<string>SILENE</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Éléments de même numéro atomique</string>
+			<string>ES</string>
+			<string>ISOTOPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Exister</string>
+			<string>TR</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string>Ventilée</string>
+			<string>TR</string>
+			<string>AEREE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Littoral</string>
+			<string> Exposées</string>
+			<string>ESTRAN</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Littoral</string>
+			<string> Langue celtique</string>
+			<string>ESTRAN</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Littoral</string>
+			<string> Recueil de fables (pl)</string>
+			<string>ESTRAN</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string> Littoral</string>
+			<string> Strontium.</string>
+			<string>ESTRAN</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Littoral</string>
+			<string> Air Canada</string>
+			<string>ESTRAN</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Littoral</string>
+			<string> Plante herbacée</string>
+			<string>ESTRAN</string>
+			<string>SILENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bison d&apos;Europe</string>
+			<string> Coutumes</string>
+			<string>URE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Bison d&apos;Europe</string>
+			<string> Exister</string>
+			<string>URE</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Bison d&apos;Europe</string>
+			<string>Ventilée</string>
+			<string>URE</string>
+			<string>AEREE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif.</string>
+			<string> Exposées</string>
+			<string>SES</string>
+			<string>PRESENTEES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Langue celtique</string>
+			<string>SES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Recueil de fables (pl)</string>
+			<string>SES</string>
+			<string>ISOPETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Air Canada</string>
+			<string>CENSEE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Plante herbacée</string>
+			<string>CENSEE</string>
+			<string>SILENE</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string></string>
+			<string>CENSEE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Coutumes</string>
+			<string>CENSEE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Exister</string>
+			<string>CENSEE</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string>Ventilée</string>
+			<string>CENSEE</string>
+			<string>AEREE</string>
+		</array>
+	</array>
+</array>
+</plist>

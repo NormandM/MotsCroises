@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Éliminer</string>
+			<string>EXECUTIONS</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Xénon</string>
+			<string>EXECUTIONS</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Des zones très sensibles</string>
+			<string>EXECUTIONS</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Adjectif démonstratif</string>
+			<string>EXECUTIONS</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Élimé</string>
+			<string>EXECUTIONS</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string></string>
+			<string>EXECUTIONS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Armée Irlandaise</string>
+			<string>EXECUTIONS</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Entendre</string>
+			<string>EXECUTIONS</string>
+			<string>OUIR</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Arrivée</string>
+			<string>EXECUTIONS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Mises à mort</string>
+			<string> Monnaies romaines</string>
+			<string>EXECUTIONS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Éliminer</string>
+			<string>XERES</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Xénon</string>
+			<string>XERES</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Des zones très sensibles</string>
+			<string>XERES</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Adjectif démonstratif</string>
+			<string>XERES</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Vin d'Espagne</string>
+			<string> Élimé</string>
+			<string>XERES</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Déferlement</string>
+			<string> Armée Irlandaise</string>
+			<string>RUEE</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Déferlement</string>
+			<string> Entendre</string>
+			<string>RUEE</string>
+			<string>OUIR</string>
+		</array>
+		<array>
+			<string> Déferlement</string>
+			<string> Arrivée</string>
+			<string>RUEE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Déferlement</string>
+			<string> Monnaies romaines</string>
+			<string>RUEE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Éliminer</string>
+			<string>T</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Des zones très sensibles</string>
+			<string>OSERAIES</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Adjectif démonstratif</string>
+			<string>OSERAIES</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Élimé</string>
+			<string>OSERAIES</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Redite</string>
+			<string>OSERAIES</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Armée Irlandaise</string>
+			<string>OSERAIES</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Entendre</string>
+			<string>OSERAIES</string>
+			<string>OUIR</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Arrivée</string>
+			<string>OSERAIES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Terrains plantés d"osiers</string>
+			<string> Monnaies romaines</string>
+			<string>OSERAIES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Désert</string>
+			<string> Éliminer</string>
+			<string>ERG</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Désert</string>
+			<string> Calibre à nouveau </string>
+			<string>ERG</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string> Désert</string>
+			<string> Des zones très sensibles</string>
+			<string>ERG</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Redite</string>
+			<string>E</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Entendre</string>
+			<string>R</string>
+			<string>OUIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaies romaines</string>
+			<string>T</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Recopie</string>
+			<string> Éliminer</string>
+			<string>REECRIT</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Recopie</string>
+			<string> Calibre à nouveau </string>
+			<string>REECRIT</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string> Recopie</string>
+			<string> Des zones très sensibles</string>
+			<string>REECRIT</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string> Recopie</string>
+			<string> Disque</string>
+			<string>REECRIT</string>
+			<string>CD</string>
+		</array>
+		<array>
+			<string> Recopie</string>
+			<string> Ennuyeux</string>
+			<string>REECRIT</string>
+			<string>RASOIR</string>
+		</array>
+		<array>
+			<string> Recopie</string>
+			<string> Redite</string>
+			<string>REECRIT</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string> Recopie</string>
+			<string> Règle</string>
+			<string>REECRIT</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string></string>
+			<string>ME</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Monnaies romaines</string>
+			<string>ME</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Déléguée</string>
+			<string> Éliminer</string>
+			<string>MANDATEE</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Calibre à nouveau </string>
+			<string>MANDATEE</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Des zones très sensibles</string>
+			<string>MANDATEE</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Disque</string>
+			<string>MANDATEE</string>
+			<string>CD</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Ennuyeux</string>
+			<string>MANDATEE</string>
+			<string>RASOIR</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Redite</string>
+			<string>MANDATEE</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Règle</string>
+			<string>MANDATEE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Déléguée</string>
+			<string> Éminence</string>
+			<string>MANDATEE</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaies romaines</string>
+			<string>R</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Entourée d'eau</string>
+			<string> Éliminer</string>
+			<string>ILE</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Entourée d'eau</string>
+			<string> Calibre à nouveau </string>
+			<string>ILE</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string> Entourée d'eau</string>
+			<string> Des zones très sensibles</string>
+			<string>ILE</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Ennuyeux</string>
+			<string>SE</string>
+			<string>RASOIR</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Redite</string>
+			<string>SE</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Homme</string>
+			<string> Éminence</string>
+			<string>MEC</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string> Homme</string>
+			<string>  Espaces de temps.</string>
+			<string>MEC</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Homme</string>
+			<string> Monnaies romaines</string>
+			<string>MEC</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom</string>
+			<string> Éliminer</string>
+			<string>NESTOR</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Calibre à nouveau </string>
+			<string>NESTOR</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Des zones très sensibles</string>
+			<string>NESTOR</string>
+			<string>EROGENES</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Avant la distribution</string>
+			<string>NESTOR</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Ennuyeux</string>
+			<string>NESTOR</string>
+			<string>RASOIR</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Redite</string>
+			<string>NESTOR</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string>  Espaces de temps.</string>
+			<string>RE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Monnaies romaines</string>
+			<string>RE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existes</string>
+			<string> Éliminer</string>
+			<string>ES</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Calibre à nouveau </string>
+			<string>ES</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string> Avant la distribution</string>
+			<string>RIEUSES</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string> Ennuyeux</string>
+			<string>RIEUSES</string>
+			<string>RASOIR</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string> Redite</string>
+			<string>RIEUSES</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>RIEUSES</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string> Possessif</string>
+			<string>RIEUSES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string>  Espaces de temps.</string>
+			<string>RIEUSES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Elles sont joyeuses</string>
+			<string> Monnaies romaines</string>
+			<string>RIEUSES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Oteras</string>
+			<string> Éliminer</string>
+			<string>RETIRERAS</string>
+			<string>EXTERMINER</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string> Calibre à nouveau </string>
+			<string>RETIRERAS</string>
+			<string>REALESE</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string></string>
+			<string>RETIRERAS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string> Avant la distribution</string>
+			<string>RETIRERAS</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string> Ennuyeux</string>
+			<string>RETIRERAS</string>
+			<string>RASOIR</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string> Redite</string>
+			<string>RETIRERAS</string>
+			<string>REITEREE</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>RETIRERAS</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string> Possessif</string>
+			<string>RETIRERAS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Oteras</string>
+			<string>  Espaces de temps.</string>
+			<string>RETIRERAS</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

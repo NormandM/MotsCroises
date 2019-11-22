@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>ARTICULEES</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Accorde de nouveau</string>
+			<string>ARTICULEES</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Technétium</string>
+			<string>ARTICULEES</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Elles parlent le Farsi</string>
+			<string>ARTICULEES</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Cuivre</string>
+			<string>ARTICULEES</string>
+			<string>CU</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Sa capitale est South Lake City</string>
+			<string>ARTICULEES</string>
+			<string>UTAH</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Fabuleux</string>
+			<string>ARTICULEES</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Obtenu</string>
+			<string>ARTICULEES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Existes</string>
+			<string>ARTICULEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Formulées de façon claire</string>
+			<string>Terme de tennis</string>
+			<string>ARTICULEES</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>RECRUTEUSE</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Accorde de nouveau</string>
+			<string>RECRUTEUSE</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Technétium</string>
+			<string>RECRUTEUSE</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Elles parlent le Farsi</string>
+			<string>RECRUTEUSE</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Cuivre</string>
+			<string>RECRUTEUSE</string>
+			<string>CU</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Sa capitale est South Lake City</string>
+			<string>RECRUTEUSE</string>
+			<string>UTAH</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Fabuleux</string>
+			<string>RECRUTEUSE</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Obtenu</string>
+			<string>RECRUTEUSE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Existes</string>
+			<string>RECRUTEUSE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Enrôleuse</string>
+			<string>Terme de tennis</string>
+			<string>RECRUTEUSE</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>C&apos;est à moi</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>MA</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>C&apos;est à moi</string>
+			<string>Accorde de nouveau</string>
+			<string>MA</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Elles parlent le Farsi</string>
+			<string>A</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>Sa capitale est South Lake City</string>
+			<string>AG</string>
+			<string>UTAH</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>Fabuleux</string>
+			<string>AG</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Terme de tennis</string>
+			<string>T</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Asséchées</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>ETANCHEES</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Accorde de nouveau</string>
+			<string>ETANCHEES</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string></string>
+			<string>ETANCHEES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Elles parlent le Farsi</string>
+			<string>ETANCHEES</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Disque</string>
+			<string>ETANCHEES</string>
+			<string>CD</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Sa capitale est South Lake City</string>
+			<string>ETANCHEES</string>
+			<string>UTAH</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Fabuleux</string>
+			<string>ETANCHEES</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Trompées</string>
+			<string>ETANCHEES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Asséchées</string>
+			<string>Monnaie du Japon</string>
+			<string>ETANCHEES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Montana</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>MT</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Montana</string>
+			<string>Accorde de nouveau</string>
+			<string>MT</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Idem</string>
+			<string>Elles parlent le Farsi</string>
+			<string>ID</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Idem</string>
+			<string>Disque</string>
+			<string>ID</string>
+			<string>CD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nuage</string>
+			<string>Fabuleux</string>
+			<string>NUEE</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Nuage</string>
+			<string>Trompées</string>
+			<string>NUEE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Nuage</string>
+			<string>Monnaie du Japon</string>
+			<string>NUEE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Nuage</string>
+			<string>Étape</string>
+			<string>NUEE</string>
+			<string>ESCALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Allure</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>ERRE</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Allure</string>
+			<string>Accorde de nouveau</string>
+			<string>ERRE</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string>Allure</string>
+			<string></string>
+			<string>ERRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Allure</string>
+			<string>Elles parlent le Farsi</string>
+			<string>ERRE</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Paradis</string>
+			<string>Lettre de l&apos;alphabet grec</string>
+			<string>EDENS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Paradis</string>
+			<string>Fabuleux</string>
+			<string>EDENS</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Paradis</string>
+			<string>Trompées</string>
+			<string>EDENS</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Paradis</string>
+			<string>Monnaie du Japon</string>
+			<string>EDENS</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Paradis</string>
+			<string>Étape</string>
+			<string>EDENS</string>
+			<string>ESCALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>NI</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Accorde de nouveau</string>
+			<string>NI</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Écrivis</string>
+			<string>Elles parlent le Farsi</string>
+			<string>NOTAS</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Écrivis</string>
+			<string>Terme de tennis</string>
+			<string>NOTAS</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Écrivis</string>
+			<string>Lettre de l&apos;alphabet grec</string>
+			<string>NOTAS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Écrivis</string>
+			<string>Fabuleux</string>
+			<string>NOTAS</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Écrivis</string>
+			<string>Trompées</string>
+			<string>NOTAS</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Étape</string>
+			<string>C</string>
+			<string>ESCALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Très bien</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>TB</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Très bien</string>
+			<string>Accorde de nouveau</string>
+			<string>TB</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nuançai</string>
+			<string>Elles parlent le Farsi</string>
+			<string>NUAI</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Nuançai</string>
+			<string>Terme de tennis</string>
+			<string>NUAI</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Nuançai</string>
+			<string>Lettre de l&apos;alphabet grec</string>
+			<string>NUAI</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Nuançai</string>
+			<string>Fabuleux</string>
+			<string>NUAI</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dieu Egyptien</string>
+			<string>Mammifère rongeur</string>
+			<string>RA</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Dieu Egyptien</string>
+			<string>Étape</string>
+			<string>RA</string>
+			<string>ESCALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Citoyen</string>
+			<string>Les militaires en veulent toujours plus</string>
+			<string>SUJET</string>
+			<string>ARMEMENTS</string>
+		</array>
+		<array>
+			<string>Citoyen</string>
+			<string>Accorde de nouveau</string>
+			<string>SUJET</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string>Citoyen</string>
+			<string></string>
+			<string>SUJET</string>
+			<string>J</string>
+		</array>
+		<array>
+			<string>Citoyen</string>
+			<string>Elles parlent le Farsi</string>
+			<string>SUJET</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string>Citoyen</string>
+			<string>Terme de tennis</string>
+			<string>SUJET</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Monnaie du Brésil</string>
+			<string>Fabuleux</string>
+			<string>REAL</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Monnaie du Brésil</string>
+			<string>Avant un tire universitaire</string>
+			<string>REAL</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Monnaie du Brésil</string>
+			<string>Mammifère rongeur</string>
+			<string>REAL</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Monnaie du Brésil</string>
+			<string>Étape</string>
+			<string>REAL</string>
+			<string>ESCALE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Accorde de nouveau</string>
+			<string>E</string>
+			<string>REATTRIBUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Elles parlent le Farsi</string>
+			<string>S</string>
+			<string>IRANIENNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vient du citron</string>
+			<string></string>
+			<string>ZESTE</string>
+			<string>Z</string>
+		</array>
+		<array>
+			<string>Vient du citron</string>
+			<string>Fabuleux</string>
+			<string>ZESTE</string>
+			<string>LEGENDAIRE</string>
+		</array>
+		<array>
+			<string>Vient du citron</string>
+			<string>Avant un tire universitaire</string>
+			<string>ZESTE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Vient du citron</string>
+			<string>Mammifère rongeur</string>
+			<string>ZESTE</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Vient du citron</string>
+			<string>Étape</string>
+			<string>ZESTE</string>
+			<string>ESCALE</string>
+		</array>
+	</array>
+</array>
+</plist>

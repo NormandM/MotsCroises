@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Il parle au mort</string>
+			<string>NANOSECONDES</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Concerne le son</string>
+			<string>NANOSECONDES</string>
+			<string>AUDIO</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Neptunium</string>
+			<string>NANOSECONDES</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Sert à appeler</string>
+			<string>NANOSECONDES</string>
+			<string>OHE</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Mise en demeure</string>
+			<string>NANOSECONDES</string>
+			<string>SOMMEE</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Subdivision, seconde par durée après l'éon</string>
+			<string>NANOSECONDES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Les abeilles en produisent</string>
+			<string>NANOSECONDES</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>NANOSECONDES</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string></string>
+			<string>NANOSECONDES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> N'a pas été payées</string>
+			<string>NANOSECONDES</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Infinitif</string>
+			<string>NANOSECONDES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Elles ne sont vraiment pas longues</string>
+			<string> Moutarde sauvage</string>
+			<string>NANOSECONDES</string>
+			<string>SENEVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Allégresse</string>
+			<string> Il parle au mort</string>
+			<string>EUPHORIE</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Concerne le son</string>
+			<string>EUPHORIE</string>
+			<string>AUDIO</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Neptunium</string>
+			<string>EUPHORIE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Sert à appeler</string>
+			<string>EUPHORIE</string>
+			<string>OHE</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Mise en demeure</string>
+			<string>EUPHORIE</string>
+			<string>SOMMEE</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Subdivision, seconde par durée après l'éon</string>
+			<string>EUPHORIE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Les abeilles en produisent</string>
+			<string>EUPHORIE</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Allégresse</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>EUPHORIE</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bison maintenant disparu</string>
+			<string> N'a pas été payées</string>
+			<string>URE</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string> Bison maintenant disparu</string>
+			<string> Infinitif</string>
+			<string>URE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Bison maintenant disparu</string>
+			<string> Moutarde sauvage</string>
+			<string>URE</string>
+			<string>SENEVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Disque</string>
+			<string> Il parle au mort</string>
+			<string>CD</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Disque</string>
+			<string> Concerne le son</string>
+			<string>CD</string>
+			<string>AUDIO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> Sert à appeler</string>
+			<string>EMERISE</string>
+			<string>OHE</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> Mise en demeure</string>
+			<string>EMERISE</string>
+			<string>SOMMEE</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> Subdivision, seconde par durée après l'éon</string>
+			<string>EMERISE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> Les abeilles en produisent</string>
+			<string>EMERISE</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>EMERISE</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> Titre donné à un souverain</string>
+			<string>EMERISE</string>
+			<string>SIRE</string>
+		</array>
+		<array>
+			<string> Adouci</string>
+			<string> N'a pas été payées</string>
+			<string>EMERISE</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Moutarde sauvage</string>
+			<string>N</string>
+			<string>SENEVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Originaire de l'Asie</string>
+			<string> Il parle au mort</string>
+			<string>RIZ</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Originaire de l'Asie</string>
+			<string> Concerne le son</string>
+			<string>RIZ</string>
+			<string>AUDIO</string>
+		</array>
+		<array>
+			<string> Originaire de l'Asie</string>
+			<string></string>
+			<string>RIZ</string>
+			<string>Z</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mise en demeure</string>
+			<string>M</string>
+			<string>SOMMEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prophète biblique</string>
+			<string> Les abeilles en produisent</string>
+			<string>ELISEE</string>
+			<string>CIRE</string>
+		</array>
+		<array>
+			<string> Prophète biblique</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>ELISEE</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string> Prophète biblique</string>
+			<string> Titre donné à un souverain</string>
+			<string>ELISEE</string>
+			<string>SIRE</string>
+		</array>
+		<array>
+			<string> Prophète biblique</string>
+			<string> N'a pas été payées</string>
+			<string>ELISEE</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string> Prophète biblique</string>
+			<string> D'un auxiliaire</string>
+			<string>ELISEE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Prophète biblique</string>
+			<string> Moutarde sauvage</string>
+			<string>ELISEE</string>
+			<string>SENEVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lac des Pyrénées</string>
+			<string> Il parle au mort</string>
+			<string>OO</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Lac des Pyrénées</string>
+			<string> Concerne le son</string>
+			<string>OO</string>
+			<string>AUDIO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Dorer</string>
+			<string>REE</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Mise en demeure</string>
+			<string>REE</string>
+			<string>SOMMEE</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string>  Périodes</string>
+			<string>REE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>LR</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Titre donné à un souverain</string>
+			<string>LR</string>
+			<string>SIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rayon</string>
+			<string> D'un auxiliaire</string>
+			<string>UV</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Rayon</string>
+			<string> Moutarde sauvage</string>
+			<string>UV</string>
+			<string>SENEVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Il parle au mort</string>
+			<string>M</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string>  Règles</string>
+			<string>TIERCEES</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string> Dorer</string>
+			<string>TIERCEES</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string> Mise en demeure</string>
+			<string>TIERCEES</string>
+			<string>SOMMEE</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string>  Périodes</string>
+			<string>TIERCEES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string> Symbole chimique</string>
+			<string>TIERCEES</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>TIERCEES</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string> Titre donné à un souverain</string>
+			<string>TIERCEES</string>
+			<string>SIRE</string>
+		</array>
+		<array>
+			<string> A reçu un troisième labour</string>
+			<string> Commune des Pyrénées</string>
+			<string>TIERCEES</string>
+			<string>SARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Moutarde sauvage</string>
+			<string>E</string>
+			<string>SENEVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Résines</string>
+			<string> Il parle au mort</string>
+			<string>ASES</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Résines</string>
+			<string> Convenable</string>
+			<string>ASES</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Résines</string>
+			<string>  Règles</string>
+			<string>ASES</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> Résines</string>
+			<string> Dorer</string>
+			<string>ASES</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string>  Périodes</string>
+			<string>EST</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Symbole chimique</string>
+			<string>EST</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>EST</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Commune des Pyrénées</string>
+			<string>AA</string>
+			<string>SARE</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Ventilées</string>
+			<string>AA</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Centaure</string>
+			<string> Il parle au mort</string>
+			<string>NESSOS</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Centaure</string>
+			<string> Convenable</string>
+			<string>NESSOS</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Centaure</string>
+			<string>  Règles</string>
+			<string>NESSOS</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> Centaure</string>
+			<string> Dorer</string>
+			<string>NESSOS</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string> Centaure</string>
+			<string> Armées disparus</string>
+			<string>NESSOS</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string> Centaure</string>
+			<string>  Périodes</string>
+			<string>NESSOS</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se font avec du lait caillé</string>
+			<string> Plantes cultivées pour ses fleurs</string>
+			<string>SERES</string>
+			<string>OEILLETS</string>
+		</array>
+		<array>
+			<string> Se font avec du lait caillé</string>
+			<string> Abrasif</string>
+			<string>SERES</string>
+			<string>EMERI</string>
+		</array>
+		<array>
+			<string> Se font avec du lait caillé</string>
+			<string> Commune des Pyrénées</string>
+			<string>SERES</string>
+			<string>SARE</string>
+		</array>
+		<array>
+			<string> Se font avec du lait caillé</string>
+			<string> Ventilées</string>
+			<string>SERES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Se font avec du lait caillé</string>
+			<string> Laxatifs</string>
+			<string>SERES</string>
+			<string>SENES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Cela</string>
+			<string> Il parle au mort</string>
+			<string>CA</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Cela</string>
+			<string> Convenable</string>
+			<string>CA</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Couac</string>
+			<string> Dorer</string>
+			<string>OS</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string> Couac</string>
+			<string> Armées disparus</string>
+			<string>OS</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Anneau de cordage</string>
+			<string>E</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Abrasif</string>
+			<string>MERE</string>
+			<string>EMERI</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Commune des Pyrénées</string>
+			<string>MERE</string>
+			<string>SARE</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Ventilées</string>
+			<string>MERE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Laxatifs</string>
+			<string>MERE</string>
+			<string>SENES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Inchangée</string>
+			<string> Il parle au mort</string>
+			<string>INALTEREE</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Convenable</string>
+			<string>INALTEREE</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Gaz rare</string>
+			<string>INALTEREE</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Dorer</string>
+			<string>INALTEREE</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Armées disparus</string>
+			<string>INALTEREE</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string></string>
+			<string>INALTEREE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Anneau de cordage</string>
+			<string>INALTEREE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Lettre grec</string>
+			<string>INALTEREE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Inchangée</string>
+			<string> Abrasif</string>
+			<string>INALTEREE</string>
+			<string>EMERI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Indique l'origine</string>
+			<string> Ventilées</string>
+			<string>EN</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Indique l'origine</string>
+			<string> Laxatifs</string>
+			<string>EN</string>
+			<string>SENES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Personnes</string>
+			<string> Il parle au mort</string>
+			<string>ETRES</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Convenable</string>
+			<string>ETRES</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Gaz rare</string>
+			<string>ETRES</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Dorer</string>
+			<string>ETRES</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Armées disparus</string>
+			<string>ETRES</string>
+			<string>OSTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rayée</string>
+			<string> Anneau de cordage</string>
+			<string>STRIEE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Rayée</string>
+			<string> Lettre grec</string>
+			<string>STRIEE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Rayée</string>
+			<string> Abrasif</string>
+			<string>STRIEE</string>
+			<string>EMERI</string>
+		</array>
+		<array>
+			<string> Rayée</string>
+			<string></string>
+			<string>STRIEE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Rayée</string>
+			<string> Ventilées</string>
+			<string>STRIEE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Rayée</string>
+			<string> Laxatifs</string>
+			<string>STRIEE</string>
+			<string>SENES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Il parle au mort</string>
+			<string>NE</string>
+			<string>NECROMANCIEN</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Convenable</string>
+			<string>NE</string>
+			<string>SEANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Dorer</string>
+			<string>R</string>
+			<string>RISSOLER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Passereau</string>
+			<string></string>
+			<string>GEAI</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string> Passereau</string>
+			<string> Anneau de cordage</string>
+			<string>GEAI</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Passereau</string>
+			<string> Lettre grec</string>
+			<string>GEAI</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Passereau</string>
+			<string> Abrasif</string>
+			<string>GEAI</string>
+			<string>EMERI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Police militarisée</string>
+			<string> Ventilées</string>
+			<string>SS</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Police militarisée</string>
+			<string> Laxatifs</string>
+			<string>SS</string>
+			<string>SENES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Désinfectées</string>
+			<string>AUTOMOBILE</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Se sert</string>
+			<string>AUTOMOBILE</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string></string>
+			<string>AUTOMOBILE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Pièce formant couvercle</string>
+			<string>AUTOMOBILE</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Gangs armés en Amérique latine</string>
+			<string>AUTOMOBILE</string>
+			<string>MARAS</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Au</string>
+			<string>AUTOMOBILE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Inepties</string>
+			<string>AUTOMOBILE</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Fin de verbe</string>
+			<string>AUTOMOBILE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Se soulèvent facilement</string>
+			<string>AUTOMOBILE</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Malheureusement polluante</string>
+			<string> Est-Sud-est</string>
+			<string>AUTOMOBILE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Désinfectées</string>
+			<string>ST</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Se sert</string>
+			<string>ST</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Pièce formant couvercle</string>
+			<string>PARERES</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Gangs armés en Amérique latine</string>
+			<string>PARERES</string>
+			<string>MARAS</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Au</string>
+			<string>PARERES</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Inepties</string>
+			<string>PARERES</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Fin de verbe</string>
+			<string>PARERES</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Se soulèvent facilement</string>
+			<string>PARERES</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Certificats</string>
+			<string> Est-Sud-est</string>
+			<string>PARERES</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Désinfectées</string>
+			<string>EIDER</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Se sert</string>
+			<string>EIDER</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Dette</string>
+			<string>EIDER</string>
+			<string>DU</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Pièce formant couvercle</string>
+			<string>EIDER</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Gangs armés en Amérique latine</string>
+			<string>EIDER</string>
+			<string>MARAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Inepties</string>
+			<string>T</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mère des Titans</string>
+			<string> Se soulèvent facilement</string>
+			<string>GE</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Mère des Titans</string>
+			<string> Est-Sud-est</string>
+			<string>GE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Diversité</string>
+			<string> Désinfectées</string>
+			<string>PLURALITE</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Se sert</string>
+			<string>PLURALITE</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Dette</string>
+			<string>PLURALITE</string>
+			<string>DU</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Pièce formant couvercle</string>
+			<string>PLURALITE</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Gangs armés en Amérique latine</string>
+			<string>PLURALITE</string>
+			<string>MARAS</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string></string>
+			<string>PLURALITE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Inepties</string>
+			<string>PLURALITE</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Le troisième</string>
+			<string>PLURALITE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Diversité</string>
+			<string> Se soulèvent facilement</string>
+			<string>PLURALITE</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Titane</string>
+			<string> Désinfectées</string>
+			<string>TI</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Titane</string>
+			<string> Se sert</string>
+			<string>TI</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conseil supérieur</string>
+			<string> Pièce formant couvercle</string>
+			<string>CS</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Conseil supérieur</string>
+			<string> Gangs armés en Amérique latine</string>
+			<string>CS</string>
+			<string>MARAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Existera</string>
+			<string> Inepties</string>
+			<string>SERA</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string> Existera</string>
+			<string> Le troisième</string>
+			<string>SERA</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Existera</string>
+			<string> Se soulèvent facilement</string>
+			<string>SERA</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Existera</string>
+			<string> Appuyé sur son séant</string>
+			<string>SERA</string>
+			<string>ASSIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Poète français d&apos;origine roumaine</string>
+			<string> Désinfectées</string>
+			<string>ISOU</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Poète français d&apos;origine roumaine</string>
+			<string> Se sert</string>
+			<string>ISOU</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string> Poète français d&apos;origine roumaine</string>
+			<string> Animal et constellation</string>
+			<string>ISOU</string>
+			<string>OURSE</string>
+		</array>
+		<array>
+			<string> Poète français d&apos;origine roumaine</string>
+			<string> Pièce formant couvercle</string>
+			<string>ISOU</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string></string>
+			<string>SERES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Inepties</string>
+			<string>SERES</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Le troisième</string>
+			<string>SERES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Se soulèvent facilement</string>
+			<string>SERES</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Appuyé sur son séant</string>
+			<string>SERES</string>
+			<string>ASSIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Isolés</string>
+			<string> Désinfectées</string>
+			<string>SEULS</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Isolés</string>
+			<string> Se sert</string>
+			<string>SEULS</string>
+			<string>UTILISE</string>
+		</array>
+		<array>
+			<string> Isolés</string>
+			<string> Animal et constellation</string>
+			<string>SEULS</string>
+			<string>OURSE</string>
+		</array>
+		<array>
+			<string> Isolés</string>
+			<string> Pièce formant couvercle</string>
+			<string>SEULS</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Isolés</string>
+			<string> Hareng fumé</string>
+			<string>SEULS</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Inepties</string>
+			<string>S</string>
+			<string>BETISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Se soulèvent facilement</string>
+			<string>SS</string>
+			<string>LEGERES</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Appuyé sur son séant</string>
+			<string>SS</string>
+			<string>ASSIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Désinfectées</string>
+			<string>E</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Contre le progrès social</string>
+			<string> Animal et constellation</string>
+			<string>REAC</string>
+			<string>OURSE</string>
+		</array>
+		<array>
+			<string> Contre le progrès social</string>
+			<string> Pièce formant couvercle</string>
+			<string>REAC</string>
+			<string>OPERCULE</string>
+		</array>
+		<array>
+			<string> Contre le progrès social</string>
+			<string> Hareng fumé</string>
+			<string>REAC</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string> Contre le progrès social</string>
+			<string>Césium</string>
+			<string>REAC</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string>E</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Appuyé sur son séant</string>
+			<string>I</string>
+			<string>ASSIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Désinfectées</string>
+			<string>ERS</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Ruthénium</string>
+			<string>ERS</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Animal et constellation</string>
+			<string>ERS</string>
+			<string>OURSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Hareng fumé</string>
+			<string>USINES</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string>Césium</string>
+			<string>USINES</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Adresse</string>
+			<string>USINES</string>
+			<string>IP</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string>USINES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Extra terrestre</string>
+			<string>USINES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Manufactures</string>
+			<string> Appuyé sur son séant</string>
+			<string>USINES</string>
+			<string>ASSIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Transpiration</string>
+			<string> Désinfectées</string>
+			<string>SUEUR</string>
+			<string>ASEPTISEES</string>
+		</array>
+		<array>
+			<string> Transpiration</string>
+			<string> Ruthénium</string>
+			<string>SUEUR</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Transpiration</string>
+			<string> Animal et constellation</string>
+			<string>SUEUR</string>
+			<string>OURSE</string>
+		</array>
+		<array>
+			<string> Transpiration</string>
+			<string></string>
+			<string>SUEUR</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Transpiration</string>
+			<string> Hareng fumé</string>
+			<string>SUEUR</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gaz</string>
+			<string> Adresse</string>
+			<string>PET</string>
+			<string>IP</string>
+		</array>
+		<array>
+			<string> Gaz</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string>PET</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Gaz</string>
+			<string> Extra terrestre</string>
+			<string>PET</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

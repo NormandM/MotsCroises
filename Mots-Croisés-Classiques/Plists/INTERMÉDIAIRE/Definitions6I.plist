@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Fruits oblongs et violets</string>
+			<string>ASPIRATEUR</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Etain</string>
+			<string>ASPIRATEUR</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Pieu</string>
+			<string>ASPIRATEUR</string>
+			<string>PAL</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Inachevées</string>
+			<string>ASPIRATEUR</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Cérémonials</string>
+			<string>ASPIRATEUR</string>
+			<string>RITES</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Installa</string>
+			<string>ASPIRATEUR</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Lancement</string>
+			<string>ASPIRATEUR</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Le boucher y travaille</string>
+			<string>ASPIRATEUR</string>
+			<string>ETALS</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string>Affluent de l'Oubangui</string>
+			<string>ASPIRATEUR</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string>Avec lui, les poussières disparaissent</string>
+			<string></string>
+			<string>ASPIRATEUR</string>
+			<string>R</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Harmonie</string>
+			<string>Fruits oblongs et violets</string>
+			<string>UNANIMITE</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Etain</string>
+			<string>UNANIMITE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Pieu</string>
+			<string>UNANIMITE</string>
+			<string>PAL</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Inachevées</string>
+			<string>UNANIMITE</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Cérémonials</string>
+			<string>UNANIMITE</string>
+			<string>RITES</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Installa</string>
+			<string>UNANIMITE</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Lancement</string>
+			<string>UNANIMITE</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Le boucher y travaille</string>
+			<string>UNANIMITE</string>
+			<string>ETALS</string>
+		</array>
+		<array>
+			<string>Harmonie</string>
+			<string>Affluent de l'Oubangui</string>
+			<string>UNANIMITE</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Fruits oblongs et violets</string>
+			<string>B</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Pieu</string>
+			<string>LATERALE</string>
+			<string>PAL</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Inachevées</string>
+			<string>LATERALE</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Cérémonials</string>
+			<string>LATERALE</string>
+			<string>RITES</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Installa</string>
+			<string>LATERALE</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Lancement</string>
+			<string>LATERALE</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Le boucher y travaille</string>
+			<string>LATERALE</string>
+			<string>ETALS</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Affluent de l'Oubangui</string>
+			<string>LATERALE</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string>Sur le côté</string>
+			<string>Existe</string>
+			<string>LATERALE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trompé</string>
+			<string>Fruits oblongs et violets</string>
+			<string>EU</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Trompé</string>
+			<string>Première page</string>
+			<string>EU</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Familier pour bien</string>
+			<string>Inachevées</string>
+			<string>BEN</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Familier pour bien</string>
+			<string>Cérémonials</string>
+			<string>BEN</string>
+			<string>RITES</string>
+		</array>
+		<array>
+			<string>Familier pour bien</string>
+			<string>Installa</string>
+			<string>BEN</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Le boucher y travaille</string>
+			<string>LES</string>
+			<string>ETALS</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Affluent de l'Oubangui</string>
+			<string>LES</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Existe</string>
+			<string>LES</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Radon</string>
+			<string>Fruits oblongs et violets</string>
+			<string>RN</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Radon</string>
+			<string>Première page</string>
+			<string>RN</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Risquais</string>
+			<string>Inachevées</string>
+			<string>OSAIS</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Risquais</string>
+			<string>Cérémonials</string>
+			<string>OSAIS</string>
+			<string>RITES</string>
+		</array>
+		<array>
+			<string>Risquais</string>
+			<string>Installa</string>
+			<string>OSAIS</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Risquais</string>
+			<string>Négatifs ou positifs</string>
+			<string>OSAIS</string>
+			<string>IONS</string>
+		</array>
+		<array>
+			<string>Risquais</string>
+			<string>Le boucher y travaille</string>
+			<string>OSAIS</string>
+			<string>ETALS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Existe</string>
+			<string>T</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mère des Titans</string>
+			<string>Fruits oblongs et violets</string>
+			<string>GE</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Mère des Titans</string>
+			<string>Première page</string>
+			<string>GE</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Inachevées</string>
+			<string>U</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jeux chinois</string>
+			<string>Installa</string>
+			<string>GO</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Jeux chinois</string>
+			<string>Négatifs ou positifs</string>
+			<string>GO</string>
+			<string>IONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Obsède</string>
+			<string>H</string>
+			<string>HANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Fruits oblongs et violets</string>
+			<string>I</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Anneau de cordage</string>
+			<string>ETRENNAS</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Inachevées</string>
+			<string>ETRENNAS</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string></string>
+			<string>ETRENNAS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Installa</string>
+			<string>ETRENNAS</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Négatifs ou positifs</string>
+			<string>ETRENNAS</string>
+			<string>IONS</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Galette indienne</string>
+			<string>ETRENNAS</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Obsède</string>
+			<string>ETRENNAS</string>
+			<string>HANTE</string>
+		</array>
+		<array>
+			<string>Utilisas pour la première fois</string>
+			<string>Adjectif possessif</string>
+			<string>ETRENNAS</string>
+			<string>SA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Enveloppe se sushi</string>
+			<string>Fruits oblongs et violets</string>
+			<string>NORI</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Enveloppe se sushi</string>
+			<string>Ennui</string>
+			<string>NORI</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Enveloppe se sushi</string>
+			<string>Anneau de cordage</string>
+			<string>NORI</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Enveloppe se sushi</string>
+			<string>Inachevées</string>
+			<string>NORI</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Posture</string>
+			<string>Installa</string>
+			<string>ASANA</string>
+			<string>AMENAGEA</string>
+		</array>
+		<array>
+			<string>Posture</string>
+			<string>Négatifs ou positifs</string>
+			<string>ASANA</string>
+			<string>IONS</string>
+		</array>
+		<array>
+			<string>Posture</string>
+			<string>Galette indienne</string>
+			<string>ASANA</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string>Posture</string>
+			<string>Obsède</string>
+			<string>ASANA</string>
+			<string>HANTE</string>
+		</array>
+		<array>
+			<string>Posture</string>
+			<string>Adjectif possessif</string>
+			<string>ASANA</string>
+			<string>SA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Crochets</string>
+			<string>Fruits oblongs et violets</string>
+			<string>ESSES</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Ennui</string>
+			<string>ESSES</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Anneau de cordage</string>
+			<string>ESSES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Inachevées</string>
+			<string>ESSES</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Police des nazis</string>
+			<string>ESSES</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Astate</string>
+			<string>Galette indienne</string>
+			<string>AT</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string>Astate</string>
+			<string>Obsède</string>
+			<string>AT</string>
+			<string>HANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Fruits oblongs et violets</string>
+			<string>S</string>
+			<string>AUBERGINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ouverture de violon</string>
+			<string>Anneau de cordage</string>
+			<string>ESSE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Ouverture de violon</string>
+			<string>Inachevées</string>
+			<string>ESSE</string>
+			<string>INABOUTIES</string>
+		</array>
+		<array>
+			<string>Ouverture de violon</string>
+			<string>Police des nazis</string>
+			<string>ESSE</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string>Ouverture de violon</string>
+			<string></string>
+			<string>ESSE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pâté impérial</string>
+			<string>Galette indienne</string>
+			<string>NEM</string>
+			<string>NAAN</string>
+		</array>
+		<array>
+			<string>Pâté impérial</string>
+			<string>Obsède</string>
+			<string>NEM</string>
+			<string>HANTE</string>
+		</array>
+		<array>
+			<string>Pâté impérial</string>
+			<string></string>
+			<string>NEM</string>
+			<string>M</string>
+		</array>
+	</array>
+</array>
+</plist>

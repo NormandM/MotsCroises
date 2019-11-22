@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Affectueux</string>
+			<string>Conservé</string>
+			<string>FRATERNELS</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Servent à diriger le cheval</string>
+			<string>FRATERNELS</string>
+			<string>RENES</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Inculpé</string>
+			<string>FRATERNELS</string>
+			<string>ACCUSE</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>FRATERNELS</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Prénom</string>
+			<string>FRATERNELS</string>
+			<string>ELSA</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string></string>
+			<string>FRATERNELS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Patriarche de la bible</string>
+			<string>FRATERNELS</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Crochets</string>
+			<string>FRATERNELS</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Article</string>
+			<string>FRATERNELS</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Affectueux</string>
+			<string> Inflexible</string>
+			<string>FRATERNELS</string>
+			<string>SEVERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> C&apos;est un crime</string>
+			<string>Conservé</string>
+			<string>RECEL</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> C&apos;est un crime</string>
+			<string> Servent à diriger le cheval</string>
+			<string>RECEL</string>
+			<string>RENES</string>
+		</array>
+		<array>
+			<string> C&apos;est un crime</string>
+			<string> Inculpé</string>
+			<string>RECEL</string>
+			<string>ACCUSE</string>
+		</array>
+		<array>
+			<string> C&apos;est un crime</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>RECEL</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> C&apos;est un crime</string>
+			<string> Prénom</string>
+			<string>RECEL</string>
+			<string>ELSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Patriarche de la bible</string>
+			<string>OSEE</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Crochets</string>
+			<string>OSEE</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Article</string>
+			<string>OSEE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Inflexible</string>
+			<string>OSEE</string>
+			<string>SEVERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tabous</string>
+			<string>Conservé</string>
+			<string>INCESTES</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Servent à diriger le cheval</string>
+			<string>INCESTES</string>
+			<string>RENES</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Inculpé</string>
+			<string>INCESTES</string>
+			<string>ACCUSE</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>INCESTES</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Prénom</string>
+			<string>INCESTES</string>
+			<string>ELSA</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Salve</string>
+			<string>INCESTES</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Patriarche de la bible</string>
+			<string>INCESTES</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string> Tabous</string>
+			<string> Crochets</string>
+			<string>INCESTES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Inflexible</string>
+			<string>V</string>
+			<string>SEVERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Grossesse extra-utérine</string>
+			<string>Conservé</string>
+			<string>GEU</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Grossesse extra-utérine</string>
+			<string> Servent à diriger le cheval</string>
+			<string>GEU</string>
+			<string>RENES</string>
+		</array>
+		<array>
+			<string> Grossesse extra-utérine</string>
+			<string> Inculpé</string>
+			<string>GEU</string>
+			<string>ACCUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Prénom</string>
+			<string>AI</string>
+			<string>ELSA</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Salve</string>
+			<string>AI</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Crochets</string>
+			<string>ETE</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Laboure une troisième fois</string>
+			<string>ETE</string>
+			<string>TERSE</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Inflexible</string>
+			<string>ETE</string>
+			<string>SEVERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Costaud</string>
+			<string>Conservé</string>
+			<string>OSSU</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Costaud</string>
+			<string> Servent à diriger le cheval</string>
+			<string>OSSU</string>
+			<string>RENES</string>
+		</array>
+		<array>
+			<string> Costaud</string>
+			<string> Inculpé</string>
+			<string>OSSU</string>
+			<string>ACCUSE</string>
+		</array>
+		<array>
+			<string> Costaud</string>
+			<string> Utilisât</string>
+			<string>OSSU</string>
+			<string>USAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Effleurer</string>
+			<string> Salve</string>
+			<string>RASER</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string> Effleurer</string>
+			<string> On ne peut vivre sans lui</string>
+			<string>RASER</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string> Effleurer</string>
+			<string> Crochets</string>
+			<string>RASER</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Effleurer</string>
+			<string> Laboure une troisième fois</string>
+			<string>RASER</string>
+			<string>TERSE</string>
+		</array>
+		<array>
+			<string> Effleurer</string>
+			<string> Inflexible</string>
+			<string>RASER</string>
+			<string>SEVERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Conservé</string>
+			<string>R</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Inculpé</string>
+			<string>EST</string>
+			<string>ACCUSE</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Utilisât</string>
+			<string>EST</string>
+			<string>USAT</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Nervi</string>
+			<string>EST</string>
+			<string>TUEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> On ne peut vivre sans lui</string>
+			<string>I</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Île de France</string>
+			<string> Laboure une troisième fois</string>
+			<string>RE</string>
+			<string>TERSE</string>
+		</array>
+		<array>
+			<string> Île de France</string>
+			<string> Inflexible</string>
+			<string>RE</string>
+			<string>SEVERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> À la mode</string>
+			<string>Conservé</string>
+			<string>IN</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> À la mode</string>
+			<string> Vigueur</string>
+			<string>IN</string>
+			<string>NERF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> À côté</string>
+			<string> Utilisât</string>
+			<string>AUPRES</string>
+			<string>USAT</string>
+		</array>
+		<array>
+			<string> À côté</string>
+			<string> Nervi</string>
+			<string>AUPRES</string>
+			<string>TUEUR</string>
+		</array>
+		<array>
+			<string> À côté</string>
+			<string> Pour attirer l&apos;attention</string>
+			<string>AUPRES</string>
+			<string>PSST</string>
+		</array>
+		<array>
+			<string> À côté</string>
+			<string> On ne peut vivre sans lui</string>
+			<string>AUPRES</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string> À côté</string>
+			<string> Période historique</string>
+			<string>AUPRES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> À côté</string>
+			<string> Laboure une troisième fois</string>
+			<string>AUPRES</string>
+			<string>TERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Jours</string>
+			<string>Conservé</string>
+			<string>FENTES</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Jours</string>
+			<string> Vigueur</string>
+			<string>FENTES</string>
+			<string>NERF</string>
+		</array>
+		<array>
+			<string> Jours</string>
+			<string> Navire à voiles</string>
+			<string>FENTES</string>
+			<string>NEF</string>
+		</array>
+		<array>
+			<string> Jours</string>
+			<string> Utilisât</string>
+			<string>FENTES</string>
+			<string>USAT</string>
+		</array>
+		<array>
+			<string> Jours</string>
+			<string> Nervi</string>
+			<string>FENTES</string>
+			<string>TUEUR</string>
+		</array>
+		<array>
+			<string> Jours</string>
+			<string> Pour attirer l&apos;attention</string>
+			<string>FENTES</string>
+			<string>PSST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crie comme un cerf</string>
+			<string> Période historique</string>
+			<string>REE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Crie comme un cerf</string>
+			<string> Laboure une troisième fois</string>
+			<string>REE</string>
+			<string>TERSE</string>
+		</array>
+		<array>
+			<string> Crie comme un cerf</string>
+			<string> Plante herbacée</string>
+			<string>REE</string>
+			<string>ERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colère</string>
+			<string>Conservé</string>
+			<string>IRE</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Vigueur</string>
+			<string>IRE</string>
+			<string>NERF</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Navire à voiles</string>
+			<string>IRE</string>
+			<string>NEF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Nervi</string>
+			<string>USEE</string>
+			<string>TUEUR</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Pour attirer l&apos;attention</string>
+			<string>USEE</string>
+			<string>PSST</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Existes</string>
+			<string>USEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Période historique</string>
+			<string>USEE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plante herbacée</string>
+			<string>R</string>
+			<string>ERS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Applications</string>
+			<string>Conservé</string>
+			<string>EFFORTS</string>
+			<string>FRIGORIFIE</string>
+		</array>
+		<array>
+			<string> Applications</string>
+			<string> Vigueur</string>
+			<string>EFFORTS</string>
+			<string>NERF</string>
+		</array>
+		<array>
+			<string> Applications</string>
+			<string> Navire à voiles</string>
+			<string>EFFORTS</string>
+			<string>NEF</string>
+		</array>
+		<array>
+			<string> Applications</string>
+			<string></string>
+			<string>EFFORTS</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Applications</string>
+			<string> Nervi</string>
+			<string>EFFORTS</string>
+			<string>TUEUR</string>
+		</array>
+		<array>
+			<string> Applications</string>
+			<string> Pour attirer l&apos;attention</string>
+			<string>EFFORTS</string>
+			<string>PSST</string>
+		</array>
+		<array>
+			<string> Applications</string>
+			<string> Existes</string>
+			<string>EFFORTS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string></string>
+			<string>AS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Plante herbacée</string>
+			<string>AS</string>
+			<string>ERS</string>
+		</array>
+	</array>
+</array>
+</plist>

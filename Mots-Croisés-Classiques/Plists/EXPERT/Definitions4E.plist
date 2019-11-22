@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Incorrections</string>
+			<string>BOOMERANGS</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Foncerai</string>
+			<string>BOOMERANGS</string>
+			<string>OSERAI</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Choquant</string>
+			<string>BOOMERANGS</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Brouilla</string>
+			<string>BOOMERANGS</string>
+			<string>MELA</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string></string>
+			<string>BOOMERANGS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Cris</string>
+			<string>BOOMERANGS</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Appuyé sur son séant</string>
+			<string>BOOMERANGS</string>
+			<string>ASSIS</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Neptunium</string>
+			<string>BOOMERANGS</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Diriges</string>
+			<string>BOOMERANGS</string>
+			<string>GERES</string>
+		</array>
+		<array>
+			<string> Peuvent se retourner contre le lanceur</string>
+			<string> Une maladie pulmonaire</string>
+			<string>BOOMERANGS</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Abattu</string>
+			<string>D</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Marteau de tonnelier</string>
+			<string> Incorrections</string>
+			<string>ASSE</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Marteau de tonnelier</string>
+			<string> Foncerai</string>
+			<string>ASSE</string>
+			<string>OSERAI</string>
+		</array>
+		<array>
+			<string> Marteau de tonnelier</string>
+			<string> Choquant</string>
+			<string>ASSE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Marteau de tonnelier</string>
+			<string> Brouilla</string>
+			<string>ASSE</string>
+			<string>MELA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Cris</string>
+			<string>ESPEREE</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Appuyé sur son séant</string>
+			<string>ESPEREE</string>
+			<string>ASSIS</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Neptunium</string>
+			<string>ESPEREE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Diriges</string>
+			<string>ESPEREE</string>
+			<string>GERES</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Une maladie pulmonaire</string>
+			<string>ESPEREE</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Indique la manière</string>
+			<string>ESPEREE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Souhaitée</string>
+			<string> Abattu</string>
+			<string>ESPEREE</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Incorrections</string>
+			<string>REELUES</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Foncerai</string>
+			<string>REELUES</string>
+			<string>OSERAI</string>
+		</array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Choquant</string>
+			<string>REELUES</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Brouilla</string>
+			<string>REELUES</string>
+			<string>MELA</string>
+		</array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Fatigués</string>
+			<string>REELUES</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Cris</string>
+			<string>REELUES</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string> Appuyé sur son séant</string>
+			<string>REELUES</string>
+			<string>ASSIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Commune française dans le département du Jura</string>
+			<string> Diriges</string>
+			<string>RANS</string>
+			<string>GERES</string>
+		</array>
+		<array>
+			<string> Commune française dans le département du Jura</string>
+			<string> Une maladie pulmonaire</string>
+			<string>RANS</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string> Commune française dans le département du Jura</string>
+			<string> Indique la manière</string>
+			<string>RANS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Commune française dans le département du Jura</string>
+			<string> Abattu</string>
+			<string>RANS</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Brome</string>
+			<string> Incorrections</string>
+			<string>BR</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Brome</string>
+			<string> Foncerai</string>
+			<string>BR</string>
+			<string>OSERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> Brouilla</string>
+			<string>ASSISES</string>
+			<string>MELA</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> Fatigués</string>
+			<string>ASSISES</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> Cris</string>
+			<string>ASSISES</string>
+			<string>REES</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> Appuyé sur son séant</string>
+			<string>ASSISES</string>
+			<string>ASSIS</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> On en extrait un laxatif</string>
+			<string>ASSISES</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> Diriges</string>
+			<string>ASSISES</string>
+			<string>GERES</string>
+		</array>
+		<array>
+			<string> Solidement établies</string>
+			<string> Une maladie pulmonaire</string>
+			<string>ASSISES</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Abattu</string>
+			<string>E</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Incorrections</string>
+			<string>AAR</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Foncerai</string>
+			<string>AAR</string>
+			<string>OSERAI</string>
+		</array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Réduit</string>
+			<string>AAR</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fatigués</string>
+			<string>E</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Appuyé sur son séant</string>
+			<string>SES</string>
+			<string>ASSIS</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> On en extrait un laxatif</string>
+			<string>SES</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Diriges</string>
+			<string>SES</string>
+			<string>GERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Pronom</string>
+			<string>ES</string>
+			<string>ELLE</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Abattu</string>
+			<string>ES</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elle est d&apos;agréable compagnie</string>
+			<string> Incorrections</string>
+			<string>RIEUSE</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Elle est d&apos;agréable compagnie</string>
+			<string> Foncerai</string>
+			<string>RIEUSE</string>
+			<string>OSERAI</string>
+		</array>
+		<array>
+			<string> Elle est d&apos;agréable compagnie</string>
+			<string> Réduit</string>
+			<string>RIEUSE</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string> Elle est d&apos;agréable compagnie</string>
+			<string> On y a fait beaucoup de fouilles</string>
+			<string>RIEUSE</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Elle est d&apos;agréable compagnie</string>
+			<string> Fatigués</string>
+			<string>RIEUSE</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string> Elle est d&apos;agréable compagnie</string>
+			<string> Déroules</string>
+			<string>RIEUSE</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> On en extrait un laxatif</string>
+			<string>N</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Yasser Arafat la dirigea jusqu&apos;à sa mort</string>
+			<string> Entendirent</string>
+			<string>OLP</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Yasser Arafat la dirigea jusqu&apos;à sa mort</string>
+			<string> Pronom</string>
+			<string>OLP</string>
+			<string>ELLE</string>
+		</array>
+		<array>
+			<string> Yasser Arafat la dirigea jusqu&apos;à sa mort</string>
+			<string> Abattu</string>
+			<string>OLP</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Incorrections</string>
+			<string>I</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Réduit</string>
+			<string>SR</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> On y a fait beaucoup de fouilles</string>
+			<string>SR</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> Déroules</string>
+			<string>TREMULE</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> Commander</string>
+			<string>TREMULE</string>
+			<string>REGIR</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> On en extrait un laxatif</string>
+			<string>TREMULE</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> Manganèse</string>
+			<string>TREMULE</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> Entendirent</string>
+			<string>TREMULE</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> Pronom</string>
+			<string>TREMULE</string>
+			<string>ELLE</string>
+		</array>
+		<array>
+			<string> Tremble</string>
+			<string> Abattu</string>
+			<string>TREMULE</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tamis</string>
+			<string> Incorrections</string>
+			<string>SAS</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>SAS</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Tamis</string>
+			<string> Réduit</string>
+			<string>SAS</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Brait</string>
+			<string> Pouffé</string>
+			<string>REE</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string> Brait</string>
+			<string> Déroules</string>
+			<string>REE</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string> Brait</string>
+			<string> Commander</string>
+			<string>REE</string>
+			<string>REGIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Manganèse</string>
+			<string>NIER</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Entendirent</string>
+			<string>NIER</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Pronom</string>
+			<string>NIER</string>
+			<string>ELLE</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Abattu</string>
+			<string>NIER</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Réunions</string>
+			<string> Incorrections</string>
+			<string>MEETINGS</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>MEETINGS</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Réduit</string>
+			<string>MEETINGS</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Règle</string>
+			<string>MEETINGS</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Pouffé</string>
+			<string>MEETINGS</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Déroules</string>
+			<string>MEETINGS</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Commander</string>
+			<string>MEETINGS</string>
+			<string>REGIR</string>
+		</array>
+		<array>
+			<string> Réunions</string>
+			<string> Répand</string>
+			<string>MEETINGS</string>
+			<string>SEME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Entendirent</string>
+			<string>R</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Abattu</string>
+			<string>E</string>
+			<string>DESESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Incorrections</string>
+			<string>ERRE</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>ERRE</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Réduit</string>
+			<string>ERRE</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Règle</string>
+			<string>ERRE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se retrouvent sur une partition et sur un téléphone</string>
+			<string> Déroules</string>
+			<string>DIESES</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string> Se retrouvent sur une partition et sur un téléphone</string>
+			<string> Commander</string>
+			<string>DIESES</string>
+			<string>REGIR</string>
+		</array>
+		<array>
+			<string> Se retrouvent sur une partition et sur un téléphone</string>
+			<string> Répand</string>
+			<string>DIESES</string>
+			<string>SEME</string>
+		</array>
+		<array>
+			<string> Se retrouvent sur une partition et sur un téléphone</string>
+			<string> Juin</string>
+			<string>DIESES</string>
+			<string>SIX</string>
+		</array>
+		<array>
+			<string> Se retrouvent sur une partition et sur un téléphone</string>
+			<string> Entendirent</string>
+			<string>DIESES</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Se retrouvent sur une partition et sur un téléphone</string>
+			<string> Poisson osseux</string>
+			<string>DIESES</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Incorrections</string>
+			<string>SET</string>
+			<string>BARBARISMES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>SET</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Réduit</string>
+			<string>SET</string>
+			<string>RESSERT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Symbole chimique</string>
+			<string>TERMINAS</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Déroules</string>
+			<string>TERMINAS</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Commander</string>
+			<string>TERMINAS</string>
+			<string>REGIR</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Répand</string>
+			<string>TERMINAS</string>
+			<string>SEME</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Juin</string>
+			<string>TERMINAS</string>
+			<string>SIX</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Entendirent</string>
+			<string>TERMINAS</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Poisson osseux</string>
+			<string>TERMINAS</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Achevas</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>TERMINAS</string>
+			<string>SA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>E</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string></string>
+			<string>SIS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> Symbole chimique</string>
+			<string>SIS</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> Déroules</string>
+			<string>SIS</string>
+			<string>ETENDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Génial</string>
+			<string> Répand</string>
+			<string>EXTRA</string>
+			<string>SEME</string>
+		</array>
+		<array>
+			<string> Génial</string>
+			<string> Juin</string>
+			<string>EXTRA</string>
+			<string>SIX</string>
+		</array>
+		<array>
+			<string> Génial</string>
+			<string> Entendirent</string>
+			<string>EXTRA</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Génial</string>
+			<string> Poisson osseux</string>
+			<string>EXTRA</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Génial</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>EXTRA</string>
+			<string>SA</string>
+		</array>
+	</array>
+</array>
+</plist>

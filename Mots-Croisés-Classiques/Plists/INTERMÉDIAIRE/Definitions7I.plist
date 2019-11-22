@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Navrant</string>
+			<string>LABYRINTHE</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Alcool</string>
+			<string>LABYRINTHE</string>
+			<string>ARAC</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Sauces épaisses</string>
+			<string>LABYRINTHE</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string></string>
+			<string>LABYRINTHE</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Note</string>
+			<string>LABYRINTHE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Fleuve d&apos;Asie du sud-est</string>
+			<string>LABYRINTHE</string>
+			<string>INDUS</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Notre-Dame</string>
+			<string>LABYRINTHE</string>
+			<string>ND</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Cacha</string>
+			<string>LABYRINTHE</string>
+			<string>TUT</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Organisation sociale</string>
+			<string>LABYRINTHE</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Les rats s&apos;y retrouvent</string>
+			<string>Ville d&apos;Italie</string>
+			<string>LABYRINTHE</string>
+			<string>ESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Navrant</string>
+			<string>ARE</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Alcool</string>
+			<string>ARE</string>
+			<string>ARAC</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Sauces épaisses</string>
+			<string>ARE</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Oins</string>
+			<string>Note</string>
+			<string>ENDUIS</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Oins</string>
+			<string>Fleuve d&apos;asie du sud-est</string>
+			<string>ENDUIS</string>
+			<string>INDUS</string>
+		</array>
+		<array>
+			<string>Oins</string>
+			<string>Notre-Dame</string>
+			<string>ENDUIS</string>
+			<string>ND</string>
+		</array>
+		<array>
+			<string>Oins</string>
+			<string>Cacha</string>
+			<string>ENDUIS</string>
+			<string>TUT</string>
+		</array>
+		<array>
+			<string>Oins</string>
+			<string>Organisation sociale</string>
+			<string>ENDUIS</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Oins</string>
+			<string>Ville d&apos;Italie</string>
+			<string>ENDUIS</string>
+			<string>ESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Structure volcanique</string>
+			<string>Navrant</string>
+			<string>MAAR</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Structure volcanique</string>
+			<string>Alcool</string>
+			<string>MAAR</string>
+			<string>ARAC</string>
+		</array>
+		<array>
+			<string>Structure volcanique</string>
+			<string>Sauces épaisses</string>
+			<string>MAAR</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Structure volcanique</string>
+			<string>Protestait</string>
+			<string>MAAR</string>
+			<string>RUAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fleuve d&apos;asie du sud-est</string>
+			<string>D</string>
+			<string>INDUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nouvel an vietnamien</string>
+			<string>Cacha</string>
+			<string>TET</string>
+			<string>TUT</string>
+		</array>
+		<array>
+			<string>Nouvel an vietnamien</string>
+			<string>Organisation sociale</string>
+			<string>TET</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Nouvel an vietnamien</string>
+			<string>Ville d&apos;Italie</string>
+			<string>TET</string>
+			<string>ESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Brut</string>
+			<string>Navrant</string>
+			<string>ECRU</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Brut</string>
+			<string>Alcool</string>
+			<string>ECRU</string>
+			<string>ARAC</string>
+		</array>
+		<array>
+			<string>Brut</string>
+			<string>Sauces épaisses</string>
+			<string>ECRU</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Brut</string>
+			<string>Protestait</string>
+			<string>ECRU</string>
+			<string>RUAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le premier</string>
+			<string>Fleuve d&apos;asie du sud-est</string>
+			<string>UN</string>
+			<string>INDUS</string>
+		</array>
+		<array>
+			<string>Le premier</string>
+			<string>Pâté impérial</string>
+			<string>UN</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Organisation sociale</string>
+			<string>RE</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Ville d&apos;Italie</string>
+			<string>RE</string>
+			<string>ESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Navrant</string>
+			<string>N</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Zone marécageuse</string>
+			<string>Sauces épaisses</string>
+			<string>NARSE</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Zone marécageuse</string>
+			<string>Protestait</string>
+			<string>NARSE</string>
+			<string>RUAIT</string>
+		</array>
+		<array>
+			<string>Zone marécageuse</string>
+			<string>Crier</string>
+			<string>NARSE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Zone marécageuse</string>
+			<string>Fleuve d&apos;asie du sud-est</string>
+			<string>NARSE</string>
+			<string>INDUS</string>
+		</array>
+		<array>
+			<string>Zone marécageuse</string>
+			<string>Pâté impérial</string>
+			<string>NARSE</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Organisation sociale</string>
+			<string>A</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle vient d&apos;asie du sud-est</string>
+			<string>Navrant</string>
+			<string>THAIE</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Elle vient d&apos;asie du sud-est</string>
+			<string>Mercure</string>
+			<string>THAIE</string>
+			<string>HG</string>
+		</array>
+		<array>
+			<string>Elle vient d&apos;asie du sud-est</string>
+			<string>Sauces épaisses</string>
+			<string>THAIE</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Elle vient d&apos;asie du sud-est</string>
+			<string>Protestait</string>
+			<string>THAIE</string>
+			<string>RUAIT</string>
+		</array>
+		<array>
+			<string>Elle vient d&apos;asie du sud-est</string>
+			<string>Crier</string>
+			<string>THAIE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mammifère d&apos;Argentine</string>
+			<string>Pâté impérial</string>
+			<string>MARA</string>
+			<string>NEM</string>
+		</array>
+		<array>
+			<string>Mammifère d&apos;Argentine</string>
+			<string>Champion</string>
+			<string>MARA</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Mammifère d&apos;Argentine</string>
+			<string>Organisation sociale</string>
+			<string>MARA</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Mammifère d&apos;Argentine</string>
+			<string></string>
+			<string>MARA</string>
+			<string>A</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Remuer</string>
+			<string>Navrant</string>
+			<string>AGITER</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Remuer</string>
+			<string>Mercure</string>
+			<string>AGITER</string>
+			<string>HG</string>
+		</array>
+		<array>
+			<string>Remuer</string>
+			<string>Sauces épaisses</string>
+			<string>AGITER</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Remuer</string>
+			<string>Protestait</string>
+			<string>AGITER</string>
+			<string>RUAIT</string>
+		</array>
+		<array>
+			<string>Remuer</string>
+			<string>Crier</string>
+			<string>AGITER</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Remuer</string>
+			<string>S&apos;amuses</string>
+			<string>AGITER</string>
+			<string>RIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Scandium</string>
+			<string>Champion</string>
+			<string>SC</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Scandium</string>
+			<string>Organisation sociale</string>
+			<string>SC</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Navrant</string>
+			<string>B</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sauces épaisses</string>
+			<string>S</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vallée envahie par la mer</string>
+			<string>Crier</string>
+			<string>RIA</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string>Vallée envahie par la mer</string>
+			<string>S&apos;amuses</string>
+			<string>RIA</string>
+			<string>RIES</string>
+		</array>
+		<array>
+			<string>Vallée envahie par la mer</string>
+			<string>Durée</string>
+			<string>RIA</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Haute fréquence</string>
+			<string>Organisation sociale</string>
+			<string>HF</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Haute fréquence</string>
+			<string>Fer</string>
+			<string>HF</string>
+			<string>FE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Parcourues</string>
+			<string>Navrant</string>
+			<string>LUES</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Parcourues</string>
+			<string>Coutumes</string>
+			<string>LUES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Parcourues</string>
+			<string>Sauces épaisses</string>
+			<string>LUES</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Parcourues</string>
+			<string>Adjectif possessif</string>
+			<string>LUES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Besoin</string>
+			<string>S&apos;amuses</string>
+			<string>ENVIE</string>
+			<string>RIES</string>
+		</array>
+		<array>
+			<string>Besoin</string>
+			<string>Durée</string>
+			<string>ENVIE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Besoin</string>
+			<string>Par opposition à</string>
+			<string>ENVIE</string>
+			<string>VS</string>
+		</array>
+		<array>
+			<string>Besoin</string>
+			<string>Organisation sociale</string>
+			<string>ENVIE</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string>Besoin</string>
+			<string>Fer</string>
+			<string>ENVIE</string>
+			<string>FE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tests</string>
+			<string>Navrant</string>
+			<string>ESSAIS</string>
+			<string>LAMENTABLE</string>
+		</array>
+		<array>
+			<string>Tests</string>
+			<string>Coutumes</string>
+			<string>ESSAIS</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Tests</string>
+			<string>Sauces épaisses</string>
+			<string>ESSAIS</string>
+			<string>BEARNAISES</string>
+		</array>
+		<array>
+			<string>Tests</string>
+			<string>Adjectif possessif</string>
+			<string>ESSAIS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string>Tests</string>
+			<string></string>
+			<string>ESSAIS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Tests</string>
+			<string>S&apos;amuses</string>
+			<string>ESSAIS</string>
+			<string>RIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Par opposition à</string>
+			<string>SE</string>
+			<string>VS</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Organisation sociale</string>
+			<string>SE</string>
+			<string>HIERARCHIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

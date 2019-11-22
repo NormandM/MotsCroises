@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Reportent</string>
+			<string>THEOLOGIENNE</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>THEOLOGIENNE</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Indique la manière</string>
+			<string>THEOLOGIENNE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>THEOLOGIENNE</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Charger</string>
+			<string>THEOLOGIENNE</string>
+			<string>LESTER</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string></string>
+			<string>THEOLOGIENNE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Mère des Titans</string>
+			<string>THEOLOGIENNE</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Une position sur le terrain</string>
+			<string>THEOLOGIENNE</string>
+			<string>INTER</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Lettre grec</string>
+			<string>THEOLOGIENNE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Fébrile</string>
+			<string>THEOLOGIENNE</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Arrivées</string>
+			<string>THEOLOGIENNE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Les choses terrestres ne l&apos;intéressent pas beaucoup.</string>
+			<string> Direction</string>
+			<string>THEOLOGIENNE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Qui a un goût âcre</string>
+			<string> Reportent</string>
+			<string>RANCE</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Qui a un goût âcre</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>RANCE</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Qui a un goût âcre</string>
+			<string> Indique la manière</string>
+			<string>RANCE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Qui a un goût âcre</string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>RANCE</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string> Qui a un goût âcre</string>
+			<string> Charger</string>
+			<string>RANCE</string>
+			<string>LESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Mère des Titans</string>
+			<string>ENTEES</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Une position sur le terrain</string>
+			<string>ENTEES</string>
+			<string>INTER</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Lettre grec</string>
+			<string>ENTEES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Fébrile</string>
+			<string>ENTEES</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Arrivées</string>
+			<string>ENTEES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Direction</string>
+			<string>ENTEES</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une moitié de journée</string>
+			<string> Reportent</string>
+			<string>AM</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Une moitié de journée</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>AM</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>EST</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Charger</string>
+			<string>EST</string>
+			<string>LESTER</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Mets du combustible</string>
+			<string>EST</string>
+			<string>TISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Idiote</string>
+			<string> Une position sur le terrain</string>
+			<string>TAREE</string>
+			<string>INTER</string>
+		</array>
+		<array>
+			<string> Idiote</string>
+			<string> Lettre grec</string>
+			<string>TAREE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Idiote</string>
+			<string> Fébrile</string>
+			<string>TAREE</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string> Idiote</string>
+			<string> Arrivées</string>
+			<string>TAREE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Idiote</string>
+			<string> Direction</string>
+			<string>TAREE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Reportent</string>
+			<string>NEGATIVE</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>NEGATIVE</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Rare l&apos;été</string>
+			<string>NEGATIVE</string>
+			<string>GEL</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>NEGATIVE</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Charger</string>
+			<string>NEGATIVE</string>
+			<string>LESTER</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Mets du combustible</string>
+			<string>NEGATIVE</string>
+			<string>TISES</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string></string>
+			<string>NEGATIVE</string>
+			<string>V</string>
+		</array>
+		<array>
+			<string> Voit le côté sombre des choses</string>
+			<string> Une position sur le terrain</string>
+			<string>NEGATIVE</string>
+			<string>INTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Fébrile</string>
+			<string>VS</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Arrivées</string>
+			<string>VS</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Disputes bruyantes</string>
+			<string> Reportent</string>
+			<string>SCENES</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Disputes bruyantes</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>SCENES</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Disputes bruyantes</string>
+			<string> Rare l&apos;été</string>
+			<string>SCENES</string>
+			<string>GEL</string>
+		</array>
+		<array>
+			<string> Disputes bruyantes</string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>SCENES</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string> Disputes bruyantes</string>
+			<string> Charger</string>
+			<string>SCENES</string>
+			<string>LESTER</string>
+		</array>
+		<array>
+			<string> Disputes bruyantes</string>
+			<string> Mets du combustible</string>
+			<string>SCENES</string>
+			<string>TISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Artère</string>
+			<string> Une position sur le terrain</string>
+			<string>RUE</string>
+			<string>INTER</string>
+		</array>
+		<array>
+			<string> Artère</string>
+			<string> Fatiguée</string>
+			<string>RUE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Artère</string>
+			<string> Fébrile</string>
+			<string>RUE</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vérifie le poids</string>
+			<string>R</string>
+			<string>REPESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Reportent</string>
+			<string>COLERES</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>COLERES</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Rare l&apos;été</string>
+			<string>COLERES</string>
+			<string>GEL</string>
+		</array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>COLERES</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Charger</string>
+			<string>COLERES</string>
+			<string>LESTER</string>
+		</array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Mets du combustible</string>
+			<string>COLERES</string>
+			<string>TISES</string>
+		</array>
+		<array>
+			<string> Elles sont parfois noires</string>
+			<string> Paul MacCartney porte ce titre</string>
+			<string>COLERES</string>
+			<string>SIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Fatiguée</string>
+			<string>SUEE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Fébrile</string>
+			<string>SUEE</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string></string>
+			<string>SUEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Vérifie le poids</string>
+			<string>SUEE</string>
+			<string>REPESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Radon</string>
+			<string> Reportent</string>
+			<string>RN</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>RN</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Concernent de vastes étendues d&apos;eau</string>
+			<string>S</string>
+			<string>OCEANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Insecte</string>
+			<string> Mets du combustible</string>
+			<string>SIREX</string>
+			<string>TISES</string>
+		</array>
+		<array>
+			<string> Insecte</string>
+			<string> Paul MacCartney porte ce titre</string>
+			<string>SIREX</string>
+			<string>SIR</string>
+		</array>
+		<array>
+			<string> Insecte</string>
+			<string> Poulie</string>
+			<string>SIREX</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> Insecte</string>
+			<string> Fatiguée</string>
+			<string>SIREX</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Insecte</string>
+			<string> Fébrile</string>
+			<string>SIREX</string>
+			<string>NERVEUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vérifie le poids</string>
+			<string>P</string>
+			<string>REPESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string> Reportent</string>
+			<string>INA</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>INA</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string> Poisson voisin du hareng</string>
+			<string>INA</string>
+			<string>ALOSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Laxatifs</string>
+			<string>S</string>
+			<string>SENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Paul MacCartney porte ce titre</string>
+			<string>REE</string>
+			<string>SIR</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Poulie</string>
+			<string>REE</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> Crie</string>
+			<string> Fatiguée</string>
+			<string>REE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Acides</string>
+			<string>SE</string>
+			<string>SURES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Vérifie le poids</string>
+			<string>SE</string>
+			<string>REPESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Écrivain et journaliste français</string>
+			<string> Reportent</string>
+			<string>VALLES</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Écrivain et journaliste français</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>VALLES</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Écrivain et journaliste français</string>
+			<string> Poisson voisin du hareng</string>
+			<string>VALLES</string>
+			<string>ALOSE</string>
+		</array>
+		<array>
+			<string> Écrivain et journaliste français</string>
+			<string> Mesure chinoise</string>
+			<string>VALLES</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string> Écrivain et journaliste français</string>
+			<string> Laxatifs</string>
+			<string>VALLES</string>
+			<string>SENES</string>
+		</array>
+		<array>
+			<string> Écrivain et journaliste français</string>
+			<string> Fromage</string>
+			<string>VALLES</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Poulie</string>
+			<string>A</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dissimulés</string>
+			<string> Toujours présents au départ</string>
+			<string>TUS</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Dissimulés</string>
+			<string> Acides</string>
+			<string>TUS</string>
+			<string>SURES</string>
+		</array>
+		<array>
+			<string> Dissimulés</string>
+			<string> Vérifie le poids</string>
+			<string>TUS</string>
+			<string>REPESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Reportent</string>
+			<string>EGOINES</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>EGOINES</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Poisson voisin du hareng</string>
+			<string>EGOINES</string>
+			<string>ALOSE</string>
+		</array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Mesure chinoise</string>
+			<string>EGOINES</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Laxatifs</string>
+			<string>EGOINES</string>
+			<string>SENES</string>
+		</array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Fromage</string>
+			<string>EGOINES</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Traversent le bois</string>
+			<string> Tamis</string>
+			<string>EGOINES</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ouvre la fenêtre</string>
+			<string> Une blonde anglaise</string>
+			<string>AERE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string> Ouvre la fenêtre</string>
+			<string> Toujours présents au départ</string>
+			<string>AERE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Ouvre la fenêtre</string>
+			<string> Acides</string>
+			<string>AERE</string>
+			<string>SURES</string>
+		</array>
+		<array>
+			<string> Ouvre la fenêtre</string>
+			<string> Vérifie le poids</string>
+			<string>AERE</string>
+			<string>REPESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Ont ouvert les yeux</string>
+			<string> Reportent</string>
+			<string>NES</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string>  Ont ouvert les yeux</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>NES</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string>  Ont ouvert les yeux</string>
+			<string> Poisson voisin du hareng</string>
+			<string>NES</string>
+			<string>ALOSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string> Laxatifs</string>
+			<string>ERAFLEE</string>
+			<string>SENES</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string> Fromage</string>
+			<string>ERAFLEE</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string> Tamis</string>
+			<string>ERAFLEE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string></string>
+			<string>ERAFLEE</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string> Une blonde anglaise</string>
+			<string>ERAFLEE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string> Toujours présents au départ</string>
+			<string>ERAFLEE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Griffée</string>
+			<string> Acides</string>
+			<string>ERAFLEE</string>
+			<string>SURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Reportent</string>
+			<string>TSETSES</string>
+			<string>TRANSCRIVENT</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Nouvelles formes d&apos;escroqueries</string>
+			<string>TSETSES</string>
+			<string>HAMECONNAGES</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Poisson voisin du hareng</string>
+			<string>TSETSES</string>
+			<string>ALOSE</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string></string>
+			<string>TSETSES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Laxatifs</string>
+			<string>TSETSES</string>
+			<string>SENES</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Fromage</string>
+			<string>TSETSES</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Des mouches qui endorment</string>
+			<string> Tamis</string>
+			<string>TSETSES</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> Une blonde anglaise</string>
+			<string>ESSE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> Toujours présents au départ</string>
+			<string>ESSE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> Acides</string>
+			<string>ESSE</string>
+			<string>SURES</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string></string>
+			<string>ESSE</string>
+			<string>E</string>
+		</array>
+	</array>
+</array>
+</plist>

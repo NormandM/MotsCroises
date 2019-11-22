@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Prévues</string>
+			<string> Insensibilisation</string>
+			<string>ANTICIPEES</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Sein</string>
+			<string>ANTICIPEES</string>
+			<string>NIBAR</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Le troisième</string>
+			<string>ANTICIPEES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Père de l&apos;église</string>
+			<string>ANTICIPEES</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string></string>
+			<string>ANTICIPEES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Respirer</string>
+			<string>ANTICIPEES</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> On les dit bavardes</string>
+			<string>ANTICIPEES</string>
+			<string>PIES</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Le gel y est rare</string>
+			<string>ANTICIPEES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Infinitif</string>
+			<string>ANTICIPEES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Prévues</string>
+			<string> Monnaies romaines</string>
+			<string>ANTICIPEES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Refuter</string>
+			<string> Insensibilisation</string>
+			<string>NIER</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Sein</string>
+			<string>NIER</string>
+			<string>NIBAR</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Le troisième</string>
+			<string>NIER</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Refuter</string>
+			<string> Père de l&apos;église</string>
+			<string>NIER</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Salpêtre</string>
+			<string> Respirer</string>
+			<string>NITRE</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string> Salpêtre</string>
+			<string> On les dit bavardes</string>
+			<string>NITRE</string>
+			<string>PIES</string>
+		</array>
+		<array>
+			<string> Salpêtre</string>
+			<string> Le gel y est rare</string>
+			<string>NITRE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Salpêtre</string>
+			<string> Infinitif</string>
+			<string>NITRE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Salpêtre</string>
+			<string> Monnaies romaines</string>
+			<string>NITRE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abîmée</string>
+			<string> Insensibilisation</string>
+			<string>EBRECHEE</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> Sein</string>
+			<string>EBRECHEE</string>
+			<string>NIBAR</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> Le troisième</string>
+			<string>EBRECHEE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> Père de l&apos;église</string>
+			<string>EBRECHEE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> Abréviation de ici</string>
+			<string>EBRECHEE</string>
+			<string>CI</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> Respirer</string>
+			<string>EBRECHEE</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> On les dit bavardes</string>
+			<string>EBRECHEE</string>
+			<string>PIES</string>
+		</array>
+		<array>
+			<string> Abîmée</string>
+			<string> Le gel y est rare</string>
+			<string>EBRECHEE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaies romaines</string>
+			<string>S</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> Insensibilisation</string>
+			<string>SA</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Sein</string>
+			<string>SA</string>
+			<string>NIBAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rejetas</string>
+			<string> Père de l&apos;église</string>
+			<string>NIAS</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Rejetas</string>
+			<string> Abréviation de ici</string>
+			<string>NIAS</string>
+			<string>CI</string>
+		</array>
+		<array>
+			<string> Rejetas</string>
+			<string> Respirer</string>
+			<string>NIAS</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string> Rejetas</string>
+			<string> On les dit bavardes</string>
+			<string>NIAS</string>
+			<string>PIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Plante herbacée</string>
+			<string>ET</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Monnaies romaines</string>
+			<string>ET</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Classifie</string>
+			<string> Insensibilisation</string>
+			<string>TRIE</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Classifie</string>
+			<string> Sein</string>
+			<string>TRIE</string>
+			<string>NIBAR</string>
+		</array>
+		<array>
+			<string> Classifie</string>
+			<string> Prénom féminin</string>
+			<string>TRIE</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Classifie</string>
+			<string> Père de l&apos;église</string>
+			<string>TRIE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Respirer</string>
+			<string>L</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string></string>
+			<string>ERE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Plante herbacée</string>
+			<string>ERE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Monnaies romaines</string>
+			<string>ERE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Insensibilisation</string>
+			<string>H</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Prénom féminin</string>
+			<string>RENEE</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Père de l&apos;église</string>
+			<string>RENEE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string>  Apparus.</string>
+			<string>RENEE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Respirer</string>
+			<string>RENEE</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Son duvet est très apprécié</string>
+			<string>RENEE</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Plante herbacée</string>
+			<string>SR</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Monnaies romaines</string>
+			<string>SR</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Est-Sud-est</string>
+			<string> Insensibilisation</string>
+			<string>ESE</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Est-Sud-est</string>
+			<string> Es utile</string>
+			<string>ESE</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string> Est-Sud-est</string>
+			<string> Prénom féminin</string>
+			<string>ESE</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string>  Apparus.</string>
+			<string>ERIC</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Respirer</string>
+			<string>ERIC</string>
+			<string>INHALER</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Son duvet est très apprécié</string>
+			<string>ERIC</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Pensa</string>
+			<string>ERIC</string>
+			<string>CRUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaies romaines</string>
+			<string>C</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Insensibilisation</string>
+			<string>SENES</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Es utile</string>
+			<string>SENES</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Prénom féminin</string>
+			<string>SENES</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Orient.</string>
+			<string>SENES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string>  Apparus.</string>
+			<string>SENES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dense</string>
+			<string> Son duvet est très apprécié</string>
+			<string>DRUE</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Dense</string>
+			<string> Pensa</string>
+			<string>DRUE</string>
+			<string>CRUT</string>
+		</array>
+		<array>
+			<string> Dense</string>
+			<string>Aurochs</string>
+			<string>DRUE</string>
+			<string>URE</string>
+		</array>
+		<array>
+			<string> Dense</string>
+			<string> Monnaies romaines</string>
+			<string>DRUE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colères</string>
+			<string> Insensibilisation</string>
+			<string>IRES</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Es utile</string>
+			<string>IRES</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Prénom féminin</string>
+			<string>IRES</string>
+			<string>IRENE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Orient.</string>
+			<string>IRES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Avant d&apos;être approuvé</string>
+			<string>LEURS</string>
+			<string>LU</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Son duvet est très apprécié</string>
+			<string>LEURS</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Pensa</string>
+			<string>LEURS</string>
+			<string>CRUT</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string>Aurochs</string>
+			<string>LEURS</string>
+			<string>URE</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Monnaies romaines</string>
+			<string>LEURS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Insensibilisation</string>
+			<string>ES</string>
+			<string>ANESTHESIE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Es utile</string>
+			<string>ES</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ressemble à une quiche</string>
+			<string> Orient.</string>
+			<string>TOURTE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Ressemble à une quiche</string>
+			<string></string>
+			<string>TOURTE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Ressemble à une quiche</string>
+			<string> Avant d&apos;être approuvé</string>
+			<string>TOURTE</string>
+			<string>LU</string>
+		</array>
+		<array>
+			<string> Ressemble à une quiche</string>
+			<string> Son duvet est très apprécié</string>
+			<string>TOURTE</string>
+			<string>EIDER</string>
+		</array>
+		<array>
+			<string> Ressemble à une quiche</string>
+			<string> Pensa</string>
+			<string>TOURTE</string>
+			<string>CRUT</string>
+		</array>
+		<array>
+			<string> Ressemble à une quiche</string>
+			<string>Aurochs</string>
+			<string>TOURTE</string>
+			<string>URE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

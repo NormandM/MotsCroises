@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Enfermées</string>
+			<string> Utopistes</string>
+			<string>INTERNEES</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Célèbre sous-marin</string>
+			<string>INTERNEES</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Non dit</string>
+			<string>INTERNEES</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Espionné</string>
+			<string>INTERNEES</string>
+			<string>EPIE</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Lettre grec</string>
+			<string>INTERNEES</string>
+			<string>RHO</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Antilope</string>
+			<string>INTERNEES</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Prince troyen</string>
+			<string>INTERNEES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string> Du verbe être</string>
+			<string>INTERNEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Enfermées</string>
+			<string></string>
+			<string>INTERNEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Utopistes</string>
+			<string>DAUPHINS</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Célèbre sous-marin</string>
+			<string>DAUPHINS</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Non dit</string>
+			<string>DAUPHINS</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Espionné</string>
+			<string>DAUPHINS</string>
+			<string>EPIE</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Lettre grec</string>
+			<string>DAUPHINS</string>
+			<string>RHO</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Antilope</string>
+			<string>DAUPHINS</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Prince troyen</string>
+			<string>DAUPHINS</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Mammifères aquatiques</string>
+			<string> Du verbe être</string>
+			<string>DAUPHINS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Calme et paisible</string>
+			<string>S</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> D'un auxiliaire</string>
+			<string> Utopistes</string>
+			<string>EU</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> D'un auxiliaire</string>
+			<string> Célèbre sous-marin</string>
+			<string>EU</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Princesse promise À Héraclès</string>
+			<string> Espionné</string>
+			<string>IOLE</string>
+			<string>EPIE</string>
+		</array>
+		<array>
+			<string> Princesse promise À Héraclès</string>
+			<string> Lettre grec</string>
+			<string>IOLE</string>
+			<string>RHO</string>
+		</array>
+		<array>
+			<string> Princesse promise À Héraclès</string>
+			<string> Antilope</string>
+			<string>IOLE</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string> Princesse promise À Héraclès</string>
+			<string> Prince troyen</string>
+			<string>IOLE</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Terme de tennis</string>
+			<string>SE</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Calme et paisible</string>
+			<string>SE</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Utopistes</string>
+			<string>ATRE</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Célèbre sous-marin</string>
+			<string>ATRE</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Reportés au pouvoir</string>
+			<string>ATRE</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> On y fait du feu</string>
+			<string> Espionné</string>
+			<string>ATRE</string>
+			<string>EPIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Glacer</string>
+			<string> Antilope</string>
+			<string>GELER</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string> Glacer</string>
+			<string> Prince troyen</string>
+			<string>GELER</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Glacer</string>
+			<string>  Général sudiste</string>
+			<string>GELER</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Glacer</string>
+			<string> Terme de tennis</string>
+			<string>GELER</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Glacer</string>
+			<string> Calme et paisible</string>
+			<string>GELER</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Uni</string>
+			<string> Utopistes</string>
+			<string>LIE</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> Uni</string>
+			<string> Célèbre sous-marin</string>
+			<string>LIE</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> Uni</string>
+			<string> Reportés au pouvoir</string>
+			<string>LIE</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string></string>
+			<string>SA</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Antilope</string>
+			<string>SA</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string>  Général sudiste</string>
+			<string>ETE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Terme de tennis</string>
+			<string>ETE</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Calme et paisible</string>
+			<string>ETE</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On s'y rend en bateau</string>
+			<string> Utopistes</string>
+			<string>ILES</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> On s'y rend en bateau</string>
+			<string> Célèbre sous-marin</string>
+			<string>ILES</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> On s'y rend en bateau</string>
+			<string> Reportés au pouvoir</string>
+			<string>ILES</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> On s'y rend en bateau</string>
+			<string> Science-Fiction</string>
+			<string>ILES</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fatigué</string>
+			<string> Antilope</string>
+			<string>USE</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string> Fatigué</string>
+			<string> Elle traverse Paris</string>
+			<string>USE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Fatigué</string>
+			<string>  Général sudiste</string>
+			<string>USE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Calme et paisible</string>
+			<string>I</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Utopistes</string>
+			<string>SULFATE</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Célèbre sous-marin</string>
+			<string>SULFATE</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Reportés au pouvoir</string>
+			<string>SULFATE</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Science-Fiction</string>
+			<string>SULFATE</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Massif des Alpes suisses</string>
+			<string>SULFATE</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Antilope</string>
+			<string>SULFATE</string>
+			<string>NILGAUT</string>
+		</array>
+		<array>
+			<string> Sel d'un acide</string>
+			<string> Elle traverse Paris</string>
+			<string>SULFATE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Blonds breuvages</string>
+			<string>AN</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Calme et paisible</string>
+			<string>AN</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une ville du japon</string>
+			<string> Utopistes</string>
+			<string>TSU</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> Une ville du japon</string>
+			<string> Célèbre sous-marin</string>
+			<string>TSU</string>
+			<string>NAUTILUS</string>
+		</array>
+		<array>
+			<string> Une ville du japon</string>
+			<string> Reportés au pouvoir</string>
+			<string>TSU</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Massif des Alpes suisses</string>
+			<string>A</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rivière de France</string>
+			<string> Elle traverse Paris</string>
+			<string>ISLE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Rivière de France</string>
+			<string> Monnaie du Japon</string>
+			<string>ISLE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Rivière de France</string>
+			<string> Blonds breuvages</string>
+			<string>ISLE</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string> Rivière de France</string>
+			<string> Calme et paisible</string>
+			<string>ISLE</string>
+			<string>SEREINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Utopistes</string>
+			<string>E</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> Reportés au pouvoir</string>
+			<string>SERINEE</string>
+			<string>REELUS</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> Liaison</string>
+			<string>SERINEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> Massif des Alpes suisses</string>
+			<string>SERINEE</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> De même</string>
+			<string>SERINEE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> Elle traverse Paris</string>
+			<string>SERINEE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> Monnaie du Japon</string>
+			<string>SERINEE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Répétée inlassablement</string>
+			<string> Blonds breuvages</string>
+			<string>SERINEE</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Utopistes</string>
+			<string>ST</string>
+			<string>IDEALISTES</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string></string>
+			<string>ST</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Liaison</string>
+			<string>T</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Compact</string>
+			<string> De même</string>
+			<string>DENSE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Compact</string>
+			<string> Elle traverse Paris</string>
+			<string>DENSE</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string> Compact</string>
+			<string> Monnaie du Japon</string>
+			<string>DENSE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Compact</string>
+			<string> Blonds breuvages</string>
+			<string>DENSE</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string> Compact</string>
+			<string></string>
+			<string>DENSE</string>
+			<string>E</string>
+		</array>
+	</array>
+</array>
+</plist>

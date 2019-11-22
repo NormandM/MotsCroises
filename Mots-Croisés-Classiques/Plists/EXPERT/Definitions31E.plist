@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Flâner et regarder</string>
+			<string>LAISSERFAIRE</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Recouvre d'une couche d'acier</string>
+			<string>LAISSERFAIRE</string>
+			<string>ACIERE</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Fait voir rouge</string>
+			<string>LAISSERFAIRE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Siffles</string>
+			<string>LAISSERFAIRE</string>
+			<string>SILES</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Pronom</string>
+			<string>LAISSERFAIRE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string></string>
+			<string>LAISSERFAIRE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Garantissent</string>
+			<string>LAISSERFAIRE</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Poète et auteur britannique</string>
+			<string>LAISSERFAIRE</string>
+			<string>FRY</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Obtiennes</string>
+			<string>LAISSERFAIRE</string>
+			<string>AIES</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> À la mode</string>
+			<string>LAISSERFAIRE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Crier comme un cerf</string>
+			<string>LAISSERFAIRE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Ne pas intervenir</string>
+			<string> Estoniens</string>
+			<string>LAISSERFAIRE</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Clame</string>
+			<string> Flâner et regarder</string>
+			<string>ECRIE</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Clame</string>
+			<string> Recouvre d'une couche d'acier</string>
+			<string>ECRIE</string>
+			<string>ACIERE</string>
+		</array>
+		<array>
+			<string> Clame</string>
+			<string> Fait voir rouge</string>
+			<string>ECRIE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Clame</string>
+			<string> Siffles</string>
+			<string>ECRIE</string>
+			<string>SILES</string>
+		</array>
+		<array>
+			<string> Clame</string>
+			<string> Pronom</string>
+			<string>ECRIE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Garantissent</string>
+			<string>ERINES</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Poète et auteur britannique</string>
+			<string>ERINES</string>
+			<string>FRY</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Obtiennes</string>
+			<string>ERINES</string>
+			<string>AIES</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> À la mode</string>
+			<string>ERINES</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Crier comme un cerf</string>
+			<string>ERINES</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Instruments de chirurgie</string>
+			<string> Estoniens</string>
+			<string>ERINES</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Au-dessus de nos têtes</string>
+			<string> Flâner et regarder</string>
+			<string>CIEL</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Au-dessus de nos têtes</string>
+			<string> Recouvre d'une couche d'acier</string>
+			<string>CIEL</string>
+			<string>ACIERE</string>
+		</array>
+		<array>
+			<string> Au-dessus de nos têtes</string>
+			<string> Fait voir rouge</string>
+			<string>CIEL</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Au-dessus de nos têtes</string>
+			<string> Siffles</string>
+			<string>CIEL</string>
+			<string>SILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strié</string>
+			<string> Désert rocheux</string>
+			<string>RAYE</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string> Strié</string>
+			<string> Garantissent</string>
+			<string>RAYE</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Strié</string>
+			<string> Poète et auteur britannique</string>
+			<string>RAYE</string>
+			<string>FRY</string>
+		</array>
+		<array>
+			<string> Strié</string>
+			<string> Obtiennes</string>
+			<string>RAYE</string>
+			<string>AIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Puis</string>
+			<string> Crier comme un cerf</string>
+			<string>ET</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Puis</string>
+			<string> Estoniens</string>
+			<string>ET</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sert à appeler</string>
+			<string> Flâner et regarder</string>
+			<string>HE</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Sert à appeler</string>
+			<string> Recouvre d'une couche d'acier</string>
+			<string>HE</string>
+			<string>ACIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Siffles</string>
+			<string>ERES</string>
+			<string>SILES</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string></string>
+			<string>ERES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Désert rocheux</string>
+			<string>ERES</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Garantissent</string>
+			<string>ERES</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Obtiennes</string>
+			<string>SERE</string>
+			<string>AIES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Massif de Provence</string>
+			<string>SERE</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Crier comme un cerf</string>
+			<string>SERE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Estoniens</string>
+			<string>SERE</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Flâner et regarder</string>
+			<string>EROS</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Recouvre d'une couche d'acier</string>
+			<string>EROS</string>
+			<string>ACIERE</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Foncera</string>
+			<string>EROS</string>
+			<string>OSERA</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Siffles</string>
+			<string>EROS</string>
+			<string>SILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Norme de téléphonie mobile</string>
+			<string> Désert rocheux</string>
+			<string>GSM</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string> Norme de téléphonie mobile</string>
+			<string> Garantissent</string>
+			<string>GSM</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Norme de téléphonie mobile</string>
+			<string> Manganèse</string>
+			<string>GSM</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Massif de Provence</string>
+			<string>S</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Estoniens</string>
+			<string>S</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Cales</string>
+			<string> Flâner et regarder</string>
+			<string>VES</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Cales</string>
+			<string> Recouvre d'une couche d'acier</string>
+			<string>VES</string>
+			<string>ACIERE</string>
+		</array>
+		<array>
+			<string> Cales</string>
+			<string> Foncera</string>
+			<string>VES</string>
+			<string>OSERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>E</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Commando</string>
+			<string> Garantissent</string>
+			<string>UNITE</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Commando</string>
+			<string> Manganèse</string>
+			<string>UNITE</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string> Commando</string>
+			<string> Ilot français</string>
+			<string>UNITE</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string> Commando</string>
+			<string> Massif de Provence</string>
+			<string>UNITE</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string> Commando</string>
+			<string> Période</string>
+			<string>UNITE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Flâner et regarder</string>
+			<string>I</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Foncera</string>
+			<string>ESTER</string>
+			<string>OSERA</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Argiles rouges</string>
+			<string>ESTER</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>ESTER</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Infinitif</string>
+			<string>ESTER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Garantissent</string>
+			<string>ESTER</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Commune de l'Aisne</string>
+			<string> Ilot français</string>
+			<string>FERE</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string> Commune de l'Aisne</string>
+			<string> Massif de Provence</string>
+			<string>FERE</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string> Commune de l'Aisne</string>
+			<string> Période</string>
+			<string>FERE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Commune de l'Aisne</string>
+			<string></string>
+			<string>FERE</string>
+			<string>E</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Flâner et regarder</string>
+			<string>TARIERES</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Rends moins dense</string>
+			<string>TARIERES</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Foncera</string>
+			<string>TARIERES</string>
+			<string>OSERA</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Argiles rouges</string>
+			<string>TARIERES</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>TARIERES</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Infinitif</string>
+			<string>TARIERES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Garantissent</string>
+			<string>TARIERES</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Grandes vrilles</string>
+			<string> Pas les tiens</string>
+			<string>TARIERES</string>
+			<string>SIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Massif de Provence</string>
+			<string>RE</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Période</string>
+			<string>RE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Circulent au Brésil</string>
+			<string> Flâner et regarder</string>
+			<string>REALS</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Circulent au Brésil</string>
+			<string> Rends moins dense</string>
+			<string>REALS</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Circulent au Brésil</string>
+			<string> Foncera</string>
+			<string>REALS</string>
+			<string>OSERA</string>
+		</array>
+		<array>
+			<string> Circulent au Brésil</string>
+			<string> Argiles rouges</string>
+			<string>REALS</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string> Circulent au Brésil</string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>REALS</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Garantissent</string>
+			<string>NIEE</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Pas les tiens</string>
+			<string>NIEE</string>
+			<string>SIENS</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string></string>
+			<string>NIEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Massif de Provence</string>
+			<string>NIEE</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ventile</string>
+			<string>A</string>
+			<string>AERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Flâner et regarder</string>
+			<string>IR</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Rends moins dense</string>
+			<string>IR</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sixième degré</string>
+			<string> Argiles rouges</string>
+			<string>SIXTE</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string> Sixième degré</string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>SIXTE</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string> Sixième degré</string>
+			<string> Romain</string>
+			<string>SIXTE</string>
+			<string>XV</string>
+		</array>
+		<array>
+			<string> Sixième degré</string>
+			<string> Garantissent</string>
+			<string>SIXTE</string>
+			<string>REASSURENT</string>
+		</array>
+		<array>
+			<string> Sixième degré</string>
+			<string> Pas les tiens</string>
+			<string>SIXTE</string>
+			<string>SIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Il a perdu la guerre</string>
+			<string> Massif de Provence</string>
+			<string>LEE</string>
+			<string>ESTEREL</string>
+		</array>
+		<array>
+			<string>  Il a perdu la guerre</string>
+			<string> Orient</string>
+			<string>LEE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>  Il a perdu la guerre</string>
+			<string> Ventile</string>
+			<string>LEE</string>
+			<string>AERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sortie</string>
+			<string> Flâner et regarder</string>
+			<string>NEE</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Rends moins dense</string>
+			<string>NEE</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Du verbe être</string>
+			<string>NEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure d'énergie</string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>EV</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string> Mesure d'énergie</string>
+			<string> Romain</string>
+			<string>EV</string>
+			<string>XV</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Pas les tiens</string>
+			<string>NE</string>
+			<string>SIENS</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Au sein du sein</string>
+			<string>NE</string>
+			<string>EI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Orient</string>
+			<string>SR</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Ventile</string>
+			<string>SR</string>
+			<string>AERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Commune de Belgique</string>
+			<string> Flâner et regarder</string>
+			<string>ESSEN</string>
+			<string>LECHEVITRINE</string>
+		</array>
+		<array>
+			<string> Commune de Belgique</string>
+			<string> Rends moins dense</string>
+			<string>ESSEN</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Commune de Belgique</string>
+			<string> Du verbe être</string>
+			<string>ESSEN</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Commune de Belgique</string>
+			<string></string>
+			<string>ESSEN</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Commune de Belgique</string>
+			<string> Vent du nord en Méditerranée</string>
+			<string>ESSEN</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Originaire de l'orient</string>
+			<string></string>
+			<string>ASIATE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Originaire de l'orient</string>
+			<string> Pas les tiens</string>
+			<string>ASIATE</string>
+			<string>SIENS</string>
+		</array>
+		<array>
+			<string> Originaire de l'orient</string>
+			<string> Au sein du sein</string>
+			<string>ASIATE</string>
+			<string>EI</string>
+		</array>
+		<array>
+			<string> Originaire de l'orient</string>
+			<string></string>
+			<string>ASIATE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Originaire de l'orient</string>
+			<string> Orient</string>
+			<string>ASIATE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Originaire de l'orient</string>
+			<string> Ventile</string>
+			<string>ASIATE</string>
+			<string>AERE</string>
+		</array>
+	</array>
+</array>
+</plist>

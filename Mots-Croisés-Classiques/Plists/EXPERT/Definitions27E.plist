@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Exaltants</string>
+			<string> Les limaces par exemple</string>
+			<string>GALVANISANTS</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Estimèrent</string>
+			<string>GALVANISANTS</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Symbole chimique</string>
+			<string>GALVANISANTS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Écolos</string>
+			<string>GALVANISANTS</string>
+			<string>VERTS</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Mesures agraires</string>
+			<string>GALVANISANTS</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string></string>
+			<string>GALVANISANTS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Colères</string>
+			<string>GALVANISANTS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Petits chemins</string>
+			<string>GALVANISANTS</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Poignées</string>
+			<string>GALVANISANTS</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Refuter</string>
+			<string>GALVANISANTS</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Pronom</string>
+			<string>GALVANISANTS</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Exaltants</string>
+			<string> Avec logique</string>
+			<string>GALVANISANTS</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Faire son nid</string>
+			<string> Les limaces par exemple</string>
+			<string>AIRER</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Faire son nid</string>
+			<string> Estimèrent</string>
+			<string>AIRER</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string> Faire son nid</string>
+			<string> Symbole chimique</string>
+			<string>AIRER</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Faire son nid</string>
+			<string> Écolos</string>
+			<string>AIRER</string>
+			<string>VERTS</string>
+		</array>
+		<array>
+			<string> Faire son nid</string>
+			<string> Mesures agraires</string>
+			<string>AIRER</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Colères</string>
+			<string>RENIEE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Petits chemins</string>
+			<string>RENIEE</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Poignées</string>
+			<string>RENIEE</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Refuter</string>
+			<string>RENIEE</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Pronom</string>
+			<string>RENIEE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Avec logique</string>
+			<string>RENIEE</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Samarium</string>
+			<string> Les limaces par exemple</string>
+			<string>SM</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Samarium</string>
+			<string> Estimèrent</string>
+			<string>SM</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string> Écolos</string>
+			<string>RECENSE</string>
+			<string>VERTS</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string> Mesures agraires</string>
+			<string>RECENSE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string></string>
+			<string>RECENSE</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string> Colères</string>
+			<string>RECENSE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string> Petits chemins</string>
+			<string>RECENSE</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string> Poignées</string>
+			<string>RECENSE</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string> Compte</string>
+			<string> Refuter</string>
+			<string>RECENSE</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Avec logique</string>
+			<string>N</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Essais</string>
+			<string> Les limaces par exemple</string>
+			<string>TESTS</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Essais</string>
+			<string> Estimèrent</string>
+			<string>TESTS</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string> Essais</string>
+			<string> Offre</string>
+			<string>TESTS</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Essais</string>
+			<string> Écolos</string>
+			<string>TESTS</string>
+			<string>VERTS</string>
+		</array>
+		<array>
+			<string> Essais</string>
+			<string> Mesures agraires</string>
+			<string>TESTS</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Colères</string>
+			<string>STERES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Petits chemins</string>
+			<string>STERES</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Poignées</string>
+			<string>STERES</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Refuter</string>
+			<string>STERES</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Direction</string>
+			<string>STERES</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Avec logique</string>
+			<string>STERES</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Les limaces par exemple</string>
+			<string>ERES</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Estimèrent</string>
+			<string>ERES</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Offre</string>
+			<string>ERES</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Écolos</string>
+			<string>ERES</string>
+			<string>VERTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lettre grec</string>
+			<string>E</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Petits chemins</string>
+			<string>ES</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Poignées</string>
+			<string>ES</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Direction</string>
+			<string>SE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Avec logique</string>
+			<string>SE</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Transporte les parisiens</string>
+			<string> Les limaces par exemple</string>
+			<string>RER</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Transporte les parisiens</string>
+			<string> Estimèrent</string>
+			<string>RER</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string> Transporte les parisiens</string>
+			<string> Offre</string>
+			<string>RER</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Froids, ils sont pourris</string>
+			<string></string>
+			<string>ETES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>  Froids, ils sont pourris</string>
+			<string> Lettre grec</string>
+			<string>ETES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>  Froids, ils sont pourris</string>
+			<string> Aspirations</string>
+			<string>ETES</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string>  Froids, ils sont pourris</string>
+			<string> Petits chemins</string>
+			<string>ETES</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dose de radiation</string>
+			<string> On ne peut y nager</string>
+			<string>REM</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Dose de radiation</string>
+			<string> Direction</string>
+			<string>REM</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Dose de radiation</string>
+			<string> Avec logique</string>
+			<string>REM</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du grec qui signifie l&apos;être</string>
+			<string> Les limaces par exemple</string>
+			<string>ONTO</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Du grec qui signifie l&apos;être</string>
+			<string> Estimèrent</string>
+			<string>ONTO</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string> Du grec qui signifie l&apos;être</string>
+			<string> Offre</string>
+			<string>ONTO</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Du grec qui signifie l&apos;être</string>
+			<string> Rivière d&apos;Italie</string>
+			<string>ONTO</string>
+			<string>OGLIO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Lettre grec</string>
+			<string>AS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Aspirations</string>
+			<string>AS</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Connu</string>
+			<string> Agité</string>
+			<string>SU</string>
+			<string>SPEEDE</string>
+		</array>
+		<array>
+			<string> Connu</string>
+			<string> On ne peut y nager</string>
+			<string>SU</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Avec logique</string>
+			<string>E</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Platine</string>
+			<string> Les limaces par exemple</string>
+			<string>PT</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Platine</string>
+			<string> Estimèrent</string>
+			<string>PT</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;un angle</string>
+			<string> Rivière d&apos;Italie</string>
+			<string>GR</string>
+			<string>OGLIO</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;un angle</string>
+			<string> Il aime le reggae</string>
+			<string>GR</string>
+			<string>RASTA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Entrain</string>
+			<string> Aspirations</string>
+			<string>PEP</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string> Entrain</string>
+			<string> Vagabondes</string>
+			<string>PEP</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Entrain</string>
+			<string> Agité</string>
+			<string>PEP</string>
+			<string>SPEEDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string></string>
+			<string>AN</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Avec logique</string>
+			<string>AN</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Les limaces par exemple</string>
+			<string>O</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string>ELABOREE</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Rivière d&apos;Italie</string>
+			<string>ELABOREE</string>
+			<string>OGLIO</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Il aime le reggae</string>
+			<string>ELABOREE</string>
+			<string>RASTA</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Bulletin Officiel</string>
+			<string>ELABOREE</string>
+			<string>BO</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Aspirations</string>
+			<string>ELABOREE</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Vagabondes</string>
+			<string>ELABOREE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string> Agité</string>
+			<string>ELABOREE</string>
+			<string>SPEEDE</string>
+		</array>
+		<array>
+			<string> Concoctée</string>
+			<string></string>
+			<string>ELABOREE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Avec logique</string>
+			<string>T</string>
+			<string>SENSEMENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Les limaces par exemple</string>
+			<string>DERISOIRE</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Période</string>
+			<string>DERISOIRE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string>DERISOIRE</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Rivière d&apos;Italie</string>
+			<string>DERISOIRE</string>
+			<string>OGLIO</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Il aime le reggae</string>
+			<string>DERISOIRE</string>
+			<string>RASTA</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Bulletin Officiel</string>
+			<string>DERISOIRE</string>
+			<string>BO</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Aspirations</string>
+			<string>DERISOIRE</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Vagabondes</string>
+			<string>DERISOIRE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Insignifiant</string>
+			<string> Agité</string>
+			<string>DERISOIRE</string>
+			<string>SPEEDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Siège à New York</string>
+			<string>O</string>
+			<string>ONU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pointe</string>
+			<string> Les limaces par exemple</string>
+			<string>ERGOT</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Pointe</string>
+			<string> Période</string>
+			<string>ERGOT</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Pointe</string>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string>ERGOT</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string> Pointe</string>
+			<string> Rivière d&apos;Italie</string>
+			<string>ERGOT</string>
+			<string>OGLIO</string>
+		</array>
+		<array>
+			<string> Pointe</string>
+			<string> Il aime le reggae</string>
+			<string>ERGOT</string>
+			<string>RASTA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Saillies</string>
+			<string> Aspirations</string>
+			<string>REDANS</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string> Saillies</string>
+			<string> Vagabondes</string>
+			<string>REDANS</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Saillies</string>
+			<string> Agité</string>
+			<string>REDANS</string>
+			<string>SPEEDE</string>
+		</array>
+		<array>
+			<string> Saillies</string>
+			<string> Ne boit plus</string>
+			<string>REDANS</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string> Saillies</string>
+			<string> Siège à New York</string>
+			<string>REDANS</string>
+			<string>ONU</string>
+		</array>
+		<array>
+			<string> Saillies</string>
+			<string></string>
+			<string>REDANS</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> Les limaces par exemple</string>
+			<string>SES</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Période</string>
+			<string>SES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string>SES</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string> Il aime le reggae</string>
+			<string>AISSEAU</string>
+			<string>RASTA</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string></string>
+			<string>AISSEAU</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string> Aspirations</string>
+			<string>AISSEAU</string>
+			<string>ESPOIRS</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string> Vagabondes</string>
+			<string>AISSEAU</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string> Agité</string>
+			<string>AISSEAU</string>
+			<string>SPEEDE</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string> Ne boit plus</string>
+			<string>AISSEAU</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string> Bardeau</string>
+			<string> Siège à New York</string>
+			<string>AISSEAU</string>
+			<string>ONU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

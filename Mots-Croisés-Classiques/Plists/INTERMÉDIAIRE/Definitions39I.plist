@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>PORTECLEFS</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Instrument voisin du luth</string>
+			<string>PORTECLEFS</string>
+			<string>OUD</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Rubidium</string>
+			<string>PORTECLEFS</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Maillots à manches courtes</string>
+			<string>PORTECLEFS</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Ils sont de l&apos;Estonie</string>
+			<string>PORTECLEFS</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string></string>
+			<string>PORTECLEFS</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Lawrencium</string>
+			<string>PORTECLEFS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Effronté</string>
+			<string>PORTECLEFS</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Défunts</string>
+			<string>PORTECLEFS</string>
+			<string>FEUS</string>
+		</array>
+		<array>
+			<string>On ne veut jamais l&apos;oublié en sortant</string>
+			<string>Singe</string>
+			<string>PORTECLEFS</string>
+			<string>SAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Commencements</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>AUBES</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Commencements</string>
+			<string>Instrument voisin du luth</string>
+			<string>AUBES</string>
+			<string>OUD</string>
+		</array>
+		<array>
+			<string>Commencements</string>
+			<string>Rubidium</string>
+			<string>AUBES</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Commencements</string>
+			<string>Maillots à manches courtes</string>
+			<string>AUBES</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>Commencements</string>
+			<string>Ils sont de l&apos;Estonie</string>
+			<string>AUBES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mère de Zeus</string>
+			<string>Lawrencium</string>
+			<string>RHEA</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string>Mère de Zeus</string>
+			<string>Effronté</string>
+			<string>RHEA</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Mère de Zeus</string>
+			<string>Défunts</string>
+			<string>RHEA</string>
+			<string>FEUS</string>
+		</array>
+		<array>
+			<string>Mère de Zeus</string>
+			<string>Singe</string>
+			<string>RHEA</string>
+			<string>SAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Notre-Dame</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>ND</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Notre-Dame</string>
+			<string>Instrument voisin du luth</string>
+			<string>ND</string>
+			<string>OUD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Maillots à manches courtes</string>
+			<string>ETA</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Ils sont de l&apos;Estonie</string>
+			<string>ETA</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Argon</string>
+			<string>ETA</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>C&apos;est la réponse que l&apos;on veut entendre</string>
+			<string>Effronté</string>
+			<string>OUI</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>C&apos;est la réponse que l&apos;on veut entendre</string>
+			<string>Défunts</string>
+			<string>OUI</string>
+			<string>FEUS</string>
+		</array>
+		<array>
+			<string>C&apos;est la réponse que l&apos;on veut entendre</string>
+			<string>Singe</string>
+			<string>OUI</string>
+			<string>SAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>A</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>Ancien Do</string>
+			<string>USERONS</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>Maillots à manches courtes</string>
+			<string>USERONS</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>Ils sont de l&apos;Estonie</string>
+			<string>USERONS</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>Argon</string>
+			<string>USERONS</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>USERONS</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>Effronté</string>
+			<string>USERONS</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Utiliserons</string>
+			<string>Défunts</string>
+			<string>USERONS</string>
+			<string>FEUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Matière au programme de toutes les écoles</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>MATHS</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Matière au programme de toutes les écoles</string>
+			<string>Archaïque</string>
+			<string>MATHS</string>
+			<string>ANCIEN</string>
+		</array>
+		<array>
+			<string>Matière au programme de toutes les écoles</string>
+			<string>Ancien Do</string>
+			<string>MATHS</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Matière au programme de toutes les écoles</string>
+			<string>Maillots à manches courtes</string>
+			<string>MATHS</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>Matière au programme de toutes les écoles</string>
+			<string>Ils sont de l&apos;Estonie</string>
+			<string>MATHS</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Montana</string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>MT</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string>Montana</string>
+			<string>Effronté</string>
+			<string>MT</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Adore</string>
+			<string>V</string>
+			<string>VENERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>EN</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Dans</string>
+			<string>Archaïque</string>
+			<string>EN</string>
+			<string>ANCIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Maillots à manches courtes</string>
+			<string>I</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il habitait autrefois l&apos;Espagne</string>
+			<string></string>
+			<string>IBERE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Il habitait autrefois l&apos;Espagne</string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>IBERE</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string>Il habitait autrefois l&apos;Espagne</string>
+			<string>Effronté</string>
+			<string>IBERE</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Il habitait autrefois l&apos;Espagne</string>
+			<string>Éclats</string>
+			<string>IBERE</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Il habitait autrefois l&apos;Espagne</string>
+			<string>Adore</string>
+			<string>IBERE</string>
+			<string>VENERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Nettoie</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>ECURE</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Nettoie</string>
+			<string>Archaïque</string>
+			<string>ECURE</string>
+			<string>ANCIEN</string>
+		</array>
+		<array>
+			<string>Nettoie</string>
+			<string></string>
+			<string>ECURE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Nettoie</string>
+			<string>Maillots à manches courtes</string>
+			<string>ECURE</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>Nettoie</string>
+			<string>Exclamation</string>
+			<string>ECURE</string>
+			<string>EH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>R</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À la mode</string>
+			<string>Éclats</string>
+			<string>IN</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>À la mode</string>
+			<string>Adore</string>
+			<string>IN</string>
+			<string>VENERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction servant à nier</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>NI</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Conjonction servant à nier</string>
+			<string>Archaïque</string>
+			<string>NI</string>
+			<string>ANCIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string>Maillots à manches courtes</string>
+			<string>THEATRE</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string>Exclamation</string>
+			<string>THEATRE</string>
+			<string>EH</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string>Plante herbacée</string>
+			<string>THEATRE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>THEATRE</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string></string>
+			<string>THEATRE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string>Éclats</string>
+			<string>THEATRE</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Scène</string>
+			<string>Adore</string>
+			<string>THEATRE</string>
+			<string>VENERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Arrivées</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>NEES</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>Arrivées</string>
+			<string>Archaïque</string>
+			<string>NEES</string>
+			<string>ANCIEN</string>
+		</array>
+		<array>
+			<string>Arrivées</string>
+			<string>Existes</string>
+			<string>NEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Arrivées</string>
+			<string>Maillots à manches courtes</string>
+			<string>NEES</string>
+			<string>TEESHIRTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Renseignements généraux</string>
+			<string>Plante herbacée</string>
+			<string>RG</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Renseignements généraux</string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>RG</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Éclats</string>
+			<string>ER</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Adore</string>
+			<string>ER</string>
+			<string>VENERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>École normale supérieure</string>
+			<string>Elle habite l&apos;Amérique centrale</string>
+			<string>ENS</string>
+			<string>PANAMEENNE</string>
+		</array>
+		<array>
+			<string>École normale supérieure</string>
+			<string>Archaïque</string>
+			<string>ENS</string>
+			<string>ANCIEN</string>
+		</array>
+		<array>
+			<string>École normale supérieure</string>
+			<string>Existes</string>
+			<string>ENS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string></string>
+			<string>TSETSE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Plante herbacée</string>
+			<string>TSETSE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>C&apos;est de l&apos;ombre</string>
+			<string>TSETSE</string>
+			<string>OMBRAGE</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string></string>
+			<string>TSETSE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Éclats</string>
+			<string>TSETSE</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Une mouche qui fait dormir</string>
+			<string>Adore</string>
+			<string>TSETSE</string>
+			<string>VENERE</string>
+		</array>
+	</array>
+</array>
+</plist>

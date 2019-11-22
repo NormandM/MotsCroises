@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Usinées</string>
+			<string>FRAGRANCES</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Rubidium</string>
+			<string>FRAGRANCES</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Parle sans comprendre</string>
+			<string>FRAGRANCES</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Gardien de but</string>
+			<string>FRAGRANCES</string>
+			<string>GOAL</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Un filet d&apos;eau</string>
+			<string>FRAGRANCES</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Astate</string>
+			<string>FRAGRANCES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Démenties</string>
+			<string>FRAGRANCES</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string></string>
+			<string>FRAGRANCES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Existes</string>
+			<string>FRAGRANCES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Odeurs subtils</string>
+			<string>Manquent d&apos;eau</string>
+			<string>FRAGRANCES</string>
+			<string>SECS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Brouté</string>
+			<string>Usinées</string>
+			<string>ABROUTI</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Brouté</string>
+			<string>Rubidium</string>
+			<string>ABROUTI</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Brouté</string>
+			<string>Parle sans comprendre</string>
+			<string>ABROUTI</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Brouté</string>
+			<string>Gardien de but</string>
+			<string>ABROUTI</string>
+			<string>GOAL</string>
+		</array>
+		<array>
+			<string>Brouté</string>
+			<string>Un filet d&apos;eau</string>
+			<string>ABROUTI</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Brouté</string>
+			<string>Astate</string>
+			<string>ABROUTI</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Brouté</string>
+			<string>Démenties</string>
+			<string>ABROUTI</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string>Existes</string>
+			<string>SE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string>Manquent d&apos;eau</string>
+			<string>SE</string>
+			<string>SECS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Usinées</string>
+			<string>B</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Parle sans comprendre</string>
+			<string>AA</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Gardien de but</string>
+			<string>AA</string>
+			<string>GOAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Einsteinium</string>
+			<string>Démenties</string>
+			<string>ES</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string>Einsteinium</string>
+			<string>Connu</string>
+			<string>ES</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Manquent d&apos;eau</string>
+			<string>C</string>
+			<string>SECS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Radiofréquence</string>
+			<string>Usinées</string>
+			<string>RF</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Radiofréquence</string>
+			<string>Lésé</string>
+			<string>RF</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Gardien de but</string>
+			<string>LABEURS</string>
+			<string>GOAL</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Convenues</string>
+			<string>LABEURS</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Grand serpent</string>
+			<string>LABEURS</string>
+			<string>BOA</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Démenties</string>
+			<string>LABEURS</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Connu</string>
+			<string>LABEURS</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Ricanements</string>
+			<string>LABEURS</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Durs travaux</string>
+			<string>Manquent d&apos;eau</string>
+			<string>LABEURS</string>
+			<string>SECS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Infinitif</string>
+			<string>Usinées</string>
+			<string>IR</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Lésé</string>
+			<string>IR</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jeux de stratégies (Pl)</string>
+			<string>Convenues</string>
+			<string>GOS</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string>Jeux de stratégies (Pl)</string>
+			<string>Grand serpent</string>
+			<string>GOS</string>
+			<string>BOA</string>
+		</array>
+		<array>
+			<string>Jeux de stratégies (Pl)</string>
+			<string>Démenties</string>
+			<string>GOS</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ricanements</string>
+			<string>I</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Quadragénaire</string>
+			<string>Usinées</string>
+			<string>QUADRA</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Quadragénaire</string>
+			<string>Lésé</string>
+			<string>QUADRA</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string>Quadragénaire</string>
+			<string>Rejettent l&apos;autorité</string>
+			<string>QUADRA</string>
+			<string>ANARS</string>
+		</array>
+		<array>
+			<string>Quadragénaire</string>
+			<string>Chef Algérien</string>
+			<string>QUADRA</string>
+			<string>DEY</string>
+		</array>
+		<array>
+			<string>Quadragénaire</string>
+			<string>Convenues</string>
+			<string>QUADRA</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string>Quadragénaire</string>
+			<string>Grand serpent</string>
+			<string>QUADRA</string>
+			<string>BOA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bison d&apos;europe</string>
+			<string>Coutumes</string>
+			<string>URE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Bison d&apos;europe</string>
+			<string>Ricanements</string>
+			<string>URE</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Bison d&apos;europe</string>
+			<string>Indique la façon</string>
+			<string>URE</string>
+			<string>EN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lichen</string>
+			<string>Usinées</string>
+			<string>USNEE</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Lichen</string>
+			<string>Lésé</string>
+			<string>USNEE</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string>Lichen</string>
+			<string>Rejettent l&apos;autorité</string>
+			<string>USNEE</string>
+			<string>ANARS</string>
+		</array>
+		<array>
+			<string>Lichen</string>
+			<string>Chef Algérien</string>
+			<string>USNEE</string>
+			<string>DEY</string>
+		</array>
+		<array>
+			<string>Lichen</string>
+			<string>Convenues</string>
+			<string>USNEE</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Monnaie du Japon</string>
+			<string>Coutumes</string>
+			<string>SEN</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Monnaie du Japon</string>
+			<string>Ricanements</string>
+			<string>SEN</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string>Monnaie du Japon</string>
+			<string>Indique la façon</string>
+			<string>SEN</string>
+			<string>EN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Soutenues</string>
+			<string>Usinées</string>
+			<string>ETAYEES</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Soutenues</string>
+			<string>Lésé</string>
+			<string>ETAYEES</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string>Soutenues</string>
+			<string>Rejettent l&apos;autorité</string>
+			<string>ETAYEES</string>
+			<string>ANARS</string>
+		</array>
+		<array>
+			<string>Soutenues</string>
+			<string>Chef Algérien</string>
+			<string>ETAYEES</string>
+			<string>DEY</string>
+		</array>
+		<array>
+			<string>Soutenues</string>
+			<string>Convenues</string>
+			<string>ETAYEES</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string>Soutenues</string>
+			<string>Préfixe signifiant au-dehors</string>
+			<string>ETAYEES</string>
+			<string>EXO</string>
+		</array>
+		<array>
+			<string>Soutenues</string>
+			<string></string>
+			<string>ETAYEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ricanements</string>
+			<string>S</string>
+			<string>RIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Commune Française</string>
+			<string>Usinées</string>
+			<string>ERR</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Commune Française</string>
+			<string>Lésé</string>
+			<string>ERR</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string>Commune Française</string>
+			<string>Rejettent l&apos;autorité</string>
+			<string>ERR</string>
+			<string>ANARS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ancien</string>
+			<string>Convenues</string>
+			<string>EX</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string>Ancien</string>
+			<string>Préfixe signifiant au-dehors</string>
+			<string>EX</string>
+			<string>EXO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Francium</string>
+			<string>F</string>
+			<string>FR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Caesium</string>
+			<string>C</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Adjectif possessif</string>
+			<string>Usinées</string>
+			<string>SES</string>
+			<string>FABRIQUEES</string>
+		</array>
+		<array>
+			<string>Adjectif possessif</string>
+			<string>Lésé</string>
+			<string>SES</string>
+			<string>FRUSTRE</string>
+		</array>
+		<array>
+			<string>Adjectif possessif</string>
+			<string>Rejettent l&apos;autorité</string>
+			<string>SES</string>
+			<string>ANARS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pondérés</string>
+			<string>Convenues</string>
+			<string>SOBRES</string>
+			<string>AGREEES</string>
+		</array>
+		<array>
+			<string>Pondérés</string>
+			<string>Préfixe signifiant au-dehors</string>
+			<string>SOBRES</string>
+			<string>EXO</string>
+		</array>
+		<array>
+			<string>Pondérés</string>
+			<string></string>
+			<string>SOBRES</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string>Pondérés</string>
+			<string>Francium</string>
+			<string>SOBRES</string>
+			<string>FR</string>
+		</array>
+		<array>
+			<string>Pondérés</string>
+			<string></string>
+			<string>SOBRES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Pondérés</string>
+			<string>Caesium</string>
+			<string>SOBRES</string>
+			<string>CS</string>
+		</array>
+	</array>
+</array>
+</plist>

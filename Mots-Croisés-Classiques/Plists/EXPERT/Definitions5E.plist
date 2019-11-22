@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Allures</string>
+			<string>SALLEDEBAIN</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string>SALLEDEBAIN</string>
+			<string>ARIEN</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Place</string>
+			<string>SALLEDEBAIN</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Trompée</string>
+			<string>SALLEDEBAIN</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Au centre de la pensée</string>
+			<string>SALLEDEBAIN</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string></string>
+			<string>SALLEDEBAIN</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Mesure d&apos;énergie</string>
+			<string>SALLEDEBAIN</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Elle est très contente</string>
+			<string>SALLEDEBAIN</string>
+			<string>BEATE</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Nid</string>
+			<string>SALLEDEBAIN</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Fait partie de la finale</string>
+			<string>SALLEDEBAIN</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Essentielle à toute habitation</string>
+			<string> Prénom</string>
+			<string>SALLEDEBAIN</string>
+			<string>NESTOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Relatif à l&apos;oeil</string>
+			<string> Allures</string>
+			<string>IRIEN</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Relatif à l&apos;oeil</string>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string>IRIEN</string>
+			<string>ARIEN</string>
+		</array>
+		<array>
+			<string> Relatif à l&apos;oeil</string>
+			<string> Place</string>
+			<string>IRIEN</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string> Relatif à l&apos;oeil</string>
+			<string> Trompée</string>
+			<string>IRIEN</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string> Relatif à l&apos;oeil</string>
+			<string> Au centre de la pensée</string>
+			<string>IRIEN</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Minces filons</string>
+			<string> Mesure d&apos;énergie</string>
+			<string>VEINES</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> Minces filons</string>
+			<string> Elle est très contente</string>
+			<string>VEINES</string>
+			<string>BEATE</string>
+		</array>
+		<array>
+			<string> Minces filons</string>
+			<string> Nid</string>
+			<string>VEINES</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string> Minces filons</string>
+			<string> Fait partie de la finale</string>
+			<string>VEINES</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Minces filons</string>
+			<string> Prénom</string>
+			<string>VEINES</string>
+			<string>NESTOR</string>
+		</array>
+		<array>
+			<string> Minces filons</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>VEINES</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Machine agricole</string>
+			<string> Allures</string>
+			<string>LIEUSE</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Machine agricole</string>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string>LIEUSE</string>
+			<string>ARIEN</string>
+		</array>
+		<array>
+			<string> Machine agricole</string>
+			<string> Place</string>
+			<string>LIEUSE</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string> Machine agricole</string>
+			<string> Trompée</string>
+			<string>LIEUSE</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string> Machine agricole</string>
+			<string> Au centre de la pensée</string>
+			<string>LIEUSE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Machine agricole</string>
+			<string>Estoniens</string>
+			<string>LIEUSE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mis à niveau</string>
+			<string> Elle est très contente</string>
+			<string>ARASE</string>
+			<string>BEATE</string>
+		</array>
+		<array>
+			<string> Mis à niveau</string>
+			<string> Nid</string>
+			<string>ARASE</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string> Mis à niveau</string>
+			<string> Fait partie de la finale</string>
+			<string>ARASE</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Mis à niveau</string>
+			<string> Prénom</string>
+			<string>ARASE</string>
+			<string>NESTOR</string>
+		</array>
+		<array>
+			<string> Mis à niveau</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>ARASE</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Bonne fortune</string>
+			<string> Allures</string>
+			<string>HEUR</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Bonne fortune</string>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string>HEUR</string>
+			<string>ARIEN</string>
+		</array>
+		<array>
+			<string> Bonne fortune</string>
+			<string> Place</string>
+			<string>HEUR</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string> Bonne fortune</string>
+			<string> Trompée</string>
+			<string>HEUR</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string>Estoniens</string>
+			<string>SETE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Froid il est pourri</string>
+			<string>SETE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Elle est très contente</string>
+			<string>SETE</string>
+			<string>BEATE</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Nid</string>
+			<string>SETE</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Thallium</string>
+			<string> Prénom</string>
+			<string>TL</string>
+			<string>NESTOR</string>
+		</array>
+		<array>
+			<string> Thallium</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>TL</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Allures</string>
+			<string>ON</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string>ON</string>
+			<string>ARIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Trompée</string>
+			<string>RATTE</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Appréhendent</string>
+			<string>RATTE</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string>Estoniens</string>
+			<string>RATTE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Froid il est pourri</string>
+			<string>RATTE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Pomme de terre</string>
+			<string> Elle est très contente</string>
+			<string>RATTE</string>
+			<string>BEATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Appel à l&apos;aide</string>
+			<string> Possessif.</string>
+			<string>SOS</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Appel à l&apos;aide</string>
+			<string> Prénom</string>
+			<string>SOS</string>
+			<string>NESTOR</string>
+		</array>
+		<array>
+			<string> Appel à l&apos;aide</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>SOS</string>
+			<string>SELS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Allures</string>
+			<string>U</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Facile</string>
+			<string>AEREE</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Trompée</string>
+			<string>AEREE</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Appréhendent</string>
+			<string>AEREE</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string>Estoniens</string>
+			<string>AEREE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Dont la fenêtre est ouverte</string>
+			<string> Froid il est pourri</string>
+			<string>AEREE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Convoi</string>
+			<string>TER</string>
+			<string>TRAIN</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Possessif.</string>
+			<string>TER</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Prénom</string>
+			<string>TER</string>
+			<string>NESTOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> De la mer au marais</string>
+			<string> Allures</string>
+			<string>ETIERS</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> De la mer au marais</string>
+			<string> Cachée</string>
+			<string>ETIERS</string>
+			<string>TERREE</string>
+		</array>
+		<array>
+			<string> De la mer au marais</string>
+			<string> Facile</string>
+			<string>ETIERS</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string> De la mer au marais</string>
+			<string> Trompée</string>
+			<string>ETIERS</string>
+			<string>LEURREE</string>
+		</array>
+		<array>
+			<string> De la mer au marais</string>
+			<string> Appréhendent</string>
+			<string>ETIERS</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string> De la mer au marais</string>
+			<string>Estoniens</string>
+			<string>ETIERS</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Existait</string>
+			<string>ERS</string>
+			<string>ETAIT</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Convoi</string>
+			<string>ERS</string>
+			<string>TRAIN</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Possessif.</string>
+			<string>ERS</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>  Ont ouvert les yeux</string>
+			<string>N</string>
+			<string>NES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Règles.</string>
+			<string> Allures</string>
+			<string>TES</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Cachée</string>
+			<string>TES</string>
+			<string>TERREE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Facile</string>
+			<string>TES</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Appréhendent</string>
+			<string>E</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Greffée</string>
+			<string>ETA</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Existait</string>
+			<string>ETA</string>
+			<string>ETAIT</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Convoi</string>
+			<string>ETA</string>
+			<string>TRAIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Désavantagés</string>
+			<string>LE</string>
+			<string>LESES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>LE</string>
+			<string>NES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Allures</string>
+			<string>TRENTENAIRES</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Cachée</string>
+			<string>TRENTENAIRES</string>
+			<string>TERREE</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Facile</string>
+			<string>TRENTENAIRES</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Notre-Dame</string>
+			<string>TRENTENAIRES</string>
+			<string>ND</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Appréhendent</string>
+			<string>TRENTENAIRES</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> En matière de</string>
+			<string>TRENTENAIRES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Greffée</string>
+			<string>TRENTENAIRES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Existait</string>
+			<string>TRENTENAIRES</string>
+			<string>ETAIT</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Convoi</string>
+			<string>TRENTENAIRES</string>
+			<string>TRAIN</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Songe</string>
+			<string>TRENTENAIRES</string>
+			<string>REVE</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string> Désavantagés</string>
+			<string>TRENTENAIRES</string>
+			<string>LESES</string>
+		</array>
+		<array>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>TRENTENAIRES</string>
+			<string>NES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Allures</string>
+			<string>ER</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Cachée</string>
+			<string>ER</string>
+			<string>TERREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Notre-Dame</string>
+			<string>DESTINES</string>
+			<string>ND</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Appréhendent</string>
+			<string>DESTINES</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> En matière de</string>
+			<string>DESTINES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Greffée</string>
+			<string>DESTINES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Existait</string>
+			<string>DESTINES</string>
+			<string>ETAIT</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Convoi</string>
+			<string>DESTINES</string>
+			<string>TRAIN</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Songe</string>
+			<string>DESTINES</string>
+			<string>REVE</string>
+		</array>
+		<array>
+			<string> Assignés</string>
+			<string> Désavantagés</string>
+			<string>DESTINES</string>
+			<string>LESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Allures</string>
+			<string>SEN</string>
+			<string>SILHOUETTES</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Cachée</string>
+			<string>SEN</string>
+			<string>TERREE</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Neptunium</string>
+			<string>SEN</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Appréhendent</string>
+			<string>N</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Greffée</string>
+			<string>ET</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Existait</string>
+			<string>ET</string>
+			<string>ETAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cales</string>
+			<string> Songe</string>
+			<string>VES</string>
+			<string>REVE</string>
+		</array>
+		<array>
+			<string> Cales</string>
+			<string> Désavantagés</string>
+			<string>VES</string>
+			<string>LESES</string>
+		</array>
+		<array>
+			<string> Cales</string>
+			<string> Il a vécu une vie exemplaire</string>
+			<string>VES</string>
+			<string>ST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Étonnée</string>
+			<string> Cachée</string>
+			<string>EPATEE</string>
+			<string>TERREE</string>
+		</array>
+		<array>
+			<string> Étonnée</string>
+			<string> Neptunium</string>
+			<string>EPATEE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string> Étonnée</string>
+			<string></string>
+			<string>EPATEE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Étonnée</string>
+			<string> Appréhendent</string>
+			<string>EPATEE</string>
+			<string>ARRETENT</string>
+		</array>
+		<array>
+			<string> Étonnée</string>
+			<string></string>
+			<string>EPATEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Étonnée</string>
+			<string> Greffée</string>
+			<string>EPATEE</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string></string>
+			<string>TEST</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Songe</string>
+			<string>TEST</string>
+			<string>REVE</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Désavantagés</string>
+			<string>TEST</string>
+			<string>LESES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Il a vécu une vie exemplaire</string>
+			<string>TEST</string>
+			<string>ST</string>
+		</array>
+	</array>
+</array>
+</plist>

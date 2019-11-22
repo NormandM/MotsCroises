@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Force qui tire vers le centre</string>
+			<string>COPENHAGUE</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Grand singe roux</string>
+			<string>COPENHAGUE</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Les bateaux s&apos;y arrêtent</string>
+			<string>COPENHAGUE</string>
+			<string>PORT</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Le soleil s&apos;y lève</string>
+			<string>COPENHAGUE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string></string>
+			<string>COPENHAGUE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Un passé récent</string>
+			<string>COPENHAGUE</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>COPENHAGUE</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Jeu chinois</string>
+			<string>COPENHAGUE</string>
+			<string>GO</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string>Site archéologique Maya</string>
+			<string>COPENHAGUE</string>
+			<string>UXMAL</string>
+		</array>
+		<array>
+			<string>Au Danemark</string>
+			<string></string>
+			<string>COPENHAGUE</string>
+			<string>E</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Jeune dieu grec</string>
+			<string>Force qui tire vers le centre</string>
+			<string>EROS</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Jeune dieu grec</string>
+			<string>Grand singe roux</string>
+			<string>EROS</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Jeune dieu grec</string>
+			<string>Les bateaux s&apos;y arrêtent</string>
+			<string>EROS</string>
+			<string>PORT</string>
+		</array>
+		<array>
+			<string>Jeune dieu grec</string>
+			<string>Le soleil s&apos;y lève</string>
+			<string>EROS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un acier qui ne rouille pas</string>
+			<string>Un passé récent</string>
+			<string>INOX</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string>Un acier qui ne rouille pas</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>INOX</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string>Un acier qui ne rouille pas</string>
+			<string>Jeu chinois</string>
+			<string>INOX</string>
+			<string>GO</string>
+		</array>
+		<array>
+			<string>Un acier qui ne rouille pas</string>
+			<string>Site archéologique Maya</string>
+			<string>INOX</string>
+			<string>UXMAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Force qui tire vers le centre</string>
+			<string>NARTHEX</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Grand singe roux</string>
+			<string>NARTHEX</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Les bateaux s&apos;y arrêtent</string>
+			<string>NARTHEX</string>
+			<string>PORT</string>
+		</array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Le soleil s&apos;y lève</string>
+			<string>NARTHEX</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Point difficile</string>
+			<string>NARTHEX</string>
+			<string>HIC</string>
+		</array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Un passé récent</string>
+			<string>NARTHEX</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string>Vestibule d&apos;une église</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>NARTHEX</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Manganèse</string>
+			<string>Site archéologique Maya</string>
+			<string>MN</string>
+			<string>UXMAL</string>
+		</array>
+		<array>
+			<string>Manganèse</string>
+			<string>Incrustées</string>
+			<string>MN</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Inventé par Nobel</string>
+			<string>Force qui tire vers le centre</string>
+			<string>TNT</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Inventé par Nobel</string>
+			<string>Grand singe roux</string>
+			<string>TNT</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Inventé par Nobel</string>
+			<string>Les bateaux s&apos;y arrêtent</string>
+			<string>TNT</string>
+			<string>PORT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colorai</string>
+			<string>Point difficile</string>
+			<string>IRISAI</string>
+			<string>HIC</string>
+		</array>
+		<array>
+			<string>Colorai</string>
+			<string>Un passé récent</string>
+			<string>IRISAI</string>
+			<string>HIER</string>
+		</array>
+		<array>
+			<string>Colorai</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>IRISAI</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string>Colorai</string>
+			<string></string>
+			<string>IRISAI</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Colorai</string>
+			<string>Site archéologique Maya</string>
+			<string>IRISAI</string>
+			<string>UXMAL</string>
+		</array>
+		<array>
+			<string>Colorai</string>
+			<string>Incrustées</string>
+			<string>IRISAI</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Renseignements généraux</string>
+			<string>Force qui tire vers le centre</string>
+			<string>RG</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Renseignements généraux</string>
+			<string>Grand singe roux</string>
+			<string>RG</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traumatisme crânien</string>
+			<string>Pas à moi</string>
+			<string>TC</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string>Traumatisme crânien</string>
+			<string>Point difficile</string>
+			<string>TC</string>
+			<string>HIC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>O</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Article défini</string>
+			<string>Site archéologique Maya</string>
+			<string>LE</string>
+			<string>UXMAL</string>
+		</array>
+		<array>
+			<string>Article défini</string>
+			<string>Incrustées</string>
+			<string>LE</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Force qui tire vers le centre</string>
+			<string>IOTA</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Grand singe roux</string>
+			<string>IOTA</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Diablement</string>
+			<string>IOTA</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string>Lettre grec</string>
+			<string>Pas à moi</string>
+			<string>IOTA</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ère</string>
+			<string>Apporte</string>
+			<string>AGE</string>
+			<string>AMENE</string>
+		</array>
+		<array>
+			<string>Ère</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>AGE</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string>Ère</string>
+			<string></string>
+			<string>AGE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Incrustées</string>
+			<string>L</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>En ajoutant &quot;et à mesure&quot; signifie peu à peu</string>
+			<string>Force qui tire vers le centre</string>
+			<string>FUR</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>En ajoutant &quot;et à mesure&quot; signifie peu à peu</string>
+			<string>Grand singe roux</string>
+			<string>FUR</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>En ajoutant &quot;et à mesure&quot; signifie peu à peu</string>
+			<string>Diablement</string>
+			<string>FUR</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Esprit</string>
+			<string></string>
+			<string>AME</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Esprit</string>
+			<string>Apporte</string>
+			<string>AME</string>
+			<string>AMENE</string>
+		</array>
+		<array>
+			<string>Esprit</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>AME</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Classifie</string>
+			<string>TL</string>
+			<string>TRIE</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Incrustées</string>
+			<string>TL</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Amérindiens</string>
+			<string>Force qui tire vers le centre</string>
+			<string>UTES</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Amérindiens</string>
+			<string>Grand singe roux</string>
+			<string>UTES</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Amérindiens</string>
+			<string>Diablement</string>
+			<string>UTES</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string>Amérindiens</string>
+			<string></string>
+			<string>UTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Utilisé pour écrire</string>
+			<string>Apporte</string>
+			<string>ENCRE</string>
+			<string>AMENE</string>
+		</array>
+		<array>
+			<string>Utilisé pour écrire</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>ENCRE</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string>Utilisé pour écrire</string>
+			<string>Mesure de longueur</string>
+			<string>ENCRE</string>
+			<string>CM</string>
+		</array>
+		<array>
+			<string>Utilisé pour écrire</string>
+			<string>Classifie</string>
+			<string>ENCRE</string>
+			<string>TRIE</string>
+		</array>
+		<array>
+			<string>Utilisé pour écrire</string>
+			<string>Incrustées</string>
+			<string>ENCRE</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Essence</string>
+			<string>Force qui tire vers le centre</string>
+			<string>GAS</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Essence</string>
+			<string>Grand singe roux</string>
+			<string>GAS</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string>Essence</string>
+			<string>Diablement</string>
+			<string>GAS</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Appauvrissement du sang</string>
+			<string>Une moitié de journée</string>
+			<string>ANEMIE</string>
+			<string>AM</string>
+		</array>
+		<array>
+			<string>Appauvrissement du sang</string>
+			<string>Apporte</string>
+			<string>ANEMIE</string>
+			<string>AMENE</string>
+		</array>
+		<array>
+			<string>Appauvrissement du sang</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>ANEMIE</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string>Appauvrissement du sang</string>
+			<string>Mesure de longueur</string>
+			<string>ANEMIE</string>
+			<string>CM</string>
+		</array>
+		<array>
+			<string>Appauvrissement du sang</string>
+			<string>Classifie</string>
+			<string>ANEMIE</string>
+			<string>TRIE</string>
+		</array>
+		<array>
+			<string>Appauvrissement du sang</string>
+			<string>Incrustées</string>
+			<string>ANEMIE</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Force qui tire vers le centre</string>
+			<string>EN</string>
+			<string>CENTRIFUGE</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Grand singe roux</string>
+			<string>EN</string>
+			<string>ORANGOUTAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Consciences</string>
+			<string></string>
+			<string>AMES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Consciences</string>
+			<string>Une moitié de journée</string>
+			<string>AMES</string>
+			<string>AM</string>
+		</array>
+		<array>
+			<string>Consciences</string>
+			<string>Apporte</string>
+			<string>AMES</string>
+			<string>AMENE</string>
+		</array>
+		<array>
+			<string>Consciences</string>
+			<string>Produisent de l&apos;angoisse</string>
+			<string>AMES</string>
+			<string>ANXIOGENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Classifie</string>
+			<string>ES</string>
+			<string>TRIE</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Incrustées</string>
+			<string>ES</string>
+			<string>NIELLEES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>AIDEMEMOIRES</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Une victoire de Napoléon</string>
+			<string>AIDEMEMOIRES</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Filet de pêche en forme de poche</string>
+			<string>AIDEMEMOIRES</string>
+			<string>DRAGUE</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Prénom anglais</string>
+			<string>AIDEMEMOIRES</string>
+			<string>ED</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Possessif</string>
+			<string>AIDEMEMOIRES</string>
+			<string>MES</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string></string>
+			<string>AIDEMEMOIRES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>AIDEMEMOIRES</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Possèdent</string>
+			<string>AIDEMEMOIRES</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Fin de verbe</string>
+			<string>AIDEMEMOIRES</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Tangibles</string>
+			<string>AIDEMEMOIRES</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string>Résulte</string>
+			<string>AIDEMEMOIRES</string>
+			<string>ENSUIT</string>
+		</array>
+		<array>
+			<string> Pour ne pas oublier</string>
+			<string> Terme de tennis</string>
+			<string>AIDEMEMOIRES</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étonnement ou colère</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>MERDE</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Étonnement ou colère</string>
+			<string> Une victoire de Napoléon</string>
+			<string>MERDE</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Étonnement ou colère</string>
+			<string> Filet de pêche en forme de poche</string>
+			<string>MERDE</string>
+			<string>DRAGUE</string>
+		</array>
+		<array>
+			<string> Étonnement ou colère</string>
+			<string> Prénom anglais</string>
+			<string>MERDE</string>
+			<string>ED</string>
+		</array>
+		<array>
+			<string> Étonnement ou colère</string>
+			<string> Possessif</string>
+			<string>MERDE</string>
+			<string>MES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>ENRENE</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Possèdent</string>
+			<string>ENRENE</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Fin de verbe</string>
+			<string>ENRENE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Tangibles</string>
+			<string>ENRENE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string>Résulte</string>
+			<string>ENRENE</string>
+			<string>ENSUIT</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Terme de tennis</string>
+			<string>ENRENE</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ce n&apos;est pas une école de métier</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>ENA</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Ce n&apos;est pas une école de métier</string>
+			<string> Une victoire de Napoléon</string>
+			<string>ENA</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Ce n&apos;est pas une école de métier</string>
+			<string> Filet de pêche en forme de poche</string>
+			<string>ENA</string>
+			<string>DRAGUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Possessif</string>
+			<string>SERT</string>
+			<string>MES</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Abréviation religieuse</string>
+			<string>SERT</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>SERT</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Offre</string>
+			<string> Possèdent</string>
+			<string>SERT</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Tangibles</string>
+			<string>EST</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string>Résulte</string>
+			<string>EST</string>
+			<string>ENSUIT</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Terme de tennis</string>
+			<string>EST</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Envie ou colère</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>RAGE</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Envie ou colère</string>
+			<string> Une victoire de Napoléon</string>
+			<string>RAGE</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Envie ou colère</string>
+			<string> Filet de pêche en forme de poche</string>
+			<string>RAGE</string>
+			<string>DRAGUE</string>
+		</array>
+		<array>
+			<string> Envie ou colère</string>
+			<string> En matière de</string>
+			<string>RAGE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Maître de cérémonie</string>
+			<string> Abréviation religieuse</string>
+			<string>MC</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string> Maître de cérémonie</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>MC</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On en fait du papier</string>
+			<string> Paresseux</string>
+			<string>ALU</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string> On en fait du papier</string>
+			<string> Tangibles</string>
+			<string>ALU</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> On en fait du papier</string>
+			<string>Résulte</string>
+			<string>ALU</string>
+			<string>ENSUIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Sud, Nord, Centrale</string>
+			<string>I</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Utilise</string>
+			<string> Filet de pêche en forme de poche</string>
+			<string>USE</string>
+			<string>DRAGUE</string>
+		</array>
+		<array>
+			<string> Utilise</string>
+			<string> En matière de</string>
+			<string>USE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Utilise</string>
+			<string> Continuées</string>
+			<string>USE</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abaisse</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>AVILIT</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Abaisse</string>
+			<string> Constater</string>
+			<string>AVILIT</string>
+			<string>VOIR</string>
+		</array>
+		<array>
+			<string> Abaisse</string>
+			<string> Paresseux</string>
+			<string>AVILIT</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string> Abaisse</string>
+			<string> Tangibles</string>
+			<string>AVILIT</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Abaisse</string>
+			<string>Résulte</string>
+			<string>AVILIT</string>
+			<string>ENSUIT</string>
+		</array>
+		<array>
+			<string> Abaisse</string>
+			<string> Perturbations</string>
+			<string>AVILIT</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>QUE</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Les ours par exemple</string>
+			<string>QUE</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Filet de pêche en forme de poche</string>
+			<string>QUE</string>
+			<string>DRAGUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant phobie ce n&apos;est pas bien</string>
+			<string> Continuées</string>
+			<string>XENO</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string> Avant phobie ce n&apos;est pas bien</string>
+			<string> Il a déjà été important</string>
+			<string>XENO</string>
+			<string>EX</string>
+		</array>
+		<array>
+			<string> Avant phobie ce n&apos;est pas bien</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>XENO</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Avant phobie ce n&apos;est pas bien</string>
+			<string> Constater</string>
+			<string>XENO</string>
+			<string>VOIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Tangibles</string>
+			<string>ETE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string>Résulte</string>
+			<string>ETE</string>
+			<string>ENSUIT</string>
+		</array>
+		<array>
+			<string> Froid il est pourri</string>
+			<string> Perturbations</string>
+			<string>ETE</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>UR</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> Les ours par exemple</string>
+			<string>UR</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Possessif.</string>
+			<string>SIXTIES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Continuées</string>
+			<string>SIXTIES</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Il a déjà été important</string>
+			<string>SIXTIES</string>
+			<string>EX</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>SIXTIES</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Constater</string>
+			<string>SIXTIES</string>
+			<string>VOIR</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Troubles, il est dangereux d&apos;y plonger</string>
+			<string>SIXTIES</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string> Les boomers y ont été heureux</string>
+			<string> Tangibles</string>
+			<string>SIXTIES</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Perturbations</string>
+			<string>M</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>ESSES</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Les ours par exemple</string>
+			<string>ESSES</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Isolée</string>
+			<string>ESSES</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Possessif.</string>
+			<string>ESSES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Continuées</string>
+			<string>ESSES</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Armée révolutionnaire</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>IRA</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string> Armée révolutionnaire</string>
+			<string> Constater</string>
+			<string>IRA</string>
+			<string>VOIR</string>
+		</array>
+		<array>
+			<string> Armée révolutionnaire</string>
+			<string> Troubles, il est dangereux d&apos;y plonger</string>
+			<string>IRA</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Travaux pratiques</string>
+			<string> Allonge</string>
+			<string>TP</string>
+			<string>TENDE</string>
+		</array>
+		<array>
+			<string> Travaux pratiques</string>
+			<string> Perturbations</string>
+			<string>TP</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Sud, Nord, Centrale</string>
+			<string>SIESTES</string>
+			<string>AMERIQUES</string>
+		</array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Les ours par exemple</string>
+			<string>SIESTES</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Isolée</string>
+			<string>SIESTES</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Possessif.</string>
+			<string>SIESTES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Continuées</string>
+			<string>SIESTES</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Crache en Sicile</string>
+			<string>SIESTES</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string> Souvent en après-midi</string>
+			<string> Commerçants malhonnêtes</string>
+			<string>SIESTES</string>
+			<string>MERCANTIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Troubles, il est dangereux d&apos;y plonger</string>
+			<string>USEE</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Giron</string>
+			<string>USEE</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Allonge</string>
+			<string>USEE</string>
+			<string>TENDE</string>
+		</array>
+		<array>
+			<string> Fatiguée</string>
+			<string> Perturbations</string>
+			<string>USEE</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dette</string>
+			<string> Les ours par exemple</string>
+			<string>DU</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Dette</string>
+			<string> Isolée</string>
+			<string>DU</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Continuées</string>
+			<string>ET</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Crache en Sicile</string>
+			<string>ET</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Orientent</string>
+			<string> Actif au Japon</string>
+			<string>AXENT</string>
+			<string>ASO</string>
+		</array>
+		<array>
+			<string> Orientent</string>
+			<string> Troubles, il est dangereux d&apos;y plonger</string>
+			<string>AXENT</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string> Orientent</string>
+			<string> Giron</string>
+			<string>AXENT</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string> Orientent</string>
+			<string> Allonge</string>
+			<string>AXENT</string>
+			<string>TENDE</string>
+		</array>
+		<array>
+			<string> Orientent</string>
+			<string> Perturbations</string>
+			<string>AXENT</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Répéter pour rire</string>
+			<string>HELLENES</string>
+			<string>HA</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Les ours par exemple</string>
+			<string>HELLENES</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Isolée</string>
+			<string>HELLENES</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string></string>
+			<string>HELLENES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Continuées</string>
+			<string>HELLENES</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Crache en Sicile</string>
+			<string>HELLENES</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Électron-Volt</string>
+			<string>HELLENES</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> De la Grèce</string>
+			<string> Actif au Japon</string>
+			<string>HELLENES</string>
+			<string>ASO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tourne en rond dans son bocal</string>
+			<string> Giron</string>
+			<string>IDE</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string> Tourne en rond dans son bocal</string>
+			<string> Allonge</string>
+			<string>IDE</string>
+			<string>TENDE</string>
+		</array>
+		<array>
+			<string> Tourne en rond dans son bocal</string>
+			<string> Perturbations</string>
+			<string>IDE</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Répéter pour rire</string>
+			<string>ASE</string>
+			<string>HA</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Les ours par exemple</string>
+			<string>ASE</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Enzyme.</string>
+			<string> Isolée</string>
+			<string>ASE</string>
+			<string>SEULE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Continuées</string>
+			<string>SAVONNES</string>
+			<string>EXISTEES</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Crache en Sicile</string>
+			<string>SAVONNES</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Électron-Volt</string>
+			<string>SAVONNES</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Actif au Japon</string>
+			<string>SAVONNES</string>
+			<string>ASO</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string></string>
+			<string>SAVONNES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Giron</string>
+			<string>SAVONNES</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Allonge</string>
+			<string>SAVONNES</string>
+			<string>TENDE</string>
+		</array>
+		<array>
+			<string> Réprimandés</string>
+			<string> Perturbations</string>
+			<string>SAVONNES</string>
+			<string>TEMPETES</string>
+		</array>
+	</array>
+</array>
+</plist>

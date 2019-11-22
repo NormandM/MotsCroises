@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Comprimées</string>
+			<string>Construire</string>
+			<string>CONDENSEES</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Petits instruments à vent</string>
+			<string>CONDENSEES</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Tranché</string>
+			<string>CONDENSEES</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Dinar</string>
+			<string>CONDENSEES</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Bordées</string>
+			<string>CONDENSEES</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Naïve</string>
+			<string>CONDENSEES</string>
+			<string>NIAISE</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Sont appréciés pour prendre un bain</string>
+			<string>CONDENSEES</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>École normale Supérieure</string>
+			<string>CONDENSEES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Dans</string>
+			<string>CONDENSEES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Comprimées</string>
+			<string>Outils</string>
+			<string>CONDENSEES</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Construire</string>
+			<string>OCEANIENNE</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Petits instruments à vent</string>
+			<string>OCEANIENNE</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Tranché</string>
+			<string>OCEANIENNE</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Dinar</string>
+			<string>OCEANIENNE</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Bordées</string>
+			<string>OCEANIENNE</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Naïve</string>
+			<string>OCEANIENNE</string>
+			<string>NIAISE</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Sont appréciés pour prendre un bain</string>
+			<string>OCEANIENNE</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>École normale Supérieure</string>
+			<string>OCEANIENNE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Dans</string>
+			<string>OCEANIENNE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Elle habite un continent australe</string>
+			<string>Outils</string>
+			<string>OCEANIENNE</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pianiste français</string>
+			<string>Construire</string>
+			<string>NAT</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Pianiste français</string>
+			<string>Petits instruments à vent</string>
+			<string>NAT</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Pianiste français</string>
+			<string>Tranché</string>
+			<string>NAT</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dans les mains qui travaillent durs</string>
+			<string>Bordées</string>
+			<string>CALS</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Dans les mains qui travaillent durs</string>
+			<string>Naïve</string>
+			<string>CALS</string>
+			<string>NIAISE</string>
+		</array>
+		<array>
+			<string>Dans les mains qui travaillent durs</string>
+			<string>Sont appréciés pour prendre un bain</string>
+			<string>CALS</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string>Dans les mains qui travaillent durs</string>
+			<string>École normale Supérieure</string>
+			<string>CALS</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Outils</string>
+			<string>C</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Strontium</string>
+			<string>Construire</string>
+			<string>SR</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Petits instruments à vent</string>
+			<string>SR</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Au-dessus d'un lit</string>
+			<string></string>
+			<string>DAIS</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Au-dessus d'un lit</string>
+			<string>Bordées</string>
+			<string>DAIS</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Au-dessus d'un lit</string>
+			<string>Naïve</string>
+			<string>DAIS</string>
+			<string>NIAISE</string>
+		</array>
+		<array>
+			<string>Au-dessus d'un lit</string>
+			<string>Sont appréciés pour prendre un bain</string>
+			<string>DAIS</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Les scouts en font tous les jours</string>
+			<string>Rosse</string>
+			<string>BA</string>
+			<string>BAT</string>
+		</array>
+		<array>
+			<string>Les scouts en font tous les jours</string>
+			<string>Outils</string>
+			<string>BA</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mouvement convulsif</string>
+			<string>Construire</string>
+			<string>TIC</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Mouvement convulsif</string>
+			<string>Petits instruments à vent</string>
+			<string>TIC</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Mouvement convulsif</string>
+			<string>Servent à fabriquer le chocolat</string>
+			<string>TIC</string>
+			<string>CACAOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Délégué syndical</string>
+			<string>Bordées</string>
+			<string>DS</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Délégué syndical</string>
+			<string>Naïve</string>
+			<string>DS</string>
+			<string>NIAISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>On mastique ses feuilles au Yémen</string>
+			<string>Le nombre des saisons</string>
+			<string>QAT</string>
+			<string>QUATRE</string>
+		</array>
+		<array>
+			<string>On mastique ses feuilles au Yémen</string>
+			<string>Rosse</string>
+			<string>QAT</string>
+			<string>BAT</string>
+		</array>
+		<array>
+			<string>On mastique ses feuilles au Yémen</string>
+			<string>Outils</string>
+			<string>QAT</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Institut national de l'audiovisuel</string>
+			<string>Construire</string>
+			<string>INA</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Institut national de l'audiovisuel</string>
+			<string>Petits instruments à vent</string>
+			<string>INA</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Institut national de l'audiovisuel</string>
+			<string>Servent à fabriquer le chocolat</string>
+			<string>INA</string>
+			<string>CACAOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Renie</string>
+			<string>Bordées</string>
+			<string>REFUTE</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Renie</string>
+			<string>Naïve</string>
+			<string>REFUTE</string>
+			<string>NIAISE</string>
+		</array>
+		<array>
+			<string>Renie</string>
+			<string>Note</string>
+			<string>REFUTE</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Renie</string>
+			<string>Le nombre des saisons</string>
+			<string>REFUTE</string>
+			<string>QUATRE</string>
+		</array>
+		<array>
+			<string>Renie</string>
+			<string>Rosse</string>
+			<string>REFUTE</string>
+			<string>BAT</string>
+		</array>
+		<array>
+			<string>Renie</string>
+			<string>Outils</string>
+			<string>REFUTE</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Travail qu'on doit exécuter</string>
+			<string>Construire</string>
+			<string>TACHE</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Travail qu'on doit exécuter</string>
+			<string>Petits instruments à vent</string>
+			<string>TACHE</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Travail qu'on doit exécuter</string>
+			<string>Servent à fabriquer le chocolat</string>
+			<string>TACHE</string>
+			<string>CACAOS</string>
+		</array>
+		<array>
+			<string>Travail qu'on doit exécuter</string>
+			<string>Mercure</string>
+			<string>TACHE</string>
+			<string>HG</string>
+		</array>
+		<array>
+			<string>Travail qu'on doit exécuter</string>
+			<string>Bordées</string>
+			<string>TACHE</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Note</string>
+			<string>AA</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Le nombre des saisons</string>
+			<string>AA</string>
+			<string>QUATRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Outils</string>
+			<string>U</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Utilisations</string>
+			<string>Construire</string>
+			<string>USAGES</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Utilisations</string>
+			<string>Petits instruments à vent</string>
+			<string>USAGES</string>
+			<string>OCARINAS</string>
+		</array>
+		<array>
+			<string>Utilisations</string>
+			<string>Servent à fabriquer le chocolat</string>
+			<string>USAGES</string>
+			<string>CACAOS</string>
+		</array>
+		<array>
+			<string>Utilisations</string>
+			<string>Mercure</string>
+			<string>USAGES</string>
+			<string>HG</string>
+		</array>
+		<array>
+			<string>Utilisations</string>
+			<string>Bordées</string>
+			<string>USAGES</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Utilisations</string>
+			<string>Possessif</string>
+			<string>USAGES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plusieurs c'est une salve</string>
+			<string>Le nombre des saisons</string>
+			<string>TIR</string>
+			<string>QUATRE</string>
+		</array>
+		<array>
+			<string>Plusieurs c'est une salve</string>
+			<string>Fin de voies</string>
+			<string>TIR</string>
+			<string>IES</string>
+		</array>
+		<array>
+			<string>Plusieurs c'est une salve</string>
+			<string>Outils</string>
+			<string>TIR</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Construire</string>
+			<string>E</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Servent à fabriquer le chocolat</string>
+			<string>O</string>
+			<string>CACAOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Désintoxiqués</string>
+			<string>Bordées</string>
+			<string>SEVRES</string>
+			<string>ENCADREES</string>
+		</array>
+		<array>
+			<string>Désintoxiqués</string>
+			<string>Possessif</string>
+			<string>SEVRES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string>Désintoxiqués</string>
+			<string>Regardé</string>
+			<string>SEVRES</string>
+			<string>VU</string>
+		</array>
+		<array>
+			<string>Désintoxiqués</string>
+			<string>Le nombre des saisons</string>
+			<string>SEVRES</string>
+			<string>QUATRE</string>
+		</array>
+		<array>
+			<string>Désintoxiqués</string>
+			<string>Fin de voies</string>
+			<string>SEVRES</string>
+			<string>IES</string>
+		</array>
+		<array>
+			<string>Désintoxiqués</string>
+			<string>Outils</string>
+			<string>SEVRES</string>
+			<string>SECATEURS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tond</string>
+			<string>Construire</string>
+			<string>RASE</string>
+			<string>CONSTITUER</string>
+		</array>
+		<array>
+			<string>Tond</string>
+			<string></string>
+			<string>RASE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Tond</string>
+			<string>Servent à fabriquer le chocolat</string>
+			<string>RASE</string>
+			<string>CACAOS</string>
+		</array>
+		<array>
+			<string>Tond</string>
+			<string></string>
+			<string>RASE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Transpires</string>
+			<string>Possessif</string>
+			<string>SUES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string>Transpires</string>
+			<string>Regardé</string>
+			<string>SUES</string>
+			<string>VU</string>
+		</array>
+		<array>
+			<string>Transpires</string>
+			<string>Le nombre des saisons</string>
+			<string>SUES</string>
+			<string>QUATRE</string>
+		</array>
+		<array>
+			<string>Transpires</string>
+			<string>Fin de voies</string>
+			<string>SUES</string>
+			<string>IES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

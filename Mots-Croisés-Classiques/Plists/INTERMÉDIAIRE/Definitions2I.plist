@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Traces</string>
+			<string>PESSIMISTE</string>
+			<string>PISTES</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Capables de se dresser</string>
+			<string>PESSIMISTE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Strontium</string>
+			<string>PESSIMISTE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Épiças</string>
+			<string>PESSIMISTE</string>
+			<string>SALAS</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Idem</string>
+			<string>PESSIMISTE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Jeunes filles</string>
+			<string>PESSIMISTE</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>C&apos;est-à-dire</string>
+			<string>PESSIMISTE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Roberts</string>
+			<string>PESSIMISTE</string>
+			<string>SEINS</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string></string>
+			<string>PESSIMISTE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Voit tout en noir</string>
+			<string>Couvrir de matière blanche</string>
+			<string>PESSIMISTE</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Traces</string>
+			<string>IRRADIEE</string>
+			<string>PISTES</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Capables de se dresser</string>
+			<string>IRRADIEE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Strontium</string>
+			<string>IRRADIEE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Épiças</string>
+			<string>IRRADIEE</string>
+			<string>SALAS</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Idem</string>
+			<string>IRRADIEE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Jeunes filles</string>
+			<string>IRRADIEE</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>C&apos;est-à-dire</string>
+			<string>IRRADIEE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Personne ayant vécu à Tchernobyl</string>
+			<string>Roberts</string>
+			<string>IRRADIEE</string>
+			<string>SEINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Couvrir de matière blanche</string>
+			<string>N</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Personnel</string>
+			<string>Traces</string>
+			<string>SE</string>
+			<string>PISTES</string>
+		</array>
+		<array>
+			<string>Personnel</string>
+			<string>Capables de se dresser</string>
+			<string>SE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Épiças</string>
+			<string>L</string>
+			<string>SALAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Jeunes filles</string>
+			<string>D</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Négatif ou positif</string>
+			<string>Roberts</string>
+			<string>ION</string>
+			<string>SEINS</string>
+		</array>
+		<array>
+			<string>Négatif ou positif</string>
+			<string>Pronom indéfini</string>
+			<string>ION</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Négatif ou positif</string>
+			<string>Couvrir de matière blanche</string>
+			<string>ION</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Traces</string>
+			<string>TCHADIENNE</string>
+			<string>PISTES</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Capables de se dresser</string>
+			<string>TCHADIENNE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Appeler de loin</string>
+			<string>TCHADIENNE</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Épiças</string>
+			<string>TCHADIENNE</string>
+			<string>SALAS</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string></string>
+			<string>TCHADIENNE</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Jeunes filles</string>
+			<string>TCHADIENNE</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Obtenue</string>
+			<string>TCHADIENNE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Roberts</string>
+			<string>TCHADIENNE</string>
+			<string>SEINS</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Pronom indéfini</string>
+			<string>TCHADIENNE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Elle habite un pays d&apos;Afrique</string>
+			<string>Couvrir de matière blanche</string>
+			<string>TCHADIENNE</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Traces</string>
+			<string>ETES</string>
+			<string>PISTES</string>
+		</array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Capables de se dresser</string>
+			<string>ETES</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Appeler de loin</string>
+			<string>ETES</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Épiças</string>
+			<string>ETES</string>
+			<string>SALAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dépouillés</string>
+			<string>Jeunes filles</string>
+			<string>NUS</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string>Dépouillés</string>
+			<string>Obtenue</string>
+			<string>NUS</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Dépouillés</string>
+			<string>Roberts</string>
+			<string>NUS</string>
+			<string>SEINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Couvrir de matière blanche</string>
+			<string>I</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Argile</string>
+			<string>Traces</string>
+			<string>SIL</string>
+			<string>PISTES</string>
+		</array>
+		<array>
+			<string>Argile</string>
+			<string>Capables de se dresser</string>
+			<string>SIL</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Argile</string>
+			<string>Appeler de loin</string>
+			<string>SIL</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cheville</string>
+			<string>Suisse</string>
+			<string>TEE</string>
+			<string>TAMIA</string>
+		</array>
+		<array>
+			<string>Cheville</string>
+			<string>Jeunes filles</string>
+			<string>TEE</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string>Cheville</string>
+			<string>Obtenue</string>
+			<string>TEE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>électricité</string>
+			<string>AG</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>Couvrir de matière blanche</string>
+			<string>AG</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ambassadeur du Saint-Siège</string>
+			<string>Capables de se dresser</string>
+			<string>LEGAT</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Ambassadeur du Saint-Siège</string>
+			<string>Appeler de loin</string>
+			<string>LEGAT</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string>Ambassadeur du Saint-Siège</string>
+			<string></string>
+			<string>LEGAT</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Ambassadeur du Saint-Siège</string>
+			<string>Suisse</string>
+			<string>LEGAT</string>
+			<string>TAMIA</string>
+		</array>
+		<array>
+			<string>Ambassadeur du Saint-Siège</string>
+			<string>Jeunes filles</string>
+			<string>LEGAT</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Terme de tennis</string>
+			<string>Point dans la constellation d&apos;Hercule</string>
+			<string>ACE</string>
+			<string>APEX</string>
+		</array>
+		<array>
+			<string>Terme de tennis</string>
+			<string>électricité</string>
+			<string>ACE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Terme de tennis</string>
+			<string>Couvrir de matière blanche</string>
+			<string>ACE</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trois fois</string>
+			<string>Large cuvette</string>
+			<string>TER</string>
+			<string>TUB</string>
+		</array>
+		<array>
+			<string>Trois fois</string>
+			<string>Capables de se dresser</string>
+			<string>TER</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Trois fois</string>
+			<string>Appeler de loin</string>
+			<string>TER</string>
+			<string>HELER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Moyenne tension</string>
+			<string>Suisse</string>
+			<string>MT</string>
+			<string>TAMIA</string>
+		</array>
+		<array>
+			<string>Moyenne tension</string>
+			<string>Jeunes filles</string>
+			<string>MT</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Point dans la constellation d&apos;Hercule</string>
+			<string>P</string>
+			<string>APEX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Couvrir de matière blanche</string>
+			<string>R</string>
+			<string>ENNEIGER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Usage</string>
+			<string>Large cuvette</string>
+			<string>US</string>
+			<string>TUB</string>
+		</array>
+		<array>
+			<string>Usage</string>
+			<string>Capables de se dresser</string>
+			<string>US</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traquenards</string>
+			<string>Plutonium</string>
+			<string>PIEGES</string>
+			<string>PU</string>
+		</array>
+		<array>
+			<string>Traquenards</string>
+			<string>Suisse</string>
+			<string>PIEGES</string>
+			<string>TAMIA</string>
+		</array>
+		<array>
+			<string>Traquenards</string>
+			<string>Jeunes filles</string>
+			<string>PIEGES</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string>Traquenards</string>
+			<string></string>
+			<string>PIEGES</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Traquenards</string>
+			<string>Point dans la constellation d&apos;Hercule</string>
+			<string>PIEGES</string>
+			<string>APEX</string>
+		</array>
+		<array>
+			<string>Traquenards</string>
+			<string>Conjonction</string>
+			<string>PIEGES</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Large cuvette</string>
+			<string>B</string>
+			<string>TUB</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Éliminas</string>
+			<string></string>
+			<string>TUAS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Éliminas</string>
+			<string>Plutonium</string>
+			<string>TUAS</string>
+			<string>PU</string>
+		</array>
+		<array>
+			<string>Éliminas</string>
+			<string>Suisse</string>
+			<string>TUAS</string>
+			<string>TAMIA</string>
+		</array>
+		<array>
+			<string>Éliminas</string>
+			<string>Jeunes filles</string>
+			<string>TUAS</string>
+			<string>MIDINETTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Douze</string>
+			<string>Point dans la constellation d&apos;Hercule</string>
+			<string>XII</string>
+			<string>APEX</string>
+		</array>
+		<array>
+			<string>Douze</string>
+			<string>Conjonction</string>
+			<string>XII</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Douze</string>
+			<string></string>
+			<string>XII</string>
+			<string>I</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Faillites</string>
+			<string>BABYBOOMEURS</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Diminution de la volonté</string>
+			<string>BABYBOOMEURS</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Symbole chimique</string>
+			<string>BABYBOOMEURS</string>
+			<string>BE</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string></string>
+			<string>BABYBOOMEURS</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Avalé</string>
+			<string>BABYBOOMEURS</string>
+			<string>BU</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Maintenant essentiels au travail comme à la maison</string>
+			<string>BABYBOOMEURS</string>
+			<string>ORDIS</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Risquée</string>
+			<string>BABYBOOMEURS</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Chapeau triangulaire</string>
+			<string>BABYBOOMEURS</string>
+			<string>MITRE</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Ville du Nigeria</string>
+			<string>BABYBOOMEURS</string>
+			<string>EDE</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Coule en Afrique</string>
+			<string>BABYBOOMEURS</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string></string>
+			<string>BABYBOOMEURS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Ils ont dominé la fin du 20e siècle et le début du 21e</string>
+			<string> Amas de sporanges</string>
+			<string>BABYBOOMEURS</string>
+			<string>SORE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Premier ministre japonais</string>
+			<string> Faillites</string>
+			<string>ABE</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Premier ministre japonais</string>
+			<string> Diminution de la volonté</string>
+			<string>ABE</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string> Premier ministre japonais</string>
+			<string> Symbole chimique</string>
+			<string>ABE</string>
+			<string>BE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un ours par exemple</string>
+			<string> Avalé</string>
+			<string>URSIDE</string>
+			<string>BU</string>
+		</array>
+		<array>
+			<string>Un ours par exemple</string>
+			<string> Maintenant essentiels au travail comme à la maison</string>
+			<string>URSIDE</string>
+			<string>ORDIS</string>
+		</array>
+		<array>
+			<string>Un ours par exemple</string>
+			<string> Risquée</string>
+			<string>URSIDE</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string>Un ours par exemple</string>
+			<string> Chapeau triangulaire</string>
+			<string>URSIDE</string>
+			<string>MITRE</string>
+		</array>
+		<array>
+			<string>Un ours par exemple</string>
+			<string> Ville du Nigeria</string>
+			<string>URSIDE</string>
+			<string>EDE</string>
+		</array>
+		<array>
+			<string>Un ours par exemple</string>
+			<string> Coule en Afrique</string>
+			<string>URSIDE</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Amas de sporanges</string>
+			<string>O</string>
+			<string>SORE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Drame japonais</string>
+			<string> Faillites</string>
+			<string>NO</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Drame japonais</string>
+			<string> Diminution de la volonté</string>
+			<string>NO</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Équiperons</string>
+			<string>A</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Maintenant essentiels au travail comme à la maison</string>
+			<string>DETELER</string>
+			<string>ORDIS</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Risquée</string>
+			<string>DETELER</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Chapeau triangulaire</string>
+			<string>DETELER</string>
+			<string>MITRE</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Ville du Nigeria</string>
+			<string>DETELER</string>
+			<string>EDE</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Coule en Afrique</string>
+			<string>DETELER</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Peut parfois menées à la jalousie</string>
+			<string>DETELER</string>
+			<string>ENVIES</string>
+		</array>
+		<array>
+			<string> Se calmer</string>
+			<string> Amas de sporanges</string>
+			<string>DETELER</string>
+			<string>SORE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Faubourg</string>
+			<string> Faillites</string>
+			<string>QUARTIER</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Diminution de la volonté</string>
+			<string>QUARTIER</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Jouaient de la lyre</string>
+			<string>QUARTIER</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Équiperons</string>
+			<string>QUARTIER</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Luth</string>
+			<string>QUARTIER</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Maintenant essentiels au travail comme à la maison</string>
+			<string>QUARTIER</string>
+			<string>ORDIS</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Risquée</string>
+			<string>QUARTIER</string>
+			<string>OSEE</string>
+		</array>
+		<array>
+			<string> Faubourg</string>
+			<string> Chapeau triangulaire</string>
+			<string>QUARTIER</string>
+			<string>MITRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Coule en Afrique</string>
+			<string>ENE</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Peut parfois menées à la jalousie</string>
+			<string>ENE</string>
+			<string>ENVIES</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Amas de sporanges</string>
+			<string>ENE</string>
+			<string>SORE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Faillites</string>
+			<string>ULEMAS</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Diminution de la volonté</string>
+			<string>ULEMAS</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Jouaient de la lyre</string>
+			<string>ULEMAS</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Équiperons</string>
+			<string>ULEMAS</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Luth</string>
+			<string>ULEMAS</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Maintenant essentiels au travail comme à la maison</string>
+			<string>ULEMAS</string>
+			<string>ORDIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Chapeau triangulaire</string>
+			<string>ER</string>
+			<string>MITRE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Roue</string>
+			<string>ER</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Peut parfois menées à la jalousie</string>
+			<string>V</string>
+			<string>ENVIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Son duvet est apprécié</string>
+			<string> Faillites</string>
+			<string>EIDER</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Son duvet est apprécié</string>
+			<string> Diminution de la volonté</string>
+			<string>EIDER</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string> Son duvet est apprécié</string>
+			<string> Jouaient de la lyre</string>
+			<string>EIDER</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Son duvet est apprécié</string>
+			<string> Équiperons</string>
+			<string>EIDER</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string> Son duvet est apprécié</string>
+			<string> Luth</string>
+			<string>EIDER</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Laboure une quatrième fois</string>
+			<string>R</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Surveilla</string>
+			<string> Roue</string>
+			<string>EPIA</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> Surveilla</string>
+			<string> Tombe des cordes</string>
+			<string>EPIA</string>
+			<string>PLEUT</string>
+		</array>
+		<array>
+			<string> Surveilla</string>
+			<string> Peut parfois menées à la jalousie</string>
+			<string>EPIA</string>
+			<string>ENVIES</string>
+		</array>
+		<array>
+			<string> Surveilla</string>
+			<string> Circulait à Rome</string>
+			<string>EPIA</string>
+			<string>AS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Faillites</string>
+			<string>REER</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Diminution de la volonté</string>
+			<string>REER</string>
+			<string>ABOULIE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Jouaient de la lyre</string>
+			<string>REER</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Équiperons</string>
+			<string>REER</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Niais</string>
+			<string>SEPALES</string>
+			<string>SERINS</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Laboure une quatrième fois</string>
+			<string>SEPALES</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Fait des vers</string>
+			<string>SEPALES</string>
+			<string>POETE</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Roue</string>
+			<string>SEPALES</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Tombe des cordes</string>
+			<string>SEPALES</string>
+			<string>PLEUT</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Peut parfois menées à la jalousie</string>
+			<string>SEPALES</string>
+			<string>ENVIES</string>
+		</array>
+		<array>
+			<string> Font parties d&apos;une fleur</string>
+			<string> Circulait à Rome</string>
+			<string>SEPALES</string>
+			<string>AS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Faillites</string>
+			<string>O</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Banlieue de Johannesburg</string>
+			<string> Jouaient de la lyre</string>
+			<string>SOWETO</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Banlieue de Johannesburg</string>
+			<string> Équiperons</string>
+			<string>SOWETO</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string> Banlieue de Johannesburg</string>
+			<string></string>
+			<string>SOWETO</string>
+			<string>W</string>
+		</array>
+		<array>
+			<string> Banlieue de Johannesburg</string>
+			<string> Niais</string>
+			<string>SOWETO</string>
+			<string>SERINS</string>
+		</array>
+		<array>
+			<string> Banlieue de Johannesburg</string>
+			<string> Laboure une quatrième fois</string>
+			<string>SOWETO</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Banlieue de Johannesburg</string>
+			<string> Fait des vers</string>
+			<string>SOWETO</string>
+			<string>POETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans un diplôme universitaire</string>
+			<string> Tombe des cordes</string>
+			<string>ES</string>
+			<string>PLEUT</string>
+		</array>
+		<array>
+			<string> Dans un diplôme universitaire</string>
+			<string> Peut parfois menées à la jalousie</string>
+			<string>ES</string>
+			<string>ENVIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coutumes</string>
+			<string> Faillites</string>
+			<string>US</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Georges Brassens y est né</string>
+			<string>US</string>
+			<string>SETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Équiperons</string>
+			<string>N</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Il a fait du bon travail</string>
+			<string> Niais</string>
+			<string>REELU</string>
+			<string>SERINS</string>
+		</array>
+		<array>
+			<string> Il a fait du bon travail</string>
+			<string> Laboure une quatrième fois</string>
+			<string>REELU</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Il a fait du bon travail</string>
+			<string> Fait des vers</string>
+			<string>REELU</string>
+			<string>POETE</string>
+		</array>
+		<array>
+			<string> Il a fait du bon travail</string>
+			<string></string>
+			<string>REELU</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Il a fait du bon travail</string>
+			<string> Tombe des cordes</string>
+			<string>REELU</string>
+			<string>PLEUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>O</string>
+			<string>ORES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Faillites</string>
+			<string>TEESHIRT</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Georges Brassens y est né</string>
+			<string>TEESHIRT</string>
+			<string>SETE</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Un peu d&apos;eau</string>
+			<string>TEESHIRT</string>
+			<string>EA</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Équiperons</string>
+			<string>TEESHIRT</string>
+			<string>ARMERONS</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Détesté</string>
+			<string>TEESHIRT</string>
+			<string>HAI</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Niais</string>
+			<string>TEESHIRT</string>
+			<string>SERINS</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Laboure une quatrième fois</string>
+			<string>TEESHIRT</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Maillot à manches courtes</string>
+			<string> Fait des vers</string>
+			<string>TEESHIRT</string>
+			<string>POETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Tombe des cordes</string>
+			<string>TER</string>
+			<string>PLEUT</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Six mois après Noël</string>
+			<string>TER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>TER</string>
+			<string>ORES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Faillites</string>
+			<string>ETA</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Georges Brassens y est né</string>
+			<string>ETA</string>
+			<string>SETE</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Un peu d&apos;eau</string>
+			<string>ETA</string>
+			<string>EA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Détesté</string>
+			<string>ANSES</string>
+			<string>HAI</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Niais</string>
+			<string>ANSES</string>
+			<string>SERINS</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Laboure une quatrième fois</string>
+			<string>ANSES</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Fait des vers</string>
+			<string>ANSES</string>
+			<string>POETE</string>
+		</array>
+		<array>
+			<string> Poignées</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>ANSES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Six mois après Noël</string>
+			<string>TE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>TE</string>
+			<string>ORES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Faillites</string>
+			<string>SE</string>
+			<string>BANQUEROUTES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Georges Brassens y est né</string>
+			<string>SE</string>
+			<string>SETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string></string>
+			<string>AISE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Détesté</string>
+			<string>AISE</string>
+			<string>HAI</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Niais</string>
+			<string>AISE</string>
+			<string>SERINS</string>
+		</array>
+		<array>
+			<string> Riche</string>
+			<string> Laboure une quatrième fois</string>
+			<string>AISE</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dieu de la guerre</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>ARES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Dieu de la guerre</string>
+			<string></string>
+			<string>ARES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Dieu de la guerre</string>
+			<string> Six mois après Noël</string>
+			<string>ARES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Dieu de la guerre</string>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string>ARES</string>
+			<string>ORES</string>
+		</array>
+	</array>
+</array>
+</plist>

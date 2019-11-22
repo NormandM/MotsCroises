@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Action d'embellir</string>
+			<string>ICONOCLASTES</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Aller et venir</string>
+			<string>ICONOCLASTES</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Lestes</string>
+			<string>ICONOCLASTES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string>  Sortis</string>
+			<string>ICONOCLASTES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Hic</string>
+			<string>ICONOCLASTES</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string></string>
+			<string>ICONOCLASTES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string>  Général sudiste</string>
+			<string>ICONOCLASTES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Recueils de pensées</string>
+			<string>ICONOCLASTES</string>
+			<string>ANAS</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Symbole chimique</string>
+			<string>ICONOCLASTES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Coupelles</string>
+			<string>ICONOCLASTES</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Ce n'est pas une école de métier</string>
+			<string>ICONOCLASTES</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Hostiles aux traditions</string>
+			<string> Enchâsser</string>
+			<string>ICONOCLASTES</string>
+			<string>SERTIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Exprimes</string>
+			<string> Action d'embellir</string>
+			<string>DISES</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Exprimes</string>
+			<string> Aller et venir</string>
+			<string>DISES</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string> Exprimes</string>
+			<string> Lestes</string>
+			<string>DISES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Exprimes</string>
+			<string>  Sortis</string>
+			<string>DISES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Exprimes</string>
+			<string> Hic</string>
+			<string>DISES</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string>  Général sudiste</string>
+			<string>ENRENE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Recueils de pensées</string>
+			<string>ENRENE</string>
+			<string>ANAS</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Symbole chimique</string>
+			<string>ENRENE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Coupelles</string>
+			<string>ENRENE</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Ce n'est pas une école de métier</string>
+			<string>ENRENE</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Enchâsser</string>
+			<string>ENRENE</string>
+			<string>SERTIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes</string>
+			<string> Action d'embellir</string>
+			<string>ERES</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Aller et venir</string>
+			<string>ERES</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Lestes</string>
+			<string>ERES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string>  Sortis</string>
+			<string>ERES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>REA</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string>  Général sudiste</string>
+			<string>REA</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string> Recueils de pensées</string>
+			<string>REA</string>
+			<string>ANAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Luth</string>
+			<string> Coupelles</string>
+			<string>TAR</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string> Luth</string>
+			<string> Ce n'est pas une école de métier</string>
+			<string>TAR</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string> Luth</string>
+			<string> Enchâsser</string>
+			<string>TAR</string>
+			<string>SERTIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Action d'embellir</string>
+			<string>ACE</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Aller et venir</string>
+			<string>ACE</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Lestes</string>
+			<string>ACE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Une maladie pulmonaire</string>
+			<string>SE</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>SE</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un signal de morse</string>
+			<string> Recueils de pensées</string>
+			<string>SOS</string>
+			<string>ANAS</string>
+		</array>
+		<array>
+			<string> Un signal de morse</string>
+			<string> C'était une armée</string>
+			<string>SOS</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Un signal de morse</string>
+			<string> Coupelles</string>
+			<string>SOS</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Enchâsser</string>
+			<string>T</string>
+			<string>SERTIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Satinée</string>
+			<string> Action d'embellir</string>
+			<string>LUSTREE</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Satinée</string>
+			<string> Aller et venir</string>
+			<string>LUSTREE</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string> Satinée</string>
+			<string> Lestes</string>
+			<string>LUSTREE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Satinée</string>
+			<string> Thulium</string>
+			<string>LUSTREE</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string> Satinée</string>
+			<string> Une maladie pulmonaire</string>
+			<string>LUSTREE</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string> Satinée</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>LUSTREE</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string> Satinée</string>
+			<string> Du verbe être</string>
+			<string>LUSTREE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> C'était une armée</string>
+			<string>S</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Filets</string>
+			<string>SI</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Enchâsser</string>
+			<string>SI</string>
+			<string>SERTIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Action d'embellir</string>
+			<string>IL</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Aller et venir</string>
+			<string>IL</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Thulium</string>
+			<string>MALTOTIER</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Une maladie pulmonaire</string>
+			<string>MALTOTIER</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>MALTOTIER</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Du verbe être</string>
+			<string>MALTOTIER</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Risquer</string>
+			<string>MALTOTIER</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> C'était une armée</string>
+			<string>MALTOTIER</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Colorées</string>
+			<string>MALTOTIER</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Filets</string>
+			<string>MALTOTIER</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Enrichi, malhonnête, percepteur</string>
+			<string> Enchâsser</string>
+			<string>MALTOTIER</string>
+			<string>SERTIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> Action d'embellir</string>
+			<string>SES</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Aller et venir</string>
+			<string>SES</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Fromage</string>
+			<string>SES</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Transpires</string>
+			<string> Une maladie pulmonaire</string>
+			<string>SUES</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string> Transpires</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>SUES</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string> Transpires</string>
+			<string> Du verbe être</string>
+			<string>SUES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Transpires</string>
+			<string> Risquer</string>
+			<string>SUES</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gondolé</string>
+			<string> Colorées</string>
+			<string>RI</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Gondolé</string>
+			<string> Filets</string>
+			<string>RI</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Palmier</string>
+			<string> Action d'embellir</string>
+			<string>AREC</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Palmier</string>
+			<string> Aller et venir</string>
+			<string>AREC</string>
+			<string>CIRCULER</string>
+		</array>
+		<array>
+			<string> Palmier</string>
+			<string> Fromage</string>
+			<string>AREC</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Palmier</string>
+			<string> Abréviation de ici</string>
+			<string>AREC</string>
+			<string>CI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>ESERINE</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Du verbe être</string>
+			<string>ESERINE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Risquer</string>
+			<string>ESERINE</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Pomme de terre</string>
+			<string>ESERINE</string>
+			<string>RATTE</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Colorées</string>
+			<string>ESERINE</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Filets</string>
+			<string>ESERINE</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Estoniens</string>
+			<string>ESERINE</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Action d'embellir</string>
+			<string>T</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une des grandes périodes de glaciation</string>
+			<string> Fromage</string>
+			<string>RISS</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Une des grandes périodes de glaciation</string>
+			<string> Abréviation de ici</string>
+			<string>RISS</string>
+			<string>CI</string>
+		</array>
+		<array>
+			<string> Une des grandes périodes de glaciation</string>
+			<string> Ce n'est pas à toi</string>
+			<string>RISS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Une des grandes périodes de glaciation</string>
+			<string> Elles ont sans doute fait un bon travail</string>
+			<string>RISS</string>
+			<string>REELUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tondus</string>
+			<string> Risquer</string>
+			<string>RASES</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string> Tondus</string>
+			<string> Pomme de terre</string>
+			<string>RASES</string>
+			<string>RATTE</string>
+		</array>
+		<array>
+			<string> Tondus</string>
+			<string> Colorées</string>
+			<string>RASES</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Tondus</string>
+			<string> Filets</string>
+			<string>RASES</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Tondus</string>
+			<string> Estoniens</string>
+			<string>RASES</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Action d'embellir</string>
+			<string>IPE</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Écrivain de Boston</string>
+			<string>IPE</string>
+			<string>POE</string>
+		</array>
+		<array>
+			<string> Un bois très dur</string>
+			<string> Fromage</string>
+			<string>IPE</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ce n'est pas à toi</string>
+			<string>A</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Période</string>
+			<string>E</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Pomme de terre</string>
+			<string>TEST</string>
+			<string>RATTE</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Colorées</string>
+			<string>TEST</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Filets</string>
+			<string>TEST</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Estoniens</string>
+			<string>TEST</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lac des Pyrénées</string>
+			<string> Action d'embellir</string>
+			<string>OO</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Lac des Pyrénées</string>
+			<string> Écrivain de Boston</string>
+			<string>OO</string>
+			<string>POE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Infinitif</string>
+			<string>E</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Il y en a dans le poisson</string>
+			<string> Argent</string>
+			<string>ARETE</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string> Il y en a dans le poisson</string>
+			<string> Période</string>
+			<string>ARETE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Il y en a dans le poisson</string>
+			<string> Indique l'origine</string>
+			<string>ARETE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Il y en a dans le poisson</string>
+			<string> Pomme de terre</string>
+			<string>ARETE</string>
+			<string>RATTE</string>
+		</array>
+		<array>
+			<string> Il y en a dans le poisson</string>
+			<string> Colorées</string>
+			<string>ARETE</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Estoniens</string>
+			<string>E</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Action d'embellir</string>
+			<string>NEUROGENESES</string>
+			<string>IDEALISATION</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Écrivain de Boston</string>
+			<string>NEUROGENESES</string>
+			<string>POE</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string></string>
+			<string>NEUROGENESES</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Infinitif</string>
+			<string>NEUROGENESES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string></string>
+			<string>NEUROGENESES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Argent</string>
+			<string>NEUROGENESES</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Période</string>
+			<string>NEUROGENESES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Indique l'origine</string>
+			<string>NEUROGENESES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Pomme de terre</string>
+			<string>NEUROGENESES</string>
+			<string>RATTE</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Colorées</string>
+			<string>NEUROGENESES</string>
+			<string>IRISEES</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string></string>
+			<string>NEUROGENESES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Formations de neurones</string>
+			<string> Estoniens</string>
+			<string>NEUROGENESES</string>
+			<string>ESTES</string>
+		</array>
+	</array>
+</array>
+</plist>

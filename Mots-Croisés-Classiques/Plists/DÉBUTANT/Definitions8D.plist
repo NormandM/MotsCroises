@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Fortifiées avec le temps</string>
+			<string>INITIATION</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Sodium</string>
+			<string>INITIATION</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Aussi</string>
+			<string>INITIATION</string>
+			<string>ITOU</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Dissimulés</string>
+			<string>INITIATION</string>
+			<string>TUS</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Vieilles colères</string>
+			<string>INITIATION</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> En l&apos;air</string>
+			<string>INITIATION</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Thallium</string>
+			<string>INITIATION</string>
+			<string>TL</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Capri</string>
+			<string>INITIATION</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string> Massif montagneux de la Grèce</string>
+			<string>INITIATION</string>
+			<string>OETA</string>
+		</array>
+		<array>
+			<string> Apprentissage</string>
+			<string></string>
+			<string>INITIATION</string>
+			<string>N</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Innée</string>
+			<string> Fortifiées avec le temps</string>
+			<string>NATURELLE</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Sodium</string>
+			<string>NATURELLE</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Aussi</string>
+			<string>NATURELLE</string>
+			<string>ITOU</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Dissimulés</string>
+			<string>NATURELLE</string>
+			<string>TUS</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Vieilles colères</string>
+			<string>NATURELLE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> En l&apos;air</string>
+			<string>NATURELLE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Thallium</string>
+			<string>NATURELLE</string>
+			<string>TL</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Capri</string>
+			<string>NATURELLE</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string> Innée</string>
+			<string> Massif montagneux de la Grèce</string>
+			<string>NATURELLE</string>
+			<string>OETA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Fortifiées avec le temps</string>
+			<string>V</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Risquer</string>
+			<string> Aussi</string>
+			<string>OSER</string>
+			<string>ITOU</string>
+		</array>
+		<array>
+			<string> Risquer</string>
+			<string> Dissimulés</string>
+			<string>OSER</string>
+			<string>TUS</string>
+		</array>
+		<array>
+			<string> Risquer</string>
+			<string> Vieilles colères</string>
+			<string>OSER</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Risquer</string>
+			<string> En l&apos;air</string>
+			<string>OSER</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Capri</string>
+			<string>ETE</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Massif montagneux de la Grèce</string>
+			<string>ETE</string>
+			<string>OETA</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Orient.</string>
+			<string>ETE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Recouvre 72% de la terre</string>
+			<string> Fortifiées avec le temps</string>
+			<string>EAU</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Recouvre 72% de la terre</string>
+			<string> Écrivain</string>
+			<string>EAU</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string> Recouvre 72% de la terre</string>
+			<string> Aussi</string>
+			<string>EAU</string>
+			<string>ITOU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> Vieilles colères</string>
+			<string>SIS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> En l&apos;air</string>
+			<string>SIS</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> Confédéré</string>
+			<string>SIS</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Massif montagneux de la Grèce</string>
+			<string>AS</string>
+			<string>OETA</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Orient.</string>
+			<string>AS</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tour</string>
+			<string> Fortifiées avec le temps</string>
+			<string>TR</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Écrivain</string>
+			<string>TR</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ventilées</string>
+			<string>A</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> En l&apos;air</string>
+			<string>EUE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Confédéré</string>
+			<string>EUE</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Désert</string>
+			<string>EUE</string>
+			<string>ERG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Orient.</string>
+			<string>T</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enlacer </string>
+			<string> Fortifiées avec le temps</string>
+			<string>ETREINDRE</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> Écrivain</string>
+			<string>ETREINDRE</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string></string>
+			<string>ETREINDRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> Ventilées</string>
+			<string>ETREINDRE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> En vogue</string>
+			<string>ETREINDRE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> En l&apos;air</string>
+			<string>ETREINDRE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> Confédéré</string>
+			<string>ETREINDRE</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> Désert</string>
+			<string>ETREINDRE</string>
+			<string>ERG</string>
+		</array>
+		<array>
+			<string> Enlacer </string>
+			<string> Prince troyen</string>
+			<string>ETREINDRE</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pouffé</string>
+			<string> Fortifiées avec le temps</string>
+			<string>RI</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Écrivain</string>
+			<string>RI</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> Ventilées</string>
+			<string>RN</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Radon</string>
+			<string> En vogue</string>
+			<string>RN</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Confédéré</string>
+			<string>IGNE</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Désert</string>
+			<string>IGNE</string>
+			<string>ERG</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Prince troyen</string>
+			<string>IGNE</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Qui est en feu</string>
+			<string> Langue celtique</string>
+			<string>IGNE</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Fortifiées avec le temps</string>
+			<string>ESTE</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Écrivain</string>
+			<string>ESTE</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string></string>
+			<string>ESTE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Ventilées</string>
+			<string>ESTE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conseil supérieur</string>
+			<string> Durillon</string>
+			<string>CS</string>
+			<string>CAL</string>
+		</array>
+		<array>
+			<string> Conseil supérieur</string>
+			<string> Confédéré</string>
+			<string>CS</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Prince troyen</string>
+			<string>ER</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Langue celtique</string>
+			<string>ER</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Extra terrestre</string>
+			<string> Fortifiées avec le temps</string>
+			<string>ET</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Extra terrestre</string>
+			<string> Écrivain</string>
+			<string>ET</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Ventilées</string>
+			<string>EPATEES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Plus que trois moins que quatre</string>
+			<string>EPATEES</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Durillon</string>
+			<string>EPATEES</string>
+			<string>CAL</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Confédéré</string>
+			<string>EPATEES</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Avant un titre universitaire</string>
+			<string>EPATEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Prince troyen</string>
+			<string>EPATEES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Étonnées</string>
+			<string> Langue celtique</string>
+			<string>EPATEES</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Fortifiées avec le temps</string>
+			<string>SESSILES</string>
+			<string>INVETEREES</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Écrivain</string>
+			<string>SESSILES</string>
+			<string>ARTISTE</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string></string>
+			<string>SESSILES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Ventilées</string>
+			<string>SESSILES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Plus que trois moins que quatre</string>
+			<string>SESSILES</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Durillon</string>
+			<string>SESSILES</string>
+			<string>CAL</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Confédéré</string>
+			<string>SESSILES</string>
+			<string>SUDISTE</string>
+		</array>
+		<array>
+			<string> Sans pédicule (pl)</string>
+			<string> Avant un titre universitaire</string>
+			<string>SESSILES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Langue celtique</string>
+			<string>E</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+</array>
+</plist>

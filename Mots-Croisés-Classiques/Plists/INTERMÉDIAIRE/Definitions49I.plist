@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Épuisants</string>
+			<string>Qui peut se produire</string>
+			<string>EREINTANTS</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Revenues</string>
+			<string>EREINTANTS</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Vagabondes</string>
+			<string>EREINTANTS</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Entourée d&apos;eau</string>
+			<string>EREINTANTS</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Empêchée de grandir</string>
+			<string>EREINTANTS</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Supporte la quille d&apos;un navire</string>
+			<string>EREINTANTS</string>
+			<string>TIN</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Baudets</string>
+			<string>EREINTANTS</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Négation</string>
+			<string>EREINTANTS</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string></string>
+			<string>EREINTANTS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Épuisants</string>
+			<string>Somme</string>
+			<string>EREINTANTS</string>
+			<string>SIESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Poète français</string>
+			<string>Qui peut se produire</string>
+			<string>VERLAINE</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Revenues</string>
+			<string>VERLAINE</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Vagabondes</string>
+			<string>VERLAINE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Entourée d&apos;eau</string>
+			<string>VERLAINE</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Empêchée de grandir</string>
+			<string>VERLAINE</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Supporte la quille d&apos;un navire</string>
+			<string>VERLAINE</string>
+			<string>TIN</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Baudets</string>
+			<string>VERLAINE</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string>Poète français</string>
+			<string>Négation</string>
+			<string>VERLAINE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Somme</string>
+			<string>I</string>
+			<string>SIESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Qui peut se produire</string>
+			<string>ETRENNE</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Revenues</string>
+			<string>ETRENNE</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Vagabondes</string>
+			<string>ETRENNE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Entourée d&apos;eau</string>
+			<string>ETRENNE</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Empêchée de grandir</string>
+			<string>ETRENNE</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Supporte la quille d&apos;un navire</string>
+			<string>ETRENNE</string>
+			<string>TIN</string>
+		</array>
+		<array>
+			<string>Utilise une première fois</string>
+			<string>Baudets</string>
+			<string>ETRENNE</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sud est</string>
+			<string>Sélénium</string>
+			<string>SE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Sud est</string>
+			<string>Somme</string>
+			<string>SE</string>
+			<string>SIESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Patriarche de la bible</string>
+			<string>Qui peut se produire</string>
+			<string>NOE</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Patriarche de la bible</string>
+			<string>Revenues</string>
+			<string>NOE</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Patriarche de la bible</string>
+			<string>Vagabondes</string>
+			<string>NOE</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Empêchée de grandir</string>
+			<string>I</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orne</string>
+			<string>Baudets</string>
+			<string>SEES</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orne</string>
+			<string>Va ça et  là</string>
+			<string>SEES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orne</string>
+			<string>Sélénium</string>
+			<string>SEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Commune de l&apos;Orne</string>
+			<string>Somme</string>
+			<string>SEES</string>
+			<string>SIESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dissimulés</string>
+			<string>Qui peut se produire</string>
+			<string>TUS</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Dissimulés</string>
+			<string>Revenues</string>
+			<string>TUS</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Dissimulés</string>
+			<string>Vagabondes</string>
+			<string>TUS</string>
+			<string>ERRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fer</string>
+			<string>Empêchée de grandir</string>
+			<string>FE</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Fer</string>
+			<string>Littoral</string>
+			<string>FE</string>
+			<string>ESTRAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Va ça et  là</string>
+			<string>R</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Somme</string>
+			<string>T</string>
+			<string>SIESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ancienne cité de Mésopotamie</string>
+			<string>Qui peut se produire</string>
+			<string>UR</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Ancienne cité de Mésopotamie</string>
+			<string>Revenues</string>
+			<string>UR</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string></string>
+			<string>LISEREE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string>Empêchée de grandir</string>
+			<string>LISEREE</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string>Littoral</string>
+			<string>LISEREE</string>
+			<string>ESTRAN</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string>Commune de France</string>
+			<string>LISEREE</string>
+			<string>ERSA</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string>Va ça et  là</string>
+			<string>LISEREE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string>Appât</string>
+			<string>LISEREE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Bordée</string>
+			<string>Somme</string>
+			<string>LISEREE</string>
+			<string>SIESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>École normale supérieure</string>
+			<string>Qui peut se produire</string>
+			<string>ENS</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>École normale supérieure</string>
+			<string>Revenues</string>
+			<string>ENS</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>École normale supérieure</string>
+			<string>Tamis</string>
+			<string>ENS</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Empêchée de grandir</string>
+			<string>ETRES</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Littoral</string>
+			<string>ETRES</string>
+			<string>ESTRAN</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Commune de France</string>
+			<string>ETRES</string>
+			<string>ERSA</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Va ça et  là</string>
+			<string>ETRES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string>Individus</string>
+			<string>Appât</string>
+			<string>ETRES</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Qui peut se produire</string>
+			<string>LEADERS</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Revenues</string>
+			<string>LEADERS</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Tamis</string>
+			<string>LEADERS</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Article contracté</string>
+			<string>LEADERS</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Empêchée de grandir</string>
+			<string>LEADERS</string>
+			<string>NANIFIEE</string>
+		</array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Littoral</string>
+			<string>LEADERS</string>
+			<string>ESTRAN</string>
+		</array>
+		<array>
+			<string>Vrais chefs</string>
+			<string>Commune de France</string>
+			<string>LEADERS</string>
+			<string>ERSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Césium</string>
+			<string>Appât</string>
+			<string>CS</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Césium</string>
+			<string>Pronom personnel</string>
+			<string>CS</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Désavantage</string>
+			<string>Qui peut se produire</string>
+			<string>LESE</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Désavantage</string>
+			<string>Revenues</string>
+			<string>LESE</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string>Désavantage</string>
+			<string>Tamis</string>
+			<string>LESE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string>Désavantage</string>
+			<string>Article contracté</string>
+			<string>LESE</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Littoral</string>
+			<string>AA</string>
+			<string>ESTRAN</string>
+		</array>
+		<array>
+			<string>Ne boit plus</string>
+			<string>Commune de France</string>
+			<string>AA</string>
+			<string>ERSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Helium</string>
+			<string>Appât</string>
+			<string>HE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Helium</string>
+			<string>Pronom personnel</string>
+			<string>HE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Qui peut se produire</string>
+			<string>ES</string>
+			<string>EVENTUELLE</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Revenues</string>
+			<string>ES</string>
+			<string>RETOURNEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Monnaie du Japon</string>
+			<string>Article contracté</string>
+			<string>SEN</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string>Monnaie du Japon</string>
+			<string></string>
+			<string>SEN</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Monnaie du Japon</string>
+			<string>Littoral</string>
+			<string>SEN</string>
+			<string>ESTRAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string></string>
+			<string>SE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Pronom personnel</string>
+			<string>Appât</string>
+			<string>SE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

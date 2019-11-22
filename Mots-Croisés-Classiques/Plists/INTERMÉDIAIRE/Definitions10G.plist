@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Circonstances</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>CONDITIONS</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> N&apos;est pas rédigée</string>
+			<string>CONDITIONS</string>
+			<string>ORALE</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Noyau de la terre</string>
+			<string>CONDITIONS</string>
+			<string>NIFE</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Article partitif</string>
+			<string>CONDITIONS</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>CONDITIONS</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string></string>
+			<string>CONDITIONS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Armée Irlandaise</string>
+			<string>CONDITIONS</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Instrument voisin du luth</string>
+			<string>CONDITIONS</string>
+			<string>OUD</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>CONDITIONS</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Circonstances</string>
+			<string> Possessif.</string>
+			<string>CONDITIONS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>ARIEN</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string> N&apos;est pas rédigée</string>
+			<string>ARIEN</string>
+			<string>ORALE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string> Noyau de la terre</string>
+			<string>ARIEN</string>
+			<string>NIFE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string> Article partitif</string>
+			<string>ARIEN</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Partisan de la doctrine d&apos;Arius</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>ARIEN</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vague</string>
+			<string> Armée Irlandaise</string>
+			<string>RUEE</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Vague</string>
+			<string> Instrument voisin du luth</string>
+			<string>RUEE</string>
+			<string>OUD</string>
+		</array>
+		<array>
+			<string> Vague</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>RUEE</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Vague</string>
+			<string> Possessif.</string>
+			<string>RUEE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ivre</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>PAF</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Ivre</string>
+			<string> N&apos;est pas rédigée</string>
+			<string>PAF</string>
+			<string>ORALE</string>
+		</array>
+		<array>
+			<string> Ivre</string>
+			<string> Noyau de la terre</string>
+			<string>PAF</string>
+			<string>NIFE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Grands barbecues</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>ASADOS</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Grands barbecues</string>
+			<string> Remarquable</string>
+			<string>ASADOS</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string> Grands barbecues</string>
+			<string> Armée Irlandaise</string>
+			<string>ASADOS</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string> Grands barbecues</string>
+			<string> Instrument voisin du luth</string>
+			<string>ASADOS</string>
+			<string>OUD</string>
+		</array>
+		<array>
+			<string> Grands barbecues</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>ASADOS</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Grands barbecues</string>
+			<string> Possessif.</string>
+			<string>ASADOS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Relative à l&apos;intestin</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>ILEALE</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Relative à l&apos;intestin</string>
+			<string> N&apos;est pas rédigée</string>
+			<string>ILEALE</string>
+			<string>ORALE</string>
+		</array>
+		<array>
+			<string> Relative à l&apos;intestin</string>
+			<string> Noyau de la terre</string>
+			<string>ILEALE</string>
+			<string>NIFE</string>
+		</array>
+		<array>
+			<string> Relative à l&apos;intestin</string>
+			<string> Langage de programmation</string>
+			<string>ILEALE</string>
+			<string>APL</string>
+		</array>
+		<array>
+			<string> Relative à l&apos;intestin</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>ILEALE</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Relative à l&apos;intestin</string>
+			<string> Remarquable</string>
+			<string>ILEALE</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>P</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>LE</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> N&apos;est pas rédigée</string>
+			<string>LE</string>
+			<string>ORALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string> Langage de programmation</string>
+			<string>PINIERE</string>
+			<string>APL</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>PINIERE</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string> Remarquable</string>
+			<string>PINIERE</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string></string>
+			<string>PINIERE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string> Indique la manière</string>
+			<string>PINIERE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>PINIERE</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Pinède</string>
+			<string> Âme</string>
+			<string>PINIERE</string>
+			<string>ESPRIT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Fin vaisseau sanguin</string>
+			<string>L</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Partiront</string>
+			<string>ILES</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Langage de programmation</string>
+			<string>ILES</string>
+			<string>APL</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>ILES</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Remarquable</string>
+			<string>ILES</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Indique la manière</string>
+			<string>NES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>NES</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Âme</string>
+			<string>NES</string>
+			<string>ESPRIT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>AAR</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> lopins de terre</string>
+			<string>AAR</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Rivière de Suisse</string>
+			<string> Partiront</string>
+			<string>AAR</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pianiste français</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>NAT</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Pianiste français</string>
+			<string> Remarquable</string>
+			<string>NAT</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string> Pianiste français</string>
+			<string></string>
+			<string>NAT</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Neptunium</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>NP</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Neptunium</string>
+			<string> Âme</string>
+			<string>NP</string>
+			<string>ESPRIT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Cétones de l&apos;iris</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>IRONES</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Cétones de l&apos;iris</string>
+			<string> lopins de terre</string>
+			<string>IRONES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Cétones de l&apos;iris</string>
+			<string> Partiront</string>
+			<string>IRONES</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Cétones de l&apos;iris</string>
+			<string> Arrivée</string>
+			<string>IRONES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Cétones de l&apos;iris</string>
+			<string> Ne peut être transmis à un autre</string>
+			<string>IRONES</string>
+			<string>INALIENE</string>
+		</array>
+		<array>
+			<string> Cétones de l&apos;iris</string>
+			<string> Remarquable</string>
+			<string>IRONES</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Egée en est une</string>
+			<string> C&apos;est du pain</string>
+			<string>MER</string>
+			<string>MIE</string>
+		</array>
+		<array>
+			<string> Egée en est une</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>MER</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Egée en est une</string>
+			<string> Âme</string>
+			<string>MER</string>
+			<string>ESPRIT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>RENE</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> lopins de terre</string>
+			<string>RENE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Partiront</string>
+			<string>RENE</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Arrivée</string>
+			<string>RENE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Surpris</string>
+			<string> Remarquable</string>
+			<string>SAISI</string>
+			<string>SENSASS</string>
+		</array>
+		<array>
+			<string> Surpris</string>
+			<string> Champion</string>
+			<string>SAISI</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Surpris</string>
+			<string> C&apos;est du pain</string>
+			<string>SAISI</string>
+			<string>MIE</string>
+		</array>
+		<array>
+			<string> Surpris</string>
+			<string> Caoutchoucs synthétiques</string>
+			<string>SAISI</string>
+			<string>NEOPRENES</string>
+		</array>
+		<array>
+			<string> Surpris</string>
+			<string> Âme</string>
+			<string>SAISI</string>
+			<string>ESPRIT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Estoniens</string>
+			<string> Fin vaisseau sanguin</string>
+			<string>ESTES</string>
+			<string>CAPILLAIRE</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> lopins de terre</string>
+			<string>ESTES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Partiront</string>
+			<string>ESTES</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Arrivée</string>
+			<string>ESTES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string></string>
+			<string>ESTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Champion</string>
+			<string>SE</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> C&apos;est du pain</string>
+			<string>SE</string>
+			<string>MIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Âme</string>
+			<string>T</string>
+			<string>ESPRIT</string>
+		</array>
+	</array>
+</array>
+</plist>

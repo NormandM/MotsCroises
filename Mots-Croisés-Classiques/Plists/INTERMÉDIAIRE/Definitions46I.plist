@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>HETEROGENE</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Détestent</string>
+			<string>HETEROGENE</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Avec les poules</string>
+			<string>HETEROGENE</string>
+			<string>TOT</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>École normale supérieure</string>
+			<string>HETEROGENE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Note</string>
+			<string>HETEROGENE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Axé</string>
+			<string>HETEROGENE</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Rare l&apos;été</string>
+			<string>HETEROGENE</string>
+			<string>GEL</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Époques</string>
+			<string>HETEROGENE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Tressées</string>
+			<string>HETEROGENE</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string>Composé d&apos;éléments différents</string>
+			<string>Existes</string>
+			<string>HETEROGENE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Exempteras</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>EXONERERAS</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Détestent</string>
+			<string>EXONERERAS</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Avec les poules</string>
+			<string>EXONERERAS</string>
+			<string>TOT</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>École normale supérieure</string>
+			<string>EXONERERAS</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Note</string>
+			<string>EXONERERAS</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Axé</string>
+			<string>EXONERERAS</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Rare l&apos;été</string>
+			<string>EXONERERAS</string>
+			<string>GEL</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Époques</string>
+			<string>EXONERERAS</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Tressées</string>
+			<string>EXONERERAS</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string>Exempteras</string>
+			<string>Existes</string>
+			<string>EXONERERAS</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>On les retrouvent sur un menu</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>METS</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>On les retrouvent sur un menu</string>
+			<string>Détestent</string>
+			<string>METS</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string>On les retrouvent sur un menu</string>
+			<string>Avec les poules</string>
+			<string>METS</string>
+			<string>TOT</string>
+		</array>
+		<array>
+			<string>On les retrouvent sur un menu</string>
+			<string>École normale supérieure</string>
+			<string>METS</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Hameau des Antilles</string>
+			<string>Axé</string>
+			<string>ILET</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string>Hameau des Antilles</string>
+			<string>Rare l&apos;été</string>
+			<string>ILET</string>
+			<string>GEL</string>
+		</array>
+		<array>
+			<string>Hameau des Antilles</string>
+			<string>Époques</string>
+			<string>ILET</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Hameau des Antilles</string>
+			<string>Tressées</string>
+			<string>ILET</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ancien oui</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>OC</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Ancien oui</string>
+			<string>Détestent</string>
+			<string>OC</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string>Convenables</string>
+			<string>SE</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string>Axé</string>
+			<string>SE</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une femme irréprochable</string>
+			<string>Époques</string>
+			<string>STE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Une femme irréprochable</string>
+			<string>Tressées</string>
+			<string>STE</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string>Une femme irréprochable</string>
+			<string>Jamais le dernier mot</string>
+			<string>STE</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Actuel</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>PRESENT</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Actuel</string>
+			<string>Détestent</string>
+			<string>PRESENT</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string>Actuel</string>
+			<string>Obtenus</string>
+			<string>PRESENT</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string>Actuel</string>
+			<string></string>
+			<string>PRESENT</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Actuel</string>
+			<string>Convenables</string>
+			<string>PRESENT</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string>Actuel</string>
+			<string>Axé</string>
+			<string>PRESENT</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string>Actuel</string>
+			<string>Faire un essai</string>
+			<string>PRESENT</string>
+			<string>TESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Tressées</string>
+			<string>ET</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Jamais le dernier mot</string>
+			<string>ET</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Marque l&apos;hésitation</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>HEU</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Marque l&apos;hésitation</string>
+			<string>Détestent</string>
+			<string>HEU</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string>Marque l&apos;hésitation</string>
+			<string>Obtenus</string>
+			<string>HEU</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Singe-araignée</string>
+			<string>Convenables</string>
+			<string>ATELE</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string>Singe-araignée</string>
+			<string>Axé</string>
+			<string>ATELE</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string>Singe-araignée</string>
+			<string>Faire un essai</string>
+			<string>ATELE</string>
+			<string>TESTER</string>
+		</array>
+		<array>
+			<string>Singe-araignée</string>
+			<string>Longues périodes de temps</string>
+			<string>ATELE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Singe-araignée</string>
+			<string>Tressées</string>
+			<string>ATELE</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Absurdes</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>INSANES</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Absurdes</string>
+			<string>Détestent</string>
+			<string>INSANES</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string>Absurdes</string>
+			<string>Obtenus</string>
+			<string>INSANES</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string>Absurdes</string>
+			<string>Massif des Alpes suisses</string>
+			<string>INSANES</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string>Absurdes</string>
+			<string>Convenables</string>
+			<string>INSANES</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string>Absurdes</string>
+			<string>Axé</string>
+			<string>INSANES</string>
+			<string>ORIENTE</string>
+		</array>
+		<array>
+			<string>Absurdes</string>
+			<string>Faire un essai</string>
+			<string>INSANES</string>
+			<string>TESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Tressées</string>
+			<string>SR</string>
+			<string>NATTEES</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Tangible</string>
+			<string>SR</string>
+			<string>REEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lieutenant</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>LT</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Lieutenant</string>
+			<string>Détestent</string>
+			<string>LT</string>
+			<string>EXECRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Astate</string>
+			<string>Massif des Alpes suisses</string>
+			<string>AT</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string>Astate</string>
+			<string>Convenables</string>
+			<string>AT</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>N&apos;est pas à moi</string>
+			<string>Faire un essai</string>
+			<string>TA</string>
+			<string>TESTER</string>
+		</array>
+		<array>
+			<string>N&apos;est pas à moi</string>
+			<string>Répète sans comprendre</string>
+			<string>TA</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Tangible</string>
+			<string>E</string>
+			<string>REEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>I</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Plus que trois moins que quatre</string>
+			<string>PRESERVE</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Massif des Alpes suisses</string>
+			<string>PRESERVE</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Convenables</string>
+			<string>PRESERVE</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Sélénium</string>
+			<string>PRESERVE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Faire un essai</string>
+			<string>PRESERVE</string>
+			<string>TESTER</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Répète sans comprendre</string>
+			<string>PRESERVE</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Six</string>
+			<string>PRESERVE</string>
+			<string>VI</string>
+		</array>
+		<array>
+			<string>Met à l&apos;abri</string>
+			<string>Tangible</string>
+			<string>PRESERVE</string>
+			<string>REEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mèche</string>
+			<string>Maladie qui peut faire saigner</string>
+			<string>EPI</string>
+			<string>HEMOPHILIE</string>
+		</array>
+		<array>
+			<string>Mèche</string>
+			<string></string>
+			<string>EPI</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Mèche</string>
+			<string>Plus que trois moins que quatre</string>
+			<string>EPI</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Harem</string>
+			<string>Convenables</string>
+			<string>SERAIL</string>
+			<string>SEANTES</string>
+		</array>
+		<array>
+			<string>Harem</string>
+			<string>Sélénium</string>
+			<string>SERAIL</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Harem</string>
+			<string>Faire un essai</string>
+			<string>SERAIL</string>
+			<string>TESTER</string>
+		</array>
+		<array>
+			<string>Harem</string>
+			<string>Répète sans comprendre</string>
+			<string>SERAIL</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Harem</string>
+			<string>Six</string>
+			<string>SERAIL</string>
+			<string>VI</string>
+		</array>
+		<array>
+			<string>Harem</string>
+			<string>Tangible</string>
+			<string>SERAIL</string>
+			<string>REEL</string>
+		</array>
+	</array>
+</array>
+</plist>

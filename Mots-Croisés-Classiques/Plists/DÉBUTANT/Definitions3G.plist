@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Avantageux</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>FAVORABLES</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Relative à l&apos;âne</string>
+			<string>FAVORABLES</string>
+			<string>ASINE</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> habilles</string>
+			<string>FAVORABLES</string>
+			<string>VETS</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string></string>
+			<string>FAVORABLES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Note</string>
+			<string>FAVORABLES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Commune de France</string>
+			<string>FAVORABLES</string>
+			<string>ANET</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Belle-fille</string>
+			<string>FAVORABLES</string>
+			<string>BRU</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Désavantagée</string>
+			<string>FAVORABLES</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Indique l&apos;origine</string>
+			<string>FAVORABLES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Avantageux</string>
+			<string> Se font avec du lait caillé</string>
+			<string>FAVORABLES</string>
+			<string>SERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> N&apos;hésite pas</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>OSE</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> N&apos;hésite pas</string>
+			<string> Relative à l&apos;âne</string>
+			<string>OSE</string>
+			<string>ASINE</string>
+		</array>
+		<array>
+			<string> N&apos;hésite pas</string>
+			<string> habilles</string>
+			<string>OSE</string>
+			<string>VETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Note</string>
+			<string>ENRENE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Commune de France</string>
+			<string>ENRENE</string>
+			<string>ANET</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Belle-fille</string>
+			<string>ENRENE</string>
+			<string>BRU</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Désavantagée</string>
+			<string>ENRENE</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Indique l&apos;origine</string>
+			<string>ENRENE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Se fait aux chevaux</string>
+			<string> Se font avec du lait caillé</string>
+			<string>ENRENE</string>
+			<string>SERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tradition</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>RITE</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Tradition</string>
+			<string> Relative à l&apos;âne</string>
+			<string>RITE</string>
+			<string>ASINE</string>
+		</array>
+		<array>
+			<string> Tradition</string>
+			<string> habilles</string>
+			<string>RITE</string>
+			<string>VETS</string>
+		</array>
+		<array>
+			<string> Tradition</string>
+			<string> Possédées</string>
+			<string>RITE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Floués</string>
+			<string> Commune de France</string>
+			<string>EUS</string>
+			<string>ANET</string>
+		</array>
+		<array>
+			<string> Floués</string>
+			<string> Belle-fille</string>
+			<string>EUS</string>
+			<string>BRU</string>
+		</array>
+		<array>
+			<string> Floués</string>
+			<string> Désavantagée</string>
+			<string>EUS</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Se font avec du lait caillé</string>
+			<string>R</string>
+			<string>SERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Résulte</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>ENSUIT</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string>Résulte</string>
+			<string> Relative à l&apos;âne</string>
+			<string>ENSUIT</string>
+			<string>ASINE</string>
+		</array>
+		<array>
+			<string>Résulte</string>
+			<string> habilles</string>
+			<string>ENSUIT</string>
+			<string>VETS</string>
+		</array>
+		<array>
+			<string>Résulte</string>
+			<string> Possédées</string>
+			<string>ENSUIT</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Résulte</string>
+			<string> Plantes à fleurs jaunes</string>
+			<string>ENSUIT</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string>Résulte</string>
+			<string> Commune de France</string>
+			<string>ENSUIT</string>
+			<string>ANET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Âge</string>
+			<string> Désavantagée</string>
+			<string>ERE</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Âge</string>
+			<string> Plantée à nouveau.</string>
+			<string>ERE</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string> Âge</string>
+			<string> Se font avec du lait caillé</string>
+			<string>ERE</string>
+			<string>SERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>SE</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Relative à l&apos;âne</string>
+			<string>SE</string>
+			<string>ASINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Possédées</string>
+			<string>EV</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Plantes à fleurs jaunes</string>
+			<string>EV</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Notre Seigneur</string>
+			<string>NEES</string>
+			<string>NS</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Désavantagée</string>
+			<string>NEES</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Plantée à nouveau.</string>
+			<string>NEES</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Se font avec du lait caillé</string>
+			<string>NEES</string>
+			<string>SERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>T</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> défalquée</string>
+			<string>OSEES</string>
+			<string>OTEE</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Possédées</string>
+			<string>OSEES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Plantes à fleurs jaunes</string>
+			<string>OSEES</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Écossais</string>
+			<string>OSEES</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Notre Seigneur</string>
+			<string>OSEES</string>
+			<string>NS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plantée à nouveau.</string>
+			<string>S</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Orient</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>EST</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Es utile</string>
+			<string>EST</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> défalquée</string>
+			<string>EST</string>
+			<string>OTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Plantes à fleurs jaunes</string>
+			<string>SR</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Écossais</string>
+			<string>SR</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Située</string>
+			<string>SET</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Plantée à nouveau.</string>
+			<string>SET</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> On y met une balle</string>
+			<string>SET</string>
+			<string>TEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>REER</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> Es utile</string>
+			<string>REER</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string> défalquée</string>
+			<string>REER</string>
+			<string>OTEE</string>
+		</array>
+		<array>
+			<string> Crier comme un cerf</string>
+			<string></string>
+			<string>REER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Maladie du sabot des équidés</string>
+			<string> Écossais</string>
+			<string>SEIME</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Maladie du sabot des équidés</string>
+			<string> Au centre de la pensée</string>
+			<string>SEIME</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Maladie du sabot des équidés</string>
+			<string> Située</string>
+			<string>SEIME</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Maladie du sabot des équidés</string>
+			<string> Plantée à nouveau.</string>
+			<string>SEIME</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string> Maladie du sabot des équidés</string>
+			<string> On y met une balle</string>
+			<string>SEIME</string>
+			<string>TEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fait voir rouge</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>IRE</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Fait voir rouge</string>
+			<string> Es utile</string>
+			<string>IRE</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string> Fait voir rouge</string>
+			<string> défalquée</string>
+			<string>IRE</string>
+			<string>OTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>SENSEE</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Écossais</string>
+			<string>SENSEE</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Au centre de la pensée</string>
+			<string>SENSEE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Située</string>
+			<string>SENSEE</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Plantée à nouveau.</string>
+			<string>SENSEE</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> On y met une balle</string>
+			<string>SENSEE</string>
+			<string>TEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Exploitation et aménagement des forêts</string>
+			<string>ES</string>
+			<string>FORESTERIE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Es utile</string>
+			<string>ES</string>
+			<string>SERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string></string>
+			<string>SASSEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>SASSEES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string> Écossais</string>
+			<string>SASSEES</string>
+			<string>ERSES</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string> Au centre de la pensée</string>
+			<string>SASSEES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string> Située</string>
+			<string>SASSEES</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string> Plantée à nouveau.</string>
+			<string>SASSEES</string>
+			<string>RESEMEE</string>
+		</array>
+		<array>
+			<string> Tamisées</string>
+			<string> On y met une balle</string>
+			<string>SASSEES</string>
+			<string>TEES</string>
+		</array>
+	</array>
+</array>
+</plist>

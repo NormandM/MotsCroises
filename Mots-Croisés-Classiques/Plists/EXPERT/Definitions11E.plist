@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>ARTICULATION</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Piège</string>
+			<string>ARTICULATION</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Gardes</string>
+			<string>ARTICULATION</string>
+			<string>TIENS</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> À la mode</string>
+			<string>ARTICULATION</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string></string>
+			<string>ARTICULATION</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Aurochs</string>
+			<string>ARTICULATION</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string>  Général sudiste</string>
+			<string>ARTICULATION</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Astate</string>
+			<string>ARTICULATION</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Peut de gens l&apos;on quitté</string>
+			<string>ARTICULATION</string>
+			<string>TERRE</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Colères</string>
+			<string>ARTICULATION</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Lestes</string>
+			<string>ARTICULATION</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> En vieillissant elle peut être douloureuse</string>
+			<string> Amiral britannique</string>
+			<string>ARTICULATION</string>
+			<string>NELSON</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Futile</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>VAIN</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Futile</string>
+			<string> Piège</string>
+			<string>VAIN</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string> Futile</string>
+			<string> Gardes</string>
+			<string>VAIN</string>
+			<string>TIENS</string>
+		</array>
+		<array>
+			<string> Futile</string>
+			<string> À la mode</string>
+			<string>VAIN</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string> Aurochs</string>
+			<string>RETERSE</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string>  Général sudiste</string>
+			<string>RETERSE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string> Astate</string>
+			<string>RETERSE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string> Peut de gens l&apos;on quitté</string>
+			<string>RETERSE</string>
+			<string>TERRE</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string> Colères</string>
+			<string>RETERSE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string> Lestes</string>
+			<string>RETERSE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Laboure une quatrième fois</string>
+			<string> Amiral britannique</string>
+			<string>RETERSE</string>
+			<string>NELSON</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Attendu avec impatience</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>ETE</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Attendu avec impatience</string>
+			<string> Piège</string>
+			<string>ETE</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string> Attendu avec impatience</string>
+			<string> Gardes</string>
+			<string>ETE</string>
+			<string>TIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Prépare de très long voyage</string>
+			<string>NEE</string>
+			<string>NASA</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Aurochs</string>
+			<string>NEE</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string>  Général sudiste</string>
+			<string>NEE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Peut de gens l&apos;on quitté</string>
+			<string>REEL</string>
+			<string>TERRE</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Colères</string>
+			<string>REEL</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Lestes</string>
+			<string>REEL</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Vrai</string>
+			<string> Amiral britannique</string>
+			<string>REEL</string>
+			<string>NELSON</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Guerriers japonais</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>NINJAS</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Guerriers japonais</string>
+			<string> Piège</string>
+			<string>NINJAS</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string> Guerriers japonais</string>
+			<string> Gardes</string>
+			<string>NINJAS</string>
+			<string>TIENS</string>
+		</array>
+		<array>
+			<string> Guerriers japonais</string>
+			<string></string>
+			<string>NINJAS</string>
+			<string>J</string>
+		</array>
+		<array>
+			<string> Guerriers japonais</string>
+			<string> Prépare de très long voyage</string>
+			<string>NINJAS</string>
+			<string>NASA</string>
+		</array>
+		<array>
+			<string> Guerriers japonais</string>
+			<string> Aurochs</string>
+			<string>NINJAS</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écossais</string>
+			<string> Prénom </string>
+			<string>ERSES</string>
+			<string>ERNEST</string>
+		</array>
+		<array>
+			<string> Écossais</string>
+			<string> Peut de gens l&apos;on quitté</string>
+			<string>ERSES</string>
+			<string>TERRE</string>
+		</array>
+		<array>
+			<string> Écossais</string>
+			<string> Colères</string>
+			<string>ERSES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Écossais</string>
+			<string> Lestes</string>
+			<string>ERSES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Écossais</string>
+			<string> Amiral britannique</string>
+			<string>ERSES</string>
+			<string>NELSON</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Règles.</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>TES</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Piège</string>
+			<string>TES</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Gardes</string>
+			<string>TES</string>
+			<string>TIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Prépare de très long voyage</string>
+			<string>S</string>
+			<string>NASA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Artère</string>
+			<string>ARE</string>
+			<string>AORTE</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Prénom </string>
+			<string>ARE</string>
+			<string>ERNEST</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Peut de gens l&apos;on quitté</string>
+			<string>ARE</string>
+			<string>TERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sud-Ouest</string>
+			<string> Lestes</string>
+			<string>SO</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string>Sud-Ouest</string>
+			<string> Amiral britannique</string>
+			<string>SO</string>
+			<string>NELSON</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>UR</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> Piège</string>
+			<string>UR</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Frère de Moïse</string>
+			<string> Résine</string>
+			<string>AARON</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Frère de Moïse</string>
+			<string> Prépare de très long voyage</string>
+			<string>AARON</string>
+			<string>NASA</string>
+		</array>
+		<array>
+			<string> Frère de Moïse</string>
+			<string> Circulent en Iran</string>
+			<string>AARON</string>
+			<string>RIALS</string>
+		</array>
+		<array>
+			<string> Frère de Moïse</string>
+			<string> Artère</string>
+			<string>AARON</string>
+			<string>AORTE</string>
+		</array>
+		<array>
+			<string> Frère de Moïse</string>
+			<string> Prénom </string>
+			<string>AARON</string>
+			<string>ERNEST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Les américains en raffolent</string>
+			<string>K</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Amiral britannique</string>
+			<string>N</string>
+			<string>NELSON</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Poulies</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>REAS</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Poulies</string>
+			<string> Piège</string>
+			<string>REAS</string>
+			<string>RATIERE</string>
+		</array>
+		<array>
+			<string> Poulies</string>
+			<string> Étoiles</string>
+			<string>REAS</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string> Poulies</string>
+			<string> Résine</string>
+			<string>REAS</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Père de l&apos;église</string>
+			<string> Circulent en Iran</string>
+			<string>IRENEE</string>
+			<string>RIALS</string>
+		</array>
+		<array>
+			<string> Père de l&apos;église</string>
+			<string> Artère</string>
+			<string>IRENEE</string>
+			<string>AORTE</string>
+		</array>
+		<array>
+			<string> Père de l&apos;église</string>
+			<string> Prénom </string>
+			<string>IRENEE</string>
+			<string>ERNEST</string>
+		</array>
+		<array>
+			<string> Père de l&apos;église</string>
+			<string></string>
+			<string>IRENEE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Père de l&apos;église</string>
+			<string> Les américains en raffolent</string>
+			<string>IRENEE</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string> Père de l&apos;église</string>
+			<string> Ville d&apos;Angleterre</string>
+			<string>IRENEE</string>
+			<string>ESHER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>I</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Étoiles</string>
+			<string>SENATS</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Résine</string>
+			<string>SENATS</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> État d&apos;Océanie</string>
+			<string>SENATS</string>
+			<string>NAURU</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Circulent en Iran</string>
+			<string>SENATS</string>
+			<string>RIALS</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Artère</string>
+			<string>SENATS</string>
+			<string>AORTE</string>
+		</array>
+		<array>
+			<string> Assemblées politiques</string>
+			<string> Prénom </string>
+			<string>SENATS</string>
+			<string>ERNEST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Demi mouche</string>
+			<string> Les américains en raffolent</string>
+			<string>TSE</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string> Demi mouche</string>
+			<string> Ville d&apos;Angleterre</string>
+			<string>TSE</string>
+			<string>ESHER</string>
+		</array>
+		<array>
+			<string> Demi mouche</string>
+			<string></string>
+			<string>TSE</string>
+			<string>E</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Levant</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>EST</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Fromage</string>
+			<string>EST</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Étoiles</string>
+			<string>EST</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> État d&apos;Océanie</string>
+			<string>ALETSCH</string>
+			<string>NAURU</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> Circulent en Iran</string>
+			<string>ALETSCH</string>
+			<string>RIALS</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> Artère</string>
+			<string>ALETSCH</string>
+			<string>AORTE</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> Prénom </string>
+			<string>ALETSCH</string>
+			<string>ERNEST</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> Une femme irréprochable</string>
+			<string>ALETSCH</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> Les américains en raffolent</string>
+			<string>ALETSCH</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string> Le plus grand glacier d&apos;Europe</string>
+			<string> Ville d&apos;Angleterre</string>
+			<string>ALETSCH</string>
+			<string>ESHER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>REELUS</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string> Fromage</string>
+			<string>REELUS</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string> Étoiles</string>
+			<string>REELUS</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string> Article</string>
+			<string>REELUS</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string> État d&apos;Océanie</string>
+			<string>REELUS</string>
+			<string>NAURU</string>
+		</array>
+		<array>
+			<string> Ils ont sans doute fait du bon travail</string>
+			<string> Circulent en Iran</string>
+			<string>REELUS</string>
+			<string>RIALS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cultivés pour ses feuilles</string>
+			<string> Une femme irréprochable</string>
+			<string>THES</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Cultivés pour ses feuilles</string>
+			<string> Les américains en raffolent</string>
+			<string>THES</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string> Cultivés pour ses feuilles</string>
+			<string> Ville d&apos;Angleterre</string>
+			<string>THES</string>
+			<string>ESHER</string>
+		</array>
+		<array>
+			<string> Cultivés pour ses feuilles</string>
+			<string> Direction</string>
+			<string>THES</string>
+			<string>SSO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vagabonder</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>ERRER</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Fromage</string>
+			<string>ERRER</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Étoiles</string>
+			<string>ERRER</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> Article</string>
+			<string>ERRER</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Vagabonder</string>
+			<string> État d&apos;Océanie</string>
+			<string>ERRER</string>
+			<string>NAURU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Joyeuses compagnies</string>
+			<string> Note</string>
+			<string>RIEURS</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Joyeuses compagnies</string>
+			<string> C&apos;est-à-dire</string>
+			<string>RIEURS</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string> Joyeuses compagnies</string>
+			<string> Une femme irréprochable</string>
+			<string>RIEURS</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Joyeuses compagnies</string>
+			<string> Les américains en raffolent</string>
+			<string>RIEURS</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string> Joyeuses compagnies</string>
+			<string> Ville d&apos;Angleterre</string>
+			<string>RIEURS</string>
+			<string>ESHER</string>
+		</array>
+		<array>
+			<string> Joyeuses compagnies</string>
+			<string> Direction</string>
+			<string>RIEURS</string>
+			<string>SSO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> N&apos;aiment pas rester à la maison</string>
+			<string>SES</string>
+			<string>AVENTURIERES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Fromage</string>
+			<string>SES</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Étoiles</string>
+			<string>SES</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fait partie de l&apos;oeil</string>
+			<string> État d&apos;Océanie</string>
+			<string>UVEE</string>
+			<string>NAURU</string>
+		</array>
+		<array>
+			<string> Fait partie de l&apos;oeil</string>
+			<string></string>
+			<string>UVEE</string>
+			<string>V</string>
+		</array>
+		<array>
+			<string> Fait partie de l&apos;oeil</string>
+			<string> Note</string>
+			<string>UVEE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Fait partie de l&apos;oeil</string>
+			<string> C&apos;est-à-dire</string>
+			<string>UVEE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Les américains en raffolent</string>
+			<string>P</string>
+			<string>KETCHUP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Direction</string>
+			<string>O</string>
+			<string>SSO</string>
+		</array>
+	</array>
+</array>
+</plist>

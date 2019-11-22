@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Fanatique</string>
+			<string>IMPARFAITS</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Difformes</string>
+			<string>IMPARFAITS</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Plus de trois moins de quatre</string>
+			<string>IMPARFAITS</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Un tour complet</string>
+			<string>IMPARFAITS</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Monnaie du Brésil</string>
+			<string>IMPARFAITS</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string></string>
+			<string>IMPARFAITS</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Tue</string>
+			<string>IMPARFAITS</string>
+			<string>ABAT</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Le troisième</string>
+			<string>IMPARFAITS</string>
+			<string>IL</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Coupelles</string>
+			<string>IMPARFAITS</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string>Peuvent être améliorés</string>
+			<string>Connue</string>
+			<string>IMPARFAITS</string>
+			<string>SUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Une petite dame</string>
+			<string>Fanatique</string>
+			<string>NAINE</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Une petite dame</string>
+			<string>Difformes</string>
+			<string>NAINE</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string>Une petite dame</string>
+			<string>Plus de trois moins de quatre</string>
+			<string>NAINE</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Une petite dame</string>
+			<string>Un tour complet</string>
+			<string>NAINE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Une petite dame</string>
+			<string>Monnaie du Brésil</string>
+			<string>NAINE</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Tue</string>
+			<string>BLEU</string>
+			<string>ABAT</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Le troisième</string>
+			<string>BLEU</string>
+			<string>IL</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Coupelles</string>
+			<string>BLEU</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Connue</string>
+			<string>BLEU</string>
+			<string>SUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Thallium</string>
+			<string>Fanatique</string>
+			<string>TL</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Difformes</string>
+			<string>TL</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Recueil de bons mots</string>
+			<string>Monnaie du Brésil</string>
+			<string>ANA</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>Recueil de bons mots</string>
+			<string>Vieux non</string>
+			<string>ANA</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string>Recueil de bons mots</string>
+			<string>Tue</string>
+			<string>ANA</string>
+			<string>ABAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Double règle</string>
+			<string>Coupelles</string>
+			<string>TE</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string>Double règle</string>
+			<string>Connue</string>
+			<string>TE</string>
+			<string>SUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Désuets</string>
+			<string>Fanatique</string>
+			<string>OBSOLETES</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Difformes</string>
+			<string>OBSOLETES</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string></string>
+			<string>OBSOLETES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Aie</string>
+			<string>OBSOLETES</string>
+			<string>OUILLE</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Monnaie du Brésil</string>
+			<string>OBSOLETES</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Vieux non</string>
+			<string>OBSOLETES</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Tue</string>
+			<string>OBSOLETES</string>
+			<string>ABAT</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Difficile à peigner</string>
+			<string>OBSOLETES</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Désuets</string>
+			<string>Coupelles</string>
+			<string>OBSOLETES</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas ici</string>
+			<string>Fanatique</string>
+			<string>LA</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Pas ici</string>
+			<string>Difformes</string>
+			<string>LA</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Aie</string>
+			<string>U</string>
+			<string>OUILLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Vieux non</string>
+			<string>N</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Difficile à peigner</string>
+			<string>P</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Un bon cognac</string>
+			<string>V</string>
+			<string>VSOP</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Fanatique</string>
+			<string>ETEIGNOIRS</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Difformes</string>
+			<string>ETEIGNOIRS</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string></string>
+			<string>ETEIGNOIRS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Aie</string>
+			<string>ETEIGNOIRS</string>
+			<string>OUILLE</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Peu</string>
+			<string>ETEIGNOIRS</string>
+			<string>GUERE</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Vieux non</string>
+			<string>ETEIGNOIRS</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Enlevées</string>
+			<string>ETEIGNOIRS</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Difficile à peigner</string>
+			<string>ETEIGNOIRS</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Rigolé</string>
+			<string>ETEIGNOIRS</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Rabat-joies</string>
+			<string>Un bon cognac</string>
+			<string>ETEIGNOIRS</string>
+			<string>VSOP</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Gloussé</string>
+			<string>Fanatique</string>
+			<string>RI</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Gloussé</string>
+			<string>Difformes</string>
+			<string>RI</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Brille</string>
+			<string>Aie</string>
+			<string>LUIT</string>
+			<string>OUILLE</string>
+		</array>
+		<array>
+			<string>Brille</string>
+			<string>Peu</string>
+			<string>LUIT</string>
+			<string>GUERE</string>
+		</array>
+		<array>
+			<string>Brille</string>
+			<string>Vieux non</string>
+			<string>LUIT</string>
+			<string>NENNI</string>
+		</array>
+		<array>
+			<string>Brille</string>
+			<string>Enlevées</string>
+			<string>LUIT</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>De prêtresse à vache</string>
+			<string>Rigolé</string>
+			<string>IO</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>De prêtresse à vache</string>
+			<string>Un bon cognac</string>
+			<string>IO</string>
+			<string>VSOP</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Refuge</string>
+			<string>Fanatique</string>
+			<string>ASILE</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Difformes</string>
+			<string>ASILE</string>
+			<string>MALBATIS</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Nourrice de Dionysos</string>
+			<string>ASILE</string>
+			<string>INO</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Aie</string>
+			<string>ASILE</string>
+			<string>OUILLE</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Peu</string>
+			<string>ASILE</string>
+			<string>GUERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Enlevées</string>
+			<string>EN</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Comme au premier jour</string>
+			<string>EN</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Un bon cognac</string>
+			<string>P</string>
+			<string>VSOP</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Fanatique</string>
+			<string>N</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Nourrice de Dionysos</string>
+			<string>NERVEUX</string>
+			<string>INO</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Aie</string>
+			<string>NERVEUX</string>
+			<string>OUILLE</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Peu</string>
+			<string>NERVEUX</string>
+			<string>GUERE</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Aperçu</string>
+			<string>NERVEUX</string>
+			<string>VU</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Enlevées</string>
+			<string>NERVEUX</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Comme au premier jour</string>
+			<string>NERVEUX</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Fébrile</string>
+			<string>Gaz rare</string>
+			<string>NERVEUX</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Principe chinois</string>
+			<string>Fanatique</string>
+			<string>TAO</string>
+			<string>INTOLERANT</string>
+		</array>
+		<array>
+			<string>Principe chinois</string>
+			<string></string>
+			<string>TAO</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Principe chinois</string>
+			<string>Nourrice de Dionysos</string>
+			<string>TAO</string>
+			<string>INO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Obtenus</string>
+			<string>Peu</string>
+			<string>EUS</string>
+			<string>GUERE</string>
+		</array>
+		<array>
+			<string>Obtenus</string>
+			<string>Aperçu</string>
+			<string>EUS</string>
+			<string>VU</string>
+		</array>
+		<array>
+			<string>Obtenus</string>
+			<string>Enlevées</string>
+			<string>EUS</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Gaz rare</string>
+			<string>EN</string>
+			<string>XE</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string></string>
+			<string>EN</string>
+			<string>N</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Gardées</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>CONSERVEES</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string> Entendirent</string>
+			<string>CONSERVEES</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string></string>
+			<string>CONSERVEES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string> Doux tissu</string>
+			<string>CONSERVEES</string>
+			<string>SOIE</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string> Éduque</string>
+			<string>CONSERVEES</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string></string>
+			<string>CONSERVEES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string> Département français</string>
+			<string>CONSERVEES</string>
+			<string>VAR</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string> Guettées</string>
+			<string>CONSERVEES</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string>  Espaces de temps.</string>
+			<string>CONSERVEES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Gardées</string>
+			<string> Possessif.</string>
+			<string>CONSERVEES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Or</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>AU</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Or</string>
+			<string> Entendirent</string>
+			<string>AU</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Doux tissu</string>
+			<string>ON</string>
+			<string>SOIE</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Éduque</string>
+			<string>ON</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rude </string>
+			<string> Département français</string>
+			<string>APRE</string>
+			<string>VAR</string>
+		</array>
+		<array>
+			<string> Rude </string>
+			<string> Guettées</string>
+			<string>APRE</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string> Rude </string>
+			<string>  Espaces de temps.</string>
+			<string>APRE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Rude </string>
+			<string> Possessif.</string>
+			<string>APRE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sottises </string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>NIAISERIES</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Entendirent</string>
+			<string>NIAISERIES</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Une moitié de journée</string>
+			<string>NIAISERIES</string>
+			<string>AM</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Doux tissu</string>
+			<string>NIAISERIES</string>
+			<string>SOIE</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Éduque</string>
+			<string>NIAISERIES</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Du verbe être</string>
+			<string>NIAISERIES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Département français</string>
+			<string>NIAISERIES</string>
+			<string>VAR</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Guettées</string>
+			<string>NIAISERIES</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string>  Espaces de temps.</string>
+			<string>NIAISERIES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Sottises </string>
+			<string> Possessif.</string>
+			<string>NIAISERIES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Régiments</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>ARMEES</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Régiments</string>
+			<string> Entendirent</string>
+			<string>ARMEES</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Régiments</string>
+			<string> Une moitié de journée</string>
+			<string>ARMEES</string>
+			<string>AM</string>
+		</array>
+		<array>
+			<string> Régiments</string>
+			<string> Doux tissu</string>
+			<string>ARMEES</string>
+			<string>SOIE</string>
+		</array>
+		<array>
+			<string> Régiments</string>
+			<string> Éduque</string>
+			<string>ARMEES</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Régiments</string>
+			<string> Du verbe être</string>
+			<string>ARMEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avant un titre universitaire</string>
+			<string> Guettées</string>
+			<string>ES</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string>Avant un titre universitaire</string>
+			<string>  Espaces de temps.</string>
+			<string>ES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petit cube </string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>DE</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Petit cube </string>
+			<string> Entendirent</string>
+			<string>DE</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Éduque</string>
+			<string>I</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Instrument de musique</string>
+			<string>SE</string>
+			<string>SISTRE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Guettées</string>
+			<string>SE</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Demeurée</string>
+			<string>R</string>
+			<string>RESTEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Conformiste</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>INTEGRISTE</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Entendirent</string>
+			<string>INTEGRISTE</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Mollusque</string>
+			<string>INTEGRISTE</string>
+			<string>TARET</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string></string>
+			<string>INTEGRISTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Éduque</string>
+			<string>INTEGRISTE</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Prénom</string>
+			<string>INTEGRISTE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Instrument de musique</string>
+			<string>INTEGRISTE</string>
+			<string>SISTRE</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Guettées</string>
+			<string>INTEGRISTE</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Infusion</string>
+			<string>INTEGRISTE</string>
+			<string>THE</string>
+		</array>
+		<array>
+			<string> Conformiste</string>
+			<string> Demeurée</string>
+			<string>INTEGRISTE</string>
+			<string>RESTEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>ETA</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Entendirent</string>
+			<string>ETA</string>
+			<string>OUIRENT</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Mollusque</string>
+			<string>ETA</string>
+			<string>TARET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Éduque</string>
+			<string>NES</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Prénom</string>
+			<string>NES</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string>  Apparus.</string>
+			<string> Instrument de musique</string>
+			<string>NES</string>
+			<string>SISTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Infusion</string>
+			<string>HS</string>
+			<string>THE</string>
+		</array>
+		<array>
+			<string> Hors Service</string>
+			<string> Demeurée</string>
+			<string>HS</string>
+			<string>RESTEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>N</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se gondolent</string>
+			<string> Mollusque</string>
+			<string>RIENT</string>
+			<string>TARET</string>
+		</array>
+		<array>
+			<string> Se gondolent</string>
+			<string> Baie nippone</string>
+			<string>RIENT</string>
+			<string>ISE</string>
+		</array>
+		<array>
+			<string> Se gondolent</string>
+			<string> Éduque</string>
+			<string>RIENT</string>
+			<string>ENSEIGNE</string>
+		</array>
+		<array>
+			<string> Se gondolent</string>
+			<string> Prénom</string>
+			<string>RIENT</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Se gondolent</string>
+			<string> Instrument de musique</string>
+			<string>RIENT</string>
+			<string>SISTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Infusion</string>
+			<string>ET</string>
+			<string>THE</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Demeurée</string>
+			<string>ET</string>
+			<string>RESTEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Dépouillées</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>NUES</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string>  Dépouillées</string>
+			<string> Coutumes</string>
+			<string>NUES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>  Dépouillées</string>
+			<string> Mollusque</string>
+			<string>NUES</string>
+			<string>TARET</string>
+		</array>
+		<array>
+			<string>  Dépouillées</string>
+			<string> Baie nippone</string>
+			<string>NUES</string>
+			<string>ISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Prénom</string>
+			<string>ERE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Instrument de musique</string>
+			<string>ERE</string>
+			<string>SISTRE</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Infinitif</string>
+			<string>ERE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Demeurée</string>
+			<string>E</string>
+			<string>RESTEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Estoniens</string>
+			<string> Elle vit dans un pays nordique</string>
+			<string>ESTES</string>
+			<string>CANADIENNE</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Coutumes</string>
+			<string>ESTES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Mollusque</string>
+			<string>ESTES</string>
+			<string>TARET</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Baie nippone</string>
+			<string>ESTES</string>
+			<string>ISE</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string></string>
+			<string>ESTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Instrument de musique</string>
+			<string>ERSE</string>
+			<string>SISTRE</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Infinitif</string>
+			<string>ERSE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string></string>
+			<string>ERSE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Demeurée</string>
+			<string>ERSE</string>
+			<string>RESTEE</string>
+		</array>
+	</array>
+</array>
+</plist>

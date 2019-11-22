@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Sornettes</string>
+			<string> Convenables</string>
+			<string>BALIVERNES</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> Espéré</string>
+			<string>BALIVERNES</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> Unie</string>
+			<string>BALIVERNES</string>
+			<string>LIEE</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> En vogue</string>
+			<string>BALIVERNES</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> Lombric</string>
+			<string>BALIVERNES</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string>Erbium</string>
+			<string>BALIVERNES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> Rongeur</string>
+			<string>BALIVERNES</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> Démenties</string>
+			<string>BALIVERNES</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string>  Espaces de temps.</string>
+			<string>BALIVERNES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Sornettes</string>
+			<string> Possessif.</string>
+			<string>BALIVERNES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trajet</string>
+			<string> Convenables</string>
+			<string>ITINERAIRE</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> Espéré</string>
+			<string>ITINERAIRE</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> Unie</string>
+			<string>ITINERAIRE</string>
+			<string>LIEE</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> En vogue</string>
+			<string>ITINERAIRE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> Lombric</string>
+			<string>ITINERAIRE</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string>Erbium</string>
+			<string>ITINERAIRE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> Rongeur</string>
+			<string>ITINERAIRE</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> Démenties</string>
+			<string>ITINERAIRE</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string>  Espaces de temps.</string>
+			<string>ITINERAIRE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Trajet</string>
+			<string> Possessif.</string>
+			<string>ITINERAIRE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> La saison des vacances</string>
+			<string> Convenables</string>
+			<string>ETE</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> La saison des vacances</string>
+			<string> Espéré</string>
+			<string>ETE</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string> La saison des vacances</string>
+			<string> Unie</string>
+			<string>ETE</string>
+			<string>LIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lombric</string>
+			<string>R</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Rongeur</string>
+			<string>TEES</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Démenties</string>
+			<string>TEES</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string>  Espaces de temps.</string>
+			<string>TEES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> On y met une balle</string>
+			<string> Possessif.</string>
+			<string>TEES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arrivées</string>
+			<string> Convenables</string>
+			<string>NEES</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Espéré</string>
+			<string>NEES</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Unie</string>
+			<string>NEES</string>
+			<string>LIEE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Vielle monnaie</string>
+			<string>NEES</string>
+			<string>SOU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Petits tonneaux</string>
+			<string>B</string>
+			<string>BARILS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Démenties</string>
+			<string>ES</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string>  Espaces de temps.</string>
+			<string>ES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étain</string>
+			<string> Convenables</string>
+			<string>SN</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Étain</string>
+			<string> Espéré</string>
+			<string>SN</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enlevais</string>
+			<string> Vielle monnaie</string>
+			<string>OTAIS</string>
+			<string>SOU</string>
+		</array>
+		<array>
+			<string> Enlevais</string>
+			<string> Aliénées</string>
+			<string>OTAIS</string>
+			<string>TAREES</string>
+		</array>
+		<array>
+			<string> Enlevais</string>
+			<string> Petits tonneaux</string>
+			<string>OTAIS</string>
+			<string>BARILS</string>
+		</array>
+		<array>
+			<string> Enlevais</string>
+			<string> Projet</string>
+			<string>OTAIS</string>
+			<string>IDEE</string>
+		</array>
+		<array>
+			<string> Enlevais</string>
+			<string> Démenties</string>
+			<string>OTAIS</string>
+			<string>NIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crochets</string>
+			<string>E</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom</string>
+			<string> Convenables</string>
+			<string>EDOUARD</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Espéré</string>
+			<string>EDOUARD</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Obstacle équestre</string>
+			<string>EDOUARD</string>
+			<string>OXER</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Vielle monnaie</string>
+			<string>EDOUARD</string>
+			<string>SOU</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Aliénées</string>
+			<string>EDOUARD</string>
+			<string>TAREES</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Petits tonneaux</string>
+			<string>EDOUARD</string>
+			<string>BARILS</string>
+		</array>
+		<array>
+			<string> Prénom</string>
+			<string> Projet</string>
+			<string>EDOUARD</string>
+			<string>IDEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>US</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Crochets</string>
+			<string>US</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article contracté</string>
+			<string> Convenables</string>
+			<string>AUX</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Espéré</string>
+			<string>AUX</string>
+			<string>ATTENDU</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Obstacle équestre</string>
+			<string>AUX</string>
+			<string>OXER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ils aiment rire</string>
+			<string> Aliénées</string>
+			<string>RIEURS</string>
+			<string>TAREES</string>
+		</array>
+		<array>
+			<string> Ils aiment rire</string>
+			<string> Petits tonneaux</string>
+			<string>RIEURS</string>
+			<string>BARILS</string>
+		</array>
+		<array>
+			<string> Ils aiment rire</string>
+			<string> Projet</string>
+			<string>RIEURS</string>
+			<string>IDEE</string>
+		</array>
+		<array>
+			<string> Ils aiment rire</string>
+			<string> Fatiguée</string>
+			<string>RIEURS</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Ils aiment rire</string>
+			<string> Ancienne cité de Mésopotamie</string>
+			<string>RIEURS</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string> Ils aiment rire</string>
+			<string> Crochets</string>
+			<string>RIEURS</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Convenables</string>
+			<string>N</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prononcés une lettre à la fois</string>
+			<string> Obstacle équestre</string>
+			<string>EPELES</string>
+			<string>OXER</string>
+		</array>
+		<array>
+			<string> Prononcés une lettre à la fois</string>
+			<string> Un expert</string>
+			<string>EPELES</string>
+			<string>PRO</string>
+		</array>
+		<array>
+			<string> Prononcés une lettre à la fois</string>
+			<string> Aliénées</string>
+			<string>EPELES</string>
+			<string>TAREES</string>
+		</array>
+		<array>
+			<string> Prononcés une lettre à la fois</string>
+			<string> Petits tonneaux</string>
+			<string>EPELES</string>
+			<string>BARILS</string>
+		</array>
+		<array>
+			<string> Prononcés une lettre à la fois</string>
+			<string> Projet</string>
+			<string>EPELES</string>
+			<string>IDEE</string>
+		</array>
+		<array>
+			<string> Prononcés une lettre à la fois</string>
+			<string> Fatiguée</string>
+			<string>EPELES</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Crochets</string>
+			<string>E</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Les paysans y travaillent</string>
+			<string> Convenables</string>
+			<string>TERRES</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Les paysans y travaillent</string>
+			<string> Infinitif</string>
+			<string>TERRES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Les paysans y travaillent</string>
+			<string> Obstacle équestre</string>
+			<string>TERRES</string>
+			<string>OXER</string>
+		</array>
+		<array>
+			<string> Les paysans y travaillent</string>
+			<string> Un expert</string>
+			<string>TERRES</string>
+			<string>PRO</string>
+		</array>
+		<array>
+			<string> Les paysans y travaillent</string>
+			<string> Aliénées</string>
+			<string>TERRES</string>
+			<string>TAREES</string>
+		</array>
+		<array>
+			<string> Les paysans y travaillent</string>
+			<string> Petits tonneaux</string>
+			<string>TERRES</string>
+			<string>BARILS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Fatiguée</string>
+			<string>ERS</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Note de musique</string>
+			<string>ERS</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Crochets</string>
+			<string>ERS</string>
+			<string>ESSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Strontium.</string>
+			<string> Convenables</string>
+			<string>SR</string>
+			<string>BIENSEANTS</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Infinitif</string>
+			<string>SR</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Un expert</string>
+			<string>OS</string>
+			<string>PRO</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Aliénées</string>
+			<string>OS</string>
+			<string>TAREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crie comme un cerf</string>
+			<string></string>
+			<string>REE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Crie comme un cerf</string>
+			<string> Fatiguée</string>
+			<string>REE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Crie comme un cerf</string>
+			<string> Note de musique</string>
+			<string>REE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

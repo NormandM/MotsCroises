@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Séditieux</string>
+			<string> La limace par exemple</string>
+			<string>INCENDIAIRES</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> On aime qu&apos;il soit blanc</string>
+			<string>INCENDIAIRES</string>
+			<string>NOEL</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Coupures d&apos;un mot</string>
+			<string>INCENDIAIRES</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Ville d&apos;Italie</string>
+			<string>INCENDIAIRES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Sortie</string>
+			<string>INCENDIAIRES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Délégué syndicale</string>
+			<string>INCENDIAIRES</string>
+			<string>DS</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string></string>
+			<string>INCENDIAIRES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Rivière de Suisse</string>
+			<string>INCENDIAIRES</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Colères</string>
+			<string>INCENDIAIRES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Réservées</string>
+			<string>INCENDIAIRES</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Direction</string>
+			<string>INCENDIAIRES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Séditieux</string>
+			<string> Circulaient à Rome</string>
+			<string>INCENDIAIRES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Actes de la pensée</string>
+			<string> La limace par exemple</string>
+			<string>NOESES</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Actes de la pensée</string>
+			<string> On aime qu&apos;il soit blanc</string>
+			<string>NOESES</string>
+			<string>NOEL</string>
+		</array>
+		<array>
+			<string> Actes de la pensée</string>
+			<string> Coupures d&apos;un mot</string>
+			<string>NOESES</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string> Actes de la pensée</string>
+			<string> Ville d&apos;Italie</string>
+			<string>NOESES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Actes de la pensée</string>
+			<string> Sortie</string>
+			<string>NOESES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Actes de la pensée</string>
+			<string> Délégué syndicale</string>
+			<string>NOESES</string>
+			<string>DS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Rivière de Suisse</string>
+			<string>ARENE</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Colères</string>
+			<string>ARENE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Réservées</string>
+			<string>ARENE</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Direction</string>
+			<string>ARENE</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Circulaient à Rome</string>
+			<string>ARENE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vêtement de dessus court</string>
+			<string> La limace par exemple</string>
+			<string>VESTE</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Vêtement de dessus court</string>
+			<string> On aime qu&apos;il soit blanc</string>
+			<string>VESTE</string>
+			<string>NOEL</string>
+		</array>
+		<array>
+			<string> Vêtement de dessus court</string>
+			<string> Coupures d&apos;un mot</string>
+			<string>VESTE</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string> Vêtement de dessus court</string>
+			<string> Ville d&apos;Italie</string>
+			<string>VESTE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Vêtement de dessus court</string>
+			<string> Sortie</string>
+			<string>VESTE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du nez, d&apos;un cube ou d&apos;un poisson</string>
+			<string> Plante</string>
+			<string>ARETES</string>
+			<string>ASTER</string>
+		</array>
+		<array>
+			<string> Du nez, d&apos;un cube ou d&apos;un poisson</string>
+			<string> Rivière de Suisse</string>
+			<string>ARETES</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Du nez, d&apos;un cube ou d&apos;un poisson</string>
+			<string> Colères</string>
+			<string>ARETES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Du nez, d&apos;un cube ou d&apos;un poisson</string>
+			<string> Réservées</string>
+			<string>ARETES</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string> Du nez, d&apos;un cube ou d&apos;un poisson</string>
+			<string> Direction</string>
+			<string>ARETES</string>
+			<string>ENE</string>
+		</array>
+		<array>
+			<string> Du nez, d&apos;un cube ou d&apos;un poisson</string>
+			<string> Circulaient à Rome</string>
+			<string>ARETES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Portée au pouvoir</string>
+			<string> La limace par exemple</string>
+			<string>ELUE</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Portée au pouvoir</string>
+			<string> On aime qu&apos;il soit blanc</string>
+			<string>ELUE</string>
+			<string>NOEL</string>
+		</array>
+		<array>
+			<string> Portée au pouvoir</string>
+			<string> Coupures d&apos;un mot</string>
+			<string>ELUE</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string> Portée au pouvoir</string>
+			<string> Ville d&apos;Italie</string>
+			<string>ELUE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Implante</string>
+			<string>ES</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Plante</string>
+			<string>ES</string>
+			<string>ASTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Colères</string>
+			<string>SE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Réservées</string>
+			<string>SE</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Circulaient à Rome</string>
+			<string>T</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> La limace par exemple</string>
+			<string>R</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Coupures d&apos;un mot</string>
+			<string>R</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string></string>
+			<string>ENTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string> Implante</string>
+			<string>ENTE</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string> Plante</string>
+			<string>ENTE</string>
+			<string>ASTER</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string> Nomma</string>
+			<string>ENTE</string>
+			<string>ELUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prête pour la douche</string>
+			<string> Réservées</string>
+			<string>NUE</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string> Prête pour la douche</string>
+			<string> Au milieu des huées</string>
+			<string>NUE</string>
+			<string>UE</string>
+		</array>
+		<array>
+			<string> Prête pour la douche</string>
+			<string> Circulaient à Rome</string>
+			<string>NUE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On y met la balle</string>
+			<string> La limace par exemple</string>
+			<string>TEES</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Critique durement</string>
+			<string>TEES</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string> Coupures d&apos;un mot</string>
+			<string>TEES</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string> On y met la balle</string>
+			<string></string>
+			<string>TEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Implante</string>
+			<string>RELOUER</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Plante</string>
+			<string>RELOUER</string>
+			<string>ASTER</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Nomma</string>
+			<string>RELOUER</string>
+			<string>ELUT</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Se montrent audacieux</string>
+			<string>RELOUER</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Réservées</string>
+			<string>RELOUER</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Au milieu des huées</string>
+			<string>RELOUER</string>
+			<string>UE</string>
+		</array>
+		<array>
+			<string> Devoir refaire un bail</string>
+			<string> Circulaient à Rome</string>
+			<string>RELOUER</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> La limace par exemple</string>
+			<string>ERS</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Critique durement</string>
+			<string>ERS</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Coupures d&apos;un mot</string>
+			<string>ERS</string>
+			<string>CESURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cinéaste japonais</string>
+			<string> Plante à forte odeur</string>
+			<string>NARUSE</string>
+			<string>NEPETE</string>
+		</array>
+		<array>
+			<string> Cinéaste japonais</string>
+			<string> Implante</string>
+			<string>NARUSE</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Cinéaste japonais</string>
+			<string> Plante</string>
+			<string>NARUSE</string>
+			<string>ASTER</string>
+		</array>
+		<array>
+			<string> Cinéaste japonais</string>
+			<string> Nomma</string>
+			<string>NARUSE</string>
+			<string>ELUT</string>
+		</array>
+		<array>
+			<string> Cinéaste japonais</string>
+			<string> Se montrent audacieux</string>
+			<string>NARUSE</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Cinéaste japonais</string>
+			<string> Réservées</string>
+			<string>NARUSE</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Circulaient à Rome</string>
+			<string>C</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> La limace par exemple</string>
+			<string>BE</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Critique durement</string>
+			<string>BE</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Manque d&apos;eau</string>
+			<string></string>
+			<string>SEC</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Manque d&apos;eau</string>
+			<string> Plante à forte odeur</string>
+			<string>SEC</string>
+			<string>NEPETE</string>
+		</array>
+		<array>
+			<string> Manque d&apos;eau</string>
+			<string> Implante</string>
+			<string>SEC</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Nomma</string>
+			<string>TESTE</string>
+			<string>ELUT</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Se montrent audacieux</string>
+			<string>TESTE</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Réservées</string>
+			<string>TESTE</string>
+			<string>RETENUES</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Petit récipient</string>
+			<string>TESTE</string>
+			<string>TASSE</string>
+		</array>
+		<array>
+			<string> Vérifie</string>
+			<string> Circulaient à Rome</string>
+			<string>TESTE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vallée envahie par la mer</string>
+			<string> La limace par exemple</string>
+			<string>RIA</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Vallée envahie par la mer</string>
+			<string> Critique durement</string>
+			<string>RIA</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string> Vallée envahie par la mer</string>
+			<string></string>
+			<string>RIA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Oiseau grimpeur</string>
+			<string> Plante à forte odeur</string>
+			<string>PIC</string>
+			<string>NEPETE</string>
+		</array>
+		<array>
+			<string> Oiseau grimpeur</string>
+			<string> Implante</string>
+			<string>PIC</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Oiseau grimpeur</string>
+			<string> Ruminant</string>
+			<string>PIC</string>
+			<string>CERF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Se montrent audacieux</string>
+			<string>N</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Petit récipient</string>
+			<string>AS</string>
+			<string>TASSE</string>
+		</array>
+		<array>
+			<string> Champion</string>
+			<string> Circulaient à Rome</string>
+			<string>AS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans</string>
+			<string> La limace par exemple</string>
+			<string>EN</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Critique durement</string>
+			<string>EN</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Transporte les parisiens</string>
+			<string>RENETTES</string>
+			<string>RER</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Plante à forte odeur</string>
+			<string>RENETTES</string>
+			<string>NEPETE</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Implante</string>
+			<string>RENETTES</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Ruminant</string>
+			<string>RENETTES</string>
+			<string>CERF</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Lettre grec</string>
+			<string>RENETTES</string>
+			<string>TAU</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Se montrent audacieux</string>
+			<string>RENETTES</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Orient</string>
+			<string>RENETTES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Outils à pointe recourbée</string>
+			<string> Petit récipient</string>
+			<string>RENETTES</string>
+			<string>TASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> La limace par exemple</string>
+			<string>ETCETERA</string>
+			<string>INVERTEBREE</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Critique durement</string>
+			<string>ETCETERA</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Chrome</string>
+			<string>ETCETERA</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Transporte les parisiens</string>
+			<string>ETCETERA</string>
+			<string>RER</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Plante à forte odeur</string>
+			<string>ETCETERA</string>
+			<string>NEPETE</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Implante</string>
+			<string>ETCETERA</string>
+			<string>ENRACINE</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Ruminant</string>
+			<string>ETCETERA</string>
+			<string>CERF</string>
+		</array>
+		<array>
+			<string> Et les autres choses</string>
+			<string> Lettre grec</string>
+			<string>ETCETERA</string>
+			<string>TAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Orient</string>
+			<string>SSO</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Petit récipient</string>
+			<string>SSO</string>
+			<string>TASSE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Hic</string>
+			<string>SSO</string>
+			<string>OS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Critique durement</string>
+			<string>ERRE</string>
+			<string>EREINTE</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Chrome</string>
+			<string>ERRE</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Transporte les parisiens</string>
+			<string>ERRE</string>
+			<string>RER</string>
+		</array>
+		<array>
+			<string> Ne sait pas où aller</string>
+			<string> Plante à forte odeur</string>
+			<string>ERRE</string>
+			<string>NEPETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écoulements</string>
+			<string> Ruminant</string>
+			<string>FUITES</string>
+			<string>CERF</string>
+		</array>
+		<array>
+			<string> Écoulements</string>
+			<string> Lettre grec</string>
+			<string>FUITES</string>
+			<string>TAU</string>
+		</array>
+		<array>
+			<string> Écoulements</string>
+			<string></string>
+			<string>FUITES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Écoulements</string>
+			<string> Orient</string>
+			<string>FUITES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Écoulements</string>
+			<string> Petit récipient</string>
+			<string>FUITES</string>
+			<string>TASSE</string>
+		</array>
+		<array>
+			<string> Écoulements</string>
+			<string> Hic</string>
+			<string>FUITES</string>
+			<string>OS</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>PANTOUFLARDS</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Près de la fin</string>
+			<string>PANTOUFLARDS</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>PANTOUFLARDS</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Pour le premier coup</string>
+			<string>PANTOUFLARDS</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Lestes</string>
+			<string>PANTOUFLARDS</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string></string>
+			<string>PANTOUFLARDS</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Francium</string>
+			<string>PANTOUFLARDS</string>
+			<string>FR</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Terme de ping-pong</string>
+			<string>PANTOUFLARDS</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Parfumés</string>
+			<string>PANTOUFLARDS</string>
+			<string>ANISES</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Enjoué</string>
+			<string>PANTOUFLARDS</string>
+			<string>RIEUR</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Postérieur</string>
+			<string>PANTOUFLARDS</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string> Ils sont bien tranquilles</string>
+			<string> Possessif</string>
+			<string>PANTOUFLARDS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>AGEES</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Près de la fin</string>
+			<string>AGEES</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>AGEES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Pour le premier coup</string>
+			<string>AGEES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Lestes</string>
+			<string>AGEES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Francium</string>
+			<string>RENIEE</string>
+			<string>FR</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Terme de ping-pong</string>
+			<string>RENIEE</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Parfumés</string>
+			<string>RENIEE</string>
+			<string>ANISES</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Enjoué</string>
+			<string>RENIEE</string>
+			<string>RIEUR</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Postérieur</string>
+			<string>RENIEE</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string> Démentie</string>
+			<string> Possessif</string>
+			<string>RENIEE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sises</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>POSEES</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Sises</string>
+			<string> Près de la fin</string>
+			<string>POSEES</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Sises</string>
+			<string>  Ont ouvert les yeux</string>
+			<string>POSEES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string> Sises</string>
+			<string> Pour le premier coup</string>
+			<string>POSEES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Sises</string>
+			<string> Lestes</string>
+			<string>POSEES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Sises</string>
+			<string> Symbole chimique</string>
+			<string>POSEES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Terme de ping-pong</string>
+			<string>TIERS</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Parfumés</string>
+			<string>TIERS</string>
+			<string>ANISES</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Enjoué</string>
+			<string>TIERS</string>
+			<string>RIEUR</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Postérieur</string>
+			<string>TIERS</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Possessif</string>
+			<string>TIERS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>EN</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Près de la fin</string>
+			<string>EN</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Pour le premier coup</string>
+			<string>SERE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Lestes</string>
+			<string>SERE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Symbole chimique</string>
+			<string>SERE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Existant</string>
+			<string>SERE</string>
+			<string>ETANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Qui a un goût acide</string>
+			<string> Parfumés</string>
+			<string>SUR</string>
+			<string>ANISES</string>
+		</array>
+		<array>
+			<string> Qui a un goût acide</string>
+			<string> Enjoué</string>
+			<string>SUR</string>
+			<string>RIEUR</string>
+		</array>
+		<array>
+			<string> Qui a un goût acide</string>
+			<string> Postérieur</string>
+			<string>SUR</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rigole</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>RIT</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Près de la fin</string>
+			<string>RIT</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Supporte la quille d&apos;un navire</string>
+			<string>RIT</string>
+			<string>TIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lestes</string>
+			<string>S</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Boucherie</string>
+			<string> Existant</string>
+			<string>TUERIE</string>
+			<string>ETANT</string>
+		</array>
+		<array>
+			<string> Boucherie</string>
+			<string> Les ours par exemple</string>
+			<string>TUERIE</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Boucherie</string>
+			<string> Parfumés</string>
+			<string>TUERIE</string>
+			<string>ANISES</string>
+		</array>
+		<array>
+			<string> Boucherie</string>
+			<string> Enjoué</string>
+			<string>TUERIE</string>
+			<string>RIEUR</string>
+		</array>
+		<array>
+			<string> Boucherie</string>
+			<string> Postérieur</string>
+			<string>TUERIE</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string> Boucherie</string>
+			<string></string>
+			<string>TUERIE</string>
+			<string>E</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une partie importante du monde</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>ASIE</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Une partie importante du monde</string>
+			<string> Près de la fin</string>
+			<string>ASIE</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Une partie importante du monde</string>
+			<string> Supporte la quille d&apos;un navire</string>
+			<string>ASIE</string>
+			<string>TIN</string>
+		</array>
+		<array>
+			<string> Une partie importante du monde</string>
+			<string> Terme de psychanalyse</string>
+			<string>ASIE</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Note</string>
+			<string>SARS</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Existant</string>
+			<string>SARS</string>
+			<string>ETANT</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Les ours par exemple</string>
+			<string>SARS</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Poissons</string>
+			<string> Parfumés</string>
+			<string>SARS</string>
+			<string>ANISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Postérieur</string>
+			<string>E</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coléreux</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>SANGUINS</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Près de la fin</string>
+			<string>SANGUINS</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Supporte la quille d&apos;un navire</string>
+			<string>SANGUINS</string>
+			<string>TIN</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Terme de psychanalyse</string>
+			<string>SANGUINS</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Fatigués</string>
+			<string>SANGUINS</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Note</string>
+			<string>SANGUINS</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Existant</string>
+			<string>SANGUINS</string>
+			<string>ETANT</string>
+		</array>
+		<array>
+			<string> Coléreux</string>
+			<string> Les ours par exemple</string>
+			<string>SANGUINS</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Métaux malléables</string>
+			<string>ERS</string>
+			<string>ETAINS</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Postérieur</string>
+			<string>ERS</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Désintoxique</string>
+			<string>ERS</string>
+			<string>SEVRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>SN</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Près de la fin</string>
+			<string>SN</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ennui</string>
+			<string> Terme de psychanalyse</string>
+			<string>OS</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string> Ennui</string>
+			<string> Fatigués</string>
+			<string>OS</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sonnée</string>
+			<string> Existant</string>
+			<string>TINTEE</string>
+			<string>ETANT</string>
+		</array>
+		<array>
+			<string> Sonnée</string>
+			<string> Les ours par exemple</string>
+			<string>TINTEE</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Sonnée</string>
+			<string> Petit cigare</string>
+			<string>TINTEE</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Sonnée</string>
+			<string> Métaux malléables</string>
+			<string>TINTEE</string>
+			<string>ETAINS</string>
+		</array>
+		<array>
+			<string> Sonnée</string>
+			<string> Postérieur</string>
+			<string>TINTEE</string>
+			<string>DERRIERE</string>
+		</array>
+		<array>
+			<string> Sonnée</string>
+			<string> Désintoxique</string>
+			<string>TINTEE</string>
+			<string>SEVRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>ETE</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Près de la fin</string>
+			<string>ETE</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Diffuse</string>
+			<string>ETE</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Fatigués</string>
+			<string>ES</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string></string>
+			<string>ES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cri du charretier</string>
+			<string> Les ours par exemple</string>
+			<string>DIA</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Cri du charretier</string>
+			<string> Petit cigare</string>
+			<string>DIA</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Cri du charretier</string>
+			<string> Métaux malléables</string>
+			<string>DIA</string>
+			<string>ETAINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Désintoxique</string>
+			<string>V</string>
+			<string>SEVRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Guéris</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>REMIS</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Guéris</string>
+			<string> Près de la fin</string>
+			<string>REMIS</string>
+			<string>AGONISANTE</string>
+		</array>
+		<array>
+			<string> Guéris</string>
+			<string> Diffuse</string>
+			<string>REMIS</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string> Guéris</string>
+			<string> Fait voir rouge</string>
+			<string>REMIS</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Guéris</string>
+			<string> Fatigués</string>
+			<string>REMIS</string>
+			<string>USES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abjurer</string>
+			<string> Originaire de l&apos;Asie</string>
+			<string>RENIER</string>
+			<string>RIZ</string>
+		</array>
+		<array>
+			<string> Abjurer</string>
+			<string> Les ours par exemple</string>
+			<string>RENIER</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Abjurer</string>
+			<string> Petit cigare</string>
+			<string>RENIER</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Abjurer</string>
+			<string> Métaux malléables</string>
+			<string>RENIER</string>
+			<string>ETAINS</string>
+		</array>
+		<array>
+			<string> Abjurer</string>
+			<string> Écrivain Italien</string>
+			<string>RENIER</string>
+			<string>ECO</string>
+		</array>
+		<array>
+			<string> Abjurer</string>
+			<string> Désintoxique</string>
+			<string>RENIER</string>
+			<string>SEVRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Les gouvernements en sont friands</string>
+			<string>I</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Diffuse</string>
+			<string>ER</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Fait voir rouge</string>
+			<string>ER</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string></string>
+			<string>AISANCE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string> Originaire de l&apos;Asie</string>
+			<string>AISANCE</string>
+			<string>RIZ</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string> Les ours par exemple</string>
+			<string>AISANCE</string>
+			<string>URSIDES</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string> Petit cigare</string>
+			<string>AISANCE</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string> Métaux malléables</string>
+			<string>AISANCE</string>
+			<string>ETAINS</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string> Écrivain Italien</string>
+			<string>AISANCE</string>
+			<string>ECO</string>
+		</array>
+		<array>
+			<string> Grâce</string>
+			<string> Désintoxique</string>
+			<string>AISANCE</string>
+			<string>SEVRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Estoniens</string>
+			<string> Les gouvernements en sont friands</string>
+			<string>ESTES</string>
+			<string>PAPERASSERIE</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string></string>
+			<string>ESTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Diffuse</string>
+			<string>ESTES</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string> Fait voir rouge</string>
+			<string>ESTES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Estoniens</string>
+			<string></string>
+			<string>ESTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Originaire de l&apos;Asie</string>
+			<string>Z</string>
+			<string>RIZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Petit cigare</string>
+			<string>SSO</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Métaux malléables</string>
+			<string>SSO</string>
+			<string>ETAINS</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Écrivain Italien</string>
+			<string>SSO</string>
+			<string>ECO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

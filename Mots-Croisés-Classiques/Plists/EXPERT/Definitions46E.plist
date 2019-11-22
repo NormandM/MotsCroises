@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Déchéance</string>
+			<string>DARRACHEPIED</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Foyers</string>
+			<string>DARRACHEPIED</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Joyeuses compagnies</string>
+			<string>DARRACHEPIED</string>
+			<string>RIEURS</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Bramera</string>
+			<string>DARRACHEPIED</string>
+			<string>REERA</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Lopin de terre</string>
+			<string>DARRACHEPIED</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string></string>
+			<string>DARRACHEPIED</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Interjection</string>
+			<string>DARRACHEPIED</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> On y lave la vaisselle</string>
+			<string>DARRACHEPIED</string>
+			<string>EVIERS</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Parties d'une hélice</string>
+			<string>DARRACHEPIED</string>
+			<string>PALES</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Parfois reliées par un pont</string>
+			<string>DARRACHEPIED</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Posséda</string>
+			<string>DARRACHEPIED</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string> Avec acharnement</string>
+			<string> Affligés</string>
+			<string>DARRACHEPIED</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Canal</string>
+			<string> Déchéance</string>
+			<string>ETIER</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Foyers</string>
+			<string>ETIER</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Joyeuses compagnies</string>
+			<string>ETIER</string>
+			<string>RIEURS</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Bramera</string>
+			<string>ETIER</string>
+			<string>REERA</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Lopin de terre</string>
+			<string>ETIER</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Estimé</string>
+			<string> Interjection</string>
+			<string>EVALUE</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Estimé</string>
+			<string> On y lave la vaisselle</string>
+			<string>EVALUE</string>
+			<string>EVIERS</string>
+		</array>
+		<array>
+			<string> Estimé</string>
+			<string> Parties d'une hélice</string>
+			<string>EVALUE</string>
+			<string>PALES</string>
+		</array>
+		<array>
+			<string> Estimé</string>
+			<string> Parfois reliées par un pont</string>
+			<string>EVALUE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Estimé</string>
+			<string> Posséda</string>
+			<string>EVALUE</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string> Estimé</string>
+			<string> Affligés</string>
+			<string>EVALUE</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Inventées</string>
+			<string> Déchéance</string>
+			<string>CREEES</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Foyers</string>
+			<string>CREEES</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Joyeuses compagnies</string>
+			<string>CREEES</string>
+			<string>RIEURS</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Bramera</string>
+			<string>CREEES</string>
+			<string>REERA</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Lopin de terre</string>
+			<string>CREEES</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Ce n'est pas à toi</string>
+			<string>CREEES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Îlots</string>
+			<string> On y lave la vaisselle</string>
+			<string>ILETS</string>
+			<string>EVIERS</string>
+		</array>
+		<array>
+			<string> Îlots</string>
+			<string> Parties d'une hélice</string>
+			<string>ILETS</string>
+			<string>PALES</string>
+		</array>
+		<array>
+			<string> Îlots</string>
+			<string> Parfois reliées par un pont</string>
+			<string>ILETS</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string> Îlots</string>
+			<string> Posséda</string>
+			<string>ILETS</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string> Îlots</string>
+			<string> Affligés</string>
+			<string>ILETS</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Déchéance</string>
+			<string>LEUR</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Foyers</string>
+			<string>LEUR</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Joyeuses compagnies</string>
+			<string>LEUR</string>
+			<string>RIEURS</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Bramera</string>
+			<string>LEUR</string>
+			<string>REERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Ce n'est pas à toi</string>
+			<string>AGEES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Passionné par les technologies</string>
+			<string>AGEES</string>
+			<string>GEEK</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> On y lave la vaisselle</string>
+			<string>AGEES</string>
+			<string>EVIERS</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Parties d'une hélice</string>
+			<string>AGEES</string>
+			<string>PALES</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Parfois reliées par un pont</string>
+			<string>AGEES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Affligés</string>
+			<string>E</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lieu d'enseignement</string>
+			<string> Déchéance</string>
+			<string>ASRAM</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Lieu d'enseignement</string>
+			<string> Foyers</string>
+			<string>ASRAM</string>
+			<string>ATRES</string>
+		</array>
+		<array>
+			<string> Lieu d'enseignement</string>
+			<string> Joyeuses compagnies</string>
+			<string>ASRAM</string>
+			<string>RIEURS</string>
+		</array>
+		<array>
+			<string> Lieu d'enseignement</string>
+			<string> Bramera</string>
+			<string>ASRAM</string>
+			<string>REERA</string>
+		</array>
+		<array>
+			<string> Lieu d'enseignement</string>
+			<string> Origine</string>
+			<string>ASRAM</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Passionné par les technologies</string>
+			<string>ERS</string>
+			<string>GEEK</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> On y lave la vaisselle</string>
+			<string>ERS</string>
+			<string>EVIERS</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Parties d'une hélice</string>
+			<string>ERS</string>
+			<string>PALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Onde</string>
+			<string>ES</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Affligés</string>
+			<string>ES</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Déchéance</string>
+			<string>S</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Joyeuses compagnies</string>
+			<string>S</string>
+			<string>RIEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string> Origine</string>
+			<string>ERES</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string> Tondue</string>
+			<string>ERES</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string> Passionné par les technologies</string>
+			<string>ERES</string>
+			<string>GEEK</string>
+		</array>
+		<array>
+			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string> On y lave la vaisselle</string>
+			<string>ERES</string>
+			<string>EVIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Promontoire</string>
+			<string> Sacré</string>
+			<string>CAP</string>
+			<string>CRE</string>
+		</array>
+		<array>
+			<string> Promontoire</string>
+			<string> Onde</string>
+			<string>CAP</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Promontoire</string>
+			<string> Affligés</string>
+			<string>CAP</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Déchéance</string>
+			<string>SE</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Plus courte</string>
+			<string>SE</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alcool</string>
+			<string> Abeille</string>
+			<string>ARAK</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string> Alcool</string>
+			<string> Origine</string>
+			<string>ARAK</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string> Alcool</string>
+			<string> Tondue</string>
+			<string>ARAK</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Alcool</string>
+			<string> Passionné par les technologies</string>
+			<string>ARAK</string>
+			<string>GEEK</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Femme légère</string>
+			<string> Variété de poire</string>
+			<string>GRUE</string>
+			<string>GUYOT</string>
+		</array>
+		<array>
+			<string> Femme légère</string>
+			<string> Sacré</string>
+			<string>GRUE</string>
+			<string>CRE</string>
+		</array>
+		<array>
+			<string> Femme légère</string>
+			<string> Onde</string>
+			<string>GRUE</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Femme légère</string>
+			<string> Affligés</string>
+			<string>GRUE</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Haltes</string>
+			<string> Déchéance</string>
+			<string>ETAPES</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Plus courte</string>
+			<string>ETAPES</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Il y en a dans le poisson</string>
+			<string>ETAPES</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Abeille</string>
+			<string>ETAPES</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Origine</string>
+			<string>ETAPES</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string> Haltes</string>
+			<string> Tondue</string>
+			<string>ETAPES</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle peut être calme ou animée</string>
+			<string></string>
+			<string>RUE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Elle peut être calme ou animée</string>
+			<string> Variété de poire</string>
+			<string>RUE</string>
+			<string>GUYOT</string>
+		</array>
+		<array>
+			<string> Elle peut être calme ou animée</string>
+			<string> Sacré</string>
+			<string>RUE</string>
+			<string>CRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Affligés</string>
+			<string>R</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Déchéance</string>
+			<string>MERISES</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Plus courte</string>
+			<string>MERISES</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Il y en a dans le poisson</string>
+			<string>MERISES</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Abeille</string>
+			<string>MERISES</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Origine</string>
+			<string>MERISES</string>
+			<string>MERES</string>
+		</array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Tondue</string>
+			<string>MERISES</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Petites cerises sauvages</string>
+			<string> Elle fait souvent la une</string>
+			<string>MERISES</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Variété de poire</string>
+			<string>Y</string>
+			<string>GUYOT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string></string>
+			<string>ME</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Affligés</string>
+			<string>ME</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Déchéance</string>
+			<string>ETES</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Plus courte</string>
+			<string>ETES</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Il y en a dans le poisson</string>
+			<string>ETES</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Abeille</string>
+			<string>ETES</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Excrément</string>
+			<string> Tondue</string>
+			<string>ETRON</string>
+			<string>RASEE</string>
+		</array>
+		<array>
+			<string> Excrément</string>
+			<string> Elle fait souvent la une</string>
+			<string>ETRON</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string> Excrément</string>
+			<string> Période d'amours et de combats</string>
+			<string>ETRON</string>
+			<string>RUT</string>
+		</array>
+		<array>
+			<string> Excrément</string>
+			<string> Variété de poire</string>
+			<string>ETRON</string>
+			<string>GUYOT</string>
+		</array>
+		<array>
+			<string> Excrément</string>
+			<string> Patriarche de la bible</string>
+			<string>ETRON</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Affligés</string>
+			<string>S</string>
+			<string>DESESPERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Précis</string>
+			<string> Déchéance</string>
+			<string>NET</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string>  Précis</string>
+			<string> Plus courte</string>
+			<string>NET</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string>  Précis</string>
+			<string> Il y en a dans le poisson</string>
+			<string>NET</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Interjection</string>
+			<string>E</string>
+			<string>EH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Nous transportent</string>
+			<string> Elle fait souvent la une</string>
+			<string>AUTOS</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string> Nous transportent</string>
+			<string> Période d'amours et de combats</string>
+			<string>AUTOS</string>
+			<string>RUT</string>
+		</array>
+		<array>
+			<string> Nous transportent</string>
+			<string> Variété de poire</string>
+			<string>AUTOS</string>
+			<string>GUYOT</string>
+		</array>
+		<array>
+			<string> Nous transportent</string>
+			<string> Patriarche de la bible</string>
+			<string>AUTOS</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string> Nous transportent</string>
+			<string> Symbole chimique</string>
+			<string>AUTOS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Maillot</string>
+			<string> Déchéance</string>
+			<string>TEESHIRT</string>
+			<string>DECLASSEMENT</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Plus courte</string>
+			<string>TEESHIRT</string>
+			<string>ETETEE</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Il y en a dans le poisson</string>
+			<string>TEESHIRT</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string></string>
+			<string>TEESHIRT</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Interjection</string>
+			<string>TEESHIRT</string>
+			<string>EH</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string></string>
+			<string>TEESHIRT</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Elle fait souvent la une</string>
+			<string>TEESHIRT</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Période d'amours et de combats</string>
+			<string>TEESHIRT</string>
+			<string>RUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Patriarche de la bible</string>
+			<string>ERE</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Symbole chimique</string>
+			<string>ERE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string></string>
+			<string>ERE</string>
+			<string>E</string>
+		</array>
+	</array>
+</array>
+</plist>

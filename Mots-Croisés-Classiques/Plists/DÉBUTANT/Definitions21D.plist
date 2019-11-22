@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Sottises</string>
+			<string> Insolences</string>
+			<string>ABSURDITES</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Manger gloutonnement</string>
+			<string>ABSURDITES</string>
+			<string>BAFRER</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Police nazi</string>
+			<string>ABSURDITES</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Accessoires</string>
+			<string>ABSURDITES</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Petit ruisseau</string>
+			<string>ABSURDITES</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Dense</string>
+			<string>ABSURDITES</string>
+			<string>DRU</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Une victoire de Napoléon</string>
+			<string>ABSURDITES</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Services financiers</string>
+			<string>ABSURDITES</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string></string>
+			<string>ABSURDITES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Sottises</string>
+			<string> Pronom</string>
+			<string>ABSURDITES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Insolences</string>
+			<string>RASSURER</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Manger gloutonnement</string>
+			<string>RASSURER</string>
+			<string>BAFRER</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Police nazi</string>
+			<string>RASSURER</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Accessoires</string>
+			<string>RASSURER</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Petit ruisseau</string>
+			<string>RASSURER</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Dense</string>
+			<string>RASSURER</string>
+			<string>DRU</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Une victoire de Napoléon</string>
+			<string>RASSURER</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Rendre la confiance</string>
+			<string> Services financiers</string>
+			<string>RASSURER</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pronom</string>
+			<string>E</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Radiofréquence</string>
+			<string> Insolences</string>
+			<string>RF</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Radiofréquence</string>
+			<string> Manger gloutonnement</string>
+			<string>RF</string>
+			<string>BAFRER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Accessoires</string>
+			<string>T</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Dense</string>
+			<string>UNES</string>
+			<string>DRU</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Une victoire de Napoléon</string>
+			<string>UNES</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Services financiers</string>
+			<string>UNES</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Possessif.</string>
+			<string>UNES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Parés</string>
+			<string> Insolences</string>
+			<string>ORNES</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Parés</string>
+			<string> Manger gloutonnement</string>
+			<string>ORNES</string>
+			<string>BAFRER</string>
+		</array>
+		<array>
+			<string> Parés</string>
+			<string> Refuter</string>
+			<string>ORNES</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Parés</string>
+			<string> Accessoires</string>
+			<string>ORNES</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string> Parés</string>
+			<string> Abréviation religieuse</string>
+			<string>ORNES</string>
+			<string>ST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dieu guerrier</string>
+			<string> Une victoire de Napoléon</string>
+			<string>ASES</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string> Dieu guerrier</string>
+			<string> Services financiers</string>
+			<string>ASES</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Dieu guerrier</string>
+			<string> Possessif.</string>
+			<string>ASES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Dieu guerrier</string>
+			<string> Logiques</string>
+			<string>ASES</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pleure</string>
+			<string> Insolences</string>
+			<string>GEINT</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Pleure</string>
+			<string> Manger gloutonnement</string>
+			<string>GEINT</string>
+			<string>BAFRER</string>
+		</array>
+		<array>
+			<string> Pleure</string>
+			<string> Refuter</string>
+			<string>GEINT</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Pleure</string>
+			<string> Accessoires</string>
+			<string>GEINT</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string> Pleure</string>
+			<string> Abréviation religieuse</string>
+			<string>GEINT</string>
+			<string>ST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fonce</string>
+			<string> Services financiers</string>
+			<string>OSE</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Fonce</string>
+			<string> Possessif.</string>
+			<string>OSE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Fonce</string>
+			<string> Logiques</string>
+			<string>OSE</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lopins de terre</string>
+			<string> Insolences</string>
+			<string>ARES</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Lopins de terre</string>
+			<string> Manger gloutonnement</string>
+			<string>ARES</string>
+			<string>BAFRER</string>
+		</array>
+		<array>
+			<string> Lopins de terre</string>
+			<string> Refuter</string>
+			<string>ARES</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Lopins de terre</string>
+			<string> Accessoires</string>
+			<string>ARES</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Le golfeur ne peut s&apos;en passer</string>
+			<string>TER</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Extra terrestre</string>
+			<string>TER</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Services financiers</string>
+			<string>TER</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Logiques</string>
+			<string>N</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Insolences</string>
+			<string>N</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Refuter</string>
+			<string>RIVETEES</string>
+			<string>NIER</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Accessoires</string>
+			<string>RIVETEES</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Cales</string>
+			<string>RIVETEES</string>
+			<string>VES</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Le golfeur ne peut s&apos;en passer</string>
+			<string>RIVETEES</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Extra terrestre</string>
+			<string>RIVETEES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Services financiers</string>
+			<string>RIVETEES</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Affluent de la Seine</string>
+			<string>RIVETEES</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string> Fixées</string>
+			<string> Logiques</string>
+			<string>RIVETEES</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Insolences</string>
+			<string>CE</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Démonstratif</string>
+			<string> Du verbe être</string>
+			<string>CE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Accessoires</string>
+			<string>LEE</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Cales</string>
+			<string>LEE</string>
+			<string>VES</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Le golfeur ne peut s&apos;en passer</string>
+			<string>LEE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Les gens y circulent</string>
+			<string> Services financiers</string>
+			<string>RUE</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Les gens y circulent</string>
+			<string> Affluent de la Seine</string>
+			<string>RUE</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string> Les gens y circulent</string>
+			<string> Logiques</string>
+			<string>RUE</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Crochets</string>
+			<string> Insolences</string>
+			<string>ESSES</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Du verbe être</string>
+			<string>ESSES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Possessif</string>
+			<string>ESSES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Accessoires</string>
+			<string>ESSES</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Cales</string>
+			<string>ESSES</string>
+			<string>VES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prononcer</string>
+			<string> Docteur</string>
+			<string>DIRE</string>
+			<string>DR</string>
+		</array>
+		<array>
+			<string> Prononcer</string>
+			<string> Services financiers</string>
+			<string>DIRE</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Prononcer</string>
+			<string> Affluent de la Seine</string>
+			<string>DIRE</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string> Prononcer</string>
+			<string> Logiques</string>
+			<string>DIRE</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Insolences</string>
+			<string>S</string>
+			<string>ARROGANCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Possessif</string>
+			<string>AS</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Accessoires</string>
+			<string>AS</string>
+			<string>USTENSILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lisières</string>
+			<string></string>
+			<string>OREES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Lisières</string>
+			<string> Docteur</string>
+			<string>OREES</string>
+			<string>DR</string>
+		</array>
+		<array>
+			<string> Lisières</string>
+			<string> Services financiers</string>
+			<string>OREES</string>
+			<string>TRESORERIE</string>
+		</array>
+		<array>
+			<string> Lisières</string>
+			<string> Affluent de la Seine</string>
+			<string>OREES</string>
+			<string>EURE</string>
+		</array>
+		<array>
+			<string> Lisières</string>
+			<string> Logiques</string>
+			<string>OREES</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+</array>
+</plist>

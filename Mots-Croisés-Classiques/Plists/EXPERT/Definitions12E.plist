@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Propulsent</string>
+			<string> Grand changement</string>
+			<string>MOTEURFUSEES</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Pas écrites</string>
+			<string>MOTEURFUSEES</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Bruit sec</string>
+			<string>MOTEURFUSEES</string>
+			<string>TAC</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> On ne le brule pas</string>
+			<string>MOTEURFUSEES</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Subséquentes</string>
+			<string>MOTEURFUSEES</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Note</string>
+			<string>MOTEURFUSEES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string></string>
+			<string>MOTEURFUSEES</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Fabrications</string>
+			<string>MOTEURFUSEES</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Monnaie</string>
+			<string>MOTEURFUSEES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>MOTEURFUSEES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>MOTEURFUSEES</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string> Propulsent</string>
+			<string> Possessif.</string>
+			<string>MOTEURFUSEES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Grand arbre</string>
+			<string> Grand changement</string>
+			<string>ERABLE</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Grand arbre</string>
+			<string> Pas écrites</string>
+			<string>ERABLE</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Grand arbre</string>
+			<string> Bruit sec</string>
+			<string>ERABLE</string>
+			<string>TAC</string>
+		</array>
+		<array>
+			<string> Grand arbre</string>
+			<string> On ne le brule pas</string>
+			<string>ERABLE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string> Grand arbre</string>
+			<string> Subséquentes</string>
+			<string>ERABLE</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Grand arbre</string>
+			<string> Note</string>
+			<string>ERABLE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Fabrications</string>
+			<string>SENSE</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Monnaie</string>
+			<string>SENSE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>SENSE</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>SENSE</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Possessif.</string>
+			<string>SENSE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Silence</string>
+			<string> Grand changement</string>
+			<string>TACET</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Silence</string>
+			<string> Pas écrites</string>
+			<string>TACET</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Silence</string>
+			<string> Bruit sec</string>
+			<string>TACET</string>
+			<string>TAC</string>
+		</array>
+		<array>
+			<string> Silence</string>
+			<string> On ne le brule pas</string>
+			<string>TACET</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string> Silence</string>
+			<string> Subséquentes</string>
+			<string>TACET</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bêchées</string>
+			<string> Bulletin officiel</string>
+			<string>BINEES</string>
+			<string>BO</string>
+		</array>
+		<array>
+			<string> Bêchées</string>
+			<string> Fabrications</string>
+			<string>BINEES</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string> Bêchées</string>
+			<string> Monnaie</string>
+			<string>BINEES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Bêchées</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>BINEES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Bêchées</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>BINEES</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string> Bêchées</string>
+			<string> Possessif.</string>
+			<string>BINEES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Alu</string>
+			<string> Grand changement</string>
+			<string>AL</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Alu</string>
+			<string> Pas écrites</string>
+			<string>AL</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Empereur romain</string>
+			<string> On ne le brule pas</string>
+			<string>NERON</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string> Empereur romain</string>
+			<string> Subséquentes</string>
+			<string>NERON</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Empereur romain</string>
+			<string> Dose de radiation</string>
+			<string>NERON</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string> Empereur romain</string>
+			<string> Bulletin officiel</string>
+			<string>NERON</string>
+			<string>BO</string>
+		</array>
+		<array>
+			<string> Empereur romain</string>
+			<string> Fabrications</string>
+			<string>NERON</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Fils d&apos;Aphrodite</string>
+			<string>ER</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>ER</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elle n&apos;est plus très jeune</string>
+			<string> Grand changement</string>
+			<string>MEMERE</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Elle n&apos;est plus très jeune</string>
+			<string> Pas écrites</string>
+			<string>MEMERE</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Elle n&apos;est plus très jeune</string>
+			<string> Larve</string>
+			<string>MEMERE</string>
+			<string>MAN</string>
+		</array>
+		<array>
+			<string> Elle n&apos;est plus très jeune</string>
+			<string> On ne le brule pas</string>
+			<string>MEMERE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string> Elle n&apos;est plus très jeune</string>
+			<string> Subséquentes</string>
+			<string>MEMERE</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Elle n&apos;est plus très jeune</string>
+			<string> Dose de radiation</string>
+			<string>MEMERE</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vin de Champagne</string>
+			<string> Fabrications</string>
+			<string>AY</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string> Vin de Champagne</string>
+			<string> Circule au Japon</string>
+			<string>AY</string>
+			<string>YEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Romain</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>II</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string> Romain</string>
+			<string> À la fin de la messe</string>
+			<string>II</string>
+			<string>ITE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ne se laissa pas intimider</string>
+			<string> Grand changement</string>
+			<string>OSA</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Ne se laissa pas intimider</string>
+			<string> Pas écrites</string>
+			<string>OSA</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Ne se laissa pas intimider</string>
+			<string> Larve</string>
+			<string>OSA</string>
+			<string>MAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Subséquentes</string>
+			<string>IMAGEANT</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Dose de radiation</string>
+			<string>IMAGEANT</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Premières balles</string>
+			<string>IMAGEANT</string>
+			<string>ACES</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Fabrications</string>
+			<string>IMAGEANT</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Circule au Japon</string>
+			<string>IMAGEANT</string>
+			<string>YEN</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Dieu guerrier</string>
+			<string>IMAGEANT</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>IMAGEANT</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string> Ornant</string>
+			<string> À la fin de la messe</string>
+			<string>IMAGEANT</string>
+			<string>ITE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Grand changement</string>
+			<string>R</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Larve</string>
+			<string>NEE</string>
+			<string>MAN</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Période</string>
+			<string>NEE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Arrivée</string>
+			<string> Subséquentes</string>
+			<string>NEE</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Premières balles</string>
+			<string>CENSEE</string>
+			<string>ACES</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Fabrications</string>
+			<string>CENSEE</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Circule au Japon</string>
+			<string>CENSEE</string>
+			<string>YEN</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Dieu guerrier</string>
+			<string>CENSEE</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>CENSEE</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string> Présumée</string>
+			<string> À la fin de la messe</string>
+			<string>CENSEE</string>
+			<string>ITE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pascal</string>
+			<string> Grand changement</string>
+			<string>PA</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Pascal</string>
+			<string> Ouvres la fenêtre</string>
+			<string>PA</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Roueries</string>
+			<string> Période</string>
+			<string>RUSES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Roueries</string>
+			<string> Subséquentes</string>
+			<string>RUSES</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Roueries</string>
+			<string> Bête</string>
+			<string>RUSES</string>
+			<string>SOT</string>
+		</array>
+		<array>
+			<string> Roueries</string>
+			<string> Premières balles</string>
+			<string>RUSES</string>
+			<string>ACES</string>
+		</array>
+		<array>
+			<string> Roueries</string>
+			<string> Fabrications</string>
+			<string>RUSES</string>
+			<string>USINAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Dieu guerrier</string>
+			<string>ES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Alcaloïdes toxiques</string>
+			<string>ES</string>
+			<string>ESERINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Grand changement</string>
+			<string>HETEROS</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Ouvres la fenêtre</string>
+			<string>HETEROS</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Indique une multiplication</string>
+			<string>HETEROS</string>
+			<string>TERA</string>
+		</array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Période</string>
+			<string>HETEROS</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Subséquentes</string>
+			<string>HETEROS</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Bête</string>
+			<string>HETEROS</string>
+			<string>SOT</string>
+		</array>
+		<array>
+			<string> Aiment l&apos;opposé</string>
+			<string> Premières balles</string>
+			<string>HETEROS</string>
+			<string>ACES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Facile</string>
+			<string>AS</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Dieu guerrier</string>
+			<string>AS</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Non!</string>
+			<string>N</string>
+			<string>NIET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie scandinave</string>
+			<string> Grand changement</string>
+			<string>ORE</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Monnaie scandinave</string>
+			<string> Ouvres la fenêtre</string>
+			<string>ORE</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Monnaie scandinave</string>
+			<string> Indique une multiplication</string>
+			<string>ORE</string>
+			<string>TERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Subséquentes</string>
+			<string>ET</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Bête</string>
+			<string>ET</string>
+			<string>SOT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Terme de tennis</string>
+			<string>SI</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Facile</string>
+			<string>SI</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bismuth</string>
+			<string> C&apos;est bien familier</string>
+			<string>BI</string>
+			<string>BEN</string>
+		</array>
+		<array>
+			<string> Bismuth</string>
+			<string> Non!</string>
+			<string>BI</string>
+			<string>NIET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Deviendra</string>
+			<string> Grand changement</string>
+			<string>SERAS</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Deviendra</string>
+			<string> Ouvres la fenêtre</string>
+			<string>SERAS</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Deviendra</string>
+			<string> Indique une multiplication</string>
+			<string>SERAS</string>
+			<string>TERA</string>
+		</array>
+		<array>
+			<string> Deviendra</string>
+			<string> Or</string>
+			<string>SERAS</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string> Deviendra</string>
+			<string> Subséquentes</string>
+			<string>SERAS</string>
+			<string>ULTERIEURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vérifiée</string>
+			<string> Règle</string>
+			<string>TESTEE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Vérifiée</string>
+			<string> Terme de tennis</string>
+			<string>TESTEE</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Vérifiée</string>
+			<string> Facile</string>
+			<string>TESTEE</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string> Vérifiée</string>
+			<string> Titane</string>
+			<string>TESTEE</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string> Vérifiée</string>
+			<string> C&apos;est bien familier</string>
+			<string>TESTEE</string>
+			<string>BEN</string>
+		</array>
+		<array>
+			<string> Vérifiée</string>
+			<string> Non!</string>
+			<string>TESTEE</string>
+			<string>NIET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fils d&apos;Isaac</string>
+			<string> Grand changement</string>
+			<string>ESAU</string>
+			<string>METAMORPHOSE</string>
+		</array>
+		<array>
+			<string> Fils d&apos;Isaac</string>
+			<string> Ouvres la fenêtre</string>
+			<string>ESAU</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Fils d&apos;Isaac</string>
+			<string> Indique une multiplication</string>
+			<string>ESAU</string>
+			<string>TERA</string>
+		</array>
+		<array>
+			<string> Fils d&apos;Isaac</string>
+			<string> Or</string>
+			<string>ESAU</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string></string>
+			<string>RETEINT</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string> Règle</string>
+			<string>RETEINT</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string> Terme de tennis</string>
+			<string>RETEINT</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string> Facile</string>
+			<string>RETEINT</string>
+			<string>AISE</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string> Titane</string>
+			<string>RETEINT</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string> C&apos;est bien familier</string>
+			<string>RETEINT</string>
+			<string>BEN</string>
+		</array>
+		<array>
+			<string>Colore à nouveau</string>
+			<string> Non!</string>
+			<string>RETEINT</string>
+			<string>NIET</string>
+		</array>
+	</array>
+</array>
+</plist>

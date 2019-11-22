@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Devrait manger un peu plus</string>
+			<string>MAGNETOPHONE</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Accepte</string>
+			<string>MAGNETOPHONE</string>
+			<string>AGREE</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Mère des Titans</string>
+			<string>MAGNETOPHONE</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Arrivées</string>
+			<string>MAGNETOPHONE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Estoniens</string>
+			<string>MAGNETOPHONE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string></string>
+			<string>MAGNETOPHONE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Risquer</string>
+			<string>MAGNETOPHONE</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Platine</string>
+			<string>MAGNETOPHONE</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Ictères</string>
+			<string>MAGNETOPHONE</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Vocales</string>
+			<string>MAGNETOPHONE</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Arbres africains</string>
+			<string>MAGNETOPHONE</string>
+			<string>NERES</string>
+		</array>
+		<array>
+			<string> Enregistreur</string>
+			<string> Du verbe être</string>
+			<string>MAGNETOPHONE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Devrait manger un peu plus</string>
+			<string>AGEES</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Accepte</string>
+			<string>AGEES</string>
+			<string>AGREE</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Mère des Titans</string>
+			<string>AGEES</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Arrivées</string>
+			<string>AGEES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Expérimentées</string>
+			<string> Estoniens</string>
+			<string>AGEES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Risquer</string>
+			<string>STERES</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Platine</string>
+			<string>STERES</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Ictères</string>
+			<string>STERES</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Vocales</string>
+			<string>STERES</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Arbres africains</string>
+			<string>STERES</string>
+			<string>NERES</string>
+		</array>
+		<array>
+			<string> Volumes de bois</string>
+			<string> Du verbe être</string>
+			<string>STERES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Devrait manger un peu plus</string>
+			<string>IR</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Accepte</string>
+			<string>IR</string>
+			<string>AGREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Arrivées</string>
+			<string>ETRE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Estoniens</string>
+			<string>ETRE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string></string>
+			<string>ETRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Risquer</string>
+			<string>ETRE</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Préposition</string>
+			<string> Ictères</string>
+			<string>PAR</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Préposition</string>
+			<string> Vocales</string>
+			<string>PAR</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Préposition</string>
+			<string> Arbres africains</string>
+			<string>PAR</string>
+			<string>NERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plante légumineuse</string>
+			<string> Devrait manger un peu plus</string>
+			<string>GESSE</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Plante légumineuse</string>
+			<string> Accepte</string>
+			<string>GESSE</string>
+			<string>AGREE</string>
+		</array>
+		<array>
+			<string> Plante légumineuse</string>
+			<string> Tamis</string>
+			<string>GESSE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string> Plante légumineuse</string>
+			<string> Arrivées</string>
+			<string>GESSE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Plante légumineuse</string>
+			<string> Estoniens</string>
+			<string>GESSE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Galères</string>
+			<string> Risquer</string>
+			<string>REALES</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string> Galères</string>
+			<string> Prêtres celtes</string>
+			<string>REALES</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string> Galères</string>
+			<string> Ictères</string>
+			<string>REALES</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Galères</string>
+			<string> Vocales</string>
+			<string>REALES</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Galères</string>
+			<string> Arbres africains</string>
+			<string>REALES</string>
+			<string>NERES</string>
+		</array>
+		<array>
+			<string> Galères</string>
+			<string></string>
+			<string>REALES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Roue</string>
+			<string> Devrait manger un peu plus</string>
+			<string>REA</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string> Accepte</string>
+			<string>REA</string>
+			<string>AGREE</string>
+		</array>
+		<array>
+			<string> Roue</string>
+			<string> Tamis</string>
+			<string>REA</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ce n&apos;est pas à toi</string>
+			<string> Estoniens</string>
+			<string>SA</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Ce n&apos;est pas à toi</string>
+			<string> Fractions de siècle</string>
+			<string>SA</string>
+			<string>ANS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Prêtres celtes</string>
+			<string>UTES</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Ictères</string>
+			<string>UTES</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Vocales</string>
+			<string>UTES</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Arbres africains</string>
+			<string>UTES</string>
+			<string>NERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Devrait manger un peu plus</string>
+			<string>I</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Tamis</string>
+			<string>SE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Périodes de vacances</string>
+			<string>SE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prophètes hébreux</string>
+			<string> Fractions de siècle</string>
+			<string>NABIS</string>
+			<string>ANS</string>
+		</array>
+		<array>
+			<string> Prophètes hébreux</string>
+			<string> Baies</string>
+			<string>NABIS</string>
+			<string>ATACAS</string>
+		</array>
+		<array>
+			<string> Prophètes hébreux</string>
+			<string> Prêtres celtes</string>
+			<string>NABIS</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string> Prophètes hébreux</string>
+			<string> Ictères</string>
+			<string>NABIS</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Prophètes hébreux</string>
+			<string> Vocales</string>
+			<string>NABIS</string>
+			<string>ORALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Solidement établies</string>
+			<string>A</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Cela</string>
+			<string> Devrait manger un peu plus</string>
+			<string>CA</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Cela</string>
+			<string> Ventilées</string>
+			<string>CA</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Grillât</string>
+			<string> Périodes de vacances</string>
+			<string>TOSTAT</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Grillât</string>
+			<string> Hic</string>
+			<string>TOSTAT</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Grillât</string>
+			<string> Fractions de siècle</string>
+			<string>TOSTAT</string>
+			<string>ANS</string>
+		</array>
+		<array>
+			<string> Grillât</string>
+			<string> Baies</string>
+			<string>TOSTAT</string>
+			<string>ATACAS</string>
+		</array>
+		<array>
+			<string> Grillât</string>
+			<string> Prêtres celtes</string>
+			<string>TOSTAT</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string> Grillât</string>
+			<string> Ictères</string>
+			<string>TOSTAT</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Police militarisée</string>
+			<string> Rayée</string>
+			<string>SS</string>
+			<string>STRIEE</string>
+		</array>
+		<array>
+			<string> Police militarisée</string>
+			<string> Solidement établies</string>
+			<string>SS</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Hommes pauvres</string>
+			<string> Devrait manger un peu plus</string>
+			<string>HERES</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Hommes pauvres</string>
+			<string> Ventilées</string>
+			<string>HERES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Hommes pauvres</string>
+			<string> Guéris</string>
+			<string>HERES</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> Hommes pauvres</string>
+			<string> Périodes de vacances</string>
+			<string>HERES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Hommes pauvres</string>
+			<string> Hic</string>
+			<string>HERES</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Chargés des affaires</string>
+			<string> Baies</string>
+			<string>AGENTS</string>
+			<string>ATACAS</string>
+		</array>
+		<array>
+			<string> Chargés des affaires</string>
+			<string> Prêtres celtes</string>
+			<string>AGENTS</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string> Chargés des affaires</string>
+			<string> Ictères</string>
+			<string>AGENTS</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string> Chargés des affaires</string>
+			<string></string>
+			<string>AGENTS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Chargés des affaires</string>
+			<string> Rayée</string>
+			<string>AGENTS</string>
+			<string>STRIEE</string>
+		</array>
+		<array>
+			<string> Chargés des affaires</string>
+			<string> Solidement établies</string>
+			<string>AGENTS</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string> Devrait manger un peu plus</string>
+			<string>ORES</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string> Ventilées</string>
+			<string>ORES</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string> Guéris</string>
+			<string>ORES</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> D&apos;une expression signifiant désormais</string>
+			<string> Périodes de vacances</string>
+			<string>ORES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Paresseux</string>
+			<string>ACES</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Baies</string>
+			<string>ACES</string>
+			<string>ATACAS</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Prêtres celtes</string>
+			<string>ACES</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Ictères</string>
+			<string>ACES</string>
+			<string>HEPATITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Rayée</string>
+			<string>RI</string>
+			<string>STRIEE</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Solidement établies</string>
+			<string>RI</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pâté impérial</string>
+			<string> Devrait manger un peu plus</string>
+			<string>NEM</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Pâté impérial</string>
+			<string> Ventilées</string>
+			<string>NEM</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Pâté impérial</string>
+			<string> Guéris</string>
+			<string>NEM</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jurassique inférieur</string>
+			<string> Circulent en Roumanie</string>
+			<string>LIAS</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string> Jurassique inférieur</string>
+			<string> Paresseux</string>
+			<string>LIAS</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string> Jurassique inférieur</string>
+			<string> Baies</string>
+			<string>LIAS</string>
+			<string>ATACAS</string>
+		</array>
+		<array>
+			<string> Jurassique inférieur</string>
+			<string> Prêtres celtes</string>
+			<string>LIAS</string>
+			<string>EUBAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plaque</string>
+			<string> Lopin de terre</string>
+			<string>AIS</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Plaque</string>
+			<string> Rayée</string>
+			<string>AIS</string>
+			<string>STRIEE</string>
+		</array>
+		<array>
+			<string> Plaque</string>
+			<string> Solidement établies</string>
+			<string>AIS</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> S&apos;accumule l&apos;hiver</string>
+			<string> Devrait manger un peu plus</string>
+			<string>NEIGE</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> S&apos;accumule l&apos;hiver</string>
+			<string> Ventilées</string>
+			<string>NEIGE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> S&apos;accumule l&apos;hiver</string>
+			<string> Guéris</string>
+			<string>NEIGE</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> S&apos;accumule l&apos;hiver</string>
+			<string> Gallium</string>
+			<string>NEIGE</string>
+			<string>GA</string>
+		</array>
+		<array>
+			<string> S&apos;accumule l&apos;hiver</string>
+			<string> Circulent en Roumanie</string>
+			<string>NEIGE</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Baies</string>
+			<string>S</string>
+			<string>ATACAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Engrais azoté</string>
+			<string> Moeurs</string>
+			<string>UREE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Engrais azoté</string>
+			<string> Lopin de terre</string>
+			<string>UREE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Engrais azoté</string>
+			<string> Rayée</string>
+			<string>UREE</string>
+			<string>STRIEE</string>
+		</array>
+		<array>
+			<string> Engrais azoté</string>
+			<string> Solidement établies</string>
+			<string>UREE</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tente</string>
+			<string> Devrait manger un peu plus</string>
+			<string>ESSAIE</string>
+			<string>MAIGRICHONNE</string>
+		</array>
+		<array>
+			<string> Tente</string>
+			<string> Ventilées</string>
+			<string>ESSAIE</string>
+			<string>AEREES</string>
+		</array>
+		<array>
+			<string> Tente</string>
+			<string> Guéris</string>
+			<string>ESSAIE</string>
+			<string>REMIS</string>
+		</array>
+		<array>
+			<string> Tente</string>
+			<string> Gallium</string>
+			<string>ESSAIE</string>
+			<string>GA</string>
+		</array>
+		<array>
+			<string> Tente</string>
+			<string> Circulent en Roumanie</string>
+			<string>ESSAIE</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string> Tente</string>
+			<string></string>
+			<string>ESSAIE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string></string>
+			<string>OSEES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Moeurs</string>
+			<string>OSEES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Lopin de terre</string>
+			<string>OSEES</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Rayée</string>
+			<string>OSEES</string>
+			<string>STRIEE</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Solidement établies</string>
+			<string>OSEES</string>
+			<string>ASSISES</string>
+		</array>
+	</array>
+</array>
+</plist>

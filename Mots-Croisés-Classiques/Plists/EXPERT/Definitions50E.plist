@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Désuétude</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>OBSOLESCENCE</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Dupe</string>
+			<string>OBSOLESCENCE</string>
+			<string>BERNE</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Métal malléable</string>
+			<string>OBSOLESCENCE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> C'était une armée</string>
+			<string>OBSOLESCENCE</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Vrais chefs</string>
+			<string>OBSOLESCENCE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Ville d'Italie</string>
+			<string>OBSOLESCENCE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string></string>
+			<string>OBSOLESCENCE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Faufiles</string>
+			<string>OBSOLESCENCE</string>
+			<string>COUSES</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Pour suspendre</string>
+			<string>OBSOLESCENCE</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Arrivées</string>
+			<string>OBSOLESCENCE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Adjectif démonstratif</string>
+			<string>OBSOLESCENCE</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Désuétude</string>
+			<string> Du verbe être</string>
+			<string>OBSOLESCENCE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Supposés</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>CENSES</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Supposés</string>
+			<string> Dupe</string>
+			<string>CENSES</string>
+			<string>BERNE</string>
+		</array>
+		<array>
+			<string> Supposés</string>
+			<string> Métal malléable</string>
+			<string>CENSES</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Supposés</string>
+			<string> C'était une armée</string>
+			<string>CENSES</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Supposés</string>
+			<string> Vrais chefs</string>
+			<string>CENSES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Supposés</string>
+			<string> Ville d'Italie</string>
+			<string>CENSES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Faufiles</string>
+			<string>OSEES</string>
+			<string>COUSES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Pour suspendre</string>
+			<string>OSEES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Arrivées</string>
+			<string>OSEES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Adjectif démonstratif</string>
+			<string>OSEES</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Du verbe être</string>
+			<string>OSEES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tour</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>TR</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Dupe</string>
+			<string>TR</string>
+			<string>BERNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> C'était une armée</string>
+			<string>TATEUSES</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Vrais chefs</string>
+			<string>TATEUSES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Ville d'Italie</string>
+			<string>TATEUSES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Greffée</string>
+			<string>TATEUSES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Faufiles</string>
+			<string>TATEUSES</string>
+			<string>COUSES</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Pour suspendre</string>
+			<string>TATEUSES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Arrivées</string>
+			<string>TATEUSES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Elles explorent</string>
+			<string> Adjectif démonstratif</string>
+			<string>TATEUSES</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Direction</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>ONO</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Dupe</string>
+			<string>ONO</string>
+			<string>BERNE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Saucée</string>
+			<string>ONO</string>
+			<string>ONDEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Serrés</string>
+			<string> Vrais chefs</string>
+			<string>DENSES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Serrés</string>
+			<string> Ville d'Italie</string>
+			<string>DENSES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Serrés</string>
+			<string> Greffée</string>
+			<string>DENSES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Serrés</string>
+			<string> Faufiles</string>
+			<string>DENSES</string>
+			<string>COUSES</string>
+		</array>
+		<array>
+			<string> Serrés</string>
+			<string> Pour suspendre</string>
+			<string>DENSES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Serrés</string>
+			<string> Arrivées</string>
+			<string>DENSES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Résines</string>
+			<string>A</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dérangée</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>GENEE</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> Dupe</string>
+			<string>GENEE</string>
+			<string>BERNE</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> Saucée</string>
+			<string>GENEE</string>
+			<string>ONDEE</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> D'un auxiliaire</string>
+			<string>GENEE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Dérangée</string>
+			<string> Vrais chefs</string>
+			<string>GENEE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Greffée</string>
+			<string>TES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Faufiles</string>
+			<string>TES</string>
+			<string>COUSES</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Pour suspendre</string>
+			<string>TES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Presser</string>
+			<string>US</string>
+			<string>URGER</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> Résines</string>
+			<string>US</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>E</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Des heures, par exemple</string>
+			<string> Saucée</string>
+			<string>DUREES</string>
+			<string>ONDEE</string>
+		</array>
+		<array>
+			<string> Des heures, par exemple</string>
+			<string> D'un auxiliaire</string>
+			<string>DUREES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Des heures, par exemple</string>
+			<string> Vrais chefs</string>
+			<string>DUREES</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Des heures, par exemple</string>
+			<string> Trompée</string>
+			<string>DUREES</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string> Des heures, par exemple</string>
+			<string> Greffée</string>
+			<string>DUREES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Des heures, par exemple</string>
+			<string> Faufiles</string>
+			<string>DUREES</string>
+			<string>COUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Plante herbacée</string>
+			<string>ERE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Presser</string>
+			<string>ERE</string>
+			<string>URGER</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Résines</string>
+			<string>ERE</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sortie</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>NEE</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Égalise</string>
+			<string>NEE</string>
+			<string>ECRETE</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Saucée</string>
+			<string>NEE</string>
+			<string>ONDEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Vrais chefs</string>
+			<string>SUE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Trompée</string>
+			<string>SUE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Greffée</string>
+			<string>SUE</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string> Muse de la poésie</string>
+			<string>ERGS</string>
+			<string>ERATO</string>
+		</array>
+		<array>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string> Plante herbacée</string>
+			<string>ERGS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string> Presser</string>
+			<string>ERGS</string>
+			<string>URGER</string>
+		</array>
+		<array>
+			<string> Régions désertiques couvertes de dunes</string>
+			<string> Résines</string>
+			<string>ERGS</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Font le point</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>ACES</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Égalise</string>
+			<string>ACES</string>
+			<string>ECRETE</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Saucée</string>
+			<string>ACES</string>
+			<string>ONDEE</string>
+		</array>
+		<array>
+			<string> Font le point</string>
+			<string> Destin</string>
+			<string>ACES</string>
+			<string>SORT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Trompée</string>
+			<string>E</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Un des premiers agents secrets</string>
+			<string>ERSE</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Muse de la poésie</string>
+			<string>ERSE</string>
+			<string>ERATO</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Plante herbacée</string>
+			<string>ERSE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Presser</string>
+			<string>ERSE</string>
+			<string>URGER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>IR</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Égalise</string>
+			<string>IR</string>
+			<string>ECRETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Destin</string>
+			<string>ON</string>
+			<string>SORT</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Arbre africain</string>
+			<string>ON</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Grand serpent</string>
+			<string> Trop satisfait</string>
+			<string>BOA</string>
+			<string>BEAT</string>
+		</array>
+		<array>
+			<string> Grand serpent</string>
+			<string> Un des premiers agents secrets</string>
+			<string>BOA</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string> Grand serpent</string>
+			<string> Muse de la poésie</string>
+			<string>BOA</string>
+			<string>ERATO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dieu Egyptien</string>
+			<string> Presser</string>
+			<string>RA</string>
+			<string>URGER</string>
+		</array>
+		<array>
+			<string> Dieu Egyptien</string>
+			<string> Ventile</string>
+			<string>RA</string>
+			<string>AERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>REPRESENTE</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Égalise</string>
+			<string>REPRESENTE</string>
+			<string>ECRETE</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string></string>
+			<string>REPRESENTE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Destin</string>
+			<string>REPRESENTE</string>
+			<string>SORT</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Arbre africain</string>
+			<string>REPRESENTE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Élément qui signifie, de la chine</string>
+			<string>REPRESENTE</string>
+			<string>SIN</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Trop satisfait</string>
+			<string>REPRESENTE</string>
+			<string>BEAT</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Un des premiers agents secrets</string>
+			<string>REPRESENTE</string>
+			<string>EON</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Muse de la poésie</string>
+			<string>REPRESENTE</string>
+			<string>ERATO</string>
+		</array>
+		<array>
+			<string> Symbolisé</string>
+			<string> Six mois après Noël</string>
+			<string>REPRESENTE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ventile</string>
+			<string>E</string>
+			<string>AERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un film de Spielberg</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>ET</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Un film de Spielberg</string>
+			<string> Égalise</string>
+			<string>ET</string>
+			<string>ECRETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Classa</string>
+			<string> Destin</string>
+			<string>TRIA</string>
+			<string>SORT</string>
+		</array>
+		<array>
+			<string> Classa</string>
+			<string> Arbre africain</string>
+			<string>TRIA</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Classa</string>
+			<string> Élément qui signifie, de la chine</string>
+			<string>TRIA</string>
+			<string>SIN</string>
+		</array>
+		<array>
+			<string> Classa</string>
+			<string> Trop satisfait</string>
+			<string>TRIA</string>
+			<string>BEAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prendre</string>
+			<string> Muse de la poésie</string>
+			<string>OTER</string>
+			<string>ERATO</string>
+		</array>
+		<array>
+			<string> Prendre</string>
+			<string> Six mois après Noël</string>
+			<string>OTER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Prendre</string>
+			<string> Dans</string>
+			<string>OTER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Prendre</string>
+			<string> Ventile</string>
+			<string>OTER</string>
+			<string>AERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> Ils sont de plus en plus nombreux</string>
+			<string>SES</string>
+			<string>OCTOGENAIRES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Égalise</string>
+			<string>SES</string>
+			<string>ECRETE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string></string>
+			<string>SES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string> Arbre africain</string>
+			<string>ENTE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string> Élément qui signifie, de la chine</string>
+			<string>ENTE</string>
+			<string>SIN</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string> Trop satisfait</string>
+			<string>ENTE</string>
+			<string>BEAT</string>
+		</array>
+		<array>
+			<string> Greffe</string>
+			<string></string>
+			<string>ENTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Six mois après Noël</string>
+			<string>ENE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Dans</string>
+			<string>ENE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Ventile</string>
+			<string>ENE</string>
+			<string>AERE</string>
+		</array>
+	</array>
+</array>
+</plist>

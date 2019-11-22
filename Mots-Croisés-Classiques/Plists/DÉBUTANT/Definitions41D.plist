@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Périodique</string>
+			<string> Profitable</string>
+			<string>ALTERNATIF</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Permis</string>
+			<string>ALTERNATIF</string>
+			<string>LEGAL</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Diablement</string>
+			<string>ALTERNATIF</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Crochets</string>
+			<string>ALTERNATIF</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Pouffé</string>
+			<string>ALTERNATIF</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Possessif</string>
+			<string>ALTERNATIF</string>
+			<string>NOS</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Baudets</string>
+			<string>ALTERNATIF</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string></string>
+			<string>ALTERNATIF</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Colères</string>
+			<string>ALTERNATIF</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Périodique</string>
+			<string> Elle a une baguette</string>
+			<string>ALTERNATIF</string>
+			<string>FEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Traduction</string>
+			<string> Profitable</string>
+			<string>VERSION</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Traduction</string>
+			<string> Permis</string>
+			<string>VERSION</string>
+			<string>LEGAL</string>
+		</array>
+		<array>
+			<string> Traduction</string>
+			<string> Diablement</string>
+			<string>VERSION</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string> Traduction</string>
+			<string> Crochets</string>
+			<string>VERSION</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Traduction</string>
+			<string> Pouffé</string>
+			<string>VERSION</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string> Traduction</string>
+			<string> Possessif</string>
+			<string>VERSION</string>
+			<string>NOS</string>
+		</array>
+		<array>
+			<string> Traduction</string>
+			<string> Baudets</string>
+			<string>VERSION</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Colères</string>
+			<string>RE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Elle a une baguette</string>
+			<string>RE</string>
+			<string>FEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vieux</string>
+			<string> Profitable</string>
+			<string>AGES</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Vieux</string>
+			<string> Permis</string>
+			<string>AGES</string>
+			<string>LEGAL</string>
+		</array>
+		<array>
+			<string> Vieux</string>
+			<string> Diablement</string>
+			<string>AGES</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string> Vieux</string>
+			<string> Crochets</string>
+			<string>AGES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répandue</string>
+			<string> Possessif</string>
+			<string>SEMEE</string>
+			<string>NOS</string>
+		</array>
+		<array>
+			<string> Répandue</string>
+			<string> Baudets</string>
+			<string>SEMEE</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Répandue</string>
+			<string> Maltraitée</string>
+			<string>SEMEE</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string> Répandue</string>
+			<string> Colères</string>
+			<string>SEMEE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Répandue</string>
+			<string> Elle a une baguette</string>
+			<string>SEMEE</string>
+			<string>FEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Profitable</string>
+			<string>NASES</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Permis</string>
+			<string>NASES</string>
+			<string>LEGAL</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Diablement</string>
+			<string>NASES</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Crochets</string>
+			<string>NASES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Relatifs à la lune</string>
+			<string>NASES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Appel à l&apos;aide</string>
+			<string> Baudets</string>
+			<string>SOS</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Appel à l&apos;aide</string>
+			<string> Maltraitée</string>
+			<string>SOS</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string> Appel à l&apos;aide</string>
+			<string> Colères</string>
+			<string>SOS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Thallium</string>
+			<string> Profitable</string>
+			<string>TL</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Thallium</string>
+			<string> Permis</string>
+			<string>TL</string>
+			<string>LEGAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Crochets</string>
+			<string>SES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Relatifs à la lune</string>
+			<string>SES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Pronom</string>
+			<string>SES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Maltraitée</string>
+			<string>L</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souhaite</string>
+			<string>E</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Profitable</string>
+			<string>A</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Petit lopin de terre</string>
+			<string>A</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Relatifs à la lune</string>
+			<string>LESEES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Pronom</string>
+			<string>LESEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Bonds</string>
+			<string>LESEES</string>
+			<string>SAUTS</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Maltraitée</string>
+			<string>LESEES</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string></string>
+			<string>LESEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Frustrées</string>
+			<string> Souhaite</string>
+			<string>LESEES</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Régie</string>
+			<string> Profitable</string>
+			<string>GEREE</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string>  Régie</string>
+			<string> De haute Écosse</string>
+			<string>GEREE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>  Régie</string>
+			<string> Petit lopin de terre</string>
+			<string>GEREE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>  Régie</string>
+			<string></string>
+			<string>GEREE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>  Régie</string>
+			<string> Relatifs à la lune</string>
+			<string>GEREE</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Bonds</string>
+			<string>AS</string>
+			<string>SAUTS</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Maltraitée</string>
+			<string>AS</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souhaite</string>
+			<string>P</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Période de temps</string>
+			<string> Profitable</string>
+			<string>ERE</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Période de temps</string>
+			<string> De haute Écosse</string>
+			<string>ERE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Période de temps</string>
+			<string> Petit lopin de terre</string>
+			<string>ERE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Objectif</string>
+			<string> Relatifs à la lune</string>
+			<string>NEUTRE</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Objectif</string>
+			<string> Liaison</string>
+			<string>NEUTRE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Objectif</string>
+			<string> Bonds</string>
+			<string>NEUTRE</string>
+			<string>SAUTS</string>
+		</array>
+		<array>
+			<string> Objectif</string>
+			<string> Maltraitée</string>
+			<string>NEUTRE</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string> Objectif</string>
+			<string></string>
+			<string>NEUTRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Objectif</string>
+			<string> Souhaite</string>
+			<string>NEUTRE</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coutumes</string>
+			<string> Profitable</string>
+			<string>US</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Coutumes</string>
+			<string> De haute Écosse</string>
+			<string>US</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Négation</string>
+			<string>NETTE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Relatifs à la lune</string>
+			<string>NETTE</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Liaison</string>
+			<string>NETTE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Bonds</string>
+			<string>NETTE</string>
+			<string>SAUTS</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Maltraitée</string>
+			<string>NETTE</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souhaite</string>
+			<string>R</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vin d&apos;Espagne</string>
+			<string> Profitable</string>
+			<string>XERES</string>
+			<string>AVANTAGEUX</string>
+		</array>
+		<array>
+			<string> Vin d&apos;Espagne</string>
+			<string> De haute Écosse</string>
+			<string>XERES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Vin d&apos;Espagne</string>
+			<string></string>
+			<string>XERES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Vin d&apos;Espagne</string>
+			<string> Négation</string>
+			<string>XERES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Vin d&apos;Espagne</string>
+			<string> Relatifs à la lune</string>
+			<string>XERES</string>
+			<string>SELENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Bonds</string>
+			<string>SERE</string>
+			<string>SAUTS</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Maltraitée</string>
+			<string>SERE</string>
+			<string>MOLESTEE</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string></string>
+			<string>SERE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Souhaite</string>
+			<string>SERE</string>
+			<string>ESPERE</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Naissance</string>
+			<string>ASCENSEURS</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Harnacherons</string>
+			<string>ASCENSEURS</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Gonflement d&apos;un cours d&apos;eau</string>
+			<string>ASCENSEURS</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Vit</string>
+			<string>ASCENSEURS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Gaz</string>
+			<string>ASCENSEURS</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Grivoises</string>
+			<string>ASCENSEURS</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Pas nous</string>
+			<string>ASCENSEURS</string>
+			<string>EUX</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Tribu d&apos;amérindiens</string>
+			<string>ASCENSEURS</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string>Bramèrent</string>
+			<string>ASCENSEURS</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string> Bien utiles dans les gratte-ciels</string>
+			<string></string>
+			<string>ASCENSEURS</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Opprime</string>
+			<string>Naissance</string>
+			<string>PERSECUTE</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Harnacherons</string>
+			<string>PERSECUTE</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Gonflement d&apos;un cours d&apos;eau</string>
+			<string>PERSECUTE</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Vit</string>
+			<string>PERSECUTE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Gaz</string>
+			<string>PERSECUTE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Grivoises</string>
+			<string>PERSECUTE</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Pas nous</string>
+			<string>PERSECUTE</string>
+			<string>EUX</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Tribu d&apos;amérindiens</string>
+			<string>PERSECUTE</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Bramèrent</string>
+			<string>PERSECUTE</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Charma</string>
+			<string>Naissance</string>
+			<string>PLUT</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Charma</string>
+			<string>Harnacherons</string>
+			<string>PLUT</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Charma</string>
+			<string>Gonflement d&apos;un cours d&apos;eau</string>
+			<string>PLUT</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string>Charma</string>
+			<string>Vit</string>
+			<string>PLUT</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Orientées</string>
+			<string>Grivoises</string>
+			<string>AXEES</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>Orientées</string>
+			<string>Pas nous</string>
+			<string>AXEES</string>
+			<string>EUX</string>
+		</array>
+		<array>
+			<string>Orientées</string>
+			<string>Tribu d&apos;amérindiens</string>
+			<string>AXEES</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Orientées</string>
+			<string>Bramèrent</string>
+			<string>AXEES</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string>Orientées</string>
+			<string></string>
+			<string>AXEES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Blonde anglaise</string>
+			<string>Naissance</string>
+			<string>ALE</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Blonde anglaise</string>
+			<string>Harnacherons</string>
+			<string>ALE</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Blonde anglaise</string>
+			<string>Gonflement d&apos;un cours d&apos;eau</string>
+			<string>ALE</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Venues</string>
+			<string>NB</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Grivoises</string>
+			<string>NB</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Tribu d&apos;amérindiens</string>
+			<string>SR</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Bramèrent</string>
+			<string>SR</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Île de France</string>
+			<string>Naissance</string>
+			<string>RE</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Île de France</string>
+			<string>Harnacherons</string>
+			<string>RE</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rend moins dense</string>
+			<string>Durée</string>
+			<string>AERE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Rend moins dense</string>
+			<string>Venues</string>
+			<string>AERE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Rend moins dense</string>
+			<string>Grivoises</string>
+			<string>AERE</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>Rend moins dense</string>
+			<string></string>
+			<string>AERE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parfois avant le oui!</string>
+			<string>Bramèrent</string>
+			<string>EH</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string>Parfois avant le oui!</string>
+			<string>Casque du Moyen Âge</string>
+			<string>EH</string>
+			<string>HEAUME</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Naissance</string>
+			<string>IRENEE</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Harnacherons</string>
+			<string>IRENEE</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Étonne</string>
+			<string>IRENEE</string>
+			<string>EPATE</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Durée</string>
+			<string>IRENEE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Venues</string>
+			<string>IRENEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Grivoises</string>
+			<string>IRENEE</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cancre</string>
+			<string></string>
+			<string>ANE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Cancre</string>
+			<string>Bramèrent</string>
+			<string>ANE</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string>Cancre</string>
+			<string>Casque du Moyen Âge</string>
+			<string>ANE</string>
+			<string>HEAUME</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le meilleur</string>
+			<string>Naissance</string>
+			<string>TOP</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Le meilleur</string>
+			<string>Harnacherons</string>
+			<string>TOP</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Le meilleur</string>
+			<string>Étonne</string>
+			<string>TOP</string>
+			<string>EPATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La sève en est un</string>
+			<string>Venues</string>
+			<string>SUC</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>La sève en est un</string>
+			<string>Grivoises</string>
+			<string>SUC</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>La sève en est un</string>
+			<string>Leonard de Vinci l&apos;a peinte</string>
+			<string>SUC</string>
+			<string>CENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string>Bramèrent</string>
+			<string>TA</string>
+			<string>REERENT</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string>Casque du Moyen Âge</string>
+			<string>TA</string>
+			<string>HEAUME</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Institut français</string>
+			<string>Naissance</string>
+			<string>INA</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Institut français</string>
+			<string>Harnacherons</string>
+			<string>INA</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Institut français</string>
+			<string>Étonne</string>
+			<string>INA</string>
+			<string>EPATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Aride</string>
+			<string>Grivoises</string>
+			<string>SEC</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>Aride</string>
+			<string>Leonard de Vinci l&apos;a peinte</string>
+			<string>SEC</string>
+			<string>CENE</string>
+		</array>
+		<array>
+			<string>Aride</string>
+			<string>Caesium</string>
+			<string>SEC</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Casque du Moyen Âge</string>
+			<string>U</string>
+			<string>HEAUME</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Armées du Moyen Âge</string>
+			<string>Naissance</string>
+			<string>OSTS</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string>Armées du Moyen Âge</string>
+			<string>Harnacherons</string>
+			<string>OSTS</string>
+			<string>SELLERONS</string>
+		</array>
+		<array>
+			<string>Armées du Moyen Âge</string>
+			<string>Étonne</string>
+			<string>OSTS</string>
+			<string>EPATE</string>
+		</array>
+		<array>
+			<string>Armées du Moyen Âge</string>
+			<string>Samarium</string>
+			<string>OSTS</string>
+			<string>SM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>École Normale Supérieure</string>
+			<string>Grivoises</string>
+			<string>ENS</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>École Normale Supérieure</string>
+			<string>Leonard de Vinci l&apos;a peinte</string>
+			<string>ENS</string>
+			<string>CENE</string>
+		</array>
+		<array>
+			<string>École Normale Supérieure</string>
+			<string>Caesium</string>
+			<string>ENS</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Casque du Moyen Âge</string>
+			<string>M</string>
+			<string>HEAUME</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Naissance</string>
+			<string>N</string>
+			<string>APPARITION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Transmise</string>
+			<string>Étonne</string>
+			<string>EMISE</string>
+			<string>EPATE</string>
+		</array>
+		<array>
+			<string>Transmise</string>
+			<string>Samarium</string>
+			<string>EMISE</string>
+			<string>SM</string>
+		</array>
+		<array>
+			<string>Transmise</string>
+			<string></string>
+			<string>EMISE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Transmise</string>
+			<string>Grivoises</string>
+			<string>EMISE</string>
+			<string>SCABREUSES</string>
+		</array>
+		<array>
+			<string>Transmise</string>
+			<string>Leonard de Vinci l&apos;a peinte</string>
+			<string>EMISE</string>
+			<string>CENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Première personne</string>
+			<string></string>
+			<string>JE</string>
+			<string>J</string>
+		</array>
+		<array>
+			<string>Première personne</string>
+			<string>Casque du Moyen Âge</string>
+			<string>JE</string>
+			<string>HEAUME</string>
+		</array>
+	</array>
+</array>
+</plist>

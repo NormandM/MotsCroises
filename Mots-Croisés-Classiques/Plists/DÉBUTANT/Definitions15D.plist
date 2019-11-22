@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>MERCENAIRE</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Qui ne finit jamais</string>
+			<string>MERCENAIRE</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Prénom</string>
+			<string>MERCENAIRE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Homme extrêmement riche</string>
+			<string>MERCENAIRE</string>
+			<string>CRESUS</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Au centre de la pensée</string>
+			<string>MERCENAIRE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Dépouillé</string>
+			<string>MERCENAIRE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Relatif à l'aviation</string>
+			<string>MERCENAIRE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string></string>
+			<string>MERCENAIRE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Regimber</string>
+			<string>MERCENAIRE</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string> Payé pour se battre</string>
+			<string> Écossais</string>
+			<string>MERCENAIRE</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>ETERNUE</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Qui ne finit jamais</string>
+			<string>ETERNUE</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Prénom</string>
+			<string>ETERNUE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Homme extrêmement riche</string>
+			<string>ETERNUE</string>
+			<string>CRESUS</string>
+		</array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Au centre de la pensée</string>
+			<string>ETERNUE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Dépouillé</string>
+			<string>ETERNUE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Expulse de l'air</string>
+			<string> Relatif à l'aviation</string>
+			<string>ETERNUE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> Regimber</string>
+			<string>UR</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> Écossais</string>
+			<string>UR</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>SENES</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Qui ne finit jamais</string>
+			<string>SENES</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Prénom</string>
+			<string>SENES</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Homme extrêmement riche</string>
+			<string>SENES</string>
+			<string>CRESUS</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Au centre de la pensée</string>
+			<string>SENES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Relatif à l'aviation</string>
+			<string>REES</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Qui concernent les pays baignés par une mer</string>
+			<string>REES</string>
+			<string>EGEENS</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Regimber</string>
+			<string>REES</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string> Cris</string>
+			<string> Écossais</string>
+			<string>REES</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>ERES</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Qui ne finit jamais</string>
+			<string>ERES</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Prénom</string>
+			<string>ERES</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string>  Périodes</string>
+			<string> Homme extrêmement riche</string>
+			<string>ERES</string>
+			<string>CRESUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Acidité désagréable</string>
+			<string> Une phase du développement</string>
+			<string>AIGRE</string>
+			<string>ANALE</string>
+		</array>
+		<array>
+			<string> Acidité désagréable</string>
+			<string> Relatif à l'aviation</string>
+			<string>AIGRE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Acidité désagréable</string>
+			<string> Qui concernent les pays baignés par une mer</string>
+			<string>AIGRE</string>
+			<string>EGEENS</string>
+		</array>
+		<array>
+			<string> Acidité désagréable</string>
+			<string> Regimber</string>
+			<string>AIGRE</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string> Acidité désagréable</string>
+			<string> Écossais</string>
+			<string>AIGRE</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>SN</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Qui ne finit jamais</string>
+			<string>SN</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lichen</string>
+			<string> Homme extrêmement riche</string>
+			<string>USNEE</string>
+			<string>CRESUS</string>
+		</array>
+		<array>
+			<string> Lichen</string>
+			<string></string>
+			<string>USNEE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Lichen</string>
+			<string> Une phase du développement</string>
+			<string>USNEE</string>
+			<string>ANALE</string>
+		</array>
+		<array>
+			<string> Lichen</string>
+			<string> Relatif à l'aviation</string>
+			<string>USNEE</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Lichen</string>
+			<string> Qui concernent les pays baignés par une mer</string>
+			<string>USNEE</string>
+			<string>EGEENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Écossais</string>
+			<string>S</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Semblables</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>TELS</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Semblables</string>
+			<string> Qui ne finit jamais</string>
+			<string>TELS</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string> Semblables</string>
+			<string> Babine</string>
+			<string>TELS</string>
+			<string>LEVRE</string>
+		</array>
+		<array>
+			<string> Semblables</string>
+			<string> Homme extrêmement riche</string>
+			<string>TELS</string>
+			<string>CRESUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Une phase du développement</string>
+			<string>ANES</string>
+			<string>ANALE</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Relatif à l'aviation</string>
+			<string>ANES</string>
+			<string>AERIEN</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Qui concernent les pays baignés par une mer</string>
+			<string>ANES</string>
+			<string>EGEENS</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Pronom</string>
+			<string>ANES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Capri</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>ILE</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Qui ne finit jamais</string>
+			<string>ILE</string>
+			<string>ETERNEL</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Babine</string>
+			<string>ILE</string>
+			<string>LEVRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string></string>
+			<string>IL</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Une phase du développement</string>
+			<string>IL</string>
+			<string>ANALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Qui concernent les pays baignés par une mer</string>
+			<string>NEE</string>
+			<string>EGEENS</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Pronom</string>
+			<string>NEE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Ouverture de violon</string>
+			<string>NEE</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>M</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Babine</string>
+			<string>VS</string>
+			<string>LEVRE</string>
+		</array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Poisson osseux</string>
+			<string>VS</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Une phase du développement</string>
+			<string>ERS</string>
+			<string>ANALE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Dose de radiation</string>
+			<string>ERS</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Qui concernent les pays baignés par une mer</string>
+			<string>ERS</string>
+			<string>EGEENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ouverture de violon</string>
+			<string>S</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vagabondas</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>ERRAS</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Vagabondas</string>
+			<string> Symbole chimique</string>
+			<string>ERRAS</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Vagabondas</string>
+			<string> Babine</string>
+			<string>ERRAS</string>
+			<string>LEVRE</string>
+		</array>
+		<array>
+			<string> Vagabondas</string>
+			<string> Poisson osseux</string>
+			<string>ERRAS</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Vagabondas</string>
+			<string> Société générale</string>
+			<string>ERRAS</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Dose de radiation</string>
+			<string>E</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Indique l'origine</string>
+			<string>ES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Ouverture de violon</string>
+			<string>ES</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fanatique</string>
+			<string> Ne pas appréciée à sa juste valeur</string>
+			<string>ENERGUMENE</string>
+			<string>MESESTIMEE</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Symbole chimique</string>
+			<string>ENERGUMENE</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Babine</string>
+			<string>ENERGUMENE</string>
+			<string>LEVRE</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Poisson osseux</string>
+			<string>ENERGUMENE</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Société générale</string>
+			<string>ENERGUMENE</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string></string>
+			<string>ENERGUMENE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Dose de radiation</string>
+			<string>ENERGUMENE</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string></string>
+			<string>ENERGUMENE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Indique l'origine</string>
+			<string>ENERGUMENE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Fanatique</string>
+			<string> Ouverture de violon</string>
+			<string>ENERGUMENE</string>
+			<string>ESSE</string>
+		</array>
+	</array>
+</array>
+</plist>

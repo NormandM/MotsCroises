@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Persistes</string>
+			<string>PROVINCIAL</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Radon</string>
+			<string>PROVINCIAL</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Huit</string>
+			<string>PROVINCIAL</string>
+			<string>OCTO</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Vide</string>
+			<string>PROVINCIAL</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> À la mode</string>
+			<string>PROVINCIAL</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string></string>
+			<string>PROVINCIAL</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Pieds de vigne</string>
+			<string>PROVINCIAL</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Père de l'église</string>
+			<string>PROVINCIAL</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Enzyme.</string>
+			<string>PROVINCIAL</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Au Canada c'est un des gouvernements</string>
+			<string> Charger</string>
+			<string>PROVINCIAL</string>
+			<string>LESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vente aux enchères</string>
+			<string> Persistes</string>
+			<string>ENCAN</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Vente aux enchères</string>
+			<string> Radon</string>
+			<string>ENCAN</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string> Vente aux enchères</string>
+			<string> Huit</string>
+			<string>ENCAN</string>
+			<string>OCTO</string>
+		</array>
+		<array>
+			<string> Vente aux enchères</string>
+			<string> Vide</string>
+			<string>ENCAN</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string> Vente aux enchères</string>
+			<string> À la mode</string>
+			<string>ENCAN</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Pieds de vigne</string>
+			<string>ERSE</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Père de l'église</string>
+			<string>ERSE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Enzyme.</string>
+			<string>ERSE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Charger</string>
+			<string>ERSE</string>
+			<string>LESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Persistes</string>
+			<string>R</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Traumatisme crânien</string>
+			<string> Huit</string>
+			<string>TC</string>
+			<string>OCTO</string>
+		</array>
+		<array>
+			<string> Traumatisme crânien</string>
+			<string> Vide</string>
+			<string>TC</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Armes blanches</string>
+			<string></string>
+			<string>EPEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Armes blanches</string>
+			<string> Pieds de vigne</string>
+			<string>EPEES</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Armes blanches</string>
+			<string> Père de l'église</string>
+			<string>EPEES</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Armes blanches</string>
+			<string> Enzyme.</string>
+			<string>EPEES</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Armes blanches</string>
+			<string> Charger</string>
+			<string>EPEES</string>
+			<string>LESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Capitale asiatique</string>
+			<string> Persistes</string>
+			<string>SEOUL</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Capitale asiatique</string>
+			<string> Alcaloïde toxique</string>
+			<string>SEOUL</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string> Capitale asiatique</string>
+			<string> Huit</string>
+			<string>SEOUL</string>
+			<string>OCTO</string>
+		</array>
+		<array>
+			<string> Capitale asiatique</string>
+			<string> Vide</string>
+			<string>SEOUL</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string> Capitale asiatique</string>
+			<string> Un saint de Normandie</string>
+			<string>SEOUL</string>
+			<string>LO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Étain</string>
+			<string> Pieds de vigne</string>
+			<string>SN</string>
+			<string>CEPS</string>
+		</array>
+		<array>
+			<string> Étain</string>
+			<string> Père de l'église</string>
+			<string>SN</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Charger</string>
+			<string>T</string>
+			<string>LESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existes</string>
+			<string> Persistes</string>
+			<string>ES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Alcaloïde toxique</string>
+			<string>ES</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Négatif ou positif</string>
+			<string> Vide</string>
+			<string>ION</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string> Négatif ou positif</string>
+			<string> Un saint de Normandie</string>
+			<string>ION</string>
+			<string>LO</string>
+		</array>
+		<array>
+			<string> Négatif ou positif</string>
+			<string> Notre Seigneur</string>
+			<string>ION</string>
+			<string>NS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> ¨Période historique</string>
+			<string> Père de l'église</string>
+			<string>ERE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> ¨Période historique</string>
+			<string> Petits ruisseaux</string>
+			<string>ERE</string>
+			<string>RUS</string>
+		</array>
+		<array>
+			<string> ¨Période historique</string>
+			<string> Charger</string>
+			<string>ERE</string>
+			<string>LESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Désire</string>
+			<string> Persistes</string>
+			<string>VEUT</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Désire</string>
+			<string> Alcaloïde toxique</string>
+			<string>VEUT</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string> Désire</string>
+			<string> Aurochs</string>
+			<string>VEUT</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string> Désire</string>
+			<string> Vide</string>
+			<string>VEUT</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vieille façon de dire Monsieur</string>
+			<string> Notre Seigneur</string>
+			<string>SIEUR</string>
+			<string>NS</string>
+		</array>
+		<array>
+			<string> Vieille façon de dire Monsieur</string>
+			<string> Partiront</string>
+			<string>SIEUR</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Vieille façon de dire Monsieur</string>
+			<string> Père de l'église</string>
+			<string>SIEUR</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Vieille façon de dire Monsieur</string>
+			<string> Petits ruisseaux</string>
+			<string>SIEUR</string>
+			<string>RUS</string>
+		</array>
+		<array>
+			<string> Vieille façon de dire Monsieur</string>
+			<string> Charger</string>
+			<string>SIEUR</string>
+			<string>LESTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Persistes</string>
+			<string>ERRES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Alcaloïde toxique</string>
+			<string>ERRES</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Aurochs</string>
+			<string>ERRES</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Vide</string>
+			<string>ERRES</string>
+			<string>VACUITE</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Voiles</string>
+			<string>ERRES</string>
+			<string>SPIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Partiront</string>
+			<string>R</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Petits ruisseaux</string>
+			<string>S</string>
+			<string>RUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rigole</string>
+			<string> Persistes</string>
+			<string>RIE</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Alcaloïde toxique</string>
+			<string>RIE</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Aurochs</string>
+			<string>RIE</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On le dit orgueilleux</string>
+			<string> Voiles</string>
+			<string>PAON</string>
+			<string>SPIS</string>
+		</array>
+		<array>
+			<string> On le dit orgueilleux</string>
+			<string> Produit un effet</string>
+			<string>PAON</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string> On le dit orgueilleux</string>
+			<string> Partiront</string>
+			<string>PAON</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> On le dit orgueilleux</string>
+			<string> Arrivée</string>
+			<string>PAON</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fonce</string>
+			<string>O</string>
+			<string>OSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Montrées</string>
+			<string> Persistes</string>
+			<string>ENSEIGNEES</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Alcaloïde toxique</string>
+			<string>ENSEIGNEES</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Aurochs</string>
+			<string>ENSEIGNEES</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> D'un auxiliaire</string>
+			<string>ENSEIGNEES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Voiles</string>
+			<string>ENSEIGNEES</string>
+			<string>SPIS</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Produit un effet</string>
+			<string>ENSEIGNEES</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Partiront</string>
+			<string>ENSEIGNEES</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Arrivée</string>
+			<string>ENSEIGNEES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string></string>
+			<string>ENSEIGNEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Montrées</string>
+			<string> Fonce</string>
+			<string>ENSEIGNEES</string>
+			<string>OSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Persistes</string>
+			<string>SE</string>
+			<string>PERSEVERES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Alcaloïde toxique</string>
+			<string>SE</string>
+			<string>ESERINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> D'un auxiliaire</string>
+			<string>USITE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Voiles</string>
+			<string>USITE</string>
+			<string>SPIS</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Produit un effet</string>
+			<string>USITE</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Partiront</string>
+			<string>USITE</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Arrivée</string>
+			<string>USITE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fonce</string>
+			<string>E</string>
+			<string>OSE</string>
+		</array>
+	</array>
+</array>
+</plist>

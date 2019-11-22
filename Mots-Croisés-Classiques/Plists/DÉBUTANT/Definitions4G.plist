@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Totalement</string>
+			<string> Différemment</string>
+			<string>ABSOLUMENT</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Fromage à pâte molle</string>
+			<string>ABSOLUMENT</string>
+			<string>BRIE</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Terme de tennis</string>
+			<string>ABSOLUMENT</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Fonçant</string>
+			<string>ABSOLUMENT</string>
+			<string>OSANT</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string></string>
+			<string>ABSOLUMENT</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Nous empoisonne la vie</string>
+			<string>ABSOLUMENT</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Réunion</string>
+			<string>ABSOLUMENT</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> École normale supérieure</string>
+			<string>ABSOLUMENT</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Négation</string>
+			<string>ABSOLUMENT</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Totalement</string>
+			<string> Caboche</string>
+			<string>ABSOLUMENT</string>
+			<string>TETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Aurochs</string>
+			<string> Différemment</string>
+			<string>URES</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string> Aurochs</string>
+			<string> Fromage à pâte molle</string>
+			<string>URES</string>
+			<string>BRIE</string>
+		</array>
+		<array>
+			<string> Aurochs</string>
+			<string> Terme de tennis</string>
+			<string>URES</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Aurochs</string>
+			<string> Fonçant</string>
+			<string>URES</string>
+			<string>OSANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Nous empoisonne la vie</string>
+			<string>RENEE</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Réunion</string>
+			<string>RENEE</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> École normale supérieure</string>
+			<string>RENEE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Négation</string>
+			<string>RENEE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Caboche</string>
+			<string>RENEE</string>
+			<string>TETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Différemment</string>
+			<string>TITANEES</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Fromage à pâte molle</string>
+			<string>TITANEES</string>
+			<string>BRIE</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Terme de tennis</string>
+			<string>TITANEES</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Fonçant</string>
+			<string>TITANEES</string>
+			<string>OSANT</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Taquinées</string>
+			<string>TITANEES</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Nous empoisonne la vie</string>
+			<string>TITANEES</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> Réunion</string>
+			<string>TITANEES</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string> Qui contiennent du Titane</string>
+			<string> École normale supérieure</string>
+			<string>TITANEES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Caboche</string>
+			<string>T</string>
+			<string>TETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Île de France</string>
+			<string> Différemment</string>
+			<string>RE</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string> Île de France</string>
+			<string> Fromage à pâte molle</string>
+			<string>RE</string>
+			<string>BRIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Non!</string>
+			<string> Fonçant</string>
+			<string>NIET</string>
+			<string>OSANT</string>
+		</array>
+		<array>
+			<string> Non!</string>
+			<string> Taquinées</string>
+			<string>NIET</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string> Non!</string>
+			<string> Nous empoisonne la vie</string>
+			<string>NIET</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string> Non!</string>
+			<string> Réunion</string>
+			<string>NIET</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string>  Général sudiste</string>
+			<string>LE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Caboche</string>
+			<string>LE</string>
+			<string>TETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Différemment</string>
+			<string>E</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Jamais le dernier mot</string>
+			<string>ETA</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Fonçant</string>
+			<string>ETA</string>
+			<string>OSANT</string>
+		</array>
+		<array>
+			<string> Lettre grec</string>
+			<string> Taquinées</string>
+			<string>ETA</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Réunion</string>
+			<string>IRE</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Crier comme un cerf</string>
+			<string>IRE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string>  Général sudiste</string>
+			<string>IRE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Terme</string>
+			<string> Différemment</string>
+			<string>MOT</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string> Terme</string>
+			<string> Lestes</string>
+			<string>MOT</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Terme</string>
+			<string> Jamais le dernier mot</string>
+			<string>MOT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> En feu</string>
+			<string> Taquinées</string>
+			<string>IGNEES</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string> En feu</string>
+			<string> Station de chemin de fer</string>
+			<string>IGNEES</string>
+			<string>GARE</string>
+		</array>
+		<array>
+			<string> En feu</string>
+			<string> Réunion</string>
+			<string>IGNEES</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string> En feu</string>
+			<string> Crier comme un cerf</string>
+			<string>IGNEES</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> En feu</string>
+			<string>  Général sudiste</string>
+			<string>IGNEES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> En feu</string>
+			<string> Placées.</string>
+			<string>IGNEES</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existes</string>
+			<string> Différemment</string>
+			<string>ES</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Lestes</string>
+			<string>ES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string></string>
+			<string>USAGE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Taquinées</string>
+			<string>USAGE</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Station de chemin de fer</string>
+			<string>USAGE</string>
+			<string>GARE</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Réunion</string>
+			<string>USAGE</string>
+			<string>MEETING</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Crier comme un cerf</string>
+			<string>USAGE</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Placées.</string>
+			<string>I</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Propre</string>
+			<string> Différemment</string>
+			<string>NET</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string>  Propre</string>
+			<string> Lestes</string>
+			<string>NET</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string>  Propre</string>
+			<string> Avant la distribution</string>
+			<string>NET</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Taquinées</string>
+			<string>ER</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Station de chemin de fer</string>
+			<string>ER</string>
+			<string>GARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Très court</string>
+			<string> Crier comme un cerf</string>
+			<string>RAS</string>
+			<string>REER</string>
+		</array>
+		<array>
+			<string> Très court</string>
+			<string> Enzyme.</string>
+			<string>RAS</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Très court</string>
+			<string> Placées.</string>
+			<string>RAS</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Différemment</string>
+			<string>TERSEES</string>
+			<string>AUTREMENT</string>
+		</array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Lestes</string>
+			<string>TERSEES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Avant la distribution</string>
+			<string>TERSEES</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Strontium.</string>
+			<string>TERSEES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Taquinées</string>
+			<string>TERSEES</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Station de chemin de fer</string>
+			<string>TERSEES</string>
+			<string>GARE</string>
+		</array>
+		<array>
+			<string>Labourées trois fois</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>TERSEES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Enzyme.</string>
+			<string>SE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Placées.</string>
+			<string>SE</string>
+			<string>SISES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Lestes</string>
+			<string>SIRS</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Avant la distribution</string>
+			<string>SIRS</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Strontium.</string>
+			<string>SIRS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Taquinées</string>
+			<string>SIRS</string>
+			<string>NIAISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Ce n&apos;est pas à toi</string>
+			<string>ARES</string>
+			<string>SA</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string></string>
+			<string>ARES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Enzyme.</string>
+			<string>ARES</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Lopin de terre</string>
+			<string> Placées.</string>
+			<string>ARES</string>
+			<string>SISES</string>
+		</array>
+	</array>
+</array>
+</plist>

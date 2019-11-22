@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Accommodant</string>
+			<string> Organisée</string>
+			<string>CONCILIANT</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> Grand instrument composé de tuyaux</string>
+			<string>CONCILIANT</string>
+			<string>ORGUE</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string></string>
+			<string>CONCILIANT</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string>  Au-dessus de nos têtes</string>
+			<string>CONCILIANT</string>
+			<string>CIEL</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> En vogue</string>
+			<string>CONCILIANT</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> Blesser</string>
+			<string>CONCILIANT</string>
+			<string>LESER</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> Colère</string>
+			<string>CONCILIANT</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> Astate</string>
+			<string>CONCILIANT</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> Tranchés</string>
+			<string>CONCILIANT</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string> Accommodant</string>
+			<string> Des mouches qui endorment</string>
+			<string>CONCILIANT</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On en fait des bagues</string>
+			<string> Organisée</string>
+			<string>OR</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> On en fait des bagues</string>
+			<string> Grand instrument composé de tuyaux</string>
+			<string>OR</string>
+			<string>ORGUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string>  Au-dessus de nos têtes</string>
+			<string>INERTES</string>
+			<string>CIEL</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> En vogue</string>
+			<string>INERTES</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Blesser</string>
+			<string>INERTES</string>
+			<string>LESER</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Colère</string>
+			<string>INERTES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Astate</string>
+			<string>INERTES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Tranchés</string>
+			<string>INERTES</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string> Inanimés</string>
+			<string> Des mouches qui endorment</string>
+			<string>INERTES</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Géant des contes de fées</string>
+			<string> Organisée</string>
+			<string>OGRE</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Géant des contes de fées</string>
+			<string> Grand instrument composé de tuyaux</string>
+			<string>OGRE</string>
+			<string>ORGUE</string>
+		</array>
+		<array>
+			<string> Géant des contes de fées</string>
+			<string> Découler de</string>
+			<string>OGRE</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string> Géant des contes de fées</string>
+			<string>  Au-dessus de nos têtes</string>
+			<string>OGRE</string>
+			<string>CIEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Blesser</string>
+			<string>SE</string>
+			<string>LESER</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Colère</string>
+			<string>SE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Tranchés</string>
+			<string>TE</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Des mouches qui endorment</string>
+			<string>TE</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petite rue</string>
+			<string> Organisée</string>
+			<string>RUELLE</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Petite rue</string>
+			<string> Grand instrument composé de tuyaux</string>
+			<string>RUELLE</string>
+			<string>ORGUE</string>
+		</array>
+		<array>
+			<string> Petite rue</string>
+			<string> Découler de</string>
+			<string>RUELLE</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string> Petite rue</string>
+			<string>  Au-dessus de nos têtes</string>
+			<string>RUELLE</string>
+			<string>CIEL</string>
+		</array>
+		<array>
+			<string> Petite rue</string>
+			<string> Petit rongeur</string>
+			<string>RUELLE</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string> Petite rue</string>
+			<string> Blesser</string>
+			<string>RUELLE</string>
+			<string>LESER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Armée du Moyen-Âge</string>
+			<string> Fonces</string>
+			<string>OST</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string> Armée du Moyen-Âge</string>
+			<string> Tranchés</string>
+			<string>OST</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string> Armée du Moyen-Âge</string>
+			<string> Des mouches qui endorment</string>
+			<string>OST</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article contracté</string>
+			<string> Organisée</string>
+			<string>DES</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Grand instrument composé de tuyaux</string>
+			<string>DES</string>
+			<string>ORGUE</string>
+		</array>
+		<array>
+			<string> Article contracté</string>
+			<string> Découler de</string>
+			<string>DES</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Petit rongeur</string>
+			<string>ERES</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Blesser</string>
+			<string>ERES</string>
+			<string>LESER</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Ébrèche</string>
+			<string>ERES</string>
+			<string>ECORNE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Fonces</string>
+			<string>ERES</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Des mouches qui endorment</string>
+			<string>S</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Organisée</string>
+			<string>O</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avion monoplace</string>
+			<string> Découler de</string>
+			<string>ULM</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string> Avion monoplace</string>
+			<string> Part</string>
+			<string>ULM</string>
+			<string>LOT</string>
+		</array>
+		<array>
+			<string> Avion monoplace</string>
+			<string> Petit rongeur</string>
+			<string>ULM</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tenu secret</string>
+			<string> Ébrèche</string>
+			<string>CELE</string>
+			<string>ECORNE</string>
+		</array>
+		<array>
+			<string> Tenu secret</string>
+			<string> Fonces</string>
+			<string>CELE</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string> Tenu secret</string>
+			<string></string>
+			<string>CELE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Tenu secret</string>
+			<string> Des mouches qui endorment</string>
+			<string>CELE</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Organisée</string>
+			<string>NELOMBOS</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Essentielle à la vie</string>
+			<string>NELOMBOS</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Découler de</string>
+			<string>NELOMBOS</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Part</string>
+			<string>NELOMBOS</string>
+			<string>LOT</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Petit rongeur</string>
+			<string>NELOMBOS</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Ouvrir tout grand</string>
+			<string>NELOMBOS</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Ébrèche</string>
+			<string>NELOMBOS</string>
+			<string>ECORNE</string>
+		</array>
+		<array>
+			<string> Plantes aquatiques</string>
+			<string> Fonces</string>
+			<string>NELOMBOS</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Des mouches qui endorment</string>
+			<string>S</string>
+			<string>TSETSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Organisée</string>
+			<string>NATTIER</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Essentielle à la vie</string>
+			<string>NATTIER</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Découler de</string>
+			<string>NATTIER</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Part</string>
+			<string>NATTIER</string>
+			<string>LOT</string>
+		</array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Petit rongeur</string>
+			<string>NATTIER</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Ouvrir tout grand</string>
+			<string>NATTIER</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string> Fabrique des nattes</string>
+			<string> Ébrèche</string>
+			<string>NATTIER</string>
+			<string>ECORNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Orient.</string>
+			<string>E</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trompée</string>
+			<string> Organisée</string>
+			<string>EUE</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Essentielle à la vie</string>
+			<string>EUE</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Découler de</string>
+			<string>EUE</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Seins</string>
+			<string> Petit rongeur</string>
+			<string>NENES</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string> Seins</string>
+			<string> Ouvrir tout grand</string>
+			<string>NENES</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string> Seins</string>
+			<string> Ébrèche</string>
+			<string>NENES</string>
+			<string>ECORNE</string>
+		</array>
+		<array>
+			<string> Seins</string>
+			<string> Liaison</string>
+			<string>NENES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Seins</string>
+			<string> Orient.</string>
+			<string>NENES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Organisée</string>
+			<string>E</string>
+			<string>COORDONNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string> Découler de</string>
+			<string>REGRETTE</string>
+			<string>RESULTER</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string></string>
+			<string>REGRETTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string> Petit rongeur</string>
+			<string>REGRETTE</string>
+			<string>LEMMING</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string> Ouvrir tout grand</string>
+			<string>REGRETTE</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string> Ébrèche</string>
+			<string>REGRETTE</string>
+			<string>ECORNE</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string> Liaison</string>
+			<string>REGRETTE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string> Orient.</string>
+			<string>REGRETTE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Déploré</string>
+			<string></string>
+			<string>REGRETTE</string>
+			<string>E</string>
+		</array>
+	</array>
+</array>
+</plist>

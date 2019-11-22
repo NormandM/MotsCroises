@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Communicatif</string>
+			<string>Positions élevées</string>
+			<string>EXTRAVERTI</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Gaz rare</string>
+			<string>EXTRAVERTI</string>
+			<string>XENON</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Essai</string>
+			<string>EXTRAVERTI</string>
+			<string>TEST</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string></string>
+			<string>EXTRAVERTI</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Grands végétaux</string>
+			<string>EXTRAVERTI</string>
+			<string>ARBRES</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Vallée</string>
+			<string>EXTRAVERTI</string>
+			<string>VAL</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Du verbe être.</string>
+			<string>EXTRAVERTI</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string></string>
+			<string>EXTRAVERTI</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Règle</string>
+			<string>EXTRAVERTI</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Communicatif</string>
+			<string> Imaginaire</string>
+			<string>EXTRAVERTI</string>
+			<string>IRREEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Général sudiste</string>
+			<string>Positions élevées</string>
+			<string>LEE</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Gaz rare</string>
+			<string>LEE</string>
+			<string>XENON</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Essai</string>
+			<string>LEE</string>
+			<string>TEST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rongeur</string>
+			<string> Grands végétaux</string>
+			<string>RAT</string>
+			<string>ARBRES</string>
+		</array>
+		<array>
+			<string> Rongeur</string>
+			<string> Vallée</string>
+			<string>RAT</string>
+			<string>VAL</string>
+		</array>
+		<array>
+			<string> Rongeur</string>
+			<string> Du verbe être.</string>
+			<string>RAT</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Règle</string>
+			<string>ER</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Imaginaire</string>
+			<string>ER</string>
+			<string>IRREEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enliser</string>
+			<string>Positions élevées</string>
+			<string>ENSABLER</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Gaz rare</string>
+			<string>ENSABLER</string>
+			<string>XENON</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Essai</string>
+			<string>ENSABLER</string>
+			<string>TEST</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Ouvres la fenêtre</string>
+			<string>ENSABLER</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Grands végétaux</string>
+			<string>ENSABLER</string>
+			<string>ARBRES</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Vallée</string>
+			<string>ENSABLER</string>
+			<string>VAL</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Du verbe être.</string>
+			<string>ENSABLER</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Enliser</string>
+			<string> Unie à nouveau</string>
+			<string>ENSABLER</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Imaginaire</string>
+			<string>R</string>
+			<string>IRREEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Aller aux urnes</string>
+			<string>Positions élevées</string>
+			<string>VOTER</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Aller aux urnes</string>
+			<string> Gaz rare</string>
+			<string>VOTER</string>
+			<string>XENON</string>
+		</array>
+		<array>
+			<string> Aller aux urnes</string>
+			<string> Essai</string>
+			<string>VOTER</string>
+			<string>TEST</string>
+		</array>
+		<array>
+			<string> Aller aux urnes</string>
+			<string> Ouvres la fenêtre</string>
+			<string>VOTER</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Aller aux urnes</string>
+			<string> Grands végétaux</string>
+			<string>VOTER</string>
+			<string>ARBRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> fromage</string>
+			<string> Du verbe être.</string>
+			<string>SERE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> fromage</string>
+			<string> Unie à nouveau</string>
+			<string>SERE</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string> fromage</string>
+			<string> Petit ruisseau</string>
+			<string>SERE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> fromage</string>
+			<string> Imaginaire</string>
+			<string>SERE</string>
+			<string>IRREEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une révolution compète</string>
+			<string>Positions élevées</string>
+			<string>AN</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Gaz rare</string>
+			<string>AN</string>
+			<string>XENON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Ouvres la fenêtre</string>
+			<string>REA</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Grands végétaux</string>
+			<string>REA</string>
+			<string>ARBRES</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string></string>
+			<string>REA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Métamorphose</string>
+			<string> Unie à nouveau</string>
+			<string>MUE</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string> Métamorphose</string>
+			<string> Petit ruisseau</string>
+			<string>MUE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Métamorphose</string>
+			<string> Imaginaire</string>
+			<string>MUE</string>
+			<string>IRREEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Positions élevées</string>
+			<string>T</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Fromages des Alpes</string>
+			<string>SES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Ouvres la fenêtre</string>
+			<string>SES</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Grands végétaux</string>
+			<string>SES</string>
+			<string>ARBRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Terme de tennis</string>
+			<string>SA</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Unie à nouveau</string>
+			<string>SA</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Imaginaire</string>
+			<string>L</string>
+			<string>IRREEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colères</string>
+			<string>Positions élevées</string>
+			<string>IRES</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Déferlement</string>
+			<string>IRES</string>
+			<string>RUEE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Fromages des Alpes</string>
+			<string>IRES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Ouvres la fenêtre</string>
+			<string>IRES</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Se transformer</string>
+			<string>MERE</string>
+			<string>MUER</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Terme de tennis</string>
+			<string>MERE</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Unie à nouveau</string>
+			<string>MERE</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string> Génitrice</string>
+			<string> Choisi</string>
+			<string>MERE</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ancienne cité</string>
+			<string>Positions élevées</string>
+			<string>OUR</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Ancienne cité</string>
+			<string> Déferlement</string>
+			<string>OUR</string>
+			<string>RUEE</string>
+		</array>
+		<array>
+			<string> Ancienne cité</string>
+			<string> Fromages des Alpes</string>
+			<string>OUR</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Brille</string>
+			<string></string>
+			<string>RUTILE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Brille</string>
+			<string> Se transformer</string>
+			<string>RUTILE</string>
+			<string>MUER</string>
+		</array>
+		<array>
+			<string> Brille</string>
+			<string> Terme de tennis</string>
+			<string>RUTILE</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string> Brille</string>
+			<string> Unie à nouveau</string>
+			<string>RUTILE</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string> Brille</string>
+			<string> Choisi</string>
+			<string>RUTILE</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string> Brille</string>
+			<string> Six mois après Noël</string>
+			<string>RUTILE</string>
+			<string>ETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arrivées</string>
+			<string>Positions élevées</string>
+			<string>NEES</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Déferlement</string>
+			<string>NEES</string>
+			<string>RUEE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Fromages des Alpes</string>
+			<string>NEES</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Abréviation religieuse</string>
+			<string>NEES</string>
+			<string>ST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Se transformer</string>
+			<string>E</string>
+			<string>MUER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Posséda</string>
+			<string> Unie à nouveau</string>
+			<string>EUT</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string> Posséda</string>
+			<string> Choisi</string>
+			<string>EUT</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string> Posséda</string>
+			<string> Six mois après Noël</string>
+			<string>EUT</string>
+			<string>ETE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string>Positions élevées</string>
+			<string>SESTERCE</string>
+			<string>ELEVATIONS</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Déferlement</string>
+			<string>SESTERCE</string>
+			<string>RUEE</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Fromages des Alpes</string>
+			<string>SESTERCE</string>
+			<string>SERES</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Abréviation religieuse</string>
+			<string>SESTERCE</string>
+			<string>ST</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string></string>
+			<string>SESTERCE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Se transformer</string>
+			<string>SESTERCE</string>
+			<string>MUER</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string></string>
+			<string>SESTERCE</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Unie à nouveau</string>
+			<string>SESTERCE</string>
+			<string>REMARIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Six mois après Noël</string>
+			<string>E</string>
+			<string>ETE</string>
+		</array>
+	</array>
+</array>
+</plist>

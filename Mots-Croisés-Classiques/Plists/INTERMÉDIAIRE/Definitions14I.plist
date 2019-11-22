@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Acteur</string>
+			<string>Méconnaissances</string>
+			<string>INTERPRETE</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Certaines étoiles le sont</string>
+			<string>INTERPRETE</string>
+			<string>NAINES</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Tour</string>
+			<string>INTERPRETE</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>École Normale Supérieure</string>
+			<string>INTERPRETE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>INTERPRETE</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Platine</string>
+			<string>INTERPRETE</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Petits ruisseaux</string>
+			<string>INTERPRETE</string>
+			<string>RUS</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Capables de se dresser</string>
+			<string>INTERPRETE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Unité de mesure thermique</string>
+			<string>INTERPRETE</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Acteur</string>
+			<string>Messagers</string>
+			<string>INTERPRETE</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ornements</string>
+			<string>Méconnaissances</string>
+			<string>GARNITURES</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Certaines étoiles le sont</string>
+			<string>GARNITURES</string>
+			<string>NAINES</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Tour</string>
+			<string>GARNITURES</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>École Normale Supérieure</string>
+			<string>GARNITURES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>GARNITURES</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Platine</string>
+			<string>GARNITURES</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Petits ruisseaux</string>
+			<string>GARNITURES</string>
+			<string>RUS</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Capables de se dresser</string>
+			<string>GARNITURES</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Unité de mesure thermique</string>
+			<string>GARNITURES</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Ornements</string>
+			<string>Messagers</string>
+			<string>GARNITURES</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Méconnaissances</string>
+			<string>NI</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Certaines étoiles le sont</string>
+			<string>NI</string>
+			<string>NAINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string>École Normale Supérieure</string>
+			<string>SE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Sélénium</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>SE</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nombre des péchés capitaux</string>
+			<string>Petits ruisseaux</string>
+			<string>SEPT</string>
+			<string>RUS</string>
+		</array>
+		<array>
+			<string>Nombre des péchés capitaux</string>
+			<string>Capables de se dresser</string>
+			<string>SEPT</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Nombre des péchés capitaux</string>
+			<string>Unité de mesure thermique</string>
+			<string>SEPT</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Nombre des péchés capitaux</string>
+			<string>Messagers</string>
+			<string>SEPT</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Jamais</string>
+			<string>Méconnaissances</string>
+			<string>ONC</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Jamais</string>
+			<string>Certaines étoiles le sont</string>
+			<string>ONC</string>
+			<string>NAINES</string>
+		</array>
+		<array>
+			<string>Jamais</string>
+			<string>Caesium</string>
+			<string>ONC</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Abréviation religieuse</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>ST</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string>Abréviation religieuse</string>
+			<string>Caché</string>
+			<string>ST</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Capables de se dresser</string>
+			<string>C</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Messagers</string>
+			<string>A</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Décidé</string>
+			<string>Méconnaissances</string>
+			<string>RESOLU</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Décidé</string>
+			<string>Certaines étoiles le sont</string>
+			<string>RESOLU</string>
+			<string>NAINES</string>
+		</array>
+		<array>
+			<string>Décidé</string>
+			<string>Caesium</string>
+			<string>RESOLU</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Décidé</string>
+			<string>Endettée</string>
+			<string>RESOLU</string>
+			<string>OBEREE</string>
+		</array>
+		<array>
+			<string>Décidé</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>RESOLU</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string>Décidé</string>
+			<string>Caché</string>
+			<string>RESOLU</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cheveu</string>
+			<string>Capables de se dresser</string>
+			<string>TIF</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Cheveu</string>
+			<string>Idem</string>
+			<string>TIF</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string>Cheveu</string>
+			<string>Messagers</string>
+			<string>TIF</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Champion</string>
+			<string>Méconnaissances</string>
+			<string>AS</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Champion</string>
+			<string>Certaines étoiles le sont</string>
+			<string>AS</string>
+			<string>NAINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bismuth</string>
+			<string>Endettée</string>
+			<string>BI</string>
+			<string>OBEREE</string>
+		</array>
+		<array>
+			<string>Bismuth</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>BI</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bedaine</string>
+			<string>C'est la base</string>
+			<string>BIDE</string>
+			<string>BASAL</string>
+		</array>
+		<array>
+			<string>Bedaine</string>
+			<string>Capables de se dresser</string>
+			<string>BIDE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Bedaine</string>
+			<string>Idem</string>
+			<string>BIDE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string>Bedaine</string>
+			<string>Messagers</string>
+			<string>BIDE</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Méconnaissances</string>
+			<string>N</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Qui a rapport aux dents</string>
+			<string></string>
+			<string>DENTAL</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Qui a rapport aux dents</string>
+			<string>Endettée</string>
+			<string>DENTAL</string>
+			<string>OBEREE</string>
+		</array>
+		<array>
+			<string>Qui a rapport aux dents</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>DENTAL</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string>Qui a rapport aux dents</string>
+			<string></string>
+			<string>DENTAL</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Qui a rapport aux dents</string>
+			<string>C'est la base</string>
+			<string>DENTAL</string>
+			<string>BASAL</string>
+		</array>
+		<array>
+			<string>Qui a rapport aux dents</string>
+			<string>Capables de se dresser</string>
+			<string>DENTAL</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Messagers</string>
+			<string>T</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cela</string>
+			<string>Méconnaissances</string>
+			<string>CA</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Cela</string>
+			<string>Brésilien dans une cage</string>
+			<string>CA</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Renseignements généraux</string>
+			<string>Endettée</string>
+			<string>RG</string>
+			<string>OBEREE</string>
+		</array>
+		<array>
+			<string>Renseignements généraux</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>RG</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Flaire</string>
+			<string>C'est la base</string>
+			<string>SENT</string>
+			<string>BASAL</string>
+		</array>
+		<array>
+			<string>Flaire</string>
+			<string>Capables de se dresser</string>
+			<string>SENT</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Flaire</string>
+			<string>Neptunium</string>
+			<string>SENT</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string>Flaire</string>
+			<string>Messagers</string>
+			<string>SENT</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lancées d'un navire</string>
+			<string>Méconnaissances</string>
+			<string>ERRES</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Lancées d'un navire</string>
+			<string>Brésilien dans une cage</string>
+			<string>ERRES</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Lancées d'un navire</string>
+			<string>Gloussé</string>
+			<string>ERRES</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Lancées d'un navire</string>
+			<string>Endettée</string>
+			<string>ERRES</string>
+			<string>OBEREE</string>
+		</array>
+		<array>
+			<string>Lancées d'un navire</string>
+			<string>Cépages blancs d'Alsace</string>
+			<string>ERRES</string>
+			<string>RIESLINGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dévidoir à soie</string>
+			<string>C'est la base</string>
+			<string>ASPE</string>
+			<string>BASAL</string>
+		</array>
+		<array>
+			<string>Dévidoir à soie</string>
+			<string>Capables de se dresser</string>
+			<string>ASPE</string>
+			<string>ERECTILES</string>
+		</array>
+		<array>
+			<string>Dévidoir à soie</string>
+			<string>Neptunium</string>
+			<string>ASPE</string>
+			<string>NP</string>
+		</array>
+		<array>
+			<string>Dévidoir à soie</string>
+			<string>Messagers</string>
+			<string>ASPE</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Petite brosse en soies de porc</string>
+			<string>Méconnaissances</string>
+			<string>SAIE</string>
+			<string>IGNORANCES</string>
+		</array>
+		<array>
+			<string>Petite brosse en soies de porc</string>
+			<string>Brésilien dans une cage</string>
+			<string>SAIE</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Petite brosse en soies de porc</string>
+			<string>Gloussé</string>
+			<string>SAIE</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Petite brosse en soies de porc</string>
+			<string>Endettée</string>
+			<string>SAIE</string>
+			<string>OBEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Centilitre</string>
+			<string></string>
+			<string>CL</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>Centilitre</string>
+			<string>C'est la base</string>
+			<string>CL</string>
+			<string>BASAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Messagers</string>
+			<string>S</string>
+			<string>ESTAFETTES</string>
+		</array>
+	</array>
+</array>
+</plist>

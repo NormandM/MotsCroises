@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Badineur</string>
+			<string>BOULEVARDS</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Auras le culot de</string>
+			<string>BOULEVARDS</string>
+			<string>OSERAS</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Fatiguée</string>
+			<string>BOULEVARDS</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Note</string>
+			<string>BOULEVARDS</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Souhaitèrent</string>
+			<string>BOULEVARDS</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Par opposition à</string>
+			<string>BOULEVARDS</string>
+			<string>VS</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Fête religieuse musulmane</string>
+			<string>BOULEVARDS</string>
+			<string>AID</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Radon</string>
+			<string>BOULEVARDS</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Chef du gouvernement d&apos;Alger</string>
+			<string>BOULEVARDS</string>
+			<string>DEY</string>
+		</array>
+		<array>
+			<string>Rues très larges</string>
+			<string>Strontium</string>
+			<string>BOULEVARDS</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tuer</string>
+			<string>Badineur</string>
+			<string>ASSASSINER</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Auras le culot de</string>
+			<string>ASSASSINER</string>
+			<string>OSERAS</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Fatiguée</string>
+			<string>ASSASSINER</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Note</string>
+			<string>ASSASSINER</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Souhaitèrent</string>
+			<string>ASSASSINER</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Par opposition à</string>
+			<string>ASSASSINER</string>
+			<string>VS</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Fête religieuse musulmane</string>
+			<string>ASSASSINER</string>
+			<string>AID</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Radon</string>
+			<string>ASSASSINER</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Chef du gouvernement d&apos;Alger</string>
+			<string>ASSASSINER</string>
+			<string>DEY</string>
+		</array>
+		<array>
+			<string>Tuer</string>
+			<string>Strontium</string>
+			<string>ASSASSINER</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pour le départ</string>
+			<string>Badineur</string>
+			<string>TEE</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Pour le départ</string>
+			<string>Auras le culot de</string>
+			<string>TEE</string>
+			<string>OSERAS</string>
+		</array>
+		<array>
+			<string>Pour le départ</string>
+			<string>Fatiguée</string>
+			<string>TEE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Souhaitèrent</string>
+			<string>P</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fête religieuse musulmane</string>
+			<string>D</string>
+			<string>AID</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Chef du gouvernement d&apos;Alger</string>
+			<string>Y</string>
+			<string>DEY</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Badineur</string>
+			<string>IRENEE</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Auras le culot de</string>
+			<string>IRENEE</string>
+			<string>OSERAS</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Fatiguée</string>
+			<string>IRENEE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Refus international</string>
+			<string>IRENEE</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string>Souhaitèrent</string>
+			<string>IRENEE</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Évêque de Lyon</string>
+			<string></string>
+			<string>IRENEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Il habite l&apos;Isère</string>
+			<string>I</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sélénium</string>
+			<string>S</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Note</string>
+			<string>Badineur</string>
+			<string>FA</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Auras le culot de</string>
+			<string>FA</string>
+			<string>OSERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle a sa ruée</string>
+			<string>Refus international</string>
+			<string>OR</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string>Elle a sa ruée</string>
+			<string>Souhaitèrent</string>
+			<string>OR</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ville d&apos;Italie</string>
+			<string></string>
+			<string>ESTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Ville d&apos;Italie</string>
+			<string>Il habite l&apos;Isère</string>
+			<string>ESTE</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string>Ville d&apos;Italie</string>
+			<string>Sujets</string>
+			<string>ESTE</string>
+			<string>THEMES</string>
+		</array>
+		<array>
+			<string>Ville d&apos;Italie</string>
+			<string>Sélénium</string>
+			<string>ESTE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Risque</string>
+			<string>Badineur</string>
+			<string>OSE</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Risque</string>
+			<string>Auras le culot de</string>
+			<string>OSE</string>
+			<string>OSERAS</string>
+		</array>
+		<array>
+			<string>Risque</string>
+			<string>Mèche de cheveu rebelle</string>
+			<string>OSE</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Souhaitèrent</string>
+			<string>ES</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string></string>
+			<string>ES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Il habite l&apos;Isère</string>
+			<string>EH</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Sujets</string>
+			<string>EH</string>
+			<string>THEMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Badineur</string>
+			<string>L</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Limpide</string>
+			<string>Mèche de cheveu rebelle</string>
+			<string>PUR</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Limpide</string>
+			<string>Nous empoisonne la vie</string>
+			<string>PUR</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Limpide</string>
+			<string>Souhaitèrent</string>
+			<string>PUR</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lisière</string>
+			<string></string>
+			<string>OREE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Lisière</string>
+			<string>Il habite l&apos;Isère</string>
+			<string>OREE</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string>Lisière</string>
+			<string>Sujets</string>
+			<string>OREE</string>
+			<string>THEMES</string>
+		</array>
+		<array>
+			<string>Lisière</string>
+			<string></string>
+			<string>OREE</string>
+			<string>E</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Étendue</string>
+			<string>Badineur</string>
+			<string>ETIREE</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Étendue</string>
+			<string>Demi mouche</string>
+			<string>ETIREE</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string>Étendue</string>
+			<string>Mèche de cheveu rebelle</string>
+			<string>ETIREE</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Étendue</string>
+			<string>Nous empoisonne la vie</string>
+			<string>ETIREE</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Étendue</string>
+			<string>Souhaitèrent</string>
+			<string>ETIREE</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Étendue</string>
+			<string>Époque</string>
+			<string>ETIREE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La moitié de la journée</string>
+			<string>Il habite l&apos;Isère</string>
+			<string>AM</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string>La moitié de la journée</string>
+			<string>Sujets</string>
+			<string>AM</string>
+			<string>THEMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Coutume</string>
+			<string>Badineur</string>
+			<string>US</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Coutume</string>
+			<string>Demi mouche</string>
+			<string>US</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Nous empoisonne la vie</string>
+			<string>ENRENEE</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Souhaitèrent</string>
+			<string>ENRENEE</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Époque</string>
+			<string>ENRENEE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Erbium</string>
+			<string>ENRENEE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Il habite l&apos;Isère</string>
+			<string>ENRENEE</string>
+			<string>ISERAN</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Sujets</string>
+			<string>ENRENEE</string>
+			<string>THEMES</string>
+		</array>
+		<array>
+			<string>Harnachée</string>
+			<string>Pronom personnel inversé</string>
+			<string>ENRENEE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Refuser</string>
+			<string>Badineur</string>
+			<string>REJETER</string>
+			<string>BATIFOLEUR</string>
+		</array>
+		<array>
+			<string>Refuser</string>
+			<string>Demi mouche</string>
+			<string>REJETER</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string>Refuser</string>
+			<string></string>
+			<string>REJETER</string>
+			<string>J</string>
+		</array>
+		<array>
+			<string>Refuser</string>
+			<string>Nous empoisonne la vie</string>
+			<string>REJETER</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Refuser</string>
+			<string>Souhaitèrent</string>
+			<string>REJETER</string>
+			<string>ESPERERENT</string>
+		</array>
+		<array>
+			<string>Refuser</string>
+			<string>Époque</string>
+			<string>REJETER</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Refuser</string>
+			<string>Erbium</string>
+			<string>REJETER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Police nazi</string>
+			<string>Sujets</string>
+			<string>SS</string>
+			<string>THEMES</string>
+		</array>
+		<array>
+			<string>Police nazi</string>
+			<string>Pronom personnel inversé</string>
+			<string>SS</string>
+			<string>ES</string>
+		</array>
+	</array>
+</array>
+</plist>

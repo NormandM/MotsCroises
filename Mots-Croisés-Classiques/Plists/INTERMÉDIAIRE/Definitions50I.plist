@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Habileté</string>
+			<string>Vacarme</string>
+			<string>COMPETENCE</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>La réponse que l&quot;on espère</string>
+			<string>COMPETENCE</string>
+			<string>OUI</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Montana</string>
+			<string>COMPETENCE</string>
+			<string>MT</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Bousculaient</string>
+			<string>COMPETENCE</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Plante herbacée</string>
+			<string>COMPETENCE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Titane</string>
+			<string>COMPETENCE</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Point cardinal</string>
+			<string>COMPETENCE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Couvertes de neige</string>
+			<string>COMPETENCE</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Qui sont supposés…</string>
+			<string>COMPETENCE</string>
+			<string>CENSES</string>
+		</array>
+		<array>
+			<string>Habileté</string>
+			<string>Dans un titre universitaire</string>
+			<string>COMPETENCE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Acceptées</string>
+			<string>Vacarme</string>
+			<string>AUTORISEES</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>La réponse que l&quot;on espère</string>
+			<string>AUTORISEES</string>
+			<string>OUI</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Montana</string>
+			<string>AUTORISEES</string>
+			<string>MT</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Bousculaient</string>
+			<string>AUTORISEES</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Plante herbacée</string>
+			<string>AUTORISEES</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Titane</string>
+			<string>AUTORISEES</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Point cardinal</string>
+			<string>AUTORISEES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Couvertes de neige</string>
+			<string>AUTORISEES</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Qui sont supposés…</string>
+			<string>AUTORISEES</string>
+			<string>CENSES</string>
+		</array>
+		<array>
+			<string>Acceptées</string>
+			<string>Dans un titre universitaire</string>
+			<string>AUTORISEES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Abréviation de ici</string>
+			<string>Vacarme</string>
+			<string>CI</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Abréviation de ici</string>
+			<string>La réponse que l&quot;on espère</string>
+			<string>CI</string>
+			<string>OUI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Coutumes</string>
+			<string>Bousculaient</string>
+			<string>US</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string>Coutumes</string>
+			<string>Plante herbacée</string>
+			<string>US</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Supporte un navire en construction</string>
+			<string>Point cardinal</string>
+			<string>TIN</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Supporte un navire en construction</string>
+			<string>Couvertes de neige</string>
+			<string>TIN</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Supporte un navire en construction</string>
+			<string>Qui sont supposés…</string>
+			<string>TIN</string>
+			<string>CENSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Vacarme</string>
+			<string>O</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Césium</string>
+			<string>Empereur romain</string>
+			<string>CS</string>
+			<string>CESAR</string>
+		</array>
+		<array>
+			<string>Césium</string>
+			<string>Bousculaient</string>
+			<string>CS</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Découpe en forme de dent</string>
+			<string>E</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Standard de téléphonie mobile</string>
+			<string>Couvertes de neige</string>
+			<string>GSM</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Standard de téléphonie mobile</string>
+			<string>Qui sont supposés…</string>
+			<string>GSM</string>
+			<string>CENSES</string>
+		</array>
+		<array>
+			<string>Standard de téléphonie mobile</string>
+			<string></string>
+			<string>GSM</string>
+			<string>M</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Montrée</string>
+			<string>Vacarme</string>
+			<string>PRESENTEE</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Tondent</string>
+			<string>PRESENTEE</string>
+			<string>RASENT</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Empereur romain</string>
+			<string>PRESENTEE</string>
+			<string>CESAR</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Bousculaient</string>
+			<string>PRESENTEE</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Fin de verbe</string>
+			<string>PRESENTEE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Découpe en forme de dent</string>
+			<string>PRESENTEE</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Coupelle en terre réfractaire</string>
+			<string>PRESENTEE</string>
+			<string>TET</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Couvertes de neige</string>
+			<string>PRESENTEE</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Montrée</string>
+			<string>Qui sont supposés…</string>
+			<string>PRESENTEE</string>
+			<string>CENSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Risquée</string>
+			<string>Vacarme</string>
+			<string>HASARDEUSE</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Tondent</string>
+			<string>HASARDEUSE</string>
+			<string>RASENT</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Empereur romain</string>
+			<string>HASARDEUSE</string>
+			<string>CESAR</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Bousculaient</string>
+			<string>HASARDEUSE</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Fin de verbe</string>
+			<string>HASARDEUSE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Découpe en forme de dent</string>
+			<string>HASARDEUSE</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Coupelle en terre réfractaire</string>
+			<string>HASARDEUSE</string>
+			<string>TET</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Couvertes de neige</string>
+			<string>HASARDEUSE</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Qui sont supposés…</string>
+			<string>HASARDEUSE</string>
+			<string>CENSES</string>
+		</array>
+		<array>
+			<string>Risquée</string>
+			<string>Existes</string>
+			<string>HASARDEUSE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fonçai</string>
+			<string>Vacarme</string>
+			<string>OSAI</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Fonçai</string>
+			<string>Tondent</string>
+			<string>OSAI</string>
+			<string>RASENT</string>
+		</array>
+		<array>
+			<string>Fonçai</string>
+			<string>Empereur romain</string>
+			<string>OSAI</string>
+			<string>CESAR</string>
+		</array>
+		<array>
+			<string>Fonçai</string>
+			<string>Bousculaient</string>
+			<string>OSAI</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>École de technologie supérieure</string>
+			<string>Découpe en forme de dent</string>
+			<string>ETS</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string>École de technologie supérieure</string>
+			<string>Coupelle en terre réfractaire</string>
+			<string>ETS</string>
+			<string>TET</string>
+		</array>
+		<array>
+			<string>École de technologie supérieure</string>
+			<string>Couvertes de neige</string>
+			<string>ETS</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Existes</string>
+			<string>S</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Vacarme</string>
+			<string>NERE</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Tondent</string>
+			<string>NERE</string>
+			<string>RASENT</string>
+		</array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Empereur romain</string>
+			<string>NERE</string>
+			<string>CESAR</string>
+		</array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Bousculaient</string>
+			<string>NERE</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Découpe en forme de dent</string>
+			<string>N</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Einsteinium</string>
+			<string>Couvertes de neige</string>
+			<string>ES</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string>Einsteinium</string>
+			<string></string>
+			<string>ES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>À la mode</string>
+			<string>Vacarme</string>
+			<string>IN</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>À la mode</string>
+			<string>Tondent</string>
+			<string>IN</string>
+			<string>RASENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Observes</string>
+			<string>Bousculaient</string>
+			<string>NOTES</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string>Observes</string>
+			<string></string>
+			<string>NOTES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Observes</string>
+			<string>Découpe en forme de dent</string>
+			<string>NOTES</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string>Observes</string>
+			<string>Jamais le dernier mot</string>
+			<string>NOTES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Observes</string>
+			<string>Couvertes de neige</string>
+			<string>NOTES</string>
+			<string>NEIGEUSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Métal jaune inaltérable</string>
+			<string>O</string>
+			<string>OR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Nation</string>
+			<string>Vacarme</string>
+			<string>ETAT</string>
+			<string>CACOPHONIE</string>
+		</array>
+		<array>
+			<string>Nation</string>
+			<string>Tondent</string>
+			<string>ETAT</string>
+			<string>RASENT</string>
+		</array>
+		<array>
+			<string>Nation</string>
+			<string></string>
+			<string>ETAT</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Nation</string>
+			<string>Bousculaient</string>
+			<string>ETAT</string>
+			<string>POUSSAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Film de Spielberg</string>
+			<string>Découpe en forme de dent</string>
+			<string>ET</string>
+			<string>ENDENTE</string>
+		</array>
+		<array>
+			<string>Film de Spielberg</string>
+			<string>Jamais le dernier mot</string>
+			<string>ET</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fin de verbe</string>
+			<string></string>
+			<string>ER</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Fin de verbe</string>
+			<string>Métal jaune inaltérable</string>
+			<string>ER</string>
+			<string>OR</string>
+		</array>
+	</array>
+</array>
+</plist>

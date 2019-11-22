@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Finement</string>
+			<string> Mécanismes</string>
+			<string>ELEGAMMENT</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string>  Général sudiste</string>
+			<string>ELEGAMMENT</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Dieu de l&apos;amour</string>
+			<string>ELEGAMMENT</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Mère des Titans</string>
+			<string>ELEGAMMENT</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Dieu guerrier</string>
+			<string>ELEGAMMENT</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string></string>
+			<string>ELEGAMMENT</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Mégaoctet</string>
+			<string>ELEGAMMENT</string>
+			<string>MO</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Point cardinal</string>
+			<string>ELEGAMMENT</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Objectif</string>
+			<string>ELEGAMMENT</string>
+			<string>NEUTRE</string>
+		</array>
+		<array>
+			<string> Finement</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>ELEGAMMENT</string>
+			<string>TEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Mécanismes</string>
+			<string>NERES</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string>  Général sudiste</string>
+			<string>NERES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Dieu de l&apos;amour</string>
+			<string>NERES</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Mère des Titans</string>
+			<string>NERES</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Arbres africains</string>
+			<string> Dieu guerrier</string>
+			<string>NERES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Mégaoctet</string>
+			<string>OSEE</string>
+			<string>MO</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Point cardinal</string>
+			<string>OSEE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Objectif</string>
+			<string>OSEE</string>
+			<string>NEUTRE</string>
+		</array>
+		<array>
+			<string> Risquée</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>OSEE</string>
+			<string>TEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Préfixe qui signifie terre</string>
+			<string> Mécanismes</string>
+			<string>GEO</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Préfixe qui signifie terre</string>
+			<string>  Général sudiste</string>
+			<string>GEO</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Préfixe qui signifie terre</string>
+			<string> Dieu de l&apos;amour</string>
+			<string>GEO</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Dieu guerrier</string>
+			<string>EM</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Place</string>
+			<string>EM</string>
+			<string>MET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abat</string>
+			<string> Point cardinal</string>
+			<string>TUE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Abat</string>
+			<string> Objectif</string>
+			<string>TUE</string>
+			<string>NEUTRE</string>
+		</array>
+		<array>
+			<string> Abat</string>
+			<string> Les golfeurs en ont toujours</string>
+			<string>TUE</string>
+			<string>TEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Mécanismes</string>
+			<string>R</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Dieu de l&apos;amour</string>
+			<string>SISES</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Vieilles colères</string>
+			<string>SISES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Dieu guerrier</string>
+			<string>SISES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Place</string>
+			<string>SISES</string>
+			<string>MET</string>
+		</array>
+		<array>
+			<string> Placées.</string>
+			<string> Située</string>
+			<string>SISES</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Objectif</string>
+			<string>T</string>
+			<string>NEUTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Mécanismes</string>
+			<string>ET</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Meurtris</string>
+			<string>ET</string>
+			<string>TALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vieilles colères</string>
+			<string>R</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Place</string>
+			<string>TIERS</string>
+			<string>MET</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Située</string>
+			<string>TIERS</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Père de l&apos;histoire religieuse</string>
+			<string>TIERS</string>
+			<string>EUSEBE</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Objectif</string>
+			<string>TIERS</string>
+			<string>NEUTRE</string>
+		</array>
+		<array>
+			<string> Une fraction</string>
+			<string> Mises en terre</string>
+			<string>TIERS</string>
+			<string>SEMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Mécanismes</string>
+			<string>NASES</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Meurtris</string>
+			<string>NASES</string>
+			<string>TALES</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Ce qui donne du piquant</string>
+			<string>NASES</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Vieilles colères</string>
+			<string>NASES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Tamise</string>
+			<string>NASES</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Transpiration abondante</string>
+			<string> Située</string>
+			<string>SUEE</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Transpiration abondante</string>
+			<string> Père de l&apos;histoire religieuse</string>
+			<string>SUEE</string>
+			<string>EUSEBE</string>
+		</array>
+		<array>
+			<string> Transpiration abondante</string>
+			<string> Objectif</string>
+			<string>SUEE</string>
+			<string>NEUTRE</string>
+		</array>
+		<array>
+			<string> Transpiration abondante</string>
+			<string> Mises en terre</string>
+			<string>SUEE</string>
+			<string>SEMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Calibrages</string>
+			<string> Mécanismes</string>
+			<string>ALESAGES</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Meurtris</string>
+			<string>ALESAGES</string>
+			<string>TALES</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Ce qui donne du piquant</string>
+			<string>ALESAGES</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Vieilles colères</string>
+			<string>ALESAGES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Tamise</string>
+			<string>ALESAGES</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Jeu chinois</string>
+			<string>ALESAGES</string>
+			<string>GO</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Située</string>
+			<string>ALESAGES</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Calibrages</string>
+			<string> Père de l&apos;histoire religieuse</string>
+			<string>ALESAGES</string>
+			<string>EUSEBE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mises en terre</string>
+			<string>M</string>
+			<string>SEMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rare l&apos;été</string>
+			<string> Mécanismes</string>
+			<string>GEL</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Rare l&apos;été</string>
+			<string> Meurtris</string>
+			<string>GEL</string>
+			<string>TALES</string>
+		</array>
+		<array>
+			<string> Rare l&apos;été</string>
+			<string> Ce qui donne du piquant</string>
+			<string>GEL</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sud-0uest</string>
+			<string> Tamise</string>
+			<string>SO</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string> Sud-0uest</string>
+			<string> Jeu chinois</string>
+			<string>SO</string>
+			<string>GO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une longue période de temps</string>
+			<string> Père de l&apos;histoire religieuse</string>
+			<string>ERE</string>
+			<string>EUSEBE</string>
+		</array>
+		<array>
+			<string> Une longue période de temps</string>
+			<string> Crie comme un cerf</string>
+			<string>ERE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Une longue période de temps</string>
+			<string> Mises en terre</string>
+			<string>ERE</string>
+			<string>SEMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existes</string>
+			<string> Mécanismes</string>
+			<string>ES</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string> Existes</string>
+			<string> Meurtris</string>
+			<string>ES</string>
+			<string>TALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Conjonction</string>
+			<string>OS</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Tamise</string>
+			<string>OS</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans un moulin, ouverture pour le passage de l&apos;eau</string>
+			<string> Astate</string>
+			<string>ABEE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Dans un moulin, ouverture pour le passage de l&apos;eau</string>
+			<string> Père de l&apos;histoire religieuse</string>
+			<string>ABEE</string>
+			<string>EUSEBE</string>
+		</array>
+		<array>
+			<string> Dans un moulin, ouverture pour le passage de l&apos;eau</string>
+			<string> Crie comme un cerf</string>
+			<string>ABEE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Dans un moulin, ouverture pour le passage de l&apos;eau</string>
+			<string> Mises en terre</string>
+			<string>ABEE</string>
+			<string>SEMEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Mécanismes</string>
+			<string>S</string>
+			<string>ENGRENAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string></string>
+			<string>BRETTEES</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string> Conjonction</string>
+			<string>BRETTEES</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string> Tamise</string>
+			<string>BRETTEES</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string></string>
+			<string>BRETTEES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string> Astate</string>
+			<string>BRETTEES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string> Père de l&apos;histoire religieuse</string>
+			<string>BRETTEES</string>
+			<string>EUSEBE</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string> Crie comme un cerf</string>
+			<string>BRETTEES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Travaillées avec un outil denté</string>
+			<string> Mises en terre</string>
+			<string>BRETTEES</string>
+			<string>SEMEES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Reproduire</string>
+			<string> Elle connaît les drogues</string>
+			<string>PHOTOCOPIER</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> C&apos;est rouge</string>
+			<string>PHOTOCOPIER</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Enlèves</string>
+			<string>PHOTOCOPIER</string>
+			<string>OTES</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Donnée un troisième labour</string>
+			<string>PHOTOCOPIER</string>
+			<string>TERSEE</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Lisière</string>
+			<string>PHOTOCOPIER</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Île de Grèce</string>
+			<string>PHOTOCOPIER</string>
+			<string>COS</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Ennui</string>
+			<string>PHOTOCOPIER</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Lâcher des vents</string>
+			<string>PHOTOCOPIER</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Plante décorative</string>
+			<string>PHOTOCOPIER</string>
+			<string>IXIA</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Obtenus</string>
+			<string>PHOTOCOPIER</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Reproduire</string>
+			<string> Resema</string>
+			<string>PHOTOCOPIER</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Elle connaît les drogues</string>
+			<string>HETEROSEXUEL</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> C&apos;est rouge</string>
+			<string>HETEROSEXUEL</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Enlèves</string>
+			<string>HETEROSEXUEL</string>
+			<string>OTES</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Donnée un troisième labour</string>
+			<string>HETEROSEXUEL</string>
+			<string>TERSEE</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Lisière</string>
+			<string>HETEROSEXUEL</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Île de Grèce</string>
+			<string>HETEROSEXUEL</string>
+			<string>COS</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Ennui</string>
+			<string>HETEROSEXUEL</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Lâcher des vents</string>
+			<string>HETEROSEXUEL</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Plante décorative</string>
+			<string>HETEROSEXUEL</string>
+			<string>IXIA</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Obtenus</string>
+			<string>HETEROSEXUEL</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Resema</string>
+			<string>HETEROSEXUEL</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Attiré par son opposé</string>
+			<string> Lawrencium</string>
+			<string>HETEROSEXUEL</string>
+			<string>LR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Aigres</string>
+			<string> Elle connaît les drogues</string>
+			<string>AMERES</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Aigres</string>
+			<string> C&apos;est rouge</string>
+			<string>AMERES</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Aigres</string>
+			<string> Enlèves</string>
+			<string>AMERES</string>
+			<string>OTES</string>
+		</array>
+		<array>
+			<string> Aigres</string>
+			<string> Donnée un troisième labour</string>
+			<string>AMERES</string>
+			<string>TERSEE</string>
+		</array>
+		<array>
+			<string> Aigres</string>
+			<string> Lisière</string>
+			<string>AMERES</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string> Aigres</string>
+			<string> Île de Grèce</string>
+			<string>AMERES</string>
+			<string>COS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Nourrir le feu</string>
+			<string> Lâcher des vents</string>
+			<string>TISER</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Nourrir le feu</string>
+			<string> Plante décorative</string>
+			<string>TISER</string>
+			<string>IXIA</string>
+		</array>
+		<array>
+			<string> Nourrir le feu</string>
+			<string> Obtenus</string>
+			<string>TISER</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Nourrir le feu</string>
+			<string> Resema</string>
+			<string>TISER</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Nourrir le feu</string>
+			<string> Lawrencium</string>
+			<string>TISER</string>
+			<string>LR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Méchante personne</string>
+			<string> Elle connaît les drogues</string>
+			<string>ROSSE</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Méchante personne</string>
+			<string> C&apos;est rouge</string>
+			<string>ROSSE</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Méchante personne</string>
+			<string> Enlèves</string>
+			<string>ROSSE</string>
+			<string>OTES</string>
+		</array>
+		<array>
+			<string> Méchante personne</string>
+			<string> Donnée un troisième labour</string>
+			<string>ROSSE</string>
+			<string>TERSEE</string>
+		</array>
+		<array>
+			<string> Méchante personne</string>
+			<string> Lisière</string>
+			<string>ROSSE</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poulie</string>
+			<string> Cité construite sur les plans de Le Corbusier</string>
+			<string>REA</string>
+			<string>REZE</string>
+		</array>
+		<array>
+			<string> Poulie</string>
+			<string> Lâcher des vents</string>
+			<string>REA</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Poulie</string>
+			<string> Plante décorative</string>
+			<string>REA</string>
+			<string>IXIA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Resema</string>
+			<string>N</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Magnésium</string>
+			<string> Elle connaît les drogues</string>
+			<string>MG</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Magnésium</string>
+			<string> C&apos;est rouge</string>
+			<string>MG</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Donnée un troisième labour</string>
+			<string>E</string>
+			<string>TERSEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Coupelles</string>
+			<string>TER</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Cité construite sur les plans de Le Corbusier</string>
+			<string>TER</string>
+			<string>REZE</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Lâcher des vents</string>
+			<string>TER</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Gentleman cambrioleur</string>
+			<string>ASE</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Resema</string>
+			<string>ASE</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Du verbe être</string>
+			<string>ASE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Modifiez</string>
+			<string> Elle connaît les drogues</string>
+			<string>ALTEREZ</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Modifiez</string>
+			<string> C&apos;est rouge</string>
+			<string>ALTEREZ</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Modifiez</string>
+			<string> Douceur ou mollesse</string>
+			<string>ALTEREZ</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string> Modifiez</string>
+			<string> Donnée un troisième labour</string>
+			<string>ALTEREZ</string>
+			<string>TERSEE</string>
+		</array>
+		<array>
+			<string> Modifiez</string>
+			<string> Protestera</string>
+			<string>ALTEREZ</string>
+			<string>RUERA</string>
+		</array>
+		<array>
+			<string> Modifiez</string>
+			<string> Coupelles</string>
+			<string>ALTEREZ</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string> Modifiez</string>
+			<string> Cité construite sur les plans de Le Corbusier</string>
+			<string>ALTEREZ</string>
+			<string>REZE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string></string>
+			<string>ERES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Gentleman cambrioleur</string>
+			<string>ERES</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Resema</string>
+			<string>ERES</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Du verbe être</string>
+			<string>ERES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tranquille</string>
+			<string> Elle connaît les drogues</string>
+			<string>COI</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Tranquille</string>
+			<string> C&apos;est rouge</string>
+			<string>COI</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Tranquille</string>
+			<string> Douceur ou mollesse</string>
+			<string>COI</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Protestera</string>
+			<string>UTES</string>
+			<string>RUERA</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Coupelles</string>
+			<string>UTES</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Cité construite sur les plans de Le Corbusier</string>
+			<string>UTES</string>
+			<string>REZE</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Personnage de bande dessinée</string>
+			<string>UTES</string>
+			<string>SPIROU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Samarium</string>
+			<string> Gentleman cambrioleur</string>
+			<string>SM</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Samarium</string>
+			<string> Resema</string>
+			<string>SM</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> D&apos;une péninsule</string>
+			<string> Elle connaît les drogues</string>
+			<string>IBERES</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> D&apos;une péninsule</string>
+			<string> C&apos;est rouge</string>
+			<string>IBERES</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> D&apos;une péninsule</string>
+			<string> Douceur ou mollesse</string>
+			<string>IBERES</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string> D&apos;une péninsule</string>
+			<string> Note</string>
+			<string>IBERES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> D&apos;une péninsule</string>
+			<string> Protestera</string>
+			<string>IBERES</string>
+			<string>RUERA</string>
+		</array>
+		<array>
+			<string> D&apos;une péninsule</string>
+			<string> Coupelles</string>
+			<string>IBERES</string>
+			<string>TETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cognées</string>
+			<string> Personnage de bande dessinée</string>
+			<string>PUEES</string>
+			<string>SPIROU</string>
+		</array>
+		<array>
+			<string> Cognées</string>
+			<string> Au milieu des huées</string>
+			<string>PUEES</string>
+			<string>UE</string>
+		</array>
+		<array>
+			<string> Cognées</string>
+			<string> Gentleman cambrioleur</string>
+			<string>PUEES</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Cognées</string>
+			<string> Resema</string>
+			<string>PUEES</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Cognées</string>
+			<string> Convenir</string>
+			<string>PUEES</string>
+			<string>SEOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Elle connaît les drogues</string>
+			<string>EIDER</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> C&apos;est rouge</string>
+			<string>EIDER</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Douceur ou mollesse</string>
+			<string>EIDER</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Note</string>
+			<string>EIDER</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Canard nordique</string>
+			<string> Protestera</string>
+			<string>EIDER</string>
+			<string>RUERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Poissons</string>
+			<string>SIENNE</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Personnage de bande dessinée</string>
+			<string>SIENNE</string>
+			<string>SPIROU</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Au milieu des huées</string>
+			<string>SIENNE</string>
+			<string>UE</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Gentleman cambrioleur</string>
+			<string>SIENNE</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Resema</string>
+			<string>SIENNE</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Ville d&apos;Italie</string>
+			<string> Convenir</string>
+			<string>SIENNE</string>
+			<string>SEOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Direction</string>
+			<string> Elle connaît les drogues</string>
+			<string>NNE</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> C&apos;est rouge</string>
+			<string>NNE</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Douceur ou mollesse</string>
+			<string>NNE</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ne respecte pas l&apos;autorité</string>
+			<string> Protestera</string>
+			<string>ANAR</string>
+			<string>RUERA</string>
+		</array>
+		<array>
+			<string> Ne respecte pas l&apos;autorité</string>
+			<string> Sortie</string>
+			<string>ANAR</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Ne respecte pas l&apos;autorité</string>
+			<string> Poissons</string>
+			<string>ANAR</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string> Ne respecte pas l&apos;autorité</string>
+			<string> Personnage de bande dessinée</string>
+			<string>ANAR</string>
+			<string>SPIROU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écrivain Italien</string>
+			<string> Gentleman cambrioleur</string>
+			<string>ECO</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Écrivain Italien</string>
+			<string> Resema</string>
+			<string>ECO</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Écrivain Italien</string>
+			<string> Convenir</string>
+			<string>ECO</string>
+			<string>SEOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Récent</string>
+			<string> Elle connaît les drogues</string>
+			<string>NEUF</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string> Récent</string>
+			<string> C&apos;est rouge</string>
+			<string>NEUF</string>
+			<string>HEMOGLOBINE</string>
+		</array>
+		<array>
+			<string> Récent</string>
+			<string> Douceur ou mollesse</string>
+			<string>NEUF</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string> Récent</string>
+			<string> Fer</string>
+			<string>NEUF</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Sortie</string>
+			<string>EROS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Poissons</string>
+			<string>EROS</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Personnage de bande dessinée</string>
+			<string>EROS</string>
+			<string>SPIROU</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Strontium.</string>
+			<string>EROS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Resema</string>
+			<string>AI</string>
+			<string>REENSEMENCA</string>
+		</array>
+		<array>
+			<string> Paresseux</string>
+			<string> Convenir</string>
+			<string>AI</string>
+			<string>SEOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elle connaît les drogues</string>
+			<string>E</string>
+			<string>PHARMACIENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string> Douceur ou mollesse</string>
+			<string>REMESURE</string>
+			<string>TIEDEUR</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string> Fer</string>
+			<string>REMESURE</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string></string>
+			<string>REMESURE</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string> Sortie</string>
+			<string>REMESURE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string> Poissons</string>
+			<string>REMESURE</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string> Personnage de bande dessinée</string>
+			<string>REMESURE</string>
+			<string>SPIROU</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string> Strontium.</string>
+			<string>REMESURE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Jauge une autre fois</string>
+			<string></string>
+			<string>REMESURE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Convenir</string>
+			<string>R</string>
+			<string>SEOIR</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Superbe</string>
+			<string>MACHINERIE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Le chef du caïd</string>
+			<string>MACHINERIE</string>
+			<string>AGA</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string></string>
+			<string>MACHINERIE</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Sifflés</string>
+			<string>MACHINERIE</string>
+			<string>HUES</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> En vogue</string>
+			<string>MACHINERIE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Refute</string>
+			<string>MACHINERIE</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>MACHINERIE</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>MACHINERIE</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Territoires colonisés par les Britanniques</string>
+			<string>MACHINERIE</string>
+			<string>INDES</string>
+		</array>
+		<array>
+			<string> Ensemble de machines</string>
+			<string> Du verbe être.</string>
+			<string>MACHINERIE</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Argent</string>
+			<string> Superbe</string>
+			<string>AG</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Argent</string>
+			<string> Le chef du caïd</string>
+			<string>AG</string>
+			<string>AGA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string> Sifflés</string>
+			<string>UNIRENT</string>
+			<string>HUES</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string> En vogue</string>
+			<string>UNIRENT</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string> Refute</string>
+			<string>UNIRENT</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>UNIRENT</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>UNIRENT</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string> Territoires colonisés par les Britanniques</string>
+			<string>UNIRENT</string>
+			<string>INDES</string>
+		</array>
+		<array>
+			<string> Soudèrent</string>
+			<string> Du verbe être.</string>
+			<string>UNIRENT</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Station de chemin de fer</string>
+			<string> Superbe</string>
+			<string>GARE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Station de chemin de fer</string>
+			<string> Le chef du caïd</string>
+			<string>GARE</string>
+			<string>AGA</string>
+		</array>
+		<array>
+			<string> Station de chemin de fer</string>
+			<string> Crie comme un cerf</string>
+			<string>GARE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Station de chemin de fer</string>
+			<string> Sifflés</string>
+			<string>GARE</string>
+			<string>HUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Use</string>
+			<string> Refute</string>
+			<string>ERODE</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Use</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>ERODE</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Use</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>ERODE</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Use</string>
+			<string> Territoires colonisés par les Britanniques</string>
+			<string>ERODE</string>
+			<string>INDES</string>
+		</array>
+		<array>
+			<string> Use</string>
+			<string> Du verbe être.</string>
+			<string>ERODE</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Superbe</string>
+			<string>N</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Crie comme un cerf</string>
+			<string>EST</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Sifflés</string>
+			<string>EST</string>
+			<string>HUES</string>
+		</array>
+		<array>
+			<string> Orient.</string>
+			<string> Tour</string>
+			<string>EST</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trous dans un mur</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>OPES</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Trous dans un mur</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>OPES</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Trous dans un mur</string>
+			<string> Territoires colonisés par les Britanniques</string>
+			<string>OPES</string>
+			<string>INDES</string>
+		</array>
+		<array>
+			<string> Trous dans un mur</string>
+			<string> Du verbe être.</string>
+			<string>OPES</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colère</string>
+			<string> Superbe</string>
+			<string>IRE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Perçues</string>
+			<string>IRE</string>
+			<string>RECUES</string>
+		</array>
+		<array>
+			<string> Colère</string>
+			<string> Crie comme un cerf</string>
+			<string>IRE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Servent à diriger le cheval</string>
+			<string> Tour</string>
+			<string>RENES</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string> Servent à diriger le cheval</string>
+			<string> Électron-Volt</string>
+			<string>RENES</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> Servent à diriger le cheval</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>RENES</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Servent à diriger le cheval</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>RENES</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Servent à diriger le cheval</string>
+			<string> Territoires colonisés par les Britanniques</string>
+			<string>RENES</string>
+			<string>INDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fer</string>
+			<string> Superbe</string>
+			<string>FE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Fer</string>
+			<string> Perçues</string>
+			<string>FE</string>
+			<string>RECUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Un tour complet</string>
+			<string>A</string>
+			<string>ANNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lombric</string>
+			<string> Électron-Volt</string>
+			<string>VER</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> Lombric</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>VER</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Lombric</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>VER</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Corps celeste</string>
+			<string>A</string>
+			<string>ASTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Signe qui ressemble à ce qu&apos;il désigne</string>
+			<string> Superbe</string>
+			<string>ICONE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Signe qui ressemble à ce qu&apos;il désigne</string>
+			<string> Perçues</string>
+			<string>ICONE</string>
+			<string>RECUES</string>
+		</array>
+		<array>
+			<string> Signe qui ressemble à ce qu&apos;il désigne</string>
+			<string> Une vieille langue</string>
+			<string>ICONE</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string> Signe qui ressemble à ce qu&apos;il désigne</string>
+			<string> Un tour complet</string>
+			<string>ICONE</string>
+			<string>ANNEE</string>
+		</array>
+		<array>
+			<string> Signe qui ressemble à ce qu&apos;il désigne</string>
+			<string> Liaison</string>
+			<string>ICONE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string>Qui ne sont pas exacts</string>
+			<string>SERS</string>
+			<string>ERRONES</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>SERS</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Néant</string>
+			<string>SERS</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Corps celeste</string>
+			<string>SERS</string>
+			<string>ASTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Intervalle de cinq degrés</string>
+			<string> Superbe</string>
+			<string>QUINTE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Intervalle de cinq degrés</string>
+			<string> Perçues</string>
+			<string>QUINTE</string>
+			<string>RECUES</string>
+		</array>
+		<array>
+			<string> Intervalle de cinq degrés</string>
+			<string> Une vieille langue</string>
+			<string>QUINTE</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string> Intervalle de cinq degrés</string>
+			<string> Un tour complet</string>
+			<string>QUINTE</string>
+			<string>ANNEE</string>
+		</array>
+		<array>
+			<string> Intervalle de cinq degrés</string>
+			<string> Liaison</string>
+			<string>QUINTE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Intervalle de cinq degrés</string>
+			<string> Est-Sud-est</string>
+			<string>QUINTE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Faire subir une nouvelle intervention</string>
+			<string>RIT</string>
+			<string>REOPERER</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Néant</string>
+			<string>RIT</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Rigole</string>
+			<string> Corps celeste</string>
+			<string>RIT</string>
+			<string>ASTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string> Superbe</string>
+			<string>UELE</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string> Perçues</string>
+			<string>UELE</string>
+			<string>RECUES</string>
+		</array>
+		<array>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string> Une vieille langue</string>
+			<string>UELE</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string> Un tour complet</string>
+			<string>UELE</string>
+			<string>ANNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Est-Sud-est</string>
+			<string>SA</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Gaz rare</string>
+			<string>SA</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Néant</string>
+			<string>ER</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Corps celeste</string>
+			<string>ER</string>
+			<string>ASTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Superbe</string>
+			<string>ES</string>
+			<string>MAGNIFIQUE</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Perçues</string>
+			<string>ES</string>
+			<string>RECUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Un tour complet</string>
+			<string>ESERINE</string>
+			<string>ANNEE</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string></string>
+			<string>ESERINE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Est-Sud-est</string>
+			<string>ESERINE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Gaz rare</string>
+			<string>ESERINE</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string></string>
+			<string>ESERINE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Néant</string>
+			<string>ESERINE</string>
+			<string>RIEN</string>
+		</array>
+		<array>
+			<string> Alcaloïde toxique</string>
+			<string> Corps celeste</string>
+			<string>ESERINE</string>
+			<string>ASTRE</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Érigée</string>
+			<string>CASCADEURS</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>CASCADEURS</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Étain</string>
+			<string>CASCADEURS</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>CASCADEURS</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Apportées</string>
+			<string>CASCADEURS</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Démonstration</string>
+			<string>CASCADEURS</string>
+			<string>DEMO</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Indique la façon</string>
+			<string>CASCADEURS</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Ancien do</string>
+			<string>CASCADEURS</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Dénombrées</string>
+			<string>CASCADEURS</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>Ils prennent des risques à la place des autres</string>
+			<string>Strontium</string>
+			<string>CASCADEURS</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Garnir</string>
+			<string>Érigée</string>
+			<string>ORNEMENTER</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>ORNEMENTER</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Étain</string>
+			<string>ORNEMENTER</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>ORNEMENTER</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Apportées</string>
+			<string>ORNEMENTER</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Démonstration</string>
+			<string>ORNEMENTER</string>
+			<string>DEMO</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Indique la façon</string>
+			<string>ORNEMENTER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Ancien do</string>
+			<string>ORNEMENTER</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Dénombrées</string>
+			<string>ORNEMENTER</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>Garnir</string>
+			<string>Strontium</string>
+			<string>ORNEMENTER</string>
+			<string>SR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Neon</string>
+			<string>Érigée</string>
+			<string>NE</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Neon</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>NE</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Module lunaire</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>LEM</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Module lunaire</string>
+			<string>Apportées</string>
+			<string>LEM</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string>Module lunaire</string>
+			<string>Démonstration</string>
+			<string>LEM</string>
+			<string>DEMO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Dénombrées</string>
+			<string>C</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Érigée</string>
+			<string>SOLENOIDES</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>SOLENOIDES</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Monnaie de la Roumanie</string>
+			<string>SOLENOIDES</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>SOLENOIDES</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Apportées</string>
+			<string>SOLENOIDES</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Démonstration</string>
+			<string>SOLENOIDES</string>
+			<string>DEMO</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Entourée d'eau</string>
+			<string>SOLENOIDES</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>N'a pas été payées</string>
+			<string>SOLENOIDES</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Dénombrées</string>
+			<string>SOLENOIDES</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>Bobines qui créent un champ magnétique</string>
+			<string>Sélénium</string>
+			<string>SOLENOIDES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Séparation de deux éléments d'un mot</string>
+			<string>Érigée</string>
+			<string>TMESE</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Séparation de deux éléments d'un mot</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>TMESE</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>Séparation de deux éléments d'un mot</string>
+			<string>Monnaie de la Roumanie</string>
+			<string>TMESE</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string>Séparation de deux éléments d'un mot</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>TMESE</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Séparation de deux éléments d'un mot</string>
+			<string>Apportées</string>
+			<string>TMESE</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La visiter c'est être distrait</string>
+			<string>Entourée d'eau</string>
+			<string>LUNE</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string>La visiter c'est être distrait</string>
+			<string>N'a pas été payées</string>
+			<string>LUNE</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string>La visiter c'est être distrait</string>
+			<string>Dénombrées</string>
+			<string>LUNE</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>La visiter c'est être distrait</string>
+			<string>Sélénium</string>
+			<string>LUNE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Redites</string>
+			<string>Érigée</string>
+			<string>REITEREES</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>REITEREES</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Monnaie de la Roumanie</string>
+			<string>REITEREES</string>
+			<string>LEI</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>REITEREES</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Apportées</string>
+			<string>REITEREES</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Éructations</string>
+			<string>REITEREES</string>
+			<string>ROTS</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Entourée d'eau</string>
+			<string>REITEREES</string>
+			<string>ILE</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>N'a pas été payées</string>
+			<string>REITEREES</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string>Redites</string>
+			<string>Dénombrées</string>
+			<string>REITEREES</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Note</string>
+			<string>Érigée</string>
+			<string>UT</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>UT</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Norme internationale</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>ISO</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Norme internationale</string>
+			<string>Apportées</string>
+			<string>ISO</string>
+			<string>AMENEES</string>
+		</array>
+		<array>
+			<string>Norme internationale</string>
+			<string>Éructations</string>
+			<string>ISO</string>
+			<string>ROTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Manque d'eau</string>
+			<string>N'a pas été payées</string>
+			<string>SEC</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string>Manque d'eau</string>
+			<string>Dénombrées</string>
+			<string>SEC</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>Manque d'eau</string>
+			<string>Demander le silence de façon cavalière</string>
+			<string>SEC</string>
+			<string>CHUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>On y parle Persan</string>
+			<string>Érigée</string>
+			<string>IRAN</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>On y parle Persan</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>IRAN</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>On y parle Persan</string>
+			<string>Astate</string>
+			<string>IRAN</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>On y parle Persan</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>IRAN</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string>Éructations</string>
+			<string>TA</string>
+			<string>ROTS</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string></string>
+			<string>TA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Interjection</string>
+			<string>Dénombrées</string>
+			<string>EH</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>Interjection</string>
+			<string>Demander le silence de façon cavalière</string>
+			<string>EH</string>
+			<string>CHUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Font grandir les bébés</string>
+			<string>Érigée</string>
+			<string>TETEES</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Font grandir les bébés</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>TETEES</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string>Font grandir les bébés</string>
+			<string>Astate</string>
+			<string>TETEES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Font grandir les bébés</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>TETEES</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Font grandir les bébés</string>
+			<string>Dans</string>
+			<string>TETEES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Font grandir les bébés</string>
+			<string>Éructations</string>
+			<string>TETEES</string>
+			<string>ROTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une ville du Japon</string>
+			<string>Traumatisme crânien</string>
+			<string>TSU</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Une ville du Japon</string>
+			<string>Dénombrées</string>
+			<string>TSU</string>
+			<string>RECENSEES</string>
+		</array>
+		<array>
+			<string>Une ville du Japon</string>
+			<string>Demander le silence de façon cavalière</string>
+			<string>TSU</string>
+			<string>CHUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Érigée</string>
+			<string>ES</string>
+			<string>CONSTRUITE</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Mesurent la densité de l'air</string>
+			<string>ES</string>
+			<string>AREOMETRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le snob commence ainsi</string>
+			<string>Elles sont d'un ordre religieux</string>
+			<string>SN</string>
+			<string>CELESTINES</string>
+		</array>
+		<array>
+			<string>Le snob commence ainsi</string>
+			<string>Dans</string>
+			<string>SN</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Air Canada</string>
+			<string></string>
+			<string>AC</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Air Canada</string>
+			<string>Traumatisme crânien</string>
+			<string>AC</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Demander le silence de façon cavalière</string>
+			<string>T</string>
+			<string>CHUT</string>
+		</array>
+	</array>
+</array>
+</plist>

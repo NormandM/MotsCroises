@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Instrument de mesure</string>
+			<string>GRATTEPAPIER</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Poulies</string>
+			<string>GRATTEPAPIER</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Jonction du cheval</string>
+			<string>GRATTEPAPIER</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Basset à pattes très courtes</string>
+			<string>GRATTEPAPIER</string>
+			<string>TECKEL</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string></string>
+			<string>GRATTEPAPIER</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Flânait</string>
+			<string>GRATTEPAPIER</string>
+			<string>ERRAIT</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Il est important de faire le premier</string>
+			<string>GRATTEPAPIER</string>
+			<string>PAS</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Prénom d'un célèbre malfaiteur</string>
+			<string>GRATTEPAPIER</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Développent</string>
+			<string>GRATTEPAPIER</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Incapable</string>
+			<string>GRATTEPAPIER</string>
+			<string>INAPTE</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Crache en Sicile</string>
+			<string>GRATTEPAPIER</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string> Rond-de-cuir</string>
+			<string> Désert rocheux</string>
+			<string>GRATTEPAPIER</string>
+			<string>REG</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Instrument de mesure</string>
+			<string>AERE</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Poulies</string>
+			<string>AERE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Jonction du cheval</string>
+			<string>AERE</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string> Rend moins dense</string>
+			<string> Basset à pattes très courtes</string>
+			<string>AERE</string>
+			<string>TECKEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Flânait</string>
+			<string>RALANTE</string>
+			<string>ERRAIT</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Il est important de faire le premier</string>
+			<string>RALANTE</string>
+			<string>PAS</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Prénom d'un célèbre malfaiteur</string>
+			<string>RALANTE</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Développent</string>
+			<string>RALANTE</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Incapable</string>
+			<string>RALANTE</string>
+			<string>INAPTE</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Crache en Sicile</string>
+			<string>RALANTE</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string> Exaspérante</string>
+			<string> Désert rocheux</string>
+			<string>RALANTE</string>
+			<string>REG</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fripons</string>
+			<string> Instrument de mesure</string>
+			<string>LASCARS</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Fripons</string>
+			<string> Poulies</string>
+			<string>LASCARS</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Fripons</string>
+			<string> Jonction du cheval</string>
+			<string>LASCARS</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string> Fripons</string>
+			<string> Basset à pattes très courtes</string>
+			<string>LASCARS</string>
+			<string>TECKEL</string>
+		</array>
+		<array>
+			<string> Fripons</string>
+			<string> Répète sans comprendre</string>
+			<string>LASCARS</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string> Fripons</string>
+			<string> Flânait</string>
+			<string>LASCARS</string>
+			<string>ERRAIT</string>
+		</array>
+		<array>
+			<string> Fripons</string>
+			<string> Il est important de faire le premier</string>
+			<string>LASCARS</string>
+			<string>PAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Développent</string>
+			<string>RANG</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Incapable</string>
+			<string>RANG</string>
+			<string>INAPTE</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Crache en Sicile</string>
+			<string>RANG</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Désert rocheux</string>
+			<string>RANG</string>
+			<string>REG</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Instrument de mesure</string>
+			<string>VS</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Par opposition à</string>
+			<string> Poulies</string>
+			<string>VS</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Isthme de la presqu'île de Malacca</string>
+			<string> Basset à pattes très courtes</string>
+			<string>KRA</string>
+			<string>TECKEL</string>
+		</array>
+		<array>
+			<string> Isthme de la presqu'île de Malacca</string>
+			<string> Répète sans comprendre</string>
+			<string>KRA</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string> Isthme de la presqu'île de Malacca</string>
+			<string> Flânait</string>
+			<string>KRA</string>
+			<string>ERRAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Un homme très important</string>
+			<string></string>
+			<string>PAPA</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Un homme très important</string>
+			<string> Développent</string>
+			<string>PAPA</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Un homme très important</string>
+			<string> Incapable</string>
+			<string>PAPA</string>
+			<string>INAPTE</string>
+		</array>
+		<array>
+			<string> Un homme très important</string>
+			<string> Crache en Sicile</string>
+			<string>PAPA</string>
+			<string>ETNA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Instrument de mesure</string>
+			<string>A</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bramait</string>
+			<string> Crie</string>
+			<string>REAIT</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Bramait</string>
+			<string> Basset à pattes très courtes</string>
+			<string>REAIT</string>
+			<string>TECKEL</string>
+		</array>
+		<array>
+			<string> Bramait</string>
+			<string> Répète sans comprendre</string>
+			<string>REAIT</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string> Bramait</string>
+			<string> Flânait</string>
+			<string>REAIT</string>
+			<string>ERRAIT</string>
+		</array>
+		<array>
+			<string> Bramait</string>
+			<string> Explore</string>
+			<string>REAIT</string>
+			<string>TATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Platine</string>
+			<string> Développent</string>
+			<string>PT</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Platine</string>
+			<string> Incapable</string>
+			<string>PT</string>
+			<string>INAPTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> C'était une armée</string>
+			<string>O</string>
+			<string>OST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Physicien français</string>
+			<string> Instrument de mesure</string>
+			<string>NEEL</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Physicien français</string>
+			<string> Littoraux</string>
+			<string>NEEL</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string> Physicien français</string>
+			<string> Crie</string>
+			<string>NEEL</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Physicien français</string>
+			<string> Basset à pattes très courtes</string>
+			<string>NEEL</string>
+			<string>TECKEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> Flânait</string>
+			<string>TACHEES</string>
+			<string>ERRAIT</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> Explore</string>
+			<string>TACHEES</string>
+			<string>TATE</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> Démonstratif</string>
+			<string>TACHEES</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> Développent</string>
+			<string>TACHEES</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> Incapable</string>
+			<string>TACHEES</string>
+			<string>INAPTE</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> Orient</string>
+			<string>TACHEES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Tavelées</string>
+			<string> C'était une armée</string>
+			<string>TACHEES</string>
+			<string>OST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> N'hésite pas</string>
+			<string> Instrument de mesure</string>
+			<string>OSE</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> N'hésite pas</string>
+			<string> Littoraux</string>
+			<string>OSE</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string> N'hésite pas</string>
+			<string> Crie</string>
+			<string>OSE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Moeurs</string>
+			<string>U</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Explore</string>
+			<string>TER</string>
+			<string>TATE</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Démonstratif</string>
+			<string>TER</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> Le troisième</string>
+			<string> Développent</string>
+			<string>TER</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une vie irréprochable</string>
+			<string> Orient</string>
+			<string>ST</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Une vie irréprochable</string>
+			<string> C'était une armée</string>
+			<string>ST</string>
+			<string>OST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Montana</string>
+			<string> Instrument de mesure</string>
+			<string>MT</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Montana</string>
+			<string> Littoraux</string>
+			<string>MT</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Pour suspendre</string>
+			<string>ESTE</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Moeurs</string>
+			<string>ESTE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Indispensable au golfeur</string>
+			<string>ESTE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Explore</string>
+			<string>ESTE</string>
+			<string>TATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Talent, habileté</string>
+			<string> Développent</string>
+			<string>ART</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Talent, habileté</string>
+			<string> Prénom.</string>
+			<string>ART</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Talent, habileté</string>
+			<string> Orient</string>
+			<string>ART</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Instrument de mesure</string>
+			<string>ERES</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Littoraux</string>
+			<string>ERES</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Du verbe être</string>
+			<string>ERES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Pour suspendre</string>
+			<string>ERES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Indispensable au golfeur</string>
+			<string>E</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string></string>
+			<string>ASE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Développent</string>
+			<string>ASE</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Prénom.</string>
+			<string>ASE</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mesures agraires</string>
+			<string>A</string>
+			<string>ARES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Affaissées</string>
+			<string> Instrument de mesure</string>
+			<string>TASSEES</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Affaissées</string>
+			<string> Littoraux</string>
+			<string>TASSEES</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string> Affaissées</string>
+			<string> Du verbe être</string>
+			<string>TASSEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Affaissées</string>
+			<string> Pour suspendre</string>
+			<string>TASSEES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Affaissées</string>
+			<string> Troublé</string>
+			<string>TASSEES</string>
+			<string>EMU</string>
+		</array>
+		<array>
+			<string> Affaissées</string>
+			<string> Indispensable au golfeur</string>
+			<string>TASSEES</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Affaissées</string>
+			<string> Une femme irréprochable</string>
+			<string>TASSEES</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prince</string>
+			<string> Développent</string>
+			<string>EMIR</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Prince</string>
+			<string> Prénom.</string>
+			<string>EMIR</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Prince</string>
+			<string> Norme internationale</string>
+			<string>EMIR</string>
+			<string>ISO</string>
+		</array>
+		<array>
+			<string> Prince</string>
+			<string> Mesures agraires</string>
+			<string>EMIR</string>
+			<string>ARES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Instrument de mesure</string>
+			<string>RN</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Littoraux</string>
+			<string>RN</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Pour suspendre</string>
+			<string>EM</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Abréviation religieuse</string>
+			<string> Troublé</string>
+			<string>EM</string>
+			<string>EMU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ajoute au vin</string>
+			<string> Une femme irréprochable</string>
+			<string>TANISE</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Ajoute au vin</string>
+			<string> Champion</string>
+			<string>TANISE</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Ajoute au vin</string>
+			<string> Développent</string>
+			<string>TANISE</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string> Ajoute au vin</string>
+			<string> Prénom.</string>
+			<string>TANISE</string>
+			<string>REMI</string>
+		</array>
+		<array>
+			<string> Ajoute au vin</string>
+			<string> Norme internationale</string>
+			<string>TANISE</string>
+			<string>ISO</string>
+		</array>
+		<array>
+			<string> Ajoute au vin</string>
+			<string> Mesures agraires</string>
+			<string>TANISE</string>
+			<string>ARES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Direction</string>
+			<string> Instrument de mesure</string>
+			<string>ESTSUDEST</string>
+			<string>GALVANOMETRE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Littoraux</string>
+			<string>ESTSUDEST</string>
+			<string>ESTRANS</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string></string>
+			<string>ESTSUDEST</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Pour suspendre</string>
+			<string>ESTSUDEST</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Troublé</string>
+			<string>ESTSUDEST</string>
+			<string>EMU</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string></string>
+			<string>ESTSUDEST</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Une femme irréprochable</string>
+			<string>ESTSUDEST</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Champion</string>
+			<string>ESTSUDEST</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Développent</string>
+			<string>ESTSUDEST</string>
+			<string>PARAPHRASENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hic</string>
+			<string> Norme internationale</string>
+			<string>OS</string>
+			<string>ISO</string>
+		</array>
+		<array>
+			<string> Hic</string>
+			<string> Mesures agraires</string>
+			<string>OS</string>
+			<string>ARES</string>
+		</array>
+	</array>
+</array>
+</plist>

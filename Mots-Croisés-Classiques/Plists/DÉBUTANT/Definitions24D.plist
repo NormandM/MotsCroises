@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Bouleversement</string>
+			<string> réalisées  des contacts</string>
+			<string>REVOLUTION</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Étaler</string>
+			<string>REVOLUTION</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Possessif</string>
+			<string>REVOLUTION</string>
+			<string>VOS</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Pronom indéfini.</string>
+			<string>REVOLUTION</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string></string>
+			<string>REVOLUTION</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Fatigué</string>
+			<string>REVOLUTION</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Buva</string>
+			<string>REVOLUTION</string>
+			<string>TETA</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Inchangées</string>
+			<string>REVOLUTION</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Armée du Moyen-Âge</string>
+			<string>REVOLUTION</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Bouleversement</string>
+			<string> Arrivées</string>
+			<string>REVOLUTION</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville et célèbre collège Anglais</string>
+			<string> réalisées  des contacts</string>
+			<string>ETON</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Ville et célèbre collège Anglais</string>
+			<string> Étaler</string>
+			<string>ETON</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Ville et célèbre collège Anglais</string>
+			<string> Possessif</string>
+			<string>ETON</string>
+			<string>VOS</string>
+		</array>
+		<array>
+			<string> Ville et célèbre collège Anglais</string>
+			<string> Pronom indéfini.</string>
+			<string>ETON</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Fatigué</string>
+			<string>SENSE</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Buva</string>
+			<string>SENSE</string>
+			<string>TETA</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Inchangées</string>
+			<string>SENSE</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Armée du Moyen-Âge</string>
+			<string>SENSE</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Judicieux</string>
+			<string> Arrivées</string>
+			<string>SENSE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif.</string>
+			<string> réalisées  des contacts</string>
+			<string>SES</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Étaler</string>
+			<string>SES</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Possessif</string>
+			<string>SES</string>
+			<string>VOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Palpe à nouveau</string>
+			<string> Rhodium</string>
+			<string>RETATE</string>
+			<string>RH</string>
+		</array>
+		<array>
+			<string> Palpe à nouveau</string>
+			<string> Fatigué</string>
+			<string>RETATE</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string> Palpe à nouveau</string>
+			<string> Buva</string>
+			<string>RETATE</string>
+			<string>TETA</string>
+		</array>
+		<array>
+			<string> Palpe à nouveau</string>
+			<string> Inchangées</string>
+			<string>RETATE</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Palpe à nouveau</string>
+			<string> Armée du Moyen-Âge</string>
+			<string>RETATE</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Palpe à nouveau</string>
+			<string> Arrivées</string>
+			<string>RETATE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Indique la manière</string>
+			<string> réalisées  des contacts</string>
+			<string>EN</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Étaler</string>
+			<string>EN</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Interjection de surprise</string>
+			<string> Soutiennent le corps</string>
+			<string>OH</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Interjection de surprise</string>
+			<string> Rhodium</string>
+			<string>OH</string>
+			<string>RH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Buva</string>
+			<string>AL</string>
+			<string>TETA</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Inchangées</string>
+			<string>AL</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Arrivées</string>
+			<string>S</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> réalisées  des contacts</string>
+			<string>ADOS</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Étaler</string>
+			<string>ADOS</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Grosse mouche</string>
+			<string>ADOS</string>
+			<string>OESTRE</string>
+		</array>
+		<array>
+			<string> Pas encore adultes</string>
+			<string> Soutiennent le corps</string>
+			<string>ADOS</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Délavés</string>
+			<string>T</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Inchangées</string>
+			<string>TR</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> En appelé à quelqu&apos;un</string>
+			<string>TR</string>
+			<string>REFERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Boeuf sauvage aujourd’hui disparu</string>
+			<string> réalisées  des contacts</string>
+			<string>URE</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string>Boeuf sauvage aujourd’hui disparu</string>
+			<string> Étaler</string>
+			<string>URE</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string>Boeuf sauvage aujourd’hui disparu</string>
+			<string> Grosse mouche</string>
+			<string>URE</string>
+			<string>OESTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string></string>
+			<string>AEREES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Délavés</string>
+			<string>AEREES</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string></string>
+			<string>AEREES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Inchangées</string>
+			<string>AEREES</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> En appelé à quelqu&apos;un</string>
+			<string>AEREES</string>
+			<string>REFERE</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string></string>
+			<string>AEREES</string>
+			<string>S</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Essai</string>
+			<string> réalisées  des contacts</string>
+			<string>TEST</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Étaler</string>
+			<string>TEST</string>
+			<string>ETENDRE</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Grosse mouche</string>
+			<string>TEST</string>
+			<string>OESTRE</string>
+		</array>
+		<array>
+			<string> Essai</string>
+			<string> Le golfeur ne peut s&apos;en passer</string>
+			<string>TEST</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Délavés</string>
+			<string>R</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Radiofréquence</string>
+			<string> Inchangées</string>
+			<string>RF</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Radiofréquence</string>
+			<string> En appelé à quelqu&apos;un</string>
+			<string>RF</string>
+			<string>REFERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> réalisées  des contacts</string>
+			<string>E</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> Grosse mouche</string>
+			<string>TEINTEES</string>
+			<string>OESTRE</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> Le golfeur ne peut s&apos;en passer</string>
+			<string>TEINTEES</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string></string>
+			<string>TEINTEES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> Délavés</string>
+			<string>TEINTEES</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> Thulium</string>
+			<string>TEINTEES</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> Inchangées</string>
+			<string>TEINTEES</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> En appelé à quelqu&apos;un</string>
+			<string>TEINTEES</string>
+			<string>REFERE</string>
+		</array>
+		<array>
+			<string> Légèrement colorées</string>
+			<string> Argile</string>
+			<string>TEINTEES</string>
+			<string>SIL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Vagabonde</string>
+			<string> réalisées  des contacts</string>
+			<string>ERRE</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Vagabonde</string>
+			<string> Petit ruisseau</string>
+			<string>ERRE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Vagabonde</string>
+			<string> Grosse mouche</string>
+			<string>ERRE</string>
+			<string>OESTRE</string>
+		</array>
+		<array>
+			<string> Vagabonde</string>
+			<string> Le golfeur ne peut s&apos;en passer</string>
+			<string>ERRE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abrasif</string>
+			<string> Délavés</string>
+			<string>EMERI</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string> Abrasif</string>
+			<string> Thulium</string>
+			<string>EMERI</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string> Abrasif</string>
+			<string> Inchangées</string>
+			<string>EMERI</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> Abrasif</string>
+			<string> En appelé à quelqu&apos;un</string>
+			<string>EMERI</string>
+			<string>REFERE</string>
+		</array>
+		<array>
+			<string> Abrasif</string>
+			<string> Argile</string>
+			<string>EMERI</string>
+			<string>SIL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trime dur</string>
+			<string> réalisées  des contacts</string>
+			<string>SUE</string>
+			<string>RESEAUTEES</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Petit ruisseau</string>
+			<string>SUE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Grosse mouche</string>
+			<string>SUE</string>
+			<string>OESTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string></string>
+			<string>AS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Délavés</string>
+			<string>AS</string>
+			<string>TERNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> À côté du poivre</string>
+			<string> Inchangées</string>
+			<string>SEL</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string> À côté du poivre</string>
+			<string> En appelé à quelqu&apos;un</string>
+			<string>SEL</string>
+			<string>REFERE</string>
+		</array>
+		<array>
+			<string> À côté du poivre</string>
+			<string> Argile</string>
+			<string>SEL</string>
+			<string>SIL</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Persistance</string>
+			<string> Envisager</string>
+			<string>CONTINUITE</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Enlevées</string>
+			<string>CONTINUITE</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Tresse</string>
+			<string>CONTINUITE</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string></string>
+			<string>CONTINUITE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Pas entendues</string>
+			<string>CONTINUITE</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Nickel</string>
+			<string>CONTINUITE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string>CONTINUITE</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Vieilles colères</string>
+			<string>CONTINUITE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Amas</string>
+			<string>CONTINUITE</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string> Persistance</string>
+			<string> Pâturage d&apos;été</string>
+			<string>CONTINUITE</string>
+			<string>ESTIVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enleva</string>
+			<string> Envisager</string>
+			<string>OTA</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Enleva</string>
+			<string> Enlevées</string>
+			<string>OTA</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string> Enleva</string>
+			<string> Tresse</string>
+			<string>OTA</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Refuseras</string>
+			<string> Pas entendues</string>
+			<string>NIERAS</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Refuseras</string>
+			<string> Nickel</string>
+			<string>NIERAS</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Refuseras</string>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string>NIERAS</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Refuseras</string>
+			<string> Vieilles colères</string>
+			<string>NIERAS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Refuseras</string>
+			<string> Amas</string>
+			<string>NIERAS</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string> Refuseras</string>
+			<string> Pâturage d&apos;été</string>
+			<string>NIERAS</string>
+			<string>ESTIVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Propre</string>
+			<string> Envisager</string>
+			<string>NETTE</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Enlevées</string>
+			<string>NETTE</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Tresse</string>
+			<string>NETTE</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Possessif</string>
+			<string>NETTE</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string> Propre</string>
+			<string> Pas entendues</string>
+			<string>NETTE</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poids pour la stabilité</string>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string>LEST</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Poids pour la stabilité</string>
+			<string> Vieilles colères</string>
+			<string>LEST</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Poids pour la stabilité</string>
+			<string> Amas</string>
+			<string>LEST</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string> Poids pour la stabilité</string>
+			<string> Pâturage d&apos;été</string>
+			<string>LEST</string>
+			<string>ESTIVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Envisager</string>
+			<string>SETACEES</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Enlevées</string>
+			<string>SETACEES</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Tresse</string>
+			<string>SETACEES</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Possessif</string>
+			<string>SETACEES</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Pas entendues</string>
+			<string>SETACEES</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Greffée</string>
+			<string>SETACEES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Affluent de l&apos;Oubangui</string>
+			<string>SETACEES</string>
+			<string>UELE</string>
+		</array>
+		<array>
+			<string> Comme les soies de porc</string>
+			<string> Vieilles colères</string>
+			<string>SETACEES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pâturage d&apos;été</string>
+			<string>I</string>
+			<string>ESTIVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Envisager</string>
+			<string>ISE</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Enlevées</string>
+			<string>ISE</string>
+			<string>OTEES</string>
+		</array>
+		<array>
+			<string> Baie nippone</string>
+			<string> Tresse</string>
+			<string>ISE</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Pas entendues</string>
+			<string>ON</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Greffée</string>
+			<string>ON</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rendez-vous</string>
+			<string> Prénom</string>
+			<string>RV</string>
+			<string>RENALD</string>
+		</array>
+		<array>
+			<string> Rendez-vous</string>
+			<string> Pâturage d&apos;été</string>
+			<string>RV</string>
+			<string>ESTIVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Envisager</string>
+			<string>D</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string> Étoffe</string>
+			<string>SUTUREE</string>
+			<string>SERGE</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string> Pas entendues</string>
+			<string>SUTUREE</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string> Greffée</string>
+			<string>SUTUREE</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string> Coutumes</string>
+			<string>SUTUREE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string></string>
+			<string>SUTUREE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string> Prénom</string>
+			<string>SUTUREE</string>
+			<string>RENALD</string>
+		</array>
+		<array>
+			<string> Cousue</string>
+			<string> Pâturage d&apos;été</string>
+			<string>SUTUREE</string>
+			<string>ESTIVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Têtus</string>
+			<string> Envisager</string>
+			<string>ENTETES</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Têtus</string>
+			<string> Arbre africain</string>
+			<string>ENTETES</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Têtus</string>
+			<string></string>
+			<string>ENTETES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Têtus</string>
+			<string> Étoffe</string>
+			<string>ENTETES</string>
+			<string>SERGE</string>
+		</array>
+		<array>
+			<string> Têtus</string>
+			<string> Pas entendues</string>
+			<string>ENTETES</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Têtus</string>
+			<string> Greffée</string>
+			<string>ENTETES</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string> Têtus</string>
+			<string> Coutumes</string>
+			<string>ENTETES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Prénom</string>
+			<string>N</string>
+			<string>RENALD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note de musique</string>
+			<string> Envisager</string>
+			<string>RE</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Note de musique</string>
+			<string> Arbre africain</string>
+			<string>RE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Brame</string>
+			<string> Étoffe</string>
+			<string>REE</string>
+			<string>SERGE</string>
+		</array>
+		<array>
+			<string> Brame</string>
+			<string> Pas entendues</string>
+			<string>REE</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Brame</string>
+			<string> Greffée</string>
+			<string>REE</string>
+			<string>ENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Contenant</string>
+			<string> Monnaie du Japon</string>
+			<string>SAC</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Contenant</string>
+			<string> Prénom</string>
+			<string>SAC</string>
+			<string>RENALD</string>
+		</array>
+		<array>
+			<string> Contenant</string>
+			<string> Conseil supérieur</string>
+			<string>SAC</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Construit</string>
+			<string> Envisager</string>
+			<string>ERIGE</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Construit</string>
+			<string> Arbre africain</string>
+			<string>ERIGE</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Construit</string>
+			<string> De même</string>
+			<string>ERIGE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Construit</string>
+			<string> Étoffe</string>
+			<string>ERIGE</string>
+			<string>SERGE</string>
+		</array>
+		<array>
+			<string> Construit</string>
+			<string> Pas entendues</string>
+			<string>ERIGE</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> On les fait respirer pour reprendre ses esprits</string>
+			<string> Pronom</string>
+			<string>SELS</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> On les fait respirer pour reprendre ses esprits</string>
+			<string> Monnaie du Japon</string>
+			<string>SELS</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> On les fait respirer pour reprendre ses esprits</string>
+			<string> Prénom</string>
+			<string>SELS</string>
+			<string>RENALD</string>
+		</array>
+		<array>
+			<string> On les fait respirer pour reprendre ses esprits</string>
+			<string> Conseil supérieur</string>
+			<string>SELS</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Envisager</string>
+			<string>REDESCEND</string>
+			<string>CONSIDERER</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Arbre africain</string>
+			<string>REDESCEND</string>
+			<string>NERE</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> De même</string>
+			<string>REDESCEND</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Étoffe</string>
+			<string>REDESCEND</string>
+			<string>SERGE</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Pas entendues</string>
+			<string>REDESCEND</string>
+			<string>INECOUTEES</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string></string>
+			<string>REDESCEND</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Pronom</string>
+			<string>REDESCEND</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Monnaie du Japon</string>
+			<string>REDESCEND</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Après qu&apos;on remonte</string>
+			<string> Prénom</string>
+			<string>REDESCEND</string>
+			<string>RENALD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

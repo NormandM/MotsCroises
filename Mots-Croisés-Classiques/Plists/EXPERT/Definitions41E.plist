@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Correctif</string>
+			<string>RADIOLOGISTE</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Pièces bouffonnes</string>
+			<string>RADIOLOGISTE</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Déclaration d'échange de biens</string>
+			<string>RADIOLOGISTE</string>
+			<string>DEB</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Colères</string>
+			<string>RADIOLOGISTE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Possèdent</string>
+			<string>RADIOLOGISTE</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Figures de rhétorique</string>
+			<string>RADIOLOGISTE</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Fonces</string>
+			<string>RADIOLOGISTE</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Mère des Titans</string>
+			<string>RADIOLOGISTE</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string></string>
+			<string>RADIOLOGISTE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>RADIOLOGISTE</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Classées</string>
+			<string>RADIOLOGISTE</string>
+			<string>TRIEES</string>
+		</array>
+		<array>
+			<string> Voit à travers les corps</string>
+			<string> Orient</string>
+			<string>RADIOLOGISTE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Correctif</string>
+			<string>ETERNISE</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Pièces bouffonnes</string>
+			<string>ETERNISE</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Déclaration d'échange de biens</string>
+			<string>ETERNISE</string>
+			<string>DEB</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Colères</string>
+			<string>ETERNISE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Possèdent</string>
+			<string>ETERNISE</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Figures de rhétorique</string>
+			<string>ETERNISE</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Fonces</string>
+			<string>ETERNISE</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string> Prend son temps</string>
+			<string> Mère des Titans</string>
+			<string>ETERNISE</string>
+			<string>GE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>ERS</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Classées</string>
+			<string>ERS</string>
+			<string>TRIEES</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Orient</string>
+			<string>ERS</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Oignon</string>
+			<string> Correctif</string>
+			<string>CEBETTE</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Oignon</string>
+			<string> Pièces bouffonnes</string>
+			<string>CEBETTE</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Oignon</string>
+			<string> Déclaration d'échange de biens</string>
+			<string>CEBETTE</string>
+			<string>DEB</string>
+		</array>
+		<array>
+			<string> Oignon</string>
+			<string> Colères</string>
+			<string>CEBETTE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Oignon</string>
+			<string> Possèdent</string>
+			<string>CEBETTE</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string> Oignon</string>
+			<string> Figures de rhétorique</string>
+			<string>CEBETTE</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string> Oignon</string>
+			<string> Fonces</string>
+			<string>CEBETTE</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Nomme</string>
+			<string></string>
+			<string>ELIT</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Nomme</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>ELIT</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string> Nomme</string>
+			<string> Classées</string>
+			<string>ELIT</string>
+			<string>TRIEES</string>
+		</array>
+		<array>
+			<string> Nomme</string>
+			<string> Orient</string>
+			<string>ELIT</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Thallium</string>
+			<string> Correctif</string>
+			<string>TL</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Thallium</string>
+			<string> Pièces bouffonnes</string>
+			<string>TL</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Colères</string>
+			<string>S</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> C'était une armée</string>
+			<string> Figures de rhétorique</string>
+			<string>OST</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string> C'était une armée</string>
+			<string> Fonces</string>
+			<string>OST</string>
+			<string>OSES</string>
+		</array>
+		<array>
+			<string> C'était une armée</string>
+			<string> Pronom</string>
+			<string>OST</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Pour ranimer ses esprits</string>
+			<string>SE</string>
+			<string>SELS</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Classées</string>
+			<string>SE</string>
+			<string>TRIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Capri</string>
+			<string> Correctif</string>
+			<string>ILE</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Pièces bouffonnes</string>
+			<string>ILE</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Capri</string>
+			<string> Infinitif</string>
+			<string>ILE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> S'occupent des bêtes</string>
+			<string>AT</string>
+			<string>ANIERS</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Figures de rhétorique</string>
+			<string>AT</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Pronom</string>
+			<string>ES</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Possessif</string>
+			<string>ES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Classées</string>
+			<string>ET</string>
+			<string>TRIEES</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Indispensable au golfeur</string>
+			<string>ET</string>
+			<string>TEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> Correctif</string>
+			<string>FARINES</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> Pièces bouffonnes</string>
+			<string>FARINES</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> Infinitif</string>
+			<string>FARINES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> Pronom personnel</string>
+			<string>FARINES</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> S'occupent des bêtes</string>
+			<string>FARINES</string>
+			<string>ANIERS</string>
+		</array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> Figures de rhétorique</string>
+			<string>FARINES</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string> Dérivés des céréales</string>
+			<string> Calme et paisible</string>
+			<string>FARINES</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Possessif</string>
+			<string>ERSE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Souillée à nouveau</string>
+			<string>ERSE</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Classées</string>
+			<string>ERSE</string>
+			<string>TRIEES</string>
+		</array>
+		<array>
+			<string> Anneau de cordage</string>
+			<string> Indispensable au golfeur</string>
+			<string>ERSE</string>
+			<string>TEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> À la mode</string>
+			<string> Correctif</string>
+			<string>IN</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> À la mode</string>
+			<string> Pièces bouffonnes</string>
+			<string>IN</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> Pronom personnel</string>
+			<string>LISEUSE</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> S'occupent des bêtes</string>
+			<string>LISEUSE</string>
+			<string>ANIERS</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> Figures de rhétorique</string>
+			<string>LISEUSE</string>
+			<string>LITOTES</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> Calme et paisible</string>
+			<string>LISEUSE</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> Avant les autres</string>
+			<string>LISEUSE</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> Possessif</string>
+			<string>LISEUSE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Veste de femme</string>
+			<string> Souillée à nouveau</string>
+			<string>LISEUSE</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Indispensable au golfeur</string>
+			<string>E</string>
+			<string>TEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Renonce</string>
+			<string> Correctif</string>
+			<string>CESSE</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Renonce</string>
+			<string> Pièces bouffonnes</string>
+			<string>CESSE</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Renonce</string>
+			<string> Instrument de musique iranien</string>
+			<string>CESSE</string>
+			<string>SETAR</string>
+		</array>
+		<array>
+			<string> Renonce</string>
+			<string> Pronom personnel</string>
+			<string>CESSE</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string> Renonce</string>
+			<string> S'occupent des bêtes</string>
+			<string>CESSE</string>
+			<string>ANIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Calme et paisible</string>
+			<string>RN</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Avant les autres</string>
+			<string>RN</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Souillée à nouveau</string>
+			<string>SN</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string> Métal malléable</string>
+			<string> Non! (pl)</string>
+			<string>SN</string>
+			<string>NIETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enzyme</string>
+			<string> Correctif</string>
+			<string>ASE</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Pièces bouffonnes</string>
+			<string>ASE</string>
+			<string>ATELLANES</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Instrument de musique iranien</string>
+			<string>ASE</string>
+			<string>SETAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> S'occupent des bêtes</string>
+			<string>REESSAIE</string>
+			<string>ANIERS</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string></string>
+			<string>REESSAIE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> Calme et paisible</string>
+			<string>REESSAIE</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> Avant les autres</string>
+			<string>REESSAIE</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> Hareng fumé</string>
+			<string>REESSAIE</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> Souillée à nouveau</string>
+			<string>REESSAIE</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> Non! (pl)</string>
+			<string>REESSAIE</string>
+			<string>NIETS</string>
+		</array>
+		<array>
+			<string> Tente à nouveau</string>
+			<string> Trompée</string>
+			<string>REESSAIE</string>
+			<string>EUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Correctif</string>
+			<string>T</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amas</string>
+			<string> Instrument de musique iranien</string>
+			<string>TAS</string>
+			<string>SETAR</string>
+		</array>
+		<array>
+			<string> Amas</string>
+			<string> Exprime la douleur</string>
+			<string>TAS</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> Amas</string>
+			<string> S'occupent des bêtes</string>
+			<string>TAS</string>
+			<string>ANIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Calme et paisible</string>
+			<string>I</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Commune française </string>
+			<string> Hareng fumé</string>
+			<string>ALEU</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string>  Commune française </string>
+			<string> Souillée à nouveau</string>
+			<string>ALEU</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string>  Commune française </string>
+			<string> Non! (pl)</string>
+			<string>ALEU</string>
+			<string>NIETS</string>
+		</array>
+		<array>
+			<string>  Commune française </string>
+			<string> Trompée</string>
+			<string>ALEU</string>
+			<string>EUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Marcherai</string>
+			<string> Correctif</string>
+			<string>IRAI</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Marcherai</string>
+			<string> Note</string>
+			<string>IRAI</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Marcherai</string>
+			<string> Instrument de musique iranien</string>
+			<string>IRAI</string>
+			<string>SETAR</string>
+		</array>
+		<array>
+			<string> Marcherai</string>
+			<string> Exprime la douleur</string>
+			<string>IRAI</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string></string>
+			<string>ENSUITE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string> Calme et paisible</string>
+			<string>ENSUITE</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string> Symbole chimique</string>
+			<string>ENSUITE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string> Hareng fumé</string>
+			<string>ENSUITE</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string> Souillée à nouveau</string>
+			<string>ENSUITE</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string> Non! (pl)</string>
+			<string>ENSUITE</string>
+			<string>NIETS</string>
+		</array>
+		<array>
+			<string> Ultérieurement</string>
+			<string> Trompée</string>
+			<string>ENSUITE</string>
+			<string>EUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Variété d'hématite rouge</string>
+			<string> Correctif</string>
+			<string>FERET</string>
+			<string>RECTIFICATIF</string>
+		</array>
+		<array>
+			<string> Variété d'hématite rouge</string>
+			<string> Note</string>
+			<string>FERET</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Variété d'hématite rouge</string>
+			<string> Instrument de musique iranien</string>
+			<string>FERET</string>
+			<string>SETAR</string>
+		</array>
+		<array>
+			<string> Variété d'hématite rouge</string>
+			<string> Exprime la douleur</string>
+			<string>FERET</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> Variété d'hématite rouge</string>
+			<string></string>
+			<string>FERET</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Calme et paisible</string>
+			<string>ERRES</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Symbole chimique</string>
+			<string>ERRES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Hareng fumé</string>
+			<string>ERRES</string>
+			<string>SAUR</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Souillée à nouveau</string>
+			<string>ERRES</string>
+			<string>RESALIE</string>
+		</array>
+		<array>
+			<string> Vagabondes</string>
+			<string> Non! (pl)</string>
+			<string>ERRES</string>
+			<string>NIETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

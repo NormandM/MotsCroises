@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Déplacements</string>
+			<string>TRADUCTION</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Réadaptée</string>
+			<string>TRADUCTION</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Actium</string>
+			<string>TRADUCTION</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Noble Portugais</string>
+			<string>TRADUCTION</string>
+			<string>DOM</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Avant les autres</string>
+			<string>TRADUCTION</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Californium</string>
+			<string>TRADUCTION</string>
+			<string>CF</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Abri des amérindiens</string>
+			<string>TRADUCTION</string>
+			<string>TIPI</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Colore</string>
+			<string>TRADUCTION</string>
+			<string>IRISE</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Organisme qui dépend de l&apos;ONU</string>
+			<string>TRADUCTION</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string>Aide à la compréhension</string>
+			<string>Sorties</string>
+			<string>TRADUCTION</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Corrobore</string>
+			<string>Déplacements</string>
+			<string>RECONFIRME</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Réadaptée</string>
+			<string>RECONFIRME</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Actium</string>
+			<string>RECONFIRME</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Noble Portugais</string>
+			<string>RECONFIRME</string>
+			<string>DOM</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Avant les autres</string>
+			<string>RECONFIRME</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Californium</string>
+			<string>RECONFIRME</string>
+			<string>CF</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Abri des amérindiens</string>
+			<string>RECONFIRME</string>
+			<string>TIPI</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Colore</string>
+			<string>RECONFIRME</string>
+			<string>IRISE</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Organisme qui dépend de l&apos;ONU</string>
+			<string>RECONFIRME</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string>Corrobore</string>
+			<string>Sorties</string>
+			<string>RECONFIRME</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Marque la surprise</string>
+			<string>Déplacements</string>
+			<string>AH</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Marque la surprise</string>
+			<string>Réadaptée</string>
+			<string>AH</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom</string>
+			<string>Noble Portugais</string>
+			<string>ME</string>
+			<string>DOM</string>
+		</array>
+		<array>
+			<string>Pronom</string>
+			<string>Avant les autres</string>
+			<string>ME</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une tour très connue</string>
+			<string>Abri des amérindiens</string>
+			<string>PISE</string>
+			<string>TIPI</string>
+		</array>
+		<array>
+			<string>Une tour très connue</string>
+			<string>Colore</string>
+			<string>PISE</string>
+			<string>IRISE</string>
+		</array>
+		<array>
+			<string>Une tour très connue</string>
+			<string>Organisme qui dépend de l&apos;ONU</string>
+			<string>PISE</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string>Une tour très connue</string>
+			<string>Sorties</string>
+			<string>PISE</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pianiste français</string>
+			<string>Déplacements</string>
+			<string>NAT</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Pianiste français</string>
+			<string>Réadaptée</string>
+			<string>NAT</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Pianiste français</string>
+			<string></string>
+			<string>NAT</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Avant les autres</string>
+			<string>SOIS</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Refuge</string>
+			<string>SOIS</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Abri des amérindiens</string>
+			<string>SOIS</string>
+			<string>TIPI</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Colore</string>
+			<string>SOIS</string>
+			<string>IRISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sorties</string>
+			<string>S</string>
+			<string>NEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Antimoine</string>
+			<string>Déplacements</string>
+			<string>SB</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Antimoine</string>
+			<string>Réadaptée</string>
+			<string>SB</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Poignées</string>
+			<string>A</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Refuge</string>
+			<string>A</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avant un tire universitaire</string>
+			<string>Colore</string>
+			<string>ES</string>
+			<string>IRISE</string>
+		</array>
+		<array>
+			<string>Avant un tire universitaire</string>
+			<string>Nervis</string>
+			<string>ES</string>
+			<string>SBIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string>Déplacements</string>
+			<string>FITNESS</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string>Réadaptée</string>
+			<string>FITNESS</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string>Essais</string>
+			<string>FITNESS</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string>Poignées</string>
+			<string>FITNESS</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string></string>
+			<string>FITNESS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string>Refuge</string>
+			<string>FITNESS</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string>Pour maintenir la forme</string>
+			<string>Samarium</string>
+			<string>FITNESS</string>
+			<string>SM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bohrium</string>
+			<string>Nervis</string>
+			<string>BH</string>
+			<string>SBIRES</string>
+		</array>
+		<array>
+			<string>Bohrium</string>
+			<string>Interjection</string>
+			<string>BH</string>
+			<string>HE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Déplacements</string>
+			<string>ETES</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Réadaptée</string>
+			<string>ETES</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Essais</string>
+			<string>ETES</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string>Pourris lorsqu’ils sont froids</string>
+			<string>Poignées</string>
+			<string>ETES</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Athée</string>
+			<string>Refuge</string>
+			<string>IMPIE</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string>Athée</string>
+			<string>Samarium</string>
+			<string>IMPIE</string>
+			<string>SM</string>
+		</array>
+		<array>
+			<string>Athée</string>
+			<string>Comprend</string>
+			<string>IMPIE</string>
+			<string>PIGE</string>
+		</array>
+		<array>
+			<string>Athée</string>
+			<string>Nervis</string>
+			<string>IMPIE</string>
+			<string>SBIRES</string>
+		</array>
+		<array>
+			<string>Athée</string>
+			<string>Interjection</string>
+			<string>IMPIE</string>
+			<string>HE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Futées</string>
+			<string>Déplacements</string>
+			<string>RUSEES</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Futées</string>
+			<string>Réadaptée</string>
+			<string>RUSEES</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Futées</string>
+			<string>Essais</string>
+			<string>RUSEES</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string>Futées</string>
+			<string>Poignées</string>
+			<string>RUSEES</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>Futées</string>
+			<string></string>
+			<string>RUSEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Futées</string>
+			<string>Refuge</string>
+			<string>RUSEES</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Comprend</string>
+			<string>IR</string>
+			<string>PIGE</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Nervis</string>
+			<string>IR</string>
+			<string>SBIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Coupelles</string>
+			<string>Déplacements</string>
+			<string>TETS</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Coupelles</string>
+			<string>Réadaptée</string>
+			<string>TETS</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Coupelles</string>
+			<string>Essais</string>
+			<string>TETS</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string>Coupelles</string>
+			<string>Poignées</string>
+			<string>TETS</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vieux</string>
+			<string>Durée</string>
+			<string>AGES</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Vieux</string>
+			<string>Comprend</string>
+			<string>AGES</string>
+			<string>PIGE</string>
+		</array>
+		<array>
+			<string>Vieux</string>
+			<string>Nervis</string>
+			<string>AGES</string>
+			<string>SBIRES</string>
+		</array>
+		<array>
+			<string>Vieux</string>
+			<string>Pronom personnel</string>
+			<string>AGES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Adjectif possessif</string>
+			<string>Déplacements</string>
+			<string>SES</string>
+			<string>TRANSFERTS</string>
+		</array>
+		<array>
+			<string>Adjectif possessif</string>
+			<string>Réadaptée</string>
+			<string>SES</string>
+			<string>REHABITUEE</string>
+		</array>
+		<array>
+			<string>Adjectif possessif</string>
+			<string>Essais</string>
+			<string>SES</string>
+			<string>TESTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nom du premier livre de l&apos;Ancien Testament</string>
+			<string></string>
+			<string>GENESE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Nom du premier livre de l&apos;Ancien Testament</string>
+			<string></string>
+			<string>GENESE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Nom du premier livre de l&apos;Ancien Testament</string>
+			<string>Durée</string>
+			<string>GENESE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Nom du premier livre de l&apos;Ancien Testament</string>
+			<string>Comprend</string>
+			<string>GENESE</string>
+			<string>PIGE</string>
+		</array>
+		<array>
+			<string>Nom du premier livre de l&apos;Ancien Testament</string>
+			<string>Nervis</string>
+			<string>GENESE</string>
+			<string>SBIRES</string>
+		</array>
+		<array>
+			<string>Nom du premier livre de l&apos;Ancien Testament</string>
+			<string>Pronom personnel</string>
+			<string>GENESE</string>
+			<string>SE</string>
+		</array>
+	</array>
+</array>
+</plist>

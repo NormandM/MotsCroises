@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Sphérique</string>
+			<string>Condensés</string>
+			<string>CIRCULAIRE</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Se rendrais</string>
+			<string>CIRCULAIRE</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Rubidium</string>
+			<string>CIRCULAIRE</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Pour couper</string>
+			<string>CIRCULAIRE</string>
+			<string>CISEAU</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Une vieille note</string>
+			<string>CIRCULAIRE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Fatiguée</string>
+			<string>CIRCULAIRE</string>
+			<string>LASSEE</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Une blonde anglaise</string>
+			<string>CIRCULAIRE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Une victoire de Napoléon</string>
+			<string>CIRCULAIRE</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string></string>
+			<string>CIRCULAIRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Sphérique</string>
+			<string>Béatitude</string>
+			<string>CIRCULAIRE</string>
+			<string>EXTASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Condensés</string>
+			<string>ORBITALE</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Se rendrais</string>
+			<string>ORBITALE</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Rubidium</string>
+			<string>ORBITALE</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Pour couper</string>
+			<string>ORBITALE</string>
+			<string>CISEAU</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Une vieille note</string>
+			<string>ORBITALE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Fatiguée</string>
+			<string>ORBITALE</string>
+			<string>LASSEE</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Une blonde anglaise</string>
+			<string>ORBITALE</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string>Trajectoire d'un satellite</string>
+			<string>Une victoire de Napoléon</string>
+			<string>ORBITALE</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Béatitude</string>
+			<string>X</string>
+			<string>EXTASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sodium</string>
+			<string>Condensés</string>
+			<string>NA</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Sodium</string>
+			<string>Se rendrais</string>
+			<string>NA</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pour couper</string>
+			<string>S</string>
+			<string>CISEAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Assemblée politique</string>
+			<string>Fatiguée</string>
+			<string>SENAT</string>
+			<string>LASSEE</string>
+		</array>
+		<array>
+			<string>Assemblée politique</string>
+			<string>Une blonde anglaise</string>
+			<string>SENAT</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string>Assemblée politique</string>
+			<string>Une victoire de Napoléon</string>
+			<string>SENAT</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string>Assemblée politique</string>
+			<string>Champignon</string>
+			<string>SENAT</string>
+			<string>AGARIC</string>
+		</array>
+		<array>
+			<string>Assemblée politique</string>
+			<string>Béatitude</string>
+			<string>SENAT</string>
+			<string>EXTASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Convoquées</string>
+			<string>Condensés</string>
+			<string>CITEES</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Convoquées</string>
+			<string>Se rendrais</string>
+			<string>CITEES</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Convoquées</string>
+			<string>Un pays d'Afrique</string>
+			<string>CITEES</string>
+			<string>TCHAD</string>
+		</array>
+		<array>
+			<string>Convoquées</string>
+			<string>Pour couper</string>
+			<string>CITEES</string>
+			<string>CISEAU</string>
+		</array>
+		<array>
+			<string>Convoquées</string>
+			<string>Il apprend</string>
+			<string>CITEES</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Convoquées</string>
+			<string>Fatiguée</string>
+			<string>CITEES</string>
+			<string>LASSEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le chef du caïd</string>
+			<string>Une victoire de Napoléon</string>
+			<string>AGA</string>
+			<string>IENA</string>
+		</array>
+		<array>
+			<string>Le chef du caïd</string>
+			<string>Champignon</string>
+			<string>AGA</string>
+			<string>AGARIC</string>
+		</array>
+		<array>
+			<string>Le chef du caïd</string>
+			<string>Béatitude</string>
+			<string>AGA</string>
+			<string>EXTASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pauses</string>
+			<string>Condensés</string>
+			<string>ESCALES</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Pauses</string>
+			<string>Se rendrais</string>
+			<string>ESCALES</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Pauses</string>
+			<string>Un pays d'Afrique</string>
+			<string>ESCALES</string>
+			<string>TCHAD</string>
+		</array>
+		<array>
+			<string>Pauses</string>
+			<string>Pour couper</string>
+			<string>ESCALES</string>
+			<string>CISEAU</string>
+		</array>
+		<array>
+			<string>Pauses</string>
+			<string>Il apprend</string>
+			<string>ESCALES</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Pauses</string>
+			<string>Fatiguée</string>
+			<string>ESCALES</string>
+			<string>LASSEE</string>
+		</array>
+		<array>
+			<string>Pauses</string>
+			<string></string>
+			<string>ESCALES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Carte noire ou rouge</string>
+			<string>Champignon</string>
+			<string>AS</string>
+			<string>AGARIC</string>
+		</array>
+		<array>
+			<string>Carte noire ou rouge</string>
+			<string>Béatitude</string>
+			<string>AS</string>
+			<string>EXTASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Condensés</string>
+			<string>N</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tollé</string>
+			<string>Un pays d'Afrique</string>
+			<string>HUEE</string>
+			<string>TCHAD</string>
+		</array>
+		<array>
+			<string>Tollé</string>
+			<string>Pour couper</string>
+			<string>HUEE</string>
+			<string>CISEAU</string>
+		</array>
+		<array>
+			<string>Tollé</string>
+			<string>Il apprend</string>
+			<string>HUEE</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Tollé</string>
+			<string>Fatiguée</string>
+			<string>HUEE</string>
+			<string>LASSEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Abeille</string>
+			<string>ARE</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Champignon</string>
+			<string>ARE</string>
+			<string>AGARIC</string>
+		</array>
+		<array>
+			<string>Un petit terrain</string>
+			<string>Béatitude</string>
+			<string>ARE</string>
+			<string>EXTASE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Exécuta</string>
+			<string>Condensés</string>
+			<string>TUA</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Exécuta</string>
+			<string></string>
+			<string>TUA</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Exécuta</string>
+			<string>Un pays d'Afrique</string>
+			<string>TUA</string>
+			<string>TCHAD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Il apprend</string>
+			<string>V</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Voile</string>
+			<string>Une maladie pulmonaire</string>
+			<string>SPI</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string>Voile</string>
+			<string>Abeille</string>
+			<string>SPI</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string>Voile</string>
+			<string>Champignon</string>
+			<string>SPI</string>
+			<string>AGARIC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Condensés</string>
+			<string>R</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Un pays d'Afrique</string>
+			<string>DIETRICH</string>
+			<string>TCHAD</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Conifères décoratifs</string>
+			<string>DIETRICH</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Il apprend</string>
+			<string>DIETRICH</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Demie mouche</string>
+			<string>DIETRICH</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Une maladie pulmonaire</string>
+			<string>DIETRICH</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Abeille</string>
+			<string>DIETRICH</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Champignon</string>
+			<string>DIETRICH</string>
+			<string>AGARIC</string>
+		</array>
+		<array>
+			<string>Actrice allemande</string>
+			<string>Interjection stimulante</string>
+			<string>DIETRICH</string>
+			<string>HOP</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il a déjà été important</string>
+			<string>Condensés</string>
+			<string>EX</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Il a déjà été important</string>
+			<string>Lettre grec</string>
+			<string>EX</string>
+			<string>XI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Conifères décoratifs</string>
+			<string>F</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tamis</string>
+			<string>Demie mouche</string>
+			<string>SAS</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string>Tamis</string>
+			<string>Une maladie pulmonaire</string>
+			<string>SAS</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string>Tamis</string>
+			<string>Abeille</string>
+			<string>SAS</string>
+			<string>APIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Interjection stimulante</string>
+			<string>O</string>
+			<string>HOP</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string>Condensés</string>
+			<string>SIESTES</string>
+			<string>CONCENTRES</string>
+		</array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string>Lettre grec</string>
+			<string>SIESTES</string>
+			<string>XI</string>
+		</array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string></string>
+			<string>SIESTES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string>Conifères décoratifs</string>
+			<string>SIESTES</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string></string>
+			<string>SIESTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string>Demie mouche</string>
+			<string>SIESTES</string>
+			<string>TSE</string>
+		</array>
+		<array>
+			<string>Elles sont réparatrices</string>
+			<string>Une maladie pulmonaire</string>
+			<string>SIESTES</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Neptunium</string>
+			<string></string>
+			<string>NP</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Neptunium</string>
+			<string>Interjection stimulante</string>
+			<string>NP</string>
+			<string>HOP</string>
+		</array>
+	</array>
+</array>
+</plist>

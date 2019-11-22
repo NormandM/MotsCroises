@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Endommagés</string>
+			<string>Saveur amère</string>
+			<string>ACCIDENTES</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Terreuses</string>
+			<string>ACCIDENTES</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Indulgences</string>
+			<string>ACCIDENTES</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Pronom personnel</string>
+			<string>ACCIDENTES</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Petit cube</string>
+			<string>ACCIDENTES</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>École Normale Supérieure</string>
+			<string>ACCIDENTES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Raconte</string>
+			<string>ACCIDENTES</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Titane</string>
+			<string>ACCIDENTES</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Acéricultures</string>
+			<string>ACCIDENTES</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Endommagés</string>
+			<string>Sont à lui</string>
+			<string>ACCIDENTES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Très ancien</string>
+			<string>Saveur amère</string>
+			<string>MILLENAIRE</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Terreuses</string>
+			<string>MILLENAIRE</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Indulgences</string>
+			<string>MILLENAIRE</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Pronom personnel</string>
+			<string>MILLENAIRE</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Petit cube</string>
+			<string>MILLENAIRE</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>École Normale Supérieure</string>
+			<string>MILLENAIRE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Raconte</string>
+			<string>MILLENAIRE</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Titane</string>
+			<string>MILLENAIRE</string>
+			<string>TI</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Acéricultures</string>
+			<string>MILLENAIRE</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Très ancien</string>
+			<string>Sont à lui</string>
+			<string>MILLENAIRE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Époques</string>
+			<string>Saveur amère</string>
+			<string>ERES</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Terreuses</string>
+			<string>ERES</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Indulgences</string>
+			<string>ERES</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string>Époques</string>
+			<string>Pronom personnel</string>
+			<string>ERES</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>École Normale Supérieure</string>
+			<string>SR</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Raconte</string>
+			<string>SR</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Champion</string>
+			<string>Acéricultures</string>
+			<string>AS</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Champion</string>
+			<string>Sont à lui</string>
+			<string>AS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dose de radiation</string>
+			<string>Saveur amère</string>
+			<string>REM</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Dose de radiation</string>
+			<string>Terreuses</string>
+			<string>REM</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Dose de radiation</string>
+			<string>Indulgences</string>
+			<string>REM</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Gueux</string>
+			<string>G</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Raconte</string>
+			<string>R</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Acéricultures</string>
+			<string>B</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Assassiné</string>
+			<string>Saveur amère</string>
+			<string>TUE</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Assassiné</string>
+			<string>Terreuses</string>
+			<string>TUE</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Assassiné</string>
+			<string>Indulgences</string>
+			<string>TUE</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petite rue</string>
+			<string>Gueux</string>
+			<string>RUELLE</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string>Petite rue</string>
+			<string>Coutumes</string>
+			<string>RUELLE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Petite rue</string>
+			<string>Raconte</string>
+			<string>RUELLE</string>
+			<string>NARRE</string>
+		</array>
+		<array>
+			<string>Petite rue</string>
+			<string>Poème du Moyen Âge</string>
+			<string>RUELLE</string>
+			<string>LAI</string>
+		</array>
+		<array>
+			<string>Petite rue</string>
+			<string>Acéricultures</string>
+			<string>RUELLE</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Petite rue</string>
+			<string>Vagabondas</string>
+			<string>RUELLE</string>
+			<string>ERRAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lichens</string>
+			<string>Saveur amère</string>
+			<string>USNEES</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Lichens</string>
+			<string>Terreuses</string>
+			<string>USNEES</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Lichens</string>
+			<string>Indulgences</string>
+			<string>USNEES</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string>Lichens</string>
+			<string></string>
+			<string>USNEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Lichens</string>
+			<string>Gueux</string>
+			<string>USNEES</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string>Lichens</string>
+			<string>Coutumes</string>
+			<string>USNEES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mélodie</string>
+			<string>Poème du Moyen Âge</string>
+			<string>AIR</string>
+			<string>LAI</string>
+		</array>
+		<array>
+			<string>Mélodie</string>
+			<string>Acéricultures</string>
+			<string>AIR</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Mélodie</string>
+			<string>Vagabondas</string>
+			<string>AIR</string>
+			<string>ERRAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Gars</string>
+			<string>Saveur amère</string>
+			<string>MEC</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Gars</string>
+			<string>Terreuses</string>
+			<string>MEC</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Gars</string>
+			<string>Indulgences</string>
+			<string>MEC</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Gueux</string>
+			<string>D</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Orgueilleux</string>
+			<string>Anniversaire</string>
+			<string>FIER</string>
+			<string>FETE</string>
+		</array>
+		<array>
+			<string>Orgueilleux</string>
+			<string>Poème du Moyen Âge</string>
+			<string>FIER</string>
+			<string>LAI</string>
+		</array>
+		<array>
+			<string>Orgueilleux</string>
+			<string>Acéricultures</string>
+			<string>FIER</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Orgueilleux</string>
+			<string>Vagabondas</string>
+			<string>FIER</string>
+			<string>ERRAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Saveur amère</string>
+			<string>ESERINE</string>
+			<string>AMERTUME</string>
+		</array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Terreuses</string>
+			<string>ESERINE</string>
+			<string>CIREUSES</string>
+		</array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Indulgences</string>
+			<string>ESERINE</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Poulie à gorge</string>
+			<string>ESERINE</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Gueux</string>
+			<string>ESERINE</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Pianiste français</string>
+			<string>ESERINE</string>
+			<string>NAT</string>
+		</array>
+		<array>
+			<string>Alcaloïde toxique</string>
+			<string>Anniversaire</string>
+			<string>ESERINE</string>
+			<string>FETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Radium</string>
+			<string>Acéricultures</string>
+			<string>RA</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Radium</string>
+			<string>Vagabondas</string>
+			<string>RA</string>
+			<string>ERRAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Assemblée</string>
+			<string>Indulgences</string>
+			<string>SENAT</string>
+			<string>CLEMENCES</string>
+		</array>
+		<array>
+			<string>Assemblée</string>
+			<string>Poulie à gorge</string>
+			<string>SENAT</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string>Assemblée</string>
+			<string>Gueux</string>
+			<string>SENAT</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string>Assemblée</string>
+			<string>Pianiste français</string>
+			<string>SENAT</string>
+			<string>NAT</string>
+		</array>
+		<array>
+			<string>Assemblée</string>
+			<string>Anniversaire</string>
+			<string>SENAT</string>
+			<string>FETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Acéricultures</string>
+			<string>ES</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string>Dans un titre universitaire</string>
+			<string>Vagabondas</string>
+			<string>ES</string>
+			<string>ERRAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un filet d&apos;eau</string>
+			<string></string>
+			<string>RU</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Un filet d&apos;eau</string>
+			<string></string>
+			<string>RU</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plantes à petites fleurs</string>
+			<string>Poulie à gorge</string>
+			<string>ASTERS</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string>Plantes à petites fleurs</string>
+			<string>Gueux</string>
+			<string>ASTERS</string>
+			<string>GREDINS</string>
+		</array>
+		<array>
+			<string>Plantes à petites fleurs</string>
+			<string>Pianiste français</string>
+			<string>ASTERS</string>
+			<string>NAT</string>
+		</array>
+		<array>
+			<string>Plantes à petites fleurs</string>
+			<string>Anniversaire</string>
+			<string>ASTERS</string>
+			<string>FETE</string>
+		</array>
+		<array>
+			<string>Plantes à petites fleurs</string>
+			<string></string>
+			<string>ASTERS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Plantes à petites fleurs</string>
+			<string>Acéricultures</string>
+			<string>ASTERS</string>
+			<string>ERABLIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

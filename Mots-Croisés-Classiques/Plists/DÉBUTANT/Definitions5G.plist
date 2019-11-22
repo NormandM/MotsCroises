@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Opposés</string>
+			<string> Fautifs</string>
+			<string>CONTRAIRES</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Hôpitaux</string>
+			<string>CONTRAIRES</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Arrivées</string>
+			<string>CONTRAIRES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Règle</string>
+			<string>CONTRAIRES</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string></string>
+			<string>CONTRAIRES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Rivière de Suisse</string>
+			<string>CONTRAIRES</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Colères</string>
+			<string>CONTRAIRES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Se refuse à</string>
+			<string>CONTRAIRES</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Indique la manière</string>
+			<string>CONTRAIRES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Opposés</string>
+			<string> Terme de tennis</string>
+			<string>CONTRAIRES</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tentée avec confiance</string>
+			<string> Fautifs</string>
+			<string>OSEE</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> Tentée avec confiance</string>
+			<string> Hôpitaux</string>
+			<string>OSEE</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Tentée avec confiance</string>
+			<string> Arrivées</string>
+			<string>OSEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Tentée avec confiance</string>
+			<string> Règle</string>
+			<string>OSEE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Rivière de Suisse</string>
+			<string>ARENE</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Colères</string>
+			<string>ARENE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Se refuse à</string>
+			<string>ARENE</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Indique la manière</string>
+			<string>ARENE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Aire sablée</string>
+			<string> Terme de tennis</string>
+			<string>ARENE</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Fautifs</string>
+			<string>UTE</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Hôpitaux</string>
+			<string>UTE</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Arrivées</string>
+			<string>UTE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> D'une expression signifiant</string>
+			<string> Enflures</string>
+			<string>ORES</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string> D'une expression signifiant</string>
+			<string> Rivière de Suisse</string>
+			<string>ORES</string>
+			<string>AAR</string>
+		</array>
+		<array>
+			<string> D'une expression signifiant</string>
+			<string> Colères</string>
+			<string>ORES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> D'une expression signifiant</string>
+			<string> Se refuse à</string>
+			<string>ORES</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Terme de tennis</string>
+			<string>T</string>
+			<string>SET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Emploi</string>
+			<string> Fautifs</string>
+			<string>POSTE</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Hôpitaux</string>
+			<string>POSTE</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Arrivées</string>
+			<string>POSTE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Accessoire de golfeur</string>
+			<string>POSTE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Emploi</string>
+			<string> Enflures</string>
+			<string>POSTE</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Paul McCartney porte ce titre</string>
+			<string> Colères</string>
+			<string>SIR</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Paul McCartney porte ce titre</string>
+			<string> Se refuse à</string>
+			<string>SIR</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string> Paul McCartney porte ce titre</string>
+			<string> Note de musique</string>
+			<string>SIR</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Fautifs</string>
+			<string>AS</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Hôpitaux</string>
+			<string>AS</string>
+			<string>OSTOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ancien nom de Tokyo</string>
+			<string> Accessoire de golfeur</string>
+			<string>EDO</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Ancien nom de Tokyo</string>
+			<string> Enflures</string>
+			<string>EDO</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string> Ancien nom de Tokyo</string>
+			<string> Rivière de Russie</string>
+			<string>EDO</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Se refuse à</string>
+			<string>SES</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Note de musique</string>
+			<string>SES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Possessif.</string>
+			<string> Tamisas</string>
+			<string>SES</string>
+			<string>SASSAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Fautifs</string>
+			<string>B</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Diffuse à nouveau</string>
+			<string> Reporté au pouvoir</string>
+			<string>REEMET</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string> Diffuse à nouveau</string>
+			<string> Accessoire de golfeur</string>
+			<string>REEMET</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Diffuse à nouveau</string>
+			<string> Enflures</string>
+			<string>REEMET</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string> Diffuse à nouveau</string>
+			<string> Rivière de Russie</string>
+			<string>REEMET</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string> Diffuse à nouveau</string>
+			<string> Orient.</string>
+			<string>REEMET</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Diffuse à nouveau</string>
+			<string> Se refuse à</string>
+			<string>REEMET</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Tamisas</string>
+			<string>A</string>
+			<string>SASSAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Fautifs</string>
+			<string>LEE</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>LEE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>  Général sudiste</string>
+			<string> Reporté au pouvoir</string>
+			<string>LEE</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Enflures</string>
+			<string>M</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Orient.</string>
+			<string>SERS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Se refuse à</string>
+			<string>SERS</string>
+			<string>RESISTE</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Tangible</string>
+			<string>SERS</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Es utile</string>
+			<string> Tamisas</string>
+			<string>SERS</string>
+			<string>SASSAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Écourtent</string>
+			<string> Fautifs</string>
+			<string>ETETENT</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> Écourtent</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>ETETENT</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Écourtent</string>
+			<string> Reporté au pouvoir</string>
+			<string>ETETENT</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string> Écourtent</string>
+			<string></string>
+			<string>ETETENT</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Écourtent</string>
+			<string> Enflures</string>
+			<string>ETETENT</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string> Écourtent</string>
+			<string> Arrivée</string>
+			<string>ETETENT</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Écourtent</string>
+			<string> Orient.</string>
+			<string>ETETENT</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Tangible</string>
+			<string>ES</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Tamisas</string>
+			<string>ES</string>
+			<string>SASSAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> À côté du poivre</string>
+			<string> Fautifs</string>
+			<string>SEL</string>
+			<string>COUPABLES</string>
+		</array>
+		<array>
+			<string> À côté du poivre</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>SEL</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> À côté du poivre</string>
+			<string> Reporté au pouvoir</string>
+			<string>SEL</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Enflures</string>
+			<string>SE</string>
+			<string>OEDEMES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Arrivée</string>
+			<string>SE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Dieu Egyptien</string>
+			<string>REA</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Tangible</string>
+			<string>REA</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Tamisas</string>
+			<string>REA</string>
+			<string>SASSAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>SUE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Reporté au pouvoir</string>
+			<string>SUE</string>
+			<string>REELU</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string></string>
+			<string>SUE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Le boucher y travaille</string>
+			<string> Arrivée</string>
+			<string>ETALS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Le boucher y travaille</string>
+			<string></string>
+			<string>ETALS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Le boucher y travaille</string>
+			<string> Dieu Egyptien</string>
+			<string>ETALS</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Le boucher y travaille</string>
+			<string> Tangible</string>
+			<string>ETALS</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Le boucher y travaille</string>
+			<string> Tamisas</string>
+			<string>ETALS</string>
+			<string>SASSAS</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>IMPOSSIBLE</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Torero</string>
+			<string>IMPOSSIBLE</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Praséodyme</string>
+			<string>IMPOSSIBLE</string>
+			<string>PR</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Ornée</string>
+			<string>IMPOSSIBLE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Pronom personnel</string>
+			<string>IMPOSSIBLE</string>
+			<string>SOI</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Étain</string>
+			<string>IMPOSSIBLE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Pas protégées</string>
+			<string>IMPOSSIBLE</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Rappel</string>
+			<string>IMPOSSIBLE</string>
+			<string>BIS</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Général sudiste</string>
+			<string>IMPOSSIBLE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string>N&apos;arrivera pas</string>
+			<string>Écossais</string>
+			<string>IMPOSSIBLE</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>MARRONNIER</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Torero</string>
+			<string>MARRONNIER</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Praséodyme</string>
+			<string>MARRONNIER</string>
+			<string>PR</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Ornée</string>
+			<string>MARRONNIER</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Pronom personnel</string>
+			<string>MARRONNIER</string>
+			<string>SOI</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Étain</string>
+			<string>MARRONNIER</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Pas protégées</string>
+			<string>MARRONNIER</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Rappel</string>
+			<string>MARRONNIER</string>
+			<string>BIS</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Général sudiste</string>
+			<string>MARRONNIER</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string>Grand arbre</string>
+			<string>Écossais</string>
+			<string>MARRONNIER</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Platine</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>PT</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Platine</string>
+			<string>Torero</string>
+			<string>PT</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nickel</string>
+			<string>Ornée</string>
+			<string>NI</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>Nickel</string>
+			<string>Pronom personnel</string>
+			<string>NI</string>
+			<string>SOI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dieu guerrier</string>
+			<string>Pas protégées</string>
+			<string>ASES</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Dieu guerrier</string>
+			<string>Rappel</string>
+			<string>ASES</string>
+			<string>BIS</string>
+		</array>
+		<array>
+			<string>Dieu guerrier</string>
+			<string>Général sudiste</string>
+			<string>ASES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string>Dieu guerrier</string>
+			<string>Écossais</string>
+			<string>ASES</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ethnie</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>RACE</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Ethnie</string>
+			<string>Torero</string>
+			<string>RACE</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string>Ethnie</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>RACE</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Ethnie</string>
+			<string>Ornée</string>
+			<string>RACE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Assez bien</string>
+			<string>Corporation américaine</string>
+			<string>AB</string>
+			<string>ATT</string>
+		</array>
+		<array>
+			<string>Assez bien</string>
+			<string>Pas protégées</string>
+			<string>AB</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Écossais</string>
+			<string>E</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>ODOMETRIES</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Torero</string>
+			<string>ODOMETRIES</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>ODOMETRIES</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Ornée</string>
+			<string>ODOMETRIES</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string></string>
+			<string>ODOMETRIES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Corporation américaine</string>
+			<string>ODOMETRIES</string>
+			<string>ATT</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Pas protégées</string>
+			<string>ODOMETRIES</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Inanimé</string>
+			<string>ODOMETRIES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Exister</string>
+			<string>ODOMETRIES</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string>Techniques pour estimer la position</string>
+			<string>Écossais</string>
+			<string>ODOMETRIES</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Élément voisin du carbone</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>BORE</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Élément voisin du carbone</string>
+			<string>Torero</string>
+			<string>BORE</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string>Élément voisin du carbone</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>BORE</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Élément voisin du carbone</string>
+			<string>Ornée</string>
+			<string>BORE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fixa</string>
+			<string>Corporation américaine</string>
+			<string>TINT</string>
+			<string>ATT</string>
+		</array>
+		<array>
+			<string>Fixa</string>
+			<string>Pas protégées</string>
+			<string>TINT</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Fixa</string>
+			<string>Inanimé</string>
+			<string>TINT</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string>Fixa</string>
+			<string>Exister</string>
+			<string>TINT</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Champ de bataille</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>ARENE</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Champ de bataille</string>
+			<string>Torero</string>
+			<string>ARENE</string>
+			<string>MATADOR</string>
+		</array>
+		<array>
+			<string>Champ de bataille</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>ARENE</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Champ de bataille</string>
+			<string>Ornée</string>
+			<string>ARENE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>Champ de bataille</string>
+			<string></string>
+			<string>ARENE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Préfixe qui Indique la multiplication</string>
+			<string>Pas protégées</string>
+			<string>TERA</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Préfixe qui Indique la multiplication</string>
+			<string>Inanimé</string>
+			<string>TERA</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string>Préfixe qui Indique la multiplication</string>
+			<string>Exister</string>
+			<string>TERA</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string>Préfixe qui Indique la multiplication</string>
+			<string>Une partie importante du monde</string>
+			<string>TERA</string>
+			<string>ASIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>B</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>ET</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Ornée</string>
+			<string>ET</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fromages</string>
+			<string></string>
+			<string>SERES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Fromages</string>
+			<string>Pas protégées</string>
+			<string>SERES</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Fromages</string>
+			<string>Inanimé</string>
+			<string>SERES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string>Fromages</string>
+			<string>Exister</string>
+			<string>SERES</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string>Fromages</string>
+			<string>Une partie importante du monde</string>
+			<string>SERES</string>
+			<string>ASIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Disposée (bien ou mal)</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>LUNEE</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Disposée (bien ou mal)</string>
+			<string>Coutumes</string>
+			<string>LUNEE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Disposée (bien ou mal)</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>LUNEE</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Disposée (bien ou mal)</string>
+			<string>Ornée</string>
+			<string>LUNEE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>Disposée (bien ou mal)</string>
+			<string>Dans un titre universitaire</string>
+			<string>LUNEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un film de Spielberg</string>
+			<string>Pas protégées</string>
+			<string>ET</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Un film de Spielberg</string>
+			<string>Inanimé</string>
+			<string>ET</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Une partie importante du monde</string>
+			<string>I</string>
+			<string>ASIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Crochets</string>
+			<string>Qui n&apos;arrivera probablement pas</string>
+			<string>ESSES</string>
+			<string>IMPROBABLE</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Coutumes</string>
+			<string>ESSES</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Viennent d&apos;un pays d&apos;Asie divisé en deux</string>
+			<string>ESSES</string>
+			<string>COREENS</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Ornée</string>
+			<string>ESSES</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>Crochets</string>
+			<string>Dans un titre universitaire</string>
+			<string>ESSES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Répand</string>
+			<string>Pas protégées</string>
+			<string>SEME</string>
+			<string>INABRITEES</string>
+		</array>
+		<array>
+			<string>Répand</string>
+			<string>Inanimé</string>
+			<string>SEME</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string>Répand</string>
+			<string></string>
+			<string>SEME</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Répand</string>
+			<string>Une partie importante du monde</string>
+			<string>SEME</string>
+			<string>ASIE</string>
+		</array>
+	</array>
+</array>
+</plist>

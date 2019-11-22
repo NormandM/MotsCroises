@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Musiciens</string>
+			<string> Élèvent des oiseaux</string>
+			<string>ORGANISTES</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string></string>
+			<string>ORGANISTES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Plante parasite</string>
+			<string>ORGANISTES</string>
+			<string>GUI</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Dieu guerrier</string>
+			<string>ORGANISTES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Petit cigare</string>
+			<string>ORGANISTES</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Ancienne monnaie du Pérou</string>
+			<string>ORGANISTES</string>
+			<string>INTI</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Note</string>
+			<string>ORGANISTES</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Partie inférieure de la bride</string>
+			<string>ORGANISTES</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Vagabonde</string>
+			<string>ORGANISTES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Musiciens</string>
+			<string> Tremblements</string>
+			<string>ORGANISTES</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Élèvent des oiseaux</string>
+			<string>I</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Plante parasite</string>
+			<string>USINIERE</string>
+			<string>GUI</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Dieu guerrier</string>
+			<string>USINIERE</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Petit cigare</string>
+			<string>USINIERE</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Ancienne monnaie du Pérou</string>
+			<string>USINIERE</string>
+			<string>INTI</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Note</string>
+			<string>USINIERE</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Partie inférieure de la bride</string>
+			<string>USINIERE</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Vagabonde</string>
+			<string>USINIERE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Elle exploite une usine</string>
+			<string> Tremblements</string>
+			<string>USINIERE</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coupent</string>
+			<string> Élèvent des oiseaux</string>
+			<string>SCIENT</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Coupent</string>
+			<string> Danse hongroise</string>
+			<string>SCIENT</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string> Coupent</string>
+			<string> Plante parasite</string>
+			<string>SCIENT</string>
+			<string>GUI</string>
+		</array>
+		<array>
+			<string> Coupent</string>
+			<string> Dieu guerrier</string>
+			<string>SCIENT</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Coupent</string>
+			<string> Petit cigare</string>
+			<string>SCIENT</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Coupent</string>
+			<string> Ancienne monnaie du Pérou</string>
+			<string>SCIENT</string>
+			<string>INTI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Partie inférieure de la bride</string>
+			<string>TRI</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Vagabonde</string>
+			<string>TRI</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Avant la distribution</string>
+			<string> Tremblements</string>
+			<string>TRI</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Élèvent des oiseaux</string>
+			<string>ES</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Danse hongroise</string>
+			<string>ES</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Dieu guerrier</string>
+			<string>SAISIES</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Petit cigare</string>
+			<string>SAISIES</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Ancienne monnaie du Pérou</string>
+			<string>SAISIES</string>
+			<string>INTI</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Une femme irréprochable</string>
+			<string>SAISIES</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Partie inférieure de la bride</string>
+			<string>SAISIES</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Vagabonde</string>
+			<string>SAISIES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Tremblements</string>
+			<string>SAISIES</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Garçon d&apos;écurie</string>
+			<string> Élèvent des oiseaux</string>
+			<string>LAD</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Garçon d&apos;écurie</string>
+			<string> Danse hongroise</string>
+			<string>LAD</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string> Garçon d&apos;écurie</string>
+			<string> Il croit en dieu</string>
+			<string>LAD</string>
+			<string>DEISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Petit cigare</string>
+			<string>S</string>
+			<string>NINAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Une femme irréprochable</string>
+			<string>TE</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Partie inférieure de la bride</string>
+			<string>TE</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Tremblements</string>
+			<string>M</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colères</string>
+			<string> Élèvent des oiseaux</string>
+			<string>IRES</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Danse hongroise</string>
+			<string>IRES</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Il croit en dieu</string>
+			<string>IRES</string>
+			<string>DEISTE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Science-Fiction</string>
+			<string>IRES</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Poètes de la Grèce ancienne</string>
+			<string>AEREE</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Une femme irréprochable</string>
+			<string>AEREE</string>
+			<string>STE</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Partie inférieure de la bride</string>
+			<string>AEREE</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Instrument de chirurgie</string>
+			<string>AEREE</string>
+			<string>ERINE</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Tremblements</string>
+			<string>AEREE</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Bâtie</string>
+			<string> Élèvent des oiseaux</string>
+			<string>EDIFIE</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Bâtie</string>
+			<string> Danse hongroise</string>
+			<string>EDIFIE</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string> Bâtie</string>
+			<string> Il croit en dieu</string>
+			<string>EDIFIE</string>
+			<string>DEISTE</string>
+		</array>
+		<array>
+			<string> Bâtie</string>
+			<string> Science-Fiction</string>
+			<string>EDIFIE</string>
+			<string>SF</string>
+		</array>
+		<array>
+			<string> Bâtie</string>
+			<string> C&apos;est-à-dire</string>
+			<string>EDIFIE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string> Bâtie</string>
+			<string> Poètes de la Grèce ancienne</string>
+			<string>EDIFIE</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Partie inférieure de la bride</string>
+			<string>ERS</string>
+			<string>TETIERE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Instrument de chirurgie</string>
+			<string>ERS</string>
+			<string>ERINE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Tremblements</string>
+			<string>ERS</string>
+			<string>SEISMES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Très court</string>
+			<string> Élèvent des oiseaux</string>
+			<string>RAS</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Très court</string>
+			<string> Danse hongroise</string>
+			<string>RAS</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string> Très court</string>
+			<string> Il croit en dieu</string>
+			<string>RAS</string>
+			<string>DEISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ancien nom de Tokyo</string>
+			<string> C&apos;est-à-dire</string>
+			<string>EDO</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string> Ancien nom de Tokyo</string>
+			<string> Poètes de la Grèce ancienne</string>
+			<string>EDO</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Ancien nom de Tokyo</string>
+			<string> Un trou dans le mur</string>
+			<string>EDO</string>
+			<string>OPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Instrument de chirurgie</string>
+			<string>I</string>
+			<string>ERINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Élèvent des oiseaux</string>
+			<string>ESTE</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Danse hongroise</string>
+			<string>ESTE</string>
+			<string>CSARDAS</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Il croit en dieu</string>
+			<string>ESTE</string>
+			<string>DEISTE</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Électron-Volt</string>
+			<string>ESTE</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Protège la rose</string>
+			<string> Poètes de la Grèce ancienne</string>
+			<string>EPINE</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Protège la rose</string>
+			<string> Un trou dans le mur</string>
+			<string>EPINE</string>
+			<string>OPE</string>
+		</array>
+		<array>
+			<string> Protège la rose</string>
+			<string></string>
+			<string>EPINE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Protège la rose</string>
+			<string> Instrument de chirurgie</string>
+			<string>EPINE</string>
+			<string>ERINE</string>
+		</array>
+		<array>
+			<string> Protège la rose</string>
+			<string> Liaison</string>
+			<string>EPINE</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Élèvent des oiseaux</string>
+			<string>S</string>
+			<string>OISELIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Élargit</string>
+			<string> Il croit en dieu</string>
+			<string>EVASE</string>
+			<string>DEISTE</string>
+		</array>
+		<array>
+			<string> Élargit</string>
+			<string> Électron-Volt</string>
+			<string>EVASE</string>
+			<string>EV</string>
+		</array>
+		<array>
+			<string> Élargit</string>
+			<string></string>
+			<string>EVASE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Élargit</string>
+			<string> Poètes de la Grèce ancienne</string>
+			<string>EVASE</string>
+			<string>AEDES</string>
+		</array>
+		<array>
+			<string> Élargit</string>
+			<string> Un trou dans le mur</string>
+			<string>EVASE</string>
+			<string>OPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Instrument de chirurgie</string>
+			<string>ET</string>
+			<string>ERINE</string>
+		</array>
+		<array>
+			<string>Le bavard l&apos;utilise beaucoup</string>
+			<string>Le bavard l&apos;utilise beaucoup</string>
+			<string>ET</string>
+			<string>ET</string>
+		</array>
+	</array>
+</array>
+</plist>

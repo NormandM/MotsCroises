@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Musicien</string>
+			<string> Mères</string>
+			<string>GUITARISTE</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Plus cher que les banques</string>
+			<string>GUITARISTE</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Répétés</string>
+			<string>GUITARISTE</string>
+			<string>ITERES</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Cordons</string>
+			<string>GUITARISTE</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Une moitié de Une moitié de journée</string>
+			<string>GUITARISTE</string>
+			<string>AM</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Bramaient</string>
+			<string>GUITARISTE</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Naturel</string>
+			<string>GUITARISTE</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Mesurée</string>
+			<string>GUITARISTE</string>
+			<string>STEREE</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string></string>
+			<string>GUITARISTE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Musicien</string>
+			<string> Indique la manière</string>
+			<string>GUITARISTE</string>
+			<string>EN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Mères</string>
+			<string>ESTIMENT</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Plus cher que les banques</string>
+			<string>ESTIMENT</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Répétés</string>
+			<string>ESTIMENT</string>
+			<string>ITERES</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Cordons</string>
+			<string>ESTIMENT</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Une moitié de Une moitié de journée</string>
+			<string>ESTIMENT</string>
+			<string>AM</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Bramaient</string>
+			<string>ESTIMENT</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Naturel</string>
+			<string>ESTIMENT</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Déterminent le prix</string>
+			<string> Mesurée</string>
+			<string>ESTIMENT</string>
+			<string>STEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Indique la manière</string>
+			<string>N</string>
+			<string>EN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nuancer</string>
+			<string> Mères</string>
+			<string>NUER</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Nuancer</string>
+			<string> Plus cher que les banques</string>
+			<string>NUER</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string> Nuancer</string>
+			<string> Répétés</string>
+			<string>NUER</string>
+			<string>ITERES</string>
+		</array>
+		<array>
+			<string> Nuancer</string>
+			<string> Cordons</string>
+			<string>NUER</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Bramaient</string>
+			<string>ANES</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Naturel</string>
+			<string>ANES</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string> Mesurée</string>
+			<string>ANES</string>
+			<string>STEREE</string>
+		</array>
+		<array>
+			<string> Baudets</string>
+			<string></string>
+			<string>ANES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Mères</string>
+			<string>IRRADIER</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Plus cher que les banques</string>
+			<string>IRRADIER</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Répétés</string>
+			<string>IRRADIER</string>
+			<string>ITERES</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Cordons</string>
+			<string>IRRADIER</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string></string>
+			<string>IRRADIER</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Bramaient</string>
+			<string>IRRADIER</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Naturel</string>
+			<string>IRRADIER</string>
+			<string>INNE</string>
+		</array>
+		<array>
+			<string> Se propager à partir du centre</string>
+			<string> Mesurée</string>
+			<string>IRRADIER</string>
+			<string>STEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pronom</string>
+			<string>S</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Mères</string>
+			<string>TIEN</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Plus cher que les banques</string>
+			<string>TIEN</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Répétés</string>
+			<string>TIEN</string>
+			<string>ITERES</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Cordons</string>
+			<string>TIEN</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Bramaient</string>
+			<string>E</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Mesurée</string>
+			<string>EUE</string>
+			<string>STEREE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Lichens</string>
+			<string>EUE</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Pronom</string>
+			<string>EUE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Mères</string>
+			<string>RESTANTES</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Plus cher que les banques</string>
+			<string>RESTANTES</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Répétés</string>
+			<string>RESTANTES</string>
+			<string>ITERES</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Cordons</string>
+			<string>RESTANTES</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Ventilée</string>
+			<string>RESTANTES</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Bramaient</string>
+			<string>RESTANTES</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Extrémité qui pense</string>
+			<string>RESTANTES</string>
+			<string>TETE</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Mesurée</string>
+			<string>RESTANTES</string>
+			<string>STEREE</string>
+		</array>
+		<array>
+			<string> Résiduelles</string>
+			<string> Lichens</string>
+			<string>RESTANTES</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Mères</string>
+			<string>IR</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Plus cher que les banques</string>
+			<string>IR</string>
+			<string>USURIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Cordons</string>
+			<string>SETE</string>
+			<string>TIRANTS</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Ventilée</string>
+			<string>SETE</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Bramaient</string>
+			<string>SETE</string>
+			<string>REAIENT</string>
+		</array>
+		<array>
+			<string> Georges Brassens y est né</string>
+			<string> Extrémité qui pense</string>
+			<string>SETE</string>
+			<string>TETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Lichens</string>
+			<string>NE</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Langue celtique</string>
+			<string>NE</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Mères</string>
+			<string>C</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Du verbe être</string>
+			<string>E</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ventilée</string>
+			<string>R</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abattre</string>
+			<string> Extrémité qui pense</string>
+			<string>TUER</string>
+			<string>TETE</string>
+		</array>
+		<array>
+			<string> Abattre</string>
+			<string> Amérindien.</string>
+			<string>TUER</string>
+			<string>UTE</string>
+		</array>
+		<array>
+			<string> Abattre</string>
+			<string> Lichens</string>
+			<string>TUER</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Abattre</string>
+			<string> Langue celtique</string>
+			<string>TUER</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Totalités</string>
+			<string> Mères</string>
+			<string>ENTIERETES</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Dépouillé</string>
+			<string>ENTIERETES</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Du verbe être</string>
+			<string>ENTIERETES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> De même</string>
+			<string>ENTIERETES</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Ventilée</string>
+			<string>ENTIERETES</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Note de musique</string>
+			<string>ENTIERETES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Extrémité qui pense</string>
+			<string>ENTIERETES</string>
+			<string>TETE</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Amérindien.</string>
+			<string>ENTIERETES</string>
+			<string>UTE</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Lichens</string>
+			<string>ENTIERETES</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Totalités</string>
+			<string> Langue celtique</string>
+			<string>ENTIERETES</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dont le côté chair est à l&apos;extérieur</string>
+			<string> Mères</string>
+			<string>SUEDEE</string>
+			<string>GENITRICES</string>
+		</array>
+		<array>
+			<string> Dont le côté chair est à l&apos;extérieur</string>
+			<string> Dépouillé</string>
+			<string>SUEDEE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Dont le côté chair est à l&apos;extérieur</string>
+			<string> Du verbe être</string>
+			<string>SUEDEE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Dont le côté chair est à l&apos;extérieur</string>
+			<string> De même</string>
+			<string>SUEDEE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Dont le côté chair est à l&apos;extérieur</string>
+			<string> Ventilée</string>
+			<string>SUEDEE</string>
+			<string>AEREE</string>
+		</array>
+		<array>
+			<string> Dont le côté chair est à l&apos;extérieur</string>
+			<string> Note de musique</string>
+			<string>SUEDEE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Est-Sud-est</string>
+			<string> Amérindien.</string>
+			<string>ESE</string>
+			<string>UTE</string>
+		</array>
+		<array>
+			<string> Est-Sud-est</string>
+			<string> Lichens</string>
+			<string>ESE</string>
+			<string>USNEES</string>
+		</array>
+		<array>
+			<string> Est-Sud-est</string>
+			<string> Langue celtique</string>
+			<string>ESE</string>
+			<string>ERSE</string>
+		</array>
+	</array>
+</array>
+</plist>

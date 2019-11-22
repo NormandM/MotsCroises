@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Détérioration</string>
+			<string>AUTOROUTES</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Se soulager</string>
+			<string>AUTOROUTES</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string></string>
+			<string>AUTOROUTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Protège les oreilles</string>
+			<string>AUTOROUTES</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Île de France</string>
+			<string>AUTOROUTES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Lestes</string>
+			<string>AUTOROUTES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Une vieille note</string>
+			<string>AUTOROUTES</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> On y met la balle</string>
+			<string>AUTOROUTES</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Greffées</string>
+			<string>AUTOROUTES</string>
+			<string>ENTEES</string>
+		</array>
+		<array>
+			<string>  Larges routes</string>
+			<string> Mesurées</string>
+			<string>AUTOROUTES</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lawrencium</string>
+			<string> Détérioration</string>
+			<string>LR</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string> Lawrencium</string>
+			<string> Se soulager</string>
+			<string>LR</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> Protège les oreilles</string>
+			<string>RESTENT</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> Île de France</string>
+			<string>RESTENT</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> Lestes</string>
+			<string>RESTENT</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> Une vieille note</string>
+			<string>RESTENT</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> On y met la balle</string>
+			<string>RESTENT</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> Greffées</string>
+			<string>RESTENT</string>
+			<string>ENTEES</string>
+		</array>
+		<array>
+			<string> Demeurent</string>
+			<string> Mesurées</string>
+			<string>RESTENT</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Hale</string>
+			<string> Détérioration</string>
+			<string>TIRE</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>  Hale</string>
+			<string> Se soulager</string>
+			<string>TIRE</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string>  Hale</string>
+			<string> Radiofréquence</string>
+			<string>TIRE</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string>  Hale</string>
+			<string> Protège les oreilles</string>
+			<string>TIRE</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lestes</string>
+			<string>E</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> On y met la balle</string>
+			<string>ETE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Greffées</string>
+			<string>ETE</string>
+			<string>ENTEES</string>
+		</array>
+		<array>
+			<string> Six mois après Noël</string>
+			<string> Mesurées</string>
+			<string>ETE</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Revêtus</string>
+			<string> Détérioration</string>
+			<string>ENFILES</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string> Revêtus</string>
+			<string> Se soulager</string>
+			<string>ENFILES</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Revêtus</string>
+			<string> Radiofréquence</string>
+			<string>ENFILES</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string> Revêtus</string>
+			<string> Protège les oreilles</string>
+			<string>ENFILES</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Revêtus</string>
+			<string> Arbrisseau rampant</string>
+			<string>ENFILES</string>
+			<string>LIERRE</string>
+		</array>
+		<array>
+			<string> Revêtus</string>
+			<string> Lestes</string>
+			<string>ENFILES</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Revêtus</string>
+			<string> Calme et paisible</string>
+			<string>ENFILES</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Greffées</string>
+			<string>ER</string>
+			<string>ENTEES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Mesurées</string>
+			<string>ER</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Note de musique</string>
+			<string> Détérioration</string>
+			<string>RE</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string>Note de musique</string>
+			<string> Se soulager</string>
+			<string>RE</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Protège les oreilles</string>
+			<string>LISEREE</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Arbrisseau rampant</string>
+			<string>LISEREE</string>
+			<string>LIERRE</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Lestes</string>
+			<string>LISEREE</string>
+			<string>OSEES</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Calme et paisible</string>
+			<string>LISEREE</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Membres d&apos;une secte Jamaïcaine</string>
+			<string>LISEREE</string>
+			<string>RASTAS</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Greffées</string>
+			<string>LISEREE</string>
+			<string>ENTEES</string>
+		</array>
+		<array>
+			<string> Bordée</string>
+			<string> Mesurées</string>
+			<string>LISEREE</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pin montagnard</string>
+			<string> Détérioration</string>
+			<string>AROLE</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string> Pin montagnard</string>
+			<string> Se soulager</string>
+			<string>AROLE</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Pin montagnard</string>
+			<string> Refuge</string>
+			<string>AROLE</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string> Pin montagnard</string>
+			<string> Protège les oreilles</string>
+			<string>AROLE</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Pin montagnard</string>
+			<string> Arbrisseau rampant</string>
+			<string>AROLE</string>
+			<string>LIERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tond</string>
+			<string> Calme et paisible</string>
+			<string>RASE</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Tond</string>
+			<string> Membres d&apos;une secte Jamaïcaine</string>
+			<string>RASE</string>
+			<string>RASTAS</string>
+		</array>
+		<array>
+			<string> Tond</string>
+			<string> Greffées</string>
+			<string>RASE</string>
+			<string>ENTEES</string>
+		</array>
+		<array>
+			<string> Tond</string>
+			<string> Mesurées</string>
+			<string>RASE</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Détérioration</string>
+			<string>T</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Refuge</string>
+			<string>AEREES</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Protège les oreilles</string>
+			<string>AEREES</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Arbrisseau rampant</string>
+			<string>AEREES</string>
+			<string>LIERRE</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> D&apos;un auxiliaire</string>
+			<string>AEREES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Calme et paisible</string>
+			<string>AEREES</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Ventilées</string>
+			<string> Membres d&apos;une secte Jamaïcaine</string>
+			<string>AEREES</string>
+			<string>RASTAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mesurées</string>
+			<string>S</string>
+			<string>STEREES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Eduqués</string>
+			<string> Détérioration</string>
+			<string>INSTRUITS</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string></string>
+			<string>INSTRUITS</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> Refuge</string>
+			<string>INSTRUITS</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> Protège les oreilles</string>
+			<string>INSTRUITS</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> Arbrisseau rampant</string>
+			<string>INSTRUITS</string>
+			<string>LIERRE</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> D&apos;un auxiliaire</string>
+			<string>INSTRUITS</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> Calme et paisible</string>
+			<string>INSTRUITS</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> Membres d&apos;une secte Jamaïcaine</string>
+			<string>INSTRUITS</string>
+			<string>RASTAS</string>
+		</array>
+		<array>
+			<string> Eduqués</string>
+			<string> Argile</string>
+			<string>INSTRUITS</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Détérioration</string>
+			<string>O</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Petit mot latin</string>
+			<string> Refuge</string>
+			<string>ITE</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string> Petit mot latin</string>
+			<string> Protège les oreilles</string>
+			<string>ITE</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string> Petit mot latin</string>
+			<string> Arbrisseau rampant</string>
+			<string>ITE</string>
+			<string>LIERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Voit le jour</string>
+			<string> Calme et paisible</string>
+			<string>NAIT</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Voit le jour</string>
+			<string> Membres d&apos;une secte Jamaïcaine</string>
+			<string>NAIT</string>
+			<string>RASTAS</string>
+		</array>
+		<array>
+			<string> Voit le jour</string>
+			<string> Argile</string>
+			<string>NAIT</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string> Voit le jour</string>
+			<string> Possessif</string>
+			<string>NAIT</string>
+			<string>TA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Détérioration</string>
+			<string>NASE</string>
+			<string>ALTERATION</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string></string>
+			<string>NASE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Refuge</string>
+			<string>NASE</string>
+			<string>OASIS</string>
+		</array>
+		<array>
+			<string> En mauvais état</string>
+			<string> Protège les oreilles</string>
+			<string>NASE</string>
+			<string>OREILLETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;induction</string>
+			<string></string>
+			<string>TESLA</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;induction</string>
+			<string> Calme et paisible</string>
+			<string>TESLA</string>
+			<string>SEREINE</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;induction</string>
+			<string> Membres d&apos;une secte Jamaïcaine</string>
+			<string>TESLA</string>
+			<string>RASTAS</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;induction</string>
+			<string> Argile</string>
+			<string>TESLA</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string> Unité de mesure d&apos;induction</string>
+			<string> Possessif</string>
+			<string>TESLA</string>
+			<string>TA</string>
+		</array>
+	</array>
+</array>
+</plist>

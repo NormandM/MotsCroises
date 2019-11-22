@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Grand chien</string>
+			<string>SACROSAINTES</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Secondée</string>
+			<string>SACROSAINTES</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Symbole chimique</string>
+			<string>SACROSAINTES</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Échouée</string>
+			<string>SACROSAINTES</string>
+			<string>RATEE</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Jamais</string>
+			<string>SACROSAINTES</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Symbole</string>
+			<string>SACROSAINTES</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Ouvrent la fenêtre</string>
+			<string>SACROSAINTES</string>
+			<string>AERENT</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Déesse égyptienne</string>
+			<string>SACROSAINTES</string>
+			<string>ISIS</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string></string>
+			<string>SACROSAINTES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> On y met la balle</string>
+			<string>SACROSAINTES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Infinitif</string>
+			<string>SACROSAINTES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Font l'objet d'un respect exagéré.</string>
+			<string> Logiques</string>
+			<string>SACROSAINTES</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Naturels</string>
+			<string> Grand chien</string>
+			<string>AISANCES</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Secondée</string>
+			<string>AISANCES</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Symbole chimique</string>
+			<string>AISANCES</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Échouée</string>
+			<string>AISANCES</string>
+			<string>RATEE</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Jamais</string>
+			<string>AISANCES</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Symbole</string>
+			<string>AISANCES</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Ouvrent la fenêtre</string>
+			<string>AISANCES</string>
+			<string>AERENT</string>
+		</array>
+		<array>
+			<string> Naturels</string>
+			<string> Déesse égyptienne</string>
+			<string>AISANCES</string>
+			<string>ISIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Âge</string>
+			<string> On y met la balle</string>
+			<string>ERE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Âge</string>
+			<string> Infinitif</string>
+			<string>ERE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Âge</string>
+			<string> Logiques</string>
+			<string>ERE</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> De même</string>
+			<string> Grand chien</string>
+			<string>ID</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Secondée</string>
+			<string>ID</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Technétium</string>
+			<string> Échouée</string>
+			<string>TC</string>
+			<string>RATEE</string>
+		</array>
+		<array>
+			<string> Technétium</string>
+			<string> Jamais</string>
+			<string>TC</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bonne humeur.</string>
+			<string> Ouvrent la fenêtre</string>
+			<string>RIRE</string>
+			<string>AERENT</string>
+		</array>
+		<array>
+			<string> Bonne humeur.</string>
+			<string> Déesse égyptienne</string>
+			<string>RIRE</string>
+			<string>ISIS</string>
+		</array>
+		<array>
+			<string> Bonne humeur.</string>
+			<string> Finassais</string>
+			<string>RIRE</string>
+			<string>RUSAIS</string>
+		</array>
+		<array>
+			<string> Bonne humeur.</string>
+			<string> On y met la balle</string>
+			<string>RIRE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Logiques</string>
+			<string>N</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Grand chien</string>
+			<string>NERE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Secondée</string>
+			<string>NERE</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Genre de macaque</string>
+			<string>NERE</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string> Arbre africain</string>
+			<string> Échouée</string>
+			<string>NERE</string>
+			<string>RATEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> Amplificateur de micro-ondes</string>
+			<string>MESUSES</string>
+			<string>MASER</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> Ouvrent la fenêtre</string>
+			<string>MESUSES</string>
+			<string>AERENT</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> Déesse égyptienne</string>
+			<string>MESUSES</string>
+			<string>ISIS</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> Finassais</string>
+			<string>MESUSES</string>
+			<string>RUSAIS</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> On y met la balle</string>
+			<string>MESUSES</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> Utilise une première fois</string>
+			<string>MESUSES</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string> Abuses</string>
+			<string> Logiques</string>
+			<string>MESUSES</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Grand chien</string>
+			<string>TEHERAN</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Secondée</string>
+			<string>TEHERAN</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Genre de macaque</string>
+			<string>TEHERAN</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Échouée</string>
+			<string>TEHERAN</string>
+			<string>RATEE</string>
+		</array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Note</string>
+			<string>TEHERAN</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Amplificateur de micro-ondes</string>
+			<string>TEHERAN</string>
+			<string>MASER</string>
+		</array>
+		<array>
+			<string> Une capitale islamique</string>
+			<string> Ouvrent la fenêtre</string>
+			<string>TEHERAN</string>
+			<string>AERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Finassais</string>
+			<string>S</string>
+			<string>RUSAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Utilise une première fois</string>
+			<string>TE</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Logiques</string>
+			<string>TE</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Grand chien</string>
+			<string>B</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Genre de macaque</string>
+			<string>E</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Note</string>
+			<string>ESTUAIRE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Amplificateur de micro-ondes</string>
+			<string>ESTUAIRE</string>
+			<string>MASER</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Ouvrent la fenêtre</string>
+			<string>ESTUAIRE</string>
+			<string>AERENT</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Erodées</string>
+			<string>ESTUAIRE</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Finassais</string>
+			<string>ESTUAIRE</string>
+			<string>RUSAIS</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Fin de verbe</string>
+			<string>ESTUAIRE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Utilise une première fois</string>
+			<string>ESTUAIRE</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string> Embouchure</string>
+			<string> Logiques</string>
+			<string>ESTUAIRE</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> Grand chien</string>
+			<string>ESSE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> Filets</string>
+			<string>ESSE</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> Genre de macaque</string>
+			<string>ESSE</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string> Ouverture de violon</string>
+			<string> On y trouve des bêtes</string>
+			<string>ESSE</string>
+			<string>ETABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Amplificateur de micro-ondes</string>
+			<string>E</string>
+			<string>MASER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Anciens titres honorifiques</string>
+			<string> Erodées</string>
+			<string>SIRES</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string> Anciens titres honorifiques</string>
+			<string> Finassais</string>
+			<string>SIRES</string>
+			<string>RUSAIS</string>
+		</array>
+		<array>
+			<string> Anciens titres honorifiques</string>
+			<string> Fin de verbe</string>
+			<string>SIRES</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Anciens titres honorifiques</string>
+			<string> Utilise une première fois</string>
+			<string>SIRES</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string> Anciens titres honorifiques</string>
+			<string> Logiques</string>
+			<string>SIRES</string>
+			<string>SENSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Romancier et poète allemand</string>
+			<string> Grand chien</string>
+			<string>REUTER</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Romancier et poète allemand</string>
+			<string> Filets</string>
+			<string>REUTER</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Romancier et poète allemand</string>
+			<string> Genre de macaque</string>
+			<string>REUTER</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string> Romancier et poète allemand</string>
+			<string> On y trouve des bêtes</string>
+			<string>REUTER</string>
+			<string>ETABLE</string>
+		</array>
+		<array>
+			<string> Romancier et poète allemand</string>
+			<string> Dans</string>
+			<string>REUTER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Romancier et poète allemand</string>
+			<string> Amplificateur de micro-ondes</string>
+			<string>REUTER</string>
+			<string>MASER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Erodées</string>
+			<string>ES</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Finassais</string>
+			<string>ES</string>
+			<string>RUSAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Utilise une première fois</string>
+			<string>N</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans le calendrier hébreu</string>
+			<string> Grand chien</string>
+			<string>NISAN</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Dans le calendrier hébreu</string>
+			<string> Filets</string>
+			<string>NISAN</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Dans le calendrier hébreu</string>
+			<string> Genre de macaque</string>
+			<string>NISAN</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string> Dans le calendrier hébreu</string>
+			<string> On y trouve des bêtes</string>
+			<string>NISAN</string>
+			<string>ETABLE</string>
+		</array>
+		<array>
+			<string> Dans le calendrier hébreu</string>
+			<string> Dans</string>
+			<string>NISAN</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Largeur d'une étoffe</string>
+			<string> Désavantage</string>
+			<string>LE</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string> Largeur d'une étoffe</string>
+			<string> Erodées</string>
+			<string>LE</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Irlande</string>
+			<string>ENS</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Utilise une première fois</string>
+			<string>ENS</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string>  Napperons.</string>
+			<string>ENS</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Grand chien</string>
+			<string>AN</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Filets</string>
+			<string>AN</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> On y trouve des bêtes</string>
+			<string>B</string>
+			<string>ETABLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string> Terme de belote</string>
+			<string>DESIREE</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string> Désavantage</string>
+			<string>DESIREE</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string> Erodées</string>
+			<string>DESIREE</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string> Elle fait crier</string>
+			<string>DESIREE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string> Irlande</string>
+			<string>DESIREE</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string> Utilise une première fois</string>
+			<string>DESIREE</string>
+			<string>ETRENNE</string>
+		</array>
+		<array>
+			<string> Voulue</string>
+			<string>  Napperons.</string>
+			<string>DESIREE</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tangibles</string>
+			<string> Grand chien</string>
+			<string>REELLES</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Tangibles</string>
+			<string> Filets</string>
+			<string>REELLES</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string> Tangibles</string>
+			<string></string>
+			<string>REELLES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Tangibles</string>
+			<string> On y trouve des bêtes</string>
+			<string>REELLES</string>
+			<string>ETABLE</string>
+		</array>
+		<array>
+			<string> Tangibles</string>
+			<string> Lawrencium</string>
+			<string>REELLES</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Tangibles</string>
+			<string> Terme de belote</string>
+			<string>REELLES</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Tangibles</string>
+			<string> Désavantage</string>
+			<string>REELLES</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Elle fait crier</string>
+			<string>RI</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Pouffé</string>
+			<string> Irlande</string>
+			<string>RI</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>  Napperons.</string>
+			<string>T</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Délégué syndicale</string>
+			<string> Grand chien</string>
+			<string>DS</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string> Délégué syndicale</string>
+			<string> Filets</string>
+			<string>DS</string>
+			<string>SEINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string> On y trouve des bêtes</string>
+			<string>ERREMENTS</string>
+			<string>ETABLE</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string> Lawrencium</string>
+			<string>ERREMENTS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string> Terme de belote</string>
+			<string>ERREMENTS</string>
+			<string>DER</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string> Désavantage</string>
+			<string>ERREMENTS</string>
+			<string>LESE</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string></string>
+			<string>ERREMENTS</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string> Elle fait crier</string>
+			<string>ERREMENTS</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string> Irlande</string>
+			<string>ERREMENTS</string>
+			<string>ERIN</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string></string>
+			<string>ERREMENTS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Hésitations</string>
+			<string>  Napperons.</string>
+			<string>ERREMENTS</string>
+			<string>SETS</string>
+		</array>
+	</array>
+</array>
+</plist>

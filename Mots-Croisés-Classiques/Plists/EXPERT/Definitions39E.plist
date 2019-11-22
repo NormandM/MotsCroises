@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>BACHIBOUZOUK</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Astate</string>
+			<string>BACHIBOUZOUK</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Très utiles en couture</string>
+			<string>BACHIBOUZOUK</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Chocs</string>
+			<string>BACHIBOUZOUK</string>
+			<string>HEURTS</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Fait voir rouge</string>
+			<string>BACHIBOUZOUK</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string></string>
+			<string>BACHIBOUZOUK</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Mollusques</string>
+			<string>BACHIBOUZOUK</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Note</string>
+			<string>BACHIBOUZOUK</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Invention arabe</string>
+			<string>BACHIBOUZOUK</string>
+			<string>ZERO</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Il est à genoux</string>
+			<string>BACHIBOUZOUK</string>
+			<string>ORANT</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Le premier pas vers l&apos;infini</string>
+			<string>BACHIBOUZOUK</string>
+			<string>UN</string>
+		</array>
+		<array>
+			<string> Cavalier mercenaire de l&apos;armée turque</string>
+			<string> Boisson gazeuse et acidulée</string>
+			<string>BACHIBOUZOUK</string>
+			<string>KEFIRS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Canal</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>ETIER</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Astate</string>
+			<string>ETIER</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Très utiles en couture</string>
+			<string>ETIER</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Chocs</string>
+			<string>ETIER</string>
+			<string>HEURTS</string>
+		</array>
+		<array>
+			<string> Canal</string>
+			<string> Fait voir rouge</string>
+			<string>ETIER</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hirondelle de mer</string>
+			<string> Mollusques</string>
+			<string>STERNE</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string> Hirondelle de mer</string>
+			<string> Note</string>
+			<string>STERNE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Hirondelle de mer</string>
+			<string> Invention arabe</string>
+			<string>STERNE</string>
+			<string>ZERO</string>
+		</array>
+		<array>
+			<string> Hirondelle de mer</string>
+			<string> Il est à genoux</string>
+			<string>STERNE</string>
+			<string>ORANT</string>
+		</array>
+		<array>
+			<string> Hirondelle de mer</string>
+			<string> Le premier pas vers l&apos;infini</string>
+			<string>STERNE</string>
+			<string>UN</string>
+		</array>
+		<array>
+			<string> Hirondelle de mer</string>
+			<string> Boisson gazeuse et acidulée</string>
+			<string>STERNE</string>
+			<string>KEFIRS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Dont la fleur est éphémère</string>
+			<string>L</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se fatiguent</string>
+			<string> Très utiles en couture</string>
+			<string>SUENT</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string> Se fatiguent</string>
+			<string> Chocs</string>
+			<string>SUENT</string>
+			<string>HEURTS</string>
+		</array>
+		<array>
+			<string> Se fatiguent</string>
+			<string> Fait voir rouge</string>
+			<string>SUENT</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Se fatiguent</string>
+			<string> Plantes bulbeuses</string>
+			<string>SUENT</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> Se fatiguent</string>
+			<string> Mollusques</string>
+			<string>SUENT</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dieu Egyptien</string>
+			<string> Invention arabe</string>
+			<string>RA</string>
+			<string>ZERO</string>
+		</array>
+		<array>
+			<string> Dieu Egyptien</string>
+			<string> Il est à genoux</string>
+			<string>RA</string>
+			<string>ORANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Boisson gazeuse et acidulée</string>
+			<string>F</string>
+			<string>KEFIRS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nouer</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>LIER</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Un bois très dur</string>
+			<string>LIER</string>
+			<string>IPE</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Très utiles en couture</string>
+			<string>LIER</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Chocs</string>
+			<string>LIER</string>
+			<string>HEURTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Plantes bulbeuses</string>
+			<string>ARRONDI</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Mollusques</string>
+			<string>ARRONDI</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Gondolé</string>
+			<string>ARRONDI</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Invention arabe</string>
+			<string>ARRONDI</string>
+			<string>ZERO</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Il est à genoux</string>
+			<string>ARRONDI</string>
+			<string>ORANT</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Documentations</string>
+			<string>ARRONDI</string>
+			<string>DOCS</string>
+		</array>
+		<array>
+			<string> Plus gros</string>
+			<string> Boisson gazeuse et acidulée</string>
+			<string>ARRONDI</string>
+			<string>KEFIRS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>EPATERAI</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Un bois très dur</string>
+			<string>EPATERAI</string>
+			<string>IPE</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Très utiles en couture</string>
+			<string>EPATERAI</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Chocs</string>
+			<string>EPATERAI</string>
+			<string>HEURTS</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string></string>
+			<string>EPATERAI</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Plantes bulbeuses</string>
+			<string>EPATERAI</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Mollusques</string>
+			<string>EPATERAI</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string> Étonnerai</string>
+			<string> Gondolé</string>
+			<string>EPATERAI</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dieu germanique</string>
+			<string> Il est à genoux</string>
+			<string>TOR</string>
+			<string>ORANT</string>
+		</array>
+		<array>
+			<string> Dieu germanique</string>
+			<string> Documentations</string>
+			<string>TOR</string>
+			<string>DOCS</string>
+		</array>
+		<array>
+			<string> Dieu germanique</string>
+			<string> Boisson gazeuse et acidulée</string>
+			<string>TOR</string>
+			<string>KEFIRS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avant ex machina</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>DEUS</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Avant ex machina</string>
+			<string> Un bois très dur</string>
+			<string>DEUS</string>
+			<string>IPE</string>
+		</array>
+		<array>
+			<string> Avant ex machina</string>
+			<string> Très utiles en couture</string>
+			<string>DEUS</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string> Avant ex machina</string>
+			<string> Chocs</string>
+			<string>DEUS</string>
+			<string>HEURTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure de volume</string>
+			<string> Plantes bulbeuses</string>
+			<string>CC</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> Mesure de volume</string>
+			<string> Mollusques</string>
+			<string>CC</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Sans-coeur</string>
+			<string>E</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Documentations</string>
+			<string>CS</string>
+			<string>DOCS</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Boisson gazeuse et acidulée</string>
+			<string>CS</string>
+			<string>KEFIRS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Dont la fleur est éphémère</string>
+			<string>U</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Très utiles en couture</string>
+			<string>X</string>
+			<string>CISEAUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Coeur</string>
+			<string>CIERGES</string>
+			<string>CENTRE</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Plantes bulbeuses</string>
+			<string>CIERGES</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Mollusques</string>
+			<string>CIERGES</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Vallée envahie par la mer</string>
+			<string>CIERGES</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Sans-coeur</string>
+			<string>CIERGES</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Lasse</string>
+			<string>CIERGES</string>
+			<string>ENNUIE</string>
+		</array>
+		<array>
+			<string> En usage dans les églises</string>
+			<string> Documentations</string>
+			<string>CIERGES</string>
+			<string>DOCS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>NE</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Onde</string>
+			<string>NE</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Une réplique</string>
+			<string>SESSION</string>
+			<string>SOSIE</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Coeur</string>
+			<string>SESSION</string>
+			<string>CENTRE</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Plantes bulbeuses</string>
+			<string>SESSION</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Mollusques</string>
+			<string>SESSION</string>
+			<string>OSTRACES</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Vallée envahie par la mer</string>
+			<string>SESSION</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Sans-coeur</string>
+			<string>SESSION</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Lasse</string>
+			<string>SESSION</string>
+			<string>ENNUIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lestes</string>
+			<string>O</string>
+			<string>OSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Repères</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>JALONS</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Repères</string>
+			<string> Onde</string>
+			<string>JALONS</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Repères</string>
+			<string> Jurassique inférieur</string>
+			<string>JALONS</string>
+			<string>LIAS</string>
+		</array>
+		<array>
+			<string> Repères</string>
+			<string> Une réplique</string>
+			<string>JALONS</string>
+			<string>SOSIE</string>
+		</array>
+		<array>
+			<string> Repères</string>
+			<string> Coeur</string>
+			<string>JALONS</string>
+			<string>CENTRE</string>
+		</array>
+		<array>
+			<string> Repères</string>
+			<string> Plantes bulbeuses</string>
+			<string>JALONS</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> En haut de la cuisse</string>
+			<string> Vallée envahie par la mer</string>
+			<string>AINES</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> En haut de la cuisse</string>
+			<string> Sans-coeur</string>
+			<string>AINES</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string> En haut de la cuisse</string>
+			<string> Lasse</string>
+			<string>AINES</string>
+			<string>ENNUIE</string>
+		</array>
+		<array>
+			<string> En haut de la cuisse</string>
+			<string> Ne sait pas où aller</string>
+			<string>AINES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> En haut de la cuisse</string>
+			<string> Lestes</string>
+			<string>AINES</string>
+			<string>OSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>OUISTES</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string> Onde</string>
+			<string>OUISTES</string>
+			<string>EAU</string>
+		</array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string> Jurassique inférieur</string>
+			<string>OUISTES</string>
+			<string>LIAS</string>
+		</array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string> Une réplique</string>
+			<string>OUISTES</string>
+			<string>SOSIE</string>
+		</array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string> Coeur</string>
+			<string>OUISTES</string>
+			<string>CENTRE</string>
+		</array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string> Plantes bulbeuses</string>
+			<string>OUISTES</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string> Dans le camp du oui</string>
+			<string></string>
+			<string>OUISTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aigrelette</string>
+			<string> Sans-coeur</string>
+			<string>SURE</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string> Aigrelette</string>
+			<string> Lasse</string>
+			<string>SURE</string>
+			<string>ENNUIE</string>
+		</array>
+		<array>
+			<string> Aigrelette</string>
+			<string> Ne sait pas où aller</string>
+			<string>SURE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Aigrelette</string>
+			<string> Lestes</string>
+			<string>SURE</string>
+			<string>OSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Dont la fleur est éphémère</string>
+			<string>U</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Apparences</string>
+			<string> Jurassique inférieur</string>
+			<string>AIRS</string>
+			<string>LIAS</string>
+		</array>
+		<array>
+			<string> Apparences</string>
+			<string> Une réplique</string>
+			<string>AIRS</string>
+			<string>SOSIE</string>
+		</array>
+		<array>
+			<string> Apparences</string>
+			<string> Coeur</string>
+			<string>AIRS</string>
+			<string>CENTRE</string>
+		</array>
+		<array>
+			<string> Apparences</string>
+			<string> Plantes bulbeuses</string>
+			<string>AIRS</string>
+			<string>NARCISSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Infinitif</string>
+			<string>ETIRE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Sans-coeur</string>
+			<string>ETIRE</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Lasse</string>
+			<string>ETIRE</string>
+			<string>ENNUIE</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Ne sait pas où aller</string>
+			<string>ETIRE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Donc plus long</string>
+			<string> Lestes</string>
+			<string>ETIRE</string>
+			<string>OSEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Dont la fleur est éphémère</string>
+			<string>RISEE</string>
+			<string>BELLEDUNJOUR</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string></string>
+			<string>RISEE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Jurassique inférieur</string>
+			<string>RISEE</string>
+			<string>LIAS</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Une réplique</string>
+			<string>RISEE</string>
+			<string>SOSIE</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Coeur</string>
+			<string>RISEE</string>
+			<string>CENTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string></string>
+			<string>CREEES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Infinitif</string>
+			<string>CREEES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Sans-coeur</string>
+			<string>CREEES</string>
+			<string>EGOISTE</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Lasse</string>
+			<string>CREEES</string>
+			<string>ENNUIE</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Ne sait pas où aller</string>
+			<string>CREEES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Lestes</string>
+			<string>CREEES</string>
+			<string>OSEES</string>
+		</array>
+	</array>
+</array>
+</plist>

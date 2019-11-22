@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Réguliers</string>
+			<string>GARDEAVOUS</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Une épée par exemple</string>
+			<string>GARDEAVOUS</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Circulent au Cambodge</string>
+			<string>GARDEAVOUS</string>
+			<string>RIELS</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Fuites</string>
+			<string>GARDEAVOUS</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string></string>
+			<string>GARDEAVOUS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Unité en photographie</string>
+			<string>GARDEAVOUS</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Cale</string>
+			<string>GARDEAVOUS</string>
+			<string>VE</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Au bout des doigts</string>
+			<string>GARDEAVOUS</string>
+			<string>ONGLE</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Fatiguée</string>
+			<string>GARDEAVOUS</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Se tenir debout sans bouger</string>
+			<string> Monnaie romaine</string>
+			<string>GARDEAVOUS</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Se montrent audacieux</string>
+			<string>O</string>
+			<string>OSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un lac</string>
+			<string> Réguliers</string>
+			<string>ERIE</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Un lac</string>
+			<string> Une épée par exemple</string>
+			<string>ERIE</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string> Un lac</string>
+			<string> Circulent au Cambodge</string>
+			<string>ERIE</string>
+			<string>RIELS</string>
+		</array>
+		<array>
+			<string> Un lac</string>
+			<string> Fuites</string>
+			<string>ERIE</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Unité en photographie</string>
+			<string>SENSEES</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Cale</string>
+			<string>SENSEES</string>
+			<string>VE</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Au bout des doigts</string>
+			<string>SENSEES</string>
+			<string>ONGLE</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Fatiguée</string>
+			<string>SENSEES</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Monnaie romaine</string>
+			<string>SENSEES</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Lettre grec</string>
+			<string>SENSEES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Logiques</string>
+			<string> Se montrent audacieux</string>
+			<string>SENSEES</string>
+			<string>OSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Loi du silence</string>
+			<string> Réguliers</string>
+			<string>OMERTA</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Loi du silence</string>
+			<string> Une épée par exemple</string>
+			<string>OMERTA</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string> Loi du silence</string>
+			<string> Circulent au Cambodge</string>
+			<string>OMERTA</string>
+			<string>RIELS</string>
+		</array>
+		<array>
+			<string> Loi du silence</string>
+			<string> Fuites</string>
+			<string>OMERTA</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string> Loi du silence</string>
+			<string> Sert pour la démolition</string>
+			<string>OMERTA</string>
+			<string>TNT</string>
+		</array>
+		<array>
+			<string> Loi du silence</string>
+			<string> Unité en photographie</string>
+			<string>OMERTA</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se fait avec les mains</string>
+			<string> Au bout des doigts</string>
+			<string>GESTE</string>
+			<string>ONGLE</string>
+		</array>
+		<array>
+			<string> Se fait avec les mains</string>
+			<string> Fatiguée</string>
+			<string>GESTE</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Se fait avec les mains</string>
+			<string> Monnaie romaine</string>
+			<string>GESTE</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string> Se fait avec les mains</string>
+			<string> Lettre grec</string>
+			<string>GESTE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Se fait avec les mains</string>
+			<string> Se montrent audacieux</string>
+			<string>GESTE</string>
+			<string>OSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un chapeau</string>
+			<string> Réguliers</string>
+			<string>MELON</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Un chapeau</string>
+			<string> Une épée par exemple</string>
+			<string>MELON</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string> Un chapeau</string>
+			<string> Circulent au Cambodge</string>
+			<string>MELON</string>
+			<string>RIELS</string>
+		</array>
+		<array>
+			<string> Un chapeau</string>
+			<string> Fuites</string>
+			<string>MELON</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string> Un chapeau</string>
+			<string> Sert pour la démolition</string>
+			<string>MELON</string>
+			<string>TNT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Ralentit</string>
+			<string>FLETAN</string>
+			<string>FREINE</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Au bout des doigts</string>
+			<string>FLETAN</string>
+			<string>ONGLE</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Fatiguée</string>
+			<string>FLETAN</string>
+			<string>USEE</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Monnaie romaine</string>
+			<string>FLETAN</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Lettre grec</string>
+			<string>FLETAN</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string> Poisson</string>
+			<string> Se montrent audacieux</string>
+			<string>FLETAN</string>
+			<string>OSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Réguliers</string>
+			<string>E</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Couture</string>
+			<string> Circulent au Cambodge</string>
+			<string>SUTURE</string>
+			<string>RIELS</string>
+		</array>
+		<array>
+			<string> Couture</string>
+			<string> Fuites</string>
+			<string>SUTURE</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string> Couture</string>
+			<string> Sert pour la démolition</string>
+			<string>SUTURE</string>
+			<string>TNT</string>
+		</array>
+		<array>
+			<string> Couture</string>
+			<string> Coutumes</string>
+			<string>SUTURE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Couture</string>
+			<string> Ralentit</string>
+			<string>SUTURE</string>
+			<string>FREINE</string>
+		</array>
+		<array>
+			<string> Couture</string>
+			<string> Au bout des doigts</string>
+			<string>SUTURE</string>
+			<string>ONGLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Monnaie romaine</string>
+			<string>E</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Se montrent audacieux</string>
+			<string>T</string>
+			<string>OSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tour</string>
+			<string> Réguliers</string>
+			<string>TR</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Briller</string>
+			<string>TR</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fuites</string>
+			<string>T</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Coutumes</string>
+			<string>SE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Ralentit</string>
+			<string>SE</string>
+			<string>FREINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ordre</string>
+			<string> Une capitale islamique</string>
+			<string>TRI</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string> Ordre</string>
+			<string> Monnaie romaine</string>
+			<string>TRI</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string> Ordre</string>
+			<string> Ville de Roumanie</string>
+			<string>TRI</string>
+			<string>IASI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Réguliers</string>
+			<string>RENEE</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Briller</string>
+			<string>RENEE</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Sortie</string>
+			<string>RENEE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string> Fuites</string>
+			<string>RENEE</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string> Prénom féminin</string>
+			<string></string>
+			<string>RENEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pour faire vomir</string>
+			<string> Ralentit</string>
+			<string>IPECAS</string>
+			<string>FREINE</string>
+		</array>
+		<array>
+			<string> Pour faire vomir</string>
+			<string> Platine</string>
+			<string>IPECAS</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Pour faire vomir</string>
+			<string> Une capitale islamique</string>
+			<string>IPECAS</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string> Pour faire vomir</string>
+			<string> Monnaie romaine</string>
+			<string>IPECAS</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string> Pour faire vomir</string>
+			<string> Ville de Roumanie</string>
+			<string>IPECAS</string>
+			<string>IASI</string>
+		</array>
+		<array>
+			<string> Pour faire vomir</string>
+			<string> Classée</string>
+			<string>IPECAS</string>
+			<string>SERIEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Réguliers</string>
+			<string>ILES</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Briller</string>
+			<string>ILES</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Sortie</string>
+			<string>ILES</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Parfois reliées par un pont</string>
+			<string> Fuites</string>
+			<string>ILES</string>
+			<string>DEROUTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Plus court</string>
+			<string>ENTHESE</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Ralentit</string>
+			<string>ENTHESE</string>
+			<string>FREINE</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Platine</string>
+			<string>ENTHESE</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Une capitale islamique</string>
+			<string>ENTHESE</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Monnaie romaine</string>
+			<string>ENTHESE</string>
+			<string>SESTERCE</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Ville de Roumanie</string>
+			<string>ENTHESE</string>
+			<string>IASI</string>
+		</array>
+		<array>
+			<string> Transition entre le muscle et le tendon</string>
+			<string> Classée</string>
+			<string>ENTHESE</string>
+			<string>SERIEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Réguliers</string>
+			<string>QUE</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Briller</string>
+			<string>QUE</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Sortie</string>
+			<string>QUE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Attendu avec impatience</string>
+			<string> Du verbe être</string>
+			<string>ETE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Attendu avec impatience</string>
+			<string> Plus court</string>
+			<string>ETE</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Attendu avec impatience</string>
+			<string> Ralentit</string>
+			<string>ETE</string>
+			<string>FREINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Une capitale islamique</string>
+			<string>E</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Ville de Roumanie</string>
+			<string>IR</string>
+			<string>IASI</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Classée</string>
+			<string>IR</string>
+			<string>SERIEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans le cuir</string>
+			<string> Réguliers</string>
+			<string>UI</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Dans le cuir</string>
+			<string> Briller</string>
+			<string>UI</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Choquant</string>
+			<string> C'était une armée</string>
+			<string>OSE</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Choquant</string>
+			<string> Du verbe être</string>
+			<string>OSE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Choquant</string>
+			<string> Plus court</string>
+			<string>OSE</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Jamais le dernier mot</string>
+			<string>ERS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Une capitale islamique</string>
+			<string>ERS</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Métal malléable</string>
+			<string>ERS</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Classée</string>
+			<string>I</string>
+			<string>SERIEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Réguliers</string>
+			<string>ERES</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Briller</string>
+			<string>ERES</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Dans</string>
+			<string>ERES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> C'était une armée</string>
+			<string>ERES</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> Plus court</string>
+			<string>TETANIE</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> Infinitif</string>
+			<string>TETANIE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> Jamais le dernier mot</string>
+			<string>TETANIE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> Une capitale islamique</string>
+			<string>TETANIE</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> Métal malléable</string>
+			<string>TETANIE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> De même</string>
+			<string>TETANIE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> État pathologique</string>
+			<string> Classée</string>
+			<string>TETANIE</string>
+			<string>SERIEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pour les piétons</string>
+			<string> Réguliers</string>
+			<string>SENTIER</string>
+			<string>GEOMETRIQUES</string>
+		</array>
+		<array>
+			<string> Pour les piétons</string>
+			<string> Briller</string>
+			<string>SENTIER</string>
+			<string>RELUIRE</string>
+		</array>
+		<array>
+			<string> Pour les piétons</string>
+			<string> Dans</string>
+			<string>SENTIER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Pour les piétons</string>
+			<string> C'était une armée</string>
+			<string>SENTIER</string>
+			<string>OST</string>
+		</array>
+		<array>
+			<string> Pour les piétons</string>
+			<string></string>
+			<string>SENTIER</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Pour les piétons</string>
+			<string> Plus court</string>
+			<string>SENTIER</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Pour les piétons</string>
+			<string> Infinitif</string>
+			<string>SENTIER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Une capitale islamique</string>
+			<string>N</string>
+			<string>TEHERAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Article partitif</string>
+			<string> De même</string>
+			<string>DE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string> Article partitif</string>
+			<string> Classée</string>
+			<string>DE</string>
+			<string>SERIEE</string>
+		</array>
+	</array>
+</array>
+</plist>

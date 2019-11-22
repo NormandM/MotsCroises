@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Insensibles à la douleur</string>
+			<string>ARCHEOLOGIE</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Bourrasque</string>
+			<string>ARCHEOLOGIE</string>
+			<string>RISEE</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Démonstratif</string>
+			<string>ARCHEOLOGIE</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Sert à appeler</string>
+			<string>ARCHEOLOGIE</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Ouverture de violon</string>
+			<string>ARCHEOLOGIE</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string></string>
+			<string>ARCHEOLOGIE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Sommier</string>
+			<string>ARCHEOLOGIE</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Organisation</string>
+			<string>ARCHEOLOGIE</string>
+			<string>ONG</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Givrai</string>
+			<string>ARCHEOLOGIE</string>
+			<string>GELAI</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Père de l'église</string>
+			<string>ARCHEOLOGIE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Science qui fouille pour trouver le passé</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>ARCHEOLOGIE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Contredites</string>
+			<string> Insensibles à la douleur</string>
+			<string>NIEES</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Contredites</string>
+			<string> Bourrasque</string>
+			<string>NIEES</string>
+			<string>RISEE</string>
+		</array>
+		<array>
+			<string> Contredites</string>
+			<string> Démonstratif</string>
+			<string>NIEES</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Contredites</string>
+			<string> Sert à appeler</string>
+			<string>NIEES</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Contredites</string>
+			<string> Ouverture de violon</string>
+			<string>NIEES</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Apathique</string>
+			<string> Sommier</string>
+			<string>INERTE</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string> Apathique</string>
+			<string> Organisation</string>
+			<string>INERTE</string>
+			<string>ONG</string>
+		</array>
+		<array>
+			<string> Apathique</string>
+			<string> Givrai</string>
+			<string>INERTE</string>
+			<string>GELAI</string>
+		</array>
+		<array>
+			<string> Apathique</string>
+			<string> Père de l'église</string>
+			<string>INERTE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Apathique</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>INERTE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Apathique</string>
+			<string> Existes</string>
+			<string>INERTE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Levant</string>
+			<string> Insensibles à la douleur</string>
+			<string>EST</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Bourrasque</string>
+			<string>EST</string>
+			<string>RISEE</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Démonstratif</string>
+			<string>EST</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Ouverture de violon</string>
+			<string>SANGLEES</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Gentleman cambrioleur</string>
+			<string>SANGLEES</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Sommier</string>
+			<string>SANGLEES</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Organisation</string>
+			<string>SANGLEES</string>
+			<string>ONG</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Givrai</string>
+			<string>SANGLEES</string>
+			<string>GELAI</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Père de l'église</string>
+			<string>SANGLEES</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>SANGLEES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string> Tendues</string>
+			<string> Existes</string>
+			<string>SANGLEES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom</string>
+			<string> Insensibles à la douleur</string>
+			<string>SE</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Bourrasque</string>
+			<string>SE</string>
+			<string>RISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Lézard</string>
+			<string>SERT</string>
+			<string>SEPS</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Ouverture de violon</string>
+			<string>SERT</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Gentleman cambrioleur</string>
+			<string>SERT</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Est utile à</string>
+			<string> Sommier</string>
+			<string>SERT</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fractions de siècle</string>
+			<string> Givrai</string>
+			<string>ANS</string>
+			<string>GELAI</string>
+		</array>
+		<array>
+			<string> Fractions de siècle</string>
+			<string> Père de l'église</string>
+			<string>ANS</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Fractions de siècle</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>ANS</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Insensibles à la douleur</string>
+			<string>TETE</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Bourrasque</string>
+			<string>TETE</string>
+			<string>RISEE</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Tournent autour du cheval</string>
+			<string>TETE</string>
+			<string>TAONS</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Lézard</string>
+			<string>TETE</string>
+			<string>SEPS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle peut être télévisée</string>
+			<string> Gentleman cambrioleur</string>
+			<string>SERIE</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Elle peut être télévisée</string>
+			<string> Sommier</string>
+			<string>SERIE</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string> Elle peut être télévisée</string>
+			<string> Déferlements</string>
+			<string>SERIE</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Elle peut être télévisée</string>
+			<string> Givrai</string>
+			<string>SERIE</string>
+			<string>GELAI</string>
+		</array>
+		<array>
+			<string> Elle peut être télévisée</string>
+			<string> Père de l'église</string>
+			<string>SERIE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ce qui donne du piquant</string>
+			<string>S</string>
+			<string>SEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Insensibles à la douleur</string>
+			<string>H</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Leurre et pipeau</string>
+			<string> Tournent autour du cheval</string>
+			<string>APPEAU</string>
+			<string>TAONS</string>
+		</array>
+		<array>
+			<string> Leurre et pipeau</string>
+			<string> Lézard</string>
+			<string>APPEAU</string>
+			<string>SEPS</string>
+		</array>
+		<array>
+			<string> Leurre et pipeau</string>
+			<string></string>
+			<string>APPEAU</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Leurre et pipeau</string>
+			<string> Gentleman cambrioleur</string>
+			<string>APPEAU</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Leurre et pipeau</string>
+			<string> Sommier</string>
+			<string>APPEAU</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string> Leurre et pipeau</string>
+			<string> Déferlements</string>
+			<string>APPEAU</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Père de l'église</string>
+			<string>ERE</string>
+			<string>IRENEE</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Tangibles</string>
+			<string>ERE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Époque</string>
+			<string> Ce qui donne du piquant</string>
+			<string>ERE</string>
+			<string>SEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Insensibles à la douleur</string>
+			<string>EROS</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Met à l'abri</string>
+			<string>EROS</string>
+			<string>RENTRE</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Tournent autour du cheval</string>
+			<string>EROS</string>
+			<string>TAONS</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Lézard</string>
+			<string>EROS</string>
+			<string>SEPS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une multitude</string>
+			<string> Gentleman cambrioleur</string>
+			<string>NUEE</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string> Une multitude</string>
+			<string> Sommier</string>
+			<string>NUEE</string>
+			<string>LINTEAU</string>
+		</array>
+		<array>
+			<string> Une multitude</string>
+			<string> Déferlements</string>
+			<string>NUEE</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Une multitude</string>
+			<string> Infinitif</string>
+			<string>NUEE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Se dit à Buenos Aires</string>
+			<string> Tangibles</string>
+			<string>EL</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Se dit à Buenos Aires</string>
+			<string> Ce qui donne du piquant</string>
+			<string>EL</string>
+			<string>SEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Insensibles à la douleur</string>
+			<string>SEN</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Met à l'abri</string>
+			<string>SEN</string>
+			<string>RENTRE</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Tournent autour du cheval</string>
+			<string>SEN</string>
+			<string>TAONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Cale</string>
+			<string> Remerciés</string>
+			<string>VE</string>
+			<string>VIRES</string>
+		</array>
+		<array>
+			<string> Cale</string>
+			<string> Gentleman cambrioleur</string>
+			<string>VE</string>
+			<string>ARSENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Déferlements</string>
+			<string>ERSE</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Infinitif</string>
+			<string>ERSE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Connaît.</string>
+			<string>ERSE</string>
+			<string>SAIT</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Tangibles</string>
+			<string>ERSE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Professeur</string>
+			<string> Insensibles à la douleur</string>
+			<string>INSTI</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Professeur</string>
+			<string> Met à l'abri</string>
+			<string>INSTI</string>
+			<string>RENTRE</string>
+		</array>
+		<array>
+			<string> Professeur</string>
+			<string> Tournent autour du cheval</string>
+			<string>INSTI</string>
+			<string>TAONS</string>
+		</array>
+		<array>
+			<string> Professeur</string>
+			<string> Technétium</string>
+			<string>INSTI</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string> Professeur</string>
+			<string> Remerciés</string>
+			<string>INSTI</string>
+			<string>VIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Dieu guerrier</string>
+			<string>AS</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Monnaie romaine</string>
+			<string> Déferlements</string>
+			<string>AS</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Connaît.</string>
+			<string>ALU</string>
+			<string>SAIT</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Tangibles</string>
+			<string>ALU</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Aluminium</string>
+			<string> Élimés</string>
+			<string>ALU</string>
+			<string>USES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Insensibles à la douleur</string>
+			<string>ET</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Jamais le dernier mot</string>
+			<string> Met à l'abri</string>
+			<string>ET</string>
+			<string>RENTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amérindiens appartenant à la famille algonquienne</string>
+			<string> Technétium</string>
+			<string>CRIS</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string> Amérindiens appartenant à la famille algonquienne</string>
+			<string> Remerciés</string>
+			<string>CRIS</string>
+			<string>VIRES</string>
+		</array>
+		<array>
+			<string> Amérindiens appartenant à la famille algonquienne</string>
+			<string> Fin de verbe</string>
+			<string>CRIS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Amérindiens appartenant à la famille algonquienne</string>
+			<string> Dieu guerrier</string>
+			<string>CRIS</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dialectes du nord de la France</string>
+			<string> Jamais</string>
+			<string>OILS</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string> Dialectes du nord de la France</string>
+			<string> Connaît.</string>
+			<string>OILS</string>
+			<string>SAIT</string>
+		</array>
+		<array>
+			<string> Dialectes du nord de la France</string>
+			<string> Tangibles</string>
+			<string>OILS</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Dialectes du nord de la France</string>
+			<string> Élimés</string>
+			<string>OILS</string>
+			<string>USES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Insensibles à la douleur</string>
+			<string>ERS</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Met à l'abri</string>
+			<string>ERS</string>
+			<string>RENTRE</string>
+		</array>
+		<array>
+			<string> Plante herbacée</string>
+			<string> Strontium.</string>
+			<string>ERS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Remerciés</string>
+			<string>EREINTEE</string>
+			<string>VIRES</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Fin de verbe</string>
+			<string>EREINTEE</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Dieu guerrier</string>
+			<string>EREINTEE</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> De déesse à vache</string>
+			<string>EREINTEE</string>
+			<string>IO</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Jamais</string>
+			<string>EREINTEE</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Connaît.</string>
+			<string>EREINTEE</string>
+			<string>SAIT</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Tangibles</string>
+			<string>EREINTEE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Critiquée</string>
+			<string> Élimés</string>
+			<string>EREINTEE</string>
+			<string>USES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Insensibles à la douleur</string>
+			<string>SERES</string>
+			<string>ANESTHESIEES</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Met à l'abri</string>
+			<string>SERES</string>
+			<string>RENTRE</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Strontium.</string>
+			<string>SERES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string></string>
+			<string>SERES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Fromages des Alpes</string>
+			<string> Remerciés</string>
+			<string>SERES</string>
+			<string>VIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Partie de charrue</string>
+			<string> Dieu guerrier</string>
+			<string>SOC</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Partie de charrue</string>
+			<string> De déesse à vache</string>
+			<string>SOC</string>
+			<string>IO</string>
+		</array>
+		<array>
+			<string> Partie de charrue</string>
+			<string> Jamais</string>
+			<string>SOC</string>
+			<string>ONC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Tangibles</string>
+			<string>SS</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string> Police nazi</string>
+			<string> Élimés</string>
+			<string>SS</string>
+			<string>USES</string>
+		</array>
+	</array>
+</array>
+</plist>

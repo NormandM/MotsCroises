@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Découpage</string>
+			<string>DEBROUILLARD</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Canal</string>
+			<string>DEBROUILLARD</string>
+			<string>ETIER</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Symbole chimique</string>
+			<string>DEBROUILLARD</string>
+			<string>BR</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Poulies</string>
+			<string>DEBROUILLARD</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Inflammation</string>
+			<string>DEBROUILLARD</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string></string>
+			<string>DEBROUILLARD</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Tournent dans un bocal</string>
+			<string>DEBROUILLARD</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Sables mouvants</string>
+			<string>DEBROUILLARD</string>
+			<string>LISES</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Terme de ping-pong</string>
+			<string>DEBROUILLARD</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Désinfecteras</string>
+			<string>DEBROUILLARD</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Vrai</string>
+			<string>DEBROUILLARD</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Ne se laisse pas dépasser par les évènements</string>
+			<string> Vouloir</string>
+			<string>DEBROUILLARD</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Personnes</string>
+			<string> Découpage</string>
+			<string>ETRES</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Canal</string>
+			<string>ETRES</string>
+			<string>ETIER</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Symbole chimique</string>
+			<string>ETRES</string>
+			<string>BR</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Poulies</string>
+			<string>ETRES</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Personnes</string>
+			<string> Inflammation</string>
+			<string>ETRES</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une note modifiée</string>
+			<string> Tournent dans un bocal</string>
+			<string>DIESEE</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Une note modifiée</string>
+			<string> Sables mouvants</string>
+			<string>DIESEE</string>
+			<string>LISES</string>
+		</array>
+		<array>
+			<string> Une note modifiée</string>
+			<string> Terme de ping-pong</string>
+			<string>DIESEE</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Une note modifiée</string>
+			<string> Désinfecteras</string>
+			<string>DIESEE</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Une note modifiée</string>
+			<string> Vrai</string>
+			<string>DIESEE</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Une note modifiée</string>
+			<string> Vouloir</string>
+			<string>DIESEE</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Abréviation de ici</string>
+			<string> Découpage</string>
+			<string>CI</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Abréviation de ici</string>
+			<string> Canal</string>
+			<string>CI</string>
+			<string>ETIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Poulies</string>
+			<string>ATTESTEES</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Inflammation</string>
+			<string>ATTESTEES</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Roche poreuse</string>
+			<string>ATTESTEES</string>
+			<string>TUF</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Tournent dans un bocal</string>
+			<string>ATTESTEES</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Sables mouvants</string>
+			<string>ATTESTEES</string>
+			<string>LISES</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Terme de ping-pong</string>
+			<string>ATTESTEES</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Désinfecteras</string>
+			<string>ATTESTEES</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Vrai</string>
+			<string>ATTESTEES</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Témoignées</string>
+			<string> Vouloir</string>
+			<string>ATTESTEES</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Découpage</string>
+			<string>HERSEUSE</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Canal</string>
+			<string>HERSEUSE</string>
+			<string>ETIER</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Prénom</string>
+			<string>HERSEUSE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Poulies</string>
+			<string>HERSEUSE</string>
+			<string>REAS</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Inflammation</string>
+			<string>HERSEUSE</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Roche poreuse</string>
+			<string>HERSEUSE</string>
+			<string>TUF</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Tournent dans un bocal</string>
+			<string>HERSEUSE</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Elle travaille au champs</string>
+			<string> Sables mouvants</string>
+			<string>HERSEUSE</string>
+			<string>LISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Missive</string>
+			<string> Désinfecteras</string>
+			<string>PLI</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Missive</string>
+			<string> Vrai</string>
+			<string>PLI</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Missive</string>
+			<string> Vouloir</string>
+			<string>PLI</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fait voir rouge</string>
+			<string> Découpage</string>
+			<string>IRE</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Fait voir rouge</string>
+			<string> Canal</string>
+			<string>IRE</string>
+			<string>ETIER</string>
+		</array>
+		<array>
+			<string> Fait voir rouge</string>
+			<string> Prénom</string>
+			<string>IRE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ilot français</string>
+			<string> Inflammation</string>
+			<string>IF</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string> Ilot français</string>
+			<string> Roche poreuse</string>
+			<string>IF</string>
+			<string>TUF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Sables mouvants</string>
+			<string>SET</string>
+			<string>LISES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Dans</string>
+			<string>SET</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Désinfecteras</string>
+			<string>SET</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Vouloir</string>
+			<string>R</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Découpage</string>
+			<string>Q</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Clair</string>
+			<string> Prénom</string>
+			<string>NET</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string>  Clair</string>
+			<string></string>
+			<string>NET</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>  Clair</string>
+			<string> Inflammation</string>
+			<string>NET</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Harnaches</string>
+			<string>E</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Dans</string>
+			<string>NIEE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Désinfecteras</string>
+			<string>NIEE</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Floués</string>
+			<string>NIEE</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Rejetée</string>
+			<string> Vouloir</string>
+			<string>NIEE</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fatigue</string>
+			<string> Découpage</string>
+			<string>USE</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Fatigue</string>
+			<string> Volumes de bois</string>
+			<string>USE</string>
+			<string>STERES</string>
+		</array>
+		<array>
+			<string> Fatigue</string>
+			<string> Prénom</string>
+			<string>USE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Intervalles de temps</string>
+			<string> Inflammation</string>
+			<string>EONS</string>
+			<string>OSTEITE</string>
+		</array>
+		<array>
+			<string> Intervalles de temps</string>
+			<string> Colore</string>
+			<string>EONS</string>
+			<string>OCRE</string>
+		</array>
+		<array>
+			<string> Intervalles de temps</string>
+			<string> Harnaches</string>
+			<string>EONS</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string> Intervalles de temps</string>
+			<string> Pronom</string>
+			<string>EONS</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Qui a un goût acide</string>
+			<string> Désinfecteras</string>
+			<string>SUR</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Qui a un goût acide</string>
+			<string> Floués</string>
+			<string>SUR</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string> Qui a un goût acide</string>
+			<string> Vouloir</string>
+			<string>SUR</string>
+			<string>DESIRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Liaison</string>
+			<string> Découpage</string>
+			<string>ET</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Volumes de bois</string>
+			<string>ET</string>
+			<string>STERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Lichen</string>
+			<string>U</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Colore</string>
+			<string>CREEES</string>
+			<string>OCRE</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Harnaches</string>
+			<string>CREEES</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Pronom</string>
+			<string>CREEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> D'un auxiliaire</string>
+			<string>CREEES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Désinfecteras</string>
+			<string>CREEES</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Inventées</string>
+			<string> Floués</string>
+			<string>CREEES</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Découpage</string>
+			<string>TESSERE</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Volumes de bois</string>
+			<string>TESSERE</string>
+			<string>STERES</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Offre</string>
+			<string>TESSERE</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Lichen</string>
+			<string>TESSERE</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string></string>
+			<string>TESSERE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Colore</string>
+			<string>TESSERE</string>
+			<string>OCRE</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Harnaches</string>
+			<string>TESSERE</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> D'un auxiliaire</string>
+			<string>UR</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Abraham y est né</string>
+			<string> Désinfecteras</string>
+			<string>UR</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Pronom</string>
+			<string>T</string>
+			<string>TE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Commune française</string>
+			<string> Découpage</string>
+			<string>AREN</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Volumes de bois</string>
+			<string>AREN</string>
+			<string>STERES</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Offre</string>
+			<string>AREN</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Lichen</string>
+			<string>AREN</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Colore</string>
+			<string>ENS</string>
+			<string>OCRE</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Harnaches</string>
+			<string>ENS</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string> Au centre de la pensée</string>
+			<string> Trime dur</string>
+			<string>ENS</string>
+			<string>SUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Désinfecteras</string>
+			<string>ASE</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Fils de Noé</string>
+			<string>ASE</string>
+			<string>SEM</string>
+		</array>
+		<array>
+			<string> Enzyme</string>
+			<string> Pronom</string>
+			<string>ASE</string>
+			<string>TE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Régie</string>
+			<string> Découpage</string>
+			<string>GEREE</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Régie</string>
+			<string> Volumes de bois</string>
+			<string>GEREE</string>
+			<string>STERES</string>
+		</array>
+		<array>
+			<string> Régie</string>
+			<string> Offre</string>
+			<string>GEREE</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Régie</string>
+			<string> Lichen</string>
+			<string>GEREE</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string> Régie</string>
+			<string> Infinitif</string>
+			<string>GEREE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Obtinsse</string>
+			<string> Harnaches</string>
+			<string>EUSSE</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string> Obtinsse</string>
+			<string> Trime dur</string>
+			<string>EUSSE</string>
+			<string>SUE</string>
+		</array>
+		<array>
+			<string> Obtinsse</string>
+			<string> Était dirigé par Himmler</string>
+			<string>EUSSE</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string> Obtinsse</string>
+			<string> Désinfecteras</string>
+			<string>EUSSE</string>
+			<string>ASEPTISERAS</string>
+		</array>
+		<array>
+			<string> Obtinsse</string>
+			<string> Fils de Noé</string>
+			<string>EUSSE</string>
+			<string>SEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Découpage</string>
+			<string>ESTERASES</string>
+			<string>DECHIQUETAGE</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Volumes de bois</string>
+			<string>ESTERASES</string>
+			<string>STERES</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Offre</string>
+			<string>ESTERASES</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Lichen</string>
+			<string>ESTERASES</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Infinitif</string>
+			<string>ESTERASES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string></string>
+			<string>ESTERASES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Harnaches</string>
+			<string>ESTERASES</string>
+			<string>ENRENES</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Trime dur</string>
+			<string>ESTERASES</string>
+			<string>SUE</string>
+		</array>
+		<array>
+			<string> Enzymes qui catalysent l'hydrolyse</string>
+			<string> Était dirigé par Himmler</string>
+			<string>ESTERASES</string>
+			<string>SS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Fils de Noé</string>
+			<string>ME</string>
+			<string>SEM</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string></string>
+			<string>ME</string>
+			<string>E</string>
+		</array>
+	</array>
+</array>
+</plist>

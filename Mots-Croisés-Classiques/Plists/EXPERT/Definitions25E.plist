@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Il est instable</string>
+			<string> D'une manière joyeuse</string>
+			<string>RADIOISOTOPE</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Esprit</string>
+			<string>RADIOISOTOPE</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Termes de belote</string>
+			<string>RADIOISOTOPE</string>
+			<string>DERS</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Se rendrais</string>
+			<string>RADIOISOTOPE</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string></string>
+			<string>RADIOISOTOPE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Font crié</string>
+			<string>RADIOISOTOPE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Possessif</string>
+			<string>RADIOISOTOPE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Ennui</string>
+			<string>RADIOISOTOPE</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> On y met la balle</string>
+			<string>RADIOISOTOPE</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Organisation dépendant de l'ONU</string>
+			<string>RADIOISOTOPE</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Lâcher des vents</string>
+			<string>RADIOISOTOPE</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Il est instable</string>
+			<string> Infinitif</string>
+			<string>RADIOISOTOPE</string>
+			<string>ER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rancunier</string>
+			<string> D'une manière joyeuse</string>
+			<string>AMER</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Rancunier</string>
+			<string> Esprit</string>
+			<string>AMER</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string> Rancunier</string>
+			<string> Termes de belote</string>
+			<string>AMER</string>
+			<string>DERS</string>
+		</array>
+		<array>
+			<string> Rancunier</string>
+			<string> Se rendrais</string>
+			<string>AMER</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> Font crié</string>
+			<string>RESEMER</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> Possessif</string>
+			<string>RESEMER</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> Ennui</string>
+			<string>RESEMER</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> On y met la balle</string>
+			<string>RESEMER</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> Organisation dépendant de l'ONU</string>
+			<string>RESEMER</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> Lâcher des vents</string>
+			<string>RESEMER</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Répandre à nouveau</string>
+			<string> Infinitif</string>
+			<string>RESEMER</string>
+			<string>ER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> D'une manière joyeuse</string>
+			<string>DERATES</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> Esprit</string>
+			<string>DERATES</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> Termes de belote</string>
+			<string>DERATES</string>
+			<string>DERS</string>
+		</array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> Se rendrais</string>
+			<string>DERATES</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> Un groupe musical</string>
+			<string>DERATES</string>
+			<string>TRIO</string>
+		</array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> Font crié</string>
+			<string>DERATES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Ils ont été opérés</string>
+			<string> Possessif</string>
+			<string>DERATES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> On y met la balle</string>
+			<string>EST</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Organisation dépendant de l'ONU</string>
+			<string>EST</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string> Levant</string>
+			<string> Lâcher des vents</string>
+			<string>EST</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> D'une manière joyeuse</string>
+			<string>I</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Termes de belote</string>
+			<string>SIRS</string>
+			<string>DERS</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Se rendrais</string>
+			<string>SIRS</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Un groupe musical</string>
+			<string>SIRS</string>
+			<string>TRIO</string>
+		</array>
+		<array>
+			<string> Titres honorifiques</string>
+			<string> Font crié</string>
+			<string>SIRS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie de bronze ou de cuivre</string>
+			<string> Lopins de terre</string>
+			<string>AS</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Monnaie de bronze ou de cuivre</string>
+			<string> On y met la balle</string>
+			<string>AS</string>
+			<string>TEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans la bouche du bavard</string>
+			<string> Lâcher des vents</string>
+			<string>ET</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Dans la bouche du bavard</string>
+			<string> Donner un troisième labour</string>
+			<string>ET</string>
+			<string>TERSER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> D'une manière joyeuse</string>
+			<string>ES</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Rétrécie</string>
+			<string>ES</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Se rendrais</string>
+			<string>SI</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Un groupe musical</string>
+			<string>SI</string>
+			<string>TRIO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conjonction</string>
+			<string> Pronom indéfini.</string>
+			<string>OR</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Conjonction</string>
+			<string> Lopins de terre</string>
+			<string>OR</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Les vaches y sont heureuses</string>
+			<string> À la fin d'une lettre</string>
+			<string>PRE</string>
+			<string>PS</string>
+		</array>
+		<array>
+			<string> Les vaches y sont heureuses</string>
+			<string> Lâcher des vents</string>
+			<string>PRE</string>
+			<string>PETER</string>
+		</array>
+		<array>
+			<string> Les vaches y sont heureuses</string>
+			<string> Donner un troisième labour</string>
+			<string>PRE</string>
+			<string>TERSER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Amérindien.</string>
+			<string> D'une manière joyeuse</string>
+			<string>UTE</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Rétrécie</string>
+			<string>UTE</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Abréviation religieuse</string>
+			<string>UTE</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mises en valeur</string>
+			<string> Un groupe musical</string>
+			<string>ORNEES</string>
+			<string>TRIO</string>
+		</array>
+		<array>
+			<string> Mises en valeur</string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>ORNEES</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string> Mises en valeur</string>
+			<string> Pronom indéfini.</string>
+			<string>ORNEES</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Mises en valeur</string>
+			<string> Lopins de terre</string>
+			<string>ORNEES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Mises en valeur</string>
+			<string> Déconfiture</string>
+			<string>ORNEES</string>
+			<string>ECHEC</string>
+		</array>
+		<array>
+			<string> Mises en valeur</string>
+			<string> À la fin d'une lettre</string>
+			<string>ORNEES</string>
+			<string>PS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Donner un troisième labour</string>
+			<string>R</string>
+			<string>TERSER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Distance</string>
+			<string> D'une manière joyeuse</string>
+			<string>SEME</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Distance</string>
+			<string> Rétrécie</string>
+			<string>SEME</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string> Distance</string>
+			<string> Abréviation religieuse</string>
+			<string>SEME</string>
+			<string>EM</string>
+		</array>
+		<array>
+			<string> Distance</string>
+			<string> Langue celtique</string>
+			<string>SEME</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>E</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Scandium</string>
+			<string> Lopins de terre</string>
+			<string>SC</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Scandium</string>
+			<string> Déconfiture</string>
+			<string>SC</string>
+			<string>ECHEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Moeurs</string>
+			<string> Se soulager</string>
+			<string>US</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Moeurs</string>
+			<string> Donner un troisième labour</string>
+			<string>US</string>
+			<string>TERSER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans</string>
+			<string> D'une manière joyeuse</string>
+			<string>EN</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Rétrécie</string>
+			<string>EN</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Doses de radiation</string>
+			<string> Langue celtique</string>
+			<string>REMS</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Doses de radiation</string>
+			<string></string>
+			<string>REMS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Doses de radiation</string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>REMS</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string> Doses de radiation</string>
+			<string> Redoutable chez les rapaces</string>
+			<string>REMS</string>
+			<string>SERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jeune cerf</string>
+			<string> Déconfiture</string>
+			<string>HERE</string>
+			<string>ECHEC</string>
+		</array>
+		<array>
+			<string> Jeune cerf</string>
+			<string></string>
+			<string>HERE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Jeune cerf</string>
+			<string> Se soulager</string>
+			<string>HERE</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Jeune cerf</string>
+			<string> Donner un troisième labour</string>
+			<string>HERE</string>
+			<string>TERSER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ils sont douze</string>
+			<string> D'une manière joyeuse</string>
+			<string>MOIS</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Ils sont douze</string>
+			<string> Rétrécie</string>
+			<string>MOIS</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string> Ils sont douze</string>
+			<string> Bois très durs</string>
+			<string>MOIS</string>
+			<string>IPES</string>
+		</array>
+		<array>
+			<string> Ils sont douze</string>
+			<string> Langue celtique</string>
+			<string>MOIS</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>UELE</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Redoutable chez les rapaces</string>
+			<string>UELE</string>
+			<string>SERRE</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string></string>
+			<string>UELE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Coule en Afrique</string>
+			<string> Déconfiture</string>
+			<string>UELE</string>
+			<string>ECHEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Se soulager</string>
+			<string>IR</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Donner un troisième labour</string>
+			<string>IR</string>
+			<string>TERSER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> D'une manière joyeuse</string>
+			<string>ESPERER</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> Rétrécie</string>
+			<string>ESPERER</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> Bois très durs</string>
+			<string>ESPERER</string>
+			<string>IPES</string>
+		</array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> Langue celtique</string>
+			<string>ESPERER</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> Crie</string>
+			<string>ESPERER</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>ESPERER</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string> Avoir confiance</string>
+			<string> Redoutable chez les rapaces</string>
+			<string>ESPERER</string>
+			<string>SERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Imbécile</string>
+			<string> Déconfiture</string>
+			<string>CON</string>
+			<string>ECHEC</string>
+		</array>
+		<array>
+			<string> Imbécile</string>
+			<string> N'hésite pas</string>
+			<string>CON</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Imbécile</string>
+			<string> Se soulager</string>
+			<string>CON</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Sortie</string>
+			<string> D'une manière joyeuse</string>
+			<string>NEE</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Rétrécie</string>
+			<string>NEE</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Bois très durs</string>
+			<string>NEE</string>
+			<string>IPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Crie</string>
+			<string>EURE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>EURE</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string> Redoutable chez les rapaces</string>
+			<string>EURE</string>
+			<string>SERRE</string>
+		</array>
+		<array>
+			<string> Affluent de la Seine</string>
+			<string></string>
+			<string>EURE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> N'hésite pas</string>
+			<string>SET</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Se soulager</string>
+			<string>SET</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Pronom</string>
+			<string>SET</string>
+			<string>TE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> D'une manière joyeuse</string>
+			<string>TESSERE</string>
+			<string>RADIEUSEMENT</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Rétrécie</string>
+			<string>TESSERE</string>
+			<string>STENOSEE</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Bois très durs</string>
+			<string>TESSERE</string>
+			<string>IPES</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string></string>
+			<string>TESSERE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Crie</string>
+			<string>TESSERE</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Il doit s'occuper des bouteilles de champagne</string>
+			<string>TESSERE</string>
+			<string>REMUEUR</string>
+		</array>
+		<array>
+			<string> Un vieux jeton</string>
+			<string> Redoutable chez les rapaces</string>
+			<string>TESSERE</string>
+			<string>SERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string></string>
+			<string>SERE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> N'hésite pas</string>
+			<string>SERE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Se soulager</string>
+			<string>SERE</string>
+			<string>URINER</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Pronom</string>
+			<string>SERE</string>
+			<string>TE</string>
+		</array>
+	</array>
+</array>
+</plist>

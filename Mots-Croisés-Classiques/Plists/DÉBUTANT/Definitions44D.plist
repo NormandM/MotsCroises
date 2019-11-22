@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Vacarme</string>
+			<string> Se tromper</string>
+			<string>CACOPHONIE</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Blonds breuvages</string>
+			<string>CACOPHONIE</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Adjectif démonstratif</string>
+			<string>CACOPHONIE</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> D&apos;une expression signifiant</string>
+			<string>CACOPHONIE</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Platine</string>
+			<string>CACOPHONIE</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Unité de temps</string>
+			<string>CACOPHONIE</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Ornée</string>
+			<string>CACOPHONIE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Arrivée</string>
+			<string>CACOPHONIE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> En vogue</string>
+			<string>CACOPHONIE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Vacarme</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>CACOPHONIE</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Informèrent</string>
+			<string> Se tromper</string>
+			<string>ALERTERENT</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Blonds breuvages</string>
+			<string>ALERTERENT</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Adjectif démonstratif</string>
+			<string>ALERTERENT</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> D&apos;une expression signifiant</string>
+			<string>ALERTERENT</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Platine</string>
+			<string>ALERTERENT</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Unité de temps</string>
+			<string>ALERTERENT</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Ornée</string>
+			<string>ALERTERENT</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Arrivée</string>
+			<string>ALERTERENT</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> En vogue</string>
+			<string>ALERTERENT</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Informèrent</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>ALERTERENT</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Foire</string>
+			<string> Se tromper</string>
+			<string>FETE</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Foire</string>
+			<string> Blonds breuvages</string>
+			<string>FETE</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string> Foire</string>
+			<string> Adjectif démonstratif</string>
+			<string>FETE</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string> Foire</string>
+			<string> D&apos;une expression signifiant</string>
+			<string>FETE</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Première page</string>
+			<string> Unité de temps</string>
+			<string>UNE</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Première page</string>
+			<string> Ornée</string>
+			<string>UNE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Première page</string>
+			<string> Arrivée</string>
+			<string>UNE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>E</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Un ennui</string>
+			<string> Se tromper</string>
+			<string>OS</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Un ennui</string>
+			<string> Blonds breuvages</string>
+			<string>OS</string>
+			<string>ALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> D&apos;une expression signifiant</string>
+			<string>SERE</string>
+			<string>ORES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Orient.</string>
+			<string>SERE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Unité de temps</string>
+			<string>SERE</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Ornée</string>
+			<string>SERE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Il y en a dans le poisson</string>
+			<string>AS</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> Du verbe avoir</string>
+			<string> Ils sont parfois pluvieux</string>
+			<string>AS</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Se tromper</string>
+			<string>U</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Possédées</string>
+			<string>E</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Répandre</string>
+			<string> Orient.</string>
+			<string>SEMER</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Répandre</string>
+			<string> Unité de temps</string>
+			<string>SEMER</string>
+			<string>HEURE</string>
+		</array>
+		<array>
+			<string> Répandre</string>
+			<string> Ornée</string>
+			<string>SEMER</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Répandre</string>
+			<string> Age</string>
+			<string>SEMER</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Répandre</string>
+			<string> Il y en a dans le poisson</string>
+			<string>SEMER</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Habitant du nord</string>
+			<string> Se tromper</string>
+			<string>INUIT</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Habitant du nord</string>
+			<string> Réfutera</string>
+			<string>INUIT</string>
+			<string>NIERA</string>
+		</array>
+		<array>
+			<string> Habitant du nord</string>
+			<string> Possédées</string>
+			<string>INUIT</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Habitant du nord</string>
+			<string> Fin de verbe</string>
+			<string>INUIT</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Habitant du nord</string>
+			<string> Orient.</string>
+			<string>INUIT</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Ornée</string>
+			<string>ERES</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Age</string>
+			<string>ERES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Il y en a dans le poisson</string>
+			<string>ERES</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps.</string>
+			<string> Isolée</string>
+			<string>ERES</string>
+			<string>SEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Nouer</string>
+			<string> Se tromper</string>
+			<string>LIER</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Réfutera</string>
+			<string>LIER</string>
+			<string>NIERA</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Possédées</string>
+			<string>LIER</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Fin de verbe</string>
+			<string>LIER</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Grossesse extra-utérine</string>
+			<string>GNETE</string>
+			<string>GEU</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Ornée</string>
+			<string>GNETE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Age</string>
+			<string>GNETE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Il y en a dans le poisson</string>
+			<string>GNETE</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> Plante ligneuse à grande feuille</string>
+			<string> Isolée</string>
+			<string>GNETE</string>
+			<string>SEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Se tromper</string>
+			<string>LES</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Réfutera</string>
+			<string>LES</string>
+			<string>NIERA</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Possédées</string>
+			<string>LES</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Possessif.</string>
+			<string>SET</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Grossesse extra-utérine</string>
+			<string>SET</string>
+			<string>GEU</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Ornée</string>
+			<string>SET</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> D&apos;un auxiliaire</string>
+			<string> Il y en a dans le poisson</string>
+			<string>EU</string>
+			<string>ARETE</string>
+		</array>
+		<array>
+			<string> D&apos;un auxiliaire</string>
+			<string> Isolée</string>
+			<string>EU</string>
+			<string>SEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Se tromper</string>
+			<string>ER</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Réfutera</string>
+			<string>ER</string>
+			<string>NIERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mortes depuis peu de temps</string>
+			<string> Fer</string>
+			<string>FEUES</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string> Mortes depuis peu de temps</string>
+			<string> Possessif.</string>
+			<string>FEUES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Mortes depuis peu de temps</string>
+			<string> Grossesse extra-utérine</string>
+			<string>FEUES</string>
+			<string>GEU</string>
+		</array>
+		<array>
+			<string> Mortes depuis peu de temps</string>
+			<string> Ornée</string>
+			<string>FEUES</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Mortes depuis peu de temps</string>
+			<string> Strontium.</string>
+			<string>FEUES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Isolée</string>
+			<string>L</string>
+			<string>SEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Avirons</string>
+			<string> Se tromper</string>
+			<string>RAMES</string>
+			<string>CAFOUILLER</string>
+		</array>
+		<array>
+			<string> Avirons</string>
+			<string> Réfutera</string>
+			<string>RAMES</string>
+			<string>NIERA</string>
+		</array>
+		<array>
+			<string> Avirons</string>
+			<string></string>
+			<string>RAMES</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Avirons</string>
+			<string> Fer</string>
+			<string>RAMES</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string> Avirons</string>
+			<string> Possessif.</string>
+			<string>RAMES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Ornée</string>
+			<string>ERSE</string>
+			<string>ORNEMENTEE</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Strontium.</string>
+			<string>ERSE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string></string>
+			<string>ERSE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Isolée</string>
+			<string>ERSE</string>
+			<string>SEULE</string>
+		</array>
+	</array>
+</array>
+</plist>

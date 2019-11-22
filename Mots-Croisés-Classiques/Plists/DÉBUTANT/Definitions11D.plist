@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Prend son temps</string>
+			<string>ESPAGNOLES</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Poisson osseux</string>
+			<string>ESPAGNOLES</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Une moitié de journée</string>
+			<string>ESPAGNOLES</string>
+			<string>PM</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string>Premier ministre japonais</string>
+			<string>ESPAGNOLES</string>
+			<string>ABE</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Muflerie</string>
+			<string>ESPAGNOLES</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Nuage</string>
+			<string>ESPAGNOLES</string>
+			<string>NUEE</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> On en fait des bagues</string>
+			<string>ESPAGNOLES</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Nouées</string>
+			<string>ESPAGNOLES</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string>Têtus</string>
+			<string>ESPAGNOLES</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string> Elles habitent peut-être à Madrid</string>
+			<string> Pronom</string>
+			<string>ESPAGNOLES</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pianote</string>
+			<string> Prend son temps</string>
+			<string>TAMBOURINE</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> Poisson osseux</string>
+			<string>TAMBOURINE</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> Une moitié de journée</string>
+			<string>TAMBOURINE</string>
+			<string>PM</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string>Premier ministre japonais</string>
+			<string>TAMBOURINE</string>
+			<string>ABE</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> Muflerie</string>
+			<string>TAMBOURINE</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> Nuage</string>
+			<string>TAMBOURINE</string>
+			<string>NUEE</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> On en fait des bagues</string>
+			<string>TAMBOURINE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> Nouées</string>
+			<string>TAMBOURINE</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string>Têtus</string>
+			<string>TAMBOURINE</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string> Pianote</string>
+			<string> Pronom</string>
+			<string>TAMBOURINE</string>
+			<string>SE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Prend son temps</string>
+			<string>ER</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Poisson osseux</string>
+			<string>ER</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string>Premier ministre japonais</string>
+			<string>EUE</string>
+			<string>ABE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Muflerie</string>
+			<string>EUE</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Nuage</string>
+			<string>EUE</string>
+			<string>NUEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Extra terrestre</string>
+			<string> Nouées</string>
+			<string>ET</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Extra terrestre</string>
+			<string>Têtus</string>
+			<string>ET</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Prend son temps</string>
+			<string>R</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Étendues</string>
+			<string>E</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lancées</string>
+			<string> Muflerie</string>
+			<string>JETEES</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Lancées</string>
+			<string> Nuage</string>
+			<string>JETEES</string>
+			<string>NUEE</string>
+		</array>
+		<array>
+			<string> Lancées</string>
+			<string> Vérifie</string>
+			<string>JETEES</string>
+			<string>TESTE</string>
+		</array>
+		<array>
+			<string> Lancées</string>
+			<string> Nouées</string>
+			<string>JETEES</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Lancées</string>
+			<string>Têtus</string>
+			<string>JETEES</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string> Lancées</string>
+			<string> Possessif.</string>
+			<string>JETEES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville de la Slovaquie</string>
+			<string> Prend son temps</string>
+			<string>NITRA</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Ville de la Slovaquie</string>
+			<string> Inanimé</string>
+			<string>NITRA</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Ville de la Slovaquie</string>
+			<string> Étendues</string>
+			<string>NITRA</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string> Ville de la Slovaquie</string>
+			<string></string>
+			<string>NITRA</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Ville de la Slovaquie</string>
+			<string> Muflerie</string>
+			<string>NITRA</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Vérifie</string>
+			<string>ESTE</string>
+			<string>TESTE</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Nouées</string>
+			<string>ESTE</string>
+			<string>LIEES</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string>Têtus</string>
+			<string>ESTE</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string> Une noble famille d&apos;Italie</string>
+			<string> Possessif.</string>
+			<string>ESTE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string> Prend son temps</string>
+			<string>INA</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string> Inanimé</string>
+			<string>INA</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string> Étendues</string>
+			<string>INA</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Muflerie</string>
+			<string>TES</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Du verbe être</string>
+			<string>TES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Vérifie</string>
+			<string>TES</string>
+			<string>TESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string>Têtus</string>
+			<string>ES</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string> Avant un titre universitaire</string>
+			<string> Possessif.</string>
+			<string>ES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Prend son temps</string>
+			<string>SELLETTES</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Inanimé</string>
+			<string>SELLETTES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Étendues</string>
+			<string>SELLETTES</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string></string>
+			<string>SELLETTES</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Muflerie</string>
+			<string>SELLETTES</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Du verbe être</string>
+			<string>SELLETTES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Vérifie</string>
+			<string>SELLETTES</string>
+			<string>TESTE</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string> Portée au pouvoir</string>
+			<string>SELLETTES</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string> Petits sieges</string>
+			<string>Têtus</string>
+			<string>SELLETTES</string>
+			<string>ENTETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Age</string>
+			<string> Prend son temps</string>
+			<string>ERE</string>
+			<string>ETERNISE</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Inanimé</string>
+			<string>ERE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Age</string>
+			<string> Étendues</string>
+			<string>ERE</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tangible</string>
+			<string> Muflerie</string>
+			<string>REEL</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Tangible</string>
+			<string> Du verbe être</string>
+			<string>REEL</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string> Tangible</string>
+			<string> Vérifie</string>
+			<string>REEL</string>
+			<string>TESTE</string>
+		</array>
+		<array>
+			<string> Tangible</string>
+			<string> Portée au pouvoir</string>
+			<string>REEL</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Champion</string>
+			<string>A</string>
+			<string>AS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Inanimé</string>
+			<string>TE</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Règle</string>
+			<string> Étendues</string>
+			<string>TE</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Muflerie</string>
+			<string>I</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Entreprise postale</string>
+			<string> Portée au pouvoir</string>
+			<string>UPS</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string> Entreprise postale</string>
+			<string> À la fin d&apos;une lettre</string>
+			<string>UPS</string>
+			<string>PS</string>
+		</array>
+		<array>
+			<string> Entreprise postale</string>
+			<string> Champion</string>
+			<string>UPS</string>
+			<string>AS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string> Inanimé</string>
+			<string>SESTERCES</string>
+			<string>INERTE</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string> Étendues</string>
+			<string>SESTERCES</string>
+			<string>ETALEES</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string> Muflerie</string>
+			<string>SESTERCES</string>
+			<string>GOUJATERIE</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string></string>
+			<string>SESTERCES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string> Portée au pouvoir</string>
+			<string>SESTERCES</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string> Monnaies romaines</string>
+			<string> À la fin d&apos;une lettre</string>
+			<string>SESTERCES</string>
+			<string>PS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

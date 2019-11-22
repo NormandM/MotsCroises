@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Approbation</string>
+			<string>PERTURBEES</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Enseignes de guerre</string>
+			<string>PERTURBEES</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Désert rocheux</string>
+			<string>PERTURBEES</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Façon de mesurer</string>
+			<string>PERTURBEES</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Avant les autres</string>
+			<string>PERTURBEES</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Trompait</string>
+			<string>PERTURBEES</string>
+			<string>RUSAIT</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Frappé d&apos;admiration</string>
+			<string>PERTURBEES</string>
+			<string>BEE</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Existes</string>
+			<string>PERTURBEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string></string>
+			<string>PERTURBEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Bouleversées</string>
+			<string>Disperserais</string>
+			<string>PERTURBEES</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Approbation</string>
+			<string>ETERNUES</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Enseignes de guerre</string>
+			<string>ETERNUES</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Désert rocheux</string>
+			<string>ETERNUES</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Façon de mesurer</string>
+			<string>ETERNUES</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Avant les autres</string>
+			<string>ETERNUES</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Trompait</string>
+			<string>ETERNUES</string>
+			<string>RUSAIT</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Frappé d&apos;admiration</string>
+			<string>ETERNUES</string>
+			<string>BEE</string>
+		</array>
+		<array>
+			<string>Expulsions brusques et bruyantes</string>
+			<string>Existes</string>
+			<string>ETERNUES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Disperserais</string>
+			<string>E</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dirige</string>
+			<string>Approbation</string>
+			<string>REGISSE</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Dirige</string>
+			<string>Enseignes de guerre</string>
+			<string>REGISSE</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Dirige</string>
+			<string>Désert rocheux</string>
+			<string>REGISSE</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string>Dirige</string>
+			<string>Façon de mesurer</string>
+			<string>REGISSE</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Dirige</string>
+			<string>Avant les autres</string>
+			<string>REGISSE</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string>Dirige</string>
+			<string>Trompait</string>
+			<string>REGISSE</string>
+			<string>RUSAIT</string>
+		</array>
+		<array>
+			<string>Dirige</string>
+			<string>Frappé d&apos;admiration</string>
+			<string>REGISSE</string>
+			<string>BEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une moitié de journée</string>
+			<string>Préconisera</string>
+			<string>PM</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Une moitié de journée</string>
+			<string>Disperserais</string>
+			<string>PM</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Manganèse</string>
+			<string>Approbation</string>
+			<string>MN</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Manganèse</string>
+			<string>Enseignes de guerre</string>
+			<string>MN</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Façon de mesurer</string>
+			<string>A</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Trompait</string>
+			<string>A</string>
+			<string>RUSAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Convenance</string>
+			<string>Très important dans un Martini</string>
+			<string>GRE</string>
+			<string>GIN</string>
+		</array>
+		<array>
+			<string>Convenance</string>
+			<string>Préconisera</string>
+			<string>GRE</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Convenance</string>
+			<string>Disperserais</string>
+			<string>GRE</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Approbation</string>
+			<string>IDENTIFIER</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Enseignes de guerre</string>
+			<string>IDENTIFIER</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>À l&apos;intérieur</string>
+			<string>IDENTIFIER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Façon de mesurer</string>
+			<string>IDENTIFIER</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string></string>
+			<string>IDENTIFIER</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Trompait</string>
+			<string>IDENTIFIER</string>
+			<string>RUSAIT</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Façons</string>
+			<string>IDENTIFIER</string>
+			<string>FAIRES</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Très important dans un Martini</string>
+			<string>IDENTIFIER</string>
+			<string>GIN</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Préconisera</string>
+			<string>IDENTIFIER</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Reconnaître la nature de…</string>
+			<string>Disperserais</string>
+			<string>IDENTIFIER</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Liquide rouge</string>
+			<string>Approbation</string>
+			<string>SANG</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Liquide rouge</string>
+			<string>Enseignes de guerre</string>
+			<string>SANG</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Liquide rouge</string>
+			<string>À l&apos;intérieur</string>
+			<string>SANG</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Liquide rouge</string>
+			<string>Façon de mesurer</string>
+			<string>SANG</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Réprimanda</string>
+			<string>Trompait</string>
+			<string>TANCA</string>
+			<string>RUSAIT</string>
+		</array>
+		<array>
+			<string>Réprimanda</string>
+			<string>Façons</string>
+			<string>TANCA</string>
+			<string>FAIRES</string>
+		</array>
+		<array>
+			<string>Réprimanda</string>
+			<string>Très important dans un Martini</string>
+			<string>TANCA</string>
+			<string>GIN</string>
+		</array>
+		<array>
+			<string>Réprimanda</string>
+			<string>Préconisera</string>
+			<string>TANCA</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Réprimanda</string>
+			<string>Disperserais</string>
+			<string>TANCA</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Strontium</string>
+			<string>Approbation</string>
+			<string>SR</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Strontium</string>
+			<string>Enseignes de guerre</string>
+			<string>SR</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ancienne cité</string>
+			<string>Façon de mesurer</string>
+			<string>UR</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Ancienne cité</string>
+			<string>La dernière respiration</string>
+			<string>UR</string>
+			<string>RALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Façons</string>
+			<string>I</string>
+			<string>FAIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Demi rire</string>
+			<string>Préconisera</string>
+			<string>HI</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Demi rire</string>
+			<string>Disperserais</string>
+			<string>HI</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Approbation</string>
+			<string>IDOLATRIES</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Enseignes de guerre</string>
+			<string>IDOLATRIES</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Risque</string>
+			<string>IDOLATRIES</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Façon de mesurer</string>
+			<string>IDOLATRIES</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>La dernière respiration</string>
+			<string>IDOLATRIES</string>
+			<string>RALE</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Thallium</string>
+			<string>IDOLATRIES</string>
+			<string>TL</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Façons</string>
+			<string>IDOLATRIES</string>
+			<string>FAIRES</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string></string>
+			<string>IDOLATRIES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Préconisera</string>
+			<string>IDOLATRIES</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Fétichismes</string>
+			<string>Disperserais</string>
+			<string>IDOLATRIES</string>
+			<string>SEMERAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>Approbation</string>
+			<string>OSSELLE</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>Enseignes de guerre</string>
+			<string>OSSELLE</string>
+			<string>ETENDARDS</string>
+		</array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>Risque</string>
+			<string>OSSELLE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>Façon de mesurer</string>
+			<string>OSSELLE</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>La dernière respiration</string>
+			<string>OSSELLE</string>
+			<string>RALE</string>
+		</array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>Thallium</string>
+			<string>OSSELLE</string>
+			<string>TL</string>
+		</array>
+		<array>
+			<string>Plante cultivée pour son goût acide</string>
+			<string>Façons</string>
+			<string>OSSELLE</string>
+			<string>FAIRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Préconisera</string>
+			<string>R</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Approbation</string>
+			<string>N</string>
+			<string>PERMISSION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>Risque</string>
+			<string>ERE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>Façon de mesurer</string>
+			<string>ERE</string>
+			<string>TRIANGULER</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>La dernière respiration</string>
+			<string>ERE</string>
+			<string>RALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pourriel</string>
+			<string>Façons</string>
+			<string>SPAM</string>
+			<string>FAIRES</string>
+		</array>
+		<array>
+			<string>Pourriel</string>
+			<string></string>
+			<string>SPAM</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Pourriel</string>
+			<string>Préconisera</string>
+			<string>SPAM</string>
+			<string>PRECHERA</string>
+		</array>
+		<array>
+			<string>Pourriel</string>
+			<string></string>
+			<string>SPAM</string>
+			<string>M</string>
+		</array>
+	</array>
+</array>
+</plist>

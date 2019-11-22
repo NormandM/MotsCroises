@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Certains sont éditorialistes</string>
+			<string>JOUVENCELLES</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Régulations des naissances</string>
+			<string>JOUVENCELLES</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Première page</string>
+			<string>JOUVENCELLES</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Encore actif en Italie</string>
+			<string>JOUVENCELLES</string>
+			<string>VESUVE</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Infinitif</string>
+			<string>JOUVENCELLES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string></string>
+			<string>JOUVENCELLES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Champignon</string>
+			<string>JOUVENCELLES</string>
+			<string>CEPE</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Dont la position est indéterminée</string>
+			<string>JOUVENCELLES</string>
+			<string>ENIEME</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Symbole chimique</string>
+			<string>JOUVENCELLES</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string>  Général sudiste</string>
+			<string>JOUVENCELLES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string> Ultérieurement</string>
+			<string>JOUVENCELLES</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Jeunes filles</string>
+			<string>  Napperons.</string>
+			<string>JOUVENCELLES</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Agrémenter</string>
+			<string> Certains sont éditorialistes</string>
+			<string>ORNER</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Agrémenter</string>
+			<string> Régulations des naissances</string>
+			<string>ORNER</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Agrémenter</string>
+			<string> Première page</string>
+			<string>ORNER</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Agrémenter</string>
+			<string> Encore actif en Italie</string>
+			<string>ORNER</string>
+			<string>VESUVE</string>
+		</array>
+		<array>
+			<string> Agrémenter</string>
+			<string> Infinitif</string>
+			<string>ORNER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Champignon</string>
+			<string>ENRENE</string>
+			<string>CEPE</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Dont la position est indéterminée</string>
+			<string>ENRENE</string>
+			<string>ENIEME</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Symbole chimique</string>
+			<string>ENRENE</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string>  Général sudiste</string>
+			<string>ENRENE</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string> Ultérieurement</string>
+			<string>ENRENE</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Harnache</string>
+			<string>  Napperons.</string>
+			<string>ENRENE</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Certains sont éditorialistes</string>
+			<string>UTES</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Régulations des naissances</string>
+			<string>UTES</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Première page</string>
+			<string>UTES</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string> Amérindiens</string>
+			<string> Encore actif en Italie</string>
+			<string>UTES</string>
+			<string>VESUVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mèche</string>
+			<string> Dispose régulièrement</string>
+			<string>EPI</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string> Mèche</string>
+			<string> Champignon</string>
+			<string>EPI</string>
+			<string>CEPE</string>
+		</array>
+		<array>
+			<string> Mèche</string>
+			<string> Dont la position est indéterminée</string>
+			<string>EPI</string>
+			<string>ENIEME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string>  Général sudiste</string>
+			<string>EST</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string> Ultérieurement</string>
+			<string>EST</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Orient</string>
+			<string>  Napperons.</string>
+			<string>EST</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dans le sang de certains</string>
+			<string> Certains sont éditorialistes</string>
+			<string>RH</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Dans le sang de certains</string>
+			<string> Régulations des naissances</string>
+			<string>RH</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Lichens</string>
+			<string> Encore actif en Italie</string>
+			<string>USNEES</string>
+			<string>VESUVE</string>
+		</array>
+		<array>
+			<string> Lichens</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>USNEES</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Lichens</string>
+			<string> Dispose régulièrement</string>
+			<string>USNEES</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string> Lichens</string>
+			<string> Champignon</string>
+			<string>USNEES</string>
+			<string>CEPE</string>
+		</array>
+		<array>
+			<string> Lichens</string>
+			<string> Dont la position est indéterminée</string>
+			<string>USNEES</string>
+			<string>ENIEME</string>
+		</array>
+		<array>
+			<string> Lichens</string>
+			<string> Tamise</string>
+			<string>USNEES</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Moeurs</string>
+			<string> Ultérieurement</string>
+			<string>US</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Moeurs</string>
+			<string>  Napperons.</string>
+			<string>US</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Architecte français</string>
+			<string> Certains sont éditorialistes</string>
+			<string>NOUVEL</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Architecte français</string>
+			<string> Régulations des naissances</string>
+			<string>NOUVEL</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Architecte français</string>
+			<string> Avant les autres</string>
+			<string>NOUVEL</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string> Architecte français</string>
+			<string> Encore actif en Italie</string>
+			<string>NOUVEL</string>
+			<string>VESUVE</string>
+		</array>
+		<array>
+			<string> Architecte français</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>NOUVEL</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Architecte français</string>
+			<string> Dispose régulièrement</string>
+			<string>NOUVEL</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Il s&apos;est uni</string>
+			<string> Dont la position est indéterminée</string>
+			<string>MARI</string>
+			<string>ENIEME</string>
+		</array>
+		<array>
+			<string> Il s&apos;est uni</string>
+			<string> Tamise</string>
+			<string>MARI</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string> Il s&apos;est uni</string>
+			<string></string>
+			<string>MARI</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Il s&apos;est uni</string>
+			<string> Ultérieurement</string>
+			<string>MARI</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Certains sont éditorialistes</string>
+			<string>AGNELINES</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Régulations des naissances</string>
+			<string>AGNELINES</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Avant les autres</string>
+			<string>AGNELINES</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Encore actif en Italie</string>
+			<string>AGNELINES</string>
+			<string>VESUVE</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>AGNELINES</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Dispose régulièrement</string>
+			<string>AGNELINES</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Clarinettiste de jazz</string>
+			<string>AGNELINES</string>
+			<string>NOONE</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Dont la position est indéterminée</string>
+			<string>AGNELINES</string>
+			<string>ENIEME</string>
+		</array>
+		<array>
+			<string> Laines soyeuses et frisées</string>
+			<string> Tamise</string>
+			<string>AGNELINES</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Ultérieurement</string>
+			<string>TR</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Ressassée</string>
+			<string>TR</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Article</string>
+			<string> Certains sont éditorialistes</string>
+			<string>LES</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Régulations des naissances</string>
+			<string>LES</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Article</string>
+			<string> Avant les autres</string>
+			<string>LES</string>
+			<string>UNS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de psychanalyse</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>EGO</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Terme de psychanalyse</string>
+			<string> Dispose régulièrement</string>
+			<string>EGO</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string> Terme de psychanalyse</string>
+			<string> Clarinettiste de jazz</string>
+			<string>EGO</string>
+			<string>NOONE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Tamise</string>
+			<string>SUEE</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Nous empoisonnent la vie</string>
+			<string>SUEE</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Ultérieurement</string>
+			<string>SUEE</string>
+			<string>ENSUITE</string>
+		</array>
+		<array>
+			<string> Conséquence d&apos;une agitation</string>
+			<string> Ressassée</string>
+			<string>SUEE</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> À la mode</string>
+			<string> Certains sont éditorialistes</string>
+			<string>IN</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> À la mode</string>
+			<string> Régulations des naissances</string>
+			<string>IN</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string></string>
+			<string>INNOVER</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>INNOVER</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string> Dispose régulièrement</string>
+			<string>INNOVER</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string> Clarinettiste de jazz</string>
+			<string>INNOVER</string>
+			<string>NOONE</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string> Loue</string>
+			<string>INNOVER</string>
+			<string>VANTE</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string> Tamise</string>
+			<string>INNOVER</string>
+			<string>SASSE</string>
+		</array>
+		<array>
+			<string> Changer</string>
+			<string> Nous empoisonnent la vie</string>
+			<string>INNOVER</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ressassée</string>
+			<string>P</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Situé</string>
+			<string> Certains sont éditorialistes</string>
+			<string>SIS</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> Régulations des naissances</string>
+			<string>SIS</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Situé</string>
+			<string> Métal malléable</string>
+			<string>SIS</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>IENA</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Dispose régulièrement</string>
+			<string>IENA</string>
+			<string>ENLIGNE</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Clarinettiste de jazz</string>
+			<string>IENA</string>
+			<string>NOONE</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Loue</string>
+			<string>IENA</string>
+			<string>VANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Nous empoisonnent la vie</string>
+			<string>ERE</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Note</string>
+			<string>ERE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Ressassée</string>
+			<string>ERE</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Raidi</string>
+			<string> Certains sont éditorialistes</string>
+			<string>TENDU</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Raidi</string>
+			<string> Régulations des naissances</string>
+			<string>TENDU</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string> Raidi</string>
+			<string> Métal malléable</string>
+			<string>TENDU</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Raidi</string>
+			<string> Grades des arts martiaux</string>
+			<string>TENDU</string>
+			<string>DAN</string>
+		</array>
+		<array>
+			<string> Raidi</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>TENDU</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Clarinettiste de jazz</string>
+			<string>ENTEES</string>
+			<string>NOONE</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Loue</string>
+			<string>ENTEES</string>
+			<string>VANTE</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Le troisième</string>
+			<string>ENTEES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Nous empoisonnent la vie</string>
+			<string>ENTEES</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Note</string>
+			<string>ENTEES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Greffées</string>
+			<string> Ressassée</string>
+			<string>ENTEES</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Certains sont éditorialistes</string>
+			<string>ES</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Régulations des naissances</string>
+			<string>ES</string>
+			<string>ORTHOGENIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une pièce d&apos;un violon</string>
+			<string> Grades des arts martiaux</string>
+			<string>AME</string>
+			<string>DAN</string>
+		</array>
+		<array>
+			<string> Une pièce d&apos;un violon</string>
+			<string> Utilisé dans la fabrication des cellules photoélectriques</string>
+			<string>AME</string>
+			<string>SELENIUM</string>
+		</array>
+		<array>
+			<string> Une pièce d&apos;un violon</string>
+			<string> Se dit à Buenos Aires</string>
+			<string>AME</string>
+			<string>EL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Loue</string>
+			<string>TES</string>
+			<string>VANTE</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Le troisième</string>
+			<string>TES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>  Règles</string>
+			<string> Nous empoisonnent la vie</string>
+			<string>TES</string>
+			<string>UREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ressassée</string>
+			<string>E</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Certains sont éditorialistes</string>
+			<string>S</string>
+			<string>JOURNALISTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string></string>
+			<string>ON</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Pronom indéfini.</string>
+			<string> Grades des arts martiaux</string>
+			<string>ON</string>
+			<string>DAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Se dit à Buenos Aires</string>
+			<string>LIER</string>
+			<string>EL</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string></string>
+			<string>LIER</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Loue</string>
+			<string>LIER</string>
+			<string>VANTE</string>
+		</array>
+		<array>
+			<string> Nouer</string>
+			<string> Le troisième</string>
+			<string>LIER</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string></string>
+			<string>SE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Ressassée</string>
+			<string>SE</string>
+			<string>REPESEE</string>
+		</array>
+	</array>
+</array>
+</plist>

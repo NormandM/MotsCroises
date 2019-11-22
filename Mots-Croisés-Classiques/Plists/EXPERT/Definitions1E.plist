@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Un groupe</string>
+			<string>OUVREBOITES</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Paresseux</string>
+			<string>OUVREBOITES</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string></string>
+			<string>OUVREBOITES</string>
+			<string>V</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Opération bancaire</string>
+			<string>OUVREBOITES</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Elle a de la poigne</string>
+			<string>OUVREBOITES</string>
+			<string>ETAU</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>OUVREBOITES</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Conjonction</string>
+			<string>OUVREBOITES</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Ne pas céder</string>
+			<string>OUVREBOITES</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Intitulées</string>
+			<string>OUVREBOITES</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Direction</string>
+			<string>OUVREBOITES</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Utiles en cuisine</string>
+			<string> Est utile à</string>
+			<string>OUVREBOITES</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Un groupe</string>
+			<string>RN</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Paresseux</string>
+			<string>RN</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Opération bancaire</string>
+			<string>ETERNISES</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Elle a de la poigne</string>
+			<string>ETERNISES</string>
+			<string>ETAU</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>ETERNISES</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Conjonction</string>
+			<string>ETERNISES</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Ne pas céder</string>
+			<string>ETERNISES</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Intitulées</string>
+			<string>ETERNISES</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Direction</string>
+			<string>ETERNISES</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Est utile à</string>
+			<string>ETERNISES</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Prends son temps</string>
+			<string> Existera</string>
+			<string>ETERNISES</string>
+			<string>SERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> On veut toujours réclamer sa part</string>
+			<string> Un groupe</string>
+			<string>GATEAU</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> On veut toujours réclamer sa part</string>
+			<string> Paresseux</string>
+			<string>GATEAU</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string> On veut toujours réclamer sa part</string>
+			<string></string>
+			<string>GATEAU</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> On veut toujours réclamer sa part</string>
+			<string> Opération bancaire</string>
+			<string>GATEAU</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> On veut toujours réclamer sa part</string>
+			<string> Elle a de la poigne</string>
+			<string>GATEAU</string>
+			<string>ETAU</string>
+		</array>
+		<array>
+			<string> On veut toujours réclamer sa part</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>GATEAU</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Ne pas céder</string>
+			<string>STERE</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Intitulées</string>
+			<string>STERE</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Direction</string>
+			<string>STERE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Est utile à</string>
+			<string>STERE</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Alimentera le foyer</string>
+			<string> Existera</string>
+			<string>STERE</string>
+			<string>SERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Or</string>
+			<string> Un groupe</string>
+			<string>AU</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Or</string>
+			<string> Paresseux</string>
+			<string>AU</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Naître</string>
+			<string> Opération bancaire</string>
+			<string>SURGIR</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Naître</string>
+			<string> Elle a de la poigne</string>
+			<string>SURGIR</string>
+			<string>ETAU</string>
+		</array>
+		<array>
+			<string> Naître</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>SURGIR</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string> Naître</string>
+			<string> Est couché</string>
+			<string>SURGIR</string>
+			<string>GIT</string>
+		</array>
+		<array>
+			<string> Naître</string>
+			<string> Ne pas céder</string>
+			<string>SURGIR</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Naître</string>
+			<string> Intitulées</string>
+			<string>SURGIR</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Est utile à</string>
+			<string>TR</string>
+			<string>SERT</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Existera</string>
+			<string>TR</string>
+			<string>SERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Un groupe</string>
+			<string>N</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Scandium</string>
+			<string></string>
+			<string>SC</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Scandium</string>
+			<string> Opération bancaire</string>
+			<string>SC</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>RISEE</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Est couché</string>
+			<string>RISEE</string>
+			<string>GIT</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Ne pas céder</string>
+			<string>RISEE</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Intitulées</string>
+			<string>RISEE</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string> Bourrasque</string>
+			<string> Stockées</string>
+			<string>RISEE</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Existera</string>
+			<string>A</string>
+			<string>SERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Un groupe</string>
+			<string>IR</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Laboure une quatrième fois</string>
+			<string>IR</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Opération bancaire</string>
+			<string>OMETTENT</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Amis des artistes</string>
+			<string>OMETTENT</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>OMETTENT</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Est couché</string>
+			<string>OMETTENT</string>
+			<string>GIT</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Ne pas céder</string>
+			<string>OMETTENT</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Intitulées</string>
+			<string>OMETTENT</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Stockées</string>
+			<string>OMETTENT</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string> Taisent</string>
+			<string> Le troisième</string>
+			<string>OMETTENT</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Maladies du sabot</string>
+			<string> Un groupe</string>
+			<string>SEIMES</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Maladies du sabot</string>
+			<string> Laboure une quatrième fois</string>
+			<string>SEIMES</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Maladies du sabot</string>
+			<string></string>
+			<string>SEIMES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Maladies du sabot</string>
+			<string> Opération bancaire</string>
+			<string>SEIMES</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Maladies du sabot</string>
+			<string> Amis des artistes</string>
+			<string>SEIMES</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string> Maladies du sabot</string>
+			<string> Certains préfèrent l'huile</string>
+			<string>SEIMES</string>
+			<string>BEURRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Ne pas céder</string>
+			<string>ESSES</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Intitulées</string>
+			<string>ESSES</string>
+			<string>TITREES</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Stockées</string>
+			<string>ESSES</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Le troisième</string>
+			<string>ESSES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Pour suspendre</string>
+			<string> Fromage</string>
+			<string>ESSES</string>
+			<string>SERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Astate</string>
+			<string> Un groupe</string>
+			<string>AT</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Astate</string>
+			<string> Laboure une quatrième fois</string>
+			<string>AT</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Il serait maintenant difficile de s'en passer</string>
+			<string> Opération bancaire</string>
+			<string>PC</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Il serait maintenant difficile de s'en passer</string>
+			<string> Amis des artistes</string>
+			<string>PC</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Plus fort que le roi</string>
+			<string>AR</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Ne pas céder</string>
+			<string>AR</string>
+			<string>INSISTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle fait crier</string>
+			<string> Stockées</string>
+			<string>IRE</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string> Elle fait crier</string>
+			<string> Le troisième</string>
+			<string>IRE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string> Elle fait crier</string>
+			<string> Fromage</string>
+			<string>IRE</string>
+			<string>SERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Séduites</string>
+			<string> Un groupe</string>
+			<string>TENTEES</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Séduites</string>
+			<string> Laboure une quatrième fois</string>
+			<string>TENTEES</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Séduites</string>
+			<string> Refute</string>
+			<string>TENTEES</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Séduites</string>
+			<string> Opération bancaire</string>
+			<string>TENTEES</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Séduites</string>
+			<string> Amis des artistes</string>
+			<string>TENTEES</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string> Séduites</string>
+			<string> Ville d'Italie</string>
+			<string>TENTEES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Séduites</string>
+			<string> Plus fort que le roi</string>
+			<string>TENTEES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Alu</string>
+			<string> Beaucoup utilisé en cuisine</string>
+			<string>AL</string>
+			<string>AIL</string>
+		</array>
+		<array>
+			<string> Alu</string>
+			<string> Stockées</string>
+			<string>AL</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fromage</string>
+			<string>R</string>
+			<string>SERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Relatifs à l'oeil</string>
+			<string> Un groupe</string>
+			<string>IRIENS</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Relatifs à l'oeil</string>
+			<string> Laboure une quatrième fois</string>
+			<string>IRIENS</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Relatifs à l'oeil</string>
+			<string> Refute</string>
+			<string>IRIENS</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string> Relatifs à l'oeil</string>
+			<string> Opération bancaire</string>
+			<string>IRIENS</string>
+			<string>REESCOMPTE</string>
+		</array>
+		<array>
+			<string> Relatifs à l'oeil</string>
+			<string> Amis des artistes</string>
+			<string>IRIENS</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string> Relatifs à l'oeil</string>
+			<string> Ville d'Italie</string>
+			<string>IRIENS</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dévotion</string>
+			<string> Récipient</string>
+			<string>PIETE</string>
+			<string>POT</string>
+		</array>
+		<array>
+			<string> Dévotion</string>
+			<string> Beaucoup utilisé en cuisine</string>
+			<string>PIETE</string>
+			<string>AIL</string>
+		</array>
+		<array>
+			<string> Dévotion</string>
+			<string> Stockées</string>
+			<string>PIETE</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string> Dévotion</string>
+			<string> Avant la distribution</string>
+			<string>PIETE</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Dévotion</string>
+			<string> Fromage</string>
+			<string>PIETE</string>
+			<string>SERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Choquant</string>
+			<string> Un groupe</string>
+			<string>OSE</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Choquant</string>
+			<string> Laboure une quatrième fois</string>
+			<string>OSE</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string> Choquant</string>
+			<string> Refute</string>
+			<string>OSE</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> Amis des artistes</string>
+			<string>ETIOLER</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> Ville d'Italie</string>
+			<string>ETIOLER</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> À la mode</string>
+			<string>ETIOLER</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> Récipient</string>
+			<string>ETIOLER</string>
+			<string>POT</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> Beaucoup utilisé en cuisine</string>
+			<string>ETIOLER</string>
+			<string>AIL</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> Stockées</string>
+			<string>ETIOLER</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string> Affaiblir</string>
+			<string> Avant la distribution</string>
+			<string>ETIOLER</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Un groupe</string>
+			<string>NE</string>
+			<string>ORGANISATION</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Laboure une quatrième fois</string>
+			<string>NE</string>
+			<string>RETERSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> N'hésitent pas</string>
+			<string></string>
+			<string>OSENT</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> N'hésitent pas</string>
+			<string> Amis des artistes</string>
+			<string>OSENT</string>
+			<string>MECENES</string>
+		</array>
+		<array>
+			<string> N'hésitent pas</string>
+			<string> Ville d'Italie</string>
+			<string>OSENT</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string> N'hésitent pas</string>
+			<string> À la mode</string>
+			<string>OSENT</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string> N'hésitent pas</string>
+			<string> Récipient</string>
+			<string>OSENT</string>
+			<string>POT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Titre</string>
+			<string> Stockées</string>
+			<string>SIR</string>
+			<string>ENSILEES</string>
+		</array>
+		<array>
+			<string> Titre</string>
+			<string> Avant la distribution</string>
+			<string>SIR</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string> Titre</string>
+			<string></string>
+			<string>SIR</string>
+			<string>R</string>
+		</array>
+	</array>
+</array>
+</plist>

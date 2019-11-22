@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>MARCHANDES</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Elle est caucasienne</string>
+			<string>MARCHANDES</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string></string>
+			<string>MARCHANDES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Césium</string>
+			<string>MARCHANDES</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Légataires</string>
+			<string>MARCHANDES</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Soucis</string>
+			<string>MARCHANDES</string>
+			<string>ARIA</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>MARCHANDES</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string></string>
+			<string>MARCHANDES</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Prince troyen</string>
+			<string>MARCHANDES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string>Essaies d'avoir un meilleur prix</string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>MARCHANDES</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Infinitif</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>ER</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Elle est caucasienne</string>
+			<string>ER</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Césium</string>
+			<string>SERE</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Légataires</string>
+			<string>SERE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Soucis</string>
+			<string>SERE</string>
+			<string>ARIA</string>
+		</array>
+		<array>
+			<string>Fromage</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>SERE</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Drame japonais</string>
+			<string>Prince troyen</string>
+			<string>NO</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string>Drame japonais</string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>NO</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Whisky canadien</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>RYE</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Whisky canadien</string>
+			<string>Elle est caucasienne</string>
+			<string>RYE</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string>Whisky canadien</string>
+			<string>Dan us diplôme universitaire</string>
+			<string>RYE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ensemble d'habitudes ou de règles</string>
+			<string>Légataires</string>
+			<string>RITUEL</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>Ensemble d'habitudes ou de règles</string>
+			<string>Soucis</string>
+			<string>RITUEL</string>
+			<string>ARIA</string>
+		</array>
+		<array>
+			<string>Ensemble d'habitudes ou de règles</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>RITUEL</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>Ensemble d'habitudes ou de règles</string>
+			<string>Canton suisse</string>
+			<string>RITUEL</string>
+			<string>URI</string>
+		</array>
+		<array>
+			<string>Ensemble d'habitudes ou de règles</string>
+			<string>Prince troyen</string>
+			<string>RITUEL</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string>Ensemble d'habitudes ou de règles</string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>RITUEL</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>VESTIAIRES</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Elle est caucasienne</string>
+			<string>VESTIAIRES</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Dan us diplôme universitaire</string>
+			<string>VESTIAIRES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Curatrice</string>
+			<string>VESTIAIRES</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Légataires</string>
+			<string>VESTIAIRES</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Soucis</string>
+			<string>VESTIAIRES</string>
+			<string>ARIA</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>VESTIAIRES</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Canton suisse</string>
+			<string>VESTIAIRES</string>
+			<string>URI</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Prince troyen</string>
+			<string>VESTIAIRES</string>
+			<string>ENEE</string>
+		</array>
+		<array>
+			<string>On y laisse des vêtements</string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>VESTIAIRES</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>EN</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Indique la façon</string>
+			<string>Elle est caucasienne</string>
+			<string>EN</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une vieille note</string>
+			<string>Curatrice</string>
+			<string>UT</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>Une vieille note</string>
+			<string>Légataires</string>
+			<string>UT</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Quotient intellectuel</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>QI</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>Quotient intellectuel</string>
+			<string>Canton suisse</string>
+			<string>QI</string>
+			<string>URI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>T</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Professeur</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>INSTI</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Professeur</string>
+			<string>Elle est caucasienne</string>
+			<string>INSTI</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string>Professeur</string>
+			<string></string>
+			<string>INSTI</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Professeur</string>
+			<string>Curatrice</string>
+			<string>INSTI</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>Professeur</string>
+			<string>Légataires</string>
+			<string>INSTI</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>U</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Six</string>
+			<string></string>
+			<string>VI</string>
+			<string>V</string>
+		</array>
+		<array>
+			<string>Six</string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>VI</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Article</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>LE</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Elle est caucasienne</string>
+			<string>LE</string>
+			<string>ARYENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Curatrice</string>
+			<string>RENEE</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Légataires</string>
+			<string>RENEE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Négation</string>
+			<string>RENEE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>RENEE</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>Prénom féminin</string>
+			<string>Existes</string>
+			<string>RENEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>C</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>L</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petits traits</string>
+			<string>Fait de lancé un projectile</string>
+			<string>TIRETS</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Petits traits</string>
+			<string>Curatrice</string>
+			<string>TIRETS</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>Petits traits</string>
+			<string>Légataires</string>
+			<string>TIRETS</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>Petits traits</string>
+			<string>Négation</string>
+			<string>TIRETS</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Petits traits</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>TIRETS</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>Petits traits</string>
+			<string>Existes</string>
+			<string>TIRETS</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>E</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Aromate</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>EPICE</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Aromate</string>
+			<string>Platine</string>
+			<string>EPICE</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Aromate</string>
+			<string>Fait de lancé un projectile</string>
+			<string>EPICE</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Aromate</string>
+			<string>Curatrice</string>
+			<string>EPICE</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>Aromate</string>
+			<string>Légataires</string>
+			<string>EPICE</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>T</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Noir ou rouge</string>
+			<string>Un champion</string>
+			<string>AS</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Noir ou rouge</string>
+			<string>Jour le plus court et jour le plus long</string>
+			<string>AS</string>
+			<string>SOLSTICES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Il y en avait sept dans le monde</string>
+			<string>STRESSEES</string>
+			<string>MERVEILLES</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Platine</string>
+			<string>STRESSEES</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Fait de lancé un projectile</string>
+			<string>STRESSEES</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Curatrice</string>
+			<string>STRESSEES</string>
+			<string>TUTRICE</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Légataires</string>
+			<string>STRESSEES</string>
+			<string>HERITIERES</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string></string>
+			<string>STRESSEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Savoir-vivre en usage sur Internet</string>
+			<string>STRESSEES</string>
+			<string>NETIQUETTE</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string></string>
+			<string>STRESSEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Anxieuses</string>
+			<string>Un champion</string>
+			<string>STRESSEES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

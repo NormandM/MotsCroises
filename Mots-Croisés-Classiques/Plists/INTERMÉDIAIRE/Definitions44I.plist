@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Collaborer</string>
+			<string>Débonnaires</string>
+			<string>PARTICIPER</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Aluminium</string>
+			<string>PARTICIPER</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Longue suite</string>
+			<string>PARTICIPER</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Le golfeur ne peut s&apos;en passer</string>
+			<string>PARTICIPER</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>À la mode</string>
+			<string>PARTICIPER</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Bistrots</string>
+			<string>PARTICIPER</string>
+			<string>CAFES</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Inchangées</string>
+			<string>PARTICIPER</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Platine</string>
+			<string>PARTICIPER</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string>Point cardinal</string>
+			<string>PARTICIPER</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Collaborer</string>
+			<string></string>
+			<string>PARTICIPER</string>
+			<string>R</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Asservissants</string>
+			<string>Débonnaires</string>
+			<string>ALIENANTS</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Aluminium</string>
+			<string>ALIENANTS</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Longue suite</string>
+			<string>ALIENANTS</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Le golfeur ne peut s&apos;en passer</string>
+			<string>ALIENANTS</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>À la mode</string>
+			<string>ALIENANTS</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Bistrots</string>
+			<string>ALIENANTS</string>
+			<string>CAFES</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Inchangées</string>
+			<string>ALIENANTS</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Platine</string>
+			<string>ALIENANTS</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Asservissants</string>
+			<string>Point cardinal</string>
+			<string>ALIENANTS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Drain</string>
+			<string>Débonnaires</string>
+			<string>TUBE</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Drain</string>
+			<string>Aluminium</string>
+			<string>TUBE</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Drain</string>
+			<string>Longue suite</string>
+			<string>TUBE</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Drain</string>
+			<string>Le golfeur ne peut s&apos;en passer</string>
+			<string>TUBE</string>
+			<string>TEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Bistrots</string>
+			<string>FA</string>
+			<string>CAFES</string>
+		</array>
+		<array>
+			<string>Note</string>
+			<string>Inchangées</string>
+			<string>FA</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Point cardinal</string>
+			<string>TL</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Nouer</string>
+			<string>TL</string>
+			<string>LIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Débonnaires</string>
+			<string>E</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Longue suite</string>
+			<string>A</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Employé avec par - , signifie plus loin que</string>
+			<string></string>
+			<string>DELA</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Employé avec par - , signifie plus loin que</string>
+			<string>Bistrots</string>
+			<string>DELA</string>
+			<string>CAFES</string>
+		</array>
+		<array>
+			<string>Employé avec par - , signifie plus loin que</string>
+			<string>Inchangées</string>
+			<string>DELA</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Employé avec par - , signifie plus loin que</string>
+			<string>Il ne boit plus</string>
+			<string>DELA</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Nouer</string>
+			<string>I</string>
+			<string>LIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Doses de radiation</string>
+			<string>Débonnaires</string>
+			<string>REMS</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Doses de radiation</string>
+			<string>Pronom</string>
+			<string>REMS</string>
+			<string>EUX</string>
+		</array>
+		<array>
+			<string>Doses de radiation</string>
+			<string>Longue suite</string>
+			<string>REMS</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Doses de radiation</string>
+			<string>Que l&apos;on cite</string>
+			<string>REMS</string>
+			<string>SIC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ralentissement de la circulation</string>
+			<string>Bistrots</string>
+			<string>STASE</string>
+			<string>CAFES</string>
+		</array>
+		<array>
+			<string>Ralentissement de la circulation</string>
+			<string>Inchangées</string>
+			<string>STASE</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Ralentissement de la circulation</string>
+			<string>Il ne boit plus</string>
+			<string>STASE</string>
+			<string>AA</string>
+		</array>
+		<array>
+			<string>Ralentissement de la circulation</string>
+			<string>Tamises</string>
+			<string>STASE</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string>Ralentissement de la circulation</string>
+			<string>Nouer</string>
+			<string>STASE</string>
+			<string>LIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Région désertique d&apos;Afrique</string>
+			<string>Débonnaires</string>
+			<string>NUBIE</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Région désertique d&apos;Afrique</string>
+			<string>Pronom</string>
+			<string>NUBIE</string>
+			<string>EUX</string>
+		</array>
+		<array>
+			<string>Région désertique d&apos;Afrique</string>
+			<string>Longue suite</string>
+			<string>NUBIE</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Région désertique d&apos;Afrique</string>
+			<string>Que l&apos;on cite</string>
+			<string>NUBIE</string>
+			<string>SIC</string>
+		</array>
+		<array>
+			<string>Région désertique d&apos;Afrique</string>
+			<string>Plante herbacée</string>
+			<string>NUBIE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Inchangées</string>
+			<string>E</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Argon</string>
+			<string>Tamises</string>
+			<string>AR</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string>Argon</string>
+			<string>Nouer</string>
+			<string>AR</string>
+			<string>LIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Détesteras</string>
+			<string>Débonnaires</string>
+			<string>EXECRERAS</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Pronom</string>
+			<string>EXECRERAS</string>
+			<string>EUX</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Longue suite</string>
+			<string>EXECRERAS</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Que l&apos;on cite</string>
+			<string>EXECRERAS</string>
+			<string>SIC</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Plante herbacée</string>
+			<string>EXECRERAS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string></string>
+			<string>EXECRERAS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Inchangées</string>
+			<string>EXECRERAS</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Marteau de tonnelier</string>
+			<string>EXECRERAS</string>
+			<string>ASSE</string>
+		</array>
+		<array>
+			<string>Détesteras</string>
+			<string>Tamises</string>
+			<string>EXECRERAS</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Débonnaires</string>
+			<string>L</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Longue suite</string>
+			<string>L</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Plante herbacée</string>
+			<string>S</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Crochet en forme de S</string>
+			<string>Inchangées</string>
+			<string>ESSE</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Crochet en forme de S</string>
+			<string>Marteau de tonnelier</string>
+			<string>ESSE</string>
+			<string>ASSE</string>
+		</array>
+		<array>
+			<string>Crochet en forme de S</string>
+			<string>Tamises</string>
+			<string>ESSE</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string>Crochet en forme de S</string>
+			<string>Existes</string>
+			<string>ESSE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Malpropre</string>
+			<string>Débonnaires</string>
+			<string>SALE</string>
+			<string>PATERNELS</string>
+		</array>
+		<array>
+			<string>Malpropre</string>
+			<string>Astate</string>
+			<string>SALE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Malpropre</string>
+			<string>Longue suite</string>
+			<string>SALE</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Malpropre</string>
+			<string>Un mot qu&apos;utilise beaucoup le bavard</string>
+			<string>SALE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Examines</string>
+			<string>Du verbe pouvoir</string>
+			<string>PESES</string>
+			<string>PU</string>
+		</array>
+		<array>
+			<string>Examines</string>
+			<string>Inchangées</string>
+			<string>PESES</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Examines</string>
+			<string>Marteau de tonnelier</string>
+			<string>PESES</string>
+			<string>ASSE</string>
+		</array>
+		<array>
+			<string>Examines</string>
+			<string>Tamises</string>
+			<string>PESES</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string>Examines</string>
+			<string>Existes</string>
+			<string>PESES</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Astate</string>
+			<string>TETEUSES</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Longue suite</string>
+			<string>TETEUSES</string>
+			<string>RIBAMBELLE</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Un mot qu&apos;utilise beaucoup le bavard</string>
+			<string>TETEUSES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string></string>
+			<string>TETEUSES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Du verbe pouvoir</string>
+			<string>TETEUSES</string>
+			<string>PU</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Inchangées</string>
+			<string>TETEUSES</string>
+			<string>INALTEREES</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Marteau de tonnelier</string>
+			<string>TETEUSES</string>
+			<string>ASSE</string>
+		</array>
+		<array>
+			<string>Tatillonnes</string>
+			<string>Tamises</string>
+			<string>TETEUSES</string>
+			<string>SASSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

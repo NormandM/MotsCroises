@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Synthétique</string>
+			<string>Amabilité</string>
+			<string>ARTIFICIEL</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Reporter au pouvoir</string>
+			<string>ARTIFICIEL</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Unité de mesure d&apos;angle</string>
+			<string>ARTIFICIEL</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Qui ne peut se produire</string>
+			<string>ARTIFICIEL</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Elle a une baguette</string>
+			<string>ARTIFICIEL</string>
+			<string>FEE</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Peut être améliorée</string>
+			<string>ARTIFICIEL</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Adjectif démonstratif</string>
+			<string>ARTIFICIEL</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>À la mode</string>
+			<string>ARTIFICIEL</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string>Écourte une liste</string>
+			<string>ARTIFICIEL</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string>Synthétique</string>
+			<string></string>
+			<string>ARTIFICIEL</string>
+			<string>L</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Résolument</string>
+			<string>Amabilité</string>
+			<string>FERMEMENT</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Reporter au pouvoir</string>
+			<string>FERMEMENT</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Unité de mesure d&apos;angle</string>
+			<string>FERMEMENT</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Qui ne peut se produire</string>
+			<string>FERMEMENT</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Elle a une baguette</string>
+			<string>FERMEMENT</string>
+			<string>FEE</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Peut être améliorée</string>
+			<string>FERMEMENT</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Adjectif démonstratif</string>
+			<string>FERMEMENT</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>À la mode</string>
+			<string>FERMEMENT</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Résolument</string>
+			<string>Écourte une liste</string>
+			<string>FERMEMENT</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un métal très utile</string>
+			<string>Amabilité</string>
+			<string>FE</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Un métal très utile</string>
+			<string>Reporter au pouvoir</string>
+			<string>FE</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dynamismes</string>
+			<string>Qui ne peut se produire</string>
+			<string>PEPS</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Dynamismes</string>
+			<string>Elle a une baguette</string>
+			<string>PEPS</string>
+			<string>FEE</string>
+		</array>
+		<array>
+			<string>Dynamismes</string>
+			<string>Peut être améliorée</string>
+			<string>PEPS</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Dynamismes</string>
+			<string>Adjectif démonstratif</string>
+			<string>PEPS</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Californium</string>
+			<string>Écourte une liste</string>
+			<string>CF</string>
+			<string>ETC</string>
+		</array>
+		<array>
+			<string>Californium</string>
+			<string>Ils peuvent être horaires</string>
+			<string>CF</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pour commencer une conversation</string>
+			<string>Amabilité</string>
+			<string>ALLO</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Pour commencer une conversation</string>
+			<string>Reporter au pouvoir</string>
+			<string>ALLO</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string>Pour commencer une conversation</string>
+			<string></string>
+			<string>ALLO</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Pour commencer une conversation</string>
+			<string>Qui ne peut se produire</string>
+			<string>ALLO</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Peut être améliorée</string>
+			<string>A</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Malicieuses</string>
+			<string>F</string>
+			<string>FUTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ils peuvent être horaires</string>
+			<string>U</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bismuth</string>
+			<string>Amabilité</string>
+			<string>BI</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Bismuth</string>
+			<string>Reporter au pouvoir</string>
+			<string>BI</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string>Qui ne peut se produire</string>
+			<string>STRAUSS</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string></string>
+			<string>STRAUSS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string>Peut être améliorée</string>
+			<string>STRAUSS</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string>Or</string>
+			<string>STRAUSS</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string>Malicieuses</string>
+			<string>STRAUSS</string>
+			<string>FUTEES</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string>Monnaie du Japon</string>
+			<string>STRAUSS</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Célèbre pour ses valses</string>
+			<string>Ils peuvent être horaires</string>
+			<string>STRAUSS</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Membrane de l&apos;œil</string>
+			<string>Amabilité</string>
+			<string>IRIS</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Membrane de l&apos;œil</string>
+			<string>Reporter au pouvoir</string>
+			<string>IRIS</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string>Membrane de l&apos;œil</string>
+			<string></string>
+			<string>IRIS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Membrane de l&apos;œil</string>
+			<string>Qui ne peut se produire</string>
+			<string>IRIS</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rusée</string>
+			<string>Peut être améliorée</string>
+			<string>FUTEE</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Rusée</string>
+			<string>Or</string>
+			<string>FUTEE</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Rusée</string>
+			<string>Malicieuses</string>
+			<string>FUTEE</string>
+			<string>FUTEES</string>
+		</array>
+		<array>
+			<string>Rusée</string>
+			<string>Monnaie du Japon</string>
+			<string>FUTEE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Rusée</string>
+			<string>Ils peuvent être horaires</string>
+			<string>FUTEE</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Article</string>
+			<string>Amabilité</string>
+			<string>LE</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Article</string>
+			<string>Reporter au pouvoir</string>
+			<string>LE</string>
+			<string>REELIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ville du Pérou</string>
+			<string>Qui ne peut se produire</string>
+			<string>ICA</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Ville du Pérou</string>
+			<string>Permet d&apos;ouvrir</string>
+			<string>ICA</string>
+			<string>CLE</string>
+		</array>
+		<array>
+			<string>Ville du Pérou</string>
+			<string>Peut être améliorée</string>
+			<string>ICA</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Forme de futurs cadres</string>
+			<string>Malicieuses</string>
+			<string>ENA</string>
+			<string>FUTEES</string>
+		</array>
+		<array>
+			<string>Forme de futurs cadres</string>
+			<string>Monnaie du Japon</string>
+			<string>ENA</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Forme de futurs cadres</string>
+			<string>Ils peuvent être horaires</string>
+			<string>ENA</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Amabilité</string>
+			<string>I</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Contraint</string>
+			<string></string>
+			<string>OBLIGE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Contraint</string>
+			<string>Qui ne peut se produire</string>
+			<string>OBLIGE</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Contraint</string>
+			<string>Permet d&apos;ouvrir</string>
+			<string>OBLIGE</string>
+			<string>CLE</string>
+		</array>
+		<array>
+			<string>Contraint</string>
+			<string>Peut être améliorée</string>
+			<string>OBLIGE</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Contraint</string>
+			<string></string>
+			<string>OBLIGE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Contraint</string>
+			<string>Malicieuses</string>
+			<string>OBLIGE</string>
+			<string>FUTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ils peuvent être horaires</string>
+			<string>U</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Thallium</string>
+			<string>Amabilité</string>
+			<string>TL</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Thallium</string>
+			<string>Lieutenant</string>
+			<string>TL</string>
+			<string>LT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Terme deping-pong</string>
+			<string>Qui ne peut se produire</string>
+			<string>LET</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string>Terme deping-pong</string>
+			<string>Permet d&apos;ouvrir</string>
+			<string>LET</string>
+			<string>CLE</string>
+		</array>
+		<array>
+			<string>Terme deping-pong</string>
+			<string>Peut être améliorée</string>
+			<string>LET</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Saxophone</string>
+			<string>Malicieuses</string>
+			<string>SAX</string>
+			<string>FUTEES</string>
+		</array>
+		<array>
+			<string>Saxophone</string>
+			<string>Astate</string>
+			<string>SAX</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Saxophone</string>
+			<string>Ils peuvent être horaires</string>
+			<string>SAX</string>
+			<string>FUSEAUX</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Exister</string>
+			<string>Amabilité</string>
+			<string>ETRE</string>
+			<string>AFFABILITE</string>
+		</array>
+		<array>
+			<string>Exister</string>
+			<string>Lieutenant</string>
+			<string>ETRE</string>
+			<string>LT</string>
+		</array>
+		<array>
+			<string>Exister</string>
+			<string></string>
+			<string>ETRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Exister</string>
+			<string>Qui ne peut se produire</string>
+			<string>ETRE</string>
+			<string>IMPOSSIBLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Peut être améliorée</string>
+			<string>ET</string>
+			<string>IMPARFAITE</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string></string>
+			<string>ET</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Astate</string>
+			<string>T</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

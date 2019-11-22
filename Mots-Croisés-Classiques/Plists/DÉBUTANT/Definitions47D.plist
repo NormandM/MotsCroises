@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Très puissant</string>
+			<string> Elimination</string>
+			<string>EXTRAFORTE</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Rat palmiste</string>
+			<string>EXTRAFORTE</string>
+			<string>XERUS</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Est agité</string>
+			<string>EXTRAFORTE</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Dieu Egyptien</string>
+			<string>EXTRAFORTE</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Classicisme</string>
+			<string>EXTRAFORTE</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Un nom de chien</string>
+			<string>EXTRAFORTE</string>
+			<string>FIDO</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Organisation fondée en 1949</string>
+			<string>EXTRAFORTE</string>
+			<string>OTAN</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Désert rocheux</string>
+			<string>EXTRAFORTE</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string></string>
+			<string>EXTRAFORTE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Très puissant</string>
+			<string> Cinéaste soviétique</string>
+			<string>EXTRAFORTE</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Elimination</string>
+			<string>VERACITE</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Rat palmiste</string>
+			<string>VERACITE</string>
+			<string>XERUS</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Est agité</string>
+			<string>VERACITE</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Dieu Egyptien</string>
+			<string>VERACITE</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Classicisme</string>
+			<string>VERACITE</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Un nom de chien</string>
+			<string>VERACITE</string>
+			<string>FIDO</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Organisation fondée en 1949</string>
+			<string>VERACITE</string>
+			<string>OTAN</string>
+		</array>
+		<array>
+			<string> Exactitude et fidélité</string>
+			<string> Désert rocheux</string>
+			<string>VERACITE</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Cinéaste soviétique</string>
+			<string>I</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> 100 mètres carrés de terrain</string>
+			<string> Elimination</string>
+			<string>ARE</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> 100 mètres carrés de terrain</string>
+			<string> Rat palmiste</string>
+			<string>ARE</string>
+			<string>XERUS</string>
+		</array>
+		<array>
+			<string> 100 mètres carrés de terrain</string>
+			<string> Est agité</string>
+			<string>ARE</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Maximes</string>
+			<string> Classicisme</string>
+			<string>ADAGES</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Maximes</string>
+			<string> Un nom de chien</string>
+			<string>ADAGES</string>
+			<string>FIDO</string>
+		</array>
+		<array>
+			<string> Maximes</string>
+			<string> Organisation fondée en 1949</string>
+			<string>ADAGES</string>
+			<string>OTAN</string>
+		</array>
+		<array>
+			<string> Maximes</string>
+			<string> Désert rocheux</string>
+			<string>ADAGES</string>
+			<string>REG</string>
+		</array>
+		<array>
+			<string> Maximes</string>
+			<string> Est-Sud-est</string>
+			<string>ADAGES</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Maximes</string>
+			<string> Cinéaste soviétique</string>
+			<string>ADAGES</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Elimination</string>
+			<string>CUPIDON</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Rat palmiste</string>
+			<string>CUPIDON</string>
+			<string>XERUS</string>
+		</array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Est agité</string>
+			<string>CUPIDON</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Petit mot latin</string>
+			<string>CUPIDON</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Classicisme</string>
+			<string>CUPIDON</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Un nom de chien</string>
+			<string>CUPIDON</string>
+			<string>FIDO</string>
+		</array>
+		<array>
+			<string> Dieu de l'amour</string>
+			<string> Organisation fondée en 1949</string>
+			<string>CUPIDON</string>
+			<string>OTAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Est-Sud-est</string>
+			<string>SE</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Pronom</string>
+			<string> Cinéaste soviétique</string>
+			<string>SE</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Courant</string>
+			<string> Elimination</string>
+			<string>USITE</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Rat palmiste</string>
+			<string>USITE</string>
+			<string>XERUS</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Est agité</string>
+			<string>USITE</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Petit mot latin</string>
+			<string>USITE</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> Courant</string>
+			<string> Classicisme</string>
+			<string>USITE</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Partie de fleur</string>
+			<string>SEN</string>
+			<string>SEPALE</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Est-Sud-est</string>
+			<string>SEN</string>
+			<string>ESE</string>
+		</array>
+		<array>
+			<string> Monnaie du Japon</string>
+			<string> Cinéaste soviétique</string>
+			<string>SEN</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elimination</string>
+			<string>A</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> S'active</string>
+			<string> Est agité</string>
+			<string>DEMENE</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string> S'active</string>
+			<string> Petit mot latin</string>
+			<string>DEMENE</string>
+			<string>ITE</string>
+		</array>
+		<array>
+			<string> S'active</string>
+			<string> Classicisme</string>
+			<string>DEMENE</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> S'active</string>
+			<string> Avant un titre universitaire</string>
+			<string>DEMENE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> S'active</string>
+			<string> Possessif</string>
+			<string>DEMENE</string>
+			<string>NOS</string>
+		</array>
+		<array>
+			<string> S'active</string>
+			<string> Partie de fleur</string>
+			<string>DEMENE</string>
+			<string>SEPALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Cinéaste soviétique</string>
+			<string>S</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Accessoire de golfeur</string>
+			<string> Elimination</string>
+			<string>TEE</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Accessoire de golfeur</string>
+			<string> Age</string>
+			<string>TEE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Accessoire de golfeur</string>
+			<string> Est agité</string>
+			<string>TEE</string>
+			<string>TREPIDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Recueil de fables</string>
+			<string> Classicisme</string>
+			<string>ISOPET</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Recueil de fables</string>
+			<string> Avant un titre universitaire</string>
+			<string>ISOPET</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string> Recueil de fables</string>
+			<string> Possessif</string>
+			<string>ISOPET</string>
+			<string>NOS</string>
+		</array>
+		<array>
+			<string> Recueil de fables</string>
+			<string> Partie de fleur</string>
+			<string>ISOPET</string>
+			<string>SEPALE</string>
+		</array>
+		<array>
+			<string> Recueil de fables</string>
+			<string> Choisi</string>
+			<string>ISOPET</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string> Recueil de fables</string>
+			<string> Cinéaste soviétique</string>
+			<string>ISOPET</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Elimination</string>
+			<string>IR</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Age</string>
+			<string>IR</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> À la fin d'une lettre</string>
+			<string> Gaz</string>
+			<string>PS</string>
+			<string>PET</string>
+		</array>
+		<array>
+			<string> À la fin d'une lettre</string>
+			<string> Classicisme</string>
+			<string>PS</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Malpropre</string>
+			<string> Possessif</string>
+			<string>SALE</string>
+			<string>NOS</string>
+		</array>
+		<array>
+			<string> Malpropre</string>
+			<string> Partie de fleur</string>
+			<string>SALE</string>
+			<string>SEPALE</string>
+		</array>
+		<array>
+			<string> Malpropre</string>
+			<string> Choisi</string>
+			<string>SALE</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string> Malpropre</string>
+			<string> Cinéaste soviétique</string>
+			<string>SALE</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Enflure</string>
+			<string> Elimination</string>
+			<string>OEDEME</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string> Enflure</string>
+			<string> Age</string>
+			<string>OEDEME</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string> Enflure</string>
+			<string> Petit cube </string>
+			<string>OEDEME</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Enflure</string>
+			<string> Gaz</string>
+			<string>OEDEME</string>
+			<string>PET</string>
+		</array>
+		<array>
+			<string> Enflure</string>
+			<string> Classicisme</string>
+			<string>OEDEME</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Enflure</string>
+			<string> Extra terrestre</string>
+			<string>OEDEME</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Partie de fleur</string>
+			<string>LUI</string>
+			<string>SEPALE</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Choisi</string>
+			<string>LUI</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Cinéaste soviétique</string>
+			<string>LUI</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Elimination</string>
+			<string>N</string>
+			<string>EVACUATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Écimée</string>
+			<string> Petit cube </string>
+			<string>ETETEE</string>
+			<string>DE</string>
+		</array>
+		<array>
+			<string> Écimée</string>
+			<string> Gaz</string>
+			<string>ETETEE</string>
+			<string>PET</string>
+		</array>
+		<array>
+			<string> Écimée</string>
+			<string> Classicisme</string>
+			<string>ETETEE</string>
+			<string>ACADEMISME</string>
+		</array>
+		<array>
+			<string> Écimée</string>
+			<string> Extra terrestre</string>
+			<string>ETETEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Écimée</string>
+			<string></string>
+			<string>ETETEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Écimée</string>
+			<string> Partie de fleur</string>
+			<string>ETETEE</string>
+			<string>SEPALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Cinéaste soviétique</string>
+			<string>N</string>
+			<string>EISENSTEIN</string>
+		</array>
+	</array>
+</array>
+</plist>

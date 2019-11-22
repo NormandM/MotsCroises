@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Aviation</string>
+			<string>ACROCEPHALIE</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Une boîte osseuse</string>
+			<string>ACROCEPHALIE</string>
+			<string>CRANE</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Nettoieras</string>
+			<string>ACROCEPHALIE</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Organisation</string>
+			<string>ACROCEPHALIE</string>
+			<string>ONG</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Démonstratif</string>
+			<string>ACROCEPHALIE</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string></string>
+			<string>ACROCEPHALIE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Locution latine</string>
+			<string>ACROCEPHALIE</string>
+			<string>PACE</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Exprime le regret</string>
+			<string>ACROCEPHALIE</string>
+			<string>HELAS</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Mets à niveau</string>
+			<string>ACROCEPHALIE</string>
+			<string>ARASES</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Terme de ping-pong</string>
+			<string>ACROCEPHALIE</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Introduites</string>
+			<string>ACROCEPHALIE</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Tête en pain de sucre</string>
+			<string> Liaison</string>
+			<string>ACROCEPHALIE</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Aviation</string>
+			<string>ERINE</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Une boîte osseuse</string>
+			<string>ERINE</string>
+			<string>CRANE</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Nettoieras</string>
+			<string>ERINE</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Organisation</string>
+			<string>ERINE</string>
+			<string>ONG</string>
+		</array>
+		<array>
+			<string> Instrument de chirurgie</string>
+			<string> Démonstratif</string>
+			<string>ERINE</string>
+			<string>CE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ouvrent la fenêtre</string>
+			<string> Locution latine</string>
+			<string>AERENT</string>
+			<string>PACE</string>
+		</array>
+		<array>
+			<string> Ouvrent la fenêtre</string>
+			<string> Exprime le regret</string>
+			<string>AERENT</string>
+			<string>HELAS</string>
+		</array>
+		<array>
+			<string> Ouvrent la fenêtre</string>
+			<string> Mets à niveau</string>
+			<string>AERENT</string>
+			<string>ARASES</string>
+		</array>
+		<array>
+			<string> Ouvrent la fenêtre</string>
+			<string> Terme de ping-pong</string>
+			<string>AERENT</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Ouvrent la fenêtre</string>
+			<string> Introduites</string>
+			<string>AERENT</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Ouvrent la fenêtre</string>
+			<string> Liaison</string>
+			<string>AERENT</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> File</string>
+			<string> Aviation</string>
+			<string>RANG</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Une boîte osseuse</string>
+			<string>RANG</string>
+			<string>CRANE</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Nettoieras</string>
+			<string>RANG</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string> File</string>
+			<string> Organisation</string>
+			<string>RANG</string>
+			<string>ONG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Parfois ils sont de rire</string>
+			<string> Porter au pouvoir</string>
+			<string>ECLATS</string>
+			<string>ELIRE</string>
+		</array>
+		<array>
+			<string> Parfois ils sont de rire</string>
+			<string> Locution latine</string>
+			<string>ECLATS</string>
+			<string>PACE</string>
+		</array>
+		<array>
+			<string> Parfois ils sont de rire</string>
+			<string> Exprime le regret</string>
+			<string>ECLATS</string>
+			<string>HELAS</string>
+		</array>
+		<array>
+			<string> Parfois ils sont de rire</string>
+			<string> Mets à niveau</string>
+			<string>ECLATS</string>
+			<string>ARASES</string>
+		</array>
+		<array>
+			<string> Parfois ils sont de rire</string>
+			<string> Terme de ping-pong</string>
+			<string>ECLATS</string>
+			<string>LET</string>
+		</array>
+		<array>
+			<string> Parfois ils sont de rire</string>
+			<string> Introduites</string>
+			<string>ECLATS</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Jamais</string>
+			<string> Aviation</string>
+			<string>ONC</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Jamais</string>
+			<string> Une boîte osseuse</string>
+			<string>ONC</string>
+			<string>CRANE</string>
+		</array>
+		<array>
+			<string> Jamais</string>
+			<string> Nettoieras</string>
+			<string>ONC</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> C&apos;est un risque</string>
+			<string></string>
+			<string>ALEAS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> C&apos;est un risque</string>
+			<string> Porter au pouvoir</string>
+			<string>ALEAS</string>
+			<string>ELIRE</string>
+		</array>
+		<array>
+			<string> C&apos;est un risque</string>
+			<string> Locution latine</string>
+			<string>ALEAS</string>
+			<string>PACE</string>
+		</array>
+		<array>
+			<string> C&apos;est un risque</string>
+			<string> Exprime le regret</string>
+			<string>ALEAS</string>
+			<string>HELAS</string>
+		</array>
+		<array>
+			<string> C&apos;est un risque</string>
+			<string> Mets à niveau</string>
+			<string>ALEAS</string>
+			<string>ARASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Introduites</string>
+			<string>EV</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Mesure d&apos;énergie</string>
+			<string> Souffler</string>
+			<string>EV</string>
+			<string>VENTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Arrivées</string>
+			<string> Aviation</string>
+			<string>NEES</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Une boîte osseuse</string>
+			<string>NEES</string>
+			<string>CRANE</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Nettoieras</string>
+			<string>NEES</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string> Arrivées</string>
+			<string> Circule au Japon</string>
+			<string>NEES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Porter au pouvoir</string>
+			<string>I</string>
+			<string>ELIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Désintoxique</string>
+			<string> Exprime le regret</string>
+			<string>SEVRE</string>
+			<string>HELAS</string>
+		</array>
+		<array>
+			<string> Désintoxique</string>
+			<string> Mets à niveau</string>
+			<string>SEVRE</string>
+			<string>ARASES</string>
+		</array>
+		<array>
+			<string> Désintoxique</string>
+			<string> Sa fourrure est estimée</string>
+			<string>SEVRE</string>
+			<string>VISON</string>
+		</array>
+		<array>
+			<string> Désintoxique</string>
+			<string> Introduites</string>
+			<string>SEVRE</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Désintoxique</string>
+			<string> Souffler</string>
+			<string>SEVRE</string>
+			<string>VENTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Aviation</string>
+			<string>A</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bramera</string>
+			<string> Nettoieras</string>
+			<string>REERA</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string> Bramera</string>
+			<string> Circule au Japon</string>
+			<string>REERA</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Bramera</string>
+			<string> Exister</string>
+			<string>REERA</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Bramera</string>
+			<string> Porter au pouvoir</string>
+			<string>REERA</string>
+			<string>ELIRE</string>
+		</array>
+		<array>
+			<string> Bramera</string>
+			<string></string>
+			<string>REERA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Mets à niveau</string>
+			<string>SIEN</string>
+			<string>ARASES</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Sa fourrure est estimée</string>
+			<string>SIEN</string>
+			<string>VISON</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Introduites</string>
+			<string>SIEN</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Souffler</string>
+			<string>SIEN</string>
+			<string>VENTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fatigante</string>
+			<string> Aviation</string>
+			<string>USANTE</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Fatigante</string>
+			<string> Formules exclamatives</string>
+			<string>USANTE</string>
+			<string>SALUTS</string>
+		</array>
+		<array>
+			<string> Fatigante</string>
+			<string> Nettoieras</string>
+			<string>USANTE</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string> Fatigante</string>
+			<string> Circule au Japon</string>
+			<string>USANTE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string> Fatigante</string>
+			<string> Exister</string>
+			<string>USANTE</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Fatigante</string>
+			<string> Porter au pouvoir</string>
+			<string>USANTE</string>
+			<string>ELIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Liquides organiques</string>
+			<string>U</string>
+			<string>URINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Sa fourrure est estimée</string>
+			<string>SET</string>
+			<string>VISON</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Introduites</string>
+			<string>SET</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Souffler</string>
+			<string>SET</string>
+			<string>VENTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Amas</string>
+			<string> Aviation</string>
+			<string>TAS</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Amas</string>
+			<string> Formules exclamatives</string>
+			<string>TAS</string>
+			<string>SALUTS</string>
+		</array>
+		<array>
+			<string> Amas</string>
+			<string> Nettoieras</string>
+			<string>TAS</string>
+			<string>RINCERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Exister</string>
+			<string>R</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Asperge</string>
+			<string> Enzyme</string>
+			<string>ARROSE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Asperge</string>
+			<string> Liquides organiques</string>
+			<string>ARROSE</string>
+			<string>URINES</string>
+		</array>
+		<array>
+			<string> Asperge</string>
+			<string> Batteur de jazz</string>
+			<string>ARROSE</string>
+			<string>ROACH</string>
+		</array>
+		<array>
+			<string> Asperge</string>
+			<string> Sa fourrure est estimée</string>
+			<string>ARROSE</string>
+			<string>VISON</string>
+		</array>
+		<array>
+			<string> Asperge</string>
+			<string> Introduites</string>
+			<string>ARROSE</string>
+			<string>INSEREES</string>
+		</array>
+		<array>
+			<string> Asperge</string>
+			<string> Souffler</string>
+			<string>ARROSE</string>
+			<string>VENTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Aviation</string>
+			<string>IL</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Formules exclamatives</string>
+			<string>IL</string>
+			<string>SALUTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Argile</string>
+			<string>SESSION</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Exister</string>
+			<string>SESSION</string>
+			<string>ETRE</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Située</string>
+			<string>SESSION</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Enzyme</string>
+			<string>SESSION</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Liquides organiques</string>
+			<string>SESSION</string>
+			<string>URINES</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Batteur de jazz</string>
+			<string>SESSION</string>
+			<string>ROACH</string>
+		</array>
+		<array>
+			<string> Séance</string>
+			<string> Sa fourrure est estimée</string>
+			<string>SESSION</string>
+			<string>VISON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Souffler</string>
+			<string>R</string>
+			<string>VENTER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Comment?</string>
+			<string> Aviation</string>
+			<string>QUOI</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Comment?</string>
+			<string> Formules exclamatives</string>
+			<string>QUOI</string>
+			<string>SALUTS</string>
+		</array>
+		<array>
+			<string> Comment?</string>
+			<string> Elle a son pas</string>
+			<string>QUOI</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string> Comment?</string>
+			<string> Argile</string>
+			<string>QUOI</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Située</string>
+			<string>IENA</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Enzyme</string>
+			<string>IENA</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Liquides organiques</string>
+			<string>IENA</string>
+			<string>URINES</string>
+		</array>
+		<array>
+			<string> Hegel y enseigna</string>
+			<string> Batteur de jazz</string>
+			<string>IENA</string>
+			<string>ROACH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Dieu germanique</string>
+			<string>T</string>
+			<string>TOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Qui servent</string>
+			<string> Aviation</string>
+			<string>UTILES</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Qui servent</string>
+			<string> Formules exclamatives</string>
+			<string>UTILES</string>
+			<string>SALUTS</string>
+		</array>
+		<array>
+			<string> Qui servent</string>
+			<string> Elle a son pas</string>
+			<string>UTILES</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string> Qui servent</string>
+			<string> Argile</string>
+			<string>UTILES</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string> Qui servent</string>
+			<string>Conjonction</string>
+			<string>UTILES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Qui servent</string>
+			<string> Située</string>
+			<string>UTILES</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Nouvelles</string>
+			<string> Liquides organiques</string>
+			<string>ECHOS</string>
+			<string>URINES</string>
+		</array>
+		<array>
+			<string> Nouvelles</string>
+			<string> Batteur de jazz</string>
+			<string>ECHOS</string>
+			<string>ROACH</string>
+		</array>
+		<array>
+			<string> Nouvelles</string>
+			<string> Répéter et c&apos;est le rire</string>
+			<string>ECHOS</string>
+			<string>HI</string>
+		</array>
+		<array>
+			<string> Nouvelles</string>
+			<string> Dieu germanique</string>
+			<string>ECHOS</string>
+			<string>TOR</string>
+		</array>
+		<array>
+			<string> Nouvelles</string>
+			<string> Une vie irréprochable</string>
+			<string>ECHOS</string>
+			<string>ST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Direction</string>
+			<string> Aviation</string>
+			<string>ESE</string>
+			<string>AERONAUTIQUE</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Formules exclamatives</string>
+			<string>ESE</string>
+			<string>SALUTS</string>
+		</array>
+		<array>
+			<string> Direction</string>
+			<string> Elle a son pas</string>
+			<string>ESE</string>
+			<string>OIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string>Conjonction</string>
+			<string>TEESHIRT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Située</string>
+			<string>TEESHIRT</string>
+			<string>SISE</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string></string>
+			<string>TEESHIRT</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Liquides organiques</string>
+			<string>TEESHIRT</string>
+			<string>URINES</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Batteur de jazz</string>
+			<string>TEESHIRT</string>
+			<string>ROACH</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Répéter et c&apos;est le rire</string>
+			<string>TEESHIRT</string>
+			<string>HI</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Dieu germanique</string>
+			<string>TEESHIRT</string>
+			<string>TOR</string>
+		</array>
+		<array>
+			<string> Maillot</string>
+			<string> Une vie irréprochable</string>
+			<string>TEESHIRT</string>
+			<string>ST</string>
+		</array>
+	</array>
+</array>
+</plist>

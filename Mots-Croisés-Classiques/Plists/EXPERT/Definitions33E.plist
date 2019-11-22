@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>NATUROPATHIE</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Désintégrer</string>
+			<string>NATUROPATHIE</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string>  Règles</string>
+			<string>NATUROPATHIE</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Note</string>
+			<string>NATUROPATHIE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Résidu</string>
+			<string>NATUROPATHIE</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string></string>
+			<string>NATUROPATHIE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Bonhomie</string>
+			<string>NATUROPATHIE</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Commune française</string>
+			<string>NATUROPATHIE</string>
+			<string>ANOS</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Sonner</string>
+			<string>NATUROPATHIE</string>
+			<string>TINTER</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Sert à appeler</string>
+			<string>NATUROPATHIE</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Fabuleuses</string>
+			<string>NATUROPATHIE</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string> Thérapeutique</string>
+			<string> Direction</string>
+			<string>NATUROPATHIE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Plus court</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>ETETE</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Désintégrer</string>
+			<string>ETETE</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string>  Règles</string>
+			<string>ETETE</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Note</string>
+			<string>ETETE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string> Plus court</string>
+			<string> Résidu</string>
+			<string>ETETE</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> S’occupent des bêtes</string>
+			<string> Bonhomie</string>
+			<string>ANIERS</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string> S’occupent des bêtes</string>
+			<string> Commune française</string>
+			<string>ANIERS</string>
+			<string>ANOS</string>
+		</array>
+		<array>
+			<string> S’occupent des bêtes</string>
+			<string> Sonner</string>
+			<string>ANIERS</string>
+			<string>TINTER</string>
+		</array>
+		<array>
+			<string> S’occupent des bêtes</string>
+			<string> Sert à appeler</string>
+			<string>ANIERS</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string> S’occupent des bêtes</string>
+			<string> Fabuleuses</string>
+			<string>ANIERS</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string> S’occupent des bêtes</string>
+			<string> Direction</string>
+			<string>ANIERS</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Île de Grèce</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>COS</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Île de Grèce</string>
+			<string> Désintégrer</string>
+			<string>COS</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Île de Grèce</string>
+			<string>  Règles</string>
+			<string>COS</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Drain</string>
+			<string> Résidu</string>
+			<string>SETON</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string> Drain</string>
+			<string> Un film de Spielberg</string>
+			<string>SETON</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Drain</string>
+			<string> Bonhomie</string>
+			<string>SETON</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string> Drain</string>
+			<string> Commune française</string>
+			<string>SETON</string>
+			<string>ANOS</string>
+		</array>
+		<array>
+			<string> Drain</string>
+			<string> Sonner</string>
+			<string>SETON</string>
+			<string>TINTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Fabuleuses</string>
+			<string>RE</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Direction</string>
+			<string>RE</string>
+			<string>ESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une moitié de journée</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>PM</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Une moitié de journée</string>
+			<string> Désintégrer</string>
+			<string>PM</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Diminuées</string>
+			<string>ATTESTEE</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Résidu</string>
+			<string>ATTESTEE</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Un film de Spielberg</string>
+			<string>ATTESTEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Bonhomie</string>
+			<string>ATTESTEE</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Commune française</string>
+			<string>ATTESTEE</string>
+			<string>ANOS</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Sonner</string>
+			<string>ATTESTEE</string>
+			<string>TINTER</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Peuvent être des muscles</string>
+			<string>ATTESTEE</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Certifiée</string>
+			<string> Fabuleuses</string>
+			<string>ATTESTEE</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Catalogue</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>LISTE</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Catalogue</string>
+			<string> Désintégrer</string>
+			<string>LISTE</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Catalogue</string>
+			<string> Pus</string>
+			<string>LISTE</string>
+			<string>SANIE</string>
+		</array>
+		<array>
+			<string> Catalogue</string>
+			<string> Diminuées</string>
+			<string>LISTE</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string> Catalogue</string>
+			<string> Résidu</string>
+			<string>LISTE</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Bonhomie</string>
+			<string>R</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Sonner</string>
+			<string>ERES</string>
+			<string>TINTER</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Peuvent être des muscles</string>
+			<string>ERES</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Fabuleuses</string>
+			<string>ERES</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string>  Périodes historiques</string>
+			<string> Homme politique français</string>
+			<string>ERES</string>
+			<string>SEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Utilisât</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>USAT</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Utilisât</string>
+			<string> Désintégrer</string>
+			<string>USAT</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Utilisât</string>
+			<string> Pus</string>
+			<string>USAT</string>
+			<string>SANIE</string>
+		</array>
+		<array>
+			<string> Utilisât</string>
+			<string> Diminuées</string>
+			<string>USAT</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string></string>
+			<string>ENGRELE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string> Bonhomie</string>
+			<string>ENGRELE</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>ENGRELE</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string> Sonner</string>
+			<string>ENGRELE</string>
+			<string>TINTER</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string> Peuvent être des muscles</string>
+			<string>ENGRELE</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string> Fabuleuses</string>
+			<string>ENGRELE</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string> Bordé de petites de dents</string>
+			<string> Homme politique français</string>
+			<string>ENGRELE</string>
+			<string>SEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>SENES</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Désintégrer</string>
+			<string>SENES</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Pus</string>
+			<string>SENES</string>
+			<string>SANIE</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Diminuées</string>
+			<string>SENES</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string> Laxatifs</string>
+			<string> Possessif</string>
+			<string>SENES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Bonhomie</string>
+			<string>EN</string>
+			<string>PATERNE</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>EN</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Outil</string>
+			<string> Peuvent être des muscles</string>
+			<string>CLE</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Outil</string>
+			<string> Fabuleuses</string>
+			<string>CLE</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string> Outil</string>
+			<string> Homme politique français</string>
+			<string>CLE</string>
+			<string>SEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Liquides organiques</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>URINES</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Liquides organiques</string>
+			<string> Désintégrer</string>
+			<string>URINES</string>
+			<string>ATOMISER</string>
+		</array>
+		<array>
+			<string> Liquides organiques</string>
+			<string> Pus</string>
+			<string>URINES</string>
+			<string>SANIE</string>
+		</array>
+		<array>
+			<string> Liquides organiques</string>
+			<string> Diminuées</string>
+			<string>URINES</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string> Liquides organiques</string>
+			<string> Possessif</string>
+			<string>URINES</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string> Liquides organiques</string>
+			<string></string>
+			<string>URINES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>ESTE</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Symbole chimique</string>
+			<string>ESTE</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Peuvent être des muscles</string>
+			<string>ESTE</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Fabuleuses</string>
+			<string>ESTE</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>L</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Floués</string>
+			<string> Pus</string>
+			<string>EUS</string>
+			<string>SANIE</string>
+		</array>
+		<array>
+			<string> Floués</string>
+			<string> Diminuées</string>
+			<string>EUS</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string> Floués</string>
+			<string> Possessif</string>
+			<string>EUS</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tension</string>
+			<string> Fromage</string>
+			<string>STRESS</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Tension</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>STRESS</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string> Tension</string>
+			<string> Symbole chimique</string>
+			<string>STRESS</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string> Tension</string>
+			<string> Peuvent être des muscles</string>
+			<string>STRESS</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Tension</string>
+			<string> Fabuleuses</string>
+			<string>STRESS</string>
+			<string>IRREELLES</string>
+		</array>
+		<array>
+			<string> Tension</string>
+			<string> Adjectif possessif</string>
+			<string>STRESS</string>
+			<string>SIEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Tour</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>TR</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Tour</string>
+			<string> Roue</string>
+			<string>TR</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Diminuées</string>
+			<string>E</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string>  Précis</string>
+			<string>NEE</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Fromage</string>
+			<string>NEE</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Plante ligneuse à grande feuille</string>
+			<string>NEE</string>
+			<string>GNETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Peuvent être des muscles</string>
+			<string>U</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Adjectif possessif</string>
+			<string>I</string>
+			<string>SIEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Découvrir</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>REPERER</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Découvrir</string>
+			<string> Roue</string>
+			<string>REPERER</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string> Découvrir</string>
+			<string></string>
+			<string>REPERER</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Découvrir</string>
+			<string> Diminuées</string>
+			<string>REPERER</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string> Découvrir</string>
+			<string> Gondolé</string>
+			<string>REPERER</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string> Découvrir</string>
+			<string>  Précis</string>
+			<string>REPERER</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string> Découvrir</string>
+			<string> Fromage</string>
+			<string>REPERER</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string></string>
+			<string>ERSE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Peuvent être des muscles</string>
+			<string>ERSE</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Pronom</string>
+			<string>ERSE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Langue celtique</string>
+			<string> Adjectif possessif</string>
+			<string>ERSE</string>
+			<string>SIEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Ce qu'il y a de mieux</string>
+			<string>AA</string>
+			<string>NECPLUSULTRA</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Roue</string>
+			<string>AA</string>
+			<string>REA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  On les visite avec la souris</string>
+			<string> Diminuées</string>
+			<string>SITES</string>
+			<string>ATTENUEES</string>
+		</array>
+		<array>
+			<string>  On les visite avec la souris</string>
+			<string> Gondolé</string>
+			<string>SITES</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>  On les visite avec la souris</string>
+			<string>  Précis</string>
+			<string>SITES</string>
+			<string>NET</string>
+		</array>
+		<array>
+			<string>  On les visite avec la souris</string>
+			<string> Fromage</string>
+			<string>SITES</string>
+			<string>SERE</string>
+		</array>
+		<array>
+			<string>  On les visite avec la souris</string>
+			<string></string>
+			<string>SITES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Peuvent être des muscles</string>
+			<string>SEN</string>
+			<string>ERECTEURS</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Pronom</string>
+			<string>SEN</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Circule au Japon</string>
+			<string> Adjectif possessif</string>
+			<string>SEN</string>
+			<string>SIEN</string>
+		</array>
+	</array>
+</array>
+</plist>

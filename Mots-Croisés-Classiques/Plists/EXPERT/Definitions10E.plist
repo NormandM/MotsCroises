@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Répercussions</string>
+			<string>CARTOGRAPHIE</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Dévidoirs à soi.</string>
+			<string>CARTOGRAPHIE</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string>Note</string>
+			<string>CARTOGRAPHIE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Tiennent les livres</string>
+			<string>CARTOGRAPHIE</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> N&apos;hésitent pas</string>
+			<string>CARTOGRAPHIE</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string></string>
+			<string>CARTOGRAPHIE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string>Note</string>
+			<string>CARTOGRAPHIE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Certains disent qu&apos;ils influencent l&apos;être humain</string>
+			<string>CARTOGRAPHIE</string>
+			<string>ASTRES</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Platine</string>
+			<string>CARTOGRAPHIE</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Était un successeur possible de Hitler</string>
+			<string>CARTOGRAPHIE</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string> Relatifs à l&apos;oeil</string>
+			<string>CARTOGRAPHIE</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string>Représentation graphique nous permettant de retrouver notre chemin</string>
+			<string></string>
+			<string>CARTOGRAPHIE</string>
+			<string>E</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Lestes</string>
+			<string> Répercussions</string>
+			<string>OSEES</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Dévidoirs à soi.</string>
+			<string>OSEES</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Île de France</string>
+			<string>OSEES</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> Tiennent les livres</string>
+			<string>OSEES</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string> Lestes</string>
+			<string> N&apos;hésitent pas</string>
+			<string>OSEES</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Île de France</string>
+			<string>ESTER</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Certains disent qu&apos;ils influencent l&apos;être humain</string>
+			<string>ESTER</string>
+			<string>ASTRES</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Platine</string>
+			<string>ESTER</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Était un successeur possible de Hitler</string>
+			<string>ESTER</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string> Intenter un procès</string>
+			<string> Relatifs à l&apos;oeil</string>
+			<string>ESTER</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Neptunium</string>
+			<string> Répercussions</string>
+			<string>NP</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Neptunium</string>
+			<string> Dévidoirs à soi.</string>
+			<string>NP</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Tiennent les livres</string>
+			<string>NEE</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> N&apos;hésitent pas</string>
+			<string>NEE</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Sortie</string>
+			<string> Durées</string>
+			<string>NEE</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Certains disent qu&apos;ils influencent l&apos;être humain</string>
+			<string>T</string>
+			<string>ASTRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Que l&apos;on cite</string>
+			<string> Était un successeur possible de Hitler</string>
+			<string>SIC</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string> Que l&apos;on cite</string>
+			<string> Relatifs à l&apos;oeil</string>
+			<string>SIC</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Que l&apos;on cite</string>
+			<string> Césium</string>
+			<string>SIC</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Répercussions</string>
+			<string>SEDENTARISES</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Dévidoirs à soi.</string>
+			<string>SEDENTARISES</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string></string>
+			<string>SEDENTARISES</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Tiennent les livres</string>
+			<string>SEDENTARISES</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> N&apos;hésitent pas</string>
+			<string>SEDENTARISES</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Durées</string>
+			<string>SEDENTARISES</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string></string>
+			<string>SEDENTARISES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Certains disent qu&apos;ils influencent l&apos;être humain</string>
+			<string>SEDENTARISES</string>
+			<string>ASTRES</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Poissons rouges</string>
+			<string>SEDENTARISES</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Était un successeur possible de Hitler</string>
+			<string>SEDENTARISES</string>
+			<string>HESS</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Relatifs à l&apos;oeil</string>
+			<string>SEDENTARISES</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Fixés une population</string>
+			<string> Césium</string>
+			<string>SEDENTARISES</string>
+			<string>CS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Répercussions</string>
+			<string>ES</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Dévidoirs à soi.</string>
+			<string>ES</string>
+			<string>ASPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Tiennent les livres</string>
+			<string>UTE</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> N&apos;hésitent pas</string>
+			<string>UTE</string>
+			<string>OSENT</string>
+		</array>
+		<array>
+			<string> Amérindien.</string>
+			<string> Durées</string>
+			<string>UTE</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Prénom anglais</string>
+			<string> Certains disent qu&apos;ils influencent l&apos;être humain</string>
+			<string>ED</string>
+			<string>ASTRES</string>
+		</array>
+		<array>
+			<string> Prénom anglais</string>
+			<string> Poissons rouges</string>
+			<string>ED</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Relatifs à l&apos;oeil</string>
+			<string>N</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Répercussions</string>
+			<string>Q</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string></string>
+			<string>IR</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Tiennent les livres</string>
+			<string>IR</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Durées</string>
+			<string>RASEUSE</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Résine</string>
+			<string>RASEUSE</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Certains disent qu&apos;ils influencent l&apos;être humain</string>
+			<string>RASEUSE</string>
+			<string>ASTRES</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Poissons rouges</string>
+			<string>RASEUSE</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Canal</string>
+			<string>RASEUSE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Relatifs à l&apos;oeil</string>
+			<string>RASEUSE</string>
+			<string>IRIENS</string>
+		</array>
+		<array>
+			<string> Importune</string>
+			<string> Ablation</string>
+			<string>RASEUSE</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note</string>
+			<string> Répercussions</string>
+			<string>UT</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Bateau</string>
+			<string>UT</string>
+			<string>TRIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Très importants en musique</string>
+			<string> Tiennent les livres</string>
+			<string>SONS</string>
+			<string>TENEURS</string>
+		</array>
+		<array>
+			<string> Très importants en musique</string>
+			<string> Un ennui</string>
+			<string>SONS</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Très importants en musique</string>
+			<string> Durées</string>
+			<string>SONS</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string> Très importants en musique</string>
+			<string> Résine</string>
+			<string>SONS</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Poissons rouges</string>
+			<string>SR</string>
+			<string>IDES</string>
+		</array>
+		<array>
+			<string> Strontium.</string>
+			<string> Canal</string>
+			<string>SR</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Ablation</string>
+			<string>X</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Période</string>
+			<string> Répercussions</string>
+			<string>ERE</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Bateau</string>
+			<string>ERE</string>
+			<string>TRIERE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Au centre de la pensée</string>
+			<string>ERE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Un ennui</string>
+			<string>SIEN</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Durées</string>
+			<string>SIEN</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Résine</string>
+			<string>SIEN</string>
+			<string>ASE</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Sodium</string>
+			<string>SIEN</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Elle a déjà représenté la moitié de l&apos;humanité</string>
+			<string> Canal</string>
+			<string>EVE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string> Elle a déjà représenté la moitié de l&apos;humanité</string>
+			<string> Habillée</string>
+			<string>EVE</string>
+			<string>VETUE</string>
+		</array>
+		<array>
+			<string> Elle a déjà représenté la moitié de l&apos;humanité</string>
+			<string> Ablation</string>
+			<string>EVE</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Phénomène climatique</string>
+			<string> Répercussions</string>
+			<string>NINA</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Phénomène climatique</string>
+			<string> Bateau</string>
+			<string>NINA</string>
+			<string>TRIERE</string>
+		</array>
+		<array>
+			<string> Phénomène climatique</string>
+			<string> Au centre de la pensée</string>
+			<string>NINA</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Phénomène climatique</string>
+			<string> Commune de la Haute-Loire</string>
+			<string>NINA</string>
+			<string>AURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Durées</string>
+			<string>S</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Sodium</string>
+			<string>ASTER</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Il a vécu une vie exemplaire</string>
+			<string>ASTER</string>
+			<string>ST</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Canal</string>
+			<string>ASTER</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Habillée</string>
+			<string>ASTER</string>
+			<string>VETUE</string>
+		</array>
+		<array>
+			<string> Plante</string>
+			<string> Ablation</string>
+			<string>ASTER</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Répercussions</string>
+			<string>CESURES</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Bateau</string>
+			<string>CESURES</string>
+			<string>TRIERE</string>
+		</array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Au centre de la pensée</string>
+			<string>CESURES</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Commune de la Haute-Loire</string>
+			<string>CESURES</string>
+			<string>AURE</string>
+		</array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Artère</string>
+			<string>CESURES</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Durées</string>
+			<string>CESURES</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string> Coupures d’un vers</string>
+			<string> Pronom</string>
+			<string>CESURES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Il a vécu une vie exemplaire</string>
+			<string>TETE</string>
+			<string>ST</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Canal</string>
+			<string>TETE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Habillée</string>
+			<string>TETE</string>
+			<string>VETUE</string>
+		</array>
+		<array>
+			<string> Extrémité qui pense</string>
+			<string> Ablation</string>
+			<string>TETE</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Infinitif</string>
+			<string> Répercussions</string>
+			<string>ER</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Bateau</string>
+			<string>ER</string>
+			<string>TRIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Courses</string>
+			<string> Commune de la Haute-Loire</string>
+			<string>RUEES</string>
+			<string>AURE</string>
+		</array>
+		<array>
+			<string> Courses</string>
+			<string> Artère</string>
+			<string>RUEES</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Courses</string>
+			<string> Durées</string>
+			<string>RUEES</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string> Courses</string>
+			<string> Pronom</string>
+			<string>RUEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Courses</string>
+			<string> Scandium</string>
+			<string>RUEES</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Faciles à enjamber</string>
+			<string> Canal</string>
+			<string>RUS</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string> Faciles à enjamber</string>
+			<string> Habillée</string>
+			<string>RUS</string>
+			<string>VETUE</string>
+		</array>
+		<array>
+			<string> Faciles à enjamber</string>
+			<string> Ablation</string>
+			<string>RUS</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Répercussions</string>
+			<string>SEMEES</string>
+			<string>CONSEQUENCES</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Bateau</string>
+			<string>SEMEES</string>
+			<string>TRIERE</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string></string>
+			<string>SEMEES</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Commune de la Haute-Loire</string>
+			<string>SEMEES</string>
+			<string>AURE</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Artère</string>
+			<string>SEMEES</string>
+			<string>RUE</string>
+		</array>
+		<array>
+			<string> Mises en terre</string>
+			<string> Durées</string>
+			<string>SEMEES</string>
+			<string>ETERNISEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Inventée</string>
+			<string> Scandium</string>
+			<string>CREEE</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string> Inventée</string>
+			<string></string>
+			<string>CREEE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Inventée</string>
+			<string> Canal</string>
+			<string>CREEE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string> Inventée</string>
+			<string> Habillée</string>
+			<string>CREEE</string>
+			<string>VETUE</string>
+		</array>
+		<array>
+			<string> Inventée</string>
+			<string> Ablation</string>
+			<string>CREEE</string>
+			<string>EXERESE</string>
+		</array>
+	</array>
+</array>
+</plist>

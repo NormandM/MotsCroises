@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Ouverture</string>
+			<string>Ils dansent sur une corde</string>
+			<string>FENETRE</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Ouverture</string>
+			<string>Grand poisson</string>
+			<string>FENETRE</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string>Ouverture</string>
+			<string>Dépouillé</string>
+			<string>FENETRE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Ouverture</string>
+			<string>Mesure de travail</string>
+			<string>FENETRE</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Ouverture</string>
+			<string>Grosse mouche</string>
+			<string>FENETRE</string>
+			<string>TAON</string>
+		</array>
+		<array>
+			<string>Ouverture</string>
+			<string>Rivière en espagnol</string>
+			<string>FENETRE</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Ouverture</string>
+			<string>Régions désertiques couvertes de dunes</string>
+			<string>FENETRE</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>C&apos;était le Do</string>
+			<string>Élimées</string>
+			<string>UT</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>C&apos;était le Do</string>
+			<string></string>
+			<string>UT</string>
+			<string>T</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Ils dansent sur une corde</string>
+			<string>USURAIRES</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Grand poisson</string>
+			<string>USURAIRES</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Dépouillé</string>
+			<string>USURAIRES</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Mesure de travail</string>
+			<string>USURAIRES</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Grosse mouche</string>
+			<string>USURAIRES</string>
+			<string>TAON</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Rivière en espagnol</string>
+			<string>USURAIRES</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Régions désertiques couvertes de dunes</string>
+			<string>USURAIRES</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Se dit à Buenos Aires</string>
+			<string>USURAIRES</string>
+			<string>EL</string>
+		</array>
+		<array>
+			<string>Prêts excessifs</string>
+			<string>Élimées</string>
+			<string>USURAIRES</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Neptunium</string>
+			<string>Ils dansent sur une corde</string>
+			<string>NP</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Neptunium</string>
+			<string>Grand poisson</string>
+			<string>NP</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Mesure de travail</string>
+			<string>GOOGLER</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Grosse mouche</string>
+			<string>GOOGLER</string>
+			<string>TAON</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Rivière en espagnol</string>
+			<string>GOOGLER</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Régions désertiques couvertes de dunes</string>
+			<string>GOOGLER</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Se dit à Buenos Aires</string>
+			<string>GOOGLER</string>
+			<string>EL</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Élimées</string>
+			<string>GOOGLER</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Rechercher</string>
+			<string>Petites rues</string>
+			<string>GOOGLER</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Ils dansent sur une corde</string>
+			<string>AARON</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Grand poisson</string>
+			<string>AARON</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string></string>
+			<string>AARON</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Mesure de travail</string>
+			<string>AARON</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Frère de Moïse</string>
+			<string>Grosse mouche</string>
+			<string>AARON</string>
+			<string>TAON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Régions désertiques couvertes de dunes</string>
+			<string>S</string>
+			<string>ERGS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Trompé</string>
+			<string>Élimées</string>
+			<string>EU</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Trompé</string>
+			<string>Petites rues</string>
+			<string>EU</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mendélévium</string>
+			<string>Ils dansent sur une corde</string>
+			<string>MD</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Mendélévium</string>
+			<string>Grand poisson</string>
+			<string>MD</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Mesure de travail</string>
+			<string>M</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Alerte</string>
+			<string>V</string>
+			<string>VIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Une révolution complète</string>
+			<string>ASE</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Élimées</string>
+			<string>ASE</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Petites rues</string>
+			<string>ASE</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tsigane</string>
+			<string>Ils dansent sur une corde</string>
+			<string>BOHEMIEN</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string>Grand poisson</string>
+			<string>BOHEMIEN</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string></string>
+			<string>BOHEMIEN</string>
+			<string>H</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string>Mesure de travail</string>
+			<string>BOHEMIEN</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string>Nectars</string>
+			<string>BOHEMIEN</string>
+			<string>MIELS</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string>Alerte</string>
+			<string>BOHEMIEN</string>
+			<string>VIF</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string>Ouvertures de violon</string>
+			<string>BOHEMIEN</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string>Tsigane</string>
+			<string>Une révolution complète</string>
+			<string>BOHEMIEN</string>
+			<string>AN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Petites rues</string>
+			<string>L</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le premier pas vers l&apos;infini</string>
+			<string>Ils dansent sur une corde</string>
+			<string>UN</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Le premier pas vers l&apos;infini</string>
+			<string>Grand poisson</string>
+			<string>UN</string>
+			<string>ESPADON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cheveux</string>
+			<string>Mesure de travail</string>
+			<string>TIFS</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Cheveux</string>
+			<string>Nectars</string>
+			<string>TIFS</string>
+			<string>MIELS</string>
+		</array>
+		<array>
+			<string>Cheveux</string>
+			<string>Alerte</string>
+			<string>TIFS</string>
+			<string>VIF</string>
+		</array>
+		<array>
+			<string>Cheveux</string>
+			<string>Ouvertures de violon</string>
+			<string>TIFS</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Année lumière</string>
+			<string>Un paresseux</string>
+			<string>AL</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Année lumière</string>
+			<string>Petites rues</string>
+			<string>AL</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Ils dansent sur une corde</string>
+			<string>L</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Conifères décoratifs</string>
+			<string>IRE</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Mesure de travail</string>
+			<string>IRE</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Colère</string>
+			<string>Nectars</string>
+			<string>IRE</string>
+			<string>MIELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Brosse en soies de porc</string>
+			<string>Ouvertures de violon</string>
+			<string>SAIE</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string>Brosse en soies de porc</string>
+			<string>Unité importante en photographie</string>
+			<string>SAIE</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string>Brosse en soies de porc</string>
+			<string>Un paresseux</string>
+			<string>SAIE</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Brosse en soies de porc</string>
+			<string>Petites rues</string>
+			<string>SAIE</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Ils dansent sur une corde</string>
+			<string>EFFILEES</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Exprime le dédain</string>
+			<string>EFFILEES</string>
+			<string>FI</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Conifères décoratifs</string>
+			<string>EFFILEES</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Mesure de travail</string>
+			<string>EFFILEES</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Nectars</string>
+			<string>EFFILEES</string>
+			<string>MIELS</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string></string>
+			<string>EFFILEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Ouvertures de violon</string>
+			<string>EFFILEES</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string>Minces et allongées</string>
+			<string>Unité importante en photographie</string>
+			<string>EFFILEES</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Petites rues</string>
+			<string>S</string>
+			<string>RUELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Situées</string>
+			<string>Ils dansent sur une corde</string>
+			<string>SISES</string>
+			<string>FUNAMBULES</string>
+		</array>
+		<array>
+			<string>Situées</string>
+			<string>Exprime le dédain</string>
+			<string>SISES</string>
+			<string>FI</string>
+		</array>
+		<array>
+			<string>Situées</string>
+			<string>Conifères décoratifs</string>
+			<string>SISES</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Situées</string>
+			<string>Mesure de travail</string>
+			<string>SISES</string>
+			<string>ERGOMETRIE</string>
+		</array>
+		<array>
+			<string>Situées</string>
+			<string>Nectars</string>
+			<string>SISES</string>
+			<string>MIELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pillage</string>
+			<string>Ouvertures de violon</string>
+			<string>SAC</string>
+			<string>ESSES</string>
+		</array>
+		<array>
+			<string>Pillage</string>
+			<string>Unité importante en photographie</string>
+			<string>SAC</string>
+			<string>ASA</string>
+		</array>
+		<array>
+			<string>Pillage</string>
+			<string></string>
+			<string>SAC</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

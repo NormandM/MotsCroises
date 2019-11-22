@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Ils sont étanches</string>
+			<string>SILVOUSPLAIT</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Plante à grandes feuilles</string>
+			<string>SILVOUSPLAIT</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string>  Général sudiste</string>
+			<string>SILVOUSPLAIT</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Vêtement de dessus court</string>
+			<string>SILVOUSPLAIT</string>
+			<string>VESTE</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Ennui</string>
+			<string>SILVOUSPLAIT</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string></string>
+			<string>SILVOUSPLAIT</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Exagérée</string>
+			<string>SILVOUSPLAIT</string>
+			<string>SALEE</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Ce n'est pas donné</string>
+			<string>SILVOUSPLAIT</string>
+			<string>PRET</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Fatiguées</string>
+			<string>SILVOUSPLAIT</string>
+			<string>LASSES</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Exprime la douleur</string>
+			<string>SILVOUSPLAIT</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Colères</string>
+			<string>SILVOUSPLAIT</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> La bonne façon de demander</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>SILVOUSPLAIT</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Engendrés</string>
+			<string> Ils sont étanches</string>
+			<string>CREES</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Engendrés</string>
+			<string> Plante à grandes feuilles</string>
+			<string>CREES</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string> Engendrés</string>
+			<string>  Général sudiste</string>
+			<string>CREES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Engendrés</string>
+			<string> Vêtement de dessus court</string>
+			<string>CREES</string>
+			<string>VESTE</string>
+		</array>
+		<array>
+			<string> Engendrés</string>
+			<string> Ennui</string>
+			<string>CREES</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Charrue</string>
+			<string> Exagérée</string>
+			<string>ARAIRE</string>
+			<string>SALEE</string>
+		</array>
+		<array>
+			<string> Charrue</string>
+			<string> Ce n'est pas donné</string>
+			<string>ARAIRE</string>
+			<string>PRET</string>
+		</array>
+		<array>
+			<string> Charrue</string>
+			<string> Fatiguées</string>
+			<string>ARAIRE</string>
+			<string>LASSES</string>
+		</array>
+		<array>
+			<string> Charrue</string>
+			<string> Exprime la douleur</string>
+			<string>ARAIRE</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> Charrue</string>
+			<string> Colères</string>
+			<string>ARAIRE</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Charrue</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ARAIRE</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Obtiennes</string>
+			<string> Ils sont étanches</string>
+			<string>AIES</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Obtiennes</string>
+			<string> Plante à grandes feuilles</string>
+			<string>AIES</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string> Obtiennes</string>
+			<string>  Général sudiste</string>
+			<string>AIES</string>
+			<string>LEE</string>
+		</array>
+		<array>
+			<string> Obtiennes</string>
+			<string> Vêtement de dessus court</string>
+			<string>AIES</string>
+			<string>VESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Commune française</string>
+			<string>ALESEES</string>
+			<string>AREN</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Exagérée</string>
+			<string>ALESEES</string>
+			<string>SALEE</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Ce n'est pas donné</string>
+			<string>ALESEES</string>
+			<string>PRET</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Fatiguées</string>
+			<string>ALESEES</string>
+			<string>LASSES</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Exprime la douleur</string>
+			<string>ALESEES</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Colères</string>
+			<string>ALESEES</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Calibrées</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ALESEES</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Ils sont étanches</string>
+			<string>PD</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Plante à grandes feuilles</string>
+			<string>PD</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Mollusques</string>
+			<string> Vêtement de dessus court</string>
+			<string>TARETS</string>
+			<string>VESTE</string>
+		</array>
+		<array>
+			<string> Mollusques</string>
+			<string> Plante aromatique</string>
+			<string>TARETS</string>
+			<string>ANETH</string>
+		</array>
+		<array>
+			<string> Mollusques</string>
+			<string> Commune française</string>
+			<string>TARETS</string>
+			<string>AREN</string>
+		</array>
+		<array>
+			<string> Mollusques</string>
+			<string> Exagérée</string>
+			<string>TARETS</string>
+			<string>SALEE</string>
+		</array>
+		<array>
+			<string> Mollusques</string>
+			<string> Ce n'est pas donné</string>
+			<string>TARETS</string>
+			<string>PRET</string>
+		</array>
+		<array>
+			<string> Mollusques</string>
+			<string> Fatiguées</string>
+			<string>TARETS</string>
+			<string>LASSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Était dirigées par Himmler</string>
+			<string> Colères</string>
+			<string>SS</string>
+			<string>IRES</string>
+		</array>
+		<array>
+			<string> Était dirigées par Himmler</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>SS</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Flairée</string>
+			<string> Ils sont étanches</string>
+			<string>HALENEE</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Flairée</string>
+			<string> Plante à grandes feuilles</string>
+			<string>HALENEE</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string> Flairée</string>
+			<string> Largeur d'une étoffe</string>
+			<string>HALENEE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string> Flairée</string>
+			<string> Vêtement de dessus court</string>
+			<string>HALENEE</string>
+			<string>VESTE</string>
+		</array>
+		<array>
+			<string> Flairée</string>
+			<string> Plante aromatique</string>
+			<string>HALENEE</string>
+			<string>ANETH</string>
+		</array>
+		<array>
+			<string> Flairée</string>
+			<string> Commune française</string>
+			<string>HALENEE</string>
+			<string>AREN</string>
+		</array>
+		<array>
+			<string> Flairée</string>
+			<string> Exagérée</string>
+			<string>HALENEE</string>
+			<string>SALEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Il a déjà été important</string>
+			<string> Fatiguées</string>
+			<string>EX</string>
+			<string>LASSES</string>
+		</array>
+		<array>
+			<string> Il a déjà été important</string>
+			<string></string>
+			<string>EX</string>
+			<string>X</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Jetons dans la Rome antique</string>
+			<string>E</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Ils sont étanches</string>
+			<string>ACE</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Plante à grandes feuilles</string>
+			<string>ACE</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Largeur d'une étoffe</string>
+			<string>ACE</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Plante aromatique</string>
+			<string>EN</string>
+			<string>ANETH</string>
+		</array>
+		<array>
+			<string> Dans</string>
+			<string> Commune française</string>
+			<string>EN</string>
+			<string>AREN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Ne sait pas où aller</string>
+			<string>ES</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Fatiguées</string>
+			<string>ES</string>
+			<string>LASSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Armes</string>
+			<string>AR</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string> Gaz rare</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>AR</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Négation</string>
+			<string> Ils sont étanches</string>
+			<string>NE</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Négation</string>
+			<string> Plante à grandes feuilles</string>
+			<string>NE</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Leur duvet est apprécié</string>
+			<string>ET</string>
+			<string>EIDERS</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Plante aromatique</string>
+			<string>ET</string>
+			<string>ANETH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> S'enroulent au toucher</string>
+			<string>IR</string>
+			<string>IULES</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Ne sait pas où aller</string>
+			<string>IR</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string></string>
+			<string>ERE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Armes</string>
+			<string>ERE</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>ERE</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Ils sont étanches</string>
+			<string>DEMIHEURE</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Plante à grandes feuilles</string>
+			<string>DEMIHEURE</string>
+			<string>IRIDACEE</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Propriété collective russe</string>
+			<string>DEMIHEURE</string>
+			<string>MIR</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Leur duvet est apprécié</string>
+			<string>DEMIHEURE</string>
+			<string>EIDERS</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Plante aromatique</string>
+			<string>DEMIHEURE</string>
+			<string>ANETH</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> D'un auxiliaire</string>
+			<string>DEMIHEURE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> S'enroulent au toucher</string>
+			<string>DEMIHEURE</string>
+			<string>IULES</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Ne sait pas où aller</string>
+			<string>DEMIHEURE</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Mesure de temps</string>
+			<string> Une adresse</string>
+			<string>DEMIHEURE</string>
+			<string>EMAIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Armes</string>
+			<string>CS</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Jetons dans la Rome antique</string>
+			<string>CS</string>
+			<string>TESSERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Ils sont étanches</string>
+			<string>R</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Propriété collective russe</string>
+			<string>ID</string>
+			<string>MIR</string>
+		</array>
+		<array>
+			<string> De même</string>
+			<string> Leur duvet est apprécié</string>
+			<string>ID</string>
+			<string>EIDERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> D'un auxiliaire</string>
+			<string>ULEMAS</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> S'enroulent au toucher</string>
+			<string>ULEMAS</string>
+			<string>IULES</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Ne sait pas où aller</string>
+			<string>ULEMAS</string>
+			<string>ERRE</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Une adresse</string>
+			<string>ULEMAS</string>
+			<string>EMAIL</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Chou</string>
+			<string>ULEMAS</string>
+			<string>ANGE</string>
+		</array>
+		<array>
+			<string> Théologiens musulmans</string>
+			<string> Armes</string>
+			<string>ULEMAS</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Commune française</string>
+			<string> Ils sont étanches</string>
+			<string>EVRES</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Constatés</string>
+			<string>EVRES</string>
+			<string>VUS</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Propriété collective russe</string>
+			<string>EVRES</string>
+			<string>MIR</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Leur duvet est apprécié</string>
+			<string>EVRES</string>
+			<string>EIDERS</string>
+		</array>
+		<array>
+			<string> Commune française</string>
+			<string> Pronom</string>
+			<string>EVRES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> S'enroulent au toucher</string>
+			<string>E</string>
+			<string>IULES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Une adresse</string>
+			<string>AN</string>
+			<string>EMAIL</string>
+		</array>
+		<array>
+			<string> Une révolution compète</string>
+			<string> Chou</string>
+			<string>AN</string>
+			<string>ANGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>  Règles</string>
+			<string>T</string>
+			<string>TES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Connu</string>
+			<string> Ils sont étanches</string>
+			<string>SU</string>
+			<string>SCAPHANDRES</string>
+		</array>
+		<array>
+			<string> Connu</string>
+			<string> Constatés</string>
+			<string>SU</string>
+			<string>VUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Leur duvet est apprécié</string>
+			<string>RENSEIGNE</string>
+			<string>EIDERS</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Pronom</string>
+			<string>RENSEIGNE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Nickel</string>
+			<string>RENSEIGNE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> S'enroulent au toucher</string>
+			<string>RENSEIGNE</string>
+			<string>IULES</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Au sein du sein</string>
+			<string>RENSEIGNE</string>
+			<string>EI</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Une adresse</string>
+			<string>RENSEIGNE</string>
+			<string>EMAIL</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Chou</string>
+			<string>RENSEIGNE</string>
+			<string>ANGE</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string> Dépouillé</string>
+			<string>RENSEIGNE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Informe</string>
+			<string>  Règles</string>
+			<string>RENSEIGNE</string>
+			<string>TES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Appel à l'aide</string>
+			<string> Constatés</string>
+			<string>SOS</string>
+			<string>VUS</string>
+		</array>
+		<array>
+			<string> Appel à l'aide</string>
+			<string></string>
+			<string>SOS</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Appel à l'aide</string>
+			<string> Leur duvet est apprécié</string>
+			<string>SOS</string>
+			<string>EIDERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Nickel</string>
+			<string>I</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Occlusion intestinale</string>
+			<string> Au sein du sein</string>
+			<string>ILEUS</string>
+			<string>EI</string>
+		</array>
+		<array>
+			<string> Occlusion intestinale</string>
+			<string> Une adresse</string>
+			<string>ILEUS</string>
+			<string>EMAIL</string>
+		</array>
+		<array>
+			<string> Occlusion intestinale</string>
+			<string> Chou</string>
+			<string>ILEUS</string>
+			<string>ANGE</string>
+		</array>
+		<array>
+			<string> Occlusion intestinale</string>
+			<string> Dépouillé</string>
+			<string>ILEUS</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string> Occlusion intestinale</string>
+			<string>  Règles</string>
+			<string>ILEUS</string>
+			<string>TES</string>
+		</array>
+	</array>
+</array>
+</plist>

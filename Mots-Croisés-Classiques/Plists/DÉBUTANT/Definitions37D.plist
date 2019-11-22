@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>MAISONNEE</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Lieu d'enseignement d'un gourou</string>
+			<string>MAISONNEE</string>
+			<string>ASRAM</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Norme internationale</string>
+			<string>MAISONNEE</string>
+			<string>ISO</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Font parties d'une fleur</string>
+			<string>MAISONNEE</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Pronom indéfini.</string>
+			<string>MAISONNEE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Stupide</string>
+			<string>MAISONNEE</string>
+			<string>NIAIS</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Arrivées</string>
+			<string>MAISONNEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string> Note</string>
+			<string>MAISONNEE</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Les habitants d'une maison</string>
+			<string></string>
+			<string>MAISONNEE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>ESSENIEN</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Lieu d'enseignement d'un gourou</string>
+			<string>ESSENIEN</string>
+			<string>ASRAM</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Norme internationale</string>
+			<string>ESSENIEN</string>
+			<string>ISO</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Font parties d'une fleur</string>
+			<string>ESSENIEN</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Pronom indéfini.</string>
+			<string>ESSENIEN</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Stupide</string>
+			<string>ESSENIEN</string>
+			<string>NIAIS</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Arrivées</string>
+			<string>ESSENIEN</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Relatif à une secte juive</string>
+			<string> Note</string>
+			<string>ESSENIEN</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Réservé</string>
+			<string>R</string>
+			<string>RETENU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Excessivement</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>TROP</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Excessivement</string>
+			<string> Lieu d'enseignement d'un gourou</string>
+			<string>TROP</string>
+			<string>ASRAM</string>
+		</array>
+		<array>
+			<string> Excessivement</string>
+			<string> Norme internationale</string>
+			<string>TROP</string>
+			<string>ISO</string>
+		</array>
+		<array>
+			<string> Excessivement</string>
+			<string> Font parties d'une fleur</string>
+			<string>TROP</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Stupide</string>
+			<string>AEREE</string>
+			<string>NIAIS</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Arrivées</string>
+			<string>AEREE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Note</string>
+			<string>AEREE</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Harnachées</string>
+			<string>AEREE</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string> Ventilée</string>
+			<string> Réservé</string>
+			<string>AEREE</string>
+			<string>RETENU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>AA</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Ne boit plus</string>
+			<string> Lieu d'enseignement d'un gourou</string>
+			<string>AA</string>
+			<string>ASRAM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Font parties d'une fleur</string>
+			<string>AVISENT</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Avances</string>
+			<string>AVISENT</string>
+			<string>VAS</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Stupide</string>
+			<string>AVISENT</string>
+			<string>NIAIS</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Arrivées</string>
+			<string>AVISENT</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Note</string>
+			<string>AVISENT</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Harnachées</string>
+			<string>AVISENT</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string> Avertissent</string>
+			<string> Réservé</string>
+			<string>AVISENT</string>
+			<string>RETENU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Familles nombreuses</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>SMALAS</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Familles nombreuses</string>
+			<string> Lieu d'enseignement d'un gourou</string>
+			<string>SMALAS</string>
+			<string>ASRAM</string>
+		</array>
+		<array>
+			<string> Familles nombreuses</string>
+			<string> Espère</string>
+			<string>SMALAS</string>
+			<string>ATTEND</string>
+		</array>
+		<array>
+			<string> Familles nombreuses</string>
+			<string> Font parties d'une fleur</string>
+			<string>SMALAS</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string> Familles nombreuses</string>
+			<string> Avances</string>
+			<string>SMALAS</string>
+			<string>VAS</string>
+		</array>
+		<array>
+			<string> Familles nombreuses</string>
+			<string> Stupide</string>
+			<string>SMALAS</string>
+			<string>NIAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Convenance</string>
+			<string> Note</string>
+			<string>GRE</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Convenance</string>
+			<string> Harnachées</string>
+			<string>GRE</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string> Convenance</string>
+			<string> Réservé</string>
+			<string>GRE</string>
+			<string>RETENU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Foyers secondaires du cancer</string>
+			<string>T</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Espère</string>
+			<string>TES</string>
+			<string>ATTEND</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Font parties d'une fleur</string>
+			<string>TES</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string>  Règles.</string>
+			<string> Avances</string>
+			<string>TES</string>
+			<string>VAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Appel à l'aide</string>
+			<string>SIEN</string>
+			<string>SOS</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Note</string>
+			<string>SIEN</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Harnachées</string>
+			<string>SIEN</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string> Adjectif possessif</string>
+			<string> Réservé</string>
+			<string>SIEN</string>
+			<string>RETENU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Poésies par exemple</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>ARTS</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Poésies par exemple</string>
+			<string> Petit ruisseau</string>
+			<string>ARTS</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Poésies par exemple</string>
+			<string> Espère</string>
+			<string>ARTS</string>
+			<string>ATTEND</string>
+		</array>
+		<array>
+			<string> Poésies par exemple</string>
+			<string> Font parties d'une fleur</string>
+			<string>ARTS</string>
+			<string>SEPALES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vêtement se fixant derrière le cou</string>
+			<string> N'a pas été payées</string>
+			<string>DOSNU</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string> Vêtement se fixant derrière le cou</string>
+			<string> Appel à l'aide</string>
+			<string>DOSNU</string>
+			<string>SOS</string>
+		</array>
+		<array>
+			<string> Vêtement se fixant derrière le cou</string>
+			<string> Note</string>
+			<string>DOSNU</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Vêtement se fixant derrière le cou</string>
+			<string> Harnachées</string>
+			<string>DOSNU</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string> Vêtement se fixant derrière le cou</string>
+			<string> Réservé</string>
+			<string>DOSNU</string>
+			<string>RETENU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trime dur</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>SUE</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Petit ruisseau</string>
+			<string>SUE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string> Trime dur</string>
+			<string> Espère</string>
+			<string>SUE</string>
+			<string>ATTEND</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Ornement en relief</string>
+			<string>OUSTE</string>
+			<string>OVE</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> N'a pas été payées</string>
+			<string>OUSTE</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Appel à l'aide</string>
+			<string>OUSTE</string>
+			<string>SOS</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Note</string>
+			<string>OUSTE</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Dehors!</string>
+			<string> Harnachées</string>
+			<string>OUSTE</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Foyers secondaires du cancer</string>
+			<string>E</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Amas de neige durcie</string>
+			<string> Espère</string>
+			<string>NEVE</string>
+			<string>ATTEND</string>
+		</array>
+		<array>
+			<string> Amas de neige durcie</string>
+			<string></string>
+			<string>NEVE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Amas de neige durcie</string>
+			<string> Ornement en relief</string>
+			<string>NEVE</string>
+			<string>OVE</string>
+		</array>
+		<array>
+			<string> Amas de neige durcie</string>
+			<string> N'a pas été payées</string>
+			<string>NEVE</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Note</string>
+			<string>REA</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string> Harnachées</string>
+			<string>REA</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string> Poulie à gorge</string>
+			<string></string>
+			<string>REA</string>
+			<string>A</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Foyers secondaires du cancer</string>
+			<string>SUD</string>
+			<string>METASTASES</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string></string>
+			<string>SUD</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string> Point cardinal</string>
+			<string> Espère</string>
+			<string>SUD</string>
+			<string>ATTEND</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Ornement en relief</string>
+			<string>ESSES</string>
+			<string>OVE</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> N'a pas été payées</string>
+			<string>ESSES</string>
+			<string>DUES</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string></string>
+			<string>ESSES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Note</string>
+			<string>ESSES</string>
+			<string>ENREGISTRE</string>
+		</array>
+		<array>
+			<string> Crochets</string>
+			<string> Harnachées</string>
+			<string>ESSES</string>
+			<string>ENRENEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+</array>
+</plist>

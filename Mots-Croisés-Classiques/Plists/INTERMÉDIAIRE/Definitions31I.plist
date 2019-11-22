@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Purées d&apos;avocat</string>
+			<string>GRATTECIEL</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Radon</string>
+			<string>GRATTECIEL</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Affables</string>
+			<string>GRATTECIEL</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Traumatisme crânien</string>
+			<string>GRATTECIEL</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Plusieurs et c&apos;est une rafale</string>
+			<string>GRATTECIEL</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Rabat-joie (pl)</string>
+			<string>GRATTECIEL</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Pied de vigne</string>
+			<string>GRATTECIEL</string>
+			<string>CEP</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string></string>
+			<string>GRATTECIEL</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Commune française</string>
+			<string>GRATTECIEL</string>
+			<string>ERR</string>
+		</array>
+		<array>
+			<string>Immeuble à multiples étages</string>
+			<string>Parcourues</string>
+			<string>GRATTECIEL</string>
+			<string>LUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Singularité</string>
+			<string>Purées d&apos;avocat</string>
+			<string>UNICITE</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Singularité</string>
+			<string>Radon</string>
+			<string>UNICITE</string>
+			<string>RN</string>
+		</array>
+		<array>
+			<string>Singularité</string>
+			<string>Affables</string>
+			<string>UNICITE</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string>Singularité</string>
+			<string>Traumatisme crânien</string>
+			<string>UNICITE</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Singularité</string>
+			<string>Plusieurs et c&apos;est une rafale</string>
+			<string>UNICITE</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Singularité</string>
+			<string>Rabat-joie (pl)</string>
+			<string>UNICITE</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Singularité</string>
+			<string>Pied de vigne</string>
+			<string>UNICITE</string>
+			<string>CEP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ruthénium</string>
+			<string>Commune française</string>
+			<string>RU</string>
+			<string>ERR</string>
+		</array>
+		<array>
+			<string>Ruthénium</string>
+			<string>Parcourues</string>
+			<string>RU</string>
+			<string>LUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Purées d&apos;avocat</string>
+			<string>A</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Affables</string>
+			<string>M</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Restaure</string>
+			<string>Plusieurs et c&apos;est une rafale</string>
+			<string>REPARE</string>
+			<string>TIR</string>
+		</array>
+		<array>
+			<string>Restaure</string>
+			<string>Rabat-joie (pl)</string>
+			<string>REPARE</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Restaure</string>
+			<string>Pied de vigne</string>
+			<string>REPARE</string>
+			<string>CEP</string>
+		</array>
+		<array>
+			<string>Restaure</string>
+			<string>Structure de la vie</string>
+			<string>REPARE</string>
+			<string>ADN</string>
+		</array>
+		<array>
+			<string>Restaure</string>
+			<string>Commune française</string>
+			<string>REPARE</string>
+			<string>ERR</string>
+		</array>
+		<array>
+			<string>Restaure</string>
+			<string>Parcourues</string>
+			<string>REPARE</string>
+			<string>LUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bruit sec</string>
+			<string>Purées d&apos;avocat</string>
+			<string>CLAC</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Bruit sec</string>
+			<string>Brillant</string>
+			<string>CLAC</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string>Bruit sec</string>
+			<string>Affables</string>
+			<string>CLAC</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string>Bruit sec</string>
+			<string>Adjectif démonstratif</string>
+			<string>CLAC</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rabat-joie (pl)</string>
+			<string>I</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Structure de la vie</string>
+			<string>D</string>
+			<string>ADN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Parcourues</string>
+			<string>S</string>
+			<string>LUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Purées d&apos;avocat</string>
+			<string>AUBERGINE</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Brillant</string>
+			<string>AUBERGINE</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Affables</string>
+			<string>AUBERGINE</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Adjectif démonstratif</string>
+			<string>AUBERGINE</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string></string>
+			<string>AUBERGINE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Rabat-joie (pl)</string>
+			<string>AUBERGINE</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Idem</string>
+			<string>AUBERGINE</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Structure de la vie</string>
+			<string>AUBERGINE</string>
+			<string>ADN</string>
+		</array>
+		<array>
+			<string>Fruit oblong et violet</string>
+			<string>Terminaison de verbe</string>
+			<string>AUBERGINE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Céréales</string>
+			<string>Purées d&apos;avocat</string>
+			<string>MILS</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Brillant</string>
+			<string>MILS</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Affables</string>
+			<string>MILS</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Adjectif démonstratif</string>
+			<string>MILS</string>
+			<string>CES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Notre-Dame</string>
+			<string>Rabat-joie (pl)</string>
+			<string>ND</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Notre-Dame</string>
+			<string>Idem</string>
+			<string>ND</string>
+			<string>ID</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ruisseau</string>
+			<string>Terminaison de verbe</string>
+			<string>RU</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Ruisseau</string>
+			<string>Cité antique</string>
+			<string>RU</string>
+			<string>UR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Licencieux</string>
+			<string>Purées d&apos;avocat</string>
+			<string>OSE</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Licencieux</string>
+			<string>Brillant</string>
+			<string>OSE</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string>Licencieux</string>
+			<string>Affables</string>
+			<string>OSE</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jeux de stratégie</string>
+			<string>Gallium</string>
+			<string>GO</string>
+			<string>GA</string>
+		</array>
+		<array>
+			<string>Jeux de stratégie</string>
+			<string>Rabat-joie (pl)</string>
+			<string>GO</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Avant les autres</string>
+			<string>U</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Cité antique</string>
+			<string>R</string>
+			<string>UR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Purées d&apos;avocat</string>
+			<string>LASSAIENT</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Brillant</string>
+			<string>LASSAIENT</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Affables</string>
+			<string>LASSAIENT</string>
+			<string>AIMABLES</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Qui a un goût acide</string>
+			<string>LASSAIENT</string>
+			<string>SUR</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Gallium</string>
+			<string>LASSAIENT</string>
+			<string>GA</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Rabat-joie (pl)</string>
+			<string>LASSAIENT</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Dupé</string>
+			<string>LASSAIENT</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Avant les autres</string>
+			<string>LASSAIENT</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string>Ennuyaient</string>
+			<string>Mesure thermique</string>
+			<string>LASSAIENT</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans</string>
+			<string>Purées d&apos;avocat</string>
+			<string>EN</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Dans</string>
+			<string>Brillant</string>
+			<string>EN</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Qui a un goût acide</string>
+			<string>U</string>
+			<string>SUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Déferlements</string>
+			<string>Rabat-joie (pl)</string>
+			<string>RUEES</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string>Déferlements</string>
+			<string>Dupé</string>
+			<string>RUEES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Déferlements</string>
+			<string>Avant les autres</string>
+			<string>RUEES</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string>Déferlements</string>
+			<string>Mesure thermique</string>
+			<string>RUEES</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Déferlements</string>
+			<string>Pas à toi</string>
+			<string>RUEES</string>
+			<string>SA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Volumes de bois</string>
+			<string>Purées d&apos;avocat</string>
+			<string>STERES</string>
+			<string>GUACAMOLES</string>
+		</array>
+		<array>
+			<string>Volumes de bois</string>
+			<string>Brillant</string>
+			<string>STERES</string>
+			<string>LUISANT</string>
+		</array>
+		<array>
+			<string>Volumes de bois</string>
+			<string></string>
+			<string>STERES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Volumes de bois</string>
+			<string>Qui a un goût acide</string>
+			<string>STERES</string>
+			<string>SUR</string>
+		</array>
+		<array>
+			<string>Volumes de bois</string>
+			<string></string>
+			<string>STERES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Volumes de bois</string>
+			<string>Rabat-joie (pl)</string>
+			<string>STERES</string>
+			<string>ETEIGNOIRS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jacuzzi</string>
+			<string>Avant les autres</string>
+			<string>SPA</string>
+			<string>UNES</string>
+		</array>
+		<array>
+			<string>Jacuzzi</string>
+			<string>Mesure thermique</string>
+			<string>SPA</string>
+			<string>TEP</string>
+		</array>
+		<array>
+			<string>Jacuzzi</string>
+			<string>Pas à toi</string>
+			<string>SPA</string>
+			<string>SA</string>
+		</array>
+	</array>
+</array>
+</plist>

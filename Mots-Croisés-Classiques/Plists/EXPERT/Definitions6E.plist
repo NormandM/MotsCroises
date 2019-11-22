@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>MALEDICTIONS</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Monnaie romaine</string>
+			<string>MALEDICTIONS</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Désavantagée</string>
+			<string>MALEDICTIONS</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string>  Périodes historiques</string>
+			<string>MALEDICTIONS</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Grade des arts martiaux</string>
+			<string>MALEDICTIONS</string>
+			<string>DAN</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string></string>
+			<string>MALEDICTIONS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Césium</string>
+			<string>MALEDICTIONS</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>MALEDICTIONS</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string>MALEDICTIONS</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Hôpital</string>
+			<string>MALEDICTIONS</string>
+			<string>OSTO</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Arrivées</string>
+			<string>MALEDICTIONS</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Malheurs superstitieux</string>
+			<string> Circulaient à Rome</string>
+			<string>MALEDICTIONS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Foncera</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>OSERA</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Monnaie romaine</string>
+			<string>OSERA</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Désavantagée</string>
+			<string>OSERA</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string>  Périodes historiques</string>
+			<string>OSERA</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Foncera</string>
+			<string> Grade des arts martiaux</string>
+			<string>OSERA</string>
+			<string>DAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Césium</string>
+			<string>SENSEE</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>SENSEE</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string>SENSEE</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Hôpital</string>
+			<string>SENSEE</string>
+			<string>OSTO</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Arrivées</string>
+			<string>SENSEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Raisonnable</string>
+			<string> Circulaient à Rome</string>
+			<string>SENSEE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Ne sont pas de tout repos</string>
+			<string>U</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Laxatif</string>
+			<string> Désavantagée</string>
+			<string>SENE</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Laxatif</string>
+			<string>  Périodes historiques</string>
+			<string>SENE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string> Laxatif</string>
+			<string> Grade des arts martiaux</string>
+			<string>SENE</string>
+			<string>DAN</string>
+		</array>
+		<array>
+			<string> Laxatif</string>
+			<string>Estoniens</string>
+			<string>SENE</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Plats asiatiques</string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>SATES</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Plats asiatiques</string>
+			<string> Institut national de l&apos;audiovisuel</string>
+			<string>SATES</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string> Plats asiatiques</string>
+			<string> Hôpital</string>
+			<string>SATES</string>
+			<string>OSTO</string>
+		</array>
+		<array>
+			<string> Plats asiatiques</string>
+			<string> Arrivées</string>
+			<string>SATES</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> Plats asiatiques</string>
+			<string> Circulaient à Rome</string>
+			<string>SATES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Existences</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>VIES</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Existences</string>
+			<string> Manque d&apos;habileté</string>
+			<string>VIES</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Existences</string>
+			<string> Désavantagée</string>
+			<string>VIES</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string> Existences</string>
+			<string>  Périodes historiques</string>
+			<string>VIES</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string>Estoniens</string>
+			<string>SET</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Plante herbacée</string>
+			<string>SET</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Terme de tennis</string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>SET</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> C&apos;était une armée</string>
+			<string> Hôpital</string>
+			<string>OST</string>
+			<string>OSTO</string>
+		</array>
+		<array>
+			<string> C&apos;était une armée</string>
+			<string> Arrivées</string>
+			<string>OST</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string> C&apos;était une armée</string>
+			<string> Circulaient à Rome</string>
+			<string>OST</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Orientation</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>ENE</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Orientation</string>
+			<string> Manque d&apos;habileté</string>
+			<string>ENE</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Orientation</string>
+			<string> Désavantagée</string>
+			<string>ENE</string>
+			<string>LESEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Foyers</string>
+			<string> Lopins de terre</string>
+			<string>ATRES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Foyers</string>
+			<string>Estoniens</string>
+			<string>ATRES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Foyers</string>
+			<string> Plante herbacée</string>
+			<string>ATRES</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Foyers</string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>ATRES</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Foyers</string>
+			<string> Métal malléable</string>
+			<string>ATRES</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Circulaient à Rome</string>
+			<string>E</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom personnel</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>ME</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Pronom personnel</string>
+			<string> Manque d&apos;habileté</string>
+			<string>ME</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string></string>
+			<string>PRESENTER</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Lopins de terre</string>
+			<string>PRESENTER</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string>Estoniens</string>
+			<string>PRESENTER</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Plante herbacée</string>
+			<string>PRESENTER</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>PRESENTER</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Métal malléable</string>
+			<string>PRESENTER</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Explorées</string>
+			<string>PRESENTER</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Inexacte</string>
+			<string>PRESENTER</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string> Montrer ostensiblement</string>
+			<string> Circulaient à Rome</string>
+			<string>PRESENTER</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Préfixe signifiant au-dehors</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>EXO</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Préfixe signifiant au-dehors</string>
+			<string> Manque d&apos;habileté</string>
+			<string>EXO</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Préfixe signifiant au-dehors</string>
+			<string></string>
+			<string>EXO</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> En matière de</string>
+			<string> Lopins de terre</string>
+			<string>ES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string> En matière de</string>
+			<string>Estoniens</string>
+			<string>ES</string>
+			<string>ESTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Mises à l&apos;épreuve</string>
+			<string>S</string>
+			<string>TESTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Arme</string>
+			<string> Explorées</string>
+			<string>ARC</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Arme</string>
+			<string> Inexacte</string>
+			<string>ARC</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string> Arme</string>
+			<string> Circulaient à Rome</string>
+			<string>ARC</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Neptunium</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>NP</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Neptunium</string>
+			<string> Manque d&apos;habileté</string>
+			<string>NP</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> À la fin d&apos;une lettre</string>
+			<string> Pascal</string>
+			<string>PS</string>
+			<string>PA</string>
+		</array>
+		<array>
+			<string> À la fin d&apos;une lettre</string>
+			<string> Lopins de terre</string>
+			<string>PS</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Plus court</string>
+			<string>E</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Infinitif</string>
+			<string>ETRE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Explorées</string>
+			<string>ETRE</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Inexacte</string>
+			<string>ETRE</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string> Exister</string>
+			<string> Circulaient à Rome</string>
+			<string>ETRE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Indique une multiplication</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>TERA</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Indique une multiplication</string>
+			<string> Manque d&apos;habileté</string>
+			<string>TERA</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Indique une multiplication</string>
+			<string> Vrai</string>
+			<string>TERA</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Indique une multiplication</string>
+			<string> Pascal</string>
+			<string>TERA</string>
+			<string>PA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Fait partie des statistiques</string>
+			<string>STEREOS</string>
+			<string>STAT</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Plus court</string>
+			<string>STEREOS</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Levant</string>
+			<string>STEREOS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Infinitif</string>
+			<string>STEREOS</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Explorées</string>
+			<string>STEREOS</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Inexacte</string>
+			<string>STEREOS</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string> Relatifs à une technique de relief acoustique</string>
+			<string> Circulaient à Rome</string>
+			<string>STEREOS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Période</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>ERE</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Manque d&apos;habileté</string>
+			<string>ERE</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Vrai</string>
+			<string>ERE</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string></string>
+			<string>OTES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Fait partie des statistiques</string>
+			<string>OTES</string>
+			<string>STAT</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Plus court</string>
+			<string>OTES</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Enlèves</string>
+			<string> Levant</string>
+			<string>OTES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Explorées</string>
+			<string>EN</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Indique la manière</string>
+			<string> Inexacte</string>
+			<string>EN</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>ETES</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Manque d&apos;habileté</string>
+			<string>ETES</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Vrai</string>
+			<string>ETES</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Pronom</string>
+			<string>ETES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Fait partie des statistiques</string>
+			<string>ATTISES</string>
+			<string>STAT</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Plus court</string>
+			<string>ATTISES</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Levant</string>
+			<string>ATTISES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Fin de verbe</string>
+			<string>ATTISES</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Explorées</string>
+			<string>ATTISES</string>
+			<string>TATEES</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Inexacte</string>
+			<string>ATTISES</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string> Avives</string>
+			<string> Il a vécu une vie exemplaire</string>
+			<string>ATTISES</string>
+			<string>ST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Élégante</string>
+			<string>Ne sont pas de tout repos</string>
+			<string>SELECTE</string>
+			<string>MOUVEMENTEES</string>
+		</array>
+		<array>
+			<string> Élégante</string>
+			<string> Manque d&apos;habileté</string>
+			<string>SELECTE</string>
+			<string>INEXPERTE</string>
+		</array>
+		<array>
+			<string> Élégante</string>
+			<string> Vrai</string>
+			<string>SELECTE</string>
+			<string>REEL</string>
+		</array>
+		<array>
+			<string> Élégante</string>
+			<string> Pronom</string>
+			<string>SELECTE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Élégante</string>
+			<string></string>
+			<string>SELECTE</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string> Élégante</string>
+			<string> Fait partie des statistiques</string>
+			<string>SELECTE</string>
+			<string>STAT</string>
+		</array>
+		<array>
+			<string> Élégante</string>
+			<string> Plus court</string>
+			<string>SELECTE</string>
+			<string>ETETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Fin de verbe</string>
+			<string>R</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Inexacte</string>
+			<string>ET</string>
+			<string>ERRONEE</string>
+		</array>
+		<array>
+			<string> Liaison</string>
+			<string> Il a vécu une vie exemplaire</string>
+			<string>ET</string>
+			<string>ST</string>
+		</array>
+	</array>
+</array>
+</plist>
