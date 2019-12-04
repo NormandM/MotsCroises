@@ -32,6 +32,9 @@
 		8E10A14F2344DB50005F45B6 /* CoreDataHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E10A1492344DB50005F45B6 /* CoreDataHandler.swift */; };
 		8E10A1512344DB50005F45B6 /* StringToIndexPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E10A14C2344DB50005F45B6 /* StringToIndexPath.swift */; };
 		8E21697C1E5F616100C17EEA /* MotsCroise.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8E21697A1E5F616100C17EEA /* MotsCroise.xcdatamodeld */; };
+		8E225047239574E800ABB7E5 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E225046239574E800ABB7E5 /* Extensions.swift */; };
+		8E2250492398661500ABB7E5 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2250482398661500ABB7E5 /* SoundPlayer.swift */; };
+		8E22504B239867DE00ABB7E5 /* music_harp_gliss_up.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8E22504A239867DE00ABB7E5 /* music_harp_gliss_up.wav */; };
 		8E248C57237F566D00F91C2B /* Definitions27E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E248C52237F566C00F91C2B /* Definitions27E.plist */; };
 		8E248C58237F566D00F91C2B /* Definitions28E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E248C53237F566C00F91C2B /* Definitions28E.plist */; };
 		8E248C59237F566D00F91C2B /* Definitions29E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E248C54237F566C00F91C2B /* Definitions29E.plist */; };
@@ -99,7 +102,6 @@
 		8E270B9E236B386200EAED3E /* Definitions14D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B68236B386100EAED3E /* Definitions14D.plist */; };
 		8E270B9F236B386200EAED3E /* Definitions1G.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B69236B386100EAED3E /* Definitions1G.plist */; };
 		8E270BA0236B386200EAED3E /* Definitions46D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B6A236B386100EAED3E /* Definitions46D.plist */; };
-		8E270BA1236B386200EAED3E /* Definitions26D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B6B236B386100EAED3E /* Definitions26D.plist */; };
 		8E270BA2236B386200EAED3E /* Definitions19D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B6C236B386200EAED3E /* Definitions19D.plist */; };
 		8E270BA3236B386200EAED3E /* Definitions37D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B6D236B386200EAED3E /* Definitions37D.plist */; };
 		8E32D8A02360B9B100BCEC80 /* Lettres5D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E32D89F2360B9B100BCEC80 /* Lettres5D.plist */; };
@@ -170,7 +172,10 @@
 		8E66377A2354F5D1006B8112 /* Lettres48I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6637792354F5D0006B8112 /* Lettres48I.plist */; };
 		8E66377E2354F612006B8112 /* Lettres49I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E66377D2354F612006B8112 /* Lettres49I.plist */; };
 		8E6637822354F654006B8112 /* Lettres50I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6637812354F654006B8112 /* Lettres50I.plist */; };
-		8E78BD22238755C400C30BF2 /* Definitions44E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD18238755C100C30BF2 /* Definitions44E.plist */; };
+		8E77E1F123902623004CFCAF /* Lettres26D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F023902623004CFCAF /* Lettres26D.plist */; };
+		8E77E1F323902635004CFCAF /* Definitions26D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F223902635004CFCAF /* Definitions26D.plist */; };
+		8E77E1F523902653004CFCAF /* Lettres44E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F423902653004CFCAF /* Lettres44E.plist */; };
+		8E77E1F92390267A004CFCAF /* Definitions44E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F82390267A004CFCAF /* Definitions44E.plist */; };
 		8E78BD23238755C400C30BF2 /* Definitions43E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD19238755C200C30BF2 /* Definitions43E.plist */; };
 		8E78BD24238755C400C30BF2 /* Definitions42E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD1A238755C200C30BF2 /* Definitions42E.plist */; };
 		8E78BD25238755C400C30BF2 /* Definitions48E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD1B238755C200C30BF2 /* Definitions48E.plist */; };
@@ -183,7 +188,6 @@
 		8E78BD36238755DA00C30BF2 /* Lettres46E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD2C238755D900C30BF2 /* Lettres46E.plist */; };
 		8E78BD37238755DA00C30BF2 /* Lettres45E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD2D238755D900C30BF2 /* Lettres45E.plist */; };
 		8E78BD38238755DA00C30BF2 /* Lettres41E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD2E238755D900C30BF2 /* Lettres41E.plist */; };
-		8E78BD39238755DA00C30BF2 /* Lettres44E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD2F238755D900C30BF2 /* Lettres44E.plist */; };
 		8E78BD3A238755DA00C30BF2 /* Lettres43E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD30238755D900C30BF2 /* Lettres43E.plist */; };
 		8E78BD3B238755DA00C30BF2 /* Lettres47E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD31238755DA00C30BF2 /* Lettres47E.plist */; };
 		8E78BD3C238755DA00C30BF2 /* Lettres50E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E78BD32238755DA00C30BF2 /* Lettres50E.plist */; };
@@ -244,12 +248,14 @@
 		8E7B6B3323886BD50099091A /* Definitions3G.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B3223886BD50099091A /* Definitions3G.plist */; };
 		8E7B6B3523886BE60099091A /* Definitions15D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B3423886BE60099091A /* Definitions15D.plist */; };
 		8E7B6B3723886C1A0099091A /* Definitions20E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B3623886C1A0099091A /* Definitions20E.plist */; };
-		8E7B6B3923886C3A0099091A /* Definitions42D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B3823886C3A0099091A /* Definitions42D.plist */; };
 		8E7B6B4023886CBD0099091A /* Lettres2G.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B3E23886CBD0099091A /* Lettres2G.plist */; };
 		8E7B6B4123886CBD0099091A /* Lettres3G.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B3F23886CBD0099091A /* Lettres3G.plist */; };
 		8E7B6B4323886CDB0099091A /* Lettres15D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B4223886CDA0099091A /* Lettres15D.plist */; };
 		8E7B6B4523886D140099091A /* Lettres42D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B4423886D140099091A /* Lettres42D.plist */; };
 		8E7B6B4723886D330099091A /* Lettres20E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7B6B4623886D330099091A /* Lettres20E.plist */; };
+		8E7E3356238C5F7D00DEA987 /* Definitions20D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7E3355238C5F7D00DEA987 /* Definitions20D.plist */; };
+		8E7E335A238C5F9F00DEA987 /* Lettres20D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7E3359238C5F9F00DEA987 /* Lettres20D.plist */; };
+		8E7E3362238C61F600DEA987 /* Definitions42D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7E3361238C61F600DEA987 /* Definitions42D.plist */; };
 		8E7F823823777748006BD325 /* Definitions11E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7F823323777747006BD325 /* Definitions11E.plist */; };
 		8E7F823923777748006BD325 /* Definitions12E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7F823423777747006BD325 /* Definitions12E.plist */; };
 		8E7F823A23777748006BD325 /* Definitions10E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E7F823523777747006BD325 /* Definitions10E.plist */; };
@@ -310,7 +316,6 @@
 		8E968FA4236A41AC00D9AC43 /* Lettres5G.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E968FA3236A41AC00D9AC43 /* Lettres5G.plist */; };
 		8E97E5C12364EFE200292340 /* Lettres8D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E97E5C02364EFE200292340 /* Lettres8D.plist */; };
 		8E97E5C32364F01800292340 /* Lettres25D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E97E5C22364F01800292340 /* Lettres25D.plist */; };
-		8E97E5D12364F05B00292340 /* Lettres26D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E97E5D02364F05B00292340 /* Lettres26D.plist */; };
 		8E97E5D32364F06500292340 /* Lettres27D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E97E5D22364F06500292340 /* Lettres27D.plist */; };
 		8E97E5D52364F06900292340 /* Lettres28D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E97E5D42364F06900292340 /* Lettres28D.plist */; };
 		8E97E5D72364F06F00292340 /* Lettres29D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E97E5D62364F06F00292340 /* Lettres29D.plist */; };
@@ -434,6 +439,9 @@
 		8E205F3F1E5F669700964353 /* AppleGaramond-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Italic.ttf"; sourceTree = "<group>"; };
 		8E205F401E5F669D00964353 /* AppleGaramond-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Light.ttf"; sourceTree = "<group>"; };
 		8E21697B1E5F616100C17EEA /* MotsCroise.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MotsCroise.xcdatamodel; sourceTree = "<group>"; };
+		8E225046239574E800ABB7E5 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		8E2250482398661500ABB7E5 /* SoundPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
+		8E22504A239867DE00ABB7E5 /* music_harp_gliss_up.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = music_harp_gliss_up.wav; sourceTree = "<group>"; };
 		8E248C52237F566C00F91C2B /* Definitions27E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions27E.plist; sourceTree = "<group>"; };
 		8E248C53237F566C00F91C2B /* Definitions28E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions28E.plist; sourceTree = "<group>"; };
 		8E248C54237F566C00F91C2B /* Definitions29E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions29E.plist; sourceTree = "<group>"; };
@@ -501,7 +509,6 @@
 		8E270B68236B386100EAED3E /* Definitions14D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions14D.plist; sourceTree = "<group>"; };
 		8E270B69236B386100EAED3E /* Definitions1G.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions1G.plist; sourceTree = "<group>"; };
 		8E270B6A236B386100EAED3E /* Definitions46D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions46D.plist; sourceTree = "<group>"; };
-		8E270B6B236B386100EAED3E /* Definitions26D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions26D.plist; sourceTree = "<group>"; };
 		8E270B6C236B386200EAED3E /* Definitions19D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions19D.plist; sourceTree = "<group>"; };
 		8E270B6D236B386200EAED3E /* Definitions37D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions37D.plist; sourceTree = "<group>"; };
 		8E2B025D1EB4319600A48BBE /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
@@ -573,7 +580,10 @@
 		8E6637792354F5D0006B8112 /* Lettres48I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Lettres48I.plist; path = ../Lettres48I.plist; sourceTree = "<group>"; };
 		8E66377D2354F612006B8112 /* Lettres49I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Lettres49I.plist; path = ../Lettres49I.plist; sourceTree = "<group>"; };
 		8E6637812354F654006B8112 /* Lettres50I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Lettres50I.plist; path = ../Lettres50I.plist; sourceTree = "<group>"; };
-		8E78BD18238755C100C30BF2 /* Definitions44E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions44E.plist; sourceTree = "<group>"; };
+		8E77E1F023902623004CFCAF /* Lettres26D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres26D.plist; sourceTree = "<group>"; };
+		8E77E1F223902635004CFCAF /* Definitions26D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions26D.plist; sourceTree = "<group>"; };
+		8E77E1F423902653004CFCAF /* Lettres44E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres44E.plist; sourceTree = "<group>"; };
+		8E77E1F82390267A004CFCAF /* Definitions44E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions44E.plist; sourceTree = "<group>"; };
 		8E78BD19238755C200C30BF2 /* Definitions43E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions43E.plist; sourceTree = "<group>"; };
 		8E78BD1A238755C200C30BF2 /* Definitions42E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions42E.plist; sourceTree = "<group>"; };
 		8E78BD1B238755C200C30BF2 /* Definitions48E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions48E.plist; sourceTree = "<group>"; };
@@ -586,7 +596,6 @@
 		8E78BD2C238755D900C30BF2 /* Lettres46E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres46E.plist; sourceTree = "<group>"; };
 		8E78BD2D238755D900C30BF2 /* Lettres45E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres45E.plist; sourceTree = "<group>"; };
 		8E78BD2E238755D900C30BF2 /* Lettres41E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres41E.plist; sourceTree = "<group>"; };
-		8E78BD2F238755D900C30BF2 /* Lettres44E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres44E.plist; sourceTree = "<group>"; };
 		8E78BD30238755D900C30BF2 /* Lettres43E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres43E.plist; sourceTree = "<group>"; };
 		8E78BD31238755DA00C30BF2 /* Lettres47E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres47E.plist; sourceTree = "<group>"; };
 		8E78BD32238755DA00C30BF2 /* Lettres50E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres50E.plist; sourceTree = "<group>"; };
@@ -647,12 +656,14 @@
 		8E7B6B3223886BD50099091A /* Definitions3G.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions3G.plist; sourceTree = "<group>"; };
 		8E7B6B3423886BE60099091A /* Definitions15D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions15D.plist; sourceTree = "<group>"; };
 		8E7B6B3623886C1A0099091A /* Definitions20E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions20E.plist; sourceTree = "<group>"; };
-		8E7B6B3823886C3A0099091A /* Definitions42D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Definitions42D.plist; path = ../../../../Helpercode/CheckDefinitions/CheckDefinitions/Definitions42D.plist; sourceTree = "<group>"; };
 		8E7B6B3E23886CBD0099091A /* Lettres2G.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres2G.plist; sourceTree = "<group>"; };
 		8E7B6B3F23886CBD0099091A /* Lettres3G.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres3G.plist; sourceTree = "<group>"; };
 		8E7B6B4223886CDA0099091A /* Lettres15D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres15D.plist; sourceTree = "<group>"; };
 		8E7B6B4423886D140099091A /* Lettres42D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres42D.plist; sourceTree = "<group>"; };
 		8E7B6B4623886D330099091A /* Lettres20E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres20E.plist; sourceTree = "<group>"; };
+		8E7E3355238C5F7D00DEA987 /* Definitions20D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions20D.plist; sourceTree = "<group>"; };
+		8E7E3359238C5F9F00DEA987 /* Lettres20D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres20D.plist; sourceTree = "<group>"; };
+		8E7E3361238C61F600DEA987 /* Definitions42D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions42D.plist; sourceTree = "<group>"; };
 		8E7F823323777747006BD325 /* Definitions11E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions11E.plist; sourceTree = "<group>"; };
 		8E7F823423777747006BD325 /* Definitions12E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions12E.plist; sourceTree = "<group>"; };
 		8E7F823523777747006BD325 /* Definitions10E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions10E.plist; sourceTree = "<group>"; };
@@ -714,7 +725,6 @@
 		8E968FA3236A41AC00D9AC43 /* Lettres5G.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres5G.plist; sourceTree = "<group>"; };
 		8E97E5C02364EFE200292340 /* Lettres8D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres8D.plist; sourceTree = "<group>"; };
 		8E97E5C22364F01800292340 /* Lettres25D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres25D.plist; sourceTree = "<group>"; };
-		8E97E5D02364F05B00292340 /* Lettres26D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres26D.plist; sourceTree = "<group>"; };
 		8E97E5D22364F06500292340 /* Lettres27D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres27D.plist; sourceTree = "<group>"; };
 		8E97E5D42364F06900292340 /* Lettres28D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres28D.plist; sourceTree = "<group>"; };
 		8E97E5D62364F06F00292340 /* Lettres29D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres29D.plist; sourceTree = "<group>"; };
@@ -879,6 +889,7 @@
 				8E43A16F2342756800110308 /* Valider.swift */,
 				8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */,
 				8E43A1742342756800110308 /* SelectingTextField.swift */,
+				8E225046239574E800ABB7E5 /* Extensions.swift */,
 			);
 			path = MotsCroisesController;
 			sourceTree = "<group>";
@@ -934,6 +945,7 @@
 		8E43A18A2342758500110308 /* FormatFiles */ = {
 			isa = PBXGroup;
 			children = (
+				8E2250482398661500ABB7E5 /* SoundPlayer.swift */,
 				8E43A18B2342758500110308 /* TextFieldMaxLengths.swift.swift */,
 				8E43A18C2342758500110308 /* LabelWithInsets.swift */,
 				8E43A18D2342758500110308 /* MenuAction.swift */,
@@ -1091,12 +1103,13 @@
 				8E270B41236B385800EAED3E /* Definitions17D.plist */,
 				8E270B53236B385C00EAED3E /* Definitions18D.plist */,
 				8E270B6C236B386200EAED3E /* Definitions19D.plist */,
+				8E7E3355238C5F7D00DEA987 /* Definitions20D.plist */,
 				8E270B51236B385C00EAED3E /* Definitions21D.plist */,
 				8E270B4A236B385A00EAED3E /* Definitions22D.plist */,
 				8E270B40236B385800EAED3E /* Definitions23D.plist */,
 				8E270B55236B385D00EAED3E /* Definitions24D.plist */,
 				8E270B49236B385A00EAED3E /* Definitions25D.plist */,
-				8E270B6B236B386100EAED3E /* Definitions26D.plist */,
+				8E77E1F223902635004CFCAF /* Definitions26D.plist */,
 				8E270B5D236B385E00EAED3E /* Definitions27D.plist */,
 				8E270B4B236B385A00EAED3E /* Definitions28D.plist */,
 				8E270B4E236B385B00EAED3E /* Definitions29D.plist */,
@@ -1112,8 +1125,8 @@
 				8E270B5B236B385E00EAED3E /* Definitions39D.plist */,
 				8E270B60236B385F00EAED3E /* Definitions40D.plist */,
 				8E270B50236B385C00EAED3E /* Definitions41D.plist */,
+				8E7E3361238C61F600DEA987 /* Definitions42D.plist */,
 				8E270B57236B385D00EAED3E /* Definitions43D.plist */,
-				8E7B6B3823886C3A0099091A /* Definitions42D.plist */,
 				8E270B3E236B385800EAED3E /* Definitions44D.plist */,
 				8E270B4C236B385B00EAED3E /* Definitions45D.plist */,
 				8E270B6A236B386100EAED3E /* Definitions46D.plist */,
@@ -1145,12 +1158,13 @@
 				8E8129F7236381CE0049B1F1 /* Lettres17D.plist */,
 				8E8129F5236381CE0049B1F1 /* Lettres18D.plist */,
 				8E8129F9236381CF0049B1F1 /* Lettres19D.plist */,
+				8E7E3359238C5F9F00DEA987 /* Lettres20D.plist */,
 				8E8129FB236381CF0049B1F1 /* Lettres21D.plist */,
 				8E8129F6236381CE0049B1F1 /* Lettres22D.plist */,
 				8E8129FA236381CF0049B1F1 /* Lettres23D.plist */,
 				8E8129F8236381CF0049B1F1 /* Lettres24D.plist */,
 				8E97E5C22364F01800292340 /* Lettres25D.plist */,
-				8E97E5D02364F05B00292340 /* Lettres26D.plist */,
+				8E77E1F023902623004CFCAF /* Lettres26D.plist */,
 				8E97E5D22364F06500292340 /* Lettres27D.plist */,
 				8E97E5D42364F06900292340 /* Lettres28D.plist */,
 				8E97E5D62364F06F00292340 /* Lettres29D.plist */,
@@ -1231,7 +1245,7 @@
 				8E78BD2E238755D900C30BF2 /* Lettres41E.plist */,
 				8E78BD35238755DA00C30BF2 /* Lettres42E.plist */,
 				8E78BD30238755D900C30BF2 /* Lettres43E.plist */,
-				8E78BD2F238755D900C30BF2 /* Lettres44E.plist */,
+				8E77E1F423902653004CFCAF /* Lettres44E.plist */,
 				8E78BD2D238755D900C30BF2 /* Lettres45E.plist */,
 				8E78BD2C238755D900C30BF2 /* Lettres46E.plist */,
 				8E78BD31238755DA00C30BF2 /* Lettres47E.plist */,
@@ -1286,7 +1300,7 @@
 				8E78BD1F238755C300C30BF2 /* Definitions41E.plist */,
 				8E78BD1A238755C200C30BF2 /* Definitions42E.plist */,
 				8E78BD19238755C200C30BF2 /* Definitions43E.plist */,
-				8E78BD18238755C100C30BF2 /* Definitions44E.plist */,
+				8E77E1F82390267A004CFCAF /* Definitions44E.plist */,
 				8E78BD1C238755C300C30BF2 /* Definitions45E.plist */,
 				8E78BD1D238755C300C30BF2 /* Definitions46E.plist */,
 				8E78BD20238755C400C30BF2 /* Definitions47E.plist */,
@@ -1329,6 +1343,7 @@
 				8E43A16B2342753500110308 /* NewVersionFiles */,
 				8EFFB8A82344EC7700126DDE /* GoogleService-Info.plist */,
 				8E960932234A838F0050E5DF /* Acoustic Trio.wav */,
+				8E22504A239867DE00ABB7E5 /* music_harp_gliss_up.wav */,
 				8E96092E234A251E0050E5DF /* Assets.xcassets */,
 				8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */,
 				8EB2FDF11E15FBFE004D024F /* Info.plist */,
@@ -1529,6 +1544,7 @@
 				8EF6E29D2366457F005CAFBF /* Lettres34D.plist in Resources */,
 				8EC1D452238354DF000DF409 /* Lettres36E.plist in Resources */,
 				8E25ED14237623B800391F8E /* Definitions9E.plist in Resources */,
+				8E77E1F523902653004CFCAF /* Lettres44E.plist in Resources */,
 				8E05BDF42350DA4D00108ED7 /* Lettres1I.plist in Resources */,
 				8EC1D450238354DF000DF409 /* Lettres39E.plist in Resources */,
 				8E270B73236B386200EAED3E /* Definitions1D.plist in Resources */,
@@ -1548,6 +1564,7 @@
 				8E270B72236B386200EAED3E /* Definitions2D.plist in Resources */,
 				8E7B06B0236A31E900B4029F /* Definitions49I.plist in Resources */,
 				8E968FA4236A41AC00D9AC43 /* Lettres5G.plist in Resources */,
+				8E7E3362238C61F600DEA987 /* Definitions42D.plist in Resources */,
 				8E270B82236B386200EAED3E /* Definitions45D.plist in Resources */,
 				8E66373A2354F0D7006B8112 /* Lettres32I.plist in Resources */,
 				8EC1D453238354DF000DF409 /* Lettres40E.plist in Resources */,
@@ -1592,6 +1609,7 @@
 				8E7B06A0236A31E900B4029F /* Definitions32I.plist in Resources */,
 				8EB25F6D2374AEED00057D9F /* Lettres3E.plist in Resources */,
 				8E6637182353DDF7006B8112 /* Lettres24I.plist in Resources */,
+				8E77E1F123902623004CFCAF /* Lettres26D.plist in Resources */,
 				8E25ED12237623B800391F8E /* Definitions8E.plist in Resources */,
 				8E270B7D236B386200EAED3E /* Definitions4G.plist in Resources */,
 				8E66374A2354F210006B8112 /* Lettres36I.plist in Resources */,
@@ -1599,6 +1617,7 @@
 				8E6637762354F588006B8112 /* Lettres47I.plist in Resources */,
 				8E8C5837236B92C200231E40 /* Lettres6G.plist in Resources */,
 				8E66372A2354EF95006B8112 /* Lettres27I.plist in Resources */,
+				8E7E3356238C5F7D00DEA987 /* Definitions20D.plist in Resources */,
 				8E89E10E2360AA190003BE9E /* Lettres11D.plist in Resources */,
 				8E7B0683236A31E900B4029F /* Definitions48I.plist in Resources */,
 				8E7B0690236A31E900B4029F /* Definitions45I.plist in Resources */,
@@ -1616,6 +1635,7 @@
 				8EF6E29F2366457F005CAFBF /* Lettres38D.plist in Resources */,
 				8E968F8E236A414000D9AC43 /* Lettres48D.plist in Resources */,
 				8E9ABB15237CCFCD0096192E /* Definitions23E.plist in Resources */,
+				8E7E335A238C5F9F00DEA987 /* Lettres20D.plist in Resources */,
 				8E7B0689236A31E900B4029F /* Definitions11I.plist in Resources */,
 				8E7B069F236A31E900B4029F /* Definitions33I.plist in Resources */,
 				8E32D8A02360B9B100BCEC80 /* Lettres5D.plist in Resources */,
@@ -1646,7 +1666,6 @@
 				8E270BA0236B386200EAED3E /* Definitions46D.plist in Resources */,
 				8E960933234A838F0050E5DF /* Acoustic Trio.wav in Resources */,
 				8E78BD36238755DA00C30BF2 /* Lettres46E.plist in Resources */,
-				8E78BD22238755C400C30BF2 /* Definitions44E.plist in Resources */,
 				8EBD7EBA237347D600A38D9B /* Definitions11G.plist in Resources */,
 				8E9ABB22237CCFDF0096192E /* Lettres23E.plist in Resources */,
 				8E97E5C32364F01800292340 /* Lettres25D.plist in Resources */,
@@ -1692,7 +1711,6 @@
 				8E270B9C236B386200EAED3E /* Definitions31D.plist in Resources */,
 				8E270B8F236B386200EAED3E /* Definitions10D.plist in Resources */,
 				8E7B0692236A31E900B4029F /* Definitions17I.plist in Resources */,
-				8E78BD39238755DA00C30BF2 /* Lettres44E.plist in Resources */,
 				8E7B06A8236A31E900B4029F /* Definitions15I.plist in Resources */,
 				8E270B7F236B386200EAED3E /* Definitions25D.plist in Resources */,
 				8E97E5D52364F06900292340 /* Lettres28D.plist in Resources */,
@@ -1762,6 +1780,8 @@
 				8E0BA9BB2381E5C700C0DBC8 /* Lettres34E.plist in Resources */,
 				8E6636DE2353D6E6006B8112 /* Lettres9I.plist in Resources */,
 				8E968F8C236A414000D9AC43 /* Lettres46D.plist in Resources */,
+				8E77E1F323902635004CFCAF /* Definitions26D.plist in Resources */,
+				8E22504B239867DE00ABB7E5 /* music_harp_gliss_up.wav in Resources */,
 				8E66377A2354F5D1006B8112 /* Lettres48I.plist in Resources */,
 				8E270B6E236B386200EAED3E /* Definitions38D.plist in Resources */,
 				8EF6E2A12366457F005CAFBF /* Lettres40D.plist in Resources */,
@@ -1789,7 +1809,6 @@
 				8E248C58237F566D00F91C2B /* Definitions28E.plist in Resources */,
 				8EC1D447238354D0000DF409 /* Definitions37E.plist in Resources */,
 				8E7B06AD236A31E900B4029F /* Definitions31I.plist in Resources */,
-				8E270BA1236B386200EAED3E /* Definitions26D.plist in Resources */,
 				8E7F823A23777748006BD325 /* Definitions10E.plist in Resources */,
 				8E879DFE236238B800FE6EFD /* Lettres14D.plist in Resources */,
 				8E8C582D236B92A800231E40 /* Definitions9G.plist in Resources */,
@@ -1799,6 +1818,7 @@
 				8E9ABB16237CCFCD0096192E /* Definitions22E.plist in Resources */,
 				8E6637122353DD55006B8112 /* Lettres22I.plist in Resources */,
 				8E78BD28238755C400C30BF2 /* Definitions49E.plist in Resources */,
+				8E77E1F92390267A004CFCAF /* Definitions44E.plist in Resources */,
 				8E270B88236B386200EAED3E /* Definitions12D.plist in Resources */,
 				8E97E5C12364EFE200292340 /* Lettres8D.plist in Resources */,
 				8E7B6B4323886CDB0099091A /* Lettres15D.plist in Resources */,
@@ -1822,8 +1842,6 @@
 				8E6636F62353DA4A006B8112 /* Lettres15I.plist in Resources */,
 				8E7B06A7236A31E900B4029F /* Definitions40I.plist in Resources */,
 				8E8C5836236B92C200231E40 /* Lettres8G.plist in Resources */,
-				8E7B6B3923886C3A0099091A /* Definitions42D.plist in Resources */,
-				8E97E5D12364F05B00292340 /* Lettres26D.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1916,6 +1934,7 @@
 				8EFFB8AB2344F44100126DDE /* ChoixDeGrillesTableViewController.swift in Sources */,
 				8E43A19B2342758500110308 /* FormatAndHideButton.swift in Sources */,
 				8E43A1772342756800110308 /* WordSelection.swift in Sources */,
+				8E2250492398661500ABB7E5 /* SoundPlayer.swift in Sources */,
 				8E10A14D2344DB50005F45B6 /* GrilleData.swift in Sources */,
 				8E43A1792342756800110308 /* Reveler.swift in Sources */,
 				8E43A17C2342756800110308 /* MotsCroisesCVCell.swift in Sources */,
@@ -1940,6 +1959,7 @@
 				8EA620021E71DEC000A6DC7C /* Item+CoreDataClass.swift in Sources */,
 				8EB2FDE61E15FBFE004D024F /* AppDelegate.swift in Sources */,
 				8E960931234A81B70050E5DF /* LogoViewController.swift in Sources */,
+				8E225047239574E800ABB7E5 /* Extensions.swift in Sources */,
 				8E9609272347B7000050E5DF /* GrilleIsBought.swift in Sources */,
 				8E43A1972342758500110308 /* MenuAction.swift in Sources */,
 				8E05BDF2234FB0A500108ED7 /* IndividulaGridDelectionTableViewController.swift in Sources */,
@@ -2160,6 +2180,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2177,6 +2198,7 @@
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

@@ -5,7 +5,7 @@
 	<array>
 		<array>
 			<string> Communicatif</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>EXTRAVERTI</string>
 			<string>ELEVATIONS</string>
 		</array>
@@ -41,7 +41,7 @@
 		</array>
 		<array>
 			<string> Communicatif</string>
-			<string> Du verbe être.</string>
+			<string> Du verbe être</string>
 			<string>EXTRAVERTI</string>
 			<string>ETES</string>
 		</array>
@@ -53,7 +53,7 @@
 		</array>
 		<array>
 			<string> Communicatif</string>
-			<string> Règle</string>
+			<string> Pronom</string>
 			<string>EXTRAVERTI</string>
 			<string>TE</string>
 		</array>
@@ -67,7 +67,7 @@
 	<array>
 		<array>
 			<string>  Général sudiste</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>LEE</string>
 			<string>ELEVATIONS</string>
 		</array>
@@ -90,20 +90,20 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Rongeur</string>
+			<string> Avare</string>
 			<string> Grands végétaux</string>
 			<string>RAT</string>
 			<string>ARBRES</string>
 		</array>
 		<array>
-			<string> Rongeur</string>
+			<string> Avare</string>
 			<string> Vallée</string>
 			<string>RAT</string>
 			<string>VAL</string>
 		</array>
 		<array>
-			<string> Rongeur</string>
-			<string> Du verbe être.</string>
+			<string> Avare</string>
+			<string> Du verbe être</string>
 			<string>RAT</string>
 			<string>ETES</string>
 		</array>
@@ -115,7 +115,7 @@
 		</array>
 		<array>
 			<string> Infinitif</string>
-			<string> Règle</string>
+			<string> Pronom</string>
 			<string>ER</string>
 			<string>TE</string>
 		</array>
@@ -129,7 +129,7 @@
 	<array>
 		<array>
 			<string> Enliser</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>ENSABLER</string>
 			<string>ELEVATIONS</string>
 		</array>
@@ -147,7 +147,7 @@
 		</array>
 		<array>
 			<string> Enliser</string>
-			<string> Ouvres la fenêtre</string>
+			<string> Rends moins dense</string>
 			<string>ENSABLER</string>
 			<string>AERES</string>
 		</array>
@@ -165,7 +165,7 @@
 		</array>
 		<array>
 			<string> Enliser</string>
-			<string> Du verbe être.</string>
+			<string> Du verbe être</string>
 			<string>ENSABLER</string>
 			<string>ETES</string>
 		</array>
@@ -191,7 +191,7 @@
 	<array>
 		<array>
 			<string> Aller aux urnes</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>VOTER</string>
 			<string>ELEVATIONS</string>
 		</array>
@@ -209,7 +209,7 @@
 		</array>
 		<array>
 			<string> Aller aux urnes</string>
-			<string> Ouvres la fenêtre</string>
+			<string> Rends moins dense</string>
 			<string>VOTER</string>
 			<string>AERES</string>
 		</array>
@@ -226,34 +226,34 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> fromage</string>
-			<string> Du verbe être.</string>
-			<string>SERE</string>
+			<string> Georges Brassens y est né</string>
+			<string> Du verbe être</string>
+			<string>SETE</string>
 			<string>ETES</string>
 		</array>
 		<array>
-			<string> fromage</string>
+			<string> Georges Brassens y est né</string>
 			<string> Unie à nouveau</string>
-			<string>SERE</string>
+			<string>SETE</string>
 			<string>REMARIEE</string>
 		</array>
 		<array>
-			<string> fromage</string>
-			<string> Petit ruisseau</string>
-			<string>SERE</string>
-			<string>RU</string>
+			<string> Georges Brassens y est né</string>
+			<string> Pronom personnel</string>
+			<string>SETE</string>
+			<string>TU</string>
 		</array>
 		<array>
-			<string> fromage</string>
+			<string> Georges Brassens y est né</string>
 			<string> Imaginaire</string>
-			<string>SERE</string>
+			<string>SETE</string>
 			<string>IRREEL</string>
 		</array>
 	</array>
 	<array>
 		<array>
 			<string> Une révolution compète</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>AN</string>
 			<string>ELEVATIONS</string>
 		</array>
@@ -270,19 +270,19 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Poulie à gorge</string>
-			<string> Ouvres la fenêtre</string>
+			<string> Roue</string>
+			<string> Rends moins dense</string>
 			<string>REA</string>
 			<string>AERES</string>
 		</array>
 		<array>
-			<string> Poulie à gorge</string>
+			<string> Roue</string>
 			<string> Grands végétaux</string>
 			<string>REA</string>
 			<string>ARBRES</string>
 		</array>
 		<array>
-			<string> Poulie à gorge</string>
+			<string> Roue</string>
 			<string></string>
 			<string>REA</string>
 			<string>A</string>
@@ -301,9 +301,9 @@
 		</array>
 		<array>
 			<string> Métamorphose</string>
-			<string> Petit ruisseau</string>
+			<string> Pronom personnel</string>
 			<string>MUE</string>
-			<string>RU</string>
+			<string>TU</string>
 		</array>
 		<array>
 			<string> Métamorphose</string>
@@ -315,7 +315,7 @@
 	<array>
 		<array>
 			<string></string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>T</string>
 			<string>ELEVATIONS</string>
 		</array>
@@ -326,19 +326,19 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Possessif.</string>
-			<string> Fromages des Alpes</string>
+			<string> Possessif</string>
+			<string> Se font avec du lait caillé</string>
 			<string>SES</string>
 			<string>SERES</string>
 		</array>
 		<array>
-			<string> Possessif.</string>
-			<string> Ouvres la fenêtre</string>
+			<string> Possessif</string>
+			<string> Rends moins dense</string>
 			<string>SES</string>
 			<string>AERES</string>
 		</array>
 		<array>
-			<string> Possessif.</string>
+			<string> Possessif</string>
 			<string> Grands végétaux</string>
 			<string>SES</string>
 			<string>ARBRES</string>
@@ -350,13 +350,13 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Possessif</string>
+			<string> Ce n&apos;est pas à toi</string>
 			<string> Terme de tennis</string>
 			<string>SA</string>
 			<string>SET</string>
 		</array>
 		<array>
-			<string> Possessif</string>
+			<string> Ce n&apos;est pas à toi</string>
 			<string> Unie à nouveau</string>
 			<string>SA</string>
 			<string>REMARIEE</string>
@@ -377,25 +377,25 @@
 	<array>
 		<array>
 			<string> Colères</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>IRES</string>
 			<string>ELEVATIONS</string>
 		</array>
 		<array>
 			<string> Colères</string>
-			<string> Déferlement</string>
+			<string> Vague</string>
 			<string>IRES</string>
 			<string>RUEE</string>
 		</array>
 		<array>
 			<string> Colères</string>
-			<string> Fromages des Alpes</string>
+			<string> Se font avec du lait caillé</string>
 			<string>IRES</string>
 			<string>SERES</string>
 		</array>
 		<array>
 			<string> Colères</string>
-			<string> Ouvres la fenêtre</string>
+			<string> Rends moins dense</string>
 			<string>IRES</string>
 			<string>AERES</string>
 		</array>
@@ -439,19 +439,19 @@
 	<array>
 		<array>
 			<string> Ancienne cité</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>OUR</string>
 			<string>ELEVATIONS</string>
 		</array>
 		<array>
 			<string> Ancienne cité</string>
-			<string> Déferlement</string>
+			<string> Vague</string>
 			<string>OUR</string>
 			<string>RUEE</string>
 		</array>
 		<array>
 			<string> Ancienne cité</string>
-			<string> Fromages des Alpes</string>
+			<string> Se font avec du lait caillé</string>
 			<string>OUR</string>
 			<string>SERES</string>
 		</array>
@@ -493,7 +493,7 @@
 		</array>
 		<array>
 			<string> Brille</string>
-			<string> Six mois après Noël</string>
+			<string> Du verbe être</string>
 			<string>RUTILE</string>
 			<string>ETE</string>
 		</array>
@@ -501,25 +501,25 @@
 	<array>
 		<array>
 			<string> Arrivées</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>NEES</string>
 			<string>ELEVATIONS</string>
 		</array>
 		<array>
 			<string> Arrivées</string>
-			<string> Déferlement</string>
+			<string> Vague</string>
 			<string>NEES</string>
 			<string>RUEE</string>
 		</array>
 		<array>
 			<string> Arrivées</string>
-			<string> Fromages des Alpes</string>
+			<string> Se font avec du lait caillé</string>
 			<string>NEES</string>
 			<string>SERES</string>
 		</array>
 		<array>
 			<string> Arrivées</string>
-			<string> Abréviation religieuse</string>
+			<string> Une vie irréprochable</string>
 			<string>NEES</string>
 			<string>ST</string>
 		</array>
@@ -555,7 +555,7 @@
 		</array>
 		<array>
 			<string> Posséda</string>
-			<string> Six mois après Noël</string>
+			<string> Du verbe être</string>
 			<string>EUT</string>
 			<string>ETE</string>
 		</array>
@@ -563,25 +563,25 @@
 	<array>
 		<array>
 			<string> Monnaie romaine</string>
-			<string>Positions élevées</string>
+			<string>  Positions élevées</string>
 			<string>SESTERCE</string>
 			<string>ELEVATIONS</string>
 		</array>
 		<array>
 			<string> Monnaie romaine</string>
-			<string> Déferlement</string>
+			<string> Vague</string>
 			<string>SESTERCE</string>
 			<string>RUEE</string>
 		</array>
 		<array>
 			<string> Monnaie romaine</string>
-			<string> Fromages des Alpes</string>
+			<string> Se font avec du lait caillé</string>
 			<string>SESTERCE</string>
 			<string>SERES</string>
 		</array>
 		<array>
 			<string> Monnaie romaine</string>
-			<string> Abréviation religieuse</string>
+			<string> Une vie irréprochable</string>
 			<string>SESTERCE</string>
 			<string>ST</string>
 		</array>
@@ -617,7 +617,7 @@
 		</array>
 		<array>
 			<string></string>
-			<string> Six mois après Noël</string>
+			<string> Du verbe être</string>
 			<string>E</string>
 			<string>ETE</string>
 		</array>

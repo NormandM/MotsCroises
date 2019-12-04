@@ -35,7 +35,7 @@
 		</array>
 		<array>
 			<string> Elles ne sont vraiment pas longues</string>
-			<string> Subdivision, seconde par durée après l'éon</string>
+			<string> Période</string>
 			<string>NANOSECONDES</string>
 			<string>ERE</string>
 		</array>
@@ -59,7 +59,7 @@
 		</array>
 		<array>
 			<string> Elles ne sont vraiment pas longues</string>
-			<string> N'a pas été payées</string>
+			<string> N&apos;ont pas été payées</string>
 			<string>NANOSECONDES</string>
 			<string>DUES</string>
 		</array>
@@ -109,7 +109,7 @@
 		</array>
 		<array>
 			<string> Allégresse</string>
-			<string> Subdivision, seconde par durée après l'éon</string>
+			<string> Période</string>
 			<string>EUPHORIE</string>
 			<string>ERE</string>
 		</array>
@@ -133,7 +133,7 @@
 		</array>
 		<array>
 			<string> Bison maintenant disparu</string>
-			<string> N'a pas été payées</string>
+			<string> N&apos;ont pas été payées</string>
 			<string>URE</string>
 			<string>DUES</string>
 		</array>
@@ -183,7 +183,7 @@
 		</array>
 		<array>
 			<string> Adouci</string>
-			<string> Subdivision, seconde par durée après l'éon</string>
+			<string> Période</string>
 			<string>EMERISE</string>
 			<string>ERE</string>
 		</array>
@@ -207,7 +207,7 @@
 		</array>
 		<array>
 			<string> Adouci</string>
-			<string> N'a pas été payées</string>
+			<string> N&apos;ont pas été payées</string>
 			<string>EMERISE</string>
 			<string>DUES</string>
 		</array>
@@ -226,19 +226,19 @@
 	</array>
 	<array>
 		<array>
-			<string> Originaire de l'Asie</string>
+			<string> Originaire de l&apos;Asie</string>
 			<string> Il parle au mort</string>
 			<string>RIZ</string>
 			<string>NECROMANCIEN</string>
 		</array>
 		<array>
-			<string> Originaire de l'Asie</string>
+			<string> Originaire de l&apos;Asie</string>
 			<string> Concerne le son</string>
 			<string>RIZ</string>
 			<string>AUDIO</string>
 		</array>
 		<array>
-			<string> Originaire de l'Asie</string>
+			<string> Originaire de l&apos;Asie</string>
 			<string></string>
 			<string>RIZ</string>
 			<string>Z</string>
@@ -281,13 +281,13 @@
 		</array>
 		<array>
 			<string> Prophète biblique</string>
-			<string> N'a pas été payées</string>
+			<string> N&apos;ont pas été payées</string>
 			<string>ELISEE</string>
 			<string>DUES</string>
 		</array>
 		<array>
 			<string> Prophète biblique</string>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string>ELISEE</string>
 			<string>EU</string>
 		</array>
@@ -318,22 +318,22 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Crie</string>
+			<string> Roue</string>
 			<string> Dorer</string>
-			<string>REE</string>
+			<string>REA</string>
 			<string>RISSOLER</string>
 		</array>
 		<array>
-			<string> Crie</string>
+			<string> Roue</string>
 			<string> Mise en demeure</string>
-			<string>REE</string>
+			<string>REA</string>
 			<string>SOMMEE</string>
 		</array>
 		<array>
-			<string> Crie</string>
-			<string>  Périodes</string>
-			<string>REE</string>
-			<string>ERES</string>
+			<string> Roue</string>
+			<string> Dieu de la guerre</string>
+			<string>REA</string>
+			<string>ARES</string>
 		</array>
 		<array>
 			<string></string>
@@ -361,7 +361,7 @@
 		</array>
 		<array>
 			<string> Rayon</string>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string>UV</string>
 			<string>EU</string>
 		</array>
@@ -386,49 +386,49 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string>  Règles</string>
 			<string>TIERCEES</string>
 			<string>TES</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string> Dorer</string>
 			<string>TIERCEES</string>
 			<string>RISSOLER</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string> Mise en demeure</string>
 			<string>TIERCEES</string>
 			<string>SOMMEE</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
-			<string>  Périodes</string>
+			<string>  Ont reçu un troisième labour</string>
+			<string> Dieu de la guerre</string>
 			<string>TIERCEES</string>
-			<string>ERES</string>
+			<string>ARES</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string> Symbole chimique</string>
 			<string>TIERCEES</string>
 			<string>CS</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string> Plantes cultivées pour ses fleurs</string>
 			<string>TIERCEES</string>
 			<string>OEILLETS</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string> Titre donné à un souverain</string>
 			<string>TIERCEES</string>
 			<string>SIRE</string>
 		</array>
 		<array>
-			<string> A reçu un troisième labour</string>
+			<string>  Ont reçu un troisième labour</string>
 			<string> Commune des Pyrénées</string>
 			<string>TIERCEES</string>
 			<string>SARE</string>
@@ -478,19 +478,19 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Orient</string>
-			<string>  Périodes</string>
+			<string> Orient.</string>
+			<string> Dieu de la guerre</string>
 			<string>EST</string>
-			<string>ERES</string>
+			<string>ARES</string>
 		</array>
 		<array>
-			<string> Orient</string>
+			<string> Orient.</string>
 			<string> Symbole chimique</string>
 			<string>EST</string>
 			<string>CS</string>
 		</array>
 		<array>
-			<string> Orient</string>
+			<string> Orient.</string>
 			<string> Plantes cultivées pour ses fleurs</string>
 			<string>EST</string>
 			<string>OEILLETS</string>
@@ -553,9 +553,9 @@
 		</array>
 		<array>
 			<string> Centaure</string>
-			<string>  Périodes</string>
+			<string> Dieu de la guerre</string>
 			<string>NESSOS</string>
-			<string>ERES</string>
+			<string>ARES</string>
 		</array>
 		<array>
 			<string></string>
@@ -730,13 +730,13 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Indique l'origine</string>
+			<string> Indique l&apos;origine</string>
 			<string> Ventilées</string>
 			<string>EN</string>
 			<string>AEREES</string>
 		</array>
 		<array>
-			<string> Indique l'origine</string>
+			<string> Indique l&apos;origine</string>
 			<string> Laxatifs</string>
 			<string>EN</string>
 			<string>SENES</string>

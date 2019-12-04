@@ -19,9 +19,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         navigationBarAppearace.tintColor = UIColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1.0)
         navigationBarAppearace.barTintColor = ColorReference.brownGray
-        navigationBarAppearace.titleTextAttributes = [NSAttributedString.Key.font: fonts.largeBoldFont, NSAttributedString.Key.foregroundColor:UIColor.white]
-      //  navigationBarAppearace.barTintColor = (UIColor(patternImage: UIImage(named: "grungyPaper")!))
-       // navigationBarAppearace.titleTextAttributes = [NSAttributedString.Key.font: UIFont(name: "Times New Roman", size: 25)!]
+        navigationBarAppearace.titleTextAttributes = [NSAttributedString.Key.font: fonts.normalBoldFont, NSAttributedString.Key.foregroundColor:UIColor.white]
+
         return true
     }
 

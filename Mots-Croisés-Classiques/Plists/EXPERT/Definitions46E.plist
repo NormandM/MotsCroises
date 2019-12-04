@@ -53,7 +53,7 @@
 		</array>
 		<array>
 			<string> Avec acharnement</string>
-			<string> Parties d'une hélice</string>
+			<string> Parties d&apos;une hélice</string>
 			<string>DARRACHEPIED</string>
 			<string>PALES</string>
 		</array>
@@ -127,7 +127,7 @@
 		</array>
 		<array>
 			<string> Estimé</string>
-			<string> Parties d'une hélice</string>
+			<string> Parties d&apos;une hélice</string>
 			<string>EVALUE</string>
 			<string>PALES</string>
 		</array>
@@ -183,7 +183,7 @@
 		</array>
 		<array>
 			<string> Inventées</string>
-			<string> Ce n'est pas à toi</string>
+			<string> Ce n&apos;est pas à toi</string>
 			<string>CREEES</string>
 			<string>SA</string>
 		</array>
@@ -201,7 +201,7 @@
 		</array>
 		<array>
 			<string> Îlots</string>
-			<string> Parties d'une hélice</string>
+			<string> Parties d&apos;une hélice</string>
 			<string>ILETS</string>
 			<string>PALES</string>
 		</array>
@@ -257,7 +257,7 @@
 		</array>
 		<array>
 			<string> Expérimentées</string>
-			<string> Ce n'est pas à toi</string>
+			<string> Ce n&apos;est pas à toi</string>
 			<string>AGEES</string>
 			<string>SA</string>
 		</array>
@@ -275,7 +275,7 @@
 		</array>
 		<array>
 			<string> Expérimentées</string>
-			<string> Parties d'une hélice</string>
+			<string> Parties d&apos;une hélice</string>
 			<string>AGEES</string>
 			<string>PALES</string>
 		</array>
@@ -300,32 +300,32 @@
 	</array>
 	<array>
 		<array>
-			<string> Lieu d'enseignement</string>
+			<string> Lieu d&apos;enseignement</string>
 			<string> Déchéance</string>
 			<string>ASRAM</string>
 			<string>DECLASSEMENT</string>
 		</array>
 		<array>
-			<string> Lieu d'enseignement</string>
+			<string> Lieu d&apos;enseignement</string>
 			<string> Foyers</string>
 			<string>ASRAM</string>
 			<string>ATRES</string>
 		</array>
 		<array>
-			<string> Lieu d'enseignement</string>
+			<string> Lieu d&apos;enseignement</string>
 			<string> Joyeuses compagnies</string>
 			<string>ASRAM</string>
 			<string>RIEURS</string>
 		</array>
 		<array>
-			<string> Lieu d'enseignement</string>
+			<string> Lieu d&apos;enseignement</string>
 			<string> Bramera</string>
 			<string>ASRAM</string>
 			<string>REERA</string>
 		</array>
 		<array>
-			<string> Lieu d'enseignement</string>
-			<string> Origine</string>
+			<string> Lieu d&apos;enseignement</string>
+			<string> Origines</string>
 			<string>ASRAM</string>
 			<string>MERES</string>
 		</array>
@@ -349,7 +349,7 @@
 		</array>
 		<array>
 			<string> Plante herbacée</string>
-			<string> Parties d'une hélice</string>
+			<string> Parties d&apos;une hélice</string>
 			<string>ERS</string>
 			<string>PALES</string>
 		</array>
@@ -398,25 +398,25 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string>  Subdivisions, seconde par durée après l'éon</string>
-			<string> Origine</string>
+			<string>  Subdivisions, seconde par durée après l&apos;éon</string>
+			<string> Origines</string>
 			<string>ERES</string>
 			<string>MERES</string>
 		</array>
 		<array>
-			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string>  Subdivisions, seconde par durée après l&apos;éon</string>
 			<string> Tondue</string>
 			<string>ERES</string>
 			<string>RASEE</string>
 		</array>
 		<array>
-			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string>  Subdivisions, seconde par durée après l&apos;éon</string>
 			<string> Passionné par les technologies</string>
 			<string>ERES</string>
 			<string>GEEK</string>
 		</array>
 		<array>
-			<string>  Subdivisions, seconde par durée après l'éon</string>
+			<string>  Subdivisions, seconde par durée après l&apos;éon</string>
 			<string> On y lave la vaisselle</string>
 			<string>ERES</string>
 			<string>EVIERS</string>
@@ -473,7 +473,7 @@
 		</array>
 		<array>
 			<string> Alcool</string>
-			<string> Origine</string>
+			<string> Origines</string>
 			<string>ARAK</string>
 			<string>MERES</string>
 		</array>
@@ -547,7 +547,7 @@
 		</array>
 		<array>
 			<string> Haltes</string>
-			<string> Origine</string>
+			<string> Origines</string>
 			<string>ETAPES</string>
 			<string>MERES</string>
 		</array>
@@ -621,7 +621,7 @@
 		</array>
 		<array>
 			<string> Petites cerises sauvages</string>
-			<string> Origine</string>
+			<string> Origines</string>
 			<string>MERISES</string>
 			<string>MERES</string>
 		</array>
@@ -713,7 +713,7 @@
 		</array>
 		<array>
 			<string> Excrément</string>
-			<string> Période d'amours et de combats</string>
+			<string> Période d&apos;amours et de combats</string>
 			<string>ETRON</string>
 			<string>RUT</string>
 		</array>
@@ -787,7 +787,7 @@
 		</array>
 		<array>
 			<string> Nous transportent</string>
-			<string> Période d'amours et de combats</string>
+			<string> Période d&apos;amours et de combats</string>
 			<string>AUTOS</string>
 			<string>RUT</string>
 		</array>
@@ -861,7 +861,7 @@
 		</array>
 		<array>
 			<string> Maillot</string>
-			<string> Période d'amours et de combats</string>
+			<string> Période d&apos;amours et de combats</string>
 			<string>TEESHIRT</string>
 			<string>RUT</string>
 		</array>

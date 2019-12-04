@@ -4,55 +4,55 @@
 <array>
 	<array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string> Foyers secondaires du cancer</string>
 			<string>MAISONNEE</string>
 			<string>METASTASES</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
-			<string> Lieu d'enseignement d'un gourou</string>
+			<string> Les habitants d&apos;une maison</string>
+			<string> Lieu d&apos;enseignement d&apos;un gourou</string>
 			<string>MAISONNEE</string>
 			<string>ASRAM</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string> Norme internationale</string>
 			<string>MAISONNEE</string>
 			<string>ISO</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
-			<string> Font parties d'une fleur</string>
+			<string> Les habitants d&apos;une maison</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>MAISONNEE</string>
 			<string>SEPALES</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string> Pronom indéfini.</string>
 			<string>MAISONNEE</string>
 			<string>ON</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string> Stupide</string>
 			<string>MAISONNEE</string>
 			<string>NIAIS</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string> Arrivées</string>
 			<string>MAISONNEE</string>
 			<string>NEES</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string> Note</string>
 			<string>MAISONNEE</string>
 			<string>ENREGISTRE</string>
 		</array>
 		<array>
-			<string> Les habitants d'une maison</string>
+			<string> Les habitants d&apos;une maison</string>
 			<string></string>
 			<string>MAISONNEE</string>
 			<string>E</string>
@@ -73,7 +73,7 @@
 		</array>
 		<array>
 			<string> Relatif à une secte juive</string>
-			<string> Lieu d'enseignement d'un gourou</string>
+			<string> Lieu d&apos;enseignement d&apos;un gourou</string>
 			<string>ESSENIEN</string>
 			<string>ASRAM</string>
 		</array>
@@ -85,7 +85,7 @@
 		</array>
 		<array>
 			<string> Relatif à une secte juive</string>
-			<string> Font parties d'une fleur</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>ESSENIEN</string>
 			<string>SEPALES</string>
 		</array>
@@ -135,7 +135,7 @@
 		</array>
 		<array>
 			<string> Excessivement</string>
-			<string> Lieu d'enseignement d'un gourou</string>
+			<string> Lieu d&apos;enseignement d&apos;un gourou</string>
 			<string>TROP</string>
 			<string>ASRAM</string>
 		</array>
@@ -147,7 +147,7 @@
 		</array>
 		<array>
 			<string> Excessivement</string>
-			<string> Font parties d'une fleur</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>TROP</string>
 			<string>SEPALES</string>
 		</array>
@@ -197,7 +197,7 @@
 		</array>
 		<array>
 			<string> Ne boit plus</string>
-			<string> Lieu d'enseignement d'un gourou</string>
+			<string> Lieu d&apos;enseignement d&apos;un gourou</string>
 			<string>AA</string>
 			<string>ASRAM</string>
 		</array>
@@ -209,7 +209,7 @@
 		</array>
 		<array>
 			<string> Avertissent</string>
-			<string> Font parties d'une fleur</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>AVISENT</string>
 			<string>SEPALES</string>
 		</array>
@@ -259,7 +259,7 @@
 		</array>
 		<array>
 			<string> Familles nombreuses</string>
-			<string> Lieu d'enseignement d'un gourou</string>
+			<string> Lieu d&apos;enseignement d&apos;un gourou</string>
 			<string>SMALAS</string>
 			<string>ASRAM</string>
 		</array>
@@ -271,7 +271,7 @@
 		</array>
 		<array>
 			<string> Familles nombreuses</string>
-			<string> Font parties d'une fleur</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>SMALAS</string>
 			<string>SEPALES</string>
 		</array>
@@ -333,7 +333,7 @@
 		</array>
 		<array>
 			<string>  Règles.</string>
-			<string> Font parties d'une fleur</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>TES</string>
 			<string>SEPALES</string>
 		</array>
@@ -351,7 +351,7 @@
 		</array>
 		<array>
 			<string> Adjectif possessif</string>
-			<string> Appel à l'aide</string>
+			<string> Appel à l&apos;aide</string>
 			<string>SIEN</string>
 			<string>SOS</string>
 		</array>
@@ -395,7 +395,7 @@
 		</array>
 		<array>
 			<string> Poésies par exemple</string>
-			<string> Font parties d'une fleur</string>
+			<string> Font parties d&apos;une fleur</string>
 			<string>ARTS</string>
 			<string>SEPALES</string>
 		</array>
@@ -407,13 +407,13 @@
 		</array>
 		<array>
 			<string> Vêtement se fixant derrière le cou</string>
-			<string> N'a pas été payées</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>DOSNU</string>
 			<string>DUES</string>
 		</array>
 		<array>
 			<string> Vêtement se fixant derrière le cou</string>
-			<string> Appel à l'aide</string>
+			<string> Appel à l&apos;aide</string>
 			<string>DOSNU</string>
 			<string>SOS</string>
 		</array>
@@ -469,13 +469,13 @@
 		</array>
 		<array>
 			<string> Dehors!</string>
-			<string> N'a pas été payées</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>OUSTE</string>
 			<string>DUES</string>
 		</array>
 		<array>
 			<string> Dehors!</string>
-			<string> Appel à l'aide</string>
+			<string> Appel à l&apos;aide</string>
 			<string>OUSTE</string>
 			<string>SOS</string>
 		</array>
@@ -531,7 +531,7 @@
 		</array>
 		<array>
 			<string> Amas de neige durcie</string>
-			<string> N'a pas été payées</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>NEVE</string>
 			<string>DUES</string>
 		</array>
@@ -593,7 +593,7 @@
 		</array>
 		<array>
 			<string> Crochets</string>
-			<string> N'a pas été payées</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>ESSES</string>
 			<string>DUES</string>
 		</array>

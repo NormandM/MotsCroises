@@ -11,7 +11,7 @@
 		</array>
 		<array>
 			<string>Ils prennent des risques à la place des autres</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>CASCADEURS</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -23,7 +23,7 @@
 		</array>
 		<array>
 			<string>Ils prennent des risques à la place des autres</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>CASCADEURS</string>
 			<string>CELESTINES</string>
 		</array>
@@ -73,7 +73,7 @@
 		</array>
 		<array>
 			<string>Garnir</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>ORNEMENTER</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -85,7 +85,7 @@
 		</array>
 		<array>
 			<string>Garnir</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>ORNEMENTER</string>
 			<string>CELESTINES</string>
 		</array>
@@ -135,7 +135,7 @@
 		</array>
 		<array>
 			<string>Neon</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>NE</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -147,7 +147,7 @@
 		</array>
 		<array>
 			<string>Module lunaire</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>LEM</string>
 			<string>CELESTINES</string>
 		</array>
@@ -197,7 +197,7 @@
 		</array>
 		<array>
 			<string>Bobines qui créent un champ magnétique</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>SOLENOIDES</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -209,7 +209,7 @@
 		</array>
 		<array>
 			<string>Bobines qui créent un champ magnétique</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>SOLENOIDES</string>
 			<string>CELESTINES</string>
 		</array>
@@ -227,13 +227,13 @@
 		</array>
 		<array>
 			<string>Bobines qui créent un champ magnétique</string>
-			<string>Entourée d'eau</string>
+			<string>Entourée d&apos;eau</string>
 			<string>SOLENOIDES</string>
 			<string>ILE</string>
 		</array>
 		<array>
 			<string>Bobines qui créent un champ magnétique</string>
-			<string>N'a pas été payées</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>SOLENOIDES</string>
 			<string>DUES</string>
 		</array>
@@ -252,31 +252,31 @@
 	</array>
 	<array>
 		<array>
-			<string>Séparation de deux éléments d'un mot</string>
+			<string>Séparation de deux éléments d&apos;un mot</string>
 			<string>Érigée</string>
 			<string>TMESE</string>
 			<string>CONSTRUITE</string>
 		</array>
 		<array>
-			<string>Séparation de deux éléments d'un mot</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Séparation de deux éléments d&apos;un mot</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>TMESE</string>
 			<string>AREOMETRES</string>
 		</array>
 		<array>
-			<string>Séparation de deux éléments d'un mot</string>
+			<string>Séparation de deux éléments d&apos;un mot</string>
 			<string>Monnaie de la Roumanie</string>
 			<string>TMESE</string>
 			<string>LEI</string>
 		</array>
 		<array>
-			<string>Séparation de deux éléments d'un mot</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Séparation de deux éléments d&apos;un mot</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>TMESE</string>
 			<string>CELESTINES</string>
 		</array>
 		<array>
-			<string>Séparation de deux éléments d'un mot</string>
+			<string>Séparation de deux éléments d&apos;un mot</string>
 			<string>Apportées</string>
 			<string>TMESE</string>
 			<string>AMENEES</string>
@@ -288,25 +288,25 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string>La visiter c'est être distrait</string>
-			<string>Entourée d'eau</string>
+			<string>La visiter c&apos;est être distrait</string>
+			<string>Entourée d&apos;eau</string>
 			<string>LUNE</string>
 			<string>ILE</string>
 		</array>
 		<array>
-			<string>La visiter c'est être distrait</string>
-			<string>N'a pas été payées</string>
+			<string>La visiter c&apos;est être distrait</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>LUNE</string>
 			<string>DUES</string>
 		</array>
 		<array>
-			<string>La visiter c'est être distrait</string>
+			<string>La visiter c&apos;est être distrait</string>
 			<string>Dénombrées</string>
 			<string>LUNE</string>
 			<string>RECENSEES</string>
 		</array>
 		<array>
-			<string>La visiter c'est être distrait</string>
+			<string>La visiter c&apos;est être distrait</string>
 			<string>Sélénium</string>
 			<string>LUNE</string>
 			<string>SE</string>
@@ -321,7 +321,7 @@
 		</array>
 		<array>
 			<string>Redites</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>REITEREES</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -333,7 +333,7 @@
 		</array>
 		<array>
 			<string>Redites</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>REITEREES</string>
 			<string>CELESTINES</string>
 		</array>
@@ -351,13 +351,13 @@
 		</array>
 		<array>
 			<string>Redites</string>
-			<string>Entourée d'eau</string>
+			<string>Entourée d&apos;eau</string>
 			<string>REITEREES</string>
 			<string>ILE</string>
 		</array>
 		<array>
 			<string>Redites</string>
-			<string>N'a pas été payées</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>REITEREES</string>
 			<string>DUES</string>
 		</array>
@@ -383,7 +383,7 @@
 		</array>
 		<array>
 			<string>Note</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>UT</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -395,7 +395,7 @@
 		</array>
 		<array>
 			<string>Norme internationale</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>ISO</string>
 			<string>CELESTINES</string>
 		</array>
@@ -418,19 +418,19 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string>Manque d'eau</string>
-			<string>N'a pas été payées</string>
+			<string>Manque d&apos;eau</string>
+			<string>N&apos;ont pas été payées</string>
 			<string>SEC</string>
 			<string>DUES</string>
 		</array>
 		<array>
-			<string>Manque d'eau</string>
+			<string>Manque d&apos;eau</string>
 			<string>Dénombrées</string>
 			<string>SEC</string>
 			<string>RECENSEES</string>
 		</array>
 		<array>
-			<string>Manque d'eau</string>
+			<string>Manque d&apos;eau</string>
 			<string>Demander le silence de façon cavalière</string>
 			<string>SEC</string>
 			<string>CHUT</string>
@@ -445,7 +445,7 @@
 		</array>
 		<array>
 			<string>On y parle Persan</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>IRAN</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -457,7 +457,7 @@
 		</array>
 		<array>
 			<string>On y parle Persan</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>IRAN</string>
 			<string>CELESTINES</string>
 		</array>
@@ -507,7 +507,7 @@
 		</array>
 		<array>
 			<string>Font grandir les bébés</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>TETEES</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -519,7 +519,7 @@
 		</array>
 		<array>
 			<string>Font grandir les bébés</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>TETEES</string>
 			<string>CELESTINES</string>
 		</array>
@@ -569,7 +569,7 @@
 		</array>
 		<array>
 			<string>Existes</string>
-			<string>Mesurent la densité de l'air</string>
+			<string>Mesurent la densité de l&apos;air</string>
 			<string>ES</string>
 			<string>AREOMETRES</string>
 		</array>
@@ -581,7 +581,7 @@
 		</array>
 		<array>
 			<string>Le snob commence ainsi</string>
-			<string>Elles sont d'un ordre religieux</string>
+			<string>Elles sont d&apos;un ordre religieux</string>
 			<string>SN</string>
 			<string>CELESTINES</string>
 		</array>

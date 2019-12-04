@@ -15,7 +15,7 @@ class ActivityIndicatorView
     let fonts = FontsAndConstraintsOptions()
     var title: String!
     
-    init(title: String, center: CGPoint, width: CGFloat = 350.0, height: CGFloat = 80.0)
+    init(title: String, center: CGPoint, width: CGFloat = 400.0, height: CGFloat = 80.0)
     {
         self.title = title
         let x = center.x - width/2.0
@@ -26,13 +26,13 @@ class ActivityIndicatorView
         self.activityIndicator = UIActivityIndicatorView(frame: CGRect(x: 0, y: 0, width: 80, height: 80))
         self.activityIndicator.color = UIColor.white
         self.activityIndicator.hidesWhenStopped = false
-        let titleLabel = UILabel(frame: CGRect(x: 90, y: 15, width: 200, height: 50))
+        let titleLabel = UILabel(frame: CGRect(x: 90, y: 15, width: 300, height: 50))
         titleLabel.text = title
         titleLabel.textColor = UIColor.white
         titleLabel.textAlignment = .center
         titleLabel.numberOfLines = 0
         titleLabel.lineBreakMode = .byWordWrapping
-        titleLabel.font = fonts.normalBoldFont
+        titleLabel.font = fonts.smallBoldFont
         self.view.addSubview(self.activityIndicator)
         self.view.addSubview(titleLabel)
     }

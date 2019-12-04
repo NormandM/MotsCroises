@@ -12,6 +12,7 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
     var grillesChoisies = [String]()
     let fonts = FontsAndConstraintsOptions()
     var motsCroisesSelected = String()
+    var dimension = Int()
     override func viewDidLoad() {
         super.viewDidLoad()
         if #available(iOS 13.0, *) {
@@ -47,9 +48,16 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
         let items = CoreDataHandler.fetchGrille(grilleSelected: grillesChoisies[indexPath.row])
         var status = false
         //MARK: CHANGE FOR DIMENSION
+        let lastCharacter = grillesChoisies[indexPath.row].last
+        let grilleNumber = grillesChoisies[indexPath.row]
+        if lastCharacter == "E" || grilleNumber == "11G" || grilleNumber == "12G" || grilleNumber == "13G" || grilleNumber == "14G" || grilleNumber == "15G"{
+            dimension = 11
+        }else{
+            dimension = 9
+        }
         if items != [] {
-            for n in 0...9 {
-                for m in 0...9 {
+            for n in 0...dimension {
+                for m in 0...dimension {
                     let letter = CoreDataHandler.fetchLetters(noDeLettre: "\(n),\(m)", grilleSelected: grillesChoisies[indexPath.row])
                     if letter != "" && letter != " " &&  letter != "#" {
                         status = true

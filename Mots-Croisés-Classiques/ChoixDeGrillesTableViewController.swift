@@ -67,7 +67,8 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
                 // prefer a light interface style with this:
                 overrideUserInterfaceStyle = .light
         }
-        arrayGrillesComment = [["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"]]
+       arrayGrillesComment = [["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"]]
+
         arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100]]
     }
     override func viewWillAppear(_ animated: Bool) {

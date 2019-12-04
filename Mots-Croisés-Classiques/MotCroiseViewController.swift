@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import AVFoundation
 
 class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITextFieldDelegate {
     @IBOutlet weak var iconesStackView: UIStackView!
@@ -27,6 +28,10 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBOutlet weak var moveRightButton: UIButton!
     @IBOutlet weak var definitionLabel: SpecialLabel!
     @IBOutlet weak var pointInterrogation: UIButton!
+    @IBOutlet weak var horizOrVertLabel: UILabel!
+    @IBOutlet weak var noDeMotsCroisesLabel: UILabel!
+    
+    @IBOutlet weak var topHorVertToCollectionViewConstraint: NSLayoutConstraint!
     var effect: UIVisualEffect!
     let blurEffect = UIBlurEffect(style: UIBlurEffect.Style.light)
     var blurEffectView = UIVisualEffectView()
@@ -48,12 +53,14 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     var keyBoardCGRec = CGRect()
     var grilleSelected = String()
     var item: [Item]?
+    var soundPlayer: SoundPlayer?
     override func viewDidLoad() {
         super.viewDidLoad()
         if #available(iOS 13.0, *) {
                 // prefer a light interface style with this:
                 overrideUserInterfaceStyle = .light
         }
+        soundPlayer = SoundPlayer()
         let pListLettres = "Lettres" + grilleSelected
         let pListDefinitions = "Definitions" + grilleSelected
         if let plistPath = Bundle.main.path(forResource: pListLettres, ofType: "plist"),
@@ -98,14 +105,22 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         definitionLabel.textColor = .white
         definitionLabel.numberOfLines = 0
         definitionLabel.lineBreakMode = .byWordWrapping
+        horizOrVertLabel.font = fonts.largeBoldFont
+        horizOrVertLabel.backgroundColor = ColorReference.brownGray
+        horizOrVertLabel.textColor = .white
+        horizOrVertLabel.textAlignment = .center
+        pointInterrogation.titleLabel?.font = fonts.largeFont
         let newConstraint = collectionViewConstraint.constraintWithMultiplier(fonts.multiplierConstraint)
         view.removeConstraint(collectionViewConstraint)
         view.addConstraint(newConstraint)
         view.layoutIfNeeded()
         collectionViewConstraint = newConstraint
+        noDeMotsCroisesLabel.text = "Mots Croisés: \(grilleSelected)"
+        noDeMotsCroisesLabel.font = fonts.largeItaliqueBoldFont
+        noDeMotsCroisesLabel.backgroundColor = ColorReference.coralColorVDardk
+        noDeMotsCroisesLabel.textColor = .white
     }
     override func viewDidAppear(_ animated: Bool) {
-        //self.activityIndicatorView.stopAnimating()
         let cell = cellChosen(indexPath: [0, 0])
         indexPathSelected = [0,0 ]
         collectionView.selectItem(at: indexPathSelected, animated: false, scrollPosition: .centeredHorizontally)
@@ -120,6 +135,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         let yPosition = collectionView.frame.maxY
         let heightBackground = keyBoardCGRec.minY - yPosition
         topDefinitionLabelConstraints.constant = heightBackground/2  - definitionLabel.frame.height/2
+        topHorVertToCollectionViewConstraint.constant = heightBackground/2  - horizOrVertLabel.frame.height/2
         let line = CAShapeLayer()
         line.path = UIBezierPath(roundedRect: CGRect(x: 0, y: keyBoardCGRec.minY, width: view.frame.width, height: 5), cornerRadius: 0).cgPath
         line.fillColor = ColorReference.sandColor.cgColor
@@ -190,7 +206,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     }
      func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
         let cell = cellChosen(indexPath: indexPathSelected)
-        cell.laLettre.text = string
+        cell.laLettre.text = string.stripOfAccent()
         guard let char = string.cString(using: String.Encoding.utf8) else {
             return false
         }
@@ -366,10 +382,13 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         pathArray = boolStringTupple.3
         definition(indexPathSelected: indexPathSelected, isHorizontal: isHorizontal)
     }
-    
+    // MARK: - Navigation
     @IBAction func goBackToGridList(_ sender: UITapGestureRecognizer) {
         performSegue(withIdentifier: "backToGridSelection", sender: self)
     }
+    
+    
+    
     func gridMove (scrollH: (IndexPath, Int) -> IndexPath, scrollV: (IndexPath, Int) -> IndexPath){
         var cell = cellChosen(indexPath: indexPathSelected)
         var newIndexPath =  IndexPath()
@@ -434,11 +453,15 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
 
     }
     func definition(indexPathSelected: IndexPath, isHorizontal: Bool) {
-        if isHorizontal {
-            definitionLabel.text = "H: \(definitions[indexPathSelected.section][indexPathSelected.item][0])"
-        }else{
 
-            definitionLabel.text = "V: \(definitions[indexPathSelected.section][indexPathSelected.item][1])"
+        if isHorizontal {
+            horizOrVertLabel.text = "H:"
+            let trimmedString = "\(definitions[indexPathSelected.section][indexPathSelected.item][0])".trimmingCharacters(in: .whitespaces)
+            definitionLabel.text = trimmedString
+        }else{
+            horizOrVertLabel.text = "V:"
+            let trimmedString = "\(definitions[indexPathSelected.section][indexPathSelected.item][1])".trimmingCharacters(in: .whitespaces)
+            definitionLabel.text = trimmedString
         }
     }
     func showAlertNoError () {
@@ -454,15 +477,16 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         self.present(alert, animated: true, completion: nil)
     }
     func showAlerteGrilleReussie () {
-        
         let alert = UIAlertController(title: "Félicitations!", message: "Vous avez complété la grille!", preferredStyle: UIAlertController.Style.alert)
         let okAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
+        soundPlayer?.playSound(soundName: "music_harp_gliss_up", type: "wav")
         alert.addAction(okAction)
         self.present(alert, animated: true, completion: nil)
     }
 
     func actionEffaceGrille() {
         EffacerGrille.effacer(collectionView: collectionView, dimension: dimension, grilleSelected: grilleSelected)
+        CoreDataHandler.saveUncompleteStatus(grilleSelected: grilleSelected)
         let cell = cellChosen(indexPath: [0, 0])
         indexPathSelected = [0,0 ]
         collectionView.selectItem(at: indexPathSelected, animated: false, scrollPosition: .centeredHorizontally)

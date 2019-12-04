@@ -4,61 +4,61 @@
 <array>
 	<array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Elimination</string>
 			<string>EXTRAFORTE</string>
 			<string>EVACUATION</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Rat palmiste</string>
 			<string>EXTRAFORTE</string>
 			<string>XERUS</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Est agité</string>
 			<string>EXTRAFORTE</string>
 			<string>TREPIDE</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Dieu Egyptien</string>
 			<string>EXTRAFORTE</string>
 			<string>RA</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Classicisme</string>
 			<string>EXTRAFORTE</string>
 			<string>ACADEMISME</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Un nom de chien</string>
 			<string>EXTRAFORTE</string>
 			<string>FIDO</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Organisation fondée en 1949</string>
 			<string>EXTRAFORTE</string>
 			<string>OTAN</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Désert rocheux</string>
 			<string>EXTRAFORTE</string>
 			<string>REG</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string></string>
 			<string>EXTRAFORTE</string>
 			<string>T</string>
 		</array>
 		<array>
-			<string> Très puissant</string>
+			<string>  Très puissante</string>
 			<string> Cinéaste soviétique</string>
 			<string>EXTRAFORTE</string>
 			<string>EISENSTEIN</string>
@@ -190,43 +190,43 @@
 	</array>
 	<array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Elimination</string>
 			<string>CUPIDON</string>
 			<string>EVACUATION</string>
 		</array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Rat palmiste</string>
 			<string>CUPIDON</string>
 			<string>XERUS</string>
 		</array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Est agité</string>
 			<string>CUPIDON</string>
 			<string>TREPIDE</string>
 		</array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Petit mot latin</string>
 			<string>CUPIDON</string>
 			<string>ITE</string>
 		</array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Classicisme</string>
 			<string>CUPIDON</string>
 			<string>ACADEMISME</string>
 		</array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Un nom de chien</string>
 			<string>CUPIDON</string>
 			<string>FIDO</string>
 		</array>
 		<array>
-			<string> Dieu de l'amour</string>
+			<string> Dieu de l&apos;amour</string>
 			<string> Organisation fondée en 1949</string>
 			<string>CUPIDON</string>
 			<string>OTAN</string>
@@ -326,37 +326,37 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> S'active</string>
+			<string> S&apos;active</string>
 			<string> Est agité</string>
 			<string>DEMENE</string>
 			<string>TREPIDE</string>
 		</array>
 		<array>
-			<string> S'active</string>
+			<string> S&apos;active</string>
 			<string> Petit mot latin</string>
 			<string>DEMENE</string>
 			<string>ITE</string>
 		</array>
 		<array>
-			<string> S'active</string>
+			<string> S&apos;active</string>
 			<string> Classicisme</string>
 			<string>DEMENE</string>
 			<string>ACADEMISME</string>
 		</array>
 		<array>
-			<string> S'active</string>
+			<string> S&apos;active</string>
 			<string> Avant un titre universitaire</string>
 			<string>DEMENE</string>
 			<string>ES</string>
 		</array>
 		<array>
-			<string> S'active</string>
+			<string> S&apos;active</string>
 			<string> Possessif</string>
 			<string>DEMENE</string>
 			<string>NOS</string>
 		</array>
 		<array>
-			<string> S'active</string>
+			<string> S&apos;active</string>
 			<string> Partie de fleur</string>
 			<string>DEMENE</string>
 			<string>SEPALE</string>
@@ -456,13 +456,13 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> À la fin d'une lettre</string>
+			<string> À la fin d&apos;une lettre</string>
 			<string> Gaz</string>
 			<string>PS</string>
 			<string>PET</string>
 		</array>
 		<array>
-			<string> À la fin d'une lettre</string>
+			<string> À la fin d&apos;une lettre</string>
 			<string> Classicisme</string>
 			<string>PS</string>
 			<string>ACADEMISME</string>

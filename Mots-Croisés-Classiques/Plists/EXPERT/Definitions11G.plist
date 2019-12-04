@@ -5,13 +5,13 @@
 	<array>
 		<array>
 			<string> Pleine de boutons</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>TELECOMMANDE</string>
 			<string>TRENTENAIRES</string>
 		</array>
 		<array>
 			<string> Pleine de boutons</string>
-			<string> Circulent librement partout en Europe</string>
+			<string> Circule librement partout en Europe</string>
 			<string>TELECOMMANDE</string>
 			<string>EURO</string>
 		</array>
@@ -79,13 +79,13 @@
 	<array>
 		<array>
 			<string> Protestera</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>RUERA</string>
 			<string>TRENTENAIRES</string>
 		</array>
 		<array>
 			<string> Protestera</string>
-			<string> Circulent librement partout en Europe</string>
+			<string> Circule librement partout en Europe</string>
 			<string>RUERA</string>
 			<string>EURO</string>
 		</array>
@@ -153,13 +153,13 @@
 	<array>
 		<array>
 			<string> Désert</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>ERG</string>
 			<string>TRENTENAIRES</string>
 		</array>
 		<array>
 			<string> Désert</string>
-			<string> Circulent librement partout en Europe</string>
+			<string> Circule librement partout en Europe</string>
 			<string>ERG</string>
 			<string>EURO</string>
 		</array>
@@ -213,7 +213,7 @@
 		</array>
 		<array>
 			<string> Abréviation religieuse</string>
-			<string> Vit dans l'eau et aime planer</string>
+			<string> Vit dans l&apos;eau et aime planer</string>
 			<string>EM</string>
 			<string>EXOCET</string>
 		</array>
@@ -226,25 +226,25 @@
 	</array>
 	<array>
 		<array>
-			<string> On aime qu'il soit blanc</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> On aime qu&apos;il soit blanc</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>NOEL</string>
 			<string>TRENTENAIRES</string>
 		</array>
 		<array>
-			<string> On aime qu'il soit blanc</string>
-			<string> Circulent librement partout en Europe</string>
+			<string> On aime qu&apos;il soit blanc</string>
+			<string> Circule librement partout en Europe</string>
 			<string>NOEL</string>
 			<string>EURO</string>
 		</array>
 		<array>
-			<string> On aime qu'il soit blanc</string>
+			<string> On aime qu&apos;il soit blanc</string>
 			<string> Se soulèvent facilement</string>
 			<string>NOEL</string>
 			<string>LEGERES</string>
 		</array>
 		<array>
-			<string> On aime qu'il soit blanc</string>
+			<string> On aime qu&apos;il soit blanc</string>
 			<string> Osé</string>
 			<string>NOEL</string>
 			<string>LESTE</string>
@@ -287,7 +287,7 @@
 		</array>
 		<array>
 			<string> Voie routière importante</string>
-			<string> Vit dans l'eau et aime planer</string>
+			<string> Vit dans l&apos;eau et aime planer</string>
 			<string>AXE</string>
 			<string>EXOCET</string>
 		</array>
@@ -301,7 +301,7 @@
 	<array>
 		<array>
 			<string></string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>T</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -361,7 +361,7 @@
 		</array>
 		<array>
 			<string> Action de porter à nouveau au pouvoir</string>
-			<string> Vit dans l'eau et aime planer</string>
+			<string> Vit dans l&apos;eau et aime planer</string>
 			<string>REELECTION</string>
 			<string>EXOCET</string>
 		</array>
@@ -375,7 +375,7 @@
 	<array>
 		<array>
 			<string>  Périodes historiques</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>ERES</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -404,25 +404,25 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Fils d'Isaac</string>
+			<string> Fils d&apos;Isaac</string>
 			<string> On le prend souvent avec le retour</string>
 			<string>ESAU</string>
 			<string>ALLER</string>
 		</array>
 		<array>
-			<string> Fils d'Isaac</string>
+			<string> Fils d&apos;Isaac</string>
 			<string> Oscillations de la mer</string>
 			<string>ESAU</string>
 			<string>MAREES</string>
 		</array>
 		<array>
-			<string> Fils d'Isaac</string>
+			<string> Fils d&apos;Isaac</string>
 			<string> Relatifs à des services essentiels</string>
 			<string>ESAU</string>
 			<string>MEDICAUX</string>
 		</array>
 		<array>
-			<string> Fils d'Isaac</string>
+			<string> Fils d&apos;Isaac</string>
 			<string> Mortes</string>
 			<string>ESAU</string>
 			<string>TUEES</string>
@@ -435,7 +435,7 @@
 		</array>
 		<array>
 			<string> Démonstratif</string>
-			<string> Vit dans l'eau et aime planer</string>
+			<string> Vit dans l&apos;eau et aime planer</string>
 			<string>CE</string>
 			<string>EXOCET</string>
 		</array>
@@ -449,7 +449,7 @@
 	<array>
 		<array>
 			<string> Prénom</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>NESTOR</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -509,7 +509,7 @@
 		</array>
 		<array>
 			<string> Coule en Afrique</string>
-			<string> Vit dans l'eau et aime planer</string>
+			<string> Vit dans l&apos;eau et aime planer</string>
 			<string>UELE</string>
 			<string>EXOCET</string>
 		</array>
@@ -523,7 +523,7 @@
 	<array>
 		<array>
 			<string> Ne boit plus</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>AA</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -583,7 +583,7 @@
 		</array>
 		<array>
 			<string> Permissions de sortir</string>
-			<string> Vit dans l'eau et aime planer</string>
+			<string> Vit dans l&apos;eau et aime planer</string>
 			<string>EXEATS</string>
 			<string>EXOCET</string>
 		</array>
@@ -597,7 +597,7 @@
 	<array>
 		<array>
 			<string> Pronom personnel</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>ILS</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -627,7 +627,7 @@
 		</array>
 		<array>
 			<string>  Règles.</string>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string>TES</string>
 			<string>EU</string>
 		</array>
@@ -671,7 +671,7 @@
 	<array>
 		<array>
 			<string> Néant</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>RIEN</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -701,7 +701,7 @@
 		</array>
 		<array>
 			<string> Amérindien.</string>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string>UTE</string>
 			<string>EU</string>
 		</array>
@@ -745,7 +745,7 @@
 	<array>
 		<array>
 			<string> Estoniens</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>ESTES</string>
 			<string>TRENTENAIRES</string>
 		</array>
@@ -819,7 +819,7 @@
 	<array>
 		<array>
 			<string> Circulaient à Rome</string>
-			<string> Ils n'habitent plus chez leurs parents</string>
+			<string> Ils n&apos;habitent plus chez leurs parents</string>
 			<string>SESTERCES</string>
 			<string>TRENTENAIRES</string>
 		</array>

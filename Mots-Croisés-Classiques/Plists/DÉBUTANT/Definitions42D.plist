@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Elles ont un squelette</string>
+			<string>VANTARDISE</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Elle veut réussir</string>
+			<string>VANTARDISE</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Négation</string>
+			<string>VANTARDISE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Éliminée</string>
+			<string>VANTARDISE</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Afflige</string>
+			<string>VANTARDISE</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Vallée envahie par la mer</string>
+			<string>VANTARDISE</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Chefs du gouvernement d'Alger</string>
+			<string>VANTARDISE</string>
+			<string>DEYS</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Colère</string>
+			<string>VANTARDISE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> On en extrait un laxatif</string>
+			<string>VANTARDISE</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Fanfaronnade</string>
+			<string> Orient.</string>
+			<string>VANTARDISE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Insurgées</string>
+			<string> Elles ont un squelette</string>
+			<string>EMEUTIERES</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Elle veut réussir</string>
+			<string>EMEUTIERES</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Négation</string>
+			<string>EMEUTIERES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Éliminée</string>
+			<string>EMEUTIERES</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Afflige</string>
+			<string>EMEUTIERES</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Vallée envahie par la mer</string>
+			<string>EMEUTIERES</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Chefs du gouvernement d'Alger</string>
+			<string>EMEUTIERES</string>
+			<string>DEYS</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Colère</string>
+			<string>EMEUTIERES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> On en extrait un laxatif</string>
+			<string>EMEUTIERES</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Insurgées</string>
+			<string> Orient.</string>
+			<string>EMEUTIERES</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rubidium</string>
+			<string> Elles ont un squelette</string>
+			<string>RB</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Rubidium</string>
+			<string> Elle veut réussir</string>
+			<string>RB</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> Éliminée</string>
+			<string>ETAYENT</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> Afflige</string>
+			<string>ETAYENT</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> Vallée envahie par la mer</string>
+			<string>ETAYENT</string>
+			<string>RIA</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> Chefs du gouvernement d'Alger</string>
+			<string>ETAYENT</string>
+			<string>DEYS</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> Colère</string>
+			<string>ETAYENT</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> On en extrait un laxatif</string>
+			<string>ETAYENT</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string> Appuient</string>
+			<string> Orient.</string>
+			<string>ETAYENT</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Haler</string>
+			<string> Elles ont un squelette</string>
+			<string>TIRER</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Elle veut réussir</string>
+			<string>TIRER</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Redis</string>
+			<string>TIRER</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Éliminée</string>
+			<string>TIRER</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Haler</string>
+			<string> Afflige</string>
+			<string>TIRER</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Chefs du gouvernement d'Alger</string>
+			<string>S</string>
+			<string>DEYS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> On en extrait un laxatif</string>
+			<string>E</string>
+			<string>SENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Elles ont un squelette</string>
+			<string>ETE</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Elle veut réussir</string>
+			<string>ETE</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Redis</string>
+			<string>ETE</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Afflige</string>
+			<string>IR</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string> Fin de verbe</string>
+			<string> Note de musique</string>
+			<string>IR</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Baudets</string>
+			<string>A</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Essayas</string>
+			<string>T</string>
+			<string>TESTAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Convenable</string>
+			<string> Elles ont un squelette</string>
+			<string>BIENSEANTE</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Elle veut réussir</string>
+			<string>BIENSEANTE</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Redis</string>
+			<string>BIENSEANTE</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Nickel</string>
+			<string>BIENSEANTE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Afflige</string>
+			<string>BIENSEANTE</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Note de musique</string>
+			<string>BIENSEANTE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Apres</string>
+			<string>BIENSEANTE</string>
+			<string>AMERS</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Baudets</string>
+			<string>BIENSEANTE</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Tour</string>
+			<string>BIENSEANTE</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string> Convenable</string>
+			<string> Essayas</string>
+			<string>BIENSEANTE</string>
+			<string>TESTAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Rapporta</string>
+			<string> Elles ont un squelette</string>
+			<string>REMIT</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Rapporta</string>
+			<string> Elle veut réussir</string>
+			<string>REMIT</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Rapporta</string>
+			<string> Redis</string>
+			<string>REMIT</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string> Rapporta</string>
+			<string> Nickel</string>
+			<string>REMIT</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string> Rapporta</string>
+			<string> Afflige</string>
+			<string>REMIT</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Vastes étendues d'eau</string>
+			<string> Apres</string>
+			<string>MERS</string>
+			<string>AMERS</string>
+		</array>
+		<array>
+			<string> Vastes étendues d'eau</string>
+			<string> Baudets</string>
+			<string>MERS</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string> Vastes étendues d'eau</string>
+			<string> Tour</string>
+			<string>MERS</string>
+			<string>TR</string>
+		</array>
+		<array>
+			<string> Vastes étendues d'eau</string>
+			<string> Essayas</string>
+			<string>MERS</string>
+			<string>TESTAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Trompée</string>
+			<string> Elles ont un squelette</string>
+			<string>EUE</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Elle veut réussir</string>
+			<string>EUE</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Trompée</string>
+			<string> Redis</string>
+			<string>EUE</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>  Espaces de temps</string>
+			<string> Afflige</string>
+			<string>ERES</string>
+			<string>ATTRISTE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps</string>
+			<string> Crie comme un cerf</string>
+			<string>ERES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string>  Espaces de temps</string>
+			<string> Apres</string>
+			<string>ERES</string>
+			<string>AMERS</string>
+		</array>
+		<array>
+			<string>  Espaces de temps</string>
+			<string> Baudets</string>
+			<string>ERES</string>
+			<string>ANES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Essayas</string>
+			<string>T</string>
+			<string>TESTAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Elles ont un squelette</string>
+			<string>ESTE</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Elle veut réussir</string>
+			<string>ESTE</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string> Redis</string>
+			<string>ESTE</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string> Une noble famille d'Italie</string>
+			<string></string>
+			<string>ESTE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Crie comme un cerf</string>
+			<string>ER</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Infinitif</string>
+			<string> Apres</string>
+			<string>ER</string>
+			<string>AMERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Ce n'est pas à toi</string>
+			<string> Pronom</string>
+			<string>SA</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Ce n'est pas à toi</string>
+			<string> Essayas</string>
+			<string>SA</string>
+			<string>TESTAS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Possessif</string>
+			<string> Elles ont un squelette</string>
+			<string>SES</string>
+			<string>VERTEBREES</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Elle veut réussir</string>
+			<string>SES</string>
+			<string>AMBITIEUSE</string>
+		</array>
+		<array>
+			<string> Possessif</string>
+			<string> Redis</string>
+			<string>SES</string>
+			<string>REEMETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Demeures</string>
+			<string></string>
+			<string>RESTES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Demeures</string>
+			<string> Crie comme un cerf</string>
+			<string>RESTES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string> Demeures</string>
+			<string> Apres</string>
+			<string>RESTES</string>
+			<string>AMERS</string>
+		</array>
+		<array>
+			<string> Demeures</string>
+			<string></string>
+			<string>RESTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string> Demeures</string>
+			<string> Pronom</string>
+			<string>RESTES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Demeures</string>
+			<string> Essayas</string>
+			<string>RESTES</string>
+			<string>TESTAS</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -66,31 +66,31 @@
 	</array>
 	<array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Éliminer</string>
 			<string>XERES</string>
 			<string>EXTERMINER</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Xénon</string>
 			<string>XERES</string>
 			<string>XE</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Des zones très sensibles</string>
 			<string>XERES</string>
 			<string>EROGENES</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Adjectif démonstratif</string>
 			<string>XERES</string>
 			<string>CES</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Élimé</string>
 			<string>XERES</string>
 			<string>USE</string>
@@ -140,49 +140,49 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Des zones très sensibles</string>
 			<string>OSERAIES</string>
 			<string>EROGENES</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Adjectif démonstratif</string>
 			<string>OSERAIES</string>
 			<string>CES</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Élimé</string>
 			<string>OSERAIES</string>
 			<string>USE</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
-			<string> Redite</string>
+			<string> Terrains plantés d&quot;osiers</string>
+			<string>Répétée</string>
 			<string>OSERAIES</string>
 			<string>REITEREE</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Armée Irlandaise</string>
 			<string>OSERAIES</string>
 			<string>IRA</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Entendre</string>
 			<string>OSERAIES</string>
 			<string>OUIR</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Arrivée</string>
 			<string>OSERAIES</string>
 			<string>NEE</string>
 		</array>
 		<array>
-			<string> Terrains plantés d"osiers</string>
+			<string> Terrains plantés d&quot;osiers</string>
 			<string> Monnaies romaines</string>
 			<string>OSERAIES</string>
 			<string>SESTERCES</string>
@@ -221,7 +221,7 @@
 		</array>
 		<array>
 			<string></string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>E</string>
 			<string>REITEREE</string>
 		</array>
@@ -283,7 +283,7 @@
 		</array>
 		<array>
 			<string> Recopie</string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>REECRIT</string>
 			<string>REITEREE</string>
 		</array>
@@ -345,7 +345,7 @@
 		</array>
 		<array>
 			<string> Déléguée</string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>MANDATEE</string>
 			<string>REITEREE</string>
 		</array>
@@ -376,19 +376,19 @@
 	</array>
 	<array>
 		<array>
-			<string> Entourée d'eau</string>
+			<string> Entourée d&apos;eau</string>
 			<string> Éliminer</string>
 			<string>ILE</string>
 			<string>EXTERMINER</string>
 		</array>
 		<array>
-			<string> Entourée d'eau</string>
+			<string> Entourée d&apos;eau</string>
 			<string> Calibre à nouveau </string>
 			<string>ILE</string>
 			<string>REALESE</string>
 		</array>
 		<array>
-			<string> Entourée d'eau</string>
+			<string> Entourée d&apos;eau</string>
 			<string> Des zones très sensibles</string>
 			<string>ILE</string>
 			<string>EROGENES</string>
@@ -407,7 +407,7 @@
 		</array>
 		<array>
 			<string> Pronom</string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>SE</string>
 			<string>REITEREE</string>
 		</array>
@@ -469,7 +469,7 @@
 		</array>
 		<array>
 			<string> Prénom</string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>NESTOR</string>
 			<string>REITEREE</string>
 		</array>
@@ -531,7 +531,7 @@
 		</array>
 		<array>
 			<string> Elles sont joyeuses</string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>RIEUSES</string>
 			<string>REITEREE</string>
 		</array>
@@ -593,7 +593,7 @@
 		</array>
 		<array>
 			<string> Oteras</string>
-			<string> Redite</string>
+			<string>Répétée</string>
 			<string>RETIRERAS</string>
 			<string>REITEREE</string>
 		</array>

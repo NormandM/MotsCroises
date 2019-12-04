@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Harmonieux</string>
+			<string>EXAGERANT</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Vin d'Espagne</string>
+			<string>EXAGERANT</string>
+			<string>XERES</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Une blonde anglaise</string>
+			<string>EXAGERANT</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Sièges de la voix</string>
+			<string>EXAGERANT</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Indique l'origine</string>
+			<string>EXAGERANT</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string></string>
+			<string>EXAGERANT</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Résines</string>
+			<string>EXAGERANT</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Qui signifie nouveau</string>
+			<string>EXAGERANT</string>
+			<string>NEO</string>
+		</array>
+		<array>
+			<string> Amplifiant</string>
+			<string> Bateau de l'antiquité</string>
+			<string>EXAGERANT</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Suivant</string>
+			<string> Harmonieux</string>
+			<string>SELON</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Suivant</string>
+			<string> Vin d'Espagne</string>
+			<string>SELON</string>
+			<string>XERES</string>
+		</array>
+		<array>
+			<string> Suivant</string>
+			<string> Une blonde anglaise</string>
+			<string>SELON</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string> Suivant</string>
+			<string> Sièges de la voix</string>
+			<string>SELON</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string> Suivant</string>
+			<string> Indique l'origine</string>
+			<string>SELON</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Résines</string>
+			<string>SERE</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Qui signifie nouveau</string>
+			<string>SERE</string>
+			<string>NEO</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Bateau de l'antiquité</string>
+			<string>SERE</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string> Fromage</string>
+			<string> Écossais</string>
+			<string>SERE</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Diablement</string>
+			<string> Harmonieux</string>
+			<string>TRES</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Vin d'Espagne</string>
+			<string>TRES</string>
+			<string>XERES</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Une blonde anglaise</string>
+			<string>TRES</string>
+			<string>ALE</string>
+		</array>
+		<array>
+			<string> Diablement</string>
+			<string> Sièges de la voix</string>
+			<string>TRES</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Convenir</string>
+			<string> Réunion, fête</string>
+			<string>SEOIR</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string> Convenir</string>
+			<string> Résines</string>
+			<string>SEOIR</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string> Convenir</string>
+			<string> Qui signifie nouveau</string>
+			<string>SEOIR</string>
+			<string>NEO</string>
+		</array>
+		<array>
+			<string> Convenir</string>
+			<string> Bateau de l'antiquité</string>
+			<string>SEOIR</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string> Convenir</string>
+			<string> Écossais</string>
+			<string>SEOIR</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Interjection</string>
+			<string> Harmonieux</string>
+			<string>HE</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Interjection</string>
+			<string> Vin d'Espagne</string>
+			<string>HE</string>
+			<string>XERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Marcheras</string>
+			<string> Sièges de la voix</string>
+			<string>IRAS</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string> Marcheras</string>
+			<string></string>
+			<string>IRAS</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string> Marcheras</string>
+			<string> Réunion, fête</string>
+			<string>IRAS</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string> Marcheras</string>
+			<string> Résines</string>
+			<string>IRAS</string>
+			<string>ASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Bateau de l'antiquité</string>
+			<string>ES</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string> Du verbe être</string>
+			<string> Écossais</string>
+			<string>ES</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Harmonieux</string>
+			<string>ESTE</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Vin d'Espagne</string>
+			<string>ESTE</string>
+			<string>XERES</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Éliminée</string>
+			<string>ESTE</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Ville d'Italie</string>
+			<string> Sièges de la voix</string>
+			<string>ESTE</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Réunion, fête</string>
+			<string>U</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Qui provoque de l’usure</string>
+			<string>ERE</string>
+			<string>EROSIF</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Bateau de l'antiquité</string>
+			<string>ERE</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string> Période</string>
+			<string> Écossais</string>
+			<string>ERE</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string> Harmonieux</string>
+			<string>T</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Éliminée</string>
+			<string>URETERES</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Sièges de la voix</string>
+			<string>URETERES</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string></string>
+			<string>URETERES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Réunion, fête</string>
+			<string>URETERES</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Infinitif</string>
+			<string>URETERES</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Qui provoque de l’usure</string>
+			<string>URETERES</string>
+			<string>EROSIF</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Bateau de l'antiquité</string>
+			<string>URETERES</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string> Canaux</string>
+			<string> Écossais</string>
+			<string>URETERES</string>
+			<string>ERSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Colères</string>
+			<string> Harmonieux</string>
+			<string>IRES</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Périodes d'amours et de combats</string>
+			<string>IRES</string>
+			<string>RUTS</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Éliminée</string>
+			<string>IRES</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string> Colères</string>
+			<string> Sièges de la voix</string>
+			<string>IRES</string>
+			<string>GOSIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Réunion, fête</string>
+			<string>EROS</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Infinitif</string>
+			<string>EROS</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Qui provoque de l’usure</string>
+			<string>EROS</string>
+			<string>EROSIF</string>
+		</array>
+		<array>
+			<string> Jeune dieu</string>
+			<string> Bateau de l'antiquité</string>
+			<string>EROS</string>
+			<string>TRIERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Harmonieux</string>
+			<string>QUE</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Périodes d'amours et de combats</string>
+			<string>QUE</string>
+			<string>RUTS</string>
+		</array>
+		<array>
+			<string> Pronom relatif</string>
+			<string> Éliminée</string>
+			<string>QUE</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Poisson osseux</string>
+			<string>SR</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Symbole chimique</string>
+			<string> Réunion, fête</string>
+			<string>SR</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> Qui provoque de l’usure</string>
+			<string>S</string>
+			<string>EROSIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string> C'était une armée</string>
+			<string>O</string>
+			<string>OST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Note</string>
+			<string> Harmonieux</string>
+			<string>UT</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Note</string>
+			<string> Périodes d'amours et de combats</string>
+			<string>UT</string>
+			<string>RUTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Pronom</string>
+			<string>SAISIES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Poisson osseux</string>
+			<string>SAISIES</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Réunion, fête</string>
+			<string>SAISIES</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string></string>
+			<string>SAISIES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> Qui provoque de l’usure</string>
+			<string>SAISIES</string>
+			<string>EROSIF</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> D'un auxiliaire</string>
+			<string>SAISIES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Émues</string>
+			<string> C'était une armée</string>
+			<string>SAISIES</string>
+			<string>OST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string> Souhaite</string>
+			<string> Harmonieux</string>
+			<string>ESPERE</string>
+			<string>ESTHETIQUE</string>
+		</array>
+		<array>
+			<string> Souhaite</string>
+			<string> Périodes d'amours et de combats</string>
+			<string>ESPERE</string>
+			<string>RUTS</string>
+		</array>
+		<array>
+			<string> Souhaite</string>
+			<string></string>
+			<string>ESPERE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string> Souhaite</string>
+			<string> Pronom</string>
+			<string>ESPERE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string> Souhaite</string>
+			<string> Poisson osseux</string>
+			<string>ESPERE</string>
+			<string>SAR</string>
+		</array>
+		<array>
+			<string> Souhaite</string>
+			<string> Réunion, fête</string>
+			<string>ESPERE</string>
+			<string>SAUTERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string> Tonneau</string>
+			<string> Qui provoque de l’usure</string>
+			<string>FUT</string>
+			<string>EROSIF</string>
+		</array>
+		<array>
+			<string> Tonneau</string>
+			<string> D'un auxiliaire</string>
+			<string>FUT</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string> Tonneau</string>
+			<string> C'était une armée</string>
+			<string>FUT</string>
+			<string>OST</string>
+		</array>
+	</array>
+</array>
+</plist>

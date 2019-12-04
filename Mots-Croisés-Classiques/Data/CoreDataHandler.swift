@@ -135,7 +135,14 @@ class CoreDataHandler: NSObject {
         if !isSuccessful {
             print("Did not save")
         }
-        
+    }
+    class func saveUncompleteStatus(grilleSelected: String) {
+        let item = fetchSingleObject(noDeLettre: "0,0", grilleSelected: grilleSelected)
+        item.completed  = false
+        let isSuccessful = saveSingleObject(item: item)
+        if !isSuccessful {
+            print("Did not save")
+        }
     }
 
 }
