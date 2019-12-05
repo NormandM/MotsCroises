@@ -2179,8 +2179,9 @@
 				DEVELOPMENT_TEAM = X6D769Z7F4;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2197,8 +2198,9 @@
 				DEVELOPMENT_TEAM = X6D769Z7F4;
 				ENABLE_BITCODE = YES;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.0;
+				MARKETING_VERSION = 2.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

@@ -20,6 +20,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         navigationBarAppearace.tintColor = UIColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1.0)
         navigationBarAppearace.barTintColor = ColorReference.brownGray
         navigationBarAppearace.titleTextAttributes = [NSAttributedString.Key.font: fonts.normalBoldFont, NSAttributedString.Key.foregroundColor:UIColor.white]
+        // get current number of times app has been launched
+        let currentCount = UserDefaults.standard.integer(forKey: "launchCount")
+        // increment received number by one
+        UserDefaults.standard.set(currentCount+1, forKey:"launchCount")
+        UserDefaults.standard.synchronize()
 
         return true
     }

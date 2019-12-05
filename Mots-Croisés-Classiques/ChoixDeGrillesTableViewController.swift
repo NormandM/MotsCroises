@@ -10,6 +10,7 @@ import UIKit
 import StoreKit
 
 class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransactionObserver {
+    let currentCount = UserDefaults.standard.integer(forKey: "launchCount")
     var restoreButton = UIButton()
     var labelHeaderView = UILabel()
     var grillesAchetées = String()
@@ -67,13 +68,20 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
                 // prefer a light interface style with this:
                 overrideUserInterfaceStyle = .light
         }
+        if currentCount >= 10 {
+            if #available(iOS 10.3, *) {
+                SKStoreReviewController.requestReview()
+                UserDefaults.standard.set(0, forKey: "launchCount")
+            }
+        }
+
        arrayGrillesComment = [["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"]]
 
         arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100]]
     }
     override func viewWillAppear(_ animated: Bool) {
         self.navigationItem.setHidesBackButton(true, animated:true)
-        self.title = "Choix des Mots Croisé"
+        self.title = "Choix des Mots Croisés"
         view.backgroundColor = ColorReference.sandColor
         restoreButtonPosition()
     }
