@@ -398,6 +398,7 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
                 }
             }
         }
+        arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100]]
      }
     func restoreButtonPosition () {
         let yPosition = view.frame.height * 0.85

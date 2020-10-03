@@ -66,49 +66,49 @@
 	</array>
 	<array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Condensés</string>
 			<string>ORBITALE</string>
 			<string>CONCENTRES</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Se rendrais</string>
 			<string>ORBITALE</string>
 			<string>IRAIS</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Rubidium</string>
 			<string>ORBITALE</string>
 			<string>RB</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Pour couper</string>
 			<string>ORBITALE</string>
 			<string>CISEAU</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Une vieille note</string>
 			<string>ORBITALE</string>
 			<string>UT</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Fatiguée</string>
 			<string>ORBITALE</string>
 			<string>LASSEE</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Une blonde anglaise</string>
 			<string>ORBITALE</string>
 			<string>ALE</string>
 		</array>
 		<array>
-			<string>Trajectoire d'un satellite</string>
+			<string>Trajectoire d&apos;un satellite</string>
 			<string>Une victoire de Napoléon</string>
 			<string>ORBITALE</string>
 			<string>IENA</string>
@@ -203,7 +203,7 @@
 		</array>
 		<array>
 			<string>Convoquées</string>
-			<string>Un pays d'Afrique</string>
+			<string>Un pays d&apos;Afrique</string>
 			<string>CITEES</string>
 			<string>TCHAD</string>
 		</array>
@@ -265,7 +265,7 @@
 		</array>
 		<array>
 			<string>Pauses</string>
-			<string>Un pays d'Afrique</string>
+			<string>Un pays d&apos;Afrique</string>
 			<string>ESCALES</string>
 			<string>TCHAD</string>
 		</array>
@@ -327,7 +327,7 @@
 		</array>
 		<array>
 			<string>Tollé</string>
-			<string>Un pays d'Afrique</string>
+			<string>Un pays d&apos;Afrique</string>
 			<string>HUEE</string>
 			<string>TCHAD</string>
 		</array>
@@ -389,7 +389,7 @@
 		</array>
 		<array>
 			<string>Exécuta</string>
-			<string>Un pays d'Afrique</string>
+			<string>Un pays d&apos;Afrique</string>
 			<string>TUA</string>
 			<string>TCHAD</string>
 		</array>
@@ -451,7 +451,7 @@
 		</array>
 		<array>
 			<string>Actrice allemande</string>
-			<string>Un pays d'Afrique</string>
+			<string>Un pays d&apos;Afrique</string>
 			<string>DIETRICH</string>
 			<string>TCHAD</string>
 		</array>
@@ -507,7 +507,7 @@
 		</array>
 		<array>
 			<string>Il a déjà été important</string>
-			<string>Lettre grec</string>
+			<string>Lettre grecque</string>
 			<string>EX</string>
 			<string>XI</string>
 		</array>
@@ -569,7 +569,7 @@
 		</array>
 		<array>
 			<string>Elles sont réparatrices</string>
-			<string>Lettre grec</string>
+			<string>Lettre grecque</string>
 			<string>SIESTES</string>
 			<string>XI</string>
 		</array>

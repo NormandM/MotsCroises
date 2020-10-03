@@ -139,7 +139,7 @@
 		</array>
 		<array>
 			<string> Logiques</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>SENSEES</string>
 			<string>ETA</string>
 		</array>
@@ -213,7 +213,7 @@
 		</array>
 		<array>
 			<string> Se fait avec les mains</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>GESTE</string>
 			<string>ETA</string>
 		</array>
@@ -287,7 +287,7 @@
 		</array>
 		<array>
 			<string> Poisson</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>FLETAN</string>
 			<string>ETA</string>
 		</array>
@@ -689,7 +689,7 @@
 		</array>
 		<array>
 			<string> Choquant</string>
-			<string> C'était une armée</string>
+			<string> C&apos;était une armée</string>
 			<string>OSE</string>
 			<string>OST</string>
 		</array>
@@ -763,7 +763,7 @@
 		</array>
 		<array>
 			<string>  Périodes historiques</string>
-			<string> C'était une armée</string>
+			<string> C&apos;était une armée</string>
 			<string>ERES</string>
 			<string>OST</string>
 		</array>
@@ -837,7 +837,7 @@
 		</array>
 		<array>
 			<string> Pour les piétons</string>
-			<string> C'était une armée</string>
+			<string> C&apos;était une armée</string>
 			<string>SENTIER</string>
 			<string>OST</string>
 		</array>

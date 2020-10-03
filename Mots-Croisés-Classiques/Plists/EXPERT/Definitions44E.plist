@@ -713,7 +713,7 @@
 		</array>
 		<array>
 			<string> Inchangée</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>INALTEREE</string>
 			<string>ETA</string>
 		</array>
@@ -787,7 +787,7 @@
 		</array>
 		<array>
 			<string> Rayée</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>STRIEE</string>
 			<string>ETA</string>
 		</array>
@@ -861,7 +861,7 @@
 		</array>
 		<array>
 			<string> Passereau</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>GEAI</string>
 			<string>ETA</string>
 		</array>

@@ -128,13 +128,13 @@
 	</array>
 	<array>
 		<array>
-			<string> C'est-à-dire</string>
+			<string> C&apos;est-à-dire</string>
 			<string> Alliage de cuivre et de zinc</string>
 			<string>IE</string>
 			<string>LAITON</string>
 		</array>
 		<array>
-			<string> C'est-à-dire</string>
+			<string> C&apos;est-à-dire</string>
 			<string> Arbres tropicaux qui fournissent un beau bois.</string>
 			<string>IE</string>
 			<string>EBENIERS</string>
@@ -226,25 +226,25 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string> Unies</string>
 			<string>IOTA</string>
 			<string>RELIEES</string>
 		</array>
 		<array>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string> Des lumières dans la nuit</string>
 			<string>IOTA</string>
 			<string>NEONS</string>
 		</array>
 		<array>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string> Stupéfiant.</string>
 			<string>IOTA</string>
 			<string>ECSTASIE</string>
 		</array>
 		<array>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string> Singes aux bras longs</string>
 			<string>IOTA</string>
 			<string>ATELES</string>
@@ -407,7 +407,7 @@
 		</array>
 		<array>
 			<string> Conifères décoratifs</string>
-			<string> Organe de l'abdomen </string>
+			<string> Organe de l&apos;abdomen </string>
 			<string>IFS</string>
 			<string>FOIE</string>
 		</array>
@@ -469,7 +469,7 @@
 		</array>
 		<array>
 			<string></string>
-			<string> Organe de l'abdomen </string>
+			<string> Organe de l&apos;abdomen </string>
 			<string>O</string>
 			<string>FOIE</string>
 		</array>
@@ -531,7 +531,7 @@
 		</array>
 		<array>
 			<string> Répète</string>
-			<string> Organe de l'abdomen </string>
+			<string> Organe de l&apos;abdomen </string>
 			<string>SERINE</string>
 			<string>FOIE</string>
 		</array>
@@ -593,7 +593,7 @@
 		</array>
 		<array>
 			<string> Transpirations</string>
-			<string> Organe de l'abdomen </string>
+			<string> Organe de l&apos;abdomen </string>
 			<string>SUEURS</string>
 			<string>FOIE</string>
 		</array>

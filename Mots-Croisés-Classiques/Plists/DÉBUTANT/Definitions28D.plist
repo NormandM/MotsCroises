@@ -29,7 +29,7 @@
 		</array>
 		<array>
 			<string> Enfermées</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>INTERNEES</string>
 			<string>RHO</string>
 		</array>
@@ -91,7 +91,7 @@
 		</array>
 		<array>
 			<string> Mammifères aquatiques</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>DAUPHINS</string>
 			<string>RHO</string>
 		</array>
@@ -128,13 +128,13 @@
 	</array>
 	<array>
 		<array>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string> Utopistes</string>
 			<string>EU</string>
 			<string>IDEALISTES</string>
 		</array>
 		<array>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string> Célèbre sous-marin</string>
 			<string>EU</string>
 			<string>NAUTILUS</string>
@@ -153,7 +153,7 @@
 		</array>
 		<array>
 			<string> Princesse promise À Héraclès</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>IOLE</string>
 			<string>RHO</string>
 		</array>
@@ -314,25 +314,25 @@
 	</array>
 	<array>
 		<array>
-			<string> On s'y rend en bateau</string>
+			<string> On s&apos;y rend en bateau</string>
 			<string> Utopistes</string>
 			<string>ILES</string>
 			<string>IDEALISTES</string>
 		</array>
 		<array>
-			<string> On s'y rend en bateau</string>
+			<string> On s&apos;y rend en bateau</string>
 			<string> Célèbre sous-marin</string>
 			<string>ILES</string>
 			<string>NAUTILUS</string>
 		</array>
 		<array>
-			<string> On s'y rend en bateau</string>
+			<string> On s&apos;y rend en bateau</string>
 			<string> Reportés au pouvoir</string>
 			<string>ILES</string>
 			<string>REELUS</string>
 		</array>
 		<array>
-			<string> On s'y rend en bateau</string>
+			<string> On s&apos;y rend en bateau</string>
 			<string> Science-Fiction</string>
 			<string>ILES</string>
 			<string>SF</string>
@@ -376,43 +376,43 @@
 	</array>
 	<array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Utopistes</string>
 			<string>SULFATE</string>
 			<string>IDEALISTES</string>
 		</array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Célèbre sous-marin</string>
 			<string>SULFATE</string>
 			<string>NAUTILUS</string>
 		</array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Reportés au pouvoir</string>
 			<string>SULFATE</string>
 			<string>REELUS</string>
 		</array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Science-Fiction</string>
 			<string>SULFATE</string>
 			<string>SF</string>
 		</array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Massif des Alpes suisses</string>
 			<string>SULFATE</string>
 			<string>AAR</string>
 		</array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Antilope</string>
 			<string>SULFATE</string>
 			<string>NILGAUT</string>
 		</array>
 		<array>
-			<string> Sel d'un acide</string>
+			<string> Sel d&apos;un acide</string>
 			<string> Elle traverse Paris</string>
 			<string>SULFATE</string>
 			<string>SEINE</string>

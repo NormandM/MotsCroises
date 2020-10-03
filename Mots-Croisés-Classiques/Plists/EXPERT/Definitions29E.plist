@@ -4,73 +4,73 @@
 <array>
 	<array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Une borne par exemple</string>
 			<string>KALEIDOSCOPE</string>
 			<string>KILOMETRIQUE</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Mesures agraires</string>
 			<string>KALEIDOSCOPE</string>
 			<string>ARES</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Frustrées</string>
 			<string>KALEIDOSCOPE</string>
 			<string>LESEES</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Estoniens</string>
 			<string>KALEIDOSCOPE</string>
 			<string>ESTES</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string></string>
 			<string>KALEIDOSCOPE</string>
 			<string>I</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Article contracté</string>
 			<string>KALEIDOSCOPE</string>
 			<string>DES</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Rivière de Russie</string>
 			<string>KALEIDOSCOPE</string>
 			<string>OM</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Située</string>
 			<string>KALEIDOSCOPE</string>
 			<string>SISE</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Démonstratif</string>
 			<string>KALEIDOSCOPE</string>
 			<string>CETTE</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Monnaie scandinave</string>
 			<string>KALEIDOSCOPE</string>
 			<string>ORE</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string></string>
 			<string>KALEIDOSCOPE</string>
 			<string>P</string>
 		</array>
 		<array>
-			<string> Succession rapides et changeantes d'impressions</string>
+			<string> Succession rapides et changeantes d&apos;impressions</string>
 			<string> Fabrications de meuble</string>
 			<string>KALEIDOSCOPE</string>
 			<string>EBENISTERIES</string>
@@ -355,7 +355,7 @@
 		</array>
 		<array>
 			<string> Agitation</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>EMOI</string>
 			<string>MU</string>
 		</array>
@@ -429,7 +429,7 @@
 		</array>
 		<array>
 			<string> Entreprise postale</string>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string>UPS</string>
 			<string>MU</string>
 		</array>
@@ -467,7 +467,7 @@
 		</array>
 		<array>
 			<string> Mette en circulation</string>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string>EMETTE</string>
 			<string>EU</string>
 		</array>
@@ -541,7 +541,7 @@
 		</array>
 		<array>
 			<string> Examinées avec soin</string>
-			<string> D'un auxiliaire</string>
+			<string> D&apos;un auxiliaire</string>
 			<string>REVUES</string>
 			<string>EU</string>
 		</array>
@@ -689,7 +689,7 @@
 		</array>
 		<array>
 			<string> Petit arbre tropical</string>
-			<string> Plus au sud qu'à l'est</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
 			<string>QUASSIA</string>
 			<string>SSE</string>
 		</array>
@@ -744,26 +744,26 @@
 	</array>
 	<array>
 		<array>
-			<string> Droit d'utiliser</string>
+			<string> Droit d&apos;utiliser</string>
 			<string> Une borne par exemple</string>
 			<string>USUS</string>
 			<string>KILOMETRIQUE</string>
 		</array>
 		<array>
-			<string> Droit d'utiliser</string>
+			<string> Droit d&apos;utiliser</string>
 			<string> Ils ont sans doute fait du bon travail</string>
 			<string>USUS</string>
 			<string>REELUS</string>
 		</array>
 		<array>
-			<string> Droit d'utiliser</string>
+			<string> Droit d&apos;utiliser</string>
 			<string> On en fait des escalopes</string>
 			<string>USUS</string>
 			<string>VEAUX</string>
 		</array>
 		<array>
-			<string> Droit d'utiliser</string>
-			<string> Plus au sud qu'à l'est</string>
+			<string> Droit d&apos;utiliser</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
 			<string>USUS</string>
 			<string>SSE</string>
 		</array>
@@ -830,31 +830,31 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> On en fait des escalopes</string>
 			<string>XERES</string>
 			<string>VEAUX</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
-			<string> Plus au sud qu'à l'est</string>
+			<string> Vin d&apos;Espagne</string>
+			<string> Plus au sud qu&apos;à l&apos;est</string>
 			<string>XERES</string>
 			<string>SSE</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string></string>
 			<string>XERES</string>
 			<string>R</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Elle fait crier</string>
 			<string>XERES</string>
 			<string>IRE</string>
 		</array>
 		<array>
-			<string> Vin d'Espagne</string>
+			<string> Vin d&apos;Espagne</string>
 			<string> Quotidien espagnol</string>
 			<string>XERES</string>
 			<string>PAIS</string>

@@ -5,7 +5,7 @@
 	<array>
 		<array>
 			<string> Inévitablement</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>FATALEMENT</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -67,7 +67,7 @@
 	<array>
 		<array>
 			<string> Nationaliser</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>ETATISER</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -128,19 +128,19 @@
 	</array>
 	<array>
 		<array>
-			<string> Lettre grec</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Lettre grecque</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>RHO</string>
 			<string>FERMENTEES</string>
 		</array>
 		<array>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string> Elle vit en Grèce</string>
 			<string>RHO</string>
 			<string>ATHENIENNE</string>
 		</array>
 		<array>
-			<string> Lettre grec</string>
+			<string> Lettre grecque</string>
 			<string> Principe chinois</string>
 			<string>RHO</string>
 			<string>TAO</string>
@@ -191,7 +191,7 @@
 	<array>
 		<array>
 			<string> Pronom personnel</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>ME</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -252,19 +252,19 @@
 	</array>
 	<array>
 		<array>
-			<string> Plus à l'est qu'au nord</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>ENE</string>
 			<string>FERMENTEES</string>
 		</array>
 		<array>
-			<string> Plus à l'est qu'au nord</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
 			<string> Elle vit en Grèce</string>
 			<string>ENE</string>
 			<string>ATHENIENNE</string>
 		</array>
 		<array>
-			<string> Plus à l'est qu'au nord</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
 			<string> Petit prénom anglais</string>
 			<string>ENE</string>
 			<string>ED</string>
@@ -315,7 +315,7 @@
 	<array>
 		<array>
 			<string> Abri</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>NID</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -377,7 +377,7 @@
 	<array>
 		<array>
 			<string> Règle</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>TE</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -395,7 +395,7 @@
 		</array>
 		<array>
 			<string></string>
-			<string> Manquent d'eau</string>
+			<string> Manquent d&apos;eau</string>
 			<string>S</string>
 			<string>SECS</string>
 		</array>
@@ -439,7 +439,7 @@
 	<array>
 		<array>
 			<string> Greffées</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>ENTEES</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -457,7 +457,7 @@
 		</array>
 		<array>
 			<string> Greffées</string>
-			<string> Manquent d'eau</string>
+			<string> Manquent d&apos;eau</string>
 			<string>ENTEES</string>
 			<string>SECS</string>
 		</array>
@@ -501,7 +501,7 @@
 	<array>
 		<array>
 			<string> Indique la manière</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>EN</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -519,7 +519,7 @@
 		</array>
 		<array>
 			<string> Fera</string>
-			<string> Manquent d'eau</string>
+			<string> Manquent d&apos;eau</string>
 			<string>CREERA</string>
 			<string>SECS</string>
 		</array>
@@ -563,7 +563,7 @@
 	<array>
 		<array>
 			<string> Logiques</string>
-			<string> Transformées sous l'influence d'enzyme</string>
+			<string> Transformées sous l&apos;influence d&apos;enzyme</string>
 			<string>SENSES</string>
 			<string>FERMENTEES</string>
 		</array>
@@ -581,7 +581,7 @@
 		</array>
 		<array>
 			<string> Logiques</string>
-			<string> Manquent d'eau</string>
+			<string> Manquent d&apos;eau</string>
 			<string>SENSES</string>
 			<string>SECS</string>
 		</array>
