@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Bte-YO-m6z">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Bte-YO-m6z">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15510"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -15,7 +16,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="seL-Jp-esW">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="gray" indentationWidth="10" reuseIdentifier="Cell" rowHeight="101" id="PWi-ZI-XES" customClass="SpecialTableViewCell" customModule="Mots_Croise_s_Classiques" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="28" width="414" height="101"/>
@@ -83,7 +84,7 @@
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="d2I-5Y-y24">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="mKS-VD-R0k" detailTextLabel="Zo4-T3-o0P" imageView="Trx-Rm-lab" style="IBUITableViewCellStyleSubtitle" id="jgF-sU-KaC">
                                 <rect key="frame" x="0.0" y="28" width="414" height="55.5"/>
@@ -93,7 +94,7 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="mKS-VD-R0k">
-                                            <rect key="frame" x="80" y="10" width="33.5" height="20.5"/>
+                                            <rect key="frame" x="80" y="10" width="33" height="20.5"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <nil key="textColor"/>
@@ -121,12 +122,46 @@
                     </tableView>
                     <navigationItem key="navigationItem" id="C6a-3Y-BL3"/>
                     <connections>
-                        <segue destination="A9g-tI-mxc" kind="show" identifier="showMotsCroises" id="o6q-bE-OZX"/>
+                        <segue destination="TsG-A7-ItP" kind="show" identifier="showPlaceHolder" id="Ovn-b6-sjJ"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="B7z-8H-rg9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="5220" y="650"/>
+        </scene>
+        <!--Transition For Key Board View Controller-->
+        <scene sceneID="hda-sW-6cQ">
+            <objects>
+                <viewController id="TsG-A7-ItP" customClass="TransitionForKeyBoardViewController" customModule="Mots_Croise_s_Classiques" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="d5v-3l-Mmd"/>
+                        <viewControllerLayoutGuide type="bottom" id="jIi-JC-YYn"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="USY-h5-WKu">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="9c8-0D-fh8">
+                                <rect key="frame" x="191" y="431" width="32" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="9c8-0D-fh8" firstAttribute="centerY" secondItem="USY-h5-WKu" secondAttribute="centerY" id="dgE-H2-c3B"/>
+                            <constraint firstItem="9c8-0D-fh8" firstAttribute="centerX" secondItem="USY-h5-WKu" secondAttribute="centerX" id="kSR-TM-HU7"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="Xwm-73-hvj"/>
+                    <connections>
+                        <outlet property="placeHolderTextField" destination="9c8-0D-fh8" id="zPh-Qp-CcH"/>
+                        <segue destination="A9g-tI-mxc" kind="show" identifier="showMotsCroises" id="qOr-SK-cSW"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bHC-BY-6Gf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6067" y="673"/>
         </scene>
         <!--Mot Croise View Controller-->
         <scene sceneID="EUD-xA-eNl">
@@ -153,7 +188,7 @@
                                     <constraint firstAttribute="width" secondItem="zBx-Hw-oez" secondAttribute="height" multiplier="1:1" id="5YN-VA-dPS"/>
                                 </constraints>
                                 <state key="normal" title="?" image="point?">
-                                    <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="titleColor" systemColor="darkTextColor"/>
                                 </state>
                                 <connections>
                                     <action selector="pointPressed:" destination="A9g-tI-mxc" eventType="touchUpInside" id="lvM-Vk-2CE"/>
@@ -192,7 +227,7 @@
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yct-cn-HdB">
                                 <rect key="frame" x="45" y="586" width="42.5" height="71.5"/>
-                                <color key="backgroundColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -245,7 +280,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="vwe-J4-n49" userLabel="V1 Stack View">
                                         <rect key="frame" x="0.0" y="0.0" width="98.5" height="98.5"/>
                                         <subviews>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QPH-L9-faE">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QPH-L9-faE">
                                                 <rect key="frame" x="0.0" y="0.0" width="98.5" height="28"/>
                                                 <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="18"/>
                                                 <state key="normal" title="Lettre">
@@ -255,7 +290,7 @@
                                                     <action selector="validerItemPressed:" destination="A9g-tI-mxc" eventType="touchUpInside" id="W6P-Jy-0cN"/>
                                                 </connections>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ffz-o7-CUZ">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ffz-o7-CUZ">
                                                 <rect key="frame" x="0.0" y="33" width="98.5" height="27.5"/>
                                                 <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="18"/>
                                                 <state key="normal" title="Mot">
@@ -265,7 +300,7 @@
                                                     <action selector="validerItemPressed:" destination="A9g-tI-mxc" eventType="touchUpInside" id="OeD-8T-B4V"/>
                                                 </connections>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EWc-4e-j58">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EWc-4e-j58">
                                                 <rect key="frame" x="0.0" y="65.5" width="98.5" height="33"/>
                                                 <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="18"/>
                                                 <state key="normal" title="Grille">
@@ -285,7 +320,7 @@
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="cp8-wC-AEK" userLabel="V2 Stack View">
                                         <rect key="frame" x="123.5" y="0.0" width="98" height="98.5"/>
                                         <subviews>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zJJ-cl-2vk">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zJJ-cl-2vk">
                                                 <rect key="frame" x="0.0" y="0.0" width="98" height="29.5"/>
                                                 <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="18"/>
                                                 <state key="normal" title="Lettre">
@@ -295,7 +330,7 @@
                                                     <action selector="revelerItemPressed:" destination="A9g-tI-mxc" eventType="touchUpInside" id="7LS-NB-lFD"/>
                                                 </connections>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pmg-3x-tqG">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pmg-3x-tqG">
                                                 <rect key="frame" x="0.0" y="34.5" width="98" height="29.5"/>
                                                 <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="18"/>
                                                 <state key="normal" title="Mot">
@@ -305,7 +340,7 @@
                                                     <action selector="revelerItemPressed:" destination="A9g-tI-mxc" eventType="touchUpInside" id="0M8-hx-wE4"/>
                                                 </connections>
                                             </button>
-                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Exf-q6-UqO">
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Exf-q6-UqO">
                                                 <rect key="frame" x="0.0" y="69" width="98" height="29.5"/>
                                                 <fontDescription key="fontDescription" name="TimesNewRomanPS-ItalicMT" family="Times New Roman" pointSize="18"/>
                                                 <state key="normal" title="Grille">
@@ -408,6 +443,7 @@
                                 </connections>
                             </collectionView>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="cO1-mO-Lji"/>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Yct-cn-HdB" firstAttribute="width" secondItem="tTS-Dq-asn" secondAttribute="width" multiplier="0.15" id="07i-A6-NE1"/>
@@ -450,8 +486,8 @@
                             <constraint firstItem="JNN-o9-uZ2" firstAttribute="leading" secondItem="ojf-uL-rV6" secondAttribute="leading" id="ui6-X3-QWE"/>
                             <constraint firstItem="zBx-Hw-oez" firstAttribute="leading" secondItem="sJ5-Y0-xgv" secondAttribute="trailing" constant="5" id="xzN-Wr-moH"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="cO1-mO-Lji"/>
                     </view>
+                    <navigationItem key="navigationItem" id="OOc-we-lku"/>
                     <connections>
                         <outlet property="collectionView" destination="ojf-uL-rV6" id="rr8-ex-hF0"/>
                         <outlet property="collectionViewConstraint" destination="S5G-yV-Kvh" id="Drb-7z-3D6"/>
@@ -490,7 +526,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="6214.4927536231889" y="671.65178571428567"/>
+            <point key="canvasLocation" x="6714" y="652"/>
         </scene>
         <!--Logo View Controller-->
         <scene sceneID="jxe-J9-Zky">
@@ -529,6 +565,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
+                        <viewLayoutGuide key="safeArea" id="OvT-Na-xjV"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="r48-8R-oKH" firstAttribute="bottom" secondItem="kS6-f8-Xya" secondAttribute="bottom" id="93t-hU-hiL"/>
@@ -542,7 +579,6 @@
                             <constraint firstItem="kS6-f8-Xya" firstAttribute="centerX" secondItem="Ifa-KC-uxs" secondAttribute="centerX" id="kPV-Mx-rNh"/>
                             <constraint firstItem="Fdh-fc-GF4" firstAttribute="centerX" secondItem="Ifa-KC-uxs" secondAttribute="centerX" id="l0Q-Aq-F1w"/>
                         </constraints>
-                        <viewLayoutGuide key="safeArea" id="OvT-Na-xjV"/>
                     </view>
                     <navigationItem key="navigationItem" id="n9m-qo-29Z"/>
                     <connections>
@@ -584,5 +620,14 @@
         <image name="leftTriangleG3" width="300" height="300"/>
         <image name="magnifying-glass-iconArranged" width="512" height="512"/>
         <image name="point?" width="1000" height="1000"/>
+        <systemColor name="darkTextColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
     </resources>
 </document>

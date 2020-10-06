@@ -32,6 +32,8 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBOutlet weak var noDeMotsCroisesLabel: UILabel!
     
     @IBOutlet weak var topHorVertToCollectionViewConstraint: NSLayoutConstraint!
+    var keyBoardHeight = CGFloat()
+    var collectionViewHeight = CGFloat()
     var effect: UIVisualEffect!
     let blurEffect = UIBlurEffect(style: UIBlurEffect.Style.light)
     var blurEffectView = UIVisualEffectView()
@@ -52,6 +54,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     var lettres: [String] = []
     var keyBoardCGRec = CGRect()
     var grilleSelected = String()
+    var keyBoardCGRecPlaceHolder = CGRect()
     var item: [Item]?
     var soundPlayer: SoundPlayer?
     override func viewDidLoad() {
@@ -84,13 +87,12 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardWillShow), name: UIResponder.keyboardWillShowNotification, object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillHide), name: UIResponder.keyboardWillHideNotification, object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardDidShow), name: UIResponder.keyboardDidShowNotification, object: nil)
-
         view.backgroundColor = ColorReference.coralColor
         blurredView()
         self.activityIndicatorView = ActivityIndicatorView(title: "Construction de la Grille...", center: self.view.center)
         self.view.addSubview(self.activityIndicatorView.getViewActivityIndicator())
         activityIndicatorView.startAnimating()
-
+       
     }
     deinit {
         NotificationCenter.default.removeObserver(self, name: UIResponder.keyboardWillShowNotification, object: nil)
@@ -98,6 +100,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         NotificationCenter.default.removeObserver(self, name: UIResponder.keyboardDidShowNotification, object: nil)
     }
     override func viewWillAppear(_ animated: Bool) {
+        
         moveLeftButton.setImage(UIImage(named: "leftTriangleG3.png"), for: .normal)
         moveRightButton.setImage(UIImage(named: "rightTriangleG3.png"), for: .normal)
         definitionLabel.font = fonts.smallItaliqueBoldFont
@@ -121,6 +124,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         noDeMotsCroisesLabel.textColor = .white
     }
     override func viewDidAppear(_ animated: Bool) {
+        print("viewDidAppear")
         let cell = cellChosen(indexPath: [0, 0])
         indexPathSelected = [0,0 ]
         collectionView.selectItem(at: indexPathSelected, animated: false, scrollPosition: .centeredHorizontally)
@@ -132,22 +136,51 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         cell.isSelected = true
         definition(indexPathSelected: indexPathSelected, isHorizontal: isHorizontal)
         wasIndexPathSelected = indexPathSelected
-        let yPosition = collectionView.frame.maxY
-        let heightBackground = keyBoardCGRec.minY - yPosition
-        topDefinitionLabelConstraints.constant = heightBackground/2  - definitionLabel.frame.height/2
-        topHorVertToCollectionViewConstraint.constant = heightBackground/2  - horizOrVertLabel.frame.height/2
+        let yPosition = self.collectionView.frame.maxY
+        print("yPosition = \(yPosition)")
+        let heightBackground = self.keyBoardCGRecPlaceHolder.minY - yPosition
+        self.topDefinitionLabelConstraints.constant = heightBackground/2  - self.definitionLabel.frame.height/2
+        self.topHorVertToCollectionViewConstraint.constant = heightBackground/2  - self.horizOrVertLabel.frame.height/2
+        print("height: \(self.collectionView.frame.size.height)")
+        print("width: \(self.collectionView.frame.size.width)")
+        print(keyBoardCGRec.minY)
+        print("keyBoardHeight: \(keyBoardHeight)")
+        print(keyBoardCGRecPlaceHolder.minY)
+        print(view.frame.size.height)
+        print("heightBackground: \(heightBackground)")
+        print("defitionLabelHeight = \(self.definitionLabel.frame.height)")
         let line = CAShapeLayer()
-        line.path = UIBezierPath(roundedRect: CGRect(x: 0, y: keyBoardCGRec.minY, width: view.frame.width, height: 5), cornerRadius: 0).cgPath
+        line.path = UIBezierPath(roundedRect: CGRect(x: 2, y: self.keyBoardCGRecPlaceHolder.minY + 50, width: self.view.frame.width, height: 5), cornerRadius: 0).cgPath
+
         line.fillColor = ColorReference.sandColor.cgColor
-        view.layer.addSublayer(line)
-        let lineMaxY = keyBoardCGRec.minY
-        let sectionHeightMiddle = lineMaxY + (view.frame.maxY - lineMaxY)/2  -  validerButton.frame.height/2
-        let iconeMinY = sectionHeightMiddle - collectionView.frame.maxY
-        iconeStackViewConstraint.constant = iconeMinY * 0.7
-        view.layoutIfNeeded()
+        self.view.layer.addSublayer(line)
+        let lineMaxY = self.keyBoardCGRecPlaceHolder.minY
+        let sectionHeightMiddle = lineMaxY + (self.view.frame.maxY - lineMaxY)/2  -  self.validerButton.frame.height/2
+        let iconeMinY = sectionHeightMiddle - self.collectionView.frame.maxY
+        self.iconeStackViewConstraint.constant = iconeMinY * 0.7
+
+        self.view.layoutIfNeeded()
     }
     override func viewWillDisappear(_ animated: Bool) {
         navigationController?.navigationBar.isHidden = false
+    }
+    override func viewDidLayoutSubviews() {
+        print("viewDidLayoutSubviews")
+        if keyBoardHeight + definitionLabel.frame.size.height > view.frame.size.width {
+            self.collectionView.frame = CGRect(x: 0, y: 50, width: view.frame.size.width, height: view.frame.size.width)
+            print("height: \(self.collectionView.frame.size.height)")
+            print("width: \(self.collectionView.frame.size.width)")
+            print(keyBoardCGRec.minY)
+            print(keyBoardCGRecPlaceHolder.minY)
+            let yPosition = self.collectionView.frame.maxY
+            print("yPosition = \(yPosition)")
+            print(view.frame.size.height)
+            let heightBackground = self.keyBoardCGRecPlaceHolder.minY - yPosition
+            print("heightBackground: \(heightBackground)")
+            print("defitionLabelHeight = \(self.definitionLabel.frame.height)")
+            definitionLabel.frame = CGRect(x: definitionLabel.frame.minX, y: definitionLabel.frame.minY, width: view.frame.size.width * 0.5, height: heightBackground)
+        }
+
     }
     //MARK: Notification for keyboard
     @objc func keyBoardWillShow(notification: Notification) {
@@ -251,9 +284,17 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     // dimension for the cell's width and height.
     /////////////////////////////////////////////////////////////////////////
     @objc func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
+
+        var dim = CGFloat()
         let cellsAcross  =  CGFloat(dimension + 1)
         let spaceBetweenCells: CGFloat = 0
-        let dim = (collectionView.bounds.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
+        if keyBoardHeight + definitionLabel.frame.size.height < view.frame.size.width {
+            print("setUp 1")
+            dim = (collectionView.bounds.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
+        }else{
+            print("setUp 2")
+            dim = (view.frame.size.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
+        }
         return CGSize(width: dim, height: dim)
     }
     @objc func textFieldDidChange(_ textField: UITextField) {

@@ -81,12 +81,12 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
     }
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         motsCroisesSelected = grillesChoisies[indexPath.row]
-        performSegue(withIdentifier: "showMotsCroises", sender: self)
+        performSegue(withIdentifier: "showPlaceHolder", sender: self)
     }
     // MARK: - Navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if segue.identifier == "showMotsCroises"{
-            let controller = segue.destination as! MotCroiseViewController
+        if segue.identifier == "showPlaceHolder"{
+            let controller = segue.destination as! TransitionForKeyBoardViewController
             let backItem = UIBarButtonItem()
             backItem.title = ""
             navigationItem.backBarButtonItem = backItem

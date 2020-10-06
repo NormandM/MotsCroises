@@ -332,6 +332,7 @@
 		8E9ABB24237CD0F20096192E /* Lettres25E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E9ABB23237CD0F20096192E /* Lettres25E.plist */; };
 		8EA620021E71DEC000A6DC7C /* Item+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA620001E71DEC000A6DC7C /* Item+CoreDataClass.swift */; };
 		8EA620031E71DEC000A6DC7C /* Item+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EA620011E71DEC000A6DC7C /* Item+CoreDataProperties.swift */; };
+		8EB07B66252B728B00EC7896 /* TransitionForKeyBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB07B65252B728B00EC7896 /* TransitionForKeyBoardViewController.swift */; };
 		8EB25F5B2374AE8400057D9F /* Definitions15G.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EB25F5A2374AE8400057D9F /* Definitions15G.plist */; };
 		8EB25F602374AE9900057D9F /* Definitions2E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EB25F5C2374AE9800057D9F /* Definitions2E.plist */; };
 		8EB25F612374AE9900057D9F /* Definitions3E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8EB25F5D2374AE9900057D9F /* Definitions3E.plist */; };
@@ -741,6 +742,7 @@
 		8E9ABB23237CD0F20096192E /* Lettres25E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres25E.plist; sourceTree = "<group>"; };
 		8EA620001E71DEC000A6DC7C /* Item+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataClass.swift"; sourceTree = "<group>"; };
 		8EA620011E71DEC000A6DC7C /* Item+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		8EB07B65252B728B00EC7896 /* TransitionForKeyBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionForKeyBoardViewController.swift; sourceTree = "<group>"; };
 		8EB25F5A2374AE8400057D9F /* Definitions15G.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions15G.plist; sourceTree = "<group>"; };
 		8EB25F5C2374AE9800057D9F /* Definitions2E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions2E.plist; sourceTree = "<group>"; };
 		8EB25F5D2374AE9900057D9F /* Definitions3E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions3E.plist; sourceTree = "<group>"; };
@@ -924,6 +926,7 @@
 			children = (
 				8E05BDFF2353919800108ED7 /* MotsCroisesController */,
 				8EFFB8AC2345527000126DDE /* ChoixDeGrillesTableViewController */,
+				8EB07B61252A709400EC7896 /* PlaceHolderForKeyBoardHeight */,
 				8E05BDF0234FB05600108ED7 /* GridSelection */,
 				8E43A1802342757400110308 /* Plists */,
 				8E43A18A2342758500110308 /* FormatFiles */,
@@ -1309,6 +1312,14 @@
 				8E78BD21238755C400C30BF2 /* Definitions50E.plist */,
 			);
 			path = EXPERT;
+			sourceTree = "<group>";
+		};
+		8EB07B61252A709400EC7896 /* PlaceHolderForKeyBoardHeight */ = {
+			isa = PBXGroup;
+			children = (
+				8EB07B65252B728B00EC7896 /* TransitionForKeyBoardViewController.swift */,
+			);
+			path = PlaceHolderForKeyBoardHeight;
 			sourceTree = "<group>";
 		};
 		8EB2FDD91E15FBFE004D024F = {
@@ -1931,6 +1942,7 @@
 				8E43A19D2342758500110308 /* GrilleUser.swift in Sources */,
 				8E10A1512344DB50005F45B6 /* StringToIndexPath.swift in Sources */,
 				8E43A16D2342755800110308 /* MotCroiseViewController.swift in Sources */,
+				8EB07B66252B728B00EC7896 /* TransitionForKeyBoardViewController.swift in Sources */,
 				8EFFB8AB2344F44100126DDE /* ChoixDeGrillesTableViewController.swift in Sources */,
 				8E43A19B2342758500110308 /* FormatAndHideButton.swift in Sources */,
 				8E43A1772342756800110308 /* WordSelection.swift in Sources */,
