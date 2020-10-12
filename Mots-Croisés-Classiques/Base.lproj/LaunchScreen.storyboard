@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
-    <device id="retina4_7" orientation="portrait">
-        <adaptation id="fullscreen"/>
-    </device>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -22,15 +20,17 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Icon mot croisé letter" translatesAutoresizingMaskIntoConstraints="NO" id="jrk-Sn-Dea">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <rect key="frame" x="0.0" y="130" width="375" height="386"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="jrk-Sn-Dea" secondAttribute="height" multiplier="1:1" constant="-11" id="ZPx-eX-OzJ"/>
+                                </constraints>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.99607843137254903" green="0.91764705882352937" blue="0.88627450980392153" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="jrk-Sn-Dea" secondAttribute="bottom" id="J9r-fw-H3Z"/>
-                            <constraint firstItem="jrk-Sn-Dea" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="asM-ew-SJ2"/>
-                            <constraint firstItem="jrk-Sn-Dea" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="cdr-3c-fUW"/>
-                            <constraint firstAttribute="trailing" secondItem="jrk-Sn-Dea" secondAttribute="trailing" id="cil-wV-MrD"/>
+                            <constraint firstItem="jrk-Sn-Dea" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="-10.5" id="Lan-eN-L6R"/>
+                            <constraint firstItem="jrk-Sn-Dea" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="kSS-fI-Wx4"/>
+                            <constraint firstItem="jrk-Sn-Dea" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="znO-Eq-T6t"/>
                         </constraints>
                     </view>
                 </viewController>

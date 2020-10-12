@@ -41,7 +41,7 @@
 		</array>
 		<array>
 			<string> Acteur</string>
-			<string> Otent </string>
+			<string> Ôtent </string>
 			<string>INTERPRETE</string>
 			<string>RETIRENT</string>
 		</array>
@@ -103,7 +103,7 @@
 		</array>
 		<array>
 			<string> Du verbe être.</string>
-			<string> Otent </string>
+			<string> Ôtent </string>
 			<string>ETES</string>
 			<string>RETIRENT</string>
 		</array>
@@ -165,7 +165,7 @@
 		</array>
 		<array>
 			<string> Soignent</string>
-			<string> Otent </string>
+			<string>Ôtent </string>
 			<string>TRAITENT</string>
 			<string>RETIRENT</string>
 		</array>
@@ -227,7 +227,7 @@
 		</array>
 		<array>
 			<string> Pouffé</string>
-			<string> Otent </string>
+			<string>Ôtent </string>
 			<string>RI</string>
 			<string>RETIRENT</string>
 		</array>
@@ -289,7 +289,7 @@
 		</array>
 		<array>
 			<string> Ventilées</string>
-			<string> Otent </string>
+			<string> Ôtent </string>
 			<string>AEREES</string>
 			<string>RETIRENT</string>
 		</array>
@@ -351,7 +351,7 @@
 		</array>
 		<array>
 			<string> Anglicisme signifiant aguiches</string>
-			<string> Otent </string>
+			<string> Ôtent </string>
 			<string>TEASERS</string>
 			<string>RETIRENT</string>
 		</array>
@@ -413,7 +413,7 @@
 		</array>
 		<array>
 			<string> Notre Seigneur</string>
-			<string> Otent </string>
+			<string> Ôtent </string>
 			<string>NS</string>
 			<string>RETIRENT</string>
 		</array>
@@ -475,7 +475,7 @@
 		</array>
 		<array>
 			<string> Appuie</string>
-			<string> Otent </string>
+			<string> Ôtent </string>
 			<string>ETAIE</string>
 			<string>RETIRENT</string>
 		</array>

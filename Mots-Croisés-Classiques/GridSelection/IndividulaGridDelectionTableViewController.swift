@@ -19,10 +19,12 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
                 // prefer a light interface style with this:
                 overrideUserInterfaceStyle = .light
         }
+
     }
     override func viewWillAppear(_ animated: Bool) {
         self.title = "Mots Croises"
         view.backgroundColor = ColorReference.sandColor
+        navigationController?.navigationBar.isHidden = false
     }
 
     // MARK: - Table view data source
@@ -94,6 +96,7 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
         }
 
     }
+
      @IBAction func unwindToIndividualGrid(segue: UIStoryboardSegue) {
         tableView.reloadData()
     }

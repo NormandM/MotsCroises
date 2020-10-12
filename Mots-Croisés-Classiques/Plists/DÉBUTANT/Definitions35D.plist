@@ -221,7 +221,7 @@
 		</array>
 		<array>
 			<string> Stimule</string>
-			<string> Plus à l'est qu'au nord</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
 			<string>ATTISE</string>
 			<string>ENE</string>
 		</array>
@@ -283,7 +283,7 @@
 		</array>
 		<array>
 			<string> Rejetée</string>
-			<string> Plus à l'est qu'au nord</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
 			<string>NIEE</string>
 			<string>ENE</string>
 		</array>
@@ -345,7 +345,7 @@
 		</array>
 		<array>
 			<string> Un ours par exemple</string>
-			<string> Plus à l'est qu'au nord</string>
+			<string> Plus à l&apos;est qu&apos;au nord</string>
 			<string>URSIDE</string>
 			<string>ENE</string>
 		</array>
@@ -568,25 +568,25 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Appuyer</string>
+			<string>Appuie</string>
 			<string></string>
 			<string>PESE</string>
 			<string>P</string>
 		</array>
 		<array>
-			<string> Appuyer</string>
+			<string> Appuie</string>
 			<string> Pronom</string>
 			<string>PESE</string>
 			<string>SE</string>
 		</array>
 		<array>
-			<string> Appuyer</string>
+			<string> Appuie</string>
 			<string> Légataires</string>
 			<string>PESE</string>
 			<string>HERITIERES</string>
 		</array>
 		<array>
-			<string> Appuyer</string>
+			<string> Appuie</string>
 			<string> Divinité</string>
 			<string>PESE</string>
 			<string>DEITE</string>

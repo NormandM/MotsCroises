@@ -14,7 +14,6 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBOutlet weak var mainStackView: UIStackView!
     @IBOutlet weak var v1StackView: UIStackView!
     @IBOutlet weak var v2StackView: UIStackView!
-    @IBOutlet weak var topDefinitionLabelConstraints: NSLayoutConstraint!
     @IBOutlet weak var iconeStackViewConstraint: NSLayoutConstraint!
     @IBOutlet weak var collectionViewConstraint: NSLayoutConstraint!
     @IBOutlet weak var collectionView: UICollectionView!
@@ -30,8 +29,9 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBOutlet weak var pointInterrogation: UIButton!
     @IBOutlet weak var horizOrVertLabel: UILabel!
     @IBOutlet weak var noDeMotsCroisesLabel: UILabel!
-    
-    @IBOutlet weak var topHorVertToCollectionViewConstraint: NSLayoutConstraint!
+    @IBOutlet weak var defintionStackView: UIStackView!
+    @IBOutlet weak var HVStackView: UIStackView!
+    @IBOutlet weak var topDefinitionStackConstraint: NSLayoutConstraint!
     var keyBoardHeight = CGFloat()
     var collectionViewHeight = CGFloat()
     var effect: UIVisualEffect!
@@ -80,7 +80,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
             GrilleData.prepareGrille(dimension: dimension, item:item!, grilleSelected: grilleSelected, grille: grille)
             item = CoreDataHandler.fetchGrille(grilleSelected: grilleSelected)
         }
-
+        
         FormatAndHideButton.activate(buttonArray: validerItems)
         FormatAndHideButton.activate(buttonArray: revelerItems)
         navigationController?.navigationBar.isHidden = true
@@ -89,9 +89,10 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardDidShow), name: UIResponder.keyboardDidShowNotification, object: nil)
         view.backgroundColor = ColorReference.coralColor
         blurredView()
-        self.activityIndicatorView = ActivityIndicatorView(title: "Construction de la Grille...", center: self.view.center)
+        self.activityIndicatorView = ActivityIndicatorView(title: "Construction de la Grille...", center: self.view.center, view: view)
         self.view.addSubview(self.activityIndicatorView.getViewActivityIndicator())
         activityIndicatorView.startAnimating()
+        
        
     }
     deinit {
@@ -100,9 +101,6 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         NotificationCenter.default.removeObserver(self, name: UIResponder.keyboardDidShowNotification, object: nil)
     }
     override func viewWillAppear(_ animated: Bool) {
-        
-        moveLeftButton.setImage(UIImage(named: "leftTriangleG3.png"), for: .normal)
-        moveRightButton.setImage(UIImage(named: "rightTriangleG3.png"), for: .normal)
         definitionLabel.font = fonts.smallItaliqueBoldFont
         definitionLabel.backgroundColor = ColorReference.brownGray
         definitionLabel.textColor = .white
@@ -116,15 +114,15 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         let newConstraint = collectionViewConstraint.constraintWithMultiplier(fonts.multiplierConstraint)
         view.removeConstraint(collectionViewConstraint)
         view.addConstraint(newConstraint)
-        view.layoutIfNeeded()
         collectionViewConstraint = newConstraint
         noDeMotsCroisesLabel.text = "Mots Croisés: \(grilleSelected)"
         noDeMotsCroisesLabel.font = fonts.largeItaliqueBoldFont
-        noDeMotsCroisesLabel.backgroundColor = ColorReference.coralColorVDardk
+        noDeMotsCroisesLabel.backgroundColor = ColorReference.coralColorLigh
         noDeMotsCroisesLabel.textColor = .white
+        view.bringSubviewToFront(noDeMotsCroisesLabel)
+        view.layoutIfNeeded()
     }
     override func viewDidAppear(_ animated: Bool) {
-        print("viewDidAppear")
         let cell = cellChosen(indexPath: [0, 0])
         indexPathSelected = [0,0 ]
         collectionView.selectItem(at: indexPathSelected, animated: false, scrollPosition: .centeredHorizontally)
@@ -136,51 +134,42 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         cell.isSelected = true
         definition(indexPathSelected: indexPathSelected, isHorizontal: isHorizontal)
         wasIndexPathSelected = indexPathSelected
-        let yPosition = self.collectionView.frame.maxY
-        print("yPosition = \(yPosition)")
-        let heightBackground = self.keyBoardCGRecPlaceHolder.minY - yPosition
-        self.topDefinitionLabelConstraints.constant = heightBackground/2  - self.definitionLabel.frame.height/2
-        self.topHorVertToCollectionViewConstraint.constant = heightBackground/2  - self.horizOrVertLabel.frame.height/2
-        print("height: \(self.collectionView.frame.size.height)")
-        print("width: \(self.collectionView.frame.size.width)")
-        print(keyBoardCGRec.minY)
-        print("keyBoardHeight: \(keyBoardHeight)")
-        print(keyBoardCGRecPlaceHolder.minY)
-        print(view.frame.size.height)
-        print("heightBackground: \(heightBackground)")
-        print("defitionLabelHeight = \(self.definitionLabel.frame.height)")
-        let line = CAShapeLayer()
-        line.path = UIBezierPath(roundedRect: CGRect(x: 2, y: self.keyBoardCGRecPlaceHolder.minY + 50, width: self.view.frame.width, height: 5), cornerRadius: 0).cgPath
-
-        line.fillColor = ColorReference.sandColor.cgColor
-        self.view.layer.addSublayer(line)
-        let lineMaxY = self.keyBoardCGRecPlaceHolder.minY
-        let sectionHeightMiddle = lineMaxY + (self.view.frame.maxY - lineMaxY)/2  -  self.validerButton.frame.height/2
-        let iconeMinY = sectionHeightMiddle - self.collectionView.frame.maxY
-        self.iconeStackViewConstraint.constant = iconeMinY * 0.7
-
-        self.view.layoutIfNeeded()
     }
     override func viewWillDisappear(_ animated: Bool) {
         navigationController?.navigationBar.isHidden = false
     }
     override func viewDidLayoutSubviews() {
-        print("viewDidLayoutSubviews")
+        var yPosition: CGFloat = 0
+        var heightBackground: CGFloat = 0
+        var gap: CGFloat = 0
+        let line = CAShapeLayer()
         if keyBoardHeight + definitionLabel.frame.size.height > view.frame.size.width {
             self.collectionView.frame = CGRect(x: 0, y: 50, width: view.frame.size.width, height: view.frame.size.width)
-            print("height: \(self.collectionView.frame.size.height)")
-            print("width: \(self.collectionView.frame.size.width)")
-            print(keyBoardCGRec.minY)
-            print(keyBoardCGRecPlaceHolder.minY)
-            let yPosition = self.collectionView.frame.maxY
-            print("yPosition = \(yPosition)")
-            print(view.frame.size.height)
-            let heightBackground = self.keyBoardCGRecPlaceHolder.minY - yPosition
-            print("heightBackground: \(heightBackground)")
-            print("defitionLabelHeight = \(self.definitionLabel.frame.height)")
-            definitionLabel.frame = CGRect(x: definitionLabel.frame.minX, y: definitionLabel.frame.minY, width: view.frame.size.width * 0.5, height: heightBackground)
+            yPosition = collectionView.frame.size.height
+            heightBackground = self.keyBoardCGRecPlaceHolder.minY - yPosition
+            gap = (heightBackground - defintionStackView.frame.size.height)/2 + 50
+            line.path = UIBezierPath(roundedRect: CGRect(x: 2, y: self.keyBoardCGRecPlaceHolder.minY + 50, width: self.view.frame.width, height: 5), cornerRadius: 0).cgPath
+            line.fillColor = ColorReference.sandColor.cgColor
+            self.view.layer.addSublayer(line)
+            let lineMaxY = self.keyBoardCGRecPlaceHolder.minY
+            let sectionHeightMiddle = lineMaxY + (self.view.frame.maxY - lineMaxY)/2  -  self.validerButton.frame.height/2
+            let iconeMinY = sectionHeightMiddle - self.collectionView.frame.maxY
+            self.iconeStackViewConstraint.constant = iconeMinY * 0.5 + 10
+        }else{
+            yPosition = self.collectionView.frame.maxY
+            heightBackground = self.keyBoardCGRec.minY - yPosition
+            gap = abs(heightBackground - defintionStackView.frame.size.height)/2
+            line.path = UIBezierPath(roundedRect: CGRect(x: 2, y: self.keyBoardCGRec.minY, width: self.view.frame.width, height: 5), cornerRadius: 0).cgPath
+            line.fillColor = ColorReference.sandColor.cgColor
+            self.view.layer.addSublayer(line)
+            let lineMaxY = self.keyBoardCGRec.minY
+            let sectionHeightMiddle = lineMaxY + (self.view.frame.maxY - lineMaxY)/2  -  self.validerButton.frame.height/2
+            let iconeMinY = sectionHeightMiddle - self.collectionView.frame.maxY
+            self.iconeStackViewConstraint.constant = iconeMinY * 0.5 + 30
         }
-
+        defintionStackView.frame = CGRect(x: 0, y: yPosition + gap, width: defintionStackView.frame.size.width, height: defintionStackView.frame.size.height)
+        moveRightButton.isEnabled = true
+        self.view.layoutIfNeeded()
     }
     //MARK: Notification for keyboard
     @objc func keyBoardWillShow(notification: Notification) {
@@ -223,7 +212,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         indexPathSelected = indexPath
-        SelectingCellColor.colorDeselected(wasHorizontal: wasHorizontal, collectionView: collectionView, indexPathSelected: wasIndexPathSelected, dimension: dimension)
+     //   SelectingCellColor.colorDeselected(wasHorizontal: wasHorizontal, collectionView: collectionView, indexPathSelected: wasIndexPathSelected, dimension: dimension)
         definition(indexPathSelected: indexPathSelected, isHorizontal: isHorizontal)
         let boolStringTupple = SelectingCellColor.colorSelected(isHorizontal: isHorizontal, collectionView: collectionView, indexPathSelected: indexPathSelected, dimension: dimension)
         wasHorizontal = boolStringTupple.0
@@ -233,9 +222,12 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     }
     func collectionView(_ collectionView: UICollectionView, didDeselectItemAt indexPath: IndexPath) {
         let cell = cellChosen(indexPath: indexPath)
-        cell.laLettre.isUserInteractionEnabled = false
-        cell.resignFirstResponder()
-        SelectingCellColor.colorDeselected(wasHorizontal: wasHorizontal, collectionView: collectionView, indexPathSelected: indexPath, dimension: dimension)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+            cell.laLettre.isUserInteractionEnabled = false
+            cell.resignFirstResponder()
+        }
+
+      //  SelectingCellColor.colorDeselected(wasHorizontal: wasHorizontal, collectionView: collectionView, indexPathSelected: indexPath, dimension: dimension)
     }
      func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
         let cell = cellChosen(indexPath: indexPathSelected)
@@ -284,15 +276,12 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     // dimension for the cell's width and height.
     /////////////////////////////////////////////////////////////////////////
     @objc func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
-
         var dim = CGFloat()
         let cellsAcross  =  CGFloat(dimension + 1)
         let spaceBetweenCells: CGFloat = 0
         if keyBoardHeight + definitionLabel.frame.size.height < view.frame.size.width {
-            print("setUp 1")
             dim = (collectionView.bounds.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
         }else{
-            print("setUp 2")
             dim = (view.frame.size.width - (cellsAcross - 1) * spaceBetweenCells) / cellsAcross
         }
         return CGSize(width: dim, height: dim)
@@ -396,7 +385,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     }
     
     @IBAction func horizontalVericalPressed(_ sender: UIButton) {
-        SelectingCellColor.colorDeselected(wasHorizontal: isHorizontal, collectionView: collectionView, indexPathSelected: indexPathSelected, dimension: dimension)
+      //  SelectingCellColor.colorDeselected(wasHorizontal: isHorizontal, collectionView: collectionView, indexPathSelected: indexPathSelected, dimension: dimension)
         isHorizontal = !isHorizontal
         let boolStringTupple = SelectingCellColor.colorSelected(isHorizontal: isHorizontal, collectionView: collectionView, indexPathSelected: indexPathSelected, dimension: dimension)
         selectedWord = boolStringTupple.1
@@ -427,9 +416,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBAction func goBackToGridList(_ sender: UITapGestureRecognizer) {
         performSegue(withIdentifier: "backToGridSelection", sender: self)
     }
-    
-    
-    
+
     func gridMove (scrollH: (IndexPath, Int) -> IndexPath, scrollV: (IndexPath, Int) -> IndexPath){
         var cell = cellChosen(indexPath: indexPathSelected)
         var newIndexPath =  IndexPath()
