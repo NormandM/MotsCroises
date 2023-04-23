@@ -47,14 +47,19 @@ class ActivityIndicatorView
     func startAnimating()
     {
         self.activityIndicator.startAnimating()
-        UIApplication.shared.beginIgnoringInteractionEvents()
+      //  UIApplication.shared.beginIgnoringInteractionEvents()
+        view.isUserInteractionEnabled = false
     }
     
     func stopAnimating()
     {
         self.activityIndicator.stopAnimating()
-        UIApplication.shared.endIgnoringInteractionEvents()
-        
+     //   UIApplication.shared.endIgnoringInteractionEvents()
+//        UIApplication.shared.windows.first?.isUserInteractionEnabled = true
+        if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene {
+           let window = windowScene.windows.first
+           window?.isUserInteractionEnabled = true
+         }
         self.view.removeFromSuperview()
     }
     //end

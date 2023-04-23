@@ -106,6 +106,8 @@
 		8E270BA3236B386200EAED3E /* Definitions37D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E270B6D236B386200EAED3E /* Definitions37D.plist */; };
 		8E32D8A02360B9B100BCEC80 /* Lettres5D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E32D89F2360B9B100BCEC80 /* Lettres5D.plist */; };
 		8E3D35111F63356300813AF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E3D35101F63356300813AF4 /* Main.storyboard */; };
+		8E3D8B3F29AD57F4001C9D5A /* Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3D8B3E29AD57F4001C9D5A /* Range.swift */; };
+		8E3D8B4129AD5A9E001C9D5A /* OrderVertical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3D8B4029AD5A9E001C9D5A /* OrderVertical.swift */; };
 		8E43A16D2342755800110308 /* MotCroiseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43A16C2342755800110308 /* MotCroiseViewController.swift */; };
 		8E43A1772342756800110308 /* WordSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43A16E2342756800110308 /* WordSelection.swift */; };
 		8E43A1782342756800110308 /* Valider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E43A16F2342756800110308 /* Valider.swift */; };
@@ -172,6 +174,11 @@
 		8E66377A2354F5D1006B8112 /* Lettres48I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6637792354F5D0006B8112 /* Lettres48I.plist */; };
 		8E66377E2354F612006B8112 /* Lettres49I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E66377D2354F612006B8112 /* Lettres49I.plist */; };
 		8E6637822354F654006B8112 /* Lettres50I.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E6637812354F654006B8112 /* Lettres50I.plist */; };
+		8E72DEBD29D609D100187EB8 /* AlertInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E72DEBC29D609D100187EB8 /* AlertInfo.swift */; };
+		8E72DEC329D77FCD00187EB8 /* OreinetationLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E72DEC229D77FCD00187EB8 /* OreinetationLock.swift */; };
+		8E72DEC729DF4BA500187EB8 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E72DEC629DF4BA500187EB8 /* TimerManager.swift */; };
+		8E73A68F298F0D7F004AB40B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E73A68E298F0D7F004AB40B /* ContentView.swift */; };
+		8E73A691298F0D89004AB40B /* KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E73A690298F0D88004AB40B /* KeyboardView.swift */; };
 		8E77E1F123902623004CFCAF /* Lettres26D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F023902623004CFCAF /* Lettres26D.plist */; };
 		8E77E1F323902635004CFCAF /* Definitions26D.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F223902635004CFCAF /* Definitions26D.plist */; };
 		8E77E1F523902653004CFCAF /* Lettres44E.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E77E1F423902653004CFCAF /* Lettres44E.plist */; };
@@ -515,6 +522,8 @@
 		8E2B025D1EB4319600A48BBE /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		8E32D89F2360B9B100BCEC80 /* Lettres5D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres5D.plist; sourceTree = "<group>"; };
 		8E3D35101F63356300813AF4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		8E3D8B3E29AD57F4001C9D5A /* Range.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Range.swift; sourceTree = "<group>"; };
+		8E3D8B4029AD5A9E001C9D5A /* OrderVertical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderVertical.swift; sourceTree = "<group>"; };
 		8E43A16C2342755800110308 /* MotCroiseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MotCroiseViewController.swift; path = ../MotCroiseViewController.swift; sourceTree = "<group>"; };
 		8E43A16E2342756800110308 /* WordSelection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WordSelection.swift; path = ../WordSelection.swift; sourceTree = "<group>"; };
 		8E43A16F2342756800110308 /* Valider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Valider.swift; path = ../Valider.swift; sourceTree = "<group>"; };
@@ -581,6 +590,11 @@
 		8E6637792354F5D0006B8112 /* Lettres48I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Lettres48I.plist; path = ../Lettres48I.plist; sourceTree = "<group>"; };
 		8E66377D2354F612006B8112 /* Lettres49I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Lettres49I.plist; path = ../Lettres49I.plist; sourceTree = "<group>"; };
 		8E6637812354F654006B8112 /* Lettres50I.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Lettres50I.plist; path = ../Lettres50I.plist; sourceTree = "<group>"; };
+		8E72DEBC29D609D100187EB8 /* AlertInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertInfo.swift; sourceTree = "<group>"; };
+		8E72DEC229D77FCD00187EB8 /* OreinetationLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OreinetationLock.swift; sourceTree = "<group>"; };
+		8E72DEC629DF4BA500187EB8 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
+		8E73A68E298F0D7F004AB40B /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8E73A690298F0D88004AB40B /* KeyboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardView.swift; sourceTree = "<group>"; };
 		8E77E1F023902623004CFCAF /* Lettres26D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres26D.plist; sourceTree = "<group>"; };
 		8E77E1F223902635004CFCAF /* Definitions26D.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Definitions26D.plist; sourceTree = "<group>"; };
 		8E77E1F423902653004CFCAF /* Lettres44E.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Lettres44E.plist; sourceTree = "<group>"; };
@@ -892,6 +906,8 @@
 				8EE3503B1E60AD4C00C7D205 /* ActivityIndicator.swift */,
 				8E43A1742342756800110308 /* SelectingTextField.swift */,
 				8E225046239574E800ABB7E5 /* Extensions.swift */,
+				8E72DEC229D77FCD00187EB8 /* OreinetationLock.swift */,
+				8E72DEC629DF4BA500187EB8 /* TimerManager.swift */,
 			);
 			path = MotsCroisesController;
 			sourceTree = "<group>";
@@ -924,6 +940,7 @@
 		8E43A16B2342753500110308 /* NewVersionFiles */ = {
 			isa = PBXGroup;
 			children = (
+				8E73A68D298F0D2B004AB40B /* SwiftUI */,
 				8E05BDFF2353919800108ED7 /* MotsCroisesController */,
 				8EFFB8AC2345527000126DDE /* ChoixDeGrillesTableViewController */,
 				8EB07B61252A709400EC7896 /* PlaceHolderForKeyBoardHeight */,
@@ -1312,6 +1329,18 @@
 				8E78BD21238755C400C30BF2 /* Definitions50E.plist */,
 			);
 			path = EXPERT;
+			sourceTree = "<group>";
+		};
+		8E73A68D298F0D2B004AB40B /* SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				8E73A68E298F0D7F004AB40B /* ContentView.swift */,
+				8E73A690298F0D88004AB40B /* KeyboardView.swift */,
+				8E3D8B3E29AD57F4001C9D5A /* Range.swift */,
+				8E3D8B4029AD5A9E001C9D5A /* OrderVertical.swift */,
+				8E72DEBC29D609D100187EB8 /* AlertInfo.swift */,
+			);
+			path = SwiftUI;
 			sourceTree = "<group>";
 		};
 		8EB07B61252A709400EC7896 /* PlaceHolderForKeyBoardHeight */ = {
@@ -1937,25 +1966,31 @@
 			files = (
 				8E43A17E2342756800110308 /* SelectingCellColor.swift in Sources */,
 				8E10A14F2344DB50005F45B6 /* CoreDataHandler.swift in Sources */,
+				8E73A68F298F0D7F004AB40B /* ContentView.swift in Sources */,
 				8E05BDED234D1E6000108ED7 /* ImageManager.swift in Sources */,
 				8E43A1962342758500110308 /* LabelWithInsets.swift in Sources */,
 				8E43A19D2342758500110308 /* GrilleUser.swift in Sources */,
 				8E10A1512344DB50005F45B6 /* StringToIndexPath.swift in Sources */,
 				8E43A16D2342755800110308 /* MotCroiseViewController.swift in Sources */,
 				8EB07B66252B728B00EC7896 /* TransitionForKeyBoardViewController.swift in Sources */,
+				8E72DEC729DF4BA500187EB8 /* TimerManager.swift in Sources */,
 				8EFFB8AB2344F44100126DDE /* ChoixDeGrillesTableViewController.swift in Sources */,
 				8E43A19B2342758500110308 /* FormatAndHideButton.swift in Sources */,
 				8E43A1772342756800110308 /* WordSelection.swift in Sources */,
 				8E2250492398661500ABB7E5 /* SoundPlayer.swift in Sources */,
 				8E10A14D2344DB50005F45B6 /* GrilleData.swift in Sources */,
+				8E73A691298F0D89004AB40B /* KeyboardView.swift in Sources */,
 				8E43A1792342756800110308 /* Reveler.swift in Sources */,
 				8E43A17C2342756800110308 /* MotsCroisesCVCell.swift in Sources */,
+				8E3D8B4129AD5A9E001C9D5A /* OrderVertical.swift in Sources */,
 				8E43A17F2342756800110308 /* ScrollingPositions.swift in Sources */,
 				8E43A1952342758500110308 /* TextFieldMaxLengths.swift.swift in Sources */,
 				8E43A17B2342756800110308 /* ButtonTitleEnum.swift in Sources */,
 				8E43A19A2342758500110308 /* ScreenDimension.swift in Sources */,
+				8E72DEC329D77FCD00187EB8 /* OreinetationLock.swift in Sources */,
 				8EA620031E71DEC000A6DC7C /* Item+CoreDataProperties.swift in Sources */,
 				8E43A1942342758500110308 /* EffacerGrille.swift in Sources */,
+				8E3D8B3F29AD57F4001C9D5A /* Range.swift in Sources */,
 				8EFFB8B0234552F400126DDE /* LabelAndImagePosition.swift in Sources */,
 				8E05BDEB234D152500108ED7 /* SpecialTableViewCell.swift in Sources */,
 				8E43A1982342758500110308 /* FontsAndConstraintsOptions.swift in Sources */,
@@ -1975,6 +2010,7 @@
 				8E9609272347B7000050E5DF /* GrilleIsBought.swift in Sources */,
 				8E43A1972342758500110308 /* MenuAction.swift in Sources */,
 				8E05BDF2234FB0A500108ED7 /* IndividulaGridDelectionTableViewController.swift in Sources */,
+				8E72DEBD29D609D100187EB8 /* AlertInfo.swift in Sources */,
 				8EE3503C1E60AD4C00C7D205 /* ActivityIndicator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2120,7 +2156,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -2175,7 +2211,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -2191,11 +2227,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = X6D769Z7F4;
-				ENABLE_BITCODE = YES;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.1.2;
+				MARKETING_VERSION = 2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2210,11 +2246,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = X6D769Z7F4;
-				ENABLE_BITCODE = YES;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.1.2;
+				MARKETING_VERSION = 2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

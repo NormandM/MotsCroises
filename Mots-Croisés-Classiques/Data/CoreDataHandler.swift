@@ -89,6 +89,7 @@ class CoreDataHandler: NSObject {
             return item
         }
     }
+
     class func fetchLetters(noDeLettre: String, grilleSelected: String) -> String {
         let context = getContext()
         let fetchRequest: NSFetchRequest<Item> = Item.fetchRequest()

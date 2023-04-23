@@ -29,15 +29,16 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBOutlet weak var pointInterrogation: UIButton!
     @IBOutlet weak var horizOrVertLabel: UILabel!
     @IBOutlet weak var noDeMotsCroisesLabel: UILabel!
+    @IBOutlet weak var elapsedTimeLabel: SpecialLabel!
     @IBOutlet weak var defintionStackView: UIStackView!
     @IBOutlet weak var HVStackView: UIStackView!
     @IBOutlet weak var topDefinitionStackConstraint: NSLayoutConstraint!
+    var iPadIsInLandScape = false
     var keyBoardHeight = CGFloat()
     var collectionViewHeight = CGFloat()
     var effect: UIVisualEffect!
     let blurEffect = UIBlurEffect(style: UIBlurEffect.Style.light)
     var blurEffectView = UIVisualEffectView()
-    var motsCroisesSelected = String()
     var dimension = Int()
     var activityIndicatorView: ActivityIndicatorView!
     var keyBoardIsHidden = Bool()
@@ -57,12 +58,13 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     var keyBoardCGRecPlaceHolder = CGRect()
     var item: [Item]?
     var soundPlayer: SoundPlayer?
+    var timer = Timer()
+    var seconds = 0
     override func viewDidLoad() {
         super.viewDidLoad()
-        if #available(iOS 13.0, *) {
-                // prefer a light interface style with this:
-                overrideUserInterfaceStyle = .light
-        }
+        overrideUserInterfaceStyle = .light
+        overrideUserInterfaceStyle = .light
+
         soundPlayer = SoundPlayer()
         let pListLettres = "Lettres" + grilleSelected
         let pListDefinitions = "Definitions" + grilleSelected
@@ -80,27 +82,41 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
             GrilleData.prepareGrille(dimension: dimension, item:item!, grilleSelected: grilleSelected, grille: grille)
             item = CoreDataHandler.fetchGrille(grilleSelected: grilleSelected)
         }
-        
+        if let savedTime = UserDefaults.standard.object(forKey: grilleSelected) as? Int {
+            seconds = savedTime
+        }
+        if !CoreDataHandler.isMotsCroisesFinished(noDeLettre: "0,0", grilleSelected: grilleSelected){
+            timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(updateTimer), userInfo: nil, repeats: true)
+        }else{
+            updateTimer()
+        }
+            
         FormatAndHideButton.activate(buttonArray: validerItems)
         FormatAndHideButton.activate(buttonArray: revelerItems)
         navigationController?.navigationBar.isHidden = true
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardWillShow), name: UIResponder.keyboardWillShowNotification, object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillHide), name: UIResponder.keyboardWillHideNotification, object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardDidShow), name: UIResponder.keyboardDidShowNotification, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(orientationDidChange), name: UIDevice.orientationDidChangeNotification, object: nil)
         view.backgroundColor = ColorReference.coralColor
         blurredView()
         self.activityIndicatorView = ActivityIndicatorView(title: "Construction de la Grille...", center: self.view.center, view: view)
         self.view.addSubview(self.activityIndicatorView.getViewActivityIndicator())
         activityIndicatorView.startAnimating()
-        
+        AppOrientationUtility.lockOrientation(UIInterfaceOrientationMask.portrait, andRotateTo: UIInterfaceOrientation.portrait)
        
     }
     deinit {
         NotificationCenter.default.removeObserver(self, name: UIResponder.keyboardWillShowNotification, object: nil)
         NotificationCenter.default.removeObserver(self, name: UIResponder.keyboardWillHideNotification, object: nil)
         NotificationCenter.default.removeObserver(self, name: UIResponder.keyboardDidShowNotification, object: nil)
+        NotificationCenter.default.removeObserver(self)
     }
     override func viewWillAppear(_ animated: Bool) {
+        elapsedTimeLabel.layer.borderWidth = 2.0
+        elapsedTimeLabel.layer.borderColor = UIColor.black.cgColor
+        elapsedTimeLabel.backgroundColor = ColorReference.sandColor
+        elapsedTimeLabel.font = .systemFont(ofSize: 16)
         definitionLabel.font = fonts.smallItaliqueBoldFont
         definitionLabel.backgroundColor = ColorReference.brownGray
         definitionLabel.textColor = .white
@@ -136,6 +152,8 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         wasIndexPathSelected = indexPathSelected
     }
     override func viewWillDisappear(_ animated: Bool) {
+        UserDefaults.standard.set(seconds, forKey: grilleSelected)
+        timer.invalidate()
         navigationController?.navigationBar.isHidden = false
     }
     override func viewDidLayoutSubviews() {
@@ -227,7 +245,6 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
             cell.resignFirstResponder()
         }
 
-      //  SelectingCellColor.colorDeselected(wasHorizontal: wasHorizontal, collectionView: collectionView, indexPathSelected: indexPath, dimension: dimension)
     }
      func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
         let cell = cellChosen(indexPath: indexPathSelected)
@@ -296,15 +313,24 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         pathArray = boolStringTupple.3
 
     }
+    @objc func orientationDidChange() {
+        if let viewController = navigationController?.viewControllers.first(where: { $0 is IndividulaGridSelectionTableViewController }) {
+            if UIDevice.current.userInterfaceIdiom == .pad {
+                navigationController?.popToViewController(viewController, animated: true)
+            }
+        }
+     }
     
     func cellChosen(indexPath: IndexPath) -> MotsCroisesCVCell{
         return collectionView.cellForItem(at: indexPath) as! MotsCroisesCVCell
     }
     @IBAction func validerPressed(_ sender: UIButton) {
+        helpUsed()
         MenuAction.activate(buttonArray: validerItems)
 
     }
     @IBAction func revelerPressed(_ sender: UIButton) {
+        helpUsed()
         MenuAction.activate(buttonArray: revelerItems)
     }
     @IBAction func validerItemPressed(_ sender: UIButton) {
@@ -499,14 +525,22 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         self.present(alert, animated: true, completion: nil)
     }
     func showAlertEffacerGrille (){
+        UserDefaults.standard.set(0, forKey: grilleSelected)
         let alert = UIAlertController(title: "Mots Croisés Classiques", message: "Êtes vous sur de vouloir tout effacer?", preferredStyle: UIAlertController.Style.alert)
         alert.addAction(UIAlertAction(title: "Oui", style: UIAlertAction.Style.destructive, handler:{(alert: UIAlertAction!) in self.actionEffaceGrille()}))
         alert.addAction(UIAlertAction(title: "Non", style: UIAlertAction.Style.default, handler: nil))
+
         self.present(alert, animated: true, completion: nil)
     }
     func showAlerteGrilleReussie () {
-        let alert = UIAlertController(title: "Félicitations!", message: "Vous avez complété la grille!", preferredStyle: UIAlertController.Style.alert)
+        UserDefaults.standard.set(seconds, forKey: grilleSelected)
+        let tempsPourReussir = UserDefaults.standard.integer(forKey: grilleSelected)
+        let minutes = (tempsPourReussir / 60) % 60
+        let secondsToShow = tempsPourReussir % 60
+        let resultat = String(format: "%02d:%02d", minutes, secondsToShow)
+        let alert = UIAlertController(title: "Félicitations!", message: texteAlerteTerminé(), preferredStyle: UIAlertController.Style.alert)
         let okAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
+        timer.invalidate()
         soundPlayer?.playSound(soundName: "music_harp_gliss_up", type: "wav")
         alert.addAction(okAction)
         self.present(alert, animated: true, completion: nil)
@@ -515,6 +549,10 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     func actionEffaceGrille() {
         EffacerGrille.effacer(collectionView: collectionView, dimension: dimension, grilleSelected: grilleSelected)
         CoreDataHandler.saveUncompleteStatus(grilleSelected: grilleSelected)
+        UserDefaults.standard.set(0, forKey: grilleSelected)
+        let indiceMotsCroisesSelected = grilleSelected + "indice"
+        UserDefaults.standard.set(false, forKey: indiceMotsCroisesSelected)
+        seconds = 0
         let cell = cellChosen(indexPath: [0, 0])
         indexPathSelected = [0,0 ]
         collectionView.selectItem(at: indexPathSelected, animated: false, scrollPosition: .centeredHorizontally)
@@ -524,6 +562,9 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         selectedLettre = boolStringTupple.2
         pathArray = boolStringTupple.3
         cell.isSelected = true
+        UserDefaults.standard.set(0, forKey: grilleSelected)
+        seconds = 0
+        timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(updateTimer), userInfo: nil, repeats: true)
         definition(indexPathSelected: indexPathSelected, isHorizontal: isHorizontal)
     }
     func blurredView() {
@@ -534,7 +575,35 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         effect = blurEffectView.effect
         view.addSubview(blurEffectView)
     }
-
+    @objc func updateTimer() {
+        if CoreDataHandler.isMotsCroisesFinished(noDeLettre: "0,0", grilleSelected: grilleSelected){
+            UserDefaults.standard.set(seconds, forKey: grilleSelected)
+            let tempsPourReussir = UserDefaults.standard.integer(forKey: grilleSelected)
+            let minutes = (tempsPourReussir / 60) % 60
+            let secondsToShow = tempsPourReussir % 60
+            let resultat = String(format: "%02d:%02d", minutes, secondsToShow)
+            elapsedTimeLabel.text = resultat
+        }else{
+            seconds += 1
+            let minutes = (seconds / 60) % 60
+            let secondsToShow = seconds % 60
+            elapsedTimeLabel.text = String(format: "%02d:%02d", minutes, secondsToShow)
+        }
+    }
+    func helpUsed() {
+        let indiceMotsCroisesSelected = grilleSelected + "indice"
+        UserDefaults.standard.set(true, forKey: indiceMotsCroisesSelected)
+    }
+    func texteAlerteTerminé() -> String {
+        let indiceMotsCroisesSelected = grilleSelected + "indice"
+        let minutes = seconds / 60
+        let seconds = seconds % 60
+        if UserDefaults.standard.bool(forKey: indiceMotsCroisesSelected){
+            return "Vous avez complété la grille!\nÀ l'aide d'indices."
+        }else{
+            return "Vous avez complété la grille!\n Temps: \(String(format: "%02d:%02d", minutes, seconds))"
+        }
+    }
 }
 
 

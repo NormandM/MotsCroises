@@ -19,10 +19,9 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
     @IBOutlet weak var appsLabel: UILabel!
     @IBOutlet weak var appsLabel2: UILabel!
     @IBOutlet weak var logoView: UIImageView!
-    var soundPlayer: SoundPlayer?
     override func viewDidLoad() {
         super.viewDidLoad()
-        soundPlayer = SoundPlayer()
+        AppOrientationUtility.lockOrientation(UIInterfaceOrientationMask.all, andRotateTo: UIInterfaceOrientation.unknown)
         self.navigationController?.isNavigationBarHidden = true
         fetchAvailableProducts()
     }
@@ -34,7 +33,6 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
         let appsLabel2Frame = appsLabel2.frame
         let maxXappsLabel = appsLabelFrame.maxX
         let maxXappsLabel2 = appsLabel2Frame.maxX
-        soundPlayer?.playSound(soundName: "Acoustic Trio", type: "wav")
         UIView.animate(withDuration: 3, animations: {
             self.appsLabel2.transform = CGAffineTransform(translationX: maxXappsLabel - maxXappsLabel2 , y: 0)}, completion: {finished in self.completionAnimation()})
     }

@@ -64,10 +64,7 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        if #available(iOS 13.0, *) {
-                // prefer a light interface style with this:
-                overrideUserInterfaceStyle = .light
-        }
+        overrideUserInterfaceStyle = .light
         if currentCount >= 10 {
             if #available(iOS 10.3, *) {
                 SKStoreReviewController.requestReview()
