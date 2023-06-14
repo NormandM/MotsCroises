@@ -21,7 +21,7 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
     @IBOutlet weak var logoView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        AppOrientationUtility.lockOrientation(UIInterfaceOrientationMask.all, andRotateTo: UIInterfaceOrientation.unknown)
+     //   AppOrientationUtility.lockOrientation(UIInterfaceOrientationMask.all, andRotateTo: UIInterfaceOrientation.unknown)
         self.navigationController?.isNavigationBarHidden = true
         fetchAvailableProducts()
     }

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 53;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -442,6 +442,7 @@
 		8E10A1482344DB50005F45B6 /* IndexPathToString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexPathToString.swift; sourceTree = "<group>"; };
 		8E10A1492344DB50005F45B6 /* CoreDataHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreDataHandler.swift; sourceTree = "<group>"; };
 		8E10A14C2344DB50005F45B6 /* StringToIndexPath.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringToIndexPath.swift; sourceTree = "<group>"; };
+		8E1CF5E729F5D9EA0072C94F /* TestStoreKit.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestStoreKit.storekit; sourceTree = "<group>"; };
 		8E205F3D1E5F668A00964353 /* AppleGaramond-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Bold.ttf"; sourceTree = "<group>"; };
 		8E205F3E1E5F669100964353 /* AppleGaramond-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-BoldItalic.ttf"; sourceTree = "<group>"; };
 		8E205F3F1E5F669700964353 /* AppleGaramond-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AppleGaramond-Italic.ttf"; sourceTree = "<group>"; };
@@ -1388,6 +1389,7 @@
 				8EB2FDEE1E15FBFE004D024F /* LaunchScreen.storyboard */,
 				8EB2FDF11E15FBFE004D024F /* Info.plist */,
 				8E205F3C1E5F667100964353 /* Font */,
+				8E1CF5E729F5D9EA0072C94F /* TestStoreKit.storekit */,
 			);
 			path = "Mots-Croisés-Classiques";
 			sourceTree = "<group>";
@@ -1490,8 +1492,9 @@
 		8EB2FDDA1E15FBFE004D024F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 0820;
-				LastUpgradeCheck = 1200;
+				LastUpgradeCheck = 1430;
 				ORGANIZATIONNAME = "Normand Martin";
 				TargetAttributes = {
 					8E03D6D5224AD6720079D5BF = {
@@ -2070,7 +2073,11 @@
 					"\"${PODS_ROOT}/Firebase/Core/Sources\"",
 				);
 				INFOPLIST_FILE = "Mots-Croisés-ClassiquesTests copy-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2097,7 +2104,11 @@
 					"\"${PODS_ROOT}/Firebase/Core/Sources\"",
 				);
 				INFOPLIST_FILE = "Mots-Croisés-ClassiquesTests copy-Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2156,7 +2167,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -2211,10 +2222,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -2230,8 +2242,11 @@
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2249,8 +2264,11 @@
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "Mots-Croisés-Classiques/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				MARKETING_VERSION = 2.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-Classiques";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2265,7 +2283,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = X6D769Z7F4;
 				INFOPLIST_FILE = "Mots-Croisés-ClassiquesUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -2280,7 +2302,11 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = X6D769Z7F4;
 				INFOPLIST_FILE = "Mots-Croisés-ClassiquesUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "NM.Mots-Croise-s-ClassiquesUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

@@ -33,7 +33,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     @IBOutlet weak var defintionStackView: UIStackView!
     @IBOutlet weak var HVStackView: UIStackView!
     @IBOutlet weak var topDefinitionStackConstraint: NSLayoutConstraint!
-    var iPadIsInLandScape = false
+   // var iPadIsInLandScape = false
     var keyBoardHeight = CGFloat()
     var collectionViewHeight = CGFloat()
     var effect: UIVisualEffect!
@@ -97,7 +97,6 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardWillShow), name: UIResponder.keyboardWillShowNotification, object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(keyboardWillHide), name: UIResponder.keyboardWillHideNotification, object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(keyBoardDidShow), name: UIResponder.keyboardDidShowNotification, object: nil)
-        NotificationCenter.default.addObserver(self, selector: #selector(orientationDidChange), name: UIDevice.orientationDidChangeNotification, object: nil)
         view.backgroundColor = ColorReference.coralColor
         blurredView()
         self.activityIndicatorView = ActivityIndicatorView(title: "Construction de la Grille...", center: self.view.center, view: view)
@@ -188,6 +187,19 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         defintionStackView.frame = CGRect(x: 0, y: yPosition + gap, width: defintionStackView.frame.size.width, height: defintionStackView.frame.size.height)
         moveRightButton.isEnabled = true
         self.view.layoutIfNeeded()
+    }
+    override func viewWillTransition(to size: CGSize, with coordinator: UIViewControllerTransitionCoordinator) {
+        super.viewWillTransition(to: size, with: coordinator)
+        coordinator.animate(alongsideTransition: nil) { _ in
+            let orientation = self.view.window?.windowScene?.interfaceOrientation
+            if orientation == .landscapeLeft || orientation == .landscapeRight || orientation == .portrait || orientation == .portraitUpsideDown {
+                if let viewController = self.navigationController?.viewControllers.first(where: { $0 is IndividulaGridSelectionTableViewController }) {
+                    if UIDevice.current.userInterfaceIdiom == .pad {
+                        self.navigationController?.popToViewController(viewController, animated: true)
+                    }
+                }
+            }
+        }
     }
     //MARK: Notification for keyboard
     @objc func keyBoardWillShow(notification: Notification) {
@@ -312,15 +324,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
         selectedLettre = boolStringTupple.2
         pathArray = boolStringTupple.3
 
-    }
-    @objc func orientationDidChange() {
-        if let viewController = navigationController?.viewControllers.first(where: { $0 is IndividulaGridSelectionTableViewController }) {
-            if UIDevice.current.userInterfaceIdiom == .pad {
-                navigationController?.popToViewController(viewController, animated: true)
-            }
-        }
-     }
-    
+    }    
     func cellChosen(indexPath: IndexPath) -> MotsCroisesCVCell{
         return collectionView.cellForItem(at: indexPath) as! MotsCroisesCVCell
     }
@@ -535,9 +539,6 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     func showAlerteGrilleReussie () {
         UserDefaults.standard.set(seconds, forKey: grilleSelected)
         let tempsPourReussir = UserDefaults.standard.integer(forKey: grilleSelected)
-        let minutes = (tempsPourReussir / 60) % 60
-        let secondsToShow = tempsPourReussir % 60
-        let resultat = String(format: "%02d:%02d", minutes, secondsToShow)
         let alert = UIAlertController(title: "Félicitations!", message: texteAlerteTerminé(), preferredStyle: UIAlertController.Style.alert)
         let okAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
         timer.invalidate()

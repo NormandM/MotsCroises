@@ -143,8 +143,7 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 @IBAction func unwindToIndividualGrid(segue: UIStoryboardSegue) {
     tableView.reloadData()
 }
-func determineMyDeviceOrientation()
-{
+func determineMyDeviceOrientation(){
     if UIDevice.current.orientation.isLandscape {
         iPadIsInLandScape = true
     } else {
@@ -152,7 +151,7 @@ func determineMyDeviceOrientation()
     }
     let device = UIDevice.current
     let orientation = device.orientation
-    
+
     switch orientation {
     case .portrait:
         iPadIsInLandScape = false
@@ -170,6 +169,7 @@ func determineMyDeviceOrientation()
             iPadIsInLandScape = false
         }
     case .faceDown:
+        print("faceDown")
         if deviceWidth > deviceHeight{
             iPadIsInLandScape = true
         }else{

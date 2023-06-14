@@ -56,6 +56,7 @@ struct ContentView: View {
     @State private var secondsElapsed = 0
     @State private var timer = Timer.publish(every: 1, on: .main, in: .common).autoconnect()
     @State private var showTousLesTemps = false
+
     var body: some View {
         let minutes = secondsElapsed / 60
         let seconds = secondsElapsed % 60
