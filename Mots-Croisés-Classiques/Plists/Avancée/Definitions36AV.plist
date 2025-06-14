@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Analysable</string>
+			<string>Artisans du numérique</string>
+			<string>DECOMPOSABLE</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Couperais le haut</string>
+			<string>DECOMPOSABLE</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Désigne sans nommer</string>
+			<string>DECOMPOSABLE</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Colorant tiré de lichens</string>
+			<string>DECOMPOSABLE</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>En bout de main</string>
+			<string>DECOMPOSABLE</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>La mome</string>
+			<string>DECOMPOSABLE</string>
+			<string>PIAF</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Inflammations osseuses</string>
+			<string>DECOMPOSABLE</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Parties de partie</string>
+			<string>DECOMPOSABLE</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Petit bout de terre</string>
+			<string>DECOMPOSABLE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Fosses dangereuses près du rivage</string>
+			<string>DECOMPOSABLE</string>
+			<string>BAINES</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Navire</string>
+			<string>DECOMPOSABLE</string>
+			<string>LINER</string>
+		</array>
+		<array>
+			<string>Analysable</string>
+			<string>Existe</string>
+			<string>DECOMPOSABLE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Artisans du numérique</string>
+			<string>ETERNISERAIS</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Couperais le haut</string>
+			<string>ETERNISERAIS</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Désigne sans nommer</string>
+			<string>ETERNISERAIS</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Colorant tiré de lichens</string>
+			<string>ETERNISERAIS</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>En bout de main</string>
+			<string>ETERNISERAIS</string>
+			<string>MN</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>La mome</string>
+			<string>ETERNISERAIS</string>
+			<string>PIAF</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Inflammations osseuses</string>
+			<string>ETERNISERAIS</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Parties de partie</string>
+			<string>ETERNISERAIS</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Petit bout de terre</string>
+			<string>ETERNISERAIS</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Fosses dangereuses près du rivage</string>
+			<string>ETERNISERAIS</string>
+			<string>BAINES</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Navire</string>
+			<string>ETERNISERAIS</string>
+			<string>LINER</string>
+		</array>
+		<array>
+			<string>Empêcherais de passer</string>
+			<string>Existe</string>
+			<string>ETERNISERAIS</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rends décent</string>
+			<string>Artisans du numérique</string>
+			<string>VETS</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Rends décent</string>
+			<string>Couperais le haut</string>
+			<string>VETS</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Rends décent</string>
+			<string>Désigne sans nommer</string>
+			<string>VETS</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string>Rends décent</string>
+			<string>Colorant tiré de lichens</string>
+			<string>VETS</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>La mome</string>
+			<string>ATTEINT</string>
+			<string>PIAF</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Inflammations osseuses</string>
+			<string>ATTEINT</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Parties de partie</string>
+			<string>ATTEINT</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Petit bout de terre</string>
+			<string>ATTEINT</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Fosses dangereuses près du rivage</string>
+			<string>ATTEINT</string>
+			<string>BAINES</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Navire</string>
+			<string>ATTEINT</string>
+			<string>LINER</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Existe</string>
+			<string>ATTEINT</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Artisans du numérique</string>
+			<string>ET</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Couperais le haut</string>
+			<string>ET</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Génies de l'air</string>
+			<string>Colorant tiré de lichens</string>
+			<string>ELFES</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string>Génies de l'air</string>
+			<string>Loup ancestral</string>
+			<string>ELFES</string>
+			<string>LEU</string>
+		</array>
+		<array>
+			<string>Génies de l'air</string>
+			<string>La mome</string>
+			<string>ELFES</string>
+			<string>PIAF</string>
+		</array>
+		<array>
+			<string>Génies de l'air</string>
+			<string>Inflammations osseuses</string>
+			<string>ELFES</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Génies de l'air</string>
+			<string>Parties de partie</string>
+			<string>ELFES</string>
+			<string>SETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Apparu</string>
+			<string>Fosses dangereuses près du rivage</string>
+			<string>NE</string>
+			<string>BAINES</string>
+		</array>
+		<array>
+			<string>Apparu</string>
+			<string>Navire</string>
+			<string>NE</string>
+			<string>LINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mot ou expression</string>
+			<string>Artisans du numérique</string>
+			<string>LEXIE</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Mot ou expression</string>
+			<string>Couperais le haut</string>
+			<string>LEXIE</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Mot ou expression</string>
+			<string></string>
+			<string>LEXIE</string>
+			<string>X</string>
+		</array>
+		<array>
+			<string>Mot ou expression</string>
+			<string>Colorant tiré de lichens</string>
+			<string>LEXIE</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string>Mot ou expression</string>
+			<string>Loup ancestral</string>
+			<string>LEXIE</string>
+			<string>LEU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Inflammations osseuses</string>
+			<string>I</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parfois à fleur de peau</string>
+			<string>Héraclès y tua un lion</string>
+			<string>NERF</string>
+			<string>NEMEE</string>
+		</array>
+		<array>
+			<string>Parfois à fleur de peau</string>
+			<string>Fosses dangereuses près du rivage</string>
+			<string>NERF</string>
+			<string>BAINES</string>
+		</array>
+		<array>
+			<string>Parfois à fleur de peau</string>
+			<string>Navire</string>
+			<string>NERF</string>
+			<string>LINER</string>
+		</array>
+		<array>
+			<string>Parfois à fleur de peau</string>
+			<string>Rejets naturels</string>
+			<string>NERF</string>
+			<string>FECES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Corrupteur incorruptible</string>
+			<string>Artisans du numérique</string>
+			<string>OR</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Corrupteur incorruptible</string>
+			<string>Couperais le haut</string>
+			<string>OR</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Colorant tiré de lichens</string>
+			<string>LUETTES</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Loup ancestral</string>
+			<string>LUETTES</string>
+			<string>LEU</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Adverbe de lieu</string>
+			<string>LUETTES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Inflammations osseuses</string>
+			<string>LUETTES</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Aspiras pour te nourrir</string>
+			<string>LUETTES</string>
+			<string>TETAS</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Héraclès y tua un lion</string>
+			<string>LUETTES</string>
+			<string>NEMEE</string>
+		</array>
+		<array>
+			<string>Uvules</string>
+			<string>Fosses dangereuses près du rivage</string>
+			<string>LUETTES</string>
+			<string>BAINES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rejets naturels</string>
+			<string>E</string>
+			<string>FECES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prénom</string>
+			<string>Artisans du numérique</string>
+			<string>PAUL</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Couperais le haut</string>
+			<string>PAUL</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Connaisseurs de la charia</string>
+			<string>PAUL</string>
+			<string>ULEMAS</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Colorant tiré de lichens</string>
+			<string>PAUL</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un arbre originaire d'Inde</string>
+			<string>Adverbe de lieu</string>
+			<string>NEEM</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Un arbre originaire d'Inde</string>
+			<string>Inflammations osseuses</string>
+			<string>NEEM</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Un arbre originaire d'Inde</string>
+			<string>Aspiras pour te nourrir</string>
+			<string>NEEM</string>
+			<string>TETAS</string>
+		</array>
+		<array>
+			<string>Un arbre originaire d'Inde</string>
+			<string>Héraclès y tua un lion</string>
+			<string>NEEM</string>
+			<string>NEMEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Métal radioactif</string>
+			<string>Vu en passant</string>
+			<string>AC</string>
+			<string>APERCU</string>
+		</array>
+		<array>
+			<string>Métal radioactif</string>
+			<string>Rejets naturels</string>
+			<string>AC</string>
+			<string>FECES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Broyer</string>
+			<string>Artisans du numérique</string>
+			<string>PILER</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Broyer</string>
+			<string>Couperais le haut</string>
+			<string>PILER</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Broyer</string>
+			<string>Connaisseurs de la charia</string>
+			<string>PILER</string>
+			<string>ULEMAS</string>
+		</array>
+		<array>
+			<string>Broyer</string>
+			<string>Colorant tiré de lichens</string>
+			<string>PILER</string>
+			<string>ORSEILLE</string>
+		</array>
+		<array>
+			<string>Broyer</string>
+			<string>Partager un bloc de pierre</string>
+			<string>PILER</string>
+			<string>RADER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prairie à perte de vue</string>
+			<string>Inflammations osseuses</string>
+			<string>STEPPE</string>
+			<string>OSTEITES</string>
+		</array>
+		<array>
+			<string>Prairie à perte de vue</string>
+			<string>Aspiras pour te nourrir</string>
+			<string>STEPPE</string>
+			<string>TETAS</string>
+		</array>
+		<array>
+			<string>Prairie à perte de vue</string>
+			<string>Héraclès y tua un lion</string>
+			<string>STEPPE</string>
+			<string>NEMEE</string>
+		</array>
+		<array>
+			<string>Prairie à perte de vue</string>
+			<string>Implorée</string>
+			<string>STEPPE</string>
+			<string>PRIEE</string>
+		</array>
+		<array>
+			<string>Prairie à perte de vue</string>
+			<string>Vu en passant</string>
+			<string>STEPPE</string>
+			<string>APERCU</string>
+		</array>
+		<array>
+			<string>Prairie à perte de vue</string>
+			<string>Rejets naturels</string>
+			<string>STEPPE</string>
+			<string>FECES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Entre est et sud</string>
+			<string>Artisans du numérique</string>
+			<string>ESE</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Entre est et sud</string>
+			<string>Couperais le haut</string>
+			<string>ESE</string>
+			<string>ETETERAIS</string>
+		</array>
+		<array>
+			<string>Entre est et sud</string>
+			<string>Connaisseurs de la charia</string>
+			<string>ESE</string>
+			<string>ULEMAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il ne vaut pas l'AU</string>
+			<string>Partager un bloc de pierre</string>
+			<string>AG</string>
+			<string>RADER</string>
+		</array>
+		<array>
+			<string>Il ne vaut pas l'AU</string>
+			<string>Jeu d'orient</string>
+			<string>AG</string>
+			<string>GO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Remplis d'air</string>
+			<string>Aspiras pour te nourrir</string>
+			<string>AERES</string>
+			<string>TETAS</string>
+		</array>
+		<array>
+			<string>Remplis d'air</string>
+			<string>Héraclès y tua un lion</string>
+			<string>AERES</string>
+			<string>NEMEE</string>
+		</array>
+		<array>
+			<string>Remplis d'air</string>
+			<string>Implorée</string>
+			<string>AERES</string>
+			<string>PRIEE</string>
+		</array>
+		<array>
+			<string>Remplis d'air</string>
+			<string>Vu en passant</string>
+			<string>AERES</string>
+			<string>APERCU</string>
+		</array>
+		<array>
+			<string>Remplis d'air</string>
+			<string>Rejets naturels</string>
+			<string>AERES</string>
+			<string>FECES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Artisans du numérique</string>
+			<string>U</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vins qui soignent</string>
+			<string>Connaisseurs de la charia</string>
+			<string>MEDOCS</string>
+			<string>ULEMAS</string>
+		</array>
+		<array>
+			<string>Vins qui soignent</string>
+			<string>A profité de la campagne</string>
+			<string>MEDOCS</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string>Vins qui soignent</string>
+			<string>Partager un bloc de pierre</string>
+			<string>MEDOCS</string>
+			<string>RADER</string>
+		</array>
+		<array>
+			<string>Vins qui soignent</string>
+			<string>Jeu d'orient</string>
+			<string>MEDOCS</string>
+			<string>GO</string>
+		</array>
+		<array>
+			<string>Vins qui soignent</string>
+			<string>Partie de trousseau</string>
+			<string>MEDOCS</string>
+			<string>CLE</string>
+		</array>
+		<array>
+			<string>Vins qui soignent</string>
+			<string>Aspiras pour te nourrir</string>
+			<string>MEDOCS</string>
+			<string>TETAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fin de non-recevoir</string>
+			<string>Implorée</string>
+			<string>IR</string>
+			<string>PRIEE</string>
+		</array>
+		<array>
+			<string>Fin de non-recevoir</string>
+			<string>Vu en passant</string>
+			<string>IR</string>
+			<string>APERCU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Galère</string>
+			<string>Artisans du numérique</string>
+			<string>REALE</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Galère</string>
+			<string>Reçu autrefois</string>
+			<string>REALE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Galère</string>
+			<string>Connaisseurs de la charia</string>
+			<string>REALE</string>
+			<string>ULEMAS</string>
+		</array>
+		<array>
+			<string>Galère</string>
+			<string>A profité de la campagne</string>
+			<string>REALE</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string>Galère</string>
+			<string>Partager un bloc de pierre</string>
+			<string>REALE</string>
+			<string>RADER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Partie de trousseau</string>
+			<string>L</string>
+			<string>CLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Organes cornés</string>
+			<string></string>
+			<string>BECS</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string>Organes cornés</string>
+			<string>Implorée</string>
+			<string>BECS</string>
+			<string>PRIEE</string>
+		</array>
+		<array>
+			<string>Organes cornés</string>
+			<string>Vu en passant</string>
+			<string>BECS</string>
+			<string>APERCU</string>
+		</array>
+		<array>
+			<string>Organes cornés</string>
+			<string>Partisans d'Adolf</string>
+			<string>BECS</string>
+			<string>SS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string>Artisans du numérique</string>
+			<string>SUSURRER</string>
+			<string>DEVELOPPEURS</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string>Reçu autrefois</string>
+			<string>SUSURRER</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string>Connaisseurs de la charia</string>
+			<string>SUSURRER</string>
+			<string>ULEMAS</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string>A profité de la campagne</string>
+			<string>SUSURRER</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string>Partager un bloc de pierre</string>
+			<string>SUSURRER</string>
+			<string>RADER</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string></string>
+			<string>SUSURRER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string>Partie de trousseau</string>
+			<string>SUSURRER</string>
+			<string>CLE</string>
+		</array>
+		<array>
+			<string>Parler à voix basse</string>
+			<string></string>
+			<string>SUSURRER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Possédés jadis</string>
+			<string>Implorée</string>
+			<string>EUS</string>
+			<string>PRIEE</string>
+		</array>
+		<array>
+			<string>Possédés jadis</string>
+			<string>Vu en passant</string>
+			<string>EUS</string>
+			<string>APERCU</string>
+		</array>
+		<array>
+			<string>Possédés jadis</string>
+			<string>Partisans d'Adolf</string>
+			<string>EUS</string>
+			<string>SS</string>
+		</array>
+	</array>
+</array>
+</plist>

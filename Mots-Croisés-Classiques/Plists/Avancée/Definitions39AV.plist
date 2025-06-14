@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Aspects</string>
+			<string>Mesure des facultés mentales</string>
+			<string>PHYSIONOMIES</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Interjection</string>
+			<string>PHYSIONOMIES</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Devise</string>
+			<string>PHYSIONOMIES</string>
+			<string>YUAN</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Sans voix</string>
+			<string>PHYSIONOMIES</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Vierges ou Marquises</string>
+			<string>PHYSIONOMIES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string></string>
+			<string>PHYSIONOMIES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Tatami</string>
+			<string>PHYSIONOMIES</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>PHYSIONOMIES</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Beaucoup d&apos;octets</string>
+			<string>PHYSIONOMIES</string>
+			<string>MO</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Déesse de la mer</string>
+			<string>PHYSIONOMIES</string>
+			<string>INO</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Exerce un charme</string>
+			<string>PHYSIONOMIES</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Aspects</string>
+			<string>Pour elle</string>
+			<string>PHYSIONOMIES</string>
+			<string>SA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Niveau</string>
+			<string>Mesure des facultés mentales</string>
+			<string>SEUIL</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Niveau</string>
+			<string>Interjection</string>
+			<string>SEUIL</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string>Niveau</string>
+			<string>Devise</string>
+			<string>SEUIL</string>
+			<string>YUAN</string>
+		</array>
+		<array>
+			<string>Niveau</string>
+			<string>Sans voix</string>
+			<string>SEUIL</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Niveau</string>
+			<string>Vierges ou Marquises</string>
+			<string>SEUIL</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bafouilla</string>
+			<string>Tatami</string>
+			<string>ANONNA</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string>Bafouilla</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>ANONNA</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string>Bafouilla</string>
+			<string>Beaucoup d&apos;octets</string>
+			<string>ANONNA</string>
+			<string>MO</string>
+		</array>
+		<array>
+			<string>Bafouilla</string>
+			<string>Déesse de la mer</string>
+			<string>ANONNA</string>
+			<string>INO</string>
+		</array>
+		<array>
+			<string>Bafouilla</string>
+			<string>Exerce un charme</string>
+			<string>ANONNA</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Bafouilla</string>
+			<string>Pour elle</string>
+			<string>ANONNA</string>
+			<string>SA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Mesure des facultés mentales</string>
+			<string>Y</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sur le qui-vive</string>
+			<string>Devise</string>
+			<string>ALERTE</string>
+			<string>YUAN</string>
+		</array>
+		<array>
+			<string>Sur le qui-vive</string>
+			<string>Sans voix</string>
+			<string>ALERTE</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Sur le qui-vive</string>
+			<string>Vierges ou Marquises</string>
+			<string>ALERTE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Sur le qui-vive</string>
+			<string></string>
+			<string>ALERTE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Sur le qui-vive</string>
+			<string>Tatami</string>
+			<string>ALERTE</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string>Sur le qui-vive</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>ALERTE</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ennui</string>
+			<string>Déesse de la mer</string>
+			<string>OS</string>
+			<string>INO</string>
+		</array>
+		<array>
+			<string>Ennui</string>
+			<string>Exerce un charme</string>
+			<string>OS</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Palmipèdes</string>
+			<string>Mesure des facultés mentales</string>
+			<string>CANES</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Palmipèdes</string>
+			<string>De l&apos;argent</string>
+			<string>CANES</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string>Palmipèdes</string>
+			<string>Devise</string>
+			<string>CANES</string>
+			<string>YUAN</string>
+		</array>
+		<array>
+			<string>Palmipèdes</string>
+			<string>Sans voix</string>
+			<string>CANES</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Palmipèdes</string>
+			<string>Vierges ou Marquises</string>
+			<string>CANES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sélection</string>
+			<string>Tatami</string>
+			<string>TRI</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string>Sélection</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>TRI</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string>Sélection</string>
+			<string>Eux</string>
+			<string>TRI</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parlé en Provence</string>
+			<string>Exerce un charme</string>
+			<string>OC</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Parlé en Provence</string>
+			<string>Rugueuses</string>
+			<string>OC</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mercure</string>
+			<string>Mesure des facultés mentales</string>
+			<string>HG</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Mercure</string>
+			<string>De l&apos;argent</string>
+			<string>HG</string>
+			<string>AG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sans voix</string>
+			<string>N</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string>Décors bretons</string>
+			<string>REELIRA</string>
+			<string>RIAS</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string>Tatami</string>
+			<string>REELIRA</string>
+			<string>NATTE</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>REELIRA</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string>Eux</string>
+			<string>REELIRA</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string></string>
+			<string>REELIRA</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string>Exerce un charme</string>
+			<string>REELIRA</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Remettra en place</string>
+			<string>Rugueuses</string>
+			<string>REELIRA</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Mesure des facultés mentales</string>
+			<string>O</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cousine de la myrtille</string>
+			<string>C&apos;est un pro</string>
+			<string>ACAI</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Cousine de la myrtille</string>
+			<string>Sans voix</string>
+			<string>ACAI</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Cousine de la myrtille</string>
+			<string>Actinium</string>
+			<string>ACAI</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Cousine de la myrtille</string>
+			<string>Décors bretons</string>
+			<string>ACAI</string>
+			<string>RIAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>En Russie et même en URSS</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>US</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string>En Russie et même en URSS</string>
+			<string>Eux</string>
+			<string>US</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chef de clan</string>
+			<string>Exerce un charme</string>
+			<string>CL</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Chef de clan</string>
+			<string>Rugueuses</string>
+			<string>CL</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Mesure des facultés mentales</string>
+			<string>MUSICAUX</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Ordinaires</string>
+			<string>MUSICAUX</string>
+			<string>USUELS</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>C&apos;est un pro</string>
+			<string>MUSICAUX</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Sans voix</string>
+			<string>MUSICAUX</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Actinium</string>
+			<string>MUSICAUX</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Décors bretons</string>
+			<string>MUSICAUX</string>
+			<string>RIAS</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Page</string>
+			<string>MUSICAUX</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Mélodieux</string>
+			<string>Qui fait sortir du liquide</string>
+			<string>MUSICAUX</string>
+			<string>ONEREUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Arrêt</string>
+			<string>Cueillir sans ménagement</string>
+			<string>GEL</string>
+			<string>GAULER</string>
+		</array>
+		<array>
+			<string>Arrêt</string>
+			<string>Exerce un charme</string>
+			<string>GEL</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Arrêt</string>
+			<string>Rugueuses</string>
+			<string>GEL</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Mesure des facultés mentales</string>
+			<string>ES</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Ordinaires</string>
+			<string>ES</string>
+			<string>USUELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sans voix</string>
+			<string>E</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A moitié Snob</string>
+			<string>Décors bretons</string>
+			<string>SN</string>
+			<string>RIAS</string>
+		</array>
+		<array>
+			<string>A moitié Snob</string>
+			<string>Page</string>
+			<string>SN</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Très cher</string>
+			<string>Manière d&apos;être</string>
+			<string>SALE</string>
+			<string>SOIS</string>
+		</array>
+		<array>
+			<string>Très cher</string>
+			<string>Cueillir sans ménagement</string>
+			<string>SALE</string>
+			<string>GAULER</string>
+		</array>
+		<array>
+			<string>Très cher</string>
+			<string>Exerce un charme</string>
+			<string>SALE</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Très cher</string>
+			<string>Rugueuses</string>
+			<string>SALE</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sbire</string>
+			<string>Mesure des facultés mentales</string>
+			<string>TUEUR</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Sbire</string>
+			<string>Ordinaires</string>
+			<string>TUEUR</string>
+			<string>USUELS</string>
+		</array>
+		<array>
+			<string>Sbire</string>
+			<string>Existes</string>
+			<string>TUEUR</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Sbire</string>
+			<string>Sans voix</string>
+			<string>TUEUR</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Sbire</string>
+			<string>Niveau social</string>
+			<string>TUEUR</string>
+			<string>RANG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Aiguisé avec soin</string>
+			<string>Page</string>
+			<string>EMOULU</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Aiguisé avec soin</string>
+			<string>Se donne facilement</string>
+			<string>EMOULU</string>
+			<string>MAIN</string>
+		</array>
+		<array>
+			<string>Aiguisé avec soin</string>
+			<string>Manière d&apos;être</string>
+			<string>EMOULU</string>
+			<string>SOIS</string>
+		</array>
+		<array>
+			<string>Aiguisé avec soin</string>
+			<string>Cueillir sans ménagement</string>
+			<string>EMOULU</string>
+			<string>GAULER</string>
+		</array>
+		<array>
+			<string>Aiguisé avec soin</string>
+			<string>Exerce un charme</string>
+			<string>EMOULU</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Aiguisé avec soin</string>
+			<string>Rugueuses</string>
+			<string>EMOULU</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Retour en mer</string>
+			<string>Mesure des facultés mentales</string>
+			<string>RESSAC</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Retour en mer</string>
+			<string>Ordinaires</string>
+			<string>RESSAC</string>
+			<string>USUELS</string>
+		</array>
+		<array>
+			<string>Retour en mer</string>
+			<string>Existes</string>
+			<string>RESSAC</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Retour en mer</string>
+			<string>Sans voix</string>
+			<string>RESSAC</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Retour en mer</string>
+			<string>Niveau social</string>
+			<string>RESSAC</string>
+			<string>RANG</string>
+		</array>
+		<array>
+			<string>Retour en mer</string>
+			<string>Disque en voie de disparition</string>
+			<string>RESSAC</string>
+			<string>CD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elytres de hanneton</string>
+			<string>Se donne facilement</string>
+			<string>AILES</string>
+			<string>MAIN</string>
+		</array>
+		<array>
+			<string>Elytres de hanneton</string>
+			<string>Manière d&apos;être</string>
+			<string>AILES</string>
+			<string>SOIS</string>
+		</array>
+		<array>
+			<string>Elytres de hanneton</string>
+			<string>Cueillir sans ménagement</string>
+			<string>AILES</string>
+			<string>GAULER</string>
+		</array>
+		<array>
+			<string>Elytres de hanneton</string>
+			<string>Exerce un charme</string>
+			<string>AILES</string>
+			<string>ENSORCELLE</string>
+		</array>
+		<array>
+			<string>Elytres de hanneton</string>
+			<string>Rugueuses</string>
+			<string>AILES</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Queue de persil</string>
+			<string>Mesure des facultés mentales</string>
+			<string>IL</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Queue de persil</string>
+			<string>Ordinaires</string>
+			<string>IL</string>
+			<string>USUELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Sans voix</string>
+			<string>ENDUISE</string>
+			<string>SILENCIEUSE</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Niveau social</string>
+			<string>ENDUISE</string>
+			<string>RANG</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Disque en voie de disparition</string>
+			<string>ENDUISE</string>
+			<string>CD</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Cité bien fouillée</string>
+			<string>ENDUISE</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Se donne facilement</string>
+			<string>ENDUISE</string>
+			<string>MAIN</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Manière d&apos;être</string>
+			<string>ENDUISE</string>
+			<string>SOIS</string>
+		</array>
+		<array>
+			<string>Applique un revêtement</string>
+			<string>Cueillir sans ménagement</string>
+			<string>ENDUISE</string>
+			<string>GAULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rugueuses</string>
+			<string>E</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rougit le matin</string>
+			<string>Mesure des facultés mentales</string>
+			<string>EST</string>
+			<string>PSYCHOMETRIE</string>
+		</array>
+		<array>
+			<string>Rougit le matin</string>
+			<string>Ordinaires</string>
+			<string>EST</string>
+			<string>USUELS</string>
+		</array>
+		<array>
+			<string>Rougit le matin</string>
+			<string></string>
+			<string>EST</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Niveau social</string>
+			<string>G</string>
+			<string>RANG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Axe routier</string>
+			<string>Cité bien fouillée</string>
+			<string>RN</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string>Axe routier</string>
+			<string>Se donne facilement</string>
+			<string>RN</string>
+			<string>MAIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avant le bol</string>
+			<string>Cueillir sans ménagement</string>
+			<string>RAS</string>
+			<string>GAULER</string>
+		</array>
+		<array>
+			<string>Avant le bol</string>
+			<string></string>
+			<string>RAS</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Avant le bol</string>
+			<string>Rugueuses</string>
+			<string>RAS</string>
+			<string>CALLEUSES</string>
+		</array>
+	</array>
+</array>
+</plist>

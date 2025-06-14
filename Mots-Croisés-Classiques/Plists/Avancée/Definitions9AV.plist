@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Redonner vie à un champ</string>
+			<string>REBARBATIVES</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Plongea dans l’embarras</string>
+			<string>REBARBATIVES</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Décors</string>
+			<string>REBARBATIVES</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Tête odorante</string>
+			<string>REBARBATIVES</string>
+			<string>AIL</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string></string>
+			<string>REBARBATIVES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Parfois de poudre</string>
+			<string>REBARBATIVES</string>
+			<string>BARIL</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Unité cosmique</string>
+			<string>REBARBATIVES</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Fauchée</string>
+			<string>REBARBATIVES</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Fit entrer discrètement</string>
+			<string>REBARBATIVES</string>
+			<string>INSERA</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Actions de serrer</string>
+			<string>REBARBATIVES</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Rebelle basque</string>
+			<string>REBARBATIVES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Sans attrait</string>
+			<string>Fanatique</string>
+			<string>REBARBATIVES</string>
+			<string>SEIDE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Effervescence</string>
+			<string>Redonner vie à un champ</string>
+			<string>EMOI</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Effervescence</string>
+			<string>Plongea dans l’embarras</string>
+			<string>EMOI</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>Effervescence</string>
+			<string>Décors</string>
+			<string>EMOI</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Effervescence</string>
+			<string>Tête odorante</string>
+			<string>EMOI</string>
+			<string>AIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Parfois de poudre</string>
+			<string>ALUNITE</string>
+			<string>BARIL</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Unité cosmique</string>
+			<string>ALUNITE</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Fauchée</string>
+			<string>ALUNITE</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Fit entrer discrètement</string>
+			<string>ALUNITE</string>
+			<string>INSERA</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Actions de serrer</string>
+			<string>ALUNITE</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Rebelle basque</string>
+			<string>ALUNITE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Sulfate basique</string>
+			<string>Fanatique</string>
+			<string>ALUNITE</string>
+			<string>SEIDE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Faire usage de cire</string>
+			<string>Redonner vie à un champ</string>
+			<string>EPILER</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Faire usage de cire</string>
+			<string>Plongea dans l’embarras</string>
+			<string>EPILER</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>Faire usage de cire</string>
+			<string>Décors</string>
+			<string>EPILER</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Faire usage de cire</string>
+			<string>Tête odorante</string>
+			<string>EPILER</string>
+			<string>AIL</string>
+		</array>
+		<array>
+			<string>Faire usage de cire</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>EPILER</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Faire usage de cire</string>
+			<string>Parfois de poudre</string>
+			<string>EPILER</string>
+			<string>BARIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exercice littéraire</string>
+			<string>Fauchée</string>
+			<string>ESSAI</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string>Exercice littéraire</string>
+			<string>Fit entrer discrètement</string>
+			<string>ESSAI</string>
+			<string>INSERA</string>
+		</array>
+		<array>
+			<string>Exercice littéraire</string>
+			<string>Actions de serrer</string>
+			<string>ESSAI</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Exercice littéraire</string>
+			<string>Rebelle basque</string>
+			<string>ESSAI</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Exercice littéraire</string>
+			<string>Fanatique</string>
+			<string>ESSAI</string>
+			<string>SEIDE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>S’ajoutent au monde</string>
+			<string>Redonner vie à un champ</string>
+			<string>NES</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>S’ajoutent au monde</string>
+			<string>Plongea dans l’embarras</string>
+			<string>NES</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>S’ajoutent au monde</string>
+			<string>Décors</string>
+			<string>NES</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ondes de vent</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>RISEES</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Ondes de vent</string>
+			<string>Parfois de poudre</string>
+			<string>RISEES</string>
+			<string>BARIL</string>
+		</array>
+		<array>
+			<string>Ondes de vent</string>
+			<string>Centre d’un groupe</string>
+			<string>RISEES</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string>Ondes de vent</string>
+			<string>Fauchée</string>
+			<string>RISEES</string>
+			<string>TUEE</string>
+		</array>
+		<array>
+			<string>Ondes de vent</string>
+			<string>Fit entrer discrètement</string>
+			<string>RISEES</string>
+			<string>INSERA</string>
+		</array>
+		<array>
+			<string>Ondes de vent</string>
+			<string>Actions de serrer</string>
+			<string>RISEES</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fanatique</string>
+			<string>D</string>
+			<string>SEIDE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Redonner vie à un champ</string>
+			<string>STERILE</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Plongea dans l’embarras</string>
+			<string>STERILE</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Décors</string>
+			<string>STERILE</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Reprit du service</string>
+			<string>STERILE</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>STERILE</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Parfois de poudre</string>
+			<string>STERILE</string>
+			<string>BARIL</string>
+		</array>
+		<array>
+			<string>Impuissant à créer</string>
+			<string>Centre d’un groupe</string>
+			<string>STERILE</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Est mortel</string>
+			<string>Fit entrer discrètement</string>
+			<string>RASE</string>
+			<string>INSERA</string>
+		</array>
+		<array>
+			<string>Est mortel</string>
+			<string>Actions de serrer</string>
+			<string>RASE</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Est mortel</string>
+			<string>Donnez de la force</string>
+			<string>RASE</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Est mortel</string>
+			<string>Fanatique</string>
+			<string>RASE</string>
+			<string>SEIDE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vitesses de fin de course</string>
+			<string>Redonner vie à un champ</string>
+			<string>ERRES</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Vitesses de fin de course</string>
+			<string>Plongea dans l’embarras</string>
+			<string>ERRES</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>Vitesses de fin de course</string>
+			<string>Décors</string>
+			<string>ERRES</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Vitesses de fin de course</string>
+			<string>Reprit du service</string>
+			<string>ERRES</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Vitesses de fin de course</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>ERRES</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Forme adulte</string>
+			<string>Centre d’un groupe</string>
+			<string>IMAGO</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string>Forme adulte</string>
+			<string>Isoleras</string>
+			<string>IMAGO</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string>Forme adulte</string>
+			<string>Fit entrer discrètement</string>
+			<string>IMAGO</string>
+			<string>INSERA</string>
+		</array>
+		<array>
+			<string>Forme adulte</string>
+			<string>Actions de serrer</string>
+			<string>IMAGO</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Forme adulte</string>
+			<string>Donnez de la force</string>
+			<string>IMAGO</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Point retiré</string>
+			<string>Redonner vie à un champ</string>
+			<string>MAINTENU</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Plongea dans l’embarras</string>
+			<string>MAINTENU</string>
+			<string>EMPETRA</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Décors</string>
+			<string>MAINTENU</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Reprit du service</string>
+			<string>MAINTENU</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>MAINTENU</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Défraîchie</string>
+			<string>MAINTENU</string>
+			<string>ELIMEE</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Centre d’un groupe</string>
+			<string>MAINTENU</string>
+			<string>SEIN</string>
+		</array>
+		<array>
+			<string>Point retiré</string>
+			<string>Isoleras</string>
+			<string>MAINTENU</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Floués</string>
+			<string>Actions de serrer</string>
+			<string>EUS</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Floués</string>
+			<string>Donnez de la force</string>
+			<string>EUS</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Floués</string>
+			<string>Raisonnable</string>
+			<string>EUS</string>
+			<string>SENSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Redonner vie à un champ</string>
+			<string>E</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne dépasse personne</string>
+			<string>Décors</string>
+			<string>EGAL</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Ne dépasse personne</string>
+			<string>Reprit du service</string>
+			<string>EGAL</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Ne dépasse personne</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>EGAL</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Ne dépasse personne</string>
+			<string>Défraîchie</string>
+			<string>EGAL</string>
+			<string>ELIMEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pour le dernier</string>
+			<string>Isoleras</string>
+			<string>RESTE</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string>Pour le dernier</string>
+			<string>Fait sortir de terre</string>
+			<string>RESTE</string>
+			<string>ERIGE</string>
+		</array>
+		<array>
+			<string>Pour le dernier</string>
+			<string>Actions de serrer</string>
+			<string>RESTE</string>
+			<string>VISSAGES</string>
+		</array>
+		<array>
+			<string>Pour le dernier</string>
+			<string>Donnez de la force</string>
+			<string>RESTE</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Pour le dernier</string>
+			<string>Raisonnable</string>
+			<string>RESTE</string>
+			<string>SENSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Redonner vie à un champ</string>
+			<string>NASALISER</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Coiffure</string>
+			<string>NASALISER</string>
+			<string>AFRO</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Décors</string>
+			<string>NASALISER</string>
+			<string>BOISERIES</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Reprit du service</string>
+			<string>NASALISER</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>NASALISER</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Défraîchie</string>
+			<string>NASALISER</string>
+			<string>ELIMEE</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Terre à vase</string>
+			<string>NASALISER</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Isoleras</string>
+			<string>NASALISER</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string>Amener une résonance</string>
+			<string>Fait sortir de terre</string>
+			<string>NASALISER</string>
+			<string>ERIGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Queue de chien</string>
+			<string>Donnez de la force</string>
+			<string>EN</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Queue de chien</string>
+			<string>Raisonnable</string>
+			<string>EN</string>
+			<string>SENSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Envoie à la référence</string>
+			<string>Redonner vie à un champ</string>
+			<string>CF</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Envoie à la référence</string>
+			<string>Coiffure</string>
+			<string>CF</string>
+			<string>AFRO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Reprit du service</string>
+			<string>GEMIRIONS</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Ressemble à une ouvrière</string>
+			<string>GEMIRIONS</string>
+			<string>ERISTALE</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Défraîchie</string>
+			<string>GEMIRIONS</string>
+			<string>ELIMEE</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Terre à vase</string>
+			<string>GEMIRIONS</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Isoleras</string>
+			<string>GEMIRIONS</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Fait sortir de terre</string>
+			<string>GEMIRIONS</string>
+			<string>ERIGE</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Volontiers</string>
+			<string>GEMIRIONS</string>
+			<string>OUI</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Donnez de la force</string>
+			<string>GEMIRIONS</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Grincions</string>
+			<string>Raisonnable</string>
+			<string>GEMIRIONS</string>
+			<string>SENSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vagabonde</string>
+			<string>Redonner vie à un champ</string>
+			<string>ERRE</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Vagabonde</string>
+			<string>Coiffure</string>
+			<string>ERRE</string>
+			<string>AFRO</string>
+		</array>
+		<array>
+			<string>Vagabonde</string>
+			<string>Roman de Kim Thúy</string>
+			<string>ERRE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Vagabonde</string>
+			<string>Reprit du service</string>
+			<string>ERRE</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Défraîchie</string>
+			<string>ELAGUEE</string>
+			<string>ELIMEE</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Terre à vase</string>
+			<string>ELAGUEE</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Isoleras</string>
+			<string>ELAGUEE</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Fait sortir de terre</string>
+			<string>ELAGUEE</string>
+			<string>ERIGE</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Volontiers</string>
+			<string>ELAGUEE</string>
+			<string>OUI</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Donnez de la force</string>
+			<string>ELAGUEE</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Coupée pour aérer</string>
+			<string>Raisonnable</string>
+			<string>ELAGUEE</string>
+			<string>SENSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans la machine</string>
+			<string>Redonner vie à un champ</string>
+			<string>ROUAGE</string>
+			<string>REENSEMENCER</string>
+		</array>
+		<array>
+			<string>Dans la machine</string>
+			<string>Coiffure</string>
+			<string>ROUAGE</string>
+			<string>AFRO</string>
+		</array>
+		<array>
+			<string>Dans la machine</string>
+			<string>Roman de Kim Thúy</string>
+			<string>ROUAGE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Dans la machine</string>
+			<string>Reprit du service</string>
+			<string>ROUAGE</string>
+			<string>RENGAGEA</string>
+		</array>
+		<array>
+			<string>Dans la machine</string>
+			<string></string>
+			<string>ROUAGE</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Dans la machine</string>
+			<string>Défraîchie</string>
+			<string>ROUAGE</string>
+			<string>ELIMEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ce Louis fut décapité</string>
+			<string>Isoleras</string>
+			<string>SEIZE</string>
+			<string>MURERAS</string>
+		</array>
+		<array>
+			<string>Ce Louis fut décapité</string>
+			<string>Fait sortir de terre</string>
+			<string>SEIZE</string>
+			<string>ERIGE</string>
+		</array>
+		<array>
+			<string>Ce Louis fut décapité</string>
+			<string>Volontiers</string>
+			<string>SEIZE</string>
+			<string>OUI</string>
+		</array>
+		<array>
+			<string>Ce Louis fut décapité</string>
+			<string>Donnez de la force</string>
+			<string>SEIZE</string>
+			<string>SOUTENEZ</string>
+		</array>
+		<array>
+			<string>Ce Louis fut décapité</string>
+			<string>Raisonnable</string>
+			<string>SEIZE</string>
+			<string>SENSEE</string>
+		</array>
+	</array>
+</array>
+</plist>

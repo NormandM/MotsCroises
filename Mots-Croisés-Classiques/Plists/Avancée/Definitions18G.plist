@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Élocution hésitante</string>
+			<string>BACCALAUREAT</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Perdre la propriété</string>
+			<string>BACCALAUREAT</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Noyau fermé</string>
+			<string>BACCALAUREAT</string>
+			<string>CLAN</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>N’est pas incisive</string>
+			<string>BACCALAUREAT</string>
+			<string>CANINE</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Possède</string>
+			<string>BACCALAUREAT</string>
+			<string>AIT</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string></string>
+			<string>BACCALAUREAT</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Objectif de l’alchimiste</string>
+			<string>BACCALAUREAT</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Fertilisant</string>
+			<string>BACCALAUREAT</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Rangea</string>
+			<string>BACCALAUREAT</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Fin de troisième</string>
+			<string>BACCALAUREAT</string>
+			<string>EME</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Baies nordiques</string>
+			<string>BACCALAUREAT</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Jamais facile à décrocher</string>
+			<string>Change de ton</string>
+			<string>BACCALAUREAT</string>
+			<string>TEINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Me rendis</string>
+			<string>Élocution hésitante</string>
+			<string>ALLAI</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Me rendis</string>
+			<string>Perdre la propriété</string>
+			<string>ALLAI</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string>Me rendis</string>
+			<string>Noyau fermé</string>
+			<string>ALLAI</string>
+			<string>CLAN</string>
+		</array>
+		<array>
+			<string>Me rendis</string>
+			<string>N’est pas incisive</string>
+			<string>ALLAI</string>
+			<string>CANINE</string>
+		</array>
+		<array>
+			<string>Me rendis</string>
+			<string>Possède</string>
+			<string>ALLAI</string>
+			<string>AIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle nous fait du mauvais sang</string>
+			<string>Objectif de l’alchimiste</string>
+			<string>UREMIE</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Elle nous fait du mauvais sang</string>
+			<string>Fertilisant</string>
+			<string>UREMIE</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Elle nous fait du mauvais sang</string>
+			<string>Rangea</string>
+			<string>UREMIE</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Elle nous fait du mauvais sang</string>
+			<string>Fin de troisième</string>
+			<string>UREMIE</string>
+			<string>EME</string>
+		</array>
+		<array>
+			<string>Elle nous fait du mauvais sang</string>
+			<string>Baies nordiques</string>
+			<string>UREMIE</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Elle nous fait du mauvais sang</string>
+			<string>Change de ton</string>
+			<string>UREMIE</string>
+			<string>TEINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Affables</string>
+			<string>Élocution hésitante</string>
+			<string>LIANTS</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Affables</string>
+			<string>Perdre la propriété</string>
+			<string>LIANTS</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string>Affables</string>
+			<string>Noyau fermé</string>
+			<string>LIANTS</string>
+			<string>CLAN</string>
+		</array>
+		<array>
+			<string>Affables</string>
+			<string>N’est pas incisive</string>
+			<string>LIANTS</string>
+			<string>CANINE</string>
+		</array>
+		<array>
+			<string>Affables</string>
+			<string>Possède</string>
+			<string>LIANTS</string>
+			<string>AIT</string>
+		</array>
+		<array>
+			<string>Affables</string>
+			<string>Traduit une joie</string>
+			<string>LIANTS</string>
+			<string>SOURI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Compagnon du verrier</string>
+			<string>Fertilisant</string>
+			<string>EMERI</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>Compagnon du verrier</string>
+			<string>Rangea</string>
+			<string>EMERI</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Compagnon du verrier</string>
+			<string>Fin de troisième</string>
+			<string>EMERI</string>
+			<string>EME</string>
+		</array>
+		<array>
+			<string>Compagnon du verrier</string>
+			<string>Baies nordiques</string>
+			<string>EMERI</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Compagnon du verrier</string>
+			<string>Change de ton</string>
+			<string>EMERI</string>
+			<string>TEINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Aimé des dieux</string>
+			<string>Élocution hésitante</string>
+			<string>BENI</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Aimé des dieux</string>
+			<string>Perdre la propriété</string>
+			<string>BENI</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string>Aimé des dieux</string>
+			<string>Noyau fermé</string>
+			<string>BENI</string>
+			<string>CLAN</string>
+		</array>
+		<array>
+			<string>Aimé des dieux</string>
+			<string>N’est pas incisive</string>
+			<string>BENI</string>
+			<string>CANINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A filé doux</string>
+			<string>Traduit une joie</string>
+			<string>OBEI</string>
+			<string>SOURI</string>
+		</array>
+		<array>
+			<string>A filé doux</string>
+			<string>Ouverture</string>
+			<string>OBEI</string>
+			<string>BEANCE</string>
+		</array>
+		<array>
+			<string>A filé doux</string>
+			<string>Fertilisant</string>
+			<string>OBEI</string>
+			<string>UREE</string>
+		</array>
+		<array>
+			<string>A filé doux</string>
+			<string>Rangea</string>
+			<string>OBEI</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Indique une période</string>
+			<string>Baies nordiques</string>
+			<string>EN</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Indique une période</string>
+			<string>Change de ton</string>
+			<string>EN</string>
+			<string>TEINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Quantité</string>
+			<string>Élocution hésitante</string>
+			<string>UN</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Quantité</string>
+			<string>Perdre la propriété</string>
+			<string>UN</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pris à la gorge</string>
+			<string>N’est pas incisive</string>
+			<string>NOUE</string>
+			<string>CANINE</string>
+		</array>
+		<array>
+			<string>Pris à la gorge</string>
+			<string>Fis disparaître</string>
+			<string>NOUE</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string>Pris à la gorge</string>
+			<string>Traduit une joie</string>
+			<string>NOUE</string>
+			<string>SOURI</string>
+		</array>
+		<array>
+			<string>Pris à la gorge</string>
+			<string>Ouverture</string>
+			<string>NOUE</string>
+			<string>BEANCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Portent tout</string>
+			<string>Rangea</string>
+			<string>SOLS</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Portent tout</string>
+			<string>Maladie de la vigne</string>
+			<string>SOLS</string>
+			<string>OIDIUM</string>
+		</array>
+		<array>
+			<string>Portent tout</string>
+			<string>Baies nordiques</string>
+			<string>SOLS</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Portent tout</string>
+			<string>Change de ton</string>
+			<string>SOLS</string>
+			<string>TEINS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Élocution hésitante</string>
+			<string>TELETRAVAIL</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Perdre la propriété</string>
+			<string>TELETRAVAIL</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>En tête du peloton</string>
+			<string>TELETRAVAIL</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>N’est pas incisive</string>
+			<string>TELETRAVAIL</string>
+			<string>CANINE</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Fis disparaître</string>
+			<string>TELETRAVAIL</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Traduit une joie</string>
+			<string>TELETRAVAIL</string>
+			<string>SOURI</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Ouverture</string>
+			<string>TELETRAVAIL</string>
+			<string>BEANCE</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Percevrait</string>
+			<string>TELETRAVAIL</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Rangea</string>
+			<string>TELETRAVAIL</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Maladie de la vigne</string>
+			<string>TELETRAVAIL</string>
+			<string>OIDIUM</string>
+		</array>
+		<array>
+			<string>Activité à distance</string>
+			<string>Baies nordiques</string>
+			<string>TELETRAVAIL</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Emportait bien des gens</string>
+			<string>Élocution hésitante</string>
+			<string>IRE</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Emportait bien des gens</string>
+			<string>Perdre la propriété</string>
+			<string>IRE</string>
+			<string>ALIENER</string>
+		</array>
+		<array>
+			<string>Emportait bien des gens</string>
+			<string>En tête du peloton</string>
+			<string>IRE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A ouvert la voie</string>
+			<string>Fis disparaître</string>
+			<string>AINE</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string>A ouvert la voie</string>
+			<string>Traduit une joie</string>
+			<string>AINE</string>
+			<string>SOURI</string>
+		</array>
+		<array>
+			<string>A ouvert la voie</string>
+			<string>Ouverture</string>
+			<string>AINE</string>
+			<string>BEANCE</string>
+		</array>
+		<array>
+			<string>A ouvert la voie</string>
+			<string>Percevrait</string>
+			<string>AINE</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Éléments de jeu</string>
+			<string>Maladie de la vigne</string>
+			<string>DES</string>
+			<string>OIDIUM</string>
+		</array>
+		<array>
+			<string>Éléments de jeu</string>
+			<string>Baies nordiques</string>
+			<string>DES</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Éléments de jeu</string>
+			<string>Désaccoutume</string>
+			<string>DES</string>
+			<string>SEVRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Élocution hésitante</string>
+			<string>E</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Proche</string>
+			<string>En tête du peloton</string>
+			<string>AMI</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string>Proche</string>
+			<string>Claques</string>
+			<string>AMI</string>
+			<string>MEURS</string>
+		</array>
+		<array>
+			<string>Proche</string>
+			<string>Fis disparaître</string>
+			<string>AMI</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traversé</string>
+			<string>Ouverture</string>
+			<string>CROISE</string>
+			<string>BEANCE</string>
+		</array>
+		<array>
+			<string>Traversé</string>
+			<string>Percevrait</string>
+			<string>CROISE</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string>Traversé</string>
+			<string>Douleur auriculaire</string>
+			<string>CROISE</string>
+			<string>OTITE</string>
+		</array>
+		<array>
+			<string>Traversé</string>
+			<string>Maladie de la vigne</string>
+			<string>CROISE</string>
+			<string>OIDIUM</string>
+		</array>
+		<array>
+			<string>Traversé</string>
+			<string>Baies nordiques</string>
+			<string>CROISE</string>
+			<string>AIRELLES</string>
+		</array>
+		<array>
+			<string>Traversé</string>
+			<string>Désaccoutume</string>
+			<string>CROISE</string>
+			<string>SEVRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ancien Perse</string>
+			<string>Élocution hésitante</string>
+			<string>MEDE</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Ancien Perse</string>
+			<string>Appui temporaire</string>
+			<string>MEDE</string>
+			<string>ETAI</string>
+		</array>
+		<array>
+			<string>Ancien Perse</string>
+			<string>En tête du peloton</string>
+			<string>MEDE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string>Ancien Perse</string>
+			<string>Claques</string>
+			<string>MEDE</string>
+			<string>MEURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grande qualité</string>
+			<string>Parfois solitaire</string>
+			<string>VERTU</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string>Grande qualité</string>
+			<string>Ouverture</string>
+			<string>VERTU</string>
+			<string>BEANCE</string>
+		</array>
+		<array>
+			<string>Grande qualité</string>
+			<string>Percevrait</string>
+			<string>VERTU</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string>Grande qualité</string>
+			<string>Douleur auriculaire</string>
+			<string>VERTU</string>
+			<string>OTITE</string>
+		</array>
+		<array>
+			<string>Grande qualité</string>
+			<string>Maladie de la vigne</string>
+			<string>VERTU</string>
+			<string>OIDIUM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Désaccoutume</string>
+			<string>V</string>
+			<string>SEVRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Résidu de moisson</string>
+			<string>Élocution hésitante</string>
+			<string>ETEULE</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Résidu de moisson</string>
+			<string>Appui temporaire</string>
+			<string>ETEULE</string>
+			<string>ETAI</string>
+		</array>
+		<array>
+			<string>Résidu de moisson</string>
+			<string>En tête du peloton</string>
+			<string>ETEULE</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string>Résidu de moisson</string>
+			<string>Claques</string>
+			<string>ETEULE</string>
+			<string>MEURS</string>
+		</array>
+		<array>
+			<string>Résidu de moisson</string>
+			<string>Circule en Roumanie</string>
+			<string>ETEULE</string>
+			<string>LEU</string>
+		</array>
+		<array>
+			<string>Résidu de moisson</string>
+			<string>Parfois solitaire</string>
+			<string>ETEULE</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avoir dans la peau</string>
+			<string>Percevrait</string>
+			<string>AIMER</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string>Avoir dans la peau</string>
+			<string>Douleur auriculaire</string>
+			<string>AIMER</string>
+			<string>OTITE</string>
+		</array>
+		<array>
+			<string>Avoir dans la peau</string>
+			<string>Maladie de la vigne</string>
+			<string>AIMER</string>
+			<string>OIDIUM</string>
+		</array>
+		<array>
+			<string>Avoir dans la peau</string>
+			<string>Certains l’aiment chaud</string>
+			<string>AIMER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Avoir dans la peau</string>
+			<string>Désaccoutume</string>
+			<string>AIMER</string>
+			<string>SEVRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Élocution hésitante</string>
+			<string>NARRERAIT</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Appui temporaire</string>
+			<string>NARRERAIT</string>
+			<string>ETAI</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>En tête du peloton</string>
+			<string>NARRERAIT</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Claques</string>
+			<string>NARRERAIT</string>
+			<string>MEURS</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Circule en Roumanie</string>
+			<string>NARRERAIT</string>
+			<string>LEU</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Parfois solitaire</string>
+			<string>NARRERAIT</string>
+			<string>VER</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Hors pair</string>
+			<string>NARRERAIT</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Percevrait</string>
+			<string>NARRERAIT</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string>Ferait le récit</string>
+			<string>Douleur auriculaire</string>
+			<string>NARRERAIT</string>
+			<string>OTITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Aide en ligne</string>
+			<string>Certains l’aiment chaud</string>
+			<string>TE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Aide en ligne</string>
+			<string>Désaccoutume</string>
+			<string>TE</string>
+			<string>SEVRER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Drap</string>
+			<string>Élocution hésitante</string>
+			<string>TISSU</string>
+			<string>BALBUTIEMENT</string>
+		</array>
+		<array>
+			<string>Drap</string>
+			<string>Appui temporaire</string>
+			<string>TISSU</string>
+			<string>ETAI</string>
+		</array>
+		<array>
+			<string>Drap</string>
+			<string>En tête du peloton</string>
+			<string>TISSU</string>
+			<string>LEADERS</string>
+		</array>
+		<array>
+			<string>Drap</string>
+			<string>Claques</string>
+			<string>TISSU</string>
+			<string>MEURS</string>
+		</array>
+		<array>
+			<string>Drap</string>
+			<string>Circule en Roumanie</string>
+			<string>TISSU</string>
+			<string>LEU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Empiler des bûches</string>
+			<string>Hors pair</string>
+			<string>STERER</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Empiler des bûches</string>
+			<string>Percevrait</string>
+			<string>STERER</string>
+			<string>VERRAIT</string>
+		</array>
+		<array>
+			<string>Empiler des bûches</string>
+			<string>Douleur auriculaire</string>
+			<string>STERER</string>
+			<string>OTITE</string>
+		</array>
+		<array>
+			<string>Empiler des bûches</string>
+			<string></string>
+			<string>STERER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Empiler des bûches</string>
+			<string>Certains l’aiment chaud</string>
+			<string>STERER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Empiler des bûches</string>
+			<string>Désaccoutume</string>
+			<string>STERER</string>
+			<string>SEVRER</string>
+		</array>
+	</array>
+</array>
+</plist>

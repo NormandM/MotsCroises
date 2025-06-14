@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Dissonnantes</string>
+			<string>DEBARCADERES</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Mer sans humeur</string>
+			<string>DEBARCADERES</string>
+			<string>ETALE</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Être entrouvert</string>
+			<string>DEBARCADERES</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Sur le déclin</string>
+			<string>DEBARCADERES</string>
+			<string>AGEE</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Reprendre du service</string>
+			<string>DEBARCADERES</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string></string>
+			<string>DEBARCADERES</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Élimine l’échange</string>
+			<string>DEBARCADERES</string>
+			<string>ACE</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Relâcher prise</string>
+			<string>DEBARCADERES</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Il n’est pas d’ici</string>
+			<string>DEBARCADERES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>DEBARCADERES</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Émoustillée</string>
+			<string>DEBARCADERES</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Zones de transit nautique</string>
+			<string>Ichor</string>
+			<string>DEBARCADERES</string>
+			<string>SANIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Se compte à la verticale</string>
+			<string>Dissonnantes</string>
+			<string>ETAGE</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Se compte à la verticale</string>
+			<string>Mer sans humeur</string>
+			<string>ETAGE</string>
+			<string>ETALE</string>
+		</array>
+		<array>
+			<string>Se compte à la verticale</string>
+			<string>Être entrouvert</string>
+			<string>ETAGE</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string>Se compte à la verticale</string>
+			<string>Sur le déclin</string>
+			<string>ETAGE</string>
+			<string>AGEE</string>
+		</array>
+		<array>
+			<string>Se compte à la verticale</string>
+			<string>Reprendre du service</string>
+			<string>ETAGE</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Instrument corse</string>
+			<string>Élimine l’échange</string>
+			<string>CETERA</string>
+			<string>ACE</string>
+		</array>
+		<array>
+			<string>Instrument corse</string>
+			<string>Relâcher prise</string>
+			<string>CETERA</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Instrument corse</string>
+			<string>Il n’est pas d’ici</string>
+			<string>CETERA</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Instrument corse</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>CETERA</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Instrument corse</string>
+			<string>Émoustillée</string>
+			<string>CETERA</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Instrument corse</string>
+			<string>Ichor</string>
+			<string>CETERA</string>
+			<string>SANIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Dissonnantes</string>
+			<string>PAIENNES</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Mer sans humeur</string>
+			<string>PAIENNES</string>
+			<string>ETALE</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Être entrouvert</string>
+			<string>PAIENNES</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Sur le déclin</string>
+			<string>PAIENNES</string>
+			<string>AGEE</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Reprendre du service</string>
+			<string>PAIENNES</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Pas roturiers</string>
+			<string>PAIENNES</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Élimine l’échange</string>
+			<string>PAIENNES</string>
+			<string>ACE</string>
+		</array>
+		<array>
+			<string>Étrangères au dogme</string>
+			<string>Relâcher prise</string>
+			<string>PAIENNES</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Atome</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>ION</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Atome</string>
+			<string>Émoustillée</string>
+			<string>ION</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Atome</string>
+			<string>Ichor</string>
+			<string>ION</string>
+			<string>SANIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Délesté</string>
+			<string>Dissonnantes</string>
+			<string>ALLEGE</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Délesté</string>
+			<string>Mer sans humeur</string>
+			<string>ALLEGE</string>
+			<string>ETALE</string>
+		</array>
+		<array>
+			<string>Délesté</string>
+			<string>Être entrouvert</string>
+			<string>ALLEGE</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string>Délesté</string>
+			<string>Sur le déclin</string>
+			<string>ALLEGE</string>
+			<string>AGEE</string>
+		</array>
+		<array>
+			<string>Délesté</string>
+			<string>Reprendre du service</string>
+			<string>ALLEGE</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string>Délesté</string>
+			<string>Pas roturiers</string>
+			<string>ALLEGE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exprimé avec sincérité</string>
+			<string>Relâcher prise</string>
+			<string>SENTI</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Exprimé avec sincérité</string>
+			<string>Rend le travail moins raide</string>
+			<string>SENTI</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Exprimé avec sincérité</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>SENTI</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Exprimé avec sincérité</string>
+			<string>Émoustillée</string>
+			<string>SENTI</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Exprimé avec sincérité</string>
+			<string>Ichor</string>
+			<string>SENTI</string>
+			<string>SANIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Queue de pétrel</string>
+			<string>Dissonnantes</string>
+			<string>REL</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Queue de pétrel</string>
+			<string>Mer sans humeur</string>
+			<string>REL</string>
+			<string>ETALE</string>
+		</array>
+		<array>
+			<string>Queue de pétrel</string>
+			<string>Être entrouvert</string>
+			<string>REL</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Reprendre du service</string>
+			<string>ASSERVIE</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Pas roturiers</string>
+			<string>ASSERVIE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Bien appris</string>
+			<string>ASSERVIE</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Relâcher prise</string>
+			<string>ASSERVIE</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Rend le travail moins raide</string>
+			<string>ASSERVIE</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>ASSERVIE</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Émoustillée</string>
+			<string>ASSERVIE</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Soumise</string>
+			<string>Ichor</string>
+			<string>ASSERVIE</string>
+			<string>SANIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Dissonnantes</string>
+			<string>E</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mer de sable</string>
+			<string>Être entrouvert</string>
+			<string>ERG</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string>Mer de sable</string>
+			<string>Frottions</string>
+			<string>ERG</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string>Mer de sable</string>
+			<string>Reprendre du service</string>
+			<string>ERG</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Forces la décision</string>
+			<string>Bien appris</string>
+			<string>URGES</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string>Forces la décision</string>
+			<string>Relâcher prise</string>
+			<string>URGES</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Forces la décision</string>
+			<string>Rend le travail moins raide</string>
+			<string>URGES</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Forces la décision</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>URGES</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Forces la décision</string>
+			<string>Émoustillée</string>
+			<string>URGES</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Jacob</string>
+			<string>Dissonnantes</string>
+			<string>ISRAEL</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Jacob</string>
+			<string>Vénérée par l’Église</string>
+			<string>ISRAEL</string>
+			<string>SAINTE</string>
+		</array>
+		<array>
+			<string>Jacob</string>
+			<string>Être entrouvert</string>
+			<string>ISRAEL</string>
+			<string>BAILLER</string>
+		</array>
+		<array>
+			<string>Jacob</string>
+			<string>Frottions</string>
+			<string>ISRAEL</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string>Jacob</string>
+			<string>Reprendre du service</string>
+			<string>ISRAEL</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string>Jacob</string>
+			<string>Rongeuse de chair</string>
+			<string>ISRAEL</string>
+			<string>LEPRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Teinter un peu</string>
+			<string>Relâcher prise</string>
+			<string>ROSER</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Teinter un peu</string>
+			<string>Rend le travail moins raide</string>
+			<string>ROSER</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Teinter un peu</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>ROSER</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Teinter un peu</string>
+			<string>Émoustillée</string>
+			<string>ROSER</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Teinter un peu</string>
+			<string>Même histoire, autre acteur</string>
+			<string>ROSER</string>
+			<string>REMAKE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Donne le ton</string>
+			<string>Dissonnantes</string>
+			<string>LA</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Donne le ton</string>
+			<string>Vénérée par l’Église</string>
+			<string>LA</string>
+			<string>SAINTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Frottions</string>
+			<string>PRESENTEE</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Reprendre du service</string>
+			<string>PRESENTEE</string>
+			<string>RENGAGER</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Rongeuse de chair</string>
+			<string>PRESENTEE</string>
+			<string>LEPRE</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Comme des harengs</string>
+			<string>PRESENTEE</string>
+			<string>SAURS</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Relâcher prise</string>
+			<string>PRESENTEE</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Rend le travail moins raide</string>
+			<string>PRESENTEE</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>PRESENTEE</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Émoustillée</string>
+			<string>PRESENTEE</string>
+			<string>EROTISEE</string>
+		</array>
+		<array>
+			<string>Mise sur le devant</string>
+			<string>Même histoire, autre acteur</string>
+			<string>PRESENTEE</string>
+			<string>REMAKE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Nouai</string>
+			<string>Dissonnantes</string>
+			<string>LIAI</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Nouai</string>
+			<string>Vénérée par l’Église</string>
+			<string>LIAI</string>
+			<string>SAINTE</string>
+		</array>
+		<array>
+			<string>Nouai</string>
+			<string>Bateau sans cale</string>
+			<string>LIAI</string>
+			<string>ACON</string>
+		</array>
+		<array>
+			<string>Nouai</string>
+			<string>Frottions</string>
+			<string>LIAI</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plan abrupt</string>
+			<string>Rongeuse de chair</string>
+			<string>PAROI</string>
+			<string>LEPRE</string>
+		</array>
+		<array>
+			<string>Plan abrupt</string>
+			<string>Comme des harengs</string>
+			<string>PAROI</string>
+			<string>SAURS</string>
+		</array>
+		<array>
+			<string>Plan abrupt</string>
+			<string>Relâcher prise</string>
+			<string>PAROI</string>
+			<string>DESSERRER</string>
+		</array>
+		<array>
+			<string>Plan abrupt</string>
+			<string>Rend le travail moins raide</string>
+			<string>PAROI</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Plan abrupt</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>PAROI</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Même histoire, autre acteur</string>
+			<string>M</string>
+			<string>REMAKE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Dissonnantes</string>
+			<string>ENCOURU</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Vénérée par l’Église</string>
+			<string>ENCOURU</string>
+			<string>SAINTE</string>
+		</array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Bateau sans cale</string>
+			<string>ENCOURU</string>
+			<string>ACON</string>
+		</array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Frottions</string>
+			<string>ENCOURU</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Manchette</string>
+			<string>ENCOURU</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Rongeuse de chair</string>
+			<string>ENCOURU</string>
+			<string>LEPRE</string>
+		</array>
+		<array>
+			<string>Mérité malgré soi</string>
+			<string>Comme des harengs</string>
+			<string>ENCOURU</string>
+			<string>SAURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Règne sur les profils</string>
+			<string>Rend le travail moins raide</string>
+			<string>META</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Règne sur les profils</string>
+			<string>Réaffectée stratégiquement</string>
+			<string>META</string>
+			<string>REINVESTIE</string>
+		</array>
+		<array>
+			<string>Règne sur les profils</string>
+			<string>Au chant du coq</string>
+			<string>META</string>
+			<string>TOT</string>
+		</array>
+		<array>
+			<string>Règne sur les profils</string>
+			<string>Même histoire, autre acteur</string>
+			<string>META</string>
+			<string>REMAKE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Dissonnantes</string>
+			<string>ETONNERAI</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Vénérée par l’Église</string>
+			<string>ETONNERAI</string>
+			<string>SAINTE</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Bateau sans cale</string>
+			<string>ETONNERAI</string>
+			<string>ACON</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Frottions</string>
+			<string>ETONNERAI</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Manchette</string>
+			<string>ETONNERAI</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Rongeuse de chair</string>
+			<string>ETONNERAI</string>
+			<string>LEPRE</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Comme des harengs</string>
+			<string>ETONNERAI</string>
+			<string>SAURS</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Édenté</string>
+			<string>ETONNERAI</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Déstabiliserai</string>
+			<string>Rend le travail moins raide</string>
+			<string>ETONNERAI</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Accord</string>
+			<string>Au chant du coq</string>
+			<string>OK</string>
+			<string>TOT</string>
+		</array>
+		<array>
+			<string>Accord</string>
+			<string>Même histoire, autre acteur</string>
+			<string>OK</string>
+			<string>REMAKE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Doué de raison</string>
+			<string>Dissonnantes</string>
+			<string>SENSE</string>
+			<string>DEPAREILLEES</string>
+		</array>
+		<array>
+			<string>Doué de raison</string>
+			<string>Vénérée par l’Église</string>
+			<string>SENSE</string>
+			<string>SAINTE</string>
+		</array>
+		<array>
+			<string>Doué de raison</string>
+			<string>Bateau sans cale</string>
+			<string>SENSE</string>
+			<string>ACON</string>
+		</array>
+		<array>
+			<string>Doué de raison</string>
+			<string>Frottions</string>
+			<string>SENSE</string>
+			<string>RAPIONS</string>
+		</array>
+		<array>
+			<string>Doué de raison</string>
+			<string>Manchette</string>
+			<string>SENSE</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Méridienne</string>
+			<string>Comme des harengs</string>
+			<string>SIESTE</string>
+			<string>SAURS</string>
+		</array>
+		<array>
+			<string>Méridienne</string>
+			<string>Édenté</string>
+			<string>SIESTE</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Méridienne</string>
+			<string>Rend le travail moins raide</string>
+			<string>SIESTE</string>
+			<string>ERGONOMIE</string>
+		</array>
+		<array>
+			<string>Méridienne</string>
+			<string></string>
+			<string>SIESTE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Méridienne</string>
+			<string>Au chant du coq</string>
+			<string>SIESTE</string>
+			<string>TOT</string>
+		</array>
+		<array>
+			<string>Méridienne</string>
+			<string>Même histoire, autre acteur</string>
+			<string>SIESTE</string>
+			<string>REMAKE</string>
+		</array>
+	</array>
+</array>
+</plist>

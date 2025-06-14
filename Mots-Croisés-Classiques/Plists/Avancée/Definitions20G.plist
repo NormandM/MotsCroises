@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Exprime le doute</string>
+			<string>INAPPLICABLE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Sans artifice</string>
+			<string>INAPPLICABLE</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Transféra un droit</string>
+			<string>INAPPLICABLE</string>
+			<string>ALIENA</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string></string>
+			<string>INAPPLICABLE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Commère</string>
+			<string>INAPPLICABLE</string>
+			<string>PIE</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Sol fertile d’origine éolienne</string>
+			<string>INAPPLICABLE</string>
+			<string>LOESS</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Tendance</string>
+			<string>INAPPLICABLE</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string></string>
+			<string>INAPPLICABLE</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Compagnon du petit-déjeuner</string>
+			<string>INAPPLICABLE</string>
+			<string>AGRUME</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Avanceras en clopinant</string>
+			<string>INAPPLICABLE</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Décodés</string>
+			<string>INAPPLICABLE</string>
+			<string>LUS</string>
+		</array>
+		<array>
+			<string>Sans pertinence</string>
+			<string>Bouleverse</string>
+			<string>INAPPLICABLE</string>
+			<string>EMEUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Maillon faible</string>
+			<string>Exprime le doute</string>
+			<string>NUL</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Maillon faible</string>
+			<string>Sans artifice</string>
+			<string>NUL</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Maillon faible</string>
+			<string>Transféra un droit</string>
+			<string>NUL</string>
+			<string>ALIENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Constituant du plasma</string>
+			<string>Commère</string>
+			<string>ION</string>
+			<string>PIE</string>
+		</array>
+		<array>
+			<string>Constituant du plasma</string>
+			<string>Sol fertile d’origine éolienne</string>
+			<string>ION</string>
+			<string>LOESS</string>
+		</array>
+		<array>
+			<string>Constituant du plasma</string>
+			<string>Tendance</string>
+			<string>ION</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Escadron tribal</string>
+			<string>Compagnon du petit-déjeuner</string>
+			<string>GOUM</string>
+			<string>AGRUME</string>
+		</array>
+		<array>
+			<string>Escadron tribal</string>
+			<string>Avanceras en clopinant</string>
+			<string>GOUM</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Escadron tribal</string>
+			<string>Décodés</string>
+			<string>GOUM</string>
+			<string>LUS</string>
+		</array>
+		<array>
+			<string>Escadron tribal</string>
+			<string>Bouleverse</string>
+			<string>GOUM</string>
+			<string>EMEUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Exprime le doute</string>
+			<string>T</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parfois fixe et parfois elle trotte</string>
+			<string>Transféra un droit</string>
+			<string>IDEE</string>
+			<string>ALIENA</string>
+		</array>
+		<array>
+			<string>Parfois fixe et parfois elle trotte</string>
+			<string>Déterminé</string>
+			<string>IDEE</string>
+			<string>DECIDE</string>
+		</array>
+		<array>
+			<string>Parfois fixe et parfois elle trotte</string>
+			<string>Commère</string>
+			<string>IDEE</string>
+			<string>PIE</string>
+		</array>
+		<array>
+			<string>Parfois fixe et parfois elle trotte</string>
+			<string>Sol fertile d’origine éolienne</string>
+			<string>IDEE</string>
+			<string>LOESS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Crépu</string>
+			<string>Symbole de prestige</string>
+			<string>FRISE</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string>Crépu</string>
+			<string>Compagnon du petit-déjeuner</string>
+			<string>FRISE</string>
+			<string>AGRUME</string>
+		</array>
+		<array>
+			<string>Crépu</string>
+			<string>Avanceras en clopinant</string>
+			<string>FRISE</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Crépu</string>
+			<string>Décodés</string>
+			<string>FRISE</string>
+			<string>LUS</string>
+		</array>
+		<array>
+			<string>Crépu</string>
+			<string>Bouleverse</string>
+			<string>FRISE</string>
+			<string>EMEUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Arme blanche</string>
+			<string>Exprime le doute</string>
+			<string>EPEE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Arme blanche</string>
+			<string>Rituel matinal au bureau</string>
+			<string>EPEE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Arme blanche</string>
+			<string>Transféra un droit</string>
+			<string>EPEE</string>
+			<string>ALIENA</string>
+		</array>
+		<array>
+			<string>Arme blanche</string>
+			<string>Déterminé</string>
+			<string>EPEE</string>
+			<string>DECIDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Échappatoire inespérée</string>
+			<string>Sol fertile d’origine éolienne</string>
+			<string>SALUT</string>
+			<string>LOESS</string>
+		</array>
+		<array>
+			<string>Échappatoire inespérée</string>
+			<string>Dévidoir</string>
+			<string>SALUT</string>
+			<string>ASPE</string>
+		</array>
+		<array>
+			<string>Échappatoire inespérée</string>
+			<string>Symbole de prestige</string>
+			<string>SALUT</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string>Échappatoire inespérée</string>
+			<string>Compagnon du petit-déjeuner</string>
+			<string>SALUT</string>
+			<string>AGRUME</string>
+		</array>
+		<array>
+			<string>Échappatoire inespérée</string>
+			<string>Avanceras en clopinant</string>
+			<string>SALUT</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Bouleverse</string>
+			<string>U</string>
+			<string>EMEUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Exprime le doute</string>
+			<string>RANCISSEMENT</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Rituel matinal au bureau</string>
+			<string>RANCISSEMENT</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Transféra un droit</string>
+			<string>RANCISSEMENT</string>
+			<string>ALIENA</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Déterminé</string>
+			<string>RANCISSEMENT</string>
+			<string>DECIDE</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Uniforme en toutes directions</string>
+			<string>RANCISSEMENT</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Sol fertile d’origine éolienne</string>
+			<string>RANCISSEMENT</string>
+			<string>LOESS</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Dévidoir</string>
+			<string>RANCISSEMENT</string>
+			<string>ASPE</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Symbole de prestige</string>
+			<string>RANCISSEMENT</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Compagnon du petit-déjeuner</string>
+			<string>RANCISSEMENT</string>
+			<string>AGRUME</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Avanceras en clopinant</string>
+			<string>RANCISSEMENT</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Viendront à la lumière</string>
+			<string>RANCISSEMENT</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Altération des graisses</string>
+			<string>Bouleverse</string>
+			<string>RANCISSEMENT</string>
+			<string>EMEUT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fonçais</string>
+			<string>Exprime le doute</string>
+			<string>RUAIS</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Fonçais</string>
+			<string>Rituel matinal au bureau</string>
+			<string>RUAIS</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Fonçais</string>
+			<string>Transféra un droit</string>
+			<string>RUAIS</string>
+			<string>ALIENA</string>
+		</array>
+		<array>
+			<string>Fonçais</string>
+			<string>Déterminé</string>
+			<string>RUAIS</string>
+			<string>DECIDE</string>
+		</array>
+		<array>
+			<string>Fonçais</string>
+			<string>Uniforme en toutes directions</string>
+			<string>RUAIS</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Empestera</string>
+			<string>Dévidoir</string>
+			<string>PUERA</string>
+			<string>ASPE</string>
+		</array>
+		<array>
+			<string>Empestera</string>
+			<string>Symbole de prestige</string>
+			<string>PUERA</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string>Empestera</string>
+			<string>Compagnon du petit-déjeuner</string>
+			<string>PUERA</string>
+			<string>AGRUME</string>
+		</array>
+		<array>
+			<string>Empestera</string>
+			<string>Avanceras en clopinant</string>
+			<string>PUERA</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Empestera</string>
+			<string>Viendront à la lumière</string>
+			<string>PUERA</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Difficulté imprévue</string>
+			<string>Exprime le doute</string>
+			<string>OS</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Difficulté imprévue</string>
+			<string>Rituel matinal au bureau</string>
+			<string>OS</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gratifier</string>
+			<string>Déterminé</string>
+			<string>DOUER</string>
+			<string>DECIDE</string>
+		</array>
+		<array>
+			<string>Gratifier</string>
+			<string>Uniforme en toutes directions</string>
+			<string>DOUER</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string>Gratifier</string>
+			<string>Fait en série</string>
+			<string>DOUER</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string>Gratifier</string>
+			<string>Dévidoir</string>
+			<string>DOUER</string>
+			<string>ASPE</string>
+		</array>
+		<array>
+			<string>Gratifier</string>
+			<string>Symbole de prestige</string>
+			<string>DOUER</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traverse Champagnole</string>
+			<string>Avanceras en clopinant</string>
+			<string>AIN</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Traverse Champagnole</string>
+			<string>Viendront à la lumière</string>
+			<string>AIN</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Traverse Champagnole</string>
+			<string>Vides absolus</string>
+			<string>AIN</string>
+			<string>NEANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Arbrisseaux d’Espagne</string>
+			<string>Exprime le doute</string>
+			<string>GENETS</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Arbrisseaux d’Espagne</string>
+			<string>Rituel matinal au bureau</string>
+			<string>GENETS</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Arbrisseaux d’Espagne</string>
+			<string>Arrivés parmi nous</string>
+			<string>GENETS</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Arbrisseaux d’Espagne</string>
+			<string>Déterminé</string>
+			<string>GENETS</string>
+			<string>DECIDE</string>
+		</array>
+		<array>
+			<string>Arbrisseaux d’Espagne</string>
+			<string>Uniforme en toutes directions</string>
+			<string>GENETS</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string>Arbrisseaux d’Espagne</string>
+			<string>Fait en série</string>
+			<string>GENETS</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dehors</string>
+			<string>Symbole de prestige</string>
+			<string>OUSTE</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string>Dehors</string>
+			<string>Employait</string>
+			<string>OUSTE</string>
+			<string>USAIT</string>
+		</array>
+		<array>
+			<string>Dehors</string>
+			<string>Avanceras en clopinant</string>
+			<string>OUSTE</string>
+			<string>BOITERAS</string>
+		</array>
+		<array>
+			<string>Dehors</string>
+			<string>Viendront à la lumière</string>
+			<string>OUSTE</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Dehors</string>
+			<string>Vides absolus</string>
+			<string>OUSTE</string>
+			<string>NEANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Envoi sans retour</string>
+			<string>Exprime le doute</string>
+			<string>ACE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Envoi sans retour</string>
+			<string>Rituel matinal au bureau</string>
+			<string>ACE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Envoi sans retour</string>
+			<string>Arrivés parmi nous</string>
+			<string>ACE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pouffons</string>
+			<string>Uniforme en toutes directions</string>
+			<string>RIONS</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string>Pouffons</string>
+			<string>Fait en série</string>
+			<string>RIONS</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string>Pouffons</string>
+			<string>Ancienne Christiania</string>
+			<string>RIONS</string>
+			<string>OSLO</string>
+		</array>
+		<array>
+			<string>Pouffons</string>
+			<string>Symbole de prestige</string>
+			<string>RIONS</string>
+			<string>FLEURON</string>
+		</array>
+		<array>
+			<string>Pouffons</string>
+			<string>Employait</string>
+			<string>RIONS</string>
+			<string>USAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Percussion brève</string>
+			<string>Viendront à la lumière</string>
+			<string>RA</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Percussion brève</string>
+			<string>Vides absolus</string>
+			<string>RA</string>
+			<string>NEANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Densifions</string>
+			<string>Exprime le doute</string>
+			<string>TASSONS</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Densifions</string>
+			<string>Rituel matinal au bureau</string>
+			<string>TASSONS</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Densifions</string>
+			<string>Arrivés parmi nous</string>
+			<string>TASSONS</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Densifions</string>
+			<string>Séquence musicale</string>
+			<string>TASSONS</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string>Densifions</string>
+			<string>Uniforme en toutes directions</string>
+			<string>TASSONS</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string>Densifions</string>
+			<string>Fait en série</string>
+			<string>TASSONS</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string>Densifions</string>
+			<string>Ancienne Christiania</string>
+			<string>TASSONS</string>
+			<string>OSLO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il est aussi têtu que sa mère</string>
+			<string>Employait</string>
+			<string>ANON</string>
+			<string>USAIT</string>
+		</array>
+		<array>
+			<string>Il est aussi têtu que sa mère</string>
+			<string>Apparue</string>
+			<string>ANON</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Il est aussi têtu que sa mère</string>
+			<string>Viendront à la lumière</string>
+			<string>ANON</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Il est aussi têtu que sa mère</string>
+			<string>Vides absolus</string>
+			<string>ANON</string>
+			<string>NEANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Île au large de Marseille</string>
+			<string>Exprime le doute</string>
+			<string>IF</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Île au large de Marseille</string>
+			<string>Rituel matinal au bureau</string>
+			<string>IF</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Séquence musicale</string>
+			<string>EPELAIENT</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Uniforme en toutes directions</string>
+			<string>EPELAIENT</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Fait en série</string>
+			<string>EPELAIENT</string>
+			<string>USINE</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Ancienne Christiania</string>
+			<string>EPELAIENT</string>
+			<string>OSLO</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Symbole</string>
+			<string>EPELAIENT</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Employait</string>
+			<string>EPELAIENT</string>
+			<string>USAIT</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Apparue</string>
+			<string>EPELAIENT</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Viendront à la lumière</string>
+			<string>EPELAIENT</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Décomposaient</string>
+			<string>Vides absolus</string>
+			<string>EPELAIENT</string>
+			<string>NEANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Interstice</string>
+			<string>Exprime le doute</string>
+			<string>FENTE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Interstice</string>
+			<string>Rituel matinal au bureau</string>
+			<string>FENTE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Interstice</string>
+			<string></string>
+			<string>FENTE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Interstice</string>
+			<string>Séquence musicale</string>
+			<string>FENTE</string>
+			<string>SET</string>
+		</array>
+		<array>
+			<string>Interstice</string>
+			<string>Uniforme en toutes directions</string>
+			<string>FENTE</string>
+			<string>ISOTROPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mesures informatiques</string>
+			<string>Ancienne Christiania</string>
+			<string>OCTETS</string>
+			<string>OSLO</string>
+		</array>
+		<array>
+			<string>Mesures informatiques</string>
+			<string>Symbole</string>
+			<string>OCTETS</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Mesures informatiques</string>
+			<string>Employait</string>
+			<string>OCTETS</string>
+			<string>USAIT</string>
+		</array>
+		<array>
+			<string>Mesures informatiques</string>
+			<string>Apparue</string>
+			<string>OCTETS</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Mesures informatiques</string>
+			<string>Viendront à la lumière</string>
+			<string>OCTETS</string>
+			<string>NAITRONT</string>
+		</array>
+		<array>
+			<string>Mesures informatiques</string>
+			<string>Vides absolus</string>
+			<string>OCTETS</string>
+			<string>NEANTS</string>
+		</array>
+	</array>
+</array>
+</plist>

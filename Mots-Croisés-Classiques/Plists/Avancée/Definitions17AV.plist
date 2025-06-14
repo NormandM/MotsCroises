@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Alambiquée</string>
+			<string>TEMPERAMENTS</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Parfois grise</string>
+			<string>TEMPERAMENTS</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Corde à pincer</string>
+			<string>TEMPERAMENTS</string>
+			<string>MI</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Le plus grand organe du corps humain</string>
+			<string>TEMPERAMENTS</string>
+			<string>PEAU</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string></string>
+			<string>TEMPERAMENTS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Triage de grains</string>
+			<string>TEMPERAMENTS</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Cancre</string>
+			<string>TEMPERAMENTS</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Forme conjuguée de mettre</string>
+			<string>TEMPERAMENTS</string>
+			<string>MISSES</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Jamais seul dans la phrase</string>
+			<string>TEMPERAMENTS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Bêtise</string>
+			<string>TEMPERAMENTS</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Elle s’ouvre au grand air</string>
+			<string>TEMPERAMENTS</string>
+			<string>TENTE</string>
+		</array>
+		<array>
+			<string>Ils colorent les caractères</string>
+			<string>Possessif</string>
+			<string>TEMPERAMENTS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Très proche</string>
+			<string>Alambiquée</string>
+			<string>AMIE</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Très proche</string>
+			<string>Parfois grise</string>
+			<string>AMIE</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Très proche</string>
+			<string>Corde à pincer</string>
+			<string>AMIE</string>
+			<string>MI</string>
+		</array>
+		<array>
+			<string>Très proche</string>
+			<string>Le plus grand organe du corps humain</string>
+			<string>AMIE</string>
+			<string>PEAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Triage de grains</string>
+			<string>INITIEE</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Cancre</string>
+			<string>INITIEE</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Forme conjuguée de mettre</string>
+			<string>INITIEE</string>
+			<string>MISSES</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Jamais seul dans la phrase</string>
+			<string>INITIEE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Bêtise</string>
+			<string>INITIEE</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Elle s’ouvre au grand air</string>
+			<string>INITIEE</string>
+			<string>TENTE</string>
+		</array>
+		<array>
+			<string>Accueillie dans le cercle</string>
+			<string>Possessif</string>
+			<string>INITIEE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Amusé</string>
+			<string>Alambiquée</string>
+			<string>RI</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Amusé</string>
+			<string>Parfois grise</string>
+			<string>RI</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prélats</string>
+			<string>Le plus grand organe du corps humain</string>
+			<string>ABBES</string>
+			<string>PEAU</string>
+		</array>
+		<array>
+			<string>Prélats</string>
+			<string>Autrement beau</string>
+			<string>ABBES</string>
+			<string>BEL</string>
+		</array>
+		<array>
+			<string>Prélats</string>
+			<string>Triage de grains</string>
+			<string>ABBES</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string>Prélats</string>
+			<string>Cancre</string>
+			<string>ABBES</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Prélats</string>
+			<string>Forme conjuguée de mettre</string>
+			<string>ABBES</string>
+			<string>MISSES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Milieu de la danse</string>
+			<string>Bêtise</string>
+			<string>ANS</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Milieu de la danse</string>
+			<string>Elle s’ouvre au grand air</string>
+			<string>ANS</string>
+			<string>TENTE</string>
+		</array>
+		<array>
+			<string>Milieu de la danse</string>
+			<string>Possessif</string>
+			<string>ANS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Comme l&apos;impôt</string>
+			<string>Alambiquée</string>
+			<string>ANNUEL</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Comme l&apos;impôt</string>
+			<string>Parfois grise</string>
+			<string>ANNUEL</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Comme l&apos;impôt</string>
+			<string>Impliqua</string>
+			<string>ANNUEL</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Comme l&apos;impôt</string>
+			<string>Le plus grand organe du corps humain</string>
+			<string>ANNUEL</string>
+			<string>PEAU</string>
+		</array>
+		<array>
+			<string>Comme l&apos;impôt</string>
+			<string>Autrement beau</string>
+			<string>ANNUEL</string>
+			<string>BEL</string>
+		</array>
+		<array>
+			<string>Comme l&apos;impôt</string>
+			<string>Triage de grains</string>
+			<string>ANNUEL</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Est éclairé</string>
+			<string>Forme conjuguée de mettre</string>
+			<string>SAIT</string>
+			<string>MISSES</string>
+		</array>
+		<array>
+			<string>Est éclairé</string>
+			<string>Levai l’interdit</string>
+			<string>SAIT</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Est éclairé</string>
+			<string>Bêtise</string>
+			<string>SAIT</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Est éclairé</string>
+			<string>Elle s’ouvre au grand air</string>
+			<string>SAIT</string>
+			<string>TENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Happé par l’étonnement</string>
+			<string>Alambiquée</string>
+			<string>BEE</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Happé par l’étonnement</string>
+			<string>Parfois grise</string>
+			<string>BEE</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Happé par l’étonnement</string>
+			<string>Impliqua</string>
+			<string>BEE</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Autrement beau</string>
+			<string>LAVEUSES</string>
+			<string>BEL</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Triage de grains</string>
+			<string>LAVEUSES</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Cafetière</string>
+			<string>LAVEUSES</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Forme conjuguée de mettre</string>
+			<string>LAVEUSES</string>
+			<string>MISSES</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Levai l’interdit</string>
+			<string>LAVEUSES</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Bêtise</string>
+			<string>LAVEUSES</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Elle s’ouvre au grand air</string>
+			<string>LAVEUSES</string>
+			<string>TENTE</string>
+		</array>
+		<array>
+			<string>Blanchisseuses</string>
+			<string>Auteur</string>
+			<string>LAVEUSES</string>
+			<string>SUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il vivait à Cuzco</string>
+			<string>Alambiquée</string>
+			<string>INCA</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Il vivait à Cuzco</string>
+			<string>Parfois grise</string>
+			<string>INCA</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Il vivait à Cuzco</string>
+			<string>Impliqua</string>
+			<string>INCA</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Il vivait à Cuzco</string>
+			<string>Il a quatre cordes</string>
+			<string>INCA</string>
+			<string>ALTO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Signe du corps</string>
+			<string>Triage de grains</string>
+			<string>GESTE</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string>Signe du corps</string>
+			<string>Cafetière</string>
+			<string>GESTE</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Signe du corps</string>
+			<string>Forme conjuguée de mettre</string>
+			<string>GESTE</string>
+			<string>MISSES</string>
+		</array>
+		<array>
+			<string>Signe du corps</string>
+			<string>Levai l’interdit</string>
+			<string>GESTE</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Signe du corps</string>
+			<string>Bêtise</string>
+			<string>GESTE</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Auteur</string>
+			<string>U</string>
+			<string>SUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Alambiquée</string>
+			<string>SCELLER</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Parfois grise</string>
+			<string>SCELLER</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Impliqua</string>
+			<string>SCELLER</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Il a quatre cordes</string>
+			<string>SCELLER</string>
+			<string>ALTO</string>
+		</array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Indication pour chef</string>
+			<string>SCELLER</string>
+			<string>LENTO</string>
+		</array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Triage de grains</string>
+			<string>SCELLER</string>
+			<string>RIBLAGE</string>
+		</array>
+		<array>
+			<string>Poser un cachet</string>
+			<string>Cafetière</string>
+			<string>SCELLER</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Céréale</string>
+			<string>Levai l’interdit</string>
+			<string>ORGE</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Céréale</string>
+			<string>Bêtise</string>
+			<string>ORGE</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Céréale</string>
+			<string>Code de la vie</string>
+			<string>ORGE</string>
+			<string>GENOME</string>
+		</array>
+		<array>
+			<string>Céréale</string>
+			<string>Auteur</string>
+			<string>ORGE</string>
+			<string>SUE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Poing américain</string>
+			<string>Alambiquée</string>
+			<string>CESTE</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Poing américain</string>
+			<string>Parfois grise</string>
+			<string>CESTE</string>
+			<string>EMINENCE</string>
+		</array>
+		<array>
+			<string>Poing américain</string>
+			<string>Impliqua</string>
+			<string>CESTE</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Poing américain</string>
+			<string>Il a quatre cordes</string>
+			<string>CESTE</string>
+			<string>ALTO</string>
+		</array>
+		<array>
+			<string>Poing américain</string>
+			<string>Indication pour chef</string>
+			<string>CESTE</string>
+			<string>LENTO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rainure</string>
+			<string>Cafetière</string>
+			<string>STRIE</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Rainure</string>
+			<string>Piaf ou pif?</string>
+			<string>STRIE</string>
+			<string>TARIN</string>
+		</array>
+		<array>
+			<string>Rainure</string>
+			<string>Levai l’interdit</string>
+			<string>STRIE</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Rainure</string>
+			<string>Bêtise</string>
+			<string>STRIE</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Rainure</string>
+			<string>Code de la vie</string>
+			<string>STRIE</string>
+			<string>GENOME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Alambiquée</string>
+			<string>O</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Impliqua</string>
+			<string>SONGEAIENT</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Il a quatre cordes</string>
+			<string>SONGEAIENT</string>
+			<string>ALTO</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Indication pour chef</string>
+			<string>SONGEAIENT</string>
+			<string>LENTO</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Butte du Sahara</string>
+			<string>SONGEAIENT</string>
+			<string>GOUR</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Cafetière</string>
+			<string>SONGEAIENT</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Piaf ou pif?</string>
+			<string>SONGEAIENT</string>
+			<string>TARIN</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Levai l’interdit</string>
+			<string>SONGEAIENT</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Bêtise</string>
+			<string>SONGEAIENT</string>
+			<string>NIAISERIE</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Code de la vie</string>
+			<string>SONGEAIENT</string>
+			<string>GENOME</string>
+		</array>
+		<array>
+			<string>Rêvassaient</string>
+			<string>Descendez</string>
+			<string>SONGEAIENT</string>
+			<string>TUEZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>En face de moi</string>
+			<string>Alambiquée</string>
+			<string>TOI</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>En face de moi</string>
+			<string>Gardent</string>
+			<string>TOI</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string>En face de moi</string>
+			<string>Impliqua</string>
+			<string>TOI</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Manèges ou manœuvres</string>
+			<string>Indication pour chef</string>
+			<string>TOURS</string>
+			<string>LENTO</string>
+		</array>
+		<array>
+			<string>Manèges ou manœuvres</string>
+			<string>Butte du Sahara</string>
+			<string>TOURS</string>
+			<string>GOUR</string>
+		</array>
+		<array>
+			<string>Manèges ou manœuvres</string>
+			<string>Cafetière</string>
+			<string>TOURS</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Manèges ou manœuvres</string>
+			<string>Piaf ou pif?</string>
+			<string>TOURS</string>
+			<string>TARIN</string>
+		</array>
+		<array>
+			<string>Manèges ou manœuvres</string>
+			<string>Levai l’interdit</string>
+			<string>TOURS</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Simple question</string>
+			<string>Code de la vie</string>
+			<string>OU</string>
+			<string>GENOME</string>
+		</array>
+		<array>
+			<string>Simple question</string>
+			<string>Descendez</string>
+			<string>OU</string>
+			<string>TUEZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Alambiquée</string>
+			<string>ENTHOUSIASME</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Gardent</string>
+			<string>ENTHOUSIASME</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Impliqua</string>
+			<string>ENTHOUSIASME</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Un brin de rigolade</string>
+			<string>ENTHOUSIASME</string>
+			<string>HI</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Indication pour chef</string>
+			<string>ENTHOUSIASME</string>
+			<string>LENTO</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Butte du Sahara</string>
+			<string>ENTHOUSIASME</string>
+			<string>GOUR</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Cafetière</string>
+			<string>ENTHOUSIASME</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Piaf ou pif?</string>
+			<string>ENTHOUSIASME</string>
+			<string>TARIN</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Levai l’interdit</string>
+			<string>ENTHOUSIASME</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Base utopiste</string>
+			<string>ENTHOUSIASME</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Code de la vie</string>
+			<string>ENTHOUSIASME</string>
+			<string>GENOME</string>
+		</array>
+		<array>
+			<string>Feu sacré</string>
+			<string>Descendez</string>
+			<string>ENTHOUSIASME</string>
+			<string>TUEZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pièce de renfort</string>
+			<string>Alambiquée</string>
+			<string>ETAI</string>
+			<string>TARABISCOTEE</string>
+		</array>
+		<array>
+			<string>Pièce de renfort</string>
+			<string>Gardent</string>
+			<string>ETAI</string>
+			<string>ONT</string>
+		</array>
+		<array>
+			<string>Pièce de renfort</string>
+			<string>Impliqua</string>
+			<string>ETAI</string>
+			<string>NECESSITA</string>
+		</array>
+		<array>
+			<string>Pièce de renfort</string>
+			<string>Un brin de rigolade</string>
+			<string>ETAI</string>
+			<string>HI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Butte du Sahara</string>
+			<string>RENIIEZ</string>
+			<string>GOUR</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Cafetière</string>
+			<string>RENIIEZ</string>
+			<string>VERSEUSE</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Piaf ou pif?</string>
+			<string>RENIIEZ</string>
+			<string>TARIN</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Levai l’interdit</string>
+			<string>RENIIEZ</string>
+			<string>AUTORISAI</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Base utopiste</string>
+			<string>RENIIEZ</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Code de la vie</string>
+			<string>RENIIEZ</string>
+			<string>GENOME</string>
+		</array>
+		<array>
+			<string>Rejetiez en bloc</string>
+			<string>Descendez</string>
+			<string>RENIIEZ</string>
+			<string>TUEZ</string>
+		</array>
+	</array>
+</array>
+</plist>

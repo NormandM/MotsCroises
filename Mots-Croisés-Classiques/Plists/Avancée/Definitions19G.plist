@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>IMPORTATEURS</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>IMPORTATEURS</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Saisit</string>
+			<string>IMPORTATEURS</string>
+			<string>PRIT</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Un bel âge</string>
+			<string>IMPORTATEURS</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Remit sur pied</string>
+			<string>IMPORTATEURS</string>
+			<string>RELEVA</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string></string>
+			<string>IMPORTATEURS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Distraite</string>
+			<string>IMPORTATEURS</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Part de tarte</string>
+			<string>IMPORTATEURS</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Berceau d’une noble famille italienne</string>
+			<string>IMPORTATEURS</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>S’arrogea</string>
+			<string>IMPORTATEURS</string>
+			<string>USURPA</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Diminue</string>
+			<string>IMPORTATEURS</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>Acheteurs de produits exotiques</string>
+			<string>Mécène du Paris littéraire</string>
+			<string>IMPORTATEURS</string>
+			<string>STEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Retrace les événements</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>NARRE</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Retrace les événements</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>NARRE</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string>Retrace les événements</string>
+			<string>Saisit</string>
+			<string>NARRE</string>
+			<string>PRIT</string>
+		</array>
+		<array>
+			<string>Retrace les événements</string>
+			<string>Un bel âge</string>
+			<string>NARRE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string>Retrace les événements</string>
+			<string>Remit sur pied</string>
+			<string>NARRE</string>
+			<string>RELEVA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Distraite</string>
+			<string>BASSET</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Part de tarte</string>
+			<string>BASSET</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Berceau d’une noble famille italienne</string>
+			<string>BASSET</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>S’arrogea</string>
+			<string>BASSET</string>
+			<string>USURPA</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Diminue</string>
+			<string>BASSET</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Mécène du Paris littéraire</string>
+			<string>BASSET</string>
+			<string>STEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant la distribution</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>TRI</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Avant la distribution</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>TRI</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string>Avant la distribution</string>
+			<string>Saisit</string>
+			<string>TRI</string>
+			<string>PRIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sans énergie</string>
+			<string>Remit sur pied</string>
+			<string>LAS</string>
+			<string>RELEVA</string>
+		</array>
+		<array>
+			<string>Sans énergie</string>
+			<string>Mobiliserai</string>
+			<string>LAS</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Sans énergie</string>
+			<string>Distraite</string>
+			<string>LAS</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Succès d’année</string>
+			<string>Berceau d’une noble famille italienne</string>
+			<string>TUBE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Succès d’année</string>
+			<string>S’arrogea</string>
+			<string>TUBE</string>
+			<string>USURPA</string>
+		</array>
+		<array>
+			<string>Succès d’année</string>
+			<string>Diminue</string>
+			<string>TUBE</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>Succès d’année</string>
+			<string>Mécène du Paris littéraire</string>
+			<string>TUBE</string>
+			<string>STEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Combinerai</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>ENTREMELERAI</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>ENTREMELERAI</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Saisit</string>
+			<string>ENTREMELERAI</string>
+			<string>PRIT</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Effleurai</string>
+			<string>ENTREMELERAI</string>
+			<string>RASAI</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Remit sur pied</string>
+			<string>ENTREMELERAI</string>
+			<string>RELEVA</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Mobiliserai</string>
+			<string>ENTREMELERAI</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Distraite</string>
+			<string>ENTREMELERAI</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Appendice mobile</string>
+			<string>ENTREMELERAI</string>
+			<string>LUETTE</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Berceau d’une noble famille italienne</string>
+			<string>ENTREMELERAI</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>S’arrogea</string>
+			<string>ENTREMELERAI</string>
+			<string>USURPA</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Diminue</string>
+			<string>ENTREMELERAI</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>Combinerai</string>
+			<string>Mécène du Paris littéraire</string>
+			<string>ENTREMELERAI</string>
+			<string>STEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prisée des vacanciers</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>RE</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Prisée des vacanciers</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>RE</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nul et non…</string>
+			<string>Effleurai</string>
+			<string>AVENU</string>
+			<string>RASAI</string>
+		</array>
+		<array>
+			<string>Nul et non…</string>
+			<string>Remit sur pied</string>
+			<string>AVENU</string>
+			<string>RELEVA</string>
+		</array>
+		<array>
+			<string>Nul et non…</string>
+			<string>Mobiliserai</string>
+			<string>AVENU</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Nul et non…</string>
+			<string>Distraite</string>
+			<string>AVENU</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string>Nul et non…</string>
+			<string>Appendice mobile</string>
+			<string>AVENU</string>
+			<string>LUETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Essence parfumée</string>
+			<string>S’arrogea</string>
+			<string>PIN</string>
+			<string>USURPA</string>
+		</array>
+		<array>
+			<string>Essence parfumée</string>
+			<string>Diminue</string>
+			<string>PIN</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>Essence parfumée</string>
+			<string>Mécène du Paris littéraire</string>
+			<string>PIN</string>
+			<string>STEIN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>SURSAUTERAS</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>SURSAUTERAS</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Jubileras</string>
+			<string>SURSAUTERAS</string>
+			<string>RIRAS</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Effleurai</string>
+			<string>SURSAUTERAS</string>
+			<string>RASAI</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Remit sur pied</string>
+			<string>SURSAUTERAS</string>
+			<string>RELEVA</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Mobiliserai</string>
+			<string>SURSAUTERAS</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Distraite</string>
+			<string>SURSAUTERAS</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Appendice mobile</string>
+			<string>SURSAUTERAS</string>
+			<string>LUETTE</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Protesterait</string>
+			<string>SURSAUTERAS</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>S’arrogea</string>
+			<string>SURSAUTERAS</string>
+			<string>USURPA</string>
+		</array>
+		<array>
+			<string>Tressailliras</string>
+			<string>Diminue</string>
+			<string>SURSAUTERAS</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Voisine de l’iris</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>IXIA</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Voisine de l’iris</string>
+			<string>Composé d’argile et de calcaire</string>
+			<string>IXIA</string>
+			<string>MARNEUX</string>
+		</array>
+		<array>
+			<string>Voisine de l’iris</string>
+			<string>Jubileras</string>
+			<string>IXIA</string>
+			<string>RIRAS</string>
+		</array>
+		<array>
+			<string>Voisine de l’iris</string>
+			<string>Effleurai</string>
+			<string>IXIA</string>
+			<string>RASAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne plie pas facilement</string>
+			<string>Mobiliserai</string>
+			<string>TETU</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Ne plie pas facilement</string>
+			<string>Distraite</string>
+			<string>TETU</string>
+			<string>ABSENTE</string>
+		</array>
+		<array>
+			<string>Ne plie pas facilement</string>
+			<string>Appendice mobile</string>
+			<string>TETU</string>
+			<string>LUETTE</string>
+		</array>
+		<array>
+			<string>Ne plie pas facilement</string>
+			<string>Protesterait</string>
+			<string>TETU</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>C’est son bien</string>
+			<string>Diminue</string>
+			<string>SA</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>C’est son bien</string>
+			<string>Dépouillement</string>
+			<string>SA</string>
+			<string>ASCESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui appartient au vide céleste</string>
+			<string>D</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fin de vers en écho</string>
+			<string>Jubileras</string>
+			<string>RIME</string>
+			<string>RIRAS</string>
+		</array>
+		<array>
+			<string>Fin de vers en écho</string>
+			<string>Effleurai</string>
+			<string>RIME</string>
+			<string>RASAI</string>
+		</array>
+		<array>
+			<string>Fin de vers en écho</string>
+			<string>Cesse de vieillir</string>
+			<string>RIME</string>
+			<string>MEURT</string>
+		</array>
+		<array>
+			<string>Fin de vers en écho</string>
+			<string>Mobiliserai</string>
+			<string>RIME</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Extrémités pensantes</string>
+			<string>Appendice mobile</string>
+			<string>TETES</string>
+			<string>LUETTE</string>
+		</array>
+		<array>
+			<string>Extrémités pensantes</string>
+			<string>Protesterait</string>
+			<string>TETES</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string>Extrémités pensantes</string>
+			<string>Gardera pour soi</string>
+			<string>TETES</string>
+			<string>TAIRA</string>
+		</array>
+		<array>
+			<string>Extrémités pensantes</string>
+			<string>Diminue</string>
+			<string>TETES</string>
+			<string>REBAISSE</string>
+		</array>
+		<array>
+			<string>Extrémités pensantes</string>
+			<string>Dépouillement</string>
+			<string>TETES</string>
+			<string>ASCESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prénom</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>EVA</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Éclatante de couleur</string>
+			<string>EVA</string>
+			<string>VIVE</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Jubileras</string>
+			<string>EVA</string>
+			<string>RIRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se trompera</string>
+			<string>Cesse de vieillir</string>
+			<string>ERRERA</string>
+			<string>MEURT</string>
+		</array>
+		<array>
+			<string>Se trompera</string>
+			<string>Mobiliserai</string>
+			<string>ERRERA</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Se trompera</string>
+			<string>On y met des gants</string>
+			<string>ERRERA</string>
+			<string>RING</string>
+		</array>
+		<array>
+			<string>Se trompera</string>
+			<string>Appendice mobile</string>
+			<string>ERRERA</string>
+			<string>LUETTE</string>
+		</array>
+		<array>
+			<string>Se trompera</string>
+			<string>Protesterait</string>
+			<string>ERRERA</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string>Se trompera</string>
+			<string>Gardera pour soi</string>
+			<string>ERRERA</string>
+			<string>TAIRA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Dépouillement</string>
+			<string>C</string>
+			<string>ASCESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Osai</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>RISQUAI</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Osai</string>
+			<string>Éclatante de couleur</string>
+			<string>RISQUAI</string>
+			<string>VIVE</string>
+		</array>
+		<array>
+			<string>Osai</string>
+			<string>Jubileras</string>
+			<string>RISQUAI</string>
+			<string>RIRAS</string>
+		</array>
+		<array>
+			<string>Osai</string>
+			<string>Relatif sujet</string>
+			<string>RISQUAI</string>
+			<string>QUI</string>
+		</array>
+		<array>
+			<string>Osai</string>
+			<string>Cesse de vieillir</string>
+			<string>RISQUAI</string>
+			<string>MEURT</string>
+		</array>
+		<array>
+			<string>Osai</string>
+			<string>Mobiliserai</string>
+			<string>RISQUAI</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Osai</string>
+			<string>On y met des gants</string>
+			<string>RISQUAI</string>
+			<string>RING</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bien-être</string>
+			<string>Protesterait</string>
+			<string>AISE</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string>Bien-être</string>
+			<string>Gardera pour soi</string>
+			<string>AISE</string>
+			<string>TAIRA</string>
+		</array>
+		<array>
+			<string>Bien-être</string>
+			<string>Monnaie asiatique</string>
+			<string>AISE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Bien-être</string>
+			<string>Dépouillement</string>
+			<string>AISE</string>
+			<string>ASCESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant à gauche</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>AV</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Avant à gauche</string>
+			<string>Éclatante de couleur</string>
+			<string>AV</string>
+			<string>VIVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Relatif sujet</string>
+			<string>URINAIRES</string>
+			<string>QUI</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Cesse de vieillir</string>
+			<string>URINAIRES</string>
+			<string>MEURT</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Mobiliserai</string>
+			<string>URINAIRES</string>
+			<string>AMEUTERAI</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>On y met des gants</string>
+			<string>URINAIRES</string>
+			<string>RING</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Dormeur du Brésil</string>
+			<string>URINAIRES</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Protesterait</string>
+			<string>URINAIRES</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Gardera pour soi</string>
+			<string>URINAIRES</string>
+			<string>TAIRA</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Monnaie asiatique</string>
+			<string>URINAIRES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Relatifs à l’élimination</string>
+			<string>Dépouillement</string>
+			<string>URINAIRES</string>
+			<string>ASCESE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Déjà évoqué</string>
+			<string>Qui appartient au vide céleste</string>
+			<string>LEDIT</string>
+			<string>INTERSIDERAL</string>
+		</array>
+		<array>
+			<string>Déjà évoqué</string>
+			<string>Éclatante de couleur</string>
+			<string>LEDIT</string>
+			<string>VIVE</string>
+		</array>
+		<array>
+			<string>Déjà évoqué</string>
+			<string></string>
+			<string>LEDIT</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Déjà évoqué</string>
+			<string>Relatif sujet</string>
+			<string>LEDIT</string>
+			<string>QUI</string>
+		</array>
+		<array>
+			<string>Déjà évoqué</string>
+			<string>Cesse de vieillir</string>
+			<string>LEDIT</string>
+			<string>MEURT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Femme nomade</string>
+			<string>On y met des gants</string>
+			<string>GITANE</string>
+			<string>RING</string>
+		</array>
+		<array>
+			<string>Femme nomade</string>
+			<string>Dormeur du Brésil</string>
+			<string>GITANE</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Femme nomade</string>
+			<string>Protesterait</string>
+			<string>GITANE</string>
+			<string>RUERAIT</string>
+		</array>
+		<array>
+			<string>Femme nomade</string>
+			<string>Gardera pour soi</string>
+			<string>GITANE</string>
+			<string>TAIRA</string>
+		</array>
+		<array>
+			<string>Femme nomade</string>
+			<string>Monnaie asiatique</string>
+			<string>GITANE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Femme nomade</string>
+			<string>Dépouillement</string>
+			<string>GITANE</string>
+			<string>ASCESE</string>
+		</array>
+	</array>
+</array>
+</plist>

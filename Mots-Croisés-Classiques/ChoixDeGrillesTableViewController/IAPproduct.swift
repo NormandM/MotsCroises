@@ -23,5 +23,10 @@ enum IAPProduct: String {
     case E21 = "NM.MotsCroises71a80"
     case E31 = "NM.MotsCroises81a90"
     case E41 = "NM.MotsCroises91a100"
+    case AV01 = "NM.MotsCroises101a110"
+    case AV02 = "NM.MotsCroises102a120"
+    case AV03 = "NM.MotsCroises103a130"
+    case AV04 = "NM.MotsCroises104a140"
+    case AV05 = "NM.MotsCroises105a150"
     
 }

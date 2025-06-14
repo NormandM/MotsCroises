@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Braverait</string>
+			<string>AGNOSTICISME</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Tout sauf étoilé</string>
+			<string>AGNOSTICISME</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Offert au regard</string>
+			<string>AGNOSTICISME</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Scellée</string>
+			<string>AGNOSTICISME</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Grisa</string>
+			<string>AGNOSTICISME</string>
+			<string>SOULA</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>On l’entend tout l’été</string>
+			<string>AGNOSTICISME</string>
+			<string>TUBE</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Organisation secrète</string>
+			<string>AGNOSTICISME</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Poids plume</string>
+			<string>AGNOSTICISME</string>
+			<string>CG</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string></string>
+			<string>AGNOSTICISME</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>On peut en parler longtemps sur le divan</string>
+			<string>AGNOSTICISME</string>
+			<string>SOI</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>AGNOSTICISME</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Scepticisme métaphysique</string>
+			<string>Ardeurs spontanées</string>
+			<string>AGNOSTICISME</string>
+			<string>ELANS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Braverait</string>
+			<string>FAUBOURG</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Tout sauf étoilé</string>
+			<string>FAUBOURG</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Offert au regard</string>
+			<string>FAUBOURG</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Scellée</string>
+			<string>FAUBOURG</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Grisa</string>
+			<string>FAUBOURG</string>
+			<string>SOULA</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>On l’entend tout l’été</string>
+			<string>FAUBOURG</string>
+			<string>TUBE</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Organisation secrète</string>
+			<string>FAUBOURG</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string>Presque urbain</string>
+			<string>Poids plume</string>
+			<string>FAUBOURG</string>
+			<string>CG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Langue du Nord médiéval</string>
+			<string>On peut en parler longtemps sur le divan</string>
+			<string>OIL</string>
+			<string>SOI</string>
+		</array>
+		<array>
+			<string>Langue du Nord médiéval</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>OIL</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Langue du Nord médiéval</string>
+			<string>Ardeurs spontanées</string>
+			<string>OIL</string>
+			<string>ELANS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le début et la fin du forfait</string>
+			<string>Braverait</string>
+			<string>FT</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Le début et la fin du forfait</string>
+			<string>Tout sauf étoilé</string>
+			<string>FT</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il sort prendre l’air</string>
+			<string>Scellée</string>
+			<string>TUBA</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string>Il sort prendre l’air</string>
+			<string>Grisa</string>
+			<string>TUBA</string>
+			<string>SOULA</string>
+		</array>
+		<array>
+			<string>Il sort prendre l’air</string>
+			<string>On l’entend tout l’été</string>
+			<string>TUBA</string>
+			<string>TUBE</string>
+		</array>
+		<array>
+			<string>Il sort prendre l’air</string>
+			<string>Organisation secrète</string>
+			<string>TUBA</string>
+			<string>IRA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se sustenta</string>
+			<string>Signe de hausse</string>
+			<string>DINA</string>
+			<string>DIESE</string>
+		</array>
+		<array>
+			<string>Se sustenta</string>
+			<string>On peut en parler longtemps sur le divan</string>
+			<string>DINA</string>
+			<string>SOI</string>
+		</array>
+		<array>
+			<string>Se sustenta</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>DINA</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Se sustenta</string>
+			<string>Ardeurs spontanées</string>
+			<string>DINA</string>
+			<string>ELANS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Alliage de métal</string>
+			<string>Braverait</string>
+			<string>REGULE</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Alliage de métal</string>
+			<string>Tout sauf étoilé</string>
+			<string>REGULE</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Alliage de métal</string>
+			<string>Elle accompagne les paroles</string>
+			<string>REGULE</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Alliage de métal</string>
+			<string>Scellée</string>
+			<string>REGULE</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string>Alliage de métal</string>
+			<string>Grisa</string>
+			<string>REGULE</string>
+			<string>SOULA</string>
+		</array>
+		<array>
+			<string>Alliage de métal</string>
+			<string>On l’entend tout l’été</string>
+			<string>REGULE</string>
+			<string>TUBE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petit mot, grand mépris</string>
+			<string>Béguins</string>
+			<string>FI</string>
+			<string>FLIRTS</string>
+		</array>
+		<array>
+			<string>Petit mot, grand mépris</string>
+			<string>Signe de hausse</string>
+			<string>FI</string>
+			<string>DIESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il se prend souvent pour nous</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>ON</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Il se prend souvent pour nous</string>
+			<string>Ardeurs spontanées</string>
+			<string>ON</string>
+			<string>ELANS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne reculera pas</string>
+			<string>Braverait</string>
+			<string>OSERA</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Ne reculera pas</string>
+			<string>Tout sauf étoilé</string>
+			<string>OSERA</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Ne reculera pas</string>
+			<string>Elle accompagne les paroles</string>
+			<string>OSERA</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Ne reculera pas</string>
+			<string>Scellée</string>
+			<string>OSERA</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string>Ne reculera pas</string>
+			<string>Grisa</string>
+			<string>OSERA</string>
+			<string>SOULA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Livides</string>
+			<string>N’a pas de noyau</string>
+			<string>BLEMES</string>
+			<string>BAIE</string>
+		</array>
+		<array>
+			<string>Livides</string>
+			<string>Béguins</string>
+			<string>BLEMES</string>
+			<string>FLIRTS</string>
+		</array>
+		<array>
+			<string>Livides</string>
+			<string>Signe de hausse</string>
+			<string>BLEMES</string>
+			<string>DIESE</string>
+		</array>
+		<array>
+			<string>Livides</string>
+			<string>À placer sur la portée</string>
+			<string>BLEMES</string>
+			<string>MI</string>
+		</array>
+		<array>
+			<string>Livides</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>BLEMES</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Livides</string>
+			<string>Ardeurs spontanées</string>
+			<string>BLEMES</string>
+			<string>ELANS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fichu</string>
+			<string>Braverait</string>
+			<string>NASE</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Fichu</string>
+			<string>Tout sauf étoilé</string>
+			<string>NASE</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Fichu</string>
+			<string>Elle accompagne les paroles</string>
+			<string>NASE</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Fichu</string>
+			<string>Scellée</string>
+			<string>NASE</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il se presse</string>
+			<string>Fit renaître</string>
+			<string>RAISIN</string>
+			<string>RAMENA</string>
+		</array>
+		<array>
+			<string>Il se presse</string>
+			<string>N’a pas de noyau</string>
+			<string>RAISIN</string>
+			<string>BAIE</string>
+		</array>
+		<array>
+			<string>Il se presse</string>
+			<string>Béguins</string>
+			<string>RAISIN</string>
+			<string>FLIRTS</string>
+		</array>
+		<array>
+			<string>Il se presse</string>
+			<string>Signe de hausse</string>
+			<string>RAISIN</string>
+			<string>DIESE</string>
+		</array>
+		<array>
+			<string>Il se presse</string>
+			<string>À placer sur la portée</string>
+			<string>RAISIN</string>
+			<string>MI</string>
+		</array>
+		<array>
+			<string>Il se presse</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>RAISIN</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Braverait</string>
+			<string>TUTELAIRE</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Tout sauf étoilé</string>
+			<string>TUTELAIRE</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Elle accompagne les paroles</string>
+			<string>TUTELAIRE</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Scellée</string>
+			<string>TUTELAIRE</string>
+			<string>OBTUREE</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Location</string>
+			<string>TUTELAIRE</string>
+			<string>LOUAGE</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Fit renaître</string>
+			<string>TUTELAIRE</string>
+			<string>RAMENA</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>N’a pas de noyau</string>
+			<string>TUTELAIRE</string>
+			<string>BAIE</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Béguins</string>
+			<string>TUTELAIRE</string>
+			<string>FLIRTS</string>
+		</array>
+		<array>
+			<string>Comme un ange gardien</string>
+			<string>Signe de hausse</string>
+			<string>TUTELAIRE</string>
+			<string>DIESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Art à Tokyo</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>NO</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Art à Tokyo</string>
+			<string>Figure en prière</string>
+			<string>NO</string>
+			<string>ORANTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Blason</string>
+			<string>Braverait</string>
+			<string>ECU</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Blason</string>
+			<string>Tout sauf étoilé</string>
+			<string>ECU</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Blason</string>
+			<string>Elle accompagne les paroles</string>
+			<string>ECU</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Saute</string>
+			<string>Location</string>
+			<string>OMET</string>
+			<string>LOUAGE</string>
+		</array>
+		<array>
+			<string>Saute</string>
+			<string>Fit renaître</string>
+			<string>OMET</string>
+			<string>RAMENA</string>
+		</array>
+		<array>
+			<string>Saute</string>
+			<string>N’a pas de noyau</string>
+			<string>OMET</string>
+			<string>BAIE</string>
+		</array>
+		<array>
+			<string>Saute</string>
+			<string>Béguins</string>
+			<string>OMET</string>
+			<string>FLIRTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Semelle de sabot</string>
+			<string>Sépare les adversaires</string>
+			<string>FER</string>
+			<string>FILET</string>
+		</array>
+		<array>
+			<string>Semelle de sabot</string>
+			<string>Crétoise de l’âge de bronze</string>
+			<string>FER</string>
+			<string>MINOENNE</string>
+		</array>
+		<array>
+			<string>Semelle de sabot</string>
+			<string>Figure en prière</string>
+			<string>FER</string>
+			<string>ORANTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Encore choisie</string>
+			<string>Braverait</string>
+			<string>REELUE</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Encore choisie</string>
+			<string>Tout sauf étoilé</string>
+			<string>REELUE</string>
+			<string>GATESAUCE</string>
+		</array>
+		<array>
+			<string>Encore choisie</string>
+			<string>Elle accompagne les paroles</string>
+			<string>REELUE</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Encore choisie</string>
+			<string>Il a bien l’air allemand</string>
+			<string>REELUE</string>
+			<string>LIED</string>
+		</array>
+		<array>
+			<string>Encore choisie</string>
+			<string>Location</string>
+			<string>REELUE</string>
+			<string>LOUAGE</string>
+		</array>
+		<array>
+			<string>Encore choisie</string>
+			<string>Fit renaître</string>
+			<string>REELUE</string>
+			<string>RAMENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>File sur la piste</string>
+			<string>Béguins</string>
+			<string>SKI</string>
+			<string>FLIRTS</string>
+		</array>
+		<array>
+			<string>File sur la piste</string>
+			<string>Divinité japonaise</string>
+			<string>SKI</string>
+			<string>KAMI</string>
+		</array>
+		<array>
+			<string>File sur la piste</string>
+			<string>Sépare les adversaires</string>
+			<string>SKI</string>
+			<string>FILET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Figure en prière</string>
+			<string>A</string>
+			<string>ORANTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Braverait</string>
+			<string>A</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grimpeuse tropicale</string>
+			<string>Elle accompagne les paroles</string>
+			<string>LIANE</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Grimpeuse tropicale</string>
+			<string>Il a bien l’air allemand</string>
+			<string>LIANE</string>
+			<string>LIED</string>
+		</array>
+		<array>
+			<string>Grimpeuse tropicale</string>
+			<string>Location</string>
+			<string>LIANE</string>
+			<string>LOUAGE</string>
+		</array>
+		<array>
+			<string>Grimpeuse tropicale</string>
+			<string>Fit renaître</string>
+			<string>LIANE</string>
+			<string>RAMENA</string>
+		</array>
+		<array>
+			<string>Grimpeuse tropicale</string>
+			<string>N’est plus candidat</string>
+			<string>LIANE</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Liquide caustique</string>
+			<string>Divinité japonaise</string>
+			<string>ALUN</string>
+			<string>KAMI</string>
+		</array>
+		<array>
+			<string>Liquide caustique</string>
+			<string>Sépare les adversaires</string>
+			<string>ALUN</string>
+			<string>FILET</string>
+		</array>
+		<array>
+			<string>Liquide caustique</string>
+			<string>Vitrine de l’actualité</string>
+			<string>ALUN</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Liquide caustique</string>
+			<string>Figure en prière</string>
+			<string>ALUN</string>
+			<string>ORANTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Braverait</string>
+			<string>ILLEGALEMENT</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Ancienne mesure</string>
+			<string>ILLEGALEMENT</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Elle accompagne les paroles</string>
+			<string>ILLEGALEMENT</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Il a bien l’air allemand</string>
+			<string>ILLEGALEMENT</string>
+			<string>LIED</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Location</string>
+			<string>ILLEGALEMENT</string>
+			<string>LOUAGE</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Fit renaître</string>
+			<string>ILLEGALEMENT</string>
+			<string>RAMENA</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>N’est plus candidat</string>
+			<string>ILLEGALEMENT</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Forme d&apos;être</string>
+			<string>ILLEGALEMENT</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Divinité japonaise</string>
+			<string>ILLEGALEMENT</string>
+			<string>KAMI</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Sépare les adversaires</string>
+			<string>ILLEGALEMENT</string>
+			<string>FILET</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Vitrine de l’actualité</string>
+			<string>ILLEGALEMENT</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Au mépris des règles</string>
+			<string>Figure en prière</string>
+			<string>ILLEGALEMENT</string>
+			<string>ORANTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sans ardeur</string>
+			<string>Braverait</string>
+			<string>TIEDE</string>
+			<string>AFFRONTERAIT</string>
+		</array>
+		<array>
+			<string>Sans ardeur</string>
+			<string>Ancienne mesure</string>
+			<string>TIEDE</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Sans ardeur</string>
+			<string>Elle accompagne les paroles</string>
+			<string>TIEDE</string>
+			<string>GESTUELLE</string>
+		</array>
+		<array>
+			<string>Sans ardeur</string>
+			<string>Il a bien l’air allemand</string>
+			<string>TIEDE</string>
+			<string>LIED</string>
+		</array>
+		<array>
+			<string>Sans ardeur</string>
+			<string>Location</string>
+			<string>TIEDE</string>
+			<string>LOUAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Toujours d’usage</string>
+			<string>N’est plus candidat</string>
+			<string>USITEE</string>
+			<string>ELU</string>
+		</array>
+		<array>
+			<string>Toujours d’usage</string>
+			<string>Forme d&apos;être</string>
+			<string>USITEE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Toujours d’usage</string>
+			<string>Divinité japonaise</string>
+			<string>USITEE</string>
+			<string>KAMI</string>
+		</array>
+		<array>
+			<string>Toujours d’usage</string>
+			<string>Sépare les adversaires</string>
+			<string>USITEE</string>
+			<string>FILET</string>
+		</array>
+		<array>
+			<string>Toujours d’usage</string>
+			<string>Vitrine de l’actualité</string>
+			<string>USITEE</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Toujours d’usage</string>
+			<string>Figure en prière</string>
+			<string>USITEE</string>
+			<string>ORANTE</string>
+		</array>
+	</array>
+</array>
+</plist>

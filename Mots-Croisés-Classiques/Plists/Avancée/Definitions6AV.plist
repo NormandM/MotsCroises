@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Prend la rue</string>
+			<string>MARTEAUPILON</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Intervenu</string>
+			<string>MARTEAUPILON</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>D’époque</string>
+			<string>MARTEAUPILON</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string></string>
+			<string>MARTEAUPILON</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Projette</string>
+			<string>MARTEAUPILON</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Paresseux</string>
+			<string>MARTEAUPILON</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Mettrez à mal</string>
+			<string>MARTEAUPILON</string>
+			<string>USEREZ</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Coup sec</string>
+			<string>MARTEAUPILON</string>
+			<string>PAN</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string></string>
+			<string>MARTEAUPILON</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Toile fine</string>
+			<string>MARTEAUPILON</string>
+			<string>LINON</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Clore</string>
+			<string>MARTEAUPILON</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string>Engin de forge</string>
+			<string>Fis l’innocent</string>
+			<string>MARTEAUPILON</string>
+			<string>NIAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il fut de pierre, entre autres</string>
+			<string>Prend la rue</string>
+			<string>AGE</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Il fut de pierre, entre autres</string>
+			<string>Intervenu</string>
+			<string>AGE</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string>Il fut de pierre, entre autres</string>
+			<string>D’époque</string>
+			<string>AGE</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Paria</string>
+			<string>Projette</string>
+			<string>MISA</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string>Paria</string>
+			<string>Paresseux</string>
+			<string>MISA</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Paria</string>
+			<string>Mettrez à mal</string>
+			<string>MISA</string>
+			<string>USEREZ</string>
+		</array>
+		<array>
+			<string>Paria</string>
+			<string>Coup sec</string>
+			<string>MISA</string>
+			<string>PAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ni ailleurs, ni là-bas</string>
+			<string>Toile fine</string>
+			<string>ICI</string>
+			<string>LINON</string>
+		</array>
+		<array>
+			<string>Ni ailleurs, ni là-bas</string>
+			<string>Clore</string>
+			<string>ICI</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string>Ni ailleurs, ni là-bas</string>
+			<string>Fis l’innocent</string>
+			<string>ICI</string>
+			<string>NIAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Prend la rue</string>
+			<string>NITRE</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Intervenu</string>
+			<string>NITRE</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>D’époque</string>
+			<string>NITRE</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Bourdonne</string>
+			<string>NITRE</string>
+			<string>RONFLE</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Projette</string>
+			<string>NITRE</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Formula</string>
+			<string>Mettrez à mal</string>
+			<string>ENONCA</string>
+			<string>USEREZ</string>
+		</array>
+		<array>
+			<string>Formula</string>
+			<string>Coup sec</string>
+			<string>ENONCA</string>
+			<string>PAN</string>
+		</array>
+		<array>
+			<string>Formula</string>
+			<string>Travaillais au bloc</string>
+			<string>ENONCA</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string>Formula</string>
+			<string>Toile fine</string>
+			<string>ENONCA</string>
+			<string>LINON</string>
+		</array>
+		<array>
+			<string>Formula</string>
+			<string>Clore</string>
+			<string>ENONCA</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string>Formula</string>
+			<string>Fis l’innocent</string>
+			<string>ENONCA</string>
+			<string>NIAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Prend la rue</string>
+			<string>I</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pas stator</string>
+			<string>D’époque</string>
+			<string>ROTOR</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Pas stator</string>
+			<string>Bourdonne</string>
+			<string>ROTOR</string>
+			<string>RONFLE</string>
+		</array>
+		<array>
+			<string>Pas stator</string>
+			<string>Projette</string>
+			<string>ROTOR</string>
+			<string>EMET</string>
+		</array>
+		<array>
+			<string>Pas stator</string>
+			<string>Listel</string>
+			<string>ROTOR</string>
+			<string>ORLE</string>
+		</array>
+		<array>
+			<string>Pas stator</string>
+			<string>Mettrez à mal</string>
+			<string>ROTOR</string>
+			<string>USEREZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>N’offense pas</string>
+			<string>Travaillais au bloc</string>
+			<string>POLI</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string>N’offense pas</string>
+			<string>Toile fine</string>
+			<string>POLI</string>
+			<string>LINON</string>
+		</array>
+		<array>
+			<string>N’offense pas</string>
+			<string>Clore</string>
+			<string>POLI</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string>N’offense pas</string>
+			<string>Fis l’innocent</string>
+			<string>POLI</string>
+			<string>NIAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tacheté et fragile</string>
+			<string>Prend la rue</string>
+			<string>FAON</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Tacheté et fragile</string>
+			<string>Séduites</string>
+			<string>FAON</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>Tacheté et fragile</string>
+			<string>D’époque</string>
+			<string>FAON</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Tacheté et fragile</string>
+			<string>Bourdonne</string>
+			<string>FAON</string>
+			<string>RONFLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bénéfice</string>
+			<string>Listel</string>
+			<string>REVENU</string>
+			<string>ORLE</string>
+		</array>
+		<array>
+			<string>Bénéfice</string>
+			<string>Mettrez à mal</string>
+			<string>REVENU</string>
+			<string>USEREZ</string>
+		</array>
+		<array>
+			<string>Bénéfice</string>
+			<string>Se chiffraient</string>
+			<string>REVENU</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Bénéfice</string>
+			<string>Travaillais au bloc</string>
+			<string>REVENU</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string>Bénéfice</string>
+			<string>Toile fine</string>
+			<string>REVENU</string>
+			<string>LINON</string>
+		</array>
+		<array>
+			<string>Bénéfice</string>
+			<string>Clore</string>
+			<string>REVENU</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Prend la rue</string>
+			<string>ET</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Séduites</string>
+			<string>ET</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pantalon</string>
+			<string>Bourdonne</string>
+			<string>FALZAR</string>
+			<string>RONFLE</string>
+		</array>
+		<array>
+			<string>Pantalon</string>
+			<string>Lettre</string>
+			<string>FALZAR</string>
+			<string>ALEPH</string>
+		</array>
+		<array>
+			<string>Pantalon</string>
+			<string>Listel</string>
+			<string>FALZAR</string>
+			<string>ORLE</string>
+		</array>
+		<array>
+			<string>Pantalon</string>
+			<string>Mettrez à mal</string>
+			<string>FALZAR</string>
+			<string>USEREZ</string>
+		</array>
+		<array>
+			<string>Pantalon</string>
+			<string>Se chiffraient</string>
+			<string>FALZAR</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Pantalon</string>
+			<string>Travaillais au bloc</string>
+			<string>FALZAR</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Les pharaons sont considérés comme sa réincarnation</string>
+			<string>Clore</string>
+			<string>RA</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string>Les pharaons sont considérés comme sa réincarnation</string>
+			<string>Fertilisées</string>
+			<string>RA</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fauteuil d’abbaye</string>
+			<string>Prend la rue</string>
+			<string>STALLE</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Fauteuil d’abbaye</string>
+			<string>Séduites</string>
+			<string>STALLE</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>Fauteuil d’abbaye</string>
+			<string>Sarments de vigne</string>
+			<string>STALLE</string>
+			<string>ARCONS</string>
+		</array>
+		<array>
+			<string>Fauteuil d’abbaye</string>
+			<string>Bourdonne</string>
+			<string>STALLE</string>
+			<string>RONFLE</string>
+		</array>
+		<array>
+			<string>Fauteuil d’abbaye</string>
+			<string>Lettre</string>
+			<string>STALLE</string>
+			<string>ALEPH</string>
+		</array>
+		<array>
+			<string>Fauteuil d’abbaye</string>
+			<string>Listel</string>
+			<string>STALLE</string>
+			<string>ORLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Nouez</string>
+			<string>Se chiffraient</string>
+			<string>LACEZ</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Nouez</string>
+			<string>Travaillais au bloc</string>
+			<string>LACEZ</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string>Nouez</string>
+			<string>Entailler la lettre</string>
+			<string>LACEZ</string>
+			<string>CRENER</string>
+		</array>
+		<array>
+			<string>Nouez</string>
+			<string>Clore</string>
+			<string>LACEZ</string>
+			<string>OCCLURE</string>
+		</array>
+		<array>
+			<string>Nouez</string>
+			<string>Fertilisées</string>
+			<string>LACEZ</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Extirpée</string>
+			<string>Prend la rue</string>
+			<string>TIREE</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Extirpée</string>
+			<string>Séduites</string>
+			<string>TIREE</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>Extirpée</string>
+			<string>Sarments de vigne</string>
+			<string>TIREE</string>
+			<string>ARCONS</string>
+		</array>
+		<array>
+			<string>Extirpée</string>
+			<string>Bourdonne</string>
+			<string>TIREE</string>
+			<string>RONFLE</string>
+		</array>
+		<array>
+			<string>Extirpée</string>
+			<string>Lettre</string>
+			<string>TIREE</string>
+			<string>ALEPH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Confrère</string>
+			<string>A souffert</string>
+			<string>PAIR</string>
+			<string>PATI</string>
+		</array>
+		<array>
+			<string>Confrère</string>
+			<string>Se chiffraient</string>
+			<string>PAIR</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Confrère</string>
+			<string>Travaillais au bloc</string>
+			<string>PAIR</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string>Confrère</string>
+			<string>Entailler la lettre</string>
+			<string>PAIR</string>
+			<string>CRENER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fertilisées</string>
+			<string>O</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Instrument à corde</string>
+			<string>Prend la rue</string>
+			<string>ARC</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Instrument à corde</string>
+			<string>Séduites</string>
+			<string>ARC</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>Instrument à corde</string>
+			<string>Sarments de vigne</string>
+			<string>ARC</string>
+			<string>ARCONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Lettre</string>
+			<string>PLAISENT</string>
+			<string>ALEPH</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Destruction cellulaire</string>
+			<string>PLAISENT</string>
+			<string>LYSE</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>A souffert</string>
+			<string>PLAISENT</string>
+			<string>PATI</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Se chiffraient</string>
+			<string>PLAISENT</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Travaillais au bloc</string>
+			<string>PLAISENT</string>
+			<string>OPERAIS</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Entailler la lettre</string>
+			<string>PLAISENT</string>
+			<string>CRENER</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Point cardinal</string>
+			<string>PLAISENT</string>
+			<string>NORD</string>
+		</array>
+		<array>
+			<string>Siéent</string>
+			<string>Fertilisées</string>
+			<string>PLAISENT</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bleu</string>
+			<string>Prend la rue</string>
+			<string>NEOPHYTE</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>Séduites</string>
+			<string>NEOPHYTE</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>Sarments de vigne</string>
+			<string>NEOPHYTE</string>
+			<string>ARCONS</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>Fit lever les cœurs</string>
+			<string>NEOPHYTE</string>
+			<string>PUA</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>Lettre</string>
+			<string>NEOPHYTE</string>
+			<string>ALEPH</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>Destruction cellulaire</string>
+			<string>NEOPHYTE</string>
+			<string>LYSE</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>A souffert</string>
+			<string>NEOPHYTE</string>
+			<string>PATI</string>
+		</array>
+		<array>
+			<string>Bleu</string>
+			<string>Se chiffraient</string>
+			<string>NEOPHYTE</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Navigua sans escale</string>
+			<string>Entailler la lettre</string>
+			<string>NOE</string>
+			<string>CRENER</string>
+		</array>
+		<array>
+			<string>Navigua sans escale</string>
+			<string>Point cardinal</string>
+			<string>NOE</string>
+			<string>NORD</string>
+		</array>
+		<array>
+			<string>Navigua sans escale</string>
+			<string>Fertilisées</string>
+			<string>NOE</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>À peine perceptible</string>
+			<string>Prend la rue</string>
+			<string>TENU</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>À peine perceptible</string>
+			<string>Séduites</string>
+			<string>TENU</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>À peine perceptible</string>
+			<string>Sarments de vigne</string>
+			<string>TENU</string>
+			<string>ARCONS</string>
+		</array>
+		<array>
+			<string>À peine perceptible</string>
+			<string>Fit lever les cœurs</string>
+			<string>TENU</string>
+			<string>PUA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>Destruction cellulaire</string>
+			<string>SINCERE</string>
+			<string>LYSE</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>A souffert</string>
+			<string>SINCERE</string>
+			<string>PATI</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>Se chiffraient</string>
+			<string>SINCERE</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>Poison discret</string>
+			<string>SINCERE</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>Entailler la lettre</string>
+			<string>SINCERE</string>
+			<string>CRENER</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>Point cardinal</string>
+			<string>SINCERE</string>
+			<string>NORD</string>
+		</array>
+		<array>
+			<string>Il ne joue pas de rôle</string>
+			<string>Fertilisées</string>
+			<string>SINCERE</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tenté</string>
+			<string>Prend la rue</string>
+			<string>ESSAYE</string>
+			<string>MANIFESTANTE</string>
+		</array>
+		<array>
+			<string>Tenté</string>
+			<string>Séduites</string>
+			<string>ESSAYE</string>
+			<string>ATTIREES</string>
+		</array>
+		<array>
+			<string>Tenté</string>
+			<string>Sarments de vigne</string>
+			<string>ESSAYE</string>
+			<string>ARCONS</string>
+		</array>
+		<array>
+			<string>Tenté</string>
+			<string>Fit lever les cœurs</string>
+			<string>ESSAYE</string>
+			<string>PUA</string>
+		</array>
+		<array>
+			<string>Tenté</string>
+			<string></string>
+			<string>ESSAYE</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string>Tenté</string>
+			<string>Destruction cellulaire</string>
+			<string>ESSAYE</string>
+			<string>LYSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Déformes</string>
+			<string>Se chiffraient</string>
+			<string>TORDS</string>
+			<string>VALAIENT</string>
+		</array>
+		<array>
+			<string>Déformes</string>
+			<string>Poison discret</string>
+			<string>TORDS</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Déformes</string>
+			<string>Entailler la lettre</string>
+			<string>TORDS</string>
+			<string>CRENER</string>
+		</array>
+		<array>
+			<string>Déformes</string>
+			<string>Point cardinal</string>
+			<string>TORDS</string>
+			<string>NORD</string>
+		</array>
+		<array>
+			<string>Déformes</string>
+			<string>Fertilisées</string>
+			<string>TORDS</string>
+			<string>AZOTEES</string>
+		</array>
+	</array>
+</array>
+</plist>

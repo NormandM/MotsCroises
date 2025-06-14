@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>GRATTEPAPIER</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Charges bestiales</string>
+			<string>GRATTEPAPIER</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Symbole de pureté</string>
+			<string>GRATTEPAPIER</string>
+			<string>AGNEAU</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Aux bouts du tram</string>
+			<string>GRATTEPAPIER</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Pour le père et le fils</string>
+			<string>GRATTEPAPIER</string>
+			<string>TEL</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Scion fusionné</string>
+			<string>GRATTEPAPIER</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>En option</string>
+			<string>GRATTEPAPIER</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Marquées par les échecs</string>
+			<string>GRATTEPAPIER</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>GRATTEPAPIER</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Mémoires audiovisuelles</string>
+			<string>GRATTEPAPIER</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string>Agir en justice</string>
+			<string>GRATTEPAPIER</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string>Rond-de-cuir</string>
+			<string></string>
+			<string>GRATTEPAPIER</string>
+			<string>R</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>AUGMENTIONS</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Charges bestiales</string>
+			<string>AUGMENTIONS</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Symbole de pureté</string>
+			<string>AUGMENTIONS</string>
+			<string>AGNEAU</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Aux bouts du tram</string>
+			<string>AUGMENTIONS</string>
+			<string>TM</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Pour le père et le fils</string>
+			<string>AUGMENTIONS</string>
+			<string>TEL</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Scion fusionné</string>
+			<string>AUGMENTIONS</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>En option</string>
+			<string>AUGMENTIONS</string>
+			<string>PT</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Marquées par les échecs</string>
+			<string>AUGMENTIONS</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>AUGMENTIONS</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Mémoires audiovisuelles</string>
+			<string>AUGMENTIONS</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string>Faisions croître</string>
+			<string>Agir en justice</string>
+			<string>AUGMENTIONS</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ancienne monnaie asiatique</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>SEN</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Ancienne monnaie asiatique</string>
+			<string>Charges bestiales</string>
+			<string>SEN</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>Ancienne monnaie asiatique</string>
+			<string>Symbole de pureté</string>
+			<string>SEN</string>
+			<string>AGNEAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dans la Baltique</string>
+			<string>Pour le père et le fils</string>
+			<string>LT</string>
+			<string>TEL</string>
+		</array>
+		<array>
+			<string>Dans la Baltique</string>
+			<string>Scion fusionné</string>
+			<string>LT</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Agi en rapace</string>
+			<string>Marquées par les échecs</string>
+			<string>GLATI</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Agi en rapace</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>GLATI</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string>Agi en rapace</string>
+			<string>Mémoires audiovisuelles</string>
+			<string>GLATI</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string>Agi en rapace</string>
+			<string>Agir en justice</string>
+			<string>GLATI</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string>Agi en rapace</string>
+			<string>Symbole</string>
+			<string>GLATI</string>
+			<string>IR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pour le premier coup</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>TEES</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Pour le premier coup</string>
+			<string>Charges bestiales</string>
+			<string>TEES</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>Pour le premier coup</string>
+			<string>Symbole de pureté</string>
+			<string>TEES</string>
+			<string>AGNEAU</string>
+		</array>
+		<array>
+			<string>Pour le premier coup</string>
+			<string>Elle mugit</string>
+			<string>TEES</string>
+			<string>SIRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Persiste après l&apos;élan</string>
+			<string>Scion fusionné</string>
+			<string>ERRE</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string>Persiste après l&apos;élan</string>
+			<string>A un président</string>
+			<string>ERRE</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string>Persiste après l&apos;élan</string>
+			<string>Marquées par les échecs</string>
+			<string>ERRE</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Persiste après l&apos;élan</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>ERRE</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pousser à l&apos;extrême</string>
+			<string>Agir en justice</string>
+			<string>ER</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string>Pousser à l&apos;extrême</string>
+			<string>Symbole</string>
+			<string>ER</string>
+			<string>IR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prophète biblique</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>ESAIE</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Prophète biblique</string>
+			<string>Charges bestiales</string>
+			<string>ESAIE</string>
+			<string>RUEES</string>
+		</array>
+		<array>
+			<string>Prophète biblique</string>
+			<string>Symbole de pureté</string>
+			<string>ESAIE</string>
+			<string>AGNEAU</string>
+		</array>
+		<array>
+			<string>Prophète biblique</string>
+			<string>Elle mugit</string>
+			<string>ESAIE</string>
+			<string>SIRENE</string>
+		</array>
+		<array>
+			<string>Prophète biblique</string>
+			<string>Pronom</string>
+			<string>ESAIE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cesser</string>
+			<string>A un président</string>
+			<string>FINIR</string>
+			<string>RF</string>
+		</array>
+		<array>
+			<string>Cesser</string>
+			<string>Marquées par les échecs</string>
+			<string>FINIR</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Cesser</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>FINIR</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string>Cesser</string>
+			<string>Partie à droite</string>
+			<string>FINIR</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Cesser</string>
+			<string>Agir en justice</string>
+			<string>FINIR</string>
+			<string>ESTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Vont toujours ventre à terre</string>
+			<string>R</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Présente à chaque tour</string>
+			<string>Symbole de pureté</string>
+			<string>URNE</string>
+			<string>AGNEAU</string>
+		</array>
+		<array>
+			<string>Présente à chaque tour</string>
+			<string>Elle mugit</string>
+			<string>URNE</string>
+			<string>SIRENE</string>
+		</array>
+		<array>
+			<string>Présente à chaque tour</string>
+			<string>Pronom</string>
+			<string>URNE</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Présente à chaque tour</string>
+			<string>Concepts distincts</string>
+			<string>URNE</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Façon d&apos;être</string>
+			<string>Marquées par les échecs</string>
+			<string>ETE</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Façon d&apos;être</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>ETE</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string>Façon d&apos;être</string>
+			<string>Partie à droite</string>
+			<string>ETE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Veille à la santé</string>
+			<string>O</string>
+			<string>OMS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ressource convoitée</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>OR</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Ressource convoitée</string>
+			<string>Plat mal préparé</string>
+			<string>OR</string>
+			<string>RATA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Elle mugit</string>
+			<string>E</string>
+			<string>SIRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pionnière des étoiles</string>
+			<string>Concepts distincts</string>
+			<string>NASA</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string>Pionnière des étoiles</string>
+			<string>Changer d&apos;atmosphère</string>
+			<string>NASA</string>
+			<string>AERER</string>
+		</array>
+		<array>
+			<string>Pionnière des étoiles</string>
+			<string>Marquées par les échecs</string>
+			<string>NASA</string>
+			<string>AIGRIES</string>
+		</array>
+		<array>
+			<string>Pionnière des étoiles</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>NASA</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Roman de Kim Thuy</string>
+			<string>Exclame</string>
+			<string>EM</string>
+			<string>ECRIE</string>
+		</array>
+		<array>
+			<string>Roman de Kim Thuy</string>
+			<string>Veille à la santé</string>
+			<string>EM</string>
+			<string>OMS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Se met au lit</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>PAGNOTE</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Se met au lit</string>
+			<string>Plat mal préparé</string>
+			<string>PAGNOTE</string>
+			<string>RATA</string>
+		</array>
+		<array>
+			<string>Se met au lit</string>
+			<string>Nid à quartz</string>
+			<string>PAGNOTE</string>
+			<string>GEODE</string>
+		</array>
+		<array>
+			<string>Se met au lit</string>
+			<string>Elle mugit</string>
+			<string>PAGNOTE</string>
+			<string>SIRENE</string>
+		</array>
+		<array>
+			<string>Se met au lit</string>
+			<string></string>
+			<string>PAGNOTE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Se met au lit</string>
+			<string>Concepts distincts</string>
+			<string>PAGNOTE</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string>Se met au lit</string>
+			<string>Changer d&apos;atmosphère</string>
+			<string>PAGNOTE</string>
+			<string>AERER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Besaces</string>
+			<string>Spécialités de l&apos;Italie</string>
+			<string>SACS</string>
+			<string>POLENTAS</string>
+		</array>
+		<array>
+			<string>Besaces</string>
+			<string>N&apos;est pas le même</string>
+			<string>SACS</string>
+			<string>AUTRE</string>
+		</array>
+		<array>
+			<string>Besaces</string>
+			<string>Exclame</string>
+			<string>SACS</string>
+			<string>ECRIE</string>
+		</array>
+		<array>
+			<string>Besaces</string>
+			<string>Veille à la santé</string>
+			<string>SACS</string>
+			<string>OMS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Reprise</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>OTEE</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Reprise</string>
+			<string>Plat mal préparé</string>
+			<string>OTEE</string>
+			<string>RATA</string>
+		</array>
+		<array>
+			<string>Reprise</string>
+			<string>Nid à quartz</string>
+			<string>OTEE</string>
+			<string>GEODE</string>
+		</array>
+		<array>
+			<string>Reprise</string>
+			<string>Elle mugit</string>
+			<string>OTEE</string>
+			<string>SIRENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colère irlandaise</string>
+			<string>Concepts distincts</string>
+			<string>IRA</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string>Colère irlandaise</string>
+			<string>Changer d&apos;atmosphère</string>
+			<string>IRA</string>
+			<string>AERER</string>
+		</array>
+		<array>
+			<string>Colère irlandaise</string>
+			<string>Beaux parleurs</string>
+			<string>IRA</string>
+			<string>ARAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ville du Croissant fertile</string>
+			<string>N&apos;est pas le même</string>
+			<string>UR</string>
+			<string>AUTRE</string>
+		</array>
+		<array>
+			<string>Ville du Croissant fertile</string>
+			<string>Exclame</string>
+			<string>UR</string>
+			<string>ECRIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pensée chinoise</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>DAO</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Pensée chinoise</string>
+			<string>Plat mal préparé</string>
+			<string>DAO</string>
+			<string>RATA</string>
+		</array>
+		<array>
+			<string>Pensée chinoise</string>
+			<string>Nid à quartz</string>
+			<string>DAO</string>
+			<string>GEODE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>A vieilli sans s&apos;apaiser</string>
+			<string>ITERATIF</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>Concepts distincts</string>
+			<string>ITERATIF</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>Changer d&apos;atmosphère</string>
+			<string>ITERATIF</string>
+			<string>AERER</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>Beaux parleurs</string>
+			<string>ITERATIF</string>
+			<string>ARAS</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string></string>
+			<string>ITERATIF</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>N&apos;est pas le même</string>
+			<string>ITERATIF</string>
+			<string>AUTRE</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>Exclame</string>
+			<string>ITERATIF</string>
+			<string>ECRIE</string>
+		</array>
+		<array>
+			<string>Répétitif par nature</string>
+			<string>Dame aux pouvoirs</string>
+			<string>ITERATIF</string>
+			<string>FEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Vont toujours ventre à terre</string>
+			<string>E</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tiendra bon</string>
+			<string>Nid à quartz</string>
+			<string>DURERA</string>
+			<string>GEODE</string>
+		</array>
+		<array>
+			<string>Tiendra bon</string>
+			<string>Luth oriental</string>
+			<string>DURERA</string>
+			<string>UD</string>
+		</array>
+		<array>
+			<string>Tiendra bon</string>
+			<string>A vieilli sans s&apos;apaiser</string>
+			<string>DURERA</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Tiendra bon</string>
+			<string>Concepts distincts</string>
+			<string>DURERA</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string>Tiendra bon</string>
+			<string>Changer d&apos;atmosphère</string>
+			<string>DURERA</string>
+			<string>AERER</string>
+		</array>
+		<array>
+			<string>Tiendra bon</string>
+			<string>Beaux parleurs</string>
+			<string>DURERA</string>
+			<string>ARAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Appelle dans les bois</string>
+			<string>N&apos;est pas le même</string>
+			<string>REE</string>
+			<string>AUTRE</string>
+		</array>
+		<array>
+			<string>Appelle dans les bois</string>
+			<string>Exclame</string>
+			<string>REE</string>
+			<string>ECRIE</string>
+		</array>
+		<array>
+			<string>Appelle dans les bois</string>
+			<string>Dame aux pouvoirs</string>
+			<string>REE</string>
+			<string>FEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Peaux</string>
+			<string>Vont toujours ventre à terre</string>
+			<string>SUEDES</string>
+			<string>GASTEROPODES</string>
+		</array>
+		<array>
+			<string>Peaux</string>
+			<string></string>
+			<string>SUEDES</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Peaux</string>
+			<string>Nid à quartz</string>
+			<string>SUEDES</string>
+			<string>GEODE</string>
+		</array>
+		<array>
+			<string>Peaux</string>
+			<string>Luth oriental</string>
+			<string>SUEDES</string>
+			<string>UD</string>
+		</array>
+		<array>
+			<string>Peaux</string>
+			<string>A vieilli sans s&apos;apaiser</string>
+			<string>SUEDES</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Peaux</string>
+			<string>Concepts distincts</string>
+			<string>SUEDES</string>
+			<string>ENTITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Peine</string>
+			<string>Beaux parleurs</string>
+			<string>SUE</string>
+			<string>ARAS</string>
+		</array>
+		<array>
+			<string>Peine</string>
+			<string></string>
+			<string>SUE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Peine</string>
+			<string>N&apos;est pas le même</string>
+			<string>SUE</string>
+			<string>AUTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Dame aux pouvoirs</string>
+			<string>E</string>
+			<string>FEE</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Maritimes</string>
+			<string>Lexique</string>
+			<string>NAVALES</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Maritimes</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>NAVALES</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Maritimes</string>
+			<string>Transparence fragile</string>
+			<string>NAVALES</string>
+			<string>VITRE</string>
+		</array>
+		<array>
+			<string>Maritimes</string>
+			<string>Un des cinq grands</string>
+			<string>NAVALES</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string>Maritimes</string>
+			<string>Largeurs</string>
+			<string>NAVALES</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>Maritimes</string>
+			<string>Suit le docteur</string>
+			<string>NAVALES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Maritimes</string>
+			<string></string>
+			<string>NAVALES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Qu’il laissât de côté</string>
+			<string>C’est stupéfiant</string>
+			<string>OMIT</string>
+			<string>OPIUM</string>
+		</array>
+		<array>
+			<string>Qu’il laissât de côté</string>
+			<string>Rouge, Noire, Morte et les autres</string>
+			<string>OMIT</string>
+			<string>MERS</string>
+		</array>
+		<array>
+			<string>Qu’il laissât de côté</string>
+			<string>Colère</string>
+			<string>OMIT</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Qu’il laissât de côté</string>
+			<string>Petite strophe</string>
+			<string>OMIT</string>
+			<string>TERCET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Négligées</string>
+			<string>Lexique</string>
+			<string>OMISES</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Négligées</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>OMISES</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Négligées</string>
+			<string>Transparence fragile</string>
+			<string>OMISES</string>
+			<string>VITRE</string>
+		</array>
+		<array>
+			<string>Négligées</string>
+			<string>Un des cinq grands</string>
+			<string>OMISES</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string>Négligées</string>
+			<string>Largeurs</string>
+			<string>OMISES</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>Négligées</string>
+			<string>Suit le docteur</string>
+			<string>OMISES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Passe à l’acte</string>
+			<string>Étrangère à l’argent</string>
+			<string>OPERE</string>
+			<string>ODEUR</string>
+		</array>
+		<array>
+			<string>Passe à l’acte</string>
+			<string>C’est stupéfiant</string>
+			<string>OPERE</string>
+			<string>OPIUM</string>
+		</array>
+		<array>
+			<string>Passe à l’acte</string>
+			<string>Rouge, Noire, Morte et les autres</string>
+			<string>OPERE</string>
+			<string>MERS</string>
+		</array>
+		<array>
+			<string>Passe à l’acte</string>
+			<string>Colère</string>
+			<string>OPERE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Passe à l’acte</string>
+			<string>Petite strophe</string>
+			<string>OPERE</string>
+			<string>TERCET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Toile de coton</string>
+			<string>Lexique</string>
+			<string>METIS</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Toile de coton</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>METIS</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Toile de coton</string>
+			<string>Transparence fragile</string>
+			<string>METIS</string>
+			<string>VITRE</string>
+		</array>
+		<array>
+			<string>Toile de coton</string>
+			<string>Un des cinq grands</string>
+			<string>METIS</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string>Toile de coton</string>
+			<string>Largeurs</string>
+			<string>METIS</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Égarer</string>
+			<string>Lutte contre le froid</string>
+			<string>ADIRER</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string>Égarer</string>
+			<string>Étrangère à l’argent</string>
+			<string>ADIRER</string>
+			<string>ODEUR</string>
+		</array>
+		<array>
+			<string>Égarer</string>
+			<string>C’est stupéfiant</string>
+			<string>ADIRER</string>
+			<string>OPIUM</string>
+		</array>
+		<array>
+			<string>Égarer</string>
+			<string>Rouge, Noire, Morte et les autres</string>
+			<string>ADIRER</string>
+			<string>MERS</string>
+		</array>
+		<array>
+			<string>Égarer</string>
+			<string>Colère</string>
+			<string>ADIRER</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Égarer</string>
+			<string>Petite strophe</string>
+			<string>ADIRER</string>
+			<string>TERCET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mouvement résiduel</string>
+			<string>Lexique</string>
+			<string>ERRE</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Mouvement résiduel</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>ERRE</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Mouvement résiduel</string>
+			<string>Transparence fragile</string>
+			<string>ERRE</string>
+			<string>VITRE</string>
+		</array>
+		<array>
+			<string>Mouvement résiduel</string>
+			<string>Un des cinq grands</string>
+			<string>ERRE</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plutôt gonflés</string>
+			<string>Variété de millet</string>
+			<string>PNEUS</string>
+			<string>PANIC</string>
+		</array>
+		<array>
+			<string>Plutôt gonflés</string>
+			<string>Lutte contre le froid</string>
+			<string>PNEUS</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string>Plutôt gonflés</string>
+			<string>Étrangère à l’argent</string>
+			<string>PNEUS</string>
+			<string>ODEUR</string>
+		</array>
+		<array>
+			<string>Plutôt gonflés</string>
+			<string>C’est stupéfiant</string>
+			<string>PNEUS</string>
+			<string>OPIUM</string>
+		</array>
+		<array>
+			<string>Plutôt gonflés</string>
+			<string>Rouge, Noire, Morte et les autres</string>
+			<string>PNEUS</string>
+			<string>MERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Petite strophe</string>
+			<string>C</string>
+			<string>TERCET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Infirme</string>
+			<string>Lexique</string>
+			<string>NIE</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Infirme</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>NIE</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Infirme</string>
+			<string>Transparence fragile</string>
+			<string>NIE</string>
+			<string>VITRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Destin</string>
+			<string>Chapeau</string>
+			<string>FATUM</string>
+			<string>FEZ</string>
+		</array>
+		<array>
+			<string>Destin</string>
+			<string>Variété de millet</string>
+			<string>FATUM</string>
+			<string>PANIC</string>
+		</array>
+		<array>
+			<string>Destin</string>
+			<string>Lutte contre le froid</string>
+			<string>FATUM</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string>Destin</string>
+			<string>Étrangère à l’argent</string>
+			<string>FATUM</string>
+			<string>ODEUR</string>
+		</array>
+		<array>
+			<string>Destin</string>
+			<string>C’est stupéfiant</string>
+			<string>FATUM</string>
+			<string>OPIUM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>De la rose</string>
+			<string>Tient le bas en tension</string>
+			<string>SE</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>De la rose</string>
+			<string>Petite strophe</string>
+			<string>SE</string>
+			<string>TERCET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Deux cents à Rome</string>
+			<string>Lexique</string>
+			<string>CC</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Deux cents à Rome</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>CC</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Acte de foi</string>
+			<string></string>
+			<string>BENIR</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string>Acte de foi</string>
+			<string>Chapeau</string>
+			<string>BENIR</string>
+			<string>FEZ</string>
+		</array>
+		<array>
+			<string>Acte de foi</string>
+			<string>Variété de millet</string>
+			<string>BENIR</string>
+			<string>PANIC</string>
+		</array>
+		<array>
+			<string>Acte de foi</string>
+			<string>Lutte contre le froid</string>
+			<string>BENIR</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string>Acte de foi</string>
+			<string>Étrangère à l’argent</string>
+			<string>BENIR</string>
+			<string>ODEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avec les poules</string>
+			<string>Bois</string>
+			<string>TOT</string>
+			<string>TEK</string>
+		</array>
+		<array>
+			<string>Avec les poules</string>
+			<string>Tient le bas en tension</string>
+			<string>TOT</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>Avec les poules</string>
+			<string>Petite strophe</string>
+			<string>TOT</string>
+			<string>TERCET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il veille au crin</string>
+			<string>Lexique</string>
+			<string>LAD</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Il veille au crin</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>LAD</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Il veille au crin</string>
+			<string>Franc</string>
+			<string>LAD</string>
+			<string>DIRECT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Quidam</string>
+			<string>Chapeau</string>
+			<string>ZIG</string>
+			<string>FEZ</string>
+		</array>
+		<array>
+			<string>Quidam</string>
+			<string>Variété de millet</string>
+			<string>ZIG</string>
+			<string>PANIC</string>
+		</array>
+		<array>
+			<string>Quidam</string>
+			<string>Lutte contre le froid</string>
+			<string>ZIG</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un rien</string>
+			<string></string>
+			<string>PEU</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Un rien</string>
+			<string>Bois</string>
+			<string>PEU</string>
+			<string>TEK</string>
+		</array>
+		<array>
+			<string>Un rien</string>
+			<string>Tient le bas en tension</string>
+			<string>PEU</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ingrédient du raki</string>
+			<string>Lexique</string>
+			<string>ANIS</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Ingrédient du raki</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>ANIS</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Ingrédient du raki</string>
+			<string>Franc</string>
+			<string>ANIS</string>
+			<string>DIRECT</string>
+		</array>
+		<array>
+			<string>Ingrédient du raki</string>
+			<string>Fit pression</string>
+			<string>ANIS</string>
+			<string>SERRA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>On le dépouille dès septembre</string>
+			<string>Variété de millet</string>
+			<string>CEP</string>
+			<string>PANIC</string>
+		</array>
+		<array>
+			<string>On le dépouille dès septembre</string>
+			<string>Lutte contre le froid</string>
+			<string>CEP</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string>On le dépouille dès septembre</string>
+			<string>Tonus</string>
+			<string>CEP</string>
+			<string>PEP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Celui d’avant est nu</string>
+			<string>Bois</string>
+			<string>KSI</string>
+			<string>TEK</string>
+		</array>
+		<array>
+			<string>Celui d’avant est nu</string>
+			<string>Tient le bas en tension</string>
+			<string>KSI</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>Celui d’avant est nu</string>
+			<string>Au parfum de mer</string>
+			<string>KSI</string>
+			<string>IODEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Faire feu</string>
+			<string>Lexique</string>
+			<string>TIRER</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Faire feu</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>TIRER</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Faire feu</string>
+			<string>Franc</string>
+			<string>TIRER</string>
+			<string>DIRECT</string>
+		</array>
+		<array>
+			<string>Faire feu</string>
+			<string>Fit pression</string>
+			<string>TIRER</string>
+			<string>SERRA</string>
+		</array>
+		<array>
+			<string>Faire feu</string>
+			<string>Voie ferrée</string>
+			<string>TIRER</string>
+			<string>RAIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Lutte contre le froid</string>
+			<string>LEA</string>
+			<string>ANTIGEL</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Tonus</string>
+			<string>LEA</string>
+			<string>PEP</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Plante herbacée</string>
+			<string>LEA</string>
+			<string>ALFA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traverse le Piémont</string>
+			<string>Tient le bas en tension</string>
+			<string>PO</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>Traverse le Piémont</string>
+			<string>Au parfum de mer</string>
+			<string>PO</string>
+			<string>IODEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Utiliseras</string>
+			<string>Lexique</string>
+			<string>USERAS</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Utiliseras</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>USERAS</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Utiliseras</string>
+			<string>Franc</string>
+			<string>USERAS</string>
+			<string>DIRECT</string>
+		</array>
+		<array>
+			<string>Utiliseras</string>
+			<string>Fit pression</string>
+			<string>USERAS</string>
+			<string>SERRA</string>
+		</array>
+		<array>
+			<string>Utiliseras</string>
+			<string>Voie ferrée</string>
+			<string>USERAS</string>
+			<string>RAIL</string>
+		</array>
+		<array>
+			<string>Utiliseras</string>
+			<string>Fin sur la table</string>
+			<string>USERAS</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Motif de kilts</string>
+			<string>Tonus</string>
+			<string>PLAID</string>
+			<string>PEP</string>
+		</array>
+		<array>
+			<string>Motif de kilts</string>
+			<string>Plante herbacée</string>
+			<string>PLAID</string>
+			<string>ALFA</string>
+		</array>
+		<array>
+			<string>Motif de kilts</string>
+			<string>Affluent du Rhône</string>
+			<string>PLAID</string>
+			<string>AIN</string>
+		</array>
+		<array>
+			<string>Motif de kilts</string>
+			<string>Tient le bas en tension</string>
+			<string>PLAID</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>Motif de kilts</string>
+			<string>Au parfum de mer</string>
+			<string>PLAID</string>
+			<string>IODEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Protester</string>
+			<string>Lexique</string>
+			<string>RECRIER</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Protester</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>RECRIER</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Protester</string>
+			<string>Franc</string>
+			<string>RECRIER</string>
+			<string>DIRECT</string>
+		</array>
+		<array>
+			<string>Protester</string>
+			<string>Fit pression</string>
+			<string>RECRIER</string>
+			<string>SERRA</string>
+		</array>
+		<array>
+			<string>Protester</string>
+			<string>Voie ferrée</string>
+			<string>RECRIER</string>
+			<string>RAIL</string>
+		</array>
+		<array>
+			<string>Protester</string>
+			<string>Fin sur la table</string>
+			<string>RECRIER</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string>Protester</string>
+			<string>Dieu solaire</string>
+			<string>RECRIER</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A jugé digne de foi</string>
+			<string>Plante herbacée</string>
+			<string>FIEE</string>
+			<string>ALFA</string>
+		</array>
+		<array>
+			<string>A jugé digne de foi</string>
+			<string>Affluent du Rhône</string>
+			<string>FIEE</string>
+			<string>AIN</string>
+		</array>
+		<array>
+			<string>A jugé digne de foi</string>
+			<string>Tient le bas en tension</string>
+			<string>FIEE</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>A jugé digne de foi</string>
+			<string>Au parfum de mer</string>
+			<string>FIEE</string>
+			<string>IODEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Lexique</string>
+			<string>ESTALLEMANDE</string>
+			<string>NOMENCLATURE</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Aux couleurs de l’Oncle Sam</string>
+			<string>ESTALLEMANDE</string>
+			<string>AMERICANISES</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Franc</string>
+			<string>ESTALLEMANDE</string>
+			<string>DIRECT</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Fit pression</string>
+			<string>ESTALLEMANDE</string>
+			<string>SERRA</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Voie ferrée</string>
+			<string>ESTALLEMANDE</string>
+			<string>RAIL</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Fin sur la table</string>
+			<string>ESTALLEMANDE</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Dieu solaire</string>
+			<string>ESTALLEMANDE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string></string>
+			<string>ESTALLEMANDE</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Plante herbacée</string>
+			<string>ESTALLEMANDE</string>
+			<string>ALFA</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Affluent du Rhône</string>
+			<string>ESTALLEMANDE</string>
+			<string>AIN</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Tient le bas en tension</string>
+			<string>ESTALLEMANDE</string>
+			<string>SOUSPIED</string>
+		</array>
+		<array>
+			<string>Issue du bloc de l’Est</string>
+			<string>Au parfum de mer</string>
+			<string>ESTALLEMANDE</string>
+			<string>IODEE</string>
+		</array>
+	</array>
+</array>
+</plist>

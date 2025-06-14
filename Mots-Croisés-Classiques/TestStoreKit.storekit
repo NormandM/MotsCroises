@@ -1,0 +1,380 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "9A5145B6",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482501070",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 1 à 10 D",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises01a010",
+      "referenceName" : "Grilles 1 à 10 Facile",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1211842213",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 1 à 10",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises1a10",
+      "referenceName" : "Grilles 1 à 10 Intermédiaire",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512164",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 1 a 10 E",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises51a60",
+      "referenceName" : "Grilles 1 à 10 Intermédiaire +",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6746078016",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 1 à 10 AV",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises101a110",
+      "referenceName" : "Grilles 101 à 110 Avancées",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512019",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 11 a 20 D",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises011a020",
+      "referenceName" : "Grilles 11 à  20 Facile",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1211842214",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 11 à 20",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises11a20",
+      "referenceName" : "Grilles 11 à 20 Intermédiaire",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512170",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 11 a 20 E",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises61a70",
+      "referenceName" : "Grilles 11 à 20 Intermédiaire +",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6746081012",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 Grilles",
+          "displayName" : "Grilles 11 à 20 AV",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises102a120",
+      "referenceName" : "Grilles 111 à 120 Avancées",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6746079711",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 Grilles",
+          "displayName" : "Grilles 21 à 30 AV",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises103a130",
+      "referenceName" : "Grilles 121 à 130 Avancées",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6746081464",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 Grilles",
+          "displayName" : "Grilles 31 à 40 AV",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises104a140",
+      "referenceName" : "Grilles 131 à 140 Avancées",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6746081523",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 Grilles",
+          "displayName" : "Grilles 41 à 50 AV",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises105a150",
+      "referenceName" : "Grilles 141 à 150 Avancées",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512129",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 21 a 30 D",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises021a030",
+      "referenceName" : "Grilles 21 à 30 Facile",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1211842219",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 21 à 30",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises21a30",
+      "referenceName" : "Grilles 21 à 30 Intermédiaire",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512171",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 21 a 30 E",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises71a80",
+      "referenceName" : "Grilles 21 à 30 Intermédiaire +",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512133",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 31 a 40 D",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises031a040",
+      "referenceName" : "Grilles 31 à 40 Facile",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1211842221",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 31 à 40",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises31a30",
+      "referenceName" : "Grilles 31 à 40 Intermédiaire",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512176",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 31 a 40 E",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises81a90",
+      "referenceName" : "Grilles 31 à 40 Intermédiaire +",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512163",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 41 a 50 D",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises041a050",
+      "referenceName" : "Grilles 41 à 50 Facile",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1211842223",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grille 41 à 50",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises41a50",
+      "referenceName" : "Grilles 41 à 50 Intermédiaire",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1482512276",
+      "localizations" : [
+        {
+          "description" : "Acheter 10 grilles",
+          "displayName" : "Grilles 41 a 50 E",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "NM.MotsCroises91a100",
+      "referenceName" : "Grilles 41 à 50 Intermédiaire +",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1210494247",
+    "_developerTeamID" : "X6D769Z7F4",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 771451890.83687103,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

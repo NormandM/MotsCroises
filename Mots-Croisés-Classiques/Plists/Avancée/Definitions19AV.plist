@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Panneau</string>
+			<string>PINACOTHEQUE</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Rêvés</string>
+			<string>PINACOTHEQUE</string>
+			<string>IDEALS</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Sortie des eaux</string>
+			<string>PINACOTHEQUE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string></string>
+			<string>PINACOTHEQUE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Elle est parfois suprême</string>
+			<string>PINACOTHEQUE</string>
+			<string>COUR</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Sans lui, on s’écroule</string>
+			<string>PINACOTHEQUE</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Ossature piétonne</string>
+			<string>PINACOTHEQUE</string>
+			<string>TARSE</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Dame</string>
+			<string>PINACOTHEQUE</string>
+			<string>HIE</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string></string>
+			<string>PINACOTHEQUE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Interroge</string>
+			<string>PINACOTHEQUE</string>
+			<string>QUOI</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Ferais le lien</string>
+			<string>PINACOTHEQUE</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Lieu d’accrochage artistique</string>
+			<string>Primordiales</string>
+			<string>PINACOTHEQUE</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lyrisme poétique</string>
+			<string>Panneau</string>
+			<string>ODE</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Lyrisme poétique</string>
+			<string>Rêvés</string>
+			<string>ODE</string>
+			<string>IDEALS</string>
+		</array>
+		<array>
+			<string>Lyrisme poétique</string>
+			<string>Sortie des eaux</string>
+			<string>ODE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pris le risque</string>
+			<string>Elle est parfois suprême</string>
+			<string>OSAI</string>
+			<string>COUR</string>
+		</array>
+		<array>
+			<string>Pris le risque</string>
+			<string>Sans lui, on s’écroule</string>
+			<string>OSAI</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Pris le risque</string>
+			<string>Ossature piétonne</string>
+			<string>OSAI</string>
+			<string>TARSE</string>
+		</array>
+		<array>
+			<string>Pris le risque</string>
+			<string>Dame</string>
+			<string>OSAI</string>
+			<string>HIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Souvent en avance sur les autres</string>
+			<string>Interroge</string>
+			<string>UNS</string>
+			<string>QUOI</string>
+		</array>
+		<array>
+			<string>Souvent en avance sur les autres</string>
+			<string>Ferais le lien</string>
+			<string>UNS</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Souvent en avance sur les autres</string>
+			<string>Primordiales</string>
+			<string>UNS</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il a gardé son siège</string>
+			<string>Panneau</string>
+			<string>REELU</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Il a gardé son siège</string>
+			<string>Rêvés</string>
+			<string>REELU</string>
+			<string>IDEALS</string>
+		</array>
+		<array>
+			<string>Il a gardé son siège</string>
+			<string>Sortie des eaux</string>
+			<string>REELU</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Il a gardé son siège</string>
+			<string>Quartier parisien</string>
+			<string>REELU</string>
+			<string>LATIN</string>
+		</array>
+		<array>
+			<string>Il a gardé son siège</string>
+			<string>Elle est parfois suprême</string>
+			<string>REELU</string>
+			<string>COUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Encaisse</string>
+			<string>Ossature piétonne</string>
+			<string>RECOIS</string>
+			<string>TARSE</string>
+		</array>
+		<array>
+			<string>Encaisse</string>
+			<string>Dame</string>
+			<string>RECOIS</string>
+			<string>HIE</string>
+		</array>
+		<array>
+			<string>Encaisse</string>
+			<string>Très indigeste</string>
+			<string>RECOIS</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string>Encaisse</string>
+			<string>Interroge</string>
+			<string>RECOIS</string>
+			<string>QUOI</string>
+		</array>
+		<array>
+			<string>Encaisse</string>
+			<string>Ferais le lien</string>
+			<string>RECOIS</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Encaisse</string>
+			<string>Primordiales</string>
+			<string>RECOIS</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Demi-tante</string>
+			<string>Panneau</string>
+			<string>TA</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Demi-tante</string>
+			<string>Rêvés</string>
+			<string>TA</string>
+			<string>IDEALS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Instruments à cordes</string>
+			<string>Quartier parisien</string>
+			<string>ARCS</string>
+			<string>LATIN</string>
+		</array>
+		<array>
+			<string>Instruments à cordes</string>
+			<string>Elle est parfois suprême</string>
+			<string>ARCS</string>
+			<string>COUR</string>
+		</array>
+		<array>
+			<string>Instruments à cordes</string>
+			<string>Pas lisse du tout</string>
+			<string>ARCS</string>
+			<string>CREPU</string>
+		</array>
+		<array>
+			<string>Instruments à cordes</string>
+			<string>Ossature piétonne</string>
+			<string>ARCS</string>
+			<string>TARSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se poiler</string>
+			<string>Très indigeste</string>
+			<string>RIRE</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string>Se poiler</string>
+			<string>Interroge</string>
+			<string>RIRE</string>
+			<string>QUOI</string>
+		</array>
+		<array>
+			<string>Se poiler</string>
+			<string>Ferais le lien</string>
+			<string>RIRE</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Se poiler</string>
+			<string>Primordiales</string>
+			<string>RIRE</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mandata</string>
+			<string>Panneau</string>
+			<string>ELUT</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Mandata</string>
+			<string>Rêvés</string>
+			<string>ELUT</string>
+			<string>IDEALS</string>
+		</array>
+		<array>
+			<string>Mandata</string>
+			<string>Alésa</string>
+			<string>ELUT</string>
+			<string>USINA</string>
+		</array>
+		<array>
+			<string>Mandata</string>
+			<string>Quartier parisien</string>
+			<string>ELUT</string>
+			<string>LATIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Preuve qu’on a donnée</string>
+			<string>Pas lisse du tout</string>
+			<string>RECU</string>
+			<string>CREPU</string>
+		</array>
+		<array>
+			<string>Preuve qu’on a donnée</string>
+			<string>Ossature piétonne</string>
+			<string>RECU</string>
+			<string>TARSE</string>
+		</array>
+		<array>
+			<string>Preuve qu’on a donnée</string>
+			<string>Dogme</string>
+			<string>RECU</string>
+			<string>CREDO</string>
+		</array>
+		<array>
+			<string>Preuve qu’on a donnée</string>
+			<string>Très indigeste</string>
+			<string>RECU</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Terme de bilan</string>
+			<string>Ferais le lien</string>
+			<string>AN</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Terme de bilan</string>
+			<string>Primordiales</string>
+			<string>AN</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Assurée</string>
+			<string>Panneau</string>
+			<string>ASSISE</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Assurée</string>
+			<string>Rêvés</string>
+			<string>ASSISE</string>
+			<string>IDEALS</string>
+		</array>
+		<array>
+			<string>Assurée</string>
+			<string>Alésa</string>
+			<string>ASSISE</string>
+			<string>USINA</string>
+		</array>
+		<array>
+			<string>Assurée</string>
+			<string>Quartier parisien</string>
+			<string>ASSISE</string>
+			<string>LATIN</string>
+		</array>
+		<array>
+			<string>Assurée</string>
+			<string>Ouistiti</string>
+			<string>ASSISE</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string>Assurée</string>
+			<string>Pas lisse du tout</string>
+			<string>ASSISE</string>
+			<string>CREPU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Confirme</string>
+			<string>Dogme</string>
+			<string>REDIT</string>
+			<string>CREDO</string>
+		</array>
+		<array>
+			<string>Confirme</string>
+			<string>Très indigeste</string>
+			<string>REDIT</string>
+			<string>CRUE</string>
+		</array>
+		<array>
+			<string>Confirme</string>
+			<string>Mesure au pixel près</string>
+			<string>REDIT</string>
+			<string>DPI</string>
+		</array>
+		<array>
+			<string>Confirme</string>
+			<string>Ferais le lien</string>
+			<string>REDIT</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Confirme</string>
+			<string>Primordiales</string>
+			<string>REDIT</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Panneau</string>
+			<string>F</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sans capacité</string>
+			<string>Alésa</string>
+			<string>INAPTE</string>
+			<string>USINA</string>
+		</array>
+		<array>
+			<string>Sans capacité</string>
+			<string>Quartier parisien</string>
+			<string>INAPTE</string>
+			<string>LATIN</string>
+		</array>
+		<array>
+			<string>Sans capacité</string>
+			<string>Ouistiti</string>
+			<string>INAPTE</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string>Sans capacité</string>
+			<string>Pas lisse du tout</string>
+			<string>INAPTE</string>
+			<string>CREPU</string>
+		</array>
+		<array>
+			<string>Sans capacité</string>
+			<string>Attractions foraines</string>
+			<string>INAPTE</string>
+			<string>TIRS</string>
+		</array>
+		<array>
+			<string>Sans capacité</string>
+			<string>Dogme</string>
+			<string>INAPTE</string>
+			<string>CREDO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lettre</string>
+			<string>Mesure au pixel près</string>
+			<string>PSI</string>
+			<string>DPI</string>
+		</array>
+		<array>
+			<string>Lettre</string>
+			<string>Ferais le lien</string>
+			<string>PSI</string>
+			<string>UNIRAIS</string>
+		</array>
+		<array>
+			<string>Lettre</string>
+			<string>Primordiales</string>
+			<string>PSI</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il encense</string>
+			<string>Panneau</string>
+			<string>FAN</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Il encense</string>
+			<string>Il est aveugle</string>
+			<string>FAN</string>
+			<string>AMOUR</string>
+		</array>
+		<array>
+			<string>Il encense</string>
+			<string>Alésa</string>
+			<string>FAN</string>
+			<string>USINA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donnai la direction</string>
+			<string>Ouistiti</string>
+			<string>GUIDAI</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string>Donnai la direction</string>
+			<string>Pas lisse du tout</string>
+			<string>GUIDAI</string>
+			<string>CREPU</string>
+		</array>
+		<array>
+			<string>Donnai la direction</string>
+			<string>Attractions foraines</string>
+			<string>GUIDAI</string>
+			<string>TIRS</string>
+		</array>
+		<array>
+			<string>Donnai la direction</string>
+			<string>Dogme</string>
+			<string>GUIDAI</string>
+			<string>CREDO</string>
+		</array>
+		<array>
+			<string>Donnai la direction</string>
+			<string>A mal tourné</string>
+			<string>GUIDAI</string>
+			<string>AIGRI</string>
+		</array>
+		<array>
+			<string>Donnai la direction</string>
+			<string>Mesure au pixel près</string>
+			<string>GUIDAI</string>
+			<string>DPI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Primordiales</string>
+			<string>E</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il a fini de muer</string>
+			<string>Panneau</string>
+			<string>IMAGO</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Il a fini de muer</string>
+			<string>Il est aveugle</string>
+			<string>IMAGO</string>
+			<string>AMOUR</string>
+		</array>
+		<array>
+			<string>Il a fini de muer</string>
+			<string>Alésa</string>
+			<string>IMAGO</string>
+			<string>USINA</string>
+		</array>
+		<array>
+			<string>Il a fini de muer</string>
+			<string>Corvidé</string>
+			<string>IMAGO</string>
+			<string>GEAI</string>
+		</array>
+		<array>
+			<string>Il a fini de muer</string>
+			<string>Ouistiti</string>
+			<string>IMAGO</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il craint l’échec</string>
+			<string>Attractions foraines</string>
+			<string>ROI</string>
+			<string>TIRS</string>
+		</array>
+		<array>
+			<string>Il craint l’échec</string>
+			<string>Dogme</string>
+			<string>ROI</string>
+			<string>CREDO</string>
+		</array>
+		<array>
+			<string>Il craint l’échec</string>
+			<string>A mal tourné</string>
+			<string>ROI</string>
+			<string>AIGRI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Volume</string>
+			<string>Adjectif possessif</string>
+			<string>ML</string>
+			<string>MIEN</string>
+		</array>
+		<array>
+			<string>Volume</string>
+			<string>Primordiales</string>
+			<string>ML</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Gaz toxique</string>
+			<string>Panneau</string>
+			<string>CO</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Gaz toxique</string>
+			<string>Il est aveugle</string>
+			<string>CO</string>
+			<string>AMOUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>D’un auxiliaire</string>
+			<string>Corvidé</string>
+			<string>EUES</string>
+			<string>GEAI</string>
+		</array>
+		<array>
+			<string>D’un auxiliaire</string>
+			<string>Ouistiti</string>
+			<string>EUES</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string>D’un auxiliaire</string>
+			<string>Verbe ou direction</string>
+			<string>EUES</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>D’un auxiliaire</string>
+			<string>Attractions foraines</string>
+			<string>EUES</string>
+			<string>TIRS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Support de cuisson</string>
+			<string>A mal tourné</string>
+			<string>GRIL</string>
+			<string>AIGRI</string>
+		</array>
+		<array>
+			<string>Support de cuisson</string>
+			<string>Bravo au cinéma</string>
+			<string>GRIL</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Support de cuisson</string>
+			<string>Adjectif possessif</string>
+			<string>GRIL</string>
+			<string>MIEN</string>
+		</array>
+		<array>
+			<string>Support de cuisson</string>
+			<string>Primordiales</string>
+			<string>GRIL</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Goûtais l’air</string>
+			<string>Panneau</string>
+			<string>HUMAIS</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Goûtais l’air</string>
+			<string>Il est aveugle</string>
+			<string>HUMAIS</string>
+			<string>AMOUR</string>
+		</array>
+		<array>
+			<string>Goûtais l’air</string>
+			<string>Petit bout de femme</string>
+			<string>HUMAIS</string>
+			<string>ME</string>
+		</array>
+		<array>
+			<string>Goûtais l’air</string>
+			<string>Corvidé</string>
+			<string>HUMAIS</string>
+			<string>GEAI</string>
+		</array>
+		<array>
+			<string>Goûtais l’air</string>
+			<string>Ouistiti</string>
+			<string>HUMAIS</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string>Goûtais l’air</string>
+			<string>Verbe ou direction</string>
+			<string>HUMAIS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lieu de vente</string>
+			<string>Symbole</string>
+			<string>CRIEE</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string>Lieu de vente</string>
+			<string>A mal tourné</string>
+			<string>CRIEE</string>
+			<string>AIGRI</string>
+		</array>
+		<array>
+			<string>Lieu de vente</string>
+			<string>Bravo au cinéma</string>
+			<string>CRIEE</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Lieu de vente</string>
+			<string>Adjectif possessif</string>
+			<string>CRIEE</string>
+			<string>MIEN</string>
+		</array>
+		<array>
+			<string>Lieu de vente</string>
+			<string>Primordiales</string>
+			<string>CRIEE</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Panneau</string>
+			<string>EREINTERIONS</string>
+			<string>PORTEAFFICHE</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Il est aveugle</string>
+			<string>EREINTERIONS</string>
+			<string>AMOUR</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Petit bout de femme</string>
+			<string>EREINTERIONS</string>
+			<string>ME</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Corvidé</string>
+			<string>EREINTERIONS</string>
+			<string>GEAI</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Ouistiti</string>
+			<string>EREINTERIONS</string>
+			<string>SAGOUIN</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Verbe ou direction</string>
+			<string>EREINTERIONS</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string></string>
+			<string>EREINTERIONS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Symbole</string>
+			<string>EREINTERIONS</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>A mal tourné</string>
+			<string>EREINTERIONS</string>
+			<string>AIGRI</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Bravo au cinéma</string>
+			<string>EREINTERIONS</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Adjectif possessif</string>
+			<string>EREINTERIONS</string>
+			<string>MIEN</string>
+		</array>
+		<array>
+			<string>Démolirions à coups de plume</string>
+			<string>Primordiales</string>
+			<string>EREINTERIONS</string>
+			<string>ESSENTIELLES</string>
+		</array>
+	</array>
+</array>
+</plist>

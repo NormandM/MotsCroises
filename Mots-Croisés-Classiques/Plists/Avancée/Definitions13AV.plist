@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Sous le fer</string>
+			<string>PASSEPARTOUT</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Deux fois plus prudent</string>
+			<string>PASSEPARTOUT</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Étoffe sans couture ni épingle</string>
+			<string>PASSEPARTOUT</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Base de projets</string>
+			<string>PASSEPARTOUT</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Examinera</string>
+			<string>PASSEPARTOUT</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string></string>
+			<string>PASSEPARTOUT</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Coup non rendu</string>
+			<string>PASSEPARTOUT</string>
+			<string>ACE</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Nom de facteur</string>
+			<string>PASSEPARTOUT</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Métal</string>
+			<string>PASSEPARTOUT</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Pris le risque</string>
+			<string>PASSEPARTOUT</string>
+			<string>OSAI</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Travaillais le métal</string>
+			<string>PASSEPARTOUT</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string>S’adapte à tout</string>
+			<string>Comparatif</string>
+			<string>PASSEPARTOUT</string>
+			<string>TEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Donc a perdu</string>
+			<string>Sous le fer</string>
+			<string>AVAIT</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Donc a perdu</string>
+			<string>Deux fois plus prudent</string>
+			<string>AVAIT</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string>Donc a perdu</string>
+			<string>Étoffe sans couture ni épingle</string>
+			<string>AVAIT</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string>Donc a perdu</string>
+			<string>Base de projets</string>
+			<string>AVAIT</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Donc a perdu</string>
+			<string>Examinera</string>
+			<string>AVAIT</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Expulse</string>
+			<string>Coup non rendu</string>
+			<string>CHASSE</string>
+			<string>ACE</string>
+		</array>
+		<array>
+			<string>Expulse</string>
+			<string>Nom de facteur</string>
+			<string>CHASSE</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string>Expulse</string>
+			<string>Métal</string>
+			<string>CHASSE</string>
+			<string>TA</string>
+		</array>
+		<array>
+			<string>Expulse</string>
+			<string>Pris le risque</string>
+			<string>CHASSE</string>
+			<string>OSAI</string>
+		</array>
+		<array>
+			<string>Expulse</string>
+			<string>Travaillais le métal</string>
+			<string>CHASSE</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string>Expulse</string>
+			<string>Comparatif</string>
+			<string>CHASSE</string>
+			<string>TEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Après bis</string>
+			<string>Sous le fer</string>
+			<string>TER</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Après bis</string>
+			<string>Deux fois plus prudent</string>
+			<string>TER</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string>Après bis</string>
+			<string>Étoffe sans couture ni épingle</string>
+			<string>TER</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fatiguée</string>
+			<string>Examinera</string>
+			<string>USEE</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string>Fatiguée</string>
+			<string>Certains aiment leur vin ainsi</string>
+			<string>USEE</string>
+			<string>SEC</string>
+		</array>
+		<array>
+			<string>Fatiguée</string>
+			<string>Coup non rendu</string>
+			<string>USEE</string>
+			<string>ACE</string>
+		</array>
+		<array>
+			<string>Fatiguée</string>
+			<string>Nom de facteur</string>
+			<string>USEE</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chasse Dracula</string>
+			<string>Pris le risque</string>
+			<string>AIL</string>
+			<string>OSAI</string>
+		</array>
+		<array>
+			<string>Chasse Dracula</string>
+			<string>Travaillais le métal</string>
+			<string>AIL</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string>Chasse Dracula</string>
+			<string>Comparatif</string>
+			<string>AIL</string>
+			<string>TEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cercle mafieux</string>
+			<string>Sous le fer</string>
+			<string>TRIADE</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Cercle mafieux</string>
+			<string>Deux fois plus prudent</string>
+			<string>TRIADE</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string>Cercle mafieux</string>
+			<string>Étoffe sans couture ni épingle</string>
+			<string>TRIADE</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string>Cercle mafieux</string>
+			<string>Base de l’hectare</string>
+			<string>TRIADE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Cercle mafieux</string>
+			<string>Examinera</string>
+			<string>TRIADE</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string>Cercle mafieux</string>
+			<string>Certains aiment leur vin ainsi</string>
+			<string>TRIADE</string>
+			<string>SEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ni malade, ni louche</string>
+			<string>Nom de facteur</string>
+			<string>SAIN</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string>Ni malade, ni louche</string>
+			<string>Fondation</string>
+			<string>SAIN</string>
+			<string>ASSISE</string>
+		</array>
+		<array>
+			<string>Ni malade, ni louche</string>
+			<string>Pris le risque</string>
+			<string>SAIN</string>
+			<string>OSAI</string>
+		</array>
+		<array>
+			<string>Ni malade, ni louche</string>
+			<string>Travaillais le métal</string>
+			<string>SAIN</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lien</string>
+			<string>Sous le fer</string>
+			<string>ET</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Lien</string>
+			<string>Deux fois plus prudent</string>
+			<string>ET</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pas tout à fait joyeux</string>
+			<string>Base de l’hectare</string>
+			<string>RICTUS</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Pas tout à fait joyeux</string>
+			<string>Examinera</string>
+			<string>RICTUS</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string>Pas tout à fait joyeux</string>
+			<string>Certains aiment leur vin ainsi</string>
+			<string>RICTUS</string>
+			<string>SEC</string>
+		</array>
+		<array>
+			<string>Pas tout à fait joyeux</string>
+			<string>Non exprimé, mais compris</string>
+			<string>RICTUS</string>
+			<string>TACITE</string>
+		</array>
+		<array>
+			<string>Pas tout à fait joyeux</string>
+			<string>Nom de facteur</string>
+			<string>RICTUS</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string>Pas tout à fait joyeux</string>
+			<string>Fondation</string>
+			<string>RICTUS</string>
+			<string>ASSISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le taureau en a une paire</string>
+			<string>Travaillais le métal</string>
+			<string>AU</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string>Le taureau en a une paire</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>AU</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trouée</string>
+			<string>Sous le fer</string>
+			<string>MITEE</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Trouée</string>
+			<string>Deux fois plus prudent</string>
+			<string>MITEE</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string>Trouée</string>
+			<string>Habiletés sociales</string>
+			<string>MITEE</string>
+			<string>TACTS</string>
+		</array>
+		<array>
+			<string>Trouée</string>
+			<string>Base de l’hectare</string>
+			<string>MITEE</string>
+			<string>ARE</string>
+		</array>
+		<array>
+			<string>Trouée</string>
+			<string>Examinera</string>
+			<string>MITEE</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Poses</string>
+			<string>Non exprimé, mais compris</string>
+			<string>ASSOIS</string>
+			<string>TACITE</string>
+		</array>
+		<array>
+			<string>Poses</string>
+			<string>Nom de facteur</string>
+			<string>ASSOIS</string>
+			<string>RHESUS</string>
+		</array>
+		<array>
+			<string>Poses</string>
+			<string>Fondation</string>
+			<string>ASSOIS</string>
+			<string>ASSISE</string>
+		</array>
+		<array>
+			<string>Poses</string>
+			<string>Braveront l’interdit</string>
+			<string>ASSOIS</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string>Poses</string>
+			<string>Travaillais le métal</string>
+			<string>ASSOIS</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string>Poses</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>ASSOIS</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tenta</string>
+			<string>Sous le fer</string>
+			<string>OSA</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Tenta</string>
+			<string>Deux fois plus prudent</string>
+			<string>OSA</string>
+			<string>AVERTIS</string>
+		</array>
+		<array>
+			<string>Tenta</string>
+			<string>Habiletés sociales</string>
+			<string>OSA</string>
+			<string>TACTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bon endroit où bâtir</string>
+			<string>Examinera</string>
+			<string>ROC</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string>Bon endroit où bâtir</string>
+			<string>Passent en grondant</string>
+			<string>ROC</string>
+			<string>ORAGES</string>
+		</array>
+		<array>
+			<string>Bon endroit où bâtir</string>
+			<string>Non exprimé, mais compris</string>
+			<string>ROC</string>
+			<string>TACITE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A une origine</string>
+			<string>Fondation</string>
+			<string>ISSU</string>
+			<string>ASSISE</string>
+		</array>
+		<array>
+			<string>A une origine</string>
+			<string>Braveront l’interdit</string>
+			<string>ISSU</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string>A une origine</string>
+			<string>Travaillais le métal</string>
+			<string>ISSU</string>
+			<string>USINAIS</string>
+		</array>
+		<array>
+			<string>A une origine</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>ISSU</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Sous le fer</string>
+			<string>U</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Habiletés sociales</string>
+			<string>CLARISSE</string>
+			<string>TACTS</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Plante à tige souple</string>
+			<string>CLARISSE</string>
+			<string>LIANE</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Examinera</string>
+			<string>CLARISSE</string>
+			<string>ETUDIERA</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Passent en grondant</string>
+			<string>CLARISSE</string>
+			<string>ORAGES</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Non exprimé, mais compris</string>
+			<string>CLARISSE</string>
+			<string>TACITE</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Changement de direction</string>
+			<string>CLARISSE</string>
+			<string>STEMM</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Fondation</string>
+			<string>CLARISSE</string>
+			<string>ASSISE</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Braveront l’interdit</string>
+			<string>CLARISSE</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Peut se dire d’un prêt</string>
+			<string>R</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Circulait au Pérou</string>
+			<string>Sous le fer</string>
+			<string>INTI</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Circulait au Pérou</string>
+			<string>Utilisée en pâtisserie</string>
+			<string>INTI</string>
+			<string>NOIX</string>
+		</array>
+		<array>
+			<string>Circulait au Pérou</string>
+			<string>Habiletés sociales</string>
+			<string>INTI</string>
+			<string>TACTS</string>
+		</array>
+		<array>
+			<string>Circulait au Pérou</string>
+			<string>Plante à tige souple</string>
+			<string>INTI</string>
+			<string>LIANE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Passent en grondant</string>
+			<string>ATTERRA</string>
+			<string>ORAGES</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Non exprimé, mais compris</string>
+			<string>ATTERRA</string>
+			<string>TACITE</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Changement de direction</string>
+			<string>ATTERRA</string>
+			<string>STEMM</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Fondation</string>
+			<string>ATTERRA</string>
+			<string>ASSISE</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Braveront l’interdit</string>
+			<string>ATTERRA</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Manifester sa mauvaise humeur</string>
+			<string>ATTERRA</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string>Consterna</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>ATTERRA</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Sous le fer</string>
+			<string>LOSANGEE</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Utilisée en pâtisserie</string>
+			<string>LOSANGEE</string>
+			<string>NOIX</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Habiletés sociales</string>
+			<string>LOSANGEE</string>
+			<string>TACTS</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Plante à tige souple</string>
+			<string>LOSANGEE</string>
+			<string>LIANE</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Préfixe exprimant l’absence ou le contraire</string>
+			<string>LOSANGEE</string>
+			<string>NON</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Passent en grondant</string>
+			<string>LOSANGEE</string>
+			<string>ORAGES</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Non exprimé, mais compris</string>
+			<string>LOSANGEE</string>
+			<string>TACITE</string>
+		</array>
+		<array>
+			<string>Comme une robe d’arlequin</string>
+			<string>Changement de direction</string>
+			<string>LOSANGEE</string>
+			<string>STEMM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>On a toujours plaisir à l’entendre</string>
+			<string>Braveront l’interdit</string>
+			<string>OUI</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string>On a toujours plaisir à l’entendre</string>
+			<string>Manifester sa mauvaise humeur</string>
+			<string>OUI</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string>On a toujours plaisir à l’entendre</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>OUI</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mao en a parcouru plus d’un</string>
+			<string>Sous le fer</string>
+			<string>LI</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Mao en a parcouru plus d’un</string>
+			<string>Utilisée en pâtisserie</string>
+			<string>LI</string>
+			<string>NOIX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il a tout mis dans un bateau</string>
+			<string>Plante à tige souple</string>
+			<string>NOE</string>
+			<string>LIANE</string>
+		</array>
+		<array>
+			<string>Il a tout mis dans un bateau</string>
+			<string>Préfixe exprimant l’absence ou le contraire</string>
+			<string>NOE</string>
+			<string>NON</string>
+		</array>
+		<array>
+			<string>Il a tout mis dans un bateau</string>
+			<string>Passent en grondant</string>
+			<string>NOE</string>
+			<string>ORAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ronger peu à peu</string>
+			<string>Changement de direction</string>
+			<string>MINER</string>
+			<string>STEMM</string>
+		</array>
+		<array>
+			<string>Ronger peu à peu</string>
+			<string>Abréviation</string>
+			<string>MINER</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Ronger peu à peu</string>
+			<string>Braveront l’interdit</string>
+			<string>MINER</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string>Ronger peu à peu</string>
+			<string>Manifester sa mauvaise humeur</string>
+			<string>MINER</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string>Ronger peu à peu</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>MINER</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Sous le fer</string>
+			<string>EXTENSOMETRE</string>
+			<string>PATTEMOUILLE</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Utilisée en pâtisserie</string>
+			<string>EXTENSOMETRE</string>
+			<string>NOIX</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string></string>
+			<string>EXTENSOMETRE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Plante à tige souple</string>
+			<string>EXTENSOMETRE</string>
+			<string>LIANE</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Préfixe exprimant l’absence ou le contraire</string>
+			<string>EXTENSOMETRE</string>
+			<string>NON</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Passent en grondant</string>
+			<string>EXTENSOMETRE</string>
+			<string>ORAGES</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string></string>
+			<string>EXTENSOMETRE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Changement de direction</string>
+			<string>EXTENSOMETRE</string>
+			<string>STEMM</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Abréviation</string>
+			<string>EXTENSOMETRE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Braveront l’interdit</string>
+			<string>EXTENSOMETRE</string>
+			<string>OSERONT</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Manifester sa mauvaise humeur</string>
+			<string>EXTENSOMETRE</string>
+			<string>RUER</string>
+		</array>
+		<array>
+			<string>Capteur de contraintes</string>
+			<string>Peut se dire d’un prêt</string>
+			<string>EXTENSOMETRE</string>
+			<string>USURAIRE</string>
+		</array>
+	</array>
+</array>
+</plist>

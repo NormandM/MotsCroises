@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>TRANSGRESSES</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Reprit le fil</string>
+			<string>TRANSGRESSES</string>
+			<string>RENOUA</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Doux en amour</string>
+			<string>TRANSGRESSES</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Il précède le refus</string>
+			<string>TRANSGRESSES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Prépareras le bistouri </string>
+			<string>TRANSGRESSES</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string></string>
+			<string>TRANSGRESSES</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Relancerais</string>
+			<string>TRANSGRESSES</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Existes</string>
+			<string>TRANSGRESSES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Peut être publicitaire</string>
+			<string>TRANSGRESSES</string>
+			<string>SPOT</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Classer</string>
+			<string>TRANSGRESSES</string>
+			<string>SERIER</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Moindre mal</string>
+			<string>TRANSGRESSES</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>Dépasses les bornes</string>
+			<string>Élément de conservation</string>
+			<string>TRANSGRESSES</string>
+			<string>SEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Confère une apparence</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>REVET</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Confère une apparence</string>
+			<string>Reprit le fil</string>
+			<string>REVET</string>
+			<string>RENOUA</string>
+		</array>
+		<array>
+			<string>Confère une apparence</string>
+			<string>Doux en amour</string>
+			<string>REVET</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Confère une apparence</string>
+			<string>Il précède le refus</string>
+			<string>REVET</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Confère une apparence</string>
+			<string>Prépareras le bistouri </string>
+			<string>REVET</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Anticipe positivement</string>
+			<string>Relancerais</string>
+			<string>ESPERE</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Anticipe positivement</string>
+			<string>Existes</string>
+			<string>ESPERE</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Anticipe positivement</string>
+			<string>Peut être publicitaire</string>
+			<string>ESPERE</string>
+			<string>SPOT</string>
+		</array>
+		<array>
+			<string>Anticipe positivement</string>
+			<string>Classer</string>
+			<string>ESPERE</string>
+			<string>SERIER</string>
+		</array>
+		<array>
+			<string>Anticipe positivement</string>
+			<string>Moindre mal</string>
+			<string>ESPERE</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>Anticipe positivement</string>
+			<string>Élément de conservation</string>
+			<string>ESPERE</string>
+			<string>SEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ignorant notoire</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>ANE</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Ignorant notoire</string>
+			<string>Reprit le fil</string>
+			<string>ANE</string>
+			<string>RENOUA</string>
+		</array>
+		<array>
+			<string>Ignorant notoire</string>
+			<string>Doux en amour</string>
+			<string>ANE</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lettre grecque</string>
+			<string>Prépareras le bistouri </string>
+			<string>ETA</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>Lettre grecque</string>
+			<string></string>
+			<string>ETA</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Lettre grecque</string>
+			<string>Relancerais</string>
+			<string>ETA</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Stade</string>
+			<string>Peut être publicitaire</string>
+			<string>ORAL</string>
+			<string>SPOT</string>
+		</array>
+		<array>
+			<string>Stade</string>
+			<string>Classer</string>
+			<string>ORAL</string>
+			<string>SERIER</string>
+		</array>
+		<array>
+			<string>Stade</string>
+			<string>Moindre mal</string>
+			<string>ORAL</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>Stade</string>
+			<string>Élément de conservation</string>
+			<string>ORAL</string>
+			<string>SEL</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Créer des liens</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>NOUER</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Créer des liens</string>
+			<string>Reprit le fil</string>
+			<string>NOUER</string>
+			<string>RENOUA</string>
+		</array>
+		<array>
+			<string>Créer des liens</string>
+			<string>Doux en amour</string>
+			<string>NOUER</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Créer des liens</string>
+			<string>Défraîchi</string>
+			<string>NOUER</string>
+			<string>ELIME</string>
+		</array>
+		<array>
+			<string>Créer des liens</string>
+			<string>Prépareras le bistouri </string>
+			<string>NOUER</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Justification</string>
+			<string>Relancerais</string>
+			<string>MOTIF</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Justification</string>
+			<string>De la culture des oliviers</string>
+			<string>MOTIF</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Justification</string>
+			<string>Peut être publicitaire</string>
+			<string>MOTIF</string>
+			<string>SPOT</string>
+		</array>
+		<array>
+			<string>Justification</string>
+			<string>Classer</string>
+			<string>MOTIF</string>
+			<string>SERIER</string>
+		</array>
+		<array>
+			<string>Justification</string>
+			<string>Moindre mal</string>
+			<string>MOTIF</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Acquis</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>SU</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Acquis</string>
+			<string>Reprit le fil</string>
+			<string>SU</string>
+			<string>RENOUA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La corde au cou</string>
+			<string>Défraîchi</string>
+			<string>LICOL</string>
+			<string>ELIME</string>
+		</array>
+		<array>
+			<string>La corde au cou</string>
+			<string>Prépareras le bistouri </string>
+			<string>LICOL</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>La corde au cou</string>
+			<string></string>
+			<string>LICOL</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>La corde au cou</string>
+			<string>Relancerais</string>
+			<string>LICOL</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>La corde au cou</string>
+			<string>De la culture des oliviers</string>
+			<string>LICOL</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parmi les appelés</string>
+			<string>Classer</string>
+			<string>ELU</string>
+			<string>SERIER</string>
+		</array>
+		<array>
+			<string>Parmi les appelés</string>
+			<string>Moindre mal</string>
+			<string>ELU</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>Parmi les appelés</string>
+			<string>Prenais indûment</string>
+			<string>ELU</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tonneau</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>BARIL</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Tonneau</string>
+			<string>Reprit le fil</string>
+			<string>BARIL</string>
+			<string>RENOUA</string>
+		</array>
+		<array>
+			<string>Tonneau</string>
+			<string>Abaissé</string>
+			<string>BARIL</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string>Tonneau</string>
+			<string>Défraîchi</string>
+			<string>BARIL</string>
+			<string>ELIME</string>
+		</array>
+		<array>
+			<string>Tonneau</string>
+			<string>Prépareras le bistouri </string>
+			<string>BARIL</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Harassés</string>
+			<string>Relancerais</string>
+			<string>RECRUS</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Harassés</string>
+			<string>De la culture des oliviers</string>
+			<string>RECRUS</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Harassés</string>
+			<string>Pince sans rire</string>
+			<string>RECRUS</string>
+			<string>CRABE</string>
+		</array>
+		<array>
+			<string>Harassés</string>
+			<string>Classer</string>
+			<string>RECRUS</string>
+			<string>SERIER</string>
+		</array>
+		<array>
+			<string>Harassés</string>
+			<string>Moindre mal</string>
+			<string>RECRUS</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>Harassés</string>
+			<string>Prenais indûment</string>
+			<string>RECRUS</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>O</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string>Abaissé</string>
+			<string>AMINCIR</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string>Défraîchi</string>
+			<string>AMINCIR</string>
+			<string>ELIME</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string>Prépareras le bistouri </string>
+			<string>AMINCIR</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string></string>
+			<string>AMINCIR</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string>Relancerais</string>
+			<string>AMINCIR</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string>De la culture des oliviers</string>
+			<string>AMINCIR</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Affiner la ligne</string>
+			<string>Pince sans rire</string>
+			<string>AMINCIR</string>
+			<string>CRABE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>On l’enjambe facilement</string>
+			<string>Moindre mal</string>
+			<string>RU</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>On l’enjambe facilement</string>
+			<string>Prenais indûment</string>
+			<string>RU</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Feuilles de tabac</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>ROBES</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Feuilles de tabac</string>
+			<string>Entends</string>
+			<string>ROBES</string>
+			<string>OIS</string>
+		</array>
+		<array>
+			<string>Feuilles de tabac</string>
+			<string>Abaissé</string>
+			<string>ROBES</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string>Feuilles de tabac</string>
+			<string>Défraîchi</string>
+			<string>ROBES</string>
+			<string>ELIME</string>
+		</array>
+		<array>
+			<string>Feuilles de tabac</string>
+			<string>Prépareras le bistouri </string>
+			<string>ROBES</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Écosser</string>
+			<string>Relancerais</string>
+			<string>ECALER</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Écosser</string>
+			<string>De la culture des oliviers</string>
+			<string>ECALER</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Écosser</string>
+			<string>Pince sans rire</string>
+			<string>ECALER</string>
+			<string>CRABE</string>
+		</array>
+		<array>
+			<string>Écosser</string>
+			<string>Tempo</string>
+			<string>ECALER</string>
+			<string>LARGO</string>
+		</array>
+		<array>
+			<string>Écosser</string>
+			<string>Moindre mal</string>
+			<string>ECALER</string>
+			<string>ERAFLURE</string>
+		</array>
+		<array>
+			<string>Écosser</string>
+			<string>Prenais indûment</string>
+			<string>ECALER</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Commande de cocher</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>DIA</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Commande de cocher</string>
+			<string>Entends</string>
+			<string>DIA</string>
+			<string>OIS</string>
+		</array>
+		<array>
+			<string>Commande de cocher</string>
+			<string>Abaissé</string>
+			<string>DIA</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Glaça</string>
+			<string>Prépareras le bistouri </string>
+			<string>ENROBA</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>Glaça</string>
+			<string></string>
+			<string>ENROBA</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Glaça</string>
+			<string>Relancerais</string>
+			<string>ENROBA</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Glaça</string>
+			<string>De la culture des oliviers</string>
+			<string>ENROBA</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Glaça</string>
+			<string>Pince sans rire</string>
+			<string>ENROBA</string>
+			<string>CRABE</string>
+		</array>
+		<array>
+			<string>Glaça</string>
+			<string>Tempo</string>
+			<string>ENROBA</string>
+			<string>LARGO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Prenais indûment</string>
+			<string>P</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Saisir le tribunal</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>ESTER</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Saisir le tribunal</string>
+			<string>Entends</string>
+			<string>ESTER</string>
+			<string>OIS</string>
+		</array>
+		<array>
+			<string>Saisir le tribunal</string>
+			<string>Abaissé</string>
+			<string>ESTER</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string>Saisir le tribunal</string>
+			<string>Ce qui coûta cher à Ésaü</string>
+			<string>ESTER</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Saisir le tribunal</string>
+			<string>Prépareras le bistouri </string>
+			<string>ESTER</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Inquiéta</string>
+			<string>Relancerais</string>
+			<string>ALERTA</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Inquiéta</string>
+			<string>De la culture des oliviers</string>
+			<string>ALERTA</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Inquiéta</string>
+			<string>Pince sans rire</string>
+			<string>ALERTA</string>
+			<string>CRABE</string>
+		</array>
+		<array>
+			<string>Inquiéta</string>
+			<string>Tempo</string>
+			<string>ALERTA</string>
+			<string>LARGO</string>
+		</array>
+		<array>
+			<string>Inquiéta</string>
+			<string>Nuance</string>
+			<string>ALERTA</string>
+			<string>TON</string>
+		</array>
+		<array>
+			<string>Inquiéta</string>
+			<string>Prenais indûment</string>
+			<string>ALERTA</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>U</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Désavouée</string>
+			<string>Abaissé</string>
+			<string>TRAHIE</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string>Désavouée</string>
+			<string>Ce qui coûta cher à Ésaü</string>
+			<string>TRAHIE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Désavouée</string>
+			<string>Prépareras le bistouri </string>
+			<string>TRAHIE</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>Désavouée</string>
+			<string>Un peu de rire</string>
+			<string>TRAHIE</string>
+			<string>HI</string>
+		</array>
+		<array>
+			<string>Désavouée</string>
+			<string>Relancerais</string>
+			<string>TRAHIE</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Désavouée</string>
+			<string>De la culture des oliviers</string>
+			<string>TRAHIE</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Non-juif</string>
+			<string>Tempo</string>
+			<string>GOI</string>
+			<string>LARGO</string>
+		</array>
+		<array>
+			<string>Non-juif</string>
+			<string>Nuance</string>
+			<string>GOI</string>
+			<string>TON</string>
+		</array>
+		<array>
+			<string>Non-juif</string>
+			<string>Prenais indûment</string>
+			<string>GOI</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Triomphions</string>
+			<string>Bâtiment rempli de caisses</string>
+			<string>REUSSISSIONS</string>
+			<string>TRANSBORDEUR</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string></string>
+			<string>REUSSISSIONS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Abaissé</string>
+			<string>REUSSISSIONS</string>
+			<string>RABATTU</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Ce qui coûta cher à Ésaü</string>
+			<string>REUSSISSIONS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Prépareras le bistouri </string>
+			<string>REUSSISSIONS</string>
+			<string>STERILISERAS</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Un peu de rire</string>
+			<string>REUSSISSIONS</string>
+			<string>HI</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Relancerais</string>
+			<string>REUSSISSIONS</string>
+			<string>REAMORCERAIS</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>De la culture des oliviers</string>
+			<string>REUSSISSIONS</string>
+			<string>OLEICOLES</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string></string>
+			<string>REUSSISSIONS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Tempo</string>
+			<string>REUSSISSIONS</string>
+			<string>LARGO</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Nuance</string>
+			<string>REUSSISSIONS</string>
+			<string>TON</string>
+		</array>
+		<array>
+			<string>Triomphions</string>
+			<string>Prenais indûment</string>
+			<string>REUSSISSIONS</string>
+			<string>USURPAIS</string>
+		</array>
+	</array>
+</array>
+</plist>

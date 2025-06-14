@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>PROPRIETAIRE</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Rangea</string>
+			<string>PROPRIETAIRE</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Pindare en écrivait</string>
+			<string>PROPRIETAIRE</string>
+			<string>ODES</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Fut en mesure</string>
+			<string>PROPRIETAIRE</string>
+			<string>PUT</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string></string>
+			<string>PROPRIETAIRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Suit une explication</string>
+			<string>PROPRIETAIRE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Sans traitement</string>
+			<string>PROPRIETAIRE</string>
+			<string>ECRUES</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Rempliras le seau</string>
+			<string>PROPRIETAIRE</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Rien ne presse pour eux</string>
+			<string>PROPRIETAIRE</string>
+			<string>AIS</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Hors de sa conscience</string>
+			<string>PROPRIETAIRE</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string></string>
+			<string>PROPRIETAIRE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Maître des lieux</string>
+			<string>Apprenti à l’hôpital</string>
+			<string>PROPRIETAIRE</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Reste à rembourser</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>REDU</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Reste à rembourser</string>
+			<string>Rangea</string>
+			<string>REDU</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Reste à rembourser</string>
+			<string>Pindare en écrivait</string>
+			<string>REDU</string>
+			<string>ODES</string>
+		</array>
+		<array>
+			<string>Reste à rembourser</string>
+			<string>Fut en mesure</string>
+			<string>REDU</string>
+			<string>PUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Abrite avec soin</string>
+			<string>Suit une explication</string>
+			<string>ECRIN</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Abrite avec soin</string>
+			<string>Sans traitement</string>
+			<string>ECRIN</string>
+			<string>ECRUES</string>
+		</array>
+		<array>
+			<string>Abrite avec soin</string>
+			<string>Rempliras le seau</string>
+			<string>ECRIN</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string>Abrite avec soin</string>
+			<string>Rien ne presse pour eux</string>
+			<string>ECRIN</string>
+			<string>AIS</string>
+		</array>
+		<array>
+			<string>Abrite avec soin</string>
+			<string>Hors de sa conscience</string>
+			<string>ECRIN</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Apprenti à l’hôpital</string>
+			<string>X</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Exprime une opinion</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>EMETS</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Exprime une opinion</string>
+			<string>Rangea</string>
+			<string>EMETS</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Exprime une opinion</string>
+			<string>Pindare en écrivait</string>
+			<string>EMETS</string>
+			<string>ODES</string>
+		</array>
+		<array>
+			<string>Exprime une opinion</string>
+			<string>Fut en mesure</string>
+			<string>EMETS</string>
+			<string>PUT</string>
+		</array>
+		<array>
+			<string>Exprime une opinion</string>
+			<string>Comme un liquide organique</string>
+			<string>EMETS</string>
+			<string>SEREUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Perdit sa fraîcheur</string>
+			<string>Sans traitement</string>
+			<string>RASSIT</string>
+			<string>ECRUES</string>
+		</array>
+		<array>
+			<string>Perdit sa fraîcheur</string>
+			<string>Rempliras le seau</string>
+			<string>RASSIT</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string>Perdit sa fraîcheur</string>
+			<string>Rien ne presse pour eux</string>
+			<string>RASSIT</string>
+			<string>AIS</string>
+		</array>
+		<array>
+			<string>Perdit sa fraîcheur</string>
+			<string>Hors de sa conscience</string>
+			<string>RASSIT</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Perdit sa fraîcheur</string>
+			<string>Admettre dans un groupe</string>
+			<string>RASSIT</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Perdit sa fraîcheur</string>
+			<string>Apprenti à l’hôpital</string>
+			<string>RASSIT</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Situé</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>SIS</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Situé</string>
+			<string>Rangea</string>
+			<string>SIS</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Situé</string>
+			<string>Pindare en écrivait</string>
+			<string>SIS</string>
+			<string>ODES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Écrin plus utilitaire</string>
+			<string>Comme un liquide organique</string>
+			<string>ETUI</string>
+			<string>SEREUX</string>
+		</array>
+		<array>
+			<string>Écrin plus utilitaire</string>
+			<string>Indispensable à l’architecte</string>
+			<string>ETUI</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Écrin plus utilitaire</string>
+			<string>Sans traitement</string>
+			<string>ETUI</string>
+			<string>ECRUES</string>
+		</array>
+		<array>
+			<string>Écrin plus utilitaire</string>
+			<string>Rempliras le seau</string>
+			<string>ETUI</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Recueil de titres</string>
+			<string>Hors de sa conscience</string>
+			<string>UNE</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Recueil de titres</string>
+			<string>Admettre dans un groupe</string>
+			<string>UNE</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Recueil de titres</string>
+			<string>Apprenti à l’hôpital</string>
+			<string>UNE</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Suit un titre</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>ES</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Suit un titre</string>
+			<string>Rangea</string>
+			<string>ES</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Innovera</string>
+			<string>Un refus ou une foi</string>
+			<string>CREERA</string>
+			<string>CROIX</string>
+		</array>
+		<array>
+			<string>Innovera</string>
+			<string>Comme un liquide organique</string>
+			<string>CREERA</string>
+			<string>SEREUX</string>
+		</array>
+		<array>
+			<string>Innovera</string>
+			<string>Indispensable à l’architecte</string>
+			<string>CREERA</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Innovera</string>
+			<string>Sans traitement</string>
+			<string>CREERA</string>
+			<string>ECRUES</string>
+		</array>
+		<array>
+			<string>Innovera</string>
+			<string>Rempliras le seau</string>
+			<string>CREERA</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string>Innovera</string>
+			<string>Fibre des Philippines</string>
+			<string>CREERA</string>
+			<string>ABACA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Métal inoxydable</string>
+			<string>Admettre dans un groupe</string>
+			<string>CR</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Métal inoxydable</string>
+			<string>Apprenti à l’hôpital</string>
+			<string>CR</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Crier en forêt</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>RAIRE</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Crier en forêt</string>
+			<string>Rangea</string>
+			<string>RAIRE</string>
+			<string>REMISA</string>
+		</array>
+		<array>
+			<string>Crier en forêt</string>
+			<string>Laisser tremper</string>
+			<string>RAIRE</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string>Crier en forêt</string>
+			<string>Un refus ou une foi</string>
+			<string>RAIRE</string>
+			<string>CROIX</string>
+		</array>
+		<array>
+			<string>Crier en forêt</string>
+			<string>Comme un liquide organique</string>
+			<string>RAIRE</string>
+			<string>SEREUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sable très fin</string>
+			<string>Sans traitement</string>
+			<string>SABLON</string>
+			<string>ECRUES</string>
+		</array>
+		<array>
+			<string>Sable très fin</string>
+			<string>Rempliras le seau</string>
+			<string>SABLON</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string>Sable très fin</string>
+			<string>Fibre des Philippines</string>
+			<string>SABLON</string>
+			<string>ABACA</string>
+		</array>
+		<array>
+			<string>Sable très fin</string>
+			<string>Déchiffrée</string>
+			<string>SABLON</string>
+			<string>LUE</string>
+		</array>
+		<array>
+			<string>Sable très fin</string>
+			<string>Admettre dans un groupe</string>
+			<string>SABLON</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Sable très fin</string>
+			<string>Apprenti à l’hôpital</string>
+			<string>SABLON</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Contre les bébés ou les virus</string>
+			<string>V</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parle pour plusieurs</string>
+			<string>Laisser tremper</string>
+			<string>NOUS</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string>Parle pour plusieurs</string>
+			<string>Un refus ou une foi</string>
+			<string>NOUS</string>
+			<string>CROIX</string>
+		</array>
+		<array>
+			<string>Parle pour plusieurs</string>
+			<string>Comme un liquide organique</string>
+			<string>NOUS</string>
+			<string>SEREUX</string>
+		</array>
+		<array>
+			<string>Parle pour plusieurs</string>
+			<string>Fut à l’origine d’une récolte</string>
+			<string>NOUS</string>
+			<string>SEMA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Passé par le fumoir</string>
+			<string>Rempliras le seau</string>
+			<string>SAURE</string>
+			<string>TRAIRAS</string>
+		</array>
+		<array>
+			<string>Passé par le fumoir</string>
+			<string>Fibre des Philippines</string>
+			<string>SAURE</string>
+			<string>ABACA</string>
+		</array>
+		<array>
+			<string>Passé par le fumoir</string>
+			<string>Déchiffrée</string>
+			<string>SAURE</string>
+			<string>LUE</string>
+		</array>
+		<array>
+			<string>Passé par le fumoir</string>
+			<string>Admettre dans un groupe</string>
+			<string>SAURE</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Passé par le fumoir</string>
+			<string>Apprenti à l’hôpital</string>
+			<string>SAURE</string>
+			<string>EXTERNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>AFFIXES</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Ne pouvait être évité</string>
+			<string>AFFIXES</string>
+			<string>FALLU</string>
+		</array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Laisser tremper</string>
+			<string>AFFIXES</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Un refus ou une foi</string>
+			<string>AFFIXES</string>
+			<string>CROIX</string>
+		</array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Comme un liquide organique</string>
+			<string>AFFIXES</string>
+			<string>SEREUX</string>
+		</array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Fut à l’origine d’une récolte</string>
+			<string>AFFIXES</string>
+			<string>SEMA</string>
+		</array>
+		<array>
+			<string>Nombres complexes</string>
+			<string>Faucille</string>
+			<string>AFFIXES</string>
+			<string>SERPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un pied tordu</string>
+			<string>Fibre des Philippines</string>
+			<string>CEP</string>
+			<string>ABACA</string>
+		</array>
+		<array>
+			<string>Un pied tordu</string>
+			<string>Déchiffrée</string>
+			<string>CEP</string>
+			<string>LUE</string>
+		</array>
+		<array>
+			<string>Un pied tordu</string>
+			<string>Admettre dans un groupe</string>
+			<string>CEP</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il mesure un rapport</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>TAUX</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Il mesure un rapport</string>
+			<string>Ne pouvait être évité</string>
+			<string>TAUX</string>
+			<string>FALLU</string>
+		</array>
+		<array>
+			<string>Il mesure un rapport</string>
+			<string>Laisser tremper</string>
+			<string>TAUX</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string>Il mesure un rapport</string>
+			<string>Un refus ou une foi</string>
+			<string>TAUX</string>
+			<string>CROIX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plateau désertique</string>
+			<string>Fut à l’origine d’une récolte</string>
+			<string>MESA</string>
+			<string>SEMA</string>
+		</array>
+		<array>
+			<string>Plateau désertique</string>
+			<string>Faucille</string>
+			<string>MESA</string>
+			<string>SERPE</string>
+		</array>
+		<array>
+			<string>Plateau désertique</string>
+			<string>Figure du showbiz</string>
+			<string>MESA</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string>Plateau désertique</string>
+			<string>Fibre des Philippines</string>
+			<string>MESA</string>
+			<string>ABACA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Informateur douteux</string>
+			<string>Admettre dans un groupe</string>
+			<string>ON</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Informateur douteux</string>
+			<string>Peut être en or</string>
+			<string>ON</string>
+			<string>NOCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il n’est pas seul</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>ILS</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Il n’est pas seul</string>
+			<string>Ne pouvait être évité</string>
+			<string>ILS</string>
+			<string>FALLU</string>
+		</array>
+		<array>
+			<string>Il n’est pas seul</string>
+			<string>Laisser tremper</string>
+			<string>ILS</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petit véhicule utilitaire</string>
+			<string>Participe de la foi</string>
+			<string>CART</string>
+			<string>CRU</string>
+		</array>
+		<array>
+			<string>Petit véhicule utilitaire</string>
+			<string>Fut à l’origine d’une récolte</string>
+			<string>CART</string>
+			<string>SEMA</string>
+		</array>
+		<array>
+			<string>Petit véhicule utilitaire</string>
+			<string>Faucille</string>
+			<string>CART</string>
+			<string>SERPE</string>
+		</array>
+		<array>
+			<string>Petit véhicule utilitaire</string>
+			<string>Figure du showbiz</string>
+			<string>CART</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Expert reconnu</string>
+			<string>Lettre</string>
+			<string>PRO</string>
+			<string>PSI</string>
+		</array>
+		<array>
+			<string>Expert reconnu</string>
+			<string>Admettre dans un groupe</string>
+			<string>PRO</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Expert reconnu</string>
+			<string>Peut être en or</string>
+			<string>PRO</string>
+			<string>NOCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne dure qu’un temps</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>FLEUR</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>Ne dure qu’un temps</string>
+			<string>Ne pouvait être évité</string>
+			<string>FLEUR</string>
+			<string>FALLU</string>
+		</array>
+		<array>
+			<string>Ne dure qu’un temps</string>
+			<string>Laisser tremper</string>
+			<string>FLEUR</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string>Ne dure qu’un temps</string>
+			<string>Indivisible</string>
+			<string>FLEUR</string>
+			<string>UN</string>
+		</array>
+		<array>
+			<string>Ne dure qu’un temps</string>
+			<string>Participe de la foi</string>
+			<string>FLEUR</string>
+			<string>CRU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Standard galactique</string>
+			<string>Faucille</string>
+			<string>PARSEC</string>
+			<string>SERPE</string>
+		</array>
+		<array>
+			<string>Standard galactique</string>
+			<string>Figure du showbiz</string>
+			<string>PARSEC</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string>Standard galactique</string>
+			<string>Il brillait sur le Nil</string>
+			<string>PARSEC</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string>Standard galactique</string>
+			<string>Lettre</string>
+			<string>PARSEC</string>
+			<string>PSI</string>
+		</array>
+		<array>
+			<string>Standard galactique</string>
+			<string>Admettre dans un groupe</string>
+			<string>PARSEC</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>Standard galactique</string>
+			<string>Peut être en or</string>
+			<string>PARSEC</string>
+			<string>NOCE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Contre les bébés ou les virus</string>
+			<string>SURNUMERAIRE</string>
+			<string>PRESERVATIFS</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Ne pouvait être évité</string>
+			<string>SURNUMERAIRE</string>
+			<string>FALLU</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Laisser tremper</string>
+			<string>SURNUMERAIRE</string>
+			<string>INFUSER</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Indivisible</string>
+			<string>SURNUMERAIRE</string>
+			<string>UN</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Participe de la foi</string>
+			<string>SURNUMERAIRE</string>
+			<string>CRU</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string></string>
+			<string>SURNUMERAIRE</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Faucille</string>
+			<string>SURNUMERAIRE</string>
+			<string>SERPE</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Figure du showbiz</string>
+			<string>SURNUMERAIRE</string>
+			<string>STAR</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Il brillait sur le Nil</string>
+			<string>SURNUMERAIRE</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Lettre</string>
+			<string>SURNUMERAIRE</string>
+			<string>PSI</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Admettre dans un groupe</string>
+			<string>SURNUMERAIRE</string>
+			<string>INCORPORER</string>
+		</array>
+		<array>
+			<string>De trop, mais présent</string>
+			<string>Peut être en or</string>
+			<string>SURNUMERAIRE</string>
+			<string>NOCE</string>
+		</array>
+	</array>
+</array>
+</plist>

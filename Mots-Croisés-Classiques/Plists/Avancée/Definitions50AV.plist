@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Pardons</string>
+			<string>Sans ordre établi</string>
+			<string>ABSOLUTIONS</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>Vulgaire</string>
+			<string>ABSOLUTIONS</string>
+			<string>BEAUF</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>Se place en tête du Sénat</string>
+			<string>ABSOLUTIONS</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>Naissances d&apos;os</string>
+			<string>ABSOLUTIONS</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string></string>
+			<string>ABSOLUTIONS</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>La place du scoop</string>
+			<string>ABSOLUTIONS</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>Cogne fortement</string>
+			<string>ABSOLUTIONS</string>
+			<string>TOSSE</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>À moitié noir</string>
+			<string>ABSOLUTIONS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>Elle siège à Genève</string>
+			<string>ABSOLUTIONS</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>D&apos;un plat pays</string>
+			<string>ABSOLUTIONS</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Pardons</string>
+			<string>Pièce orientale</string>
+			<string>ABSOLUTIONS</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Apparues</string>
+			<string>Sans ordre établi</string>
+			<string>NEES</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Apparues</string>
+			<string>Vulgaire</string>
+			<string>NEES</string>
+			<string>BEAUF</string>
+		</array>
+		<array>
+			<string>Apparues</string>
+			<string>Se place en tête du Sénat</string>
+			<string>NEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Apparues</string>
+			<string>Naissances d&apos;os</string>
+			<string>NEES</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>La place du scoop</string>
+			<string>NORMEES</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>Cogne fortement</string>
+			<string>NORMEES</string>
+			<string>TOSSE</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>À moitié noir</string>
+			<string>NORMEES</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>Elle siège à Genève</string>
+			<string>NORMEES</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>D&apos;un plat pays</string>
+			<string>NORMEES</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>Pièce orientale</string>
+			<string>NORMEES</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Réglées</string>
+			<string>Pièces antiques</string>
+			<string>NORMEES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Coule à Hawaii</string>
+			<string>Sans ordre établi</string>
+			<string>AA</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Coule à Hawaii</string>
+			<string>Vulgaire</string>
+			<string>AA</string>
+			<string>BEAUF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Socles</string>
+			<string>Naissances d&apos;os</string>
+			<string>TEES</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Socles</string>
+			<string>Famille d&apos;Italie</string>
+			<string>TEES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Socles</string>
+			<string>La place du scoop</string>
+			<string>TEES</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Socles</string>
+			<string>Cogne fortement</string>
+			<string>TEES</string>
+			<string>TOSSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Purgatif</string>
+			<string>Elle siège à Genève</string>
+			<string>SENE</string>
+			<string>OMS</string>
+		</array>
+		<array>
+			<string>Purgatif</string>
+			<string>D&apos;un plat pays</string>
+			<string>SENE</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Purgatif</string>
+			<string>Pièce orientale</string>
+			<string>SENE</string>
+			<string>SEN</string>
+		</array>
+		<array>
+			<string>Purgatif</string>
+			<string>Pièces antiques</string>
+			<string>SENE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Déplacent les foules</string>
+			<string>Sans ordre établi</string>
+			<string>RUEES</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Déplacent les foules</string>
+			<string>Vulgaire</string>
+			<string>RUEES</string>
+			<string>BEAUF</string>
+		</array>
+		<array>
+			<string>Déplacent les foules</string>
+			<string></string>
+			<string>RUEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Déplacent les foules</string>
+			<string>Naissances d&apos;os</string>
+			<string>RUEES</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Déplacent les foules</string>
+			<string>Famille d&apos;Italie</string>
+			<string>RUEES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À lui</string>
+			<string>Cogne fortement</string>
+			<string>SA</string>
+			<string>TOSSE</string>
+		</array>
+		<array>
+			<string>À lui</string>
+			<string></string>
+			<string>SA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>D&apos;un plat pays</string>
+			<string>R</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pièces antiques</string>
+			<string>S</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Californium</string>
+			<string>Sans ordre établi</string>
+			<string>CF</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Californium</string>
+			<string>Vulgaire</string>
+			<string>CF</string>
+			<string>BEAUF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Soustraite</string>
+			<string>Naissances d&apos;os</string>
+			<string>OTEE</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Soustraite</string>
+			<string>Famille d&apos;Italie</string>
+			<string>OTEE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Soustraite</string>
+			<string>En attente</string>
+			<string>OTEE</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string>Soustraite</string>
+			<string>Cogne fortement</string>
+			<string>OTEE</string>
+			<string>TOSSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fait un choix</string>
+			<string>Support musical</string>
+			<string>ELIT</string>
+			<string>EP</string>
+		</array>
+		<array>
+			<string>Fait un choix</string>
+			<string>D&apos;un plat pays</string>
+			<string>ELIT</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Fait un choix</string>
+			<string>Sujet pour les garçons</string>
+			<string>ELIT</string>
+			<string>IL</string>
+		</array>
+		<array>
+			<string>Fait un choix</string>
+			<string>Pièces antiques</string>
+			<string>ELIT</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Sans ordre établi</string>
+			<string>H</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dignes de respect</string>
+			<string>Clay</string>
+			<string>AGES</string>
+			<string>ALI</string>
+		</array>
+		<array>
+			<string>Dignes de respect</string>
+			<string>Naissances d&apos;os</string>
+			<string>AGES</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Dignes de respect</string>
+			<string>Famille d&apos;Italie</string>
+			<string>AGES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Dignes de respect</string>
+			<string>En attente</string>
+			<string>AGES</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Évalue la profondeur</string>
+			<string>Vaincu</string>
+			<string>EPALE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Évalue la profondeur</string>
+			<string>Support musical</string>
+			<string>EPALE</string>
+			<string>EP</string>
+		</array>
+		<array>
+			<string>Évalue la profondeur</string>
+			<string>D&apos;un plat pays</string>
+			<string>EPALE</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Évalue la profondeur</string>
+			<string>Sujet pour les garçons</string>
+			<string>EPALE</string>
+			<string>IL</string>
+		</array>
+		<array>
+			<string>Évalue la profondeur</string>
+			<string>Pièces antiques</string>
+			<string>EPALE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rivière du S.O. de la France</string>
+			<string>Sans ordre établi</string>
+			<string>ISLE</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Rivière du S.O. de la France</string>
+			<string>À l’assaut !</string>
+			<string>ISLE</string>
+			<string>SUS</string>
+		</array>
+		<array>
+			<string>Rivière du S.O. de la France</string>
+			<string>Clay</string>
+			<string>ISLE</string>
+			<string>ALI</string>
+		</array>
+		<array>
+			<string>Rivière du S.O. de la France</string>
+			<string>Naissances d&apos;os</string>
+			<string>ISLE</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Brin</string>
+			<string>En attente</string>
+			<string>PEU</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string>Brin</string>
+			<string>Précède un titre</string>
+			<string>PEU</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Brin</string>
+			<string>Vaincu</string>
+			<string>PEU</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>D&apos;un plat pays</string>
+			<string>N</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pièces antiques</string>
+			<string>R</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string>Sans ordre établi</string>
+			<string>QUINEES</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string>À l’assaut !</string>
+			<string>QUINEES</string>
+			<string>SUS</string>
+		</array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string>Clay</string>
+			<string>QUINEES</string>
+			<string>ALI</string>
+		</array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string>Naissances d&apos;os</string>
+			<string>QUINEES</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string></string>
+			<string>QUINEES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string>En attente</string>
+			<string>QUINEES</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string>Disposées cinq par cinq</string>
+			<string>Précède un titre</string>
+			<string>QUINEES</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Assistance routière allemande</string>
+			<string>Concept indien</string>
+			<string>ADAC</string>
+			<string>ATMAN</string>
+		</array>
+		<array>
+			<string>Assistance routière allemande</string>
+			<string>D&apos;un plat pays</string>
+			<string>ADAC</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Assistance routière allemande</string>
+			<string>Parties du château</string>
+			<string>ADAC</string>
+			<string>AILES</string>
+		</array>
+		<array>
+			<string>Assistance routière allemande</string>
+			<string>Pièces antiques</string>
+			<string>ADAC</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vieilles habitudes</string>
+			<string>Sans ordre établi</string>
+			<string>US</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Vieilles habitudes</string>
+			<string>À l’assaut !</string>
+			<string>US</string>
+			<string>SUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Naissances d&apos;os</string>
+			<string>E</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>En attente</string>
+			<string>R</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Empêche de tomber</string>
+			<string></string>
+			<string>ETAIE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Empêche de tomber</string>
+			<string>Concept indien</string>
+			<string>ETAIE</string>
+			<string>ATMAN</string>
+		</array>
+		<array>
+			<string>Empêche de tomber</string>
+			<string>D&apos;un plat pays</string>
+			<string>ETAIE</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Empêche de tomber</string>
+			<string>Parties du château</string>
+			<string>ETAIE</string>
+			<string>AILES</string>
+		</array>
+		<array>
+			<string>Empêche de tomber</string>
+			<string>Pièces antiques</string>
+			<string>ETAIE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Sans ordre établi</string>
+			<string>E</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Baltes</string>
+			<string>Quart de tour</string>
+			<string>ESTES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Baltes</string>
+			<string>Naissances d&apos;os</string>
+			<string>ESTES</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Baltes</string>
+			<string></string>
+			<string>ESTES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Baltes</string>
+			<string>En attente</string>
+			<string>ESTES</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string>Baltes</string>
+			<string>Élément chimique</string>
+			<string>ESTES</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Concept indien</string>
+			<string>MILS</string>
+			<string>ATMAN</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>D&apos;un plat pays</string>
+			<string>MILS</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Parties du château</string>
+			<string>MILS</string>
+			<string>AILES</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Pièces antiques</string>
+			<string>MILS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Port de Valéry</string>
+			<string>Sans ordre établi</string>
+			<string>SETE</string>
+			<string>ANARCHIQUES</string>
+		</array>
+		<array>
+			<string>Port de Valéry</string>
+			<string>Vedette de la SF</string>
+			<string>SETE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Port de Valéry</string>
+			<string>Quart de tour</string>
+			<string>SETE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Port de Valéry</string>
+			<string>Naissances d&apos;os</string>
+			<string>SETE</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Battu</string>
+			<string>En attente</string>
+			<string>ECRASE</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string>Battu</string>
+			<string>Élément chimique</string>
+			<string>ECRASE</string>
+			<string>SC</string>
+		</array>
+		<array>
+			<string>Battu</string>
+			<string>Ile</string>
+			<string>ECRASE</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Battu</string>
+			<string>Concept indien</string>
+			<string>ECRASE</string>
+			<string>ATMAN</string>
+		</array>
+		<array>
+			<string>Battu</string>
+			<string>D&apos;un plat pays</string>
+			<string>ECRASE</string>
+			<string>NEERLANDAIS</string>
+		</array>
+		<array>
+			<string>Battu</string>
+			<string>Parties du château</string>
+			<string>ECRASE</string>
+			<string>AILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Essais</string>
+			<string>Vedette de la SF</string>
+			<string>TESTS</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Essais</string>
+			<string>Quart de tour</string>
+			<string>TESTS</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Essais</string>
+			<string>Naissances d&apos;os</string>
+			<string>TESTS</string>
+			<string>OSTEOGENESES</string>
+		</array>
+		<array>
+			<string>Essais</string>
+			<string></string>
+			<string>TESTS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Essais</string>
+			<string>En attente</string>
+			<string>TESTS</string>
+			<string>ESPEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Situe dans le temps</string>
+			<string>Ile</string>
+			<string>EN</string>
+			<string>RE</string>
+		</array>
+		<array>
+			<string>Situe dans le temps</string>
+			<string>Concept indien</string>
+			<string>EN</string>
+			<string>ATMAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gardé en tête</string>
+			<string>Parties du château</string>
+			<string>SU</string>
+			<string>AILES</string>
+		</array>
+		<array>
+			<string>Gardé en tête</string>
+			<string></string>
+			<string>SU</string>
+			<string>U</string>
+		</array>
+	</array>
+</array>
+</plist>

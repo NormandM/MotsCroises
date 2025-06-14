@@ -21,7 +21,7 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
     var arrayGrillesComment = [[String]]()
     var section = Int()
     var row = Int()
-    let arraysSection = ["Facile", "Intermédiaire", "Intermédiaire +"]
+    let arraysSection = ["Facile", "Intermédiaire", "Intermédiaire +", "Avancé"]
     var isCompleted = false
     let fonts = FontsAndConstraintsOptions()
     var productID = ""
@@ -43,6 +43,11 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
     var grille71a80 = UserDefaults.standard.bool(forKey: "grille71a80")
     var grille81a90 = UserDefaults.standard.bool(forKey: "grille81a90")
     var grille91a100 = UserDefaults.standard.bool(forKey: "grille91a100")
+    var grille101a110 = UserDefaults.standard.bool(forKey: "grille101a110")
+    var grille111a120 = UserDefaults.standard.bool(forKey: "grille111a120")
+    var grille121a130 = UserDefaults.standard.bool(forKey: "grille121a130")
+    var grille131a140 = UserDefaults.standard.bool(forKey: "grille131a140")
+    var grille141a150 = UserDefaults.standard.bool(forKey: "grille141a150")
     var localizedPrice = String()
     var productIdentifiers = Set<String>()
     var iapProductsArray = [[SKProduct]]()
@@ -72,9 +77,9 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
             }
         }
 
-       arrayGrillesComment = [["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"]]
+       arrayGrillesComment = [["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"], ["Cinq grilles gratuites", "Acheter Grilles 1 à 10", "Acheter Grilles 11 à 20", "Acheter Grilles 21 à 30", "Acheter Grilles 31 à 40", "Acheter Grilles 41 à 50"]]
 
-        arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100]]
+        arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100], [true, grille101a110, grille111a120, grille121a130, grille131a140, grille141a150], [true, false , false , false , false , false]]
     }
     override func viewWillAppear(_ animated: Bool) {
         self.navigationItem.setHidesBackButton(true, animated:true)
@@ -261,8 +266,61 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
             }else{
                 purchaseMyProduct(product: iapProductsArray[indexPath.section][indexPath.row])
             }
+            
+        case [3,0]:
+            grillesChoisies = SelectionDesGrilles.gille16Ga20G
+            performSegue(withIdentifier: "showGrillesChoisies", sender: self)
+        case [3,1]:
+            grille101a110 = UserDefaults.standard.bool(forKey: "grille101a110")
+            if grille101a110 {
+                grillesChoisies = SelectionDesGrilles.grille101a110
+                performSegue(withIdentifier: "showGrillesChoisies", sender: self)
+            }else{
+                purchaseMyProduct(product: iapProductsArray[indexPath.section][indexPath.row])
+            }
+            
+            
+        case [3,2]:
+            grille111a120 = UserDefaults.standard.bool(forKey: "grille111a120")
+            if grille111a120 {
+                grillesChoisies = SelectionDesGrilles.grille111a120
+                performSegue(withIdentifier: "showGrillesChoisies", sender: self)
+            }else{
+                purchaseMyProduct(product: iapProductsArray[indexPath.section][indexPath.row])
+            }
+            
+            
+        case [3,3]:
+            grille121a130 = UserDefaults.standard.bool(forKey: "grille121a130")
+            if grille121a130 {
+                grillesChoisies = SelectionDesGrilles.grille121a130
+                performSegue(withIdentifier: "showGrillesChoisies", sender: self)
+            }else{
+               purchaseMyProduct(product: iapProductsArray[indexPath.section][indexPath.row])
+            }
+            
+        case [3,4]:
+            grille131a140 = UserDefaults.standard.bool(forKey: "grille131a140")
+            if grille131a140 {
+                grillesChoisies = SelectionDesGrilles.grille131a140
+                performSegue(withIdentifier: "showGrillesChoisies", sender: self)
+            }else{
+                purchaseMyProduct(product: iapProductsArray[indexPath.section][indexPath.row])
+            }
+            
+        case [3,5]:
+            grille141a150 = UserDefaults.standard.bool(forKey: "grille141a150")
+            if grille141a150 {
+                grillesChoisies = SelectionDesGrilles.grille141a150
+                performSegue(withIdentifier: "showGrillesChoisies", sender: self)
+            }else{
+                purchaseMyProduct(product: iapProductsArray[indexPath.section][indexPath.row])
+           }
+            
+            
         default: print("default")
         }
+        
         
     }
 
@@ -380,6 +438,31 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
                         UserDefaults.standard.set(grille91a100, forKey: "grille91a100")
                         grillesAchetées = "Grilles 41 à 50 achetées!"
                         isPurchased = true
+                    case IAPProduct.AV01.rawValue:
+                        grille101a110 = true
+                        UserDefaults.standard.set(grille101a110, forKey: "grille101a110")
+                        grillesAchetées = "Grilles 1 à 10 achetées!"
+                        isPurchased = true
+                    case IAPProduct.AV02.rawValue:
+                        grille111a120 = true
+                        UserDefaults.standard.set(grille111a120, forKey: "grille111a120")
+                        grillesAchetées = "Grilles 11 à 20 achetées!"
+                        isPurchased = true
+                    case IAPProduct.AV03.rawValue:
+                        grille121a130 = true
+                        UserDefaults.standard.set(grille121a130, forKey: "grille121a130")
+                        grillesAchetées = "Grilles 21 à 30 achetées!"
+                        isPurchased = true
+                    case IAPProduct.AV04.rawValue:
+                        grille131a140 = true
+                        UserDefaults.standard.set(grille131a140, forKey: "grille131a140")
+                        grillesAchetées = "Grilles 31 à 40 achetées!"
+                        isPurchased = true
+                    case IAPProduct.AV05.rawValue:
+                        grille141a150 = true
+                        UserDefaults.standard.set(grille141a150, forKey: "grille141a150")
+                        grillesAchetées = "Grilles 41 à 50 achetées!"
+                        isPurchased = true
                     default: print("Did not find the product")
                         
                     }
@@ -395,7 +478,7 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
                 }
             }
         }
-        arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100]]
+        arrayGrilleState = [[true, grille01a010, grille011a020, grille021a030, grille031a040, grille041a050], [true, grille1a10, grille11a20, grille21a30, grille31a40, grille41a50], [true, grille51a60, grille61a70, grille71a80, grille81a90, grille91a100],[true, grille101a110, grille111a120, grille121a130, grille131a140, grille141a150],[true, false, false, false, false, false]]
      }
     func restoreButtonPosition () {
         let yPosition = view.frame.height * 0.85
@@ -517,6 +600,37 @@ class ChoixDeGrillesTableViewController: UITableViewController,SKPaymentTransact
                 grillesAchetées = "Grilles 41 à 50 achetées!"
                 chosenIndexPath = [2, 5]
                 isPurchased = true
+            case IAPProduct.AV01.rawValue:
+                grille101a110 = true
+                UserDefaults.standard.set(grille101a110, forKey: "grille101a110")
+                grillesAchetées = "Grilles 1 à 10 achetées!"
+                chosenIndexPath = [3, 1]
+                isPurchased = true
+            case IAPProduct.AV02.rawValue:
+                grille111a120 = true
+                UserDefaults.standard.set(grille111a120, forKey: "grille111a120")
+                grillesAchetées = "Grilles 11 à 20 achetées!"
+                chosenIndexPath = [3, 2]
+                isPurchased = true
+            case IAPProduct.AV03.rawValue:
+                grille121a130 = true
+                UserDefaults.standard.set(grille121a130, forKey: "grille121a130")
+                grillesAchetées = "Grilles 21 à 30 achetées!"
+                chosenIndexPath = [3, 3]
+                isPurchased = true
+            case IAPProduct.AV04.rawValue:
+                grille131a140 = true
+                UserDefaults.standard.set(grille131a140, forKey: "grille131a140")
+                grillesAchetées = "Grilles 31 à 40 achetées!"
+                chosenIndexPath = [3, 4]
+                isPurchased = true
+                case IAPProduct.AV05.rawValue:
+                grille141a150 = true
+                UserDefaults.standard.set(grille141a150, forKey: "grille141a150")
+                grillesAchetées = "Grilles 41 à 50 achetées!"
+                chosenIndexPath = [3, 5]
+                isPurchased = true
+                
             default: print("Pas trouver le produit")
             }
         }

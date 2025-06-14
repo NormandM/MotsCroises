@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Soulève un soupçon</string>
+			<string>INFORMATISEE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Mot capricieux</string>
+			<string>INFORMATISEE</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Naissance aquatique</string>
+			<string>INFORMATISEE</string>
+			<string>FRAI</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Sirop parfumé</string>
+			<string>INFORMATISEE</string>
+			<string>ORGEAT</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Voix du Maghreb</string>
+			<string>INFORMATISEE</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string></string>
+			<string>INFORMATISEE</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>INFORMATISEE</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Pronom</string>
+			<string>INFORMATISEE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Cause de l’usure</string>
+			<string>INFORMATISEE</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>L’œil andalou du cinéma</string>
+			<string>INFORMATISEE</string>
+			<string>SAURA</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Attrapée</string>
+			<string>INFORMATISEE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Passée du papier au pixel</string>
+			<string>Comme les bébés</string>
+			<string>INFORMATISEE</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Relata</string>
+			<string>Soulève un soupçon</string>
+			<string>NARRA</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Relata</string>
+			<string>Mot capricieux</string>
+			<string>NARRA</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Relata</string>
+			<string>Naissance aquatique</string>
+			<string>NARRA</string>
+			<string>FRAI</string>
+		</array>
+		<array>
+			<string>Relata</string>
+			<string>Sirop parfumé</string>
+			<string>NARRA</string>
+			<string>ORGEAT</string>
+		</array>
+		<array>
+			<string>Relata</string>
+			<string>Voix du Maghreb</string>
+			<string>NARRA</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chanteur</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>RENAUD</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Chanteur</string>
+			<string>Pronom</string>
+			<string>RENAUD</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Chanteur</string>
+			<string>Cause de l’usure</string>
+			<string>RENAUD</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string>Chanteur</string>
+			<string>L’œil andalou du cinéma</string>
+			<string>RENAUD</string>
+			<string>SAURA</string>
+		</array>
+		<array>
+			<string>Chanteur</string>
+			<string>Attrapée</string>
+			<string>RENAUD</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Chanteur</string>
+			<string>Comme les bébés</string>
+			<string>RENAUD</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Soulève un soupçon</string>
+			<string>T</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Naissance aquatique</string>
+			<string>AGITE</string>
+			<string>FRAI</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Sirop parfumé</string>
+			<string>AGITE</string>
+			<string>ORGEAT</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Voix du Maghreb</string>
+			<string>AGITE</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Vêtement</string>
+			<string>AGITE</string>
+			<string>TRICOT</string>
+		</array>
+		<array>
+			<string>Troublé</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>AGITE</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Abattue</string>
+			<string>Cause de l’usure</string>
+			<string>TUEE</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string>Abattue</string>
+			<string>L’œil andalou du cinéma</string>
+			<string>TUEE</string>
+			<string>SAURA</string>
+		</array>
+		<array>
+			<string>Abattue</string>
+			<string>Attrapée</string>
+			<string>TUEE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Abattue</string>
+			<string>Comme les bébés</string>
+			<string>TUEE</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tient à l’œil</string>
+			<string>Soulève un soupçon</string>
+			<string>EPIE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Tient à l’œil</string>
+			<string>Pause au goût amer</string>
+			<string>EPIE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Tient à l’œil</string>
+			<string>Naissance aquatique</string>
+			<string>EPIE</string>
+			<string>FRAI</string>
+		</array>
+		<array>
+			<string>Tient à l’œil</string>
+			<string>Sirop parfumé</string>
+			<string>EPIE</string>
+			<string>ORGEAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Teinter</string>
+			<string>Vêtement</string>
+			<string>ROSER</string>
+			<string>TRICOT</string>
+		</array>
+		<array>
+			<string>Teinter</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>ROSER</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Teinter</string>
+			<string>Mettrai ma griffe</string>
+			<string>ROSER</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>Teinter</string>
+			<string>Cause de l’usure</string>
+			<string>ROSER</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string>Teinter</string>
+			<string>L’œil andalou du cinéma</string>
+			<string>ROSER</string>
+			<string>SAURA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Comme les bébés</string>
+			<string>N</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Roulement de tambour</string>
+			<string>Soulève un soupçon</string>
+			<string>RA</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Roulement de tambour</string>
+			<string>Pause au goût amer</string>
+			<string>RA</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Sirop parfumé</string>
+			<string>AVILIRAIT</string>
+			<string>ORGEAT</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Plante</string>
+			<string>AVILIRAIT</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Vêtement</string>
+			<string>AVILIRAIT</string>
+			<string>TRICOT</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>AVILIRAIT</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Mettrai ma griffe</string>
+			<string>AVILIRAIT</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Cause de l’usure</string>
+			<string>AVILIRAIT</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>L’œil andalou du cinéma</string>
+			<string>AVILIRAIT</string>
+			<string>SAURA</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Absorbées</string>
+			<string>AVILIRAIT</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>Salirait</string>
+			<string>Comme les bébés</string>
+			<string>AVILIRAIT</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Soulève un soupçon</string>
+			<string>RUSTICAGE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Pause au goût amer</string>
+			<string>RUSTICAGE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Aller à merveille</string>
+			<string>RUSTICAGE</string>
+			<string>SEOIR</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Sirop parfumé</string>
+			<string>RUSTICAGE</string>
+			<string>ORGEAT</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Plante</string>
+			<string>RUSTICAGE</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Vêtement</string>
+			<string>RUSTICAGE</string>
+			<string>TRICOT</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>RUSTICAGE</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Mettrai ma griffe</string>
+			<string>RUSTICAGE</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>Mortier qu’on projette</string>
+			<string>Cause de l’usure</string>
+			<string>RUSTICAGE</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prélude au refus</string>
+			<string>Absorbées</string>
+			<string>NE</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>Prélude au refus</string>
+			<string>Comme les bébés</string>
+			<string>NE</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Passe à l’action</string>
+			<string>Soulève un soupçon</string>
+			<string>OSE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Passe à l’action</string>
+			<string>Pause au goût amer</string>
+			<string>OSE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Passe à l’action</string>
+			<string>Aller à merveille</string>
+			<string>OSE</string>
+			<string>SEOIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Plante</string>
+			<string>POINTAGE</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Vêtement</string>
+			<string>POINTAGE</string>
+			<string>TRICOT</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>POINTAGE</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Mettrai ma griffe</string>
+			<string>POINTAGE</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Cause de l’usure</string>
+			<string>POINTAGE</string>
+			<string>INTERET</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Guidée</string>
+			<string>POINTAGE</string>
+			<string>AMENEE</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Absorbées</string>
+			<string>POINTAGE</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>Tient compte</string>
+			<string>Comme les bébés</string>
+			<string>POINTAGE</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Soulève un soupçon</string>
+			<string>GEOMETRE</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Pause au goût amer</string>
+			<string>GEOMETRE</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Aller à merveille</string>
+			<string>GEOMETRE</string>
+			<string>SEOIR</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Né de deux mondes</string>
+			<string>GEOMETRE</string>
+			<string>METIS</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Plante</string>
+			<string>GEOMETRE</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Vêtement</string>
+			<string>GEOMETRE</string>
+			<string>TRICOT</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>GEOMETRE</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Maître du terrain</string>
+			<string>Mettrai ma griffe</string>
+			<string>GEOMETRE</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string>Guidée</string>
+			<string>MES</string>
+			<string>AMENEE</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string>Absorbées</string>
+			<string>MES</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>Possessif</string>
+			<string>Comme les bébés</string>
+			<string>MES</string>
+			<string>EDENTEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dureté trempée</string>
+			<string>Soulève un soupçon</string>
+			<string>ACIER</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Dureté trempée</string>
+			<string>Pause au goût amer</string>
+			<string>ACIER</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Dureté trempée</string>
+			<string>Aller à merveille</string>
+			<string>ACIER</string>
+			<string>SEOIR</string>
+		</array>
+		<array>
+			<string>Dureté trempée</string>
+			<string>Né de deux mondes</string>
+			<string>ACIER</string>
+			<string>METIS</string>
+		</array>
+		<array>
+			<string>Dureté trempée</string>
+			<string>Plante</string>
+			<string>ACIER</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Déambuler</string>
+			<string>Concerne une zone pigmentée</string>
+			<string>ERRER</string>
+			<string>AREOLAIRE</string>
+		</array>
+		<array>
+			<string>Déambuler</string>
+			<string>Mettrai ma griffe</string>
+			<string>ERRER</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>Déambuler</string>
+			<string>Filma Norma Rae</string>
+			<string>ERRER</string>
+			<string>RITT</string>
+		</array>
+		<array>
+			<string>Déambuler</string>
+			<string>Guidée</string>
+			<string>ERRER</string>
+			<string>AMENEE</string>
+		</array>
+		<array>
+			<string>Déambuler</string>
+			<string>Absorbées</string>
+			<string>ERRER</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Envoyer promener</string>
+			<string>Soulève un soupçon</string>
+			<string>TARTIR</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Envoyer promener</string>
+			<string>Pause au goût amer</string>
+			<string>TARTIR</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Envoyer promener</string>
+			<string>Aller à merveille</string>
+			<string>TARTIR</string>
+			<string>SEOIR</string>
+		</array>
+		<array>
+			<string>Envoyer promener</string>
+			<string>Né de deux mondes</string>
+			<string>TARTIR</string>
+			<string>METIS</string>
+		</array>
+		<array>
+			<string>Envoyer promener</string>
+			<string>Plante</string>
+			<string>TARTIR</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Envoyer promener</string>
+			<string>Part de brie</string>
+			<string>TARTIR</string>
+			<string>RIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La plus ancienne</string>
+			<string>Mettrai ma griffe</string>
+			<string>AINEE</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>La plus ancienne</string>
+			<string>Filma Norma Rae</string>
+			<string>AINEE</string>
+			<string>RITT</string>
+		</array>
+		<array>
+			<string>La plus ancienne</string>
+			<string>Guidée</string>
+			<string>AINEE</string>
+			<string>AMENEE</string>
+		</array>
+		<array>
+			<string>La plus ancienne</string>
+			<string>Absorbées</string>
+			<string>AINEE</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>La plus ancienne</string>
+			<string>S’enflamme au petit matin</string>
+			<string>AINEE</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Égouttoir</string>
+			<string>Soulève un soupçon</string>
+			<string>IF</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Égouttoir</string>
+			<string>Pause au goût amer</string>
+			<string>IF</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Né de deux mondes</string>
+			<string>INIMITEES</string>
+			<string>METIS</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Plante</string>
+			<string>INIMITEES</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Part de brie</string>
+			<string>INIMITEES</string>
+			<string>RIE</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Un court instant</string>
+			<string>INIMITEES</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Mettrai ma griffe</string>
+			<string>INIMITEES</string>
+			<string>SIGNERAI</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Filma Norma Rae</string>
+			<string>INIMITEES</string>
+			<string>RITT</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Guidée</string>
+			<string>INIMITEES</string>
+			<string>AMENEE</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>Absorbées</string>
+			<string>INIMITEES</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>Uniques</string>
+			<string>S’enflamme au petit matin</string>
+			<string>INIMITEES</string>
+			<string>EST</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string>Soulève un soupçon</string>
+			<string>FESSEES</string>
+			<string>INTERROGATIF</string>
+		</array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string>Pause au goût amer</string>
+			<string>FESSEES</string>
+			<string>PAUSECAFE</string>
+		</array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string></string>
+			<string>FESSEES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string>Né de deux mondes</string>
+			<string>FESSEES</string>
+			<string>METIS</string>
+		</array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string>Plante</string>
+			<string>FESSEES</string>
+			<string>VIPERINE</string>
+		</array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string>Part de brie</string>
+			<string>FESSEES</string>
+			<string>RIE</string>
+		</array>
+		<array>
+			<string>Corrections d’antan</string>
+			<string>Un court instant</string>
+			<string>FESSEES</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il permet de juger</string>
+			<string>Filma Norma Rae</string>
+			<string>TEST</string>
+			<string>RITT</string>
+		</array>
+		<array>
+			<string>Il permet de juger</string>
+			<string>Guidée</string>
+			<string>TEST</string>
+			<string>AMENEE</string>
+		</array>
+		<array>
+			<string>Il permet de juger</string>
+			<string>Absorbées</string>
+			<string>TEST</string>
+			<string>INGEREES</string>
+		</array>
+		<array>
+			<string>Il permet de juger</string>
+			<string>S’enflamme au petit matin</string>
+			<string>TEST</string>
+			<string>EST</string>
+		</array>
+	</array>
+</array>
+</plist>

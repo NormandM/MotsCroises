@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Position dominante</string>
+			<string>SUPERMARCHES</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Glandeur nature</string>
+			<string>SUPERMARCHES</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Exprime un certain rapport</string>
+			<string>SUPERMARCHES</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Rendre plus vaste</string>
+			<string>SUPERMARCHES</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>N’est plus valide</string>
+			<string>SUPERMARCHES</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string></string>
+			<string>SUPERMARCHES</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Fruit</string>
+			<string>SUPERMARCHES</string>
+			<string>API</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>D’hier mais tendance</string>
+			<string>SUPERMARCHES</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Envoi secondaire</string>
+			<string>SUPERMARCHES</string>
+			<string>CC</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Lèverai les épaules</string>
+			<string>SUPERMARCHES</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Lien marin</string>
+			<string>SUPERMARCHES</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Royaumes du chariot</string>
+			<string>Cloué sur place</string>
+			<string>SUPERMARCHES</string>
+			<string>SIDERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Groupe de soldats</string>
+			<string>Position dominante</string>
+			<string>UNITE</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>Groupe de soldats</string>
+			<string>Glandeur nature</string>
+			<string>UNITE</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string>Groupe de soldats</string>
+			<string>Exprime un certain rapport</string>
+			<string>UNITE</string>
+			<string>PI</string>
+		</array>
+		<array>
+			<string>Groupe de soldats</string>
+			<string>Rendre plus vaste</string>
+			<string>UNITE</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string>Groupe de soldats</string>
+			<string>N’est plus valide</string>
+			<string>UNITE</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Porc</string>
+			<string>Fruit</string>
+			<string>PECARI</string>
+			<string>API</string>
+		</array>
+		<array>
+			<string>Porc</string>
+			<string>D’hier mais tendance</string>
+			<string>PECARI</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Porc</string>
+			<string>Envoi secondaire</string>
+			<string>PECARI</string>
+			<string>CC</string>
+		</array>
+		<array>
+			<string>Porc</string>
+			<string>Lèverai les épaules</string>
+			<string>PECARI</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Porc</string>
+			<string>Lien marin</string>
+			<string>PECARI</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Porc</string>
+			<string>Cloué sur place</string>
+			<string>PECARI</string>
+			<string>SIDERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dieu à tête de faucon</string>
+			<string>Position dominante</string>
+			<string>RA</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>Dieu à tête de faucon</string>
+			<string>Glandeur nature</string>
+			<string>RA</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se posa</string>
+			<string>Rendre plus vaste</string>
+			<string>ASSIT</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string>Se posa</string>
+			<string>N’est plus valide</string>
+			<string>ASSIT</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>Se posa</string>
+			<string>Adorateur de la preuve</string>
+			<string>ASSIT</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Se posa</string>
+			<string>Fruit</string>
+			<string>ASSIT</string>
+			<string>API</string>
+		</array>
+		<array>
+			<string>Se posa</string>
+			<string>D’hier mais tendance</string>
+			<string>ASSIT</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sigle du billet vert</string>
+			<string>Lèverai les épaules</string>
+			<string>USD</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Sigle du billet vert</string>
+			<string>Lien marin</string>
+			<string>USD</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Sigle du billet vert</string>
+			<string>Cloué sur place</string>
+			<string>USD</string>
+			<string>SIDERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>À la vue de tous</string>
+			<string>Position dominante</string>
+			<string>PUBLIC</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>À la vue de tous</string>
+			<string>Glandeur nature</string>
+			<string>PUBLIC</string>
+			<string>UNAU</string>
+		</array>
+		<array>
+			<string>À la vue de tous</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>PUBLIC</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string>À la vue de tous</string>
+			<string>Rendre plus vaste</string>
+			<string>PUBLIC</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string>À la vue de tous</string>
+			<string>N’est plus valide</string>
+			<string>PUBLIC</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>À la vue de tous</string>
+			<string>Adorateur de la preuve</string>
+			<string>PUBLIC</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Brise brève</string>
+			<string>D’hier mais tendance</string>
+			<string>RISEE</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Brise brève</string>
+			<string>En toute ignorance</string>
+			<string>RISEE</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Brise brève</string>
+			<string>Lèverai les épaules</string>
+			<string>RISEE</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Brise brève</string>
+			<string>Lien marin</string>
+			<string>RISEE</string>
+			<string>ERSE</string>
+		</array>
+		<array>
+			<string>Brise brève</string>
+			<string>Cloué sur place</string>
+			<string>RISEE</string>
+			<string>SIDERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Position dominante</string>
+			<string>L</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>RELIIONS</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>Rendre plus vaste</string>
+			<string>RELIIONS</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>N’est plus valide</string>
+			<string>RELIIONS</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>Adorateur de la preuve</string>
+			<string>RELIIONS</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>Attaquer en justice</string>
+			<string>RELIIONS</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>D’hier mais tendance</string>
+			<string>RELIIONS</string>
+			<string>RETRO</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>En toute ignorance</string>
+			<string>RELIIONS</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Groupions</string>
+			<string>Lèverai les épaules</string>
+			<string>RELIIONS</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Cloué sur place</string>
+			<string>R</string>
+			<string>SIDERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>Position dominante</string>
+			<string>OVARIEN</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>Film d’Hitchcock</string>
+			<string>OVARIEN</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>OVARIEN</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>Rendre plus vaste</string>
+			<string>OVARIEN</string>
+			<string>ETALER</string>
+		</array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>N’est plus valide</string>
+			<string>OVARIEN</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>Adorateur de la preuve</string>
+			<string>OVARIEN</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Pas mâle du tout</string>
+			<string>Attaquer en justice</string>
+			<string>OVARIEN</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Force montante</string>
+			<string>En toute ignorance</string>
+			<string>SEVE</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Force montante</string>
+			<string>Lèverai les épaules</string>
+			<string>SEVE</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Force montante</string>
+			<string>Sentier urbain</string>
+			<string>SEVE</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string>Force montante</string>
+			<string>Cloué sur place</string>
+			<string>SEVE</string>
+			<string>SIDERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Indique une possession</string>
+			<string>Position dominante</string>
+			<string>MES</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>Indique une possession</string>
+			<string>Film d’Hitchcock</string>
+			<string>MES</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string>Indique une possession</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>MES</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>N’est plus valide</string>
+			<string>ENTOURE</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>Adorateur de la preuve</string>
+			<string>ENTOURE</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>Attaquer en justice</string>
+			<string>ENTOURE</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>Se tresse</string>
+			<string>ENTOURE</string>
+			<string>OSIER</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>En toute ignorance</string>
+			<string>ENTOURE</string>
+			<string>INSU</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>Lèverai les épaules</string>
+			<string>ENTOURE</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Cerné</string>
+			<string>Sentier urbain</string>
+			<string>ENTOURE</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Position dominante</string>
+			<string>BREVETES</string>
+			<string>SURPLOMB</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Film d’Hitchcock</string>
+			<string>BREVETES</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>BREVETES</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Ajoutai du degré</string>
+			<string>BREVETES</string>
+			<string>VINAI</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>N’est plus valide</string>
+			<string>BREVETES</string>
+			<string>RESILIEE</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Adorateur de la preuve</string>
+			<string>BREVETES</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Attaquer en justice</string>
+			<string>BREVETES</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string>Enregistrés</string>
+			<string>Se tresse</string>
+			<string>BREVETES</string>
+			<string>OSIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>ADN perturbé</string>
+			<string>Lèverai les épaules</string>
+			<string>AND</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>ADN perturbé</string>
+			<string>Sentier urbain</string>
+			<string>AND</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string>ADN perturbé</string>
+			<string>Foisonnantes</string>
+			<string>AND</string>
+			<string>DRUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fait le ménage</string>
+			<string>Film d’Hitchcock</string>
+			<string>TRI</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string>Fait le ménage</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>TRI</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string>Fait le ménage</string>
+			<string>Ajoutai du degré</string>
+			<string>TRI</string>
+			<string>VINAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Adorateur de la preuve</string>
+			<string>INITIER</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Attaquer en justice</string>
+			<string>INITIER</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Se tresse</string>
+			<string>INITIER</string>
+			<string>OSIER</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Il régnait</string>
+			<string>INITIER</string>
+			<string>TSAR</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Lèverai les épaules</string>
+			<string>INITIER</string>
+			<string>HAUSSERAI</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Sentier urbain</string>
+			<string>INITIER</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string>Casser la glace</string>
+			<string>Foisonnantes</string>
+			<string>INITIER</string>
+			<string>DRUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Nordique ou alpin</string>
+			<string>SIONISTES</string>
+			<string>SKI</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Film d’Hitchcock</string>
+			<string>SIONISTES</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Chauffe le cercle d’amis</string>
+			<string>SIONISTES</string>
+			<string>BRASERO</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Ajoutai du degré</string>
+			<string>SIONISTES</string>
+			<string>VINAI</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Pronom</string>
+			<string>SIONISTES</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Adorateur de la preuve</string>
+			<string>SIONISTES</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Attaquer en justice</string>
+			<string>SIONISTES</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Se tresse</string>
+			<string>SIONISTES</string>
+			<string>OSIER</string>
+		</array>
+		<array>
+			<string>Partisans d’un retour</string>
+			<string>Il régnait</string>
+			<string>SIONISTES</string>
+			<string>TSAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pris en pleine ligne</string>
+			<string>Sentier urbain</string>
+			<string>LU</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string>Pris en pleine ligne</string>
+			<string>Foisonnantes</string>
+			<string>LU</string>
+			<string>DRUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Unité de poids</string>
+			<string>Nordique ou alpin</string>
+			<string>KG</string>
+			<string>SKI</string>
+		</array>
+		<array>
+			<string>Unité de poids</string>
+			<string>Film d’Hitchcock</string>
+			<string>KG</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Ajoutai du degré</string>
+			<string>ALTERABLE</string>
+			<string>VINAI</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Pronom</string>
+			<string>ALTERABLE</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Adorateur de la preuve</string>
+			<string>ALTERABLE</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Attaquer en justice</string>
+			<string>ALTERABLE</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Se tresse</string>
+			<string>ALTERABLE</string>
+			<string>OSIER</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Il régnait</string>
+			<string>ALTERABLE</string>
+			<string>TSAR</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Éclusé</string>
+			<string>ALTERABLE</string>
+			<string>BU</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Sentier urbain</string>
+			<string>ALTERABLE</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string>À la merci des éléments</string>
+			<string>Foisonnantes</string>
+			<string>ALTERABLE</string>
+			<string>DRUES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string>Nordique ou alpin</string>
+			<string>IONISER</string>
+			<string>SKI</string>
+		</array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string>Film d’Hitchcock</string>
+			<string>IONISER</string>
+			<string>VERTIGO</string>
+		</array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string></string>
+			<string>IONISER</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string>Ajoutai du degré</string>
+			<string>IONISER</string>
+			<string>VINAI</string>
+		</array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string>Pronom</string>
+			<string>IONISER</string>
+			<string>ILS</string>
+		</array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string>Adorateur de la preuve</string>
+			<string>IONISER</string>
+			<string>SCIENTISTE</string>
+		</array>
+		<array>
+			<string>Faire sauter un électron</string>
+			<string>Attaquer en justice</string>
+			<string>IONISER</string>
+			<string>INTENTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elles se croisent en ville</string>
+			<string>Il régnait</string>
+			<string>RUES</string>
+			<string>TSAR</string>
+		</array>
+		<array>
+			<string>Elles se croisent en ville</string>
+			<string>Éclusé</string>
+			<string>RUES</string>
+			<string>BU</string>
+		</array>
+		<array>
+			<string>Elles se croisent en ville</string>
+			<string>Sentier urbain</string>
+			<string>RUES</string>
+			<string>VENELLE</string>
+		</array>
+		<array>
+			<string>Elles se croisent en ville</string>
+			<string>Foisonnantes</string>
+			<string>RUES</string>
+			<string>DRUES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Nourrissent les baleines</string>
+			<string>ZARATHOUSTRA</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Élément rare</string>
+			<string>ZARATHOUSTRA</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Bramais</string>
+			<string>ZARATHOUSTRA</string>
+			<string>REAIS</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Dieu du carnage</string>
+			<string>ZARATHOUSTRA</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Il a trois cordes</string>
+			<string>ZARATHOUSTRA</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string></string>
+			<string>ZARATHOUSTRA</string>
+			<string>H</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Oui à Pau</string>
+			<string>ZARATHOUSTRA</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Bœufs disparus</string>
+			<string>ZARATHOUSTRA</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>On s’y promène</string>
+			<string>ZARATHOUSTRA</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Se nourrir de blanc</string>
+			<string>ZARATHOUSTRA</string>
+			<string>TETER</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Palpables</string>
+			<string>ZARATHOUSTRA</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string>Prophète perse</string>
+			<string>Ferments</string>
+			<string>ZARATHOUSTRA</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fera place nette</string>
+			<string>Nourrissent les baleines</string>
+			<string>OTERA</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Fera place nette</string>
+			<string>Élément rare</string>
+			<string>OTERA</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Fera place nette</string>
+			<string>Bramais</string>
+			<string>OTERA</string>
+			<string>REAIS</string>
+		</array>
+		<array>
+			<string>Fera place nette</string>
+			<string>Dieu du carnage</string>
+			<string>OTERA</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Fera place nette</string>
+			<string>Il a trois cordes</string>
+			<string>OTERA</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sorties de nulle part</string>
+			<string>Oui à Pau</string>
+			<string>CREEES</string>
+			<string>OC</string>
+		</array>
+		<array>
+			<string>Sorties de nulle part</string>
+			<string>Bœufs disparus</string>
+			<string>CREEES</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>Sorties de nulle part</string>
+			<string>On s’y promène</string>
+			<string>CREEES</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string>Sorties de nulle part</string>
+			<string>Se nourrir de blanc</string>
+			<string>CREEES</string>
+			<string>TETER</string>
+		</array>
+		<array>
+			<string>Sorties de nulle part</string>
+			<string>Palpables</string>
+			<string>CREEES</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string>Sorties de nulle part</string>
+			<string>Ferments</string>
+			<string>CREEES</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Nourrissent les baleines</string>
+			<string>O</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Peu chargé</string>
+			<string>Bramais</string>
+			<string>AERE</string>
+			<string>REAIS</string>
+		</array>
+		<array>
+			<string>Peu chargé</string>
+			<string>Dieu du carnage</string>
+			<string>AERE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Peu chargé</string>
+			<string>Il a trois cordes</string>
+			<string>AERE</string>
+			<string>TAR</string>
+		</array>
+		<array>
+			<string>Peu chargé</string>
+			<string>Préférée</string>
+			<string>AERE</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A gagné une branche</string>
+			<string>Bœufs disparus</string>
+			<string>ENTEE</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>A gagné une branche</string>
+			<string>On s’y promène</string>
+			<string>ENTEE</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string>A gagné une branche</string>
+			<string>Se nourrir de blanc</string>
+			<string>ENTEE</string>
+			<string>TETER</string>
+		</array>
+		<array>
+			<string>A gagné une branche</string>
+			<string>Palpables</string>
+			<string>ENTEE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string>A gagné une branche</string>
+			<string>Ferments</string>
+			<string>ENTEE</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Canard ibérique</string>
+			<string>Nourrissent les baleines</string>
+			<string>PAIS</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Canard ibérique</string>
+			<string>Dépannée</string>
+			<string>PAIS</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string>Canard ibérique</string>
+			<string>Bramais</string>
+			<string>PAIS</string>
+			<string>REAIS</string>
+		</array>
+		<array>
+			<string>Canard ibérique</string>
+			<string>Dieu du carnage</string>
+			<string>PAIS</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>Préférée</string>
+			<string>LISTELS</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>Abréviation</string>
+			<string>LISTELS</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>Bœufs disparus</string>
+			<string>LISTELS</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>On s’y promène</string>
+			<string>LISTELS</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>Se nourrir de blanc</string>
+			<string>LISTELS</string>
+			<string>TETER</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>Palpables</string>
+			<string>LISTELS</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string>Cercles de numismate</string>
+			<string>Ferments</string>
+			<string>LISTELS</string>
+			<string>ASES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pur symbole</string>
+			<string>Nourrissent les baleines</string>
+			<string>LIS</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Pur symbole</string>
+			<string>Dépannée</string>
+			<string>LIS</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string>Pur symbole</string>
+			<string>Bramais</string>
+			<string>LIS</string>
+			<string>REAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sécrète</string>
+			<string>Attaque les poitrines</string>
+			<string>SUE</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string>Sécrète</string>
+			<string>Préférée</string>
+			<string>SUE</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string>Sécrète</string>
+			<string>Abréviation</string>
+			<string>SUE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Au milieu de la perle</string>
+			<string>On s’y promène</string>
+			<string>ERL</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string>Au milieu de la perle</string>
+			<string>Se nourrir de blanc</string>
+			<string>ERL</string>
+			<string>TETER</string>
+		</array>
+		<array>
+			<string>Au milieu de la perle</string>
+			<string>Palpables</string>
+			<string>ERL</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ouvre l’addition</string>
+			<string>Nourrissent les baleines</string>
+			<string>AD</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Ouvre l’addition</string>
+			<string>Dépannée</string>
+			<string>AD</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dessin de caverne</string>
+			<string>Pratiques ancestrales</string>
+			<string>URE</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Dessin de caverne</string>
+			<string>Attaque les poitrines</string>
+			<string>URE</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string>Dessin de caverne</string>
+			<string>Préférée</string>
+			<string>URE</string>
+			<string>ELUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Crack</string>
+			<string>Étoiles de jardin</string>
+			<string>AS</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string>Crack</string>
+			<string>On s’y promène</string>
+			<string>AS</string>
+			<string>SENTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gentil monstre</string>
+			<string>Palpables</string>
+			<string>ET</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string>Gentil monstre</string>
+			<string>Éminences</string>
+			<string>ET</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Déesse de Tolkien</string>
+			<string>Nourrissent les baleines</string>
+			<string>NESSA</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Déesse de Tolkien</string>
+			<string>Dépannée</string>
+			<string>NESSA</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string>Déesse de Tolkien</string>
+			<string>Stagnations</string>
+			<string>NESSA</string>
+			<string>STASES</string>
+		</array>
+		<array>
+			<string>Déesse de Tolkien</string>
+			<string>Pratiques ancestrales</string>
+			<string>NESSA</string>
+			<string>US</string>
+		</array>
+		<array>
+			<string>Déesse de Tolkien</string>
+			<string>Attaque les poitrines</string>
+			<string>NESSA</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Être pour toi</string>
+			<string>Petit anneau</string>
+			<string>ES</string>
+			<string>ERSEAU</string>
+		</array>
+		<array>
+			<string>Être pour toi</string>
+			<string>Étoiles de jardin</string>
+			<string>ES</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Postures</string>
+			<string>ASE</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Palpables</string>
+			<string>ASE</string>
+			<string>REELLES</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Éminences</string>
+			<string>ASE</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Désigne de près</string>
+			<string>Nourrissent les baleines</string>
+			<string>CET</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Désigne de près</string>
+			<string>Dépannée</string>
+			<string>CET</string>
+			<string>AIDEE</string>
+		</array>
+		<array>
+			<string>Désigne de près</string>
+			<string>Stagnations</string>
+			<string>CET</string>
+			<string>STASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bien en place</string>
+			<string>Attaque les poitrines</string>
+			<string>SERTIS</string>
+			<string>SRAS</string>
+		</array>
+		<array>
+			<string>Bien en place</string>
+			<string>N’est plus à prendre</string>
+			<string>SERTIS</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Bien en place</string>
+			<string>Petit anneau</string>
+			<string>SERTIS</string>
+			<string>ERSEAU</string>
+		</array>
+		<array>
+			<string>Bien en place</string>
+			<string>Étoiles de jardin</string>
+			<string>SERTIS</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string>Bien en place</string>
+			<string>Fin de non-recevoir</string>
+			<string>SERTIS</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Bien en place</string>
+			<string>Postures</string>
+			<string>SERTIS</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Éminences</string>
+			<string>R</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Nourrissent les baleines</string>
+			<string>T</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Symbole</string>
+			<string>Stagnations</string>
+			<string>AC</string>
+			<string>STASES</string>
+		</array>
+		<array>
+			<string>Symbole</string>
+			<string>Dossier individuel</string>
+			<string>AC</string>
+			<string>CAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string>N’est plus à prendre</string>
+			<string>USERAIT</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string>Petit anneau</string>
+			<string>USERAIT</string>
+			<string>ERSEAU</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string>Étoiles de jardin</string>
+			<string>USERAIT</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string>Fin de non-recevoir</string>
+			<string>USERAIT</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string>Postures</string>
+			<string>USERAIT</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string></string>
+			<string>USERAIT</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Se servirait</string>
+			<string>Éminences</string>
+			<string>USERAIT</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Gare aux œuvres</string>
+			<string>Nourrissent les baleines</string>
+			<string>ORSAY</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Gare aux œuvres</string>
+			<string>Crie</string>
+			<string>ORSAY</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string>Gare aux œuvres</string>
+			<string>Stagnations</string>
+			<string>ORSAY</string>
+			<string>STASES</string>
+		</array>
+		<array>
+			<string>Gare aux œuvres</string>
+			<string>Dossier individuel</string>
+			<string>ORSAY</string>
+			<string>CAS</string>
+		</array>
+		<array>
+			<string>Gare aux œuvres</string>
+			<string></string>
+			<string>ORSAY</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À la source des erreurs</string>
+			<string>Petit anneau</string>
+			<string>ER</string>
+			<string>ERSEAU</string>
+		</array>
+		<array>
+			<string>À la source des erreurs</string>
+			<string>Étoiles de jardin</string>
+			<string>ER</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Postures</string>
+			<string>N</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Éminences</string>
+			<string>R</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sorties de l’enceinte</string>
+			<string>Nourrissent les baleines</string>
+			<string>NEES</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Sorties de l’enceinte</string>
+			<string>Crie</string>
+			<string>NEES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string>Sorties de l’enceinte</string>
+			<string>Stagnations</string>
+			<string>NEES</string>
+			<string>STASES</string>
+		</array>
+		<array>
+			<string>Sorties de l’enceinte</string>
+			<string>Dossier individuel</string>
+			<string>NEES</string>
+			<string>CAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Devant maison</string>
+			<string>MASCATE</string>
+			<string>MA</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Petit anneau</string>
+			<string>MASCATE</string>
+			<string>ERSEAU</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Étoiles de jardin</string>
+			<string>MASCATE</string>
+			<string>ASTERS</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Métal bleuâtre</string>
+			<string>MASCATE</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Postures</string>
+			<string>MASCATE</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Conducteur de ligne</string>
+			<string>MASCATE</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Capitale asiatique</string>
+			<string>Éminences</string>
+			<string>MASCATE</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pour elles</string>
+			<string>Nourrissent les baleines</string>
+			<string>SES</string>
+			<string>ZOOPLANCTONS</string>
+		</array>
+		<array>
+			<string>Pour elles</string>
+			<string>Crie</string>
+			<string>SES</string>
+			<string>REE</string>
+		</array>
+		<array>
+			<string>Pour elles</string>
+			<string>Stagnations</string>
+			<string>SES</string>
+			<string>STASES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Onde</string>
+			<string></string>
+			<string>EAU</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Onde</string>
+			<string>Devant maison</string>
+			<string>EAU</string>
+			<string>MA</string>
+		</array>
+		<array>
+			<string>Onde</string>
+			<string>Petit anneau</string>
+			<string>EAU</string>
+			<string>ERSEAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Faits front</string>
+			<string>Métal bleuâtre</string>
+			<string>OSES</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Faits front</string>
+			<string>Postures</string>
+			<string>OSES</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Faits front</string>
+			<string>Conducteur de ligne</string>
+			<string>OSES</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Faits front</string>
+			<string>Éminences</string>
+			<string>OSES</string>
+			<string>TERTRES</string>
+		</array>
+	</array>
+</array>
+</plist>

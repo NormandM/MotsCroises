@@ -26,4 +26,10 @@ struct SelectionDesGrilles {
     static let grille71a80 = ["21E", "22E", "23E", "24E", "25E", "26E", "27E", "28E", "29E", "30E"]
     static let grille81a90 = ["31E", "32E", "33E", "34E", "35E", "36E", "37E", "38E", "39E", "40E"]
     static let grille91a100 = ["41E", "42E", "43E", "44E", "45E", "46E", "47E", "48E", "49E", "50E"]
+    static let gille16Ga20G = ["16G", "17G", "18G", "19G","20G"]
+    static let grille101a110 = ["1AV", "2AV", "3AV", "4AV","5AV","6AV","7AV","8AV","9AV","10AV"]
+    static let grille111a120 = ["11AV", "12AV", "13AV", "14AV", "15AV", "16AV", "17AV", "18AV", "19AV", "20AV"]
+    static let grille121a130 = ["21AV", "22AV", "23AV", "24AV", "25AV", "26AV", "27AV", "28AV", "29AV", "30AV"]
+    static let grille131a140 = ["31AV", "32AV", "33AV", "34AV", "35AV", "36AV", "37AV", "38AV", "39AV", "40AV"]
+    static let grille141a150 = ["41AV", "42AV", "43AV", "44AV", "45AV", "46AV", "47AV", "48AV", "49AV", "50AV"]
 }

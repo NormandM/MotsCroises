@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Qui assure la lignée</string>
+			<string>RESPONSABLES</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Se procura</string>
+			<string>RESPONSABLES</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Symbole chimique</string>
+			<string>RESPONSABLES</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Fils de Priam</string>
+			<string>RESPONSABLES</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string></string>
+			<string>RESPONSABLES</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Film risible</string>
+			<string>RESPONSABLES</string>
+			<string>NANAR</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Suivent Paris au foot</string>
+			<string>RESPONSABLES</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Beau bavard</string>
+			<string>RESPONSABLES</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Génie baroque</string>
+			<string>RESPONSABLES</string>
+			<string>BACH</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Mis en couches</string>
+			<string>RESPONSABLES</string>
+			<string>LITES</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Découpage historique</string>
+			<string>RESPONSABLES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Liés aux conséquences</string>
+			<string>Vieilles devises</string>
+			<string>RESPONSABLES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Standard européen</string>
+			<string>Qui assure la lignée</string>
+			<string>EURO</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Standard européen</string>
+			<string>Se procura</string>
+			<string>EURO</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Standard européen</string>
+			<string>Symbole chimique</string>
+			<string>EURO</string>
+			<string>SR</string>
+		</array>
+		<array>
+			<string>Standard européen</string>
+			<string>Fils de Priam</string>
+			<string>EURO</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Film risible</string>
+			<string>AGRAIRE</string>
+			<string>NANAR</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Suivent Paris au foot</string>
+			<string>AGRAIRE</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Beau bavard</string>
+			<string>AGRAIRE</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Génie baroque</string>
+			<string>AGRAIRE</string>
+			<string>BACH</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Mis en couches</string>
+			<string>AGRAIRE</string>
+			<string>LITES</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Découpage historique</string>
+			<string>AGRAIRE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Pour les labours</string>
+			<string>Vieilles devises</string>
+			<string>AGRAIRE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Autour du pot</string>
+			<string>Qui assure la lignée</string>
+			<string>PT</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Autour du pot</string>
+			<string>Se procura</string>
+			<string>PT</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plante textile</string>
+			<string>Fils de Priam</string>
+			<string>LIN</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string>Plante textile</string>
+			<string>Marquises</string>
+			<string>LIN</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Plante textile</string>
+			<string>Film risible</string>
+			<string>LIN</string>
+			<string>NANAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ils sont mis en scène</string>
+			<string>Beau bavard</string>
+			<string>ACTES</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Ils sont mis en scène</string>
+			<string>Génie baroque</string>
+			<string>ACTES</string>
+			<string>BACH</string>
+		</array>
+		<array>
+			<string>Ils sont mis en scène</string>
+			<string>Mis en couches</string>
+			<string>ACTES</string>
+			<string>LITES</string>
+		</array>
+		<array>
+			<string>Ils sont mis en scène</string>
+			<string>Découpage historique</string>
+			<string>ACTES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Ils sont mis en scène</string>
+			<string>Vieilles devises</string>
+			<string>ACTES</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui assure la lignée</string>
+			<string>R</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rapace ou capitale ?</string>
+			<string>Violoncelliste américain</string>
+			<string>MILAN</string>
+			<string>MA</string>
+		</array>
+		<array>
+			<string>Rapace ou capitale ?</string>
+			<string>Fils de Priam</string>
+			<string>MILAN</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string>Rapace ou capitale ?</string>
+			<string>Marquises</string>
+			<string>MILAN</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Rapace ou capitale ?</string>
+			<string>Film risible</string>
+			<string>MILAN</string>
+			<string>NANAR</string>
+		</array>
+		<array>
+			<string>Rapace ou capitale ?</string>
+			<string>Mollusque</string>
+			<string>MILAN</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Interjection</string>
+			<string>Génie baroque</string>
+			<string>HE</string>
+			<string>BACH</string>
+		</array>
+		<array>
+			<string>Interjection</string>
+			<string>Mis en couches</string>
+			<string>HE</string>
+			<string>LITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Vieilles devises</string>
+			<string>T</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Qui assure la lignée</string>
+			<string>OUATERAI</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Mousse aérienne</string>
+			<string>OUATERAI</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Violoncelliste américain</string>
+			<string>OUATERAI</string>
+			<string>MA</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Fils de Priam</string>
+			<string>OUATERAI</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Marquises</string>
+			<string>OUATERAI</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Film risible</string>
+			<string>OUATERAI</string>
+			<string>NANAR</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>Mollusque</string>
+			<string>OUATERAI</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string>Rendrai moelleux</string>
+			<string>En énumération</string>
+			<string>OUATERAI</string>
+			<string>ITEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Auteur populaire</string>
+			<string>Mis en couches</string>
+			<string>SUE</string>
+			<string>LITES</string>
+		</array>
+		<array>
+			<string>Auteur populaire</string>
+			<string>Institution supranationale</string>
+			<string>SUE</string>
+			<string>UE</string>
+		</array>
+		<array>
+			<string>Auteur populaire</string>
+			<string>Vieilles devises</string>
+			<string>SUE</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Citroën</string>
+			<string>Qui assure la lignée</string>
+			<string>DS</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Citroën</string>
+			<string>Mousse aérienne</string>
+			<string>DS</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Être à tu et à toi</string>
+			<string>Fils de Priam</string>
+			<string>ES</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string>Être à tu et à toi</string>
+			<string>Marquises</string>
+			<string>ES</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Hôte, malgré lui des mormons</string>
+			<string>Mollusque</string>
+			<string>UTE</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string>Hôte, malgré lui des mormons</string>
+			<string>En énumération</string>
+			<string>UTE</string>
+			<string>ITEM</string>
+		</array>
+		<array>
+			<string>Hôte, malgré lui des mormons</string>
+			<string>Montrent</string>
+			<string>UTE</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Institution supranationale</string>
+			<string>ER</string>
+			<string>UE</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Vieilles devises</string>
+			<string>ER</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Qui assure la lignée</string>
+			<string>UNES</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Mousse aérienne</string>
+			<string>UNES</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Port breton</string>
+			<string>UNES</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string>Avant les autres</string>
+			<string>Fils de Priam</string>
+			<string>UNES</string>
+			<string>POLITES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Laisse sans chef</string>
+			<string>Noir comme un corbeau</string>
+			<string>ETETE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Laisse sans chef</string>
+			<string>Mollusque</string>
+			<string>ETETE</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string>Laisse sans chef</string>
+			<string>En énumération</string>
+			<string>ETETE</string>
+			<string>ITEM</string>
+		</array>
+		<array>
+			<string>Laisse sans chef</string>
+			<string>Montrent</string>
+			<string>ETETE</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string>Laisse sans chef</string>
+			<string></string>
+			<string>ETETE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Vieilles devises</string>
+			<string>C</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sert à montrer</string>
+			<string>Qui assure la lignée</string>
+			<string>CET</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Sert à montrer</string>
+			<string>Mousse aérienne</string>
+			<string>CET</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string>Sert à montrer</string>
+			<string>Port breton</string>
+			<string>CET</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Amocha</string>
+			<string></string>
+			<string>ABIMA</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Amocha</string>
+			<string>Noir comme un corbeau</string>
+			<string>ABIMA</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Amocha</string>
+			<string>Mollusque</string>
+			<string>ABIMA</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string>Amocha</string>
+			<string>En énumération</string>
+			<string>ABIMA</string>
+			<string>ITEM</string>
+		</array>
+		<array>
+			<string>Amocha</string>
+			<string>Montrent</string>
+			<string>ABIMA</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tranche de melon</string>
+			<string>Discipliner</string>
+			<string>ME</string>
+			<string>MATER</string>
+		</array>
+		<array>
+			<string>Tranche de melon</string>
+			<string>Vieilles devises</string>
+			<string>ME</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bases de lancement</string>
+			<string>Qui assure la lignée</string>
+			<string>TEES</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Bases de lancement</string>
+			<string>Mousse aérienne</string>
+			<string>TEES</string>
+			<string>USNEE</string>
+		</array>
+		<array>
+			<string>Bases de lancement</string>
+			<string>Port breton</string>
+			<string>TEES</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string>Bases de lancement</string>
+			<string>Couche terrestre</string>
+			<string>TEES</string>
+			<string>SIAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se dit à Madrid</string>
+			<string>Noir comme un corbeau</string>
+			<string>EL</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Se dit à Madrid</string>
+			<string>Mollusque</string>
+			<string>EL</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Époque géologique</string>
+			<string>Montrent</string>
+			<string>LIAS</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string>Époque géologique</string>
+			<string>Adorait le soleil</string>
+			<string>LIAS</string>
+			<string>INCA</string>
+		</array>
+		<array>
+			<string>Époque géologique</string>
+			<string>Discipliner</string>
+			<string>LIAS</string>
+			<string>MATER</string>
+		</array>
+		<array>
+			<string>Époque géologique</string>
+			<string>Vieilles devises</string>
+			<string>LIAS</string>
+			<string>SESTERCES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui assure la lignée</string>
+			<string>I</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Port breton</string>
+			<string>LIGNERENT</string>
+			<string>ETEL</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Couche terrestre</string>
+			<string>LIGNERENT</string>
+			<string>SIAL</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>De bonne grâce</string>
+			<string>LIGNERENT</string>
+			<string>GRE</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Noir comme un corbeau</string>
+			<string>LIGNERENT</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Mollusque</string>
+			<string>LIGNERENT</string>
+			<string>NAUTILE</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Il craint l'échec</string>
+			<string>LIGNERENT</string>
+			<string>ROI</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Montrent</string>
+			<string>LIGNERENT</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Adorait le soleil</string>
+			<string>LIGNERENT</string>
+			<string>INCA</string>
+		</array>
+		<array>
+			<string>Organisèrent en rangs</string>
+			<string>Discipliner</string>
+			<string>LIGNERENT</string>
+			<string>MATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pris en compte</string>
+			<string>Qui assure la lignée</string>
+			<string>VU</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Pris en compte</string>
+			<string>Seul et unique</string>
+			<string>VU</string>
+			<string>UN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lopin</string>
+			<string>Couche terrestre</string>
+			<string>ARE</string>
+			<string>SIAL</string>
+		</array>
+		<array>
+			<string>Lopin</string>
+			<string>De bonne grâce</string>
+			<string>ARE</string>
+			<string>GRE</string>
+		</array>
+		<array>
+			<string>Lopin</string>
+			<string>Noir comme un corbeau</string>
+			<string>ARE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Félins</string>
+			<string>Il craint l'échec</string>
+			<string>ONCES</string>
+			<string>ROI</string>
+		</array>
+		<array>
+			<string>Félins</string>
+			<string>Montrent</string>
+			<string>ONCES</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string>Félins</string>
+			<string>Adorait le soleil</string>
+			<string>ONCES</string>
+			<string>INCA</string>
+		</array>
+		<array>
+			<string>Félins</string>
+			<string>Discipliner</string>
+			<string>ONCES</string>
+			<string>MATER</string>
+		</array>
+		<array>
+			<string>Félins</string>
+			<string>Initiales tristement célèbres</string>
+			<string>ONCES</string>
+			<string>SS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prend de l'importance après coup</string>
+			<string>Qui assure la lignée</string>
+			<string>ENFLE</string>
+			<string>REPRODUCTIVE</string>
+		</array>
+		<array>
+			<string>Prend de l'importance après coup</string>
+			<string>Seul et unique</string>
+			<string>ENFLE</string>
+			<string>UN</string>
+		</array>
+		<array>
+			<string>Prend de l'importance après coup</string>
+			<string></string>
+			<string>ENFLE</string>
+			<string>F</string>
+		</array>
+		<array>
+			<string>Prend de l'importance après coup</string>
+			<string>Couche terrestre</string>
+			<string>ENFLE</string>
+			<string>SIAL</string>
+		</array>
+		<array>
+			<string>Prend de l'importance après coup</string>
+			<string>De bonne grâce</string>
+			<string>ENFLE</string>
+			<string>GRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grattés en Inde</string>
+			<string></string>
+			<string>SITARS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Grattés en Inde</string>
+			<string>Il craint l'échec</string>
+			<string>SITARS</string>
+			<string>ROI</string>
+		</array>
+		<array>
+			<string>Grattés en Inde</string>
+			<string>Montrent</string>
+			<string>SITARS</string>
+			<string>ETALENT</string>
+		</array>
+		<array>
+			<string>Grattés en Inde</string>
+			<string>Adorait le soleil</string>
+			<string>SITARS</string>
+			<string>INCA</string>
+		</array>
+		<array>
+			<string>Grattés en Inde</string>
+			<string>Discipliner</string>
+			<string>SITARS</string>
+			<string>MATER</string>
+		</array>
+		<array>
+			<string>Grattés en Inde</string>
+			<string>Initiales tristement célèbres</string>
+			<string>SITARS</string>
+			<string>SS</string>
+		</array>
+	</array>
+</array>
+</plist>

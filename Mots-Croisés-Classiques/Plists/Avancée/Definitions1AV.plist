@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Nommer</string>
+			<string>Croissance</string>
+			<string>APPELER</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Nommer</string>
+			<string>Lettre</string>
+			<string>APPELER</string>
+			<string>PSI</string>
+		</array>
+		<array>
+			<string>Nommer</string>
+			<string>Faite pour juger</string>
+			<string>APPELER</string>
+			<string>PENALE</string>
+		</array>
+		<array>
+			<string>Nommer</string>
+			<string>Queue du verbe</string>
+			<string>APPELER</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Nommer</string>
+			<string>Feuilles à succès</string>
+			<string>APPELER</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string>Nommer</string>
+			<string></string>
+			<string>APPELER</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Nommer</string>
+			<string>Fus peu coopératif</string>
+			<string>APPELER</string>
+			<string>RUAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Porteur de bois</string>
+			<string>En début et en fin de droit</string>
+			<string>DAIM</string>
+			<string>DT</string>
+		</array>
+		<array>
+			<string>Porteur de bois</string>
+			<string>Il s'entend après coup</string>
+			<string>DAIM</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>Porteur de bois</string>
+			<string>Grossière</string>
+			<string>DAIM</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string>Porteur de bois</string>
+			<string>Homme d’ordre</string>
+			<string>DAIM</string>
+			<string>MOINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Altérera</string>
+			<string>Croissance</string>
+			<string>USERA</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Altérera</string>
+			<string>Lettre</string>
+			<string>USERA</string>
+			<string>PSI</string>
+		</array>
+		<array>
+			<string>Altérera</string>
+			<string>Faite pour juger</string>
+			<string>USERA</string>
+			<string>PENALE</string>
+		</array>
+		<array>
+			<string>Altérera</string>
+			<string>Queue du verbe</string>
+			<string>USERA</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Altérera</string>
+			<string>Feuilles à succès</string>
+			<string>USERA</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>En conclusion</string>
+			<string>Fus peu coopératif</string>
+			<string>ULTIMO</string>
+			<string>RUAI</string>
+		</array>
+		<array>
+			<string>En conclusion</string>
+			<string>Esprit follet</string>
+			<string>ULTIMO</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>En conclusion</string>
+			<string>En début et en fin de droit</string>
+			<string>ULTIMO</string>
+			<string>DT</string>
+		</array>
+		<array>
+			<string>En conclusion</string>
+			<string>Il s'entend après coup</string>
+			<string>ULTIMO</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>En conclusion</string>
+			<string>Grossière</string>
+			<string>ULTIMO</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string>En conclusion</string>
+			<string>Homme d’ordre</string>
+			<string>ULTIMO</string>
+			<string>MOINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Élément de cocktail</string>
+			<string>Croissance</string>
+			<string>GIN</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Élément de cocktail</string>
+			<string>Lettre</string>
+			<string>GIN</string>
+			<string>PSI</string>
+		</array>
+		<array>
+			<string>Élément de cocktail</string>
+			<string>Faite pour juger</string>
+			<string>GIN</string>
+			<string>PENALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Glandeur naturel</string>
+			<string>Feuilles à succès</string>
+			<string>UNAU</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string>Glandeur naturel</string>
+			<string>Patriarche de l’Ancien Testament</string>
+			<string>UNAU</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Glandeur naturel</string>
+			<string>Fus peu coopératif</string>
+			<string>UNAU</string>
+			<string>RUAI</string>
+		</array>
+		<array>
+			<string>Glandeur naturel</string>
+			<string>Esprit follet</string>
+			<string>UNAU</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cime nourricière</string>
+			<string>Il s'entend après coup</string>
+			<string>EPI</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>Cime nourricière</string>
+			<string>Grossière</string>
+			<string>EPI</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string>Cime nourricière</string>
+			<string>Homme d’ordre</string>
+			<string>EPI</string>
+			<string>MOINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Croissance</string>
+			<string>M</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Faite pour juger</string>
+			<string>ADROITS</string>
+			<string>PENALE</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Ton pédant</string>
+			<string>ADROITS</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Feuilles à succès</string>
+			<string>ADROITS</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Patriarche de l’Ancien Testament</string>
+			<string>ADROITS</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Fus peu coopératif</string>
+			<string>ADROITS</string>
+			<string>RUAI</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Esprit follet</string>
+			<string>ADROITS</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Exercés</string>
+			<string>Mettre en onde</string>
+			<string>ADROITS</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Propage des ragots</string>
+			<string>Grossière</string>
+			<string>ON</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string>Propage des ragots</string>
+			<string>Homme d’ordre</string>
+			<string>ON</string>
+			<string>MOINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Étend</string>
+			<string>Croissance</string>
+			<string>EPLOIE</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Étend</string>
+			<string>Promeneuse urbaine</string>
+			<string>EPLOIE</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Étend</string>
+			<string>Faite pour juger</string>
+			<string>EPLOIE</string>
+			<string>PENALE</string>
+		</array>
+		<array>
+			<string>Étend</string>
+			<string>Ton pédant</string>
+			<string>EPLOIE</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Étend</string>
+			<string>Feuilles à succès</string>
+			<string>EPLOIE</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string>Étend</string>
+			<string>Patriarche de l’Ancien Testament</string>
+			<string>EPLOIE</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donne l'air d'un montagnard</string>
+			<string>Esprit follet</string>
+			<string>IODLE</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Donne l'air d'un montagnard</string>
+			<string>Mettre en onde</string>
+			<string>IODLE</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Donne l'air d'un montagnard</string>
+			<string>Difficiles</string>
+			<string>IODLE</string>
+			<string>DURES</string>
+		</array>
+		<array>
+			<string>Donne l'air d'un montagnard</string>
+			<string>Grossière</string>
+			<string>IODLE</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string>Donne l'air d'un montagnard</string>
+			<string>Homme d’ordre</string>
+			<string>IODLE</string>
+			<string>MOINE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Parenté</string>
+			<string>Croissance</string>
+			<string>NIECE</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Parenté</string>
+			<string>Promeneuse urbaine</string>
+			<string>NIECE</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Parenté</string>
+			<string>Faite pour juger</string>
+			<string>NIECE</string>
+			<string>PENALE</string>
+		</array>
+		<array>
+			<string>Parenté</string>
+			<string>Ton pédant</string>
+			<string>NIECE</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Parenté</string>
+			<string>Feuilles à succès</string>
+			<string>NIECE</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mal de vivre</string>
+			<string>Advint</string>
+			<string>ENNUI</string>
+			<string>ECHUT</string>
+		</array>
+		<array>
+			<string>Mal de vivre</string>
+			<string>Esprit follet</string>
+			<string>ENNUI</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Mal de vivre</string>
+			<string>Mettre en onde</string>
+			<string>ENNUI</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Mal de vivre</string>
+			<string>Difficiles</string>
+			<string>ENNUI</string>
+			<string>DURES</string>
+		</array>
+		<array>
+			<string>Mal de vivre</string>
+			<string>Grossière</string>
+			<string>ENNUI</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tiens de Pagnol</string>
+			<string>Croissance</string>
+			<string>TE</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Tiens de Pagnol</string>
+			<string>Promeneuse urbaine</string>
+			<string>TE</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il noue la gorge</string>
+			<string>Ton pédant</string>
+			<string>TRAC</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Il noue la gorge</string>
+			<string>Feuilles à succès</string>
+			<string>TRAC</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string>Il noue la gorge</string>
+			<string>Rassérène</string>
+			<string>TRAC</string>
+			<string>APAISE</string>
+		</array>
+		<array>
+			<string>Il noue la gorge</string>
+			<string>Advint</string>
+			<string>TRAC</string>
+			<string>ECHUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Devises nordiques</string>
+			<string>Mettre en onde</string>
+			<string>ORES</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Devises nordiques</string>
+			<string>Difficiles</string>
+			<string>ORES</string>
+			<string>DURES</string>
+		</array>
+		<array>
+			<string>Devises nordiques</string>
+			<string>Grossière</string>
+			<string>ORES</string>
+			<string>IMPOLIE</string>
+		</array>
+		<array>
+			<string>Devises nordiques</string>
+			<string>Ramerez</string>
+			<string>ORES</string>
+			<string>SUEREZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Aura</string>
+			<string>Croissance</string>
+			<string>ATMOSPHERE</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Promeneuse urbaine</string>
+			<string>ATMOSPHERE</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Parfums</string>
+			<string>ATMOSPHERE</string>
+			<string>MUSCS</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Ton pédant</string>
+			<string>ATMOSPHERE</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Feuilles à succès</string>
+			<string>ATMOSPHERE</string>
+			<string>LAURIERS</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Rassérène</string>
+			<string>ATMOSPHERE</string>
+			<string>APAISE</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Advint</string>
+			<string>ATMOSPHERE</string>
+			<string>ECHUT</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Abat</string>
+			<string>ATMOSPHERE</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Mettre en onde</string>
+			<string>ATMOSPHERE</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Aura</string>
+			<string>Difficiles</string>
+			<string>ATMOSPHERE</string>
+			<string>DURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Ramerez</string>
+			<string>U</string>
+			<string>SUEREZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Balade guidée</string>
+			<string>Croissance</string>
+			<string>TOUR</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Balade guidée</string>
+			<string>Promeneuse urbaine</string>
+			<string>TOUR</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Balade guidée</string>
+			<string>Parfums</string>
+			<string>TOUR</string>
+			<string>MUSCS</string>
+		</array>
+		<array>
+			<string>Balade guidée</string>
+			<string>Ton pédant</string>
+			<string>TOUR</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Rassérène</string>
+			<string>AUTISTE</string>
+			<string>APAISE</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Advint</string>
+			<string>AUTISTE</string>
+			<string>ECHUT</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Abat</string>
+			<string>AUTISTE</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Mettre en onde</string>
+			<string>AUTISTE</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Difficiles</string>
+			<string>AUTISTE</string>
+			<string>DURES</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Fait du bruit sous la pluie</string>
+			<string>AUTISTE</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Perçoit le monde différemment</string>
+			<string>Ramerez</string>
+			<string>AUTISTE</string>
+			<string>SUEREZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Croissance</string>
+			<string>INSANITES</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Promeneuse urbaine</string>
+			<string>INSANITES</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Parfums</string>
+			<string>INSANITES</string>
+			<string>MUSCS</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Ton pédant</string>
+			<string>INSANITES</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Vaisseau</string>
+			<string>INSANITES</string>
+			<string>NEF</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Rassérène</string>
+			<string>INSANITES</string>
+			<string>APAISE</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Advint</string>
+			<string>INSANITES</string>
+			<string>ECHUT</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Abat</string>
+			<string>INSANITES</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Propos ineptes</string>
+			<string>Mettre en onde</string>
+			<string>INSANITES</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Fait du bruit sous la pluie</string>
+			<string>OR</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Ramerez</string>
+			<string>OR</string>
+			<string>SUEREZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne sont jamais fils uniques</string>
+			<string>Croissance</string>
+			<string>ONCLES</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Ne sont jamais fils uniques</string>
+			<string>Promeneuse urbaine</string>
+			<string>ONCLES</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Ne sont jamais fils uniques</string>
+			<string>Parfums</string>
+			<string>ONCLES</string>
+			<string>MUSCS</string>
+		</array>
+		<array>
+			<string>Ne sont jamais fils uniques</string>
+			<string>Ton pédant</string>
+			<string>ONCLES</string>
+			<string>DOCTORAL</string>
+		</array>
+		<array>
+			<string>Ne sont jamais fils uniques</string>
+			<string>Vaisseau</string>
+			<string>ONCLES</string>
+			<string>NEF</string>
+		</array>
+		<array>
+			<string>Ne sont jamais fils uniques</string>
+			<string>Rassérène</string>
+			<string>ONCLES</string>
+			<string>APAISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fruit</string>
+			<string>Abat</string>
+			<string>NEFLE</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Fruit</string>
+			<string>Mettre en onde</string>
+			<string>NEFLE</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Fruit</string>
+			<string>Mot de poseur</string>
+			<string>NEFLE</string>
+			<string>FI</string>
+		</array>
+		<array>
+			<string>Fruit</string>
+			<string>Fait du bruit sous la pluie</string>
+			<string>NEFLE</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Fruit</string>
+			<string>Ramerez</string>
+			<string>NEFLE</string>
+			<string>SUEREZ</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ont rejoint le reste de la famille</string>
+			<string>Croissance</string>
+			<string>NES</string>
+			<string>AUGMENTATION</string>
+		</array>
+		<array>
+			<string>Ont rejoint le reste de la famille</string>
+			<string>Promeneuse urbaine</string>
+			<string>NES</string>
+			<string>PIETONNE</string>
+		</array>
+		<array>
+			<string>Ont rejoint le reste de la famille</string>
+			<string>Parfums</string>
+			<string>NES</string>
+			<string>MUSCS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Vaisseau</string>
+			<string>FENDRIEZ</string>
+			<string>NEF</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Rassérène</string>
+			<string>FENDRIEZ</string>
+			<string>APAISE</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string></string>
+			<string>FENDRIEZ</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Abat</string>
+			<string>FENDRIEZ</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Mettre en onde</string>
+			<string>FENDRIEZ</string>
+			<string>SONORISER</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Mot de poseur</string>
+			<string>FENDRIEZ</string>
+			<string>FI</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Fait du bruit sous la pluie</string>
+			<string>FENDRIEZ</string>
+			<string>TOLE</string>
+		</array>
+		<array>
+			<string>Scinderiez</string>
+			<string>Ramerez</string>
+			<string>FENDRIEZ</string>
+			<string>SUEREZ</string>
+		</array>
+	</array>
+</array>
+</plist>

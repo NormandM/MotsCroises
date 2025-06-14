@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Nous laisse insensible</string>
+			<string>ADOUCISSEURS</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>S’oubliera pour les autres</string>
+			<string>ADOUCISSEURS</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Procédai par élimination</string>
+			<string>ADOUCISSEURS</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Pas si facile à contrer</string>
+			<string>ADOUCISSEURS</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Désigne</string>
+			<string>ADOUCISSEURS</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string></string>
+			<string>ADOUCISSEURS</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Numérisée</string>
+			<string>ADOUCISSEURS</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Moitié de l’Inde</string>
+			<string>ADOUCISSEURS</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Cœur de mère</string>
+			<string>ADOUCISSEURS</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>La place du scoop</string>
+			<string>ADOUCISSEURS</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Installait ailleurs</string>
+			<string>ADOUCISSEURS</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Rendent l’eau moins dure</string>
+			<string>Faux marbres</string>
+			<string>ADOUCISSEURS</string>
+			<string>STUCS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sans tâche</string>
+			<string>Nous laisse insensible</string>
+			<string>NETTE</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Sans tâche</string>
+			<string>S’oubliera pour les autres</string>
+			<string>NETTE</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Sans tâche</string>
+			<string>Procédai par élimination</string>
+			<string>NETTE</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string>Sans tâche</string>
+			<string>Pas si facile à contrer</string>
+			<string>NETTE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Sans tâche</string>
+			<string>Désigne</string>
+			<string>NETTE</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Calepin</string>
+			<string>Numérisée</string>
+			<string>CARNET</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string>Calepin</string>
+			<string>Moitié de l’Inde</string>
+			<string>CARNET</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string>Calepin</string>
+			<string>Cœur de mère</string>
+			<string>CARNET</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Calepin</string>
+			<string>La place du scoop</string>
+			<string>CARNET</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Calepin</string>
+			<string>Installait ailleurs</string>
+			<string>CARNET</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Calepin</string>
+			<string>Faux marbres</string>
+			<string>CARNET</string>
+			<string>STUCS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prénom</string>
+			<string>Nous laisse insensible</string>
+			<string>EVA</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>S’oubliera pour les autres</string>
+			<string>EVA</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Prénom</string>
+			<string>Procédai par élimination</string>
+			<string>EVA</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il ne règne plus</string>
+			<string>Désigne</string>
+			<string>TSAR</string>
+			<string>CET</string>
+		</array>
+		<array>
+			<string>Il ne règne plus</string>
+			<string>Se fatigua</string>
+			<string>TSAR</string>
+			<string>SUA</string>
+		</array>
+		<array>
+			<string>Il ne règne plus</string>
+			<string>Numérisée</string>
+			<string>TSAR</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string>Il ne règne plus</string>
+			<string>Moitié de l’Inde</string>
+			<string>TSAR</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bienheureux</string>
+			<string>La place du scoop</string>
+			<string>ELU</string>
+			<string>UNE</string>
+		</array>
+		<array>
+			<string>Bienheureux</string>
+			<string>Installait ailleurs</string>
+			<string>ELU</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Bienheureux</string>
+			<string>Faux marbres</string>
+			<string>ELU</string>
+			<string>STUCS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Impératif existentiel</string>
+			<string>Nous laisse insensible</string>
+			<string>SOIS</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Impératif existentiel</string>
+			<string>S’oubliera pour les autres</string>
+			<string>SOIS</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Impératif existentiel</string>
+			<string>Procédai par élimination</string>
+			<string>SOIS</string>
+			<string>OTAI</string>
+		</array>
+		<array>
+			<string>Impératif existentiel</string>
+			<string>Fait tampon</string>
+			<string>SOIS</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne se divise plus</string>
+			<string>Se fatigua</string>
+			<string>UNIT</string>
+			<string>SUA</string>
+		</array>
+		<array>
+			<string>Ne se divise plus</string>
+			<string>Numérisée</string>
+			<string>UNIT</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string>Ne se divise plus</string>
+			<string>Moitié de l’Inde</string>
+			<string>UNIT</string>
+			<string>SARI</string>
+		</array>
+		<array>
+			<string>Ne se divise plus</string>
+			<string>Se fait avant la distribution</string>
+			<string>UNIT</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Agrément de Filibre</string>
+			<string>Installait ailleurs</string>
+			<string>OC</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Agrément de Filibre</string>
+			<string>Faux marbres</string>
+			<string>OC</string>
+			<string>STUCS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Jamais employé avec le roi</string>
+			<string>Nous laisse insensible</string>
+			<string>TU</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Jamais employé avec le roi</string>
+			<string>S’oubliera pour les autres</string>
+			<string>TU</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Effort qui s’entend</string>
+			<string>Fait tampon</string>
+			<string>AHAN</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string>Effort qui s’entend</string>
+			<string>Choc</string>
+			<string>AHAN</string>
+			<string>HEURT</string>
+		</array>
+		<array>
+			<string>Effort qui s’entend</string>
+			<string>Se fatigua</string>
+			<string>AHAN</string>
+			<string>SUA</string>
+		</array>
+		<array>
+			<string>Effort qui s’entend</string>
+			<string>Numérisée</string>
+			<string>AHAN</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tas de cailloux</string>
+			<string>Se fait avant la distribution</string>
+			<string>REGS</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string>Tas de cailloux</string>
+			<string>Bas étage</string>
+			<string>REGS</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Tas de cailloux</string>
+			<string>Installait ailleurs</string>
+			<string>REGS</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Tas de cailloux</string>
+			<string>Faux marbres</string>
+			<string>REGS</string>
+			<string>STUCS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Engin agricole</string>
+			<string>Nous laisse insensible</string>
+			<string>HERSE</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Engin agricole</string>
+			<string>S’oubliera pour les autres</string>
+			<string>HERSE</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Engin agricole</string>
+			<string>Donner… en douce</string>
+			<string>HERSE</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string>Engin agricole</string>
+			<string>Fait tampon</string>
+			<string>HERSE</string>
+			<string>SAS</string>
+		</array>
+		<array>
+			<string>Engin agricole</string>
+			<string>Choc</string>
+			<string>HERSE</string>
+			<string>HEURT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle peut être dorsale</string>
+			<string>Numérisée</string>
+			<string>EPINE</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string>Elle peut être dorsale</string>
+			<string>Délégua</string>
+			<string>EPINE</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string>Elle peut être dorsale</string>
+			<string>Se fait avant la distribution</string>
+			<string>EPINE</string>
+			<string>TRI</string>
+		</array>
+		<array>
+			<string>Elle peut être dorsale</string>
+			<string>Bas étage</string>
+			<string>EPINE</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Elle peut être dorsale</string>
+			<string>Installait ailleurs</string>
+			<string>EPINE</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Période</string>
+			<string>Nous laisse insensible</string>
+			<string>ERE</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>S’oubliera pour les autres</string>
+			<string>ERE</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>Donner… en douce</string>
+			<string>ERE</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Consumer</string>
+			<string>Choc</string>
+			<string>USER</string>
+			<string>HEURT</string>
+		</array>
+		<array>
+			<string>Consumer</string>
+			<string>C’est long</string>
+			<string>USER</string>
+			<string>SIECLE</string>
+		</array>
+		<array>
+			<string>Consumer</string>
+			<string>Numérisée</string>
+			<string>USER</string>
+			<string>SCANNEE</string>
+		</array>
+		<array>
+			<string>Consumer</string>
+			<string>Délégua</string>
+			<string>USER</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bâton pastoral</string>
+			<string>Bas étage</string>
+			<string>TAU</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Bâton pastoral</string>
+			<string>Installait ailleurs</string>
+			<string>TAU</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Bâton pastoral</string>
+			<string>Pénibles</string>
+			<string>TAU</string>
+			<string>USANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Navigateur</string>
+			<string>Nous laisse insensible</string>
+			<string>SAFARI</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Navigateur</string>
+			<string>S’oubliera pour les autres</string>
+			<string>SAFARI</string>
+			<string>DEVOUERA</string>
+		</array>
+		<array>
+			<string>Navigateur</string>
+			<string>Donner… en douce</string>
+			<string>SAFARI</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string>Navigateur</string>
+			<string>Stimula</string>
+			<string>SAFARI</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Navigateur</string>
+			<string>Choc</string>
+			<string>SAFARI</string>
+			<string>HEURT</string>
+		</array>
+		<array>
+			<string>Navigateur</string>
+			<string>C’est long</string>
+			<string>SAFARI</string>
+			<string>SIECLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mets en ligne</string>
+			<string>Délégua</string>
+			<string>ECRIS</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string>Mets en ligne</string>
+			<string>Le dernier est suivi</string>
+			<string>ECRIS</string>
+			<string>CRI</string>
+		</array>
+		<array>
+			<string>Mets en ligne</string>
+			<string>Bas étage</string>
+			<string>ECRIS</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Mets en ligne</string>
+			<string>Installait ailleurs</string>
+			<string>ECRIS</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Mets en ligne</string>
+			<string>Pénibles</string>
+			<string>ECRIS</string>
+			<string>USANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Nous laisse insensible</string>
+			<string>I</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Donner… en douce</string>
+			<string>INTERPRETA</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Stimula</string>
+			<string>INTERPRETA</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Choc</string>
+			<string>INTERPRETA</string>
+			<string>HEURT</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>C’est long</string>
+			<string>INTERPRETA</string>
+			<string>SIECLE</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Lettre grecque</string>
+			<string>INTERPRETA</string>
+			<string>RHO</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Délégua</string>
+			<string>INTERPRETA</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Le dernier est suivi</string>
+			<string>INTERPRETA</string>
+			<string>CRI</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Bas étage</string>
+			<string>INTERPRETA</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Installait ailleurs</string>
+			<string>INTERPRETA</string>
+			<string>RELOGEAIT</string>
+		</array>
+		<array>
+			<string>Donna vie à un texte</string>
+			<string>Pénibles</string>
+			<string>INTERPRETA</string>
+			<string>USANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avili</string>
+			<string>Nous laisse insensible</string>
+			<string>SALI</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Avili</string>
+			<string>On lui a fait un triomphe</string>
+			<string>SALI</string>
+			<string>ARC</string>
+		</array>
+		<array>
+			<string>Avili</string>
+			<string>Donner… en douce</string>
+			<string>SALI</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string>Avili</string>
+			<string>Stimula</string>
+			<string>SALI</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tombes</string>
+			<string>C’est long</string>
+			<string>CHOIS</string>
+			<string>SIECLE</string>
+		</array>
+		<array>
+			<string>Tombes</string>
+			<string>Lettre grecque</string>
+			<string>CHOIS</string>
+			<string>RHO</string>
+		</array>
+		<array>
+			<string>Tombes</string>
+			<string>Délégua</string>
+			<string>CHOIS</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string>Tombes</string>
+			<string>Le dernier est suivi</string>
+			<string>CHOIS</string>
+			<string>CRI</string>
+		</array>
+		<array>
+			<string>Tombes</string>
+			<string>Bas étage</string>
+			<string>CHOIS</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pénibles</string>
+			<string>N</string>
+			<string>USANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Chevrotements</string>
+			<string>Nous laisse insensible</string>
+			<string>TREMOLOS</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>On lui a fait un triomphe</string>
+			<string>TREMOLOS</string>
+			<string>ARC</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>Donner… en douce</string>
+			<string>TREMOLOS</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>Stimula</string>
+			<string>TREMOLOS</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>Hic</string>
+			<string>TREMOLOS</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>C’est long</string>
+			<string>TREMOLOS</string>
+			<string>SIECLE</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>Lettre grecque</string>
+			<string>TREMOLOS</string>
+			<string>RHO</string>
+		</array>
+		<array>
+			<string>Chevrotements</string>
+			<string>Délégua</string>
+			<string>TREMOLOS</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Détiennent</string>
+			<string>Bas étage</string>
+			<string>ONT</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Détiennent</string>
+			<string>Petite protestation</string>
+			<string>ONT</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Détiennent</string>
+			<string>Pénibles</string>
+			<string>ONT</string>
+			<string>USANTS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Opprime</string>
+			<string>Nous laisse insensible</string>
+			<string>ECRASE</string>
+			<string>ANESTHESISTE</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>On lui a fait un triomphe</string>
+			<string>ECRASE</string>
+			<string>ARC</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Donner… en douce</string>
+			<string>ECRASE</string>
+			<string>REFILER</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Stimula</string>
+			<string>ECRASE</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>Hic</string>
+			<string>ECRASE</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Opprime</string>
+			<string>C’est long</string>
+			<string>ECRASE</string>
+			<string>SIECLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Élément de colonne</string>
+			<string>Délégua</string>
+			<string>ATLAS</string>
+			<string>PREPOSA</string>
+		</array>
+		<array>
+			<string>Élément de colonne</string>
+			<string></string>
+			<string>ATLAS</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Élément de colonne</string>
+			<string>Bas étage</string>
+			<string>ATLAS</string>
+			<string>ENTRESOL</string>
+		</array>
+		<array>
+			<string>Élément de colonne</string>
+			<string>Petite protestation</string>
+			<string>ATLAS</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Élément de colonne</string>
+			<string>Pénibles</string>
+			<string>ATLAS</string>
+			<string>USANTS</string>
+		</array>
+	</array>
+</array>
+</plist>

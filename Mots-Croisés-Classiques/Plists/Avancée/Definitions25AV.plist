@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Transformer en nom</string>
+			<string>SACERDOTALES</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Un truc qui cloche</string>
+			<string>SACERDOTALES</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Désigne</string>
+			<string>SACERDOTALES</string>
+			<string>CECI</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string></string>
+			<string>SACERDOTALES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Bramer</string>
+			<string>SACERDOTALES</string>
+			<string>RALLER</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Sur l’ardoise</string>
+			<string>SACERDOTALES</string>
+			<string>DU</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Fit une soustraction</string>
+			<string>SACERDOTALES</string>
+			<string>OTA</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Association d’épargnants</string>
+			<string>SACERDOTALES</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string></string>
+			<string>SACERDOTALES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Brillera</string>
+			<string>SACERDOTALES</string>
+			<string>LUIRA</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Infection de la peau</string>
+			<string>SACERDOTALES</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Propres aux prêtres</string>
+			<string>Remède d’herboriste</string>
+			<string>SACERDOTALES</string>
+			<string>SENE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle porte des manchettes</string>
+			<string>Transformer en nom</string>
+			<string>UNE</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Elle porte des manchettes</string>
+			<string>Un truc qui cloche</string>
+			<string>UNE</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Elle porte des manchettes</string>
+			<string>Désigne</string>
+			<string>UNE</string>
+			<string>CECI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A remplacé les chevaux</string>
+			<string>Bramer</string>
+			<string>AUTO</string>
+			<string>RALLER</string>
+		</array>
+		<array>
+			<string>A remplacé les chevaux</string>
+			<string>Sur l’ardoise</string>
+			<string>AUTO</string>
+			<string>DU</string>
+		</array>
+		<array>
+			<string>A remplacé les chevaux</string>
+			<string>Fit une soustraction</string>
+			<string>AUTO</string>
+			<string>OTA</string>
+		</array>
+		<array>
+			<string>A remplacé les chevaux</string>
+			<string>Association d’épargnants</string>
+			<string>AUTO</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A cessé de ruminer</string>
+			<string>Brillera</string>
+			<string>URE</string>
+			<string>LUIRA</string>
+		</array>
+		<array>
+			<string>A cessé de ruminer</string>
+			<string>Infection de la peau</string>
+			<string>URE</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>A cessé de ruminer</string>
+			<string>Remède d’herboriste</string>
+			<string>URE</string>
+			<string>SENE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Demeure du poisson</string>
+			<string>Transformer en nom</string>
+			<string>BOCAL</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Demeure du poisson</string>
+			<string>Un truc qui cloche</string>
+			<string>BOCAL</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Demeure du poisson</string>
+			<string>Désigne</string>
+			<string>BOCAL</string>
+			<string>CECI</string>
+		</array>
+		<array>
+			<string>Demeure du poisson</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>BOCAL</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Demeure du poisson</string>
+			<string>Bramer</string>
+			<string>BOCAL</string>
+			<string>RALLER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Témoin du passé</string>
+			<string>Fit une soustraction</string>
+			<string>ANCIEN</string>
+			<string>OTA</string>
+		</array>
+		<array>
+			<string>Témoin du passé</string>
+			<string>Association d’épargnants</string>
+			<string>ANCIEN</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string>Témoin du passé</string>
+			<string>Épuiseras</string>
+			<string>ANCIEN</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Témoin du passé</string>
+			<string>Brillera</string>
+			<string>ANCIEN</string>
+			<string>LUIRA</string>
+		</array>
+		<array>
+			<string>Témoin du passé</string>
+			<string>Infection de la peau</string>
+			<string>ANCIEN</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Témoin du passé</string>
+			<string>Remède d’herboriste</string>
+			<string>ANCIEN</string>
+			<string>SENE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Outil de maçon</string>
+			<string>Transformer en nom</string>
+			<string>SMILLE</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Outil de maçon</string>
+			<string>Un truc qui cloche</string>
+			<string>SMILLE</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Outil de maçon</string>
+			<string>Désigne</string>
+			<string>SMILLE</string>
+			<string>CECI</string>
+		</array>
+		<array>
+			<string>Outil de maçon</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>SMILLE</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Outil de maçon</string>
+			<string>Bramer</string>
+			<string>SMILLE</string>
+			<string>RALLER</string>
+		</array>
+		<array>
+			<string>Outil de maçon</string>
+			<string>Construites</string>
+			<string>SMILLE</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sans les membres ni la tête</string>
+			<string>Association d’épargnants</string>
+			<string>TORSE</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string>Sans les membres ni la tête</string>
+			<string>Épuiseras</string>
+			<string>TORSE</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Sans les membres ni la tête</string>
+			<string>Brillera</string>
+			<string>TORSE</string>
+			<string>LUIRA</string>
+		</array>
+		<array>
+			<string>Sans les membres ni la tête</string>
+			<string>Infection de la peau</string>
+			<string>TORSE</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Sans les membres ni la tête</string>
+			<string>Remède d’herboriste</string>
+			<string>TORSE</string>
+			<string>SENE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ton d’un autre genre</string>
+			<string>Transformer en nom</string>
+			<string>TA</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Ton d’un autre genre</string>
+			<string>Un truc qui cloche</string>
+			<string>TA</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>TERMINAI</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Bramer</string>
+			<string>TERMINAI</string>
+			<string>RALLER</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Construites</string>
+			<string>TERMINAI</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Mets en branle</string>
+			<string>TERMINAI</string>
+			<string>MEUS</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Association d’épargnants</string>
+			<string>TERMINAI</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Épuiseras</string>
+			<string>TERMINAI</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Brillera</string>
+			<string>TERMINAI</string>
+			<string>LUIRA</string>
+		</array>
+		<array>
+			<string>Conclus</string>
+			<string>Infection de la peau</string>
+			<string>TERMINAI</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Transformer en nom</string>
+			<string>ALGERIENS</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Un truc qui cloche</string>
+			<string>ALGERIENS</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>S’occupa d’un dossier</string>
+			<string>ALGERIENS</string>
+			<string>GERA</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>ALGERIENS</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Bramer</string>
+			<string>ALGERIENS</string>
+			<string>RALLER</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Construites</string>
+			<string>ALGERIENS</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Mets en branle</string>
+			<string>ALGERIENS</string>
+			<string>MEUS</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Association d’épargnants</string>
+			<string>ALGERIENS</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string>Citoyens d’Oran</string>
+			<string>Épuiseras</string>
+			<string>ALGERIENS</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grecque en cercle</string>
+			<string>Infection de la peau</string>
+			<string>PI</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Grecque en cercle</string>
+			<string>Bigarrées</string>
+			<string>PI</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne pas opiner</string>
+			<string>Transformer en nom</string>
+			<string>NIER</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Ne pas opiner</string>
+			<string>Un truc qui cloche</string>
+			<string>NIER</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Ne pas opiner</string>
+			<string>S’occupa d’un dossier</string>
+			<string>NIER</string>
+			<string>GERA</string>
+		</array>
+		<array>
+			<string>Ne pas opiner</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>NIER</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Construites</string>
+			<string>GUEUSER</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Mets en branle</string>
+			<string>GUEUSER</string>
+			<string>MEUS</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Association d’épargnants</string>
+			<string>GUEUSER</string>
+			<string>TONTINE</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Épuiseras</string>
+			<string>GUEUSER</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Proche du brochet</string>
+			<string>GUEUSER</string>
+			<string>SANDRE</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Infection de la peau</string>
+			<string>GUEUSER</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Mendier</string>
+			<string>Bigarrées</string>
+			<string>GUEUSER</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Altérées</string>
+			<string>Transformer en nom</string>
+			<string>TERNIES</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Altérées</string>
+			<string>Un truc qui cloche</string>
+			<string>TERNIES</string>
+			<string>ANOMALIE</string>
+		</array>
+		<array>
+			<string>Altérées</string>
+			<string>S’occupa d’un dossier</string>
+			<string>TERNIES</string>
+			<string>GERA</string>
+		</array>
+		<array>
+			<string>Altérées</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>TERNIES</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Altérées</string>
+			<string>Suivront leur route</string>
+			<string>TERNIES</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string>Altérées</string>
+			<string>Construites</string>
+			<string>TERNIES</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string>Altérées</string>
+			<string>Mets en branle</string>
+			<string>TERNIES</string>
+			<string>MEUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traversé par le Niger</string>
+			<string>Épuiseras</string>
+			<string>MALI</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Traversé par le Niger</string>
+			<string>Proche du brochet</string>
+			<string>MALI</string>
+			<string>SANDRE</string>
+		</array>
+		<array>
+			<string>Traversé par le Niger</string>
+			<string>Infection de la peau</string>
+			<string>MALI</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Traversé par le Niger</string>
+			<string>Bigarrées</string>
+			<string>MALI</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Transformer en nom</string>
+			<string>I</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pas touffu</string>
+			<string>S’occupa d’un dossier</string>
+			<string>AERE</string>
+			<string>GERA</string>
+		</array>
+		<array>
+			<string>Pas touffu</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>AERE</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Pas touffu</string>
+			<string>Suivront leur route</string>
+			<string>AERE</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string>Pas touffu</string>
+			<string>Construites</string>
+			<string>AERE</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pièces qui ferment</string>
+			<string>Vieux monsieur</string>
+			<string>PENES</string>
+			<string>PAPI</string>
+		</array>
+		<array>
+			<string>Pièces qui ferment</string>
+			<string>Épuiseras</string>
+			<string>PENES</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Pièces qui ferment</string>
+			<string>Proche du brochet</string>
+			<string>PENES</string>
+			<string>SANDRE</string>
+		</array>
+		<array>
+			<string>Pièces qui ferment</string>
+			<string>Infection de la peau</string>
+			<string>PENES</string>
+			<string>ERESIPELE</string>
+		</array>
+		<array>
+			<string>Pièces qui ferment</string>
+			<string>Bigarrées</string>
+			<string>PENES</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Consentement</string>
+			<string>Transformer en nom</string>
+			<string>VA</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Consentement</string>
+			<string>Onagre</string>
+			<string>VA</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>ROSSARD</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Suivront leur route</string>
+			<string>ROSSARD</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Construites</string>
+			<string>ROSSARD</string>
+			<string>ERIGEES</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Il tombe en pincées</string>
+			<string>ROSSARD</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Vieux monsieur</string>
+			<string>ROSSARD</string>
+			<string>PAPI</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Épuiseras</string>
+			<string>ROSSARD</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Aussi méchant que médisant</string>
+			<string>Proche du brochet</string>
+			<string>ROSSARD</string>
+			<string>SANDRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Bigarrées</string>
+			<string>E</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lieu de criée</string>
+			<string>Transformer en nom</string>
+			<string>ENCAN</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Lieu de criée</string>
+			<string>Onagre</string>
+			<string>ENCAN</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Lieu de criée</string>
+			<string>Feuille de route personnelle</string>
+			<string>ENCAN</string>
+			<string>CV</string>
+		</array>
+		<array>
+			<string>Lieu de criée</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>ENCAN</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Lieu de criée</string>
+			<string>Suivront leur route</string>
+			<string>ENCAN</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sans ordre</string>
+			<string>Il tombe en pincées</string>
+			<string>EPARSE</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string>Sans ordre</string>
+			<string>Vieux monsieur</string>
+			<string>EPARSE</string>
+			<string>PAPI</string>
+		</array>
+		<array>
+			<string>Sans ordre</string>
+			<string>Épuiseras</string>
+			<string>EPARSE</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Sans ordre</string>
+			<string>Proche du brochet</string>
+			<string>EPARSE</string>
+			<string>SANDRE</string>
+		</array>
+		<array>
+			<string>Sans ordre</string>
+			<string>Symbole chimique</string>
+			<string>EPARSE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Sans ordre</string>
+			<string>Bigarrées</string>
+			<string>EPARSE</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Transformer en nom</string>
+			<string>REVITALISEES</string>
+			<string>SUBSTANTIVER</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Onagre</string>
+			<string>REVITALISEES</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Feuille de route personnelle</string>
+			<string>REVITALISEES</string>
+			<string>CV</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Passai de l’un à l’autre</string>
+			<string>REVITALISEES</string>
+			<string>ALTERNERAI</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Suivront leur route</string>
+			<string>REVITALISEES</string>
+			<string>IRONT</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string></string>
+			<string>REVITALISEES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Il tombe en pincées</string>
+			<string>REVITALISEES</string>
+			<string>SEL</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Vieux monsieur</string>
+			<string>REVITALISEES</string>
+			<string>PAPI</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Épuiseras</string>
+			<string>REVITALISEES</string>
+			<string>CONSUMERAS</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Proche du brochet</string>
+			<string>REVITALISEES</string>
+			<string>SANDRE</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Symbole chimique</string>
+			<string>REVITALISEES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Le souffle est revenu</string>
+			<string>Bigarrées</string>
+			<string>REVITALISEES</string>
+			<string>IRISEES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Rendue minuscule</string>
+			<string>MICROSECONDE</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Fera découvrir</string>
+			<string>MICROSECONDE</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Protège ou révèle</string>
+			<string>MICROSECONDE</string>
+			<string>CODE</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Ne fait pas de vague</string>
+			<string>MICROSECONDE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Oui</string>
+			<string>MICROSECONDE</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string></string>
+			<string>MICROSECONDE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Ascendant</string>
+			<string>MICROSECONDE</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Logis latino</string>
+			<string>MICROSECONDE</string>
+			<string>CASA</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Un anonyme</string>
+			<string>MICROSECONDE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Déclare faux</string>
+			<string>MICROSECONDE</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Altéra</string>
+			<string>MICROSECONDE</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Très bref instant</string>
+			<string>Amorce</string>
+			<string>MICROSECONDE</string>
+			<string>ESCHE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sans précédent</string>
+			<string>Rendue minuscule</string>
+			<string>INOUI</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Sans précédent</string>
+			<string>Fera découvrir</string>
+			<string>INOUI</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Sans précédent</string>
+			<string>Protège ou révèle</string>
+			<string>INOUI</string>
+			<string>CODE</string>
+		</array>
+		<array>
+			<string>Sans précédent</string>
+			<string>Ne fait pas de vague</string>
+			<string>INOUI</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Sans précédent</string>
+			<string>Oui</string>
+			<string>INOUI</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tics</string>
+			<string>Ascendant</string>
+			<string>MANIES</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string>Tics</string>
+			<string>Logis latino</string>
+			<string>MANIES</string>
+			<string>CASA</string>
+		</array>
+		<array>
+			<string>Tics</string>
+			<string>Un anonyme</string>
+			<string>MANIES</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Tics</string>
+			<string>Déclare faux</string>
+			<string>MANIES</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string>Tics</string>
+			<string>Altéra</string>
+			<string>MANIES</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Tics</string>
+			<string>Amorce</string>
+			<string>MANIES</string>
+			<string>ESCHE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Refuge douillet</string>
+			<string>Rendue minuscule</string>
+			<string>NID</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Refuge douillet</string>
+			<string>Fera découvrir</string>
+			<string>NID</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Refuge douillet</string>
+			<string>Protège ou révèle</string>
+			<string>NID</string>
+			<string>CODE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Temps écoulé</string>
+			<string>Oui</string>
+			<string>LAPS</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string>Temps écoulé</string>
+			<string>Chef turc</string>
+			<string>LAPS</string>
+			<string>AGA</string>
+		</array>
+		<array>
+			<string>Temps écoulé</string>
+			<string>Ascendant</string>
+			<string>LAPS</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string>Temps écoulé</string>
+			<string>Logis latino</string>
+			<string>LAPS</string>
+			<string>CASA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Termine sans finir</string>
+			<string>Déclare faux</string>
+			<string>ETC</string>
+			<string>NIE</string>
+		</array>
+		<array>
+			<string>Termine sans finir</string>
+			<string>Altéra</string>
+			<string>ETC</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Termine sans finir</string>
+			<string>Amorce</string>
+			<string>ETC</string>
+			<string>ESCHE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dans l’ensemble</string>
+			<string>Rendue minuscule</string>
+			<string>ITEM</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Dans l’ensemble</string>
+			<string>Fera découvrir</string>
+			<string>ITEM</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Dans l’ensemble</string>
+			<string>Protège ou révèle</string>
+			<string>ITEM</string>
+			<string>CODE</string>
+		</array>
+		<array>
+			<string>Dans l’ensemble</string>
+			<string>Elle monte et elle descend</string>
+			<string>ITEM</string>
+			<string>MER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Embouchure en mer</string>
+			<string>Chef turc</string>
+			<string>GRAU</string>
+			<string>AGA</string>
+		</array>
+		<array>
+			<string>Embouchure en mer</string>
+			<string>Ascendant</string>
+			<string>GRAU</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string>Embouchure en mer</string>
+			<string>Logis latino</string>
+			<string>GRAU</string>
+			<string>CASA</string>
+		</array>
+		<array>
+			<string>Embouchure en mer</string>
+			<string>Sur le Danube</string>
+			<string>GRAU</string>
+			<string>ULM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Signe de surprise</string>
+			<string>Altéra</string>
+			<string>EH</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Signe de surprise</string>
+			<string>Amorce</string>
+			<string>EH</string>
+			<string>ESCHE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Édenté</string>
+			<string>Rendue minuscule</string>
+			<string>AI</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Édenté</string>
+			<string>Fera découvrir</string>
+			<string>AI</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Colonne d’appoint</string>
+			<string>Elle monte et elle descend</string>
+			<string>ETAI</string>
+			<string>MER</string>
+		</array>
+		<array>
+			<string>Colonne d’appoint</string>
+			<string>Chef de chef</string>
+			<string>ETAI</string>
+			<string>TIARE</string>
+		</array>
+		<array>
+			<string>Colonne d’appoint</string>
+			<string>Chef turc</string>
+			<string>ETAI</string>
+			<string>AGA</string>
+		</array>
+		<array>
+			<string>Colonne d’appoint</string>
+			<string>Ascendant</string>
+			<string>ETAI</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Veille sur le logis</string>
+			<string>Sur le Danube</string>
+			<string>LARE</string>
+			<string>ULM</string>
+		</array>
+		<array>
+			<string>Veille sur le logis</string>
+			<string>Ouvre le repas</string>
+			<string>LARE</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Veille sur le logis</string>
+			<string>Altéra</string>
+			<string>LARE</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Veille sur le logis</string>
+			<string>Amorce</string>
+			<string>LARE</string>
+			<string>ESCHE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Parvenu à terre</string>
+			<string>Rendue minuscule</string>
+			<string>TERRI</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Parvenu à terre</string>
+			<string>Fera découvrir</string>
+			<string>TERRI</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Parvenu à terre</string>
+			<string>Reprendra souffle</string>
+			<string>TERRI</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string>Parvenu à terre</string>
+			<string>Elle monte et elle descend</string>
+			<string>TERRI</string>
+			<string>MER</string>
+		</array>
+		<array>
+			<string>Parvenu à terre</string>
+			<string>Chef de chef</string>
+			<string>TERRI</string>
+			<string>TIARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Symbole numérique archaïque</string>
+			<string>Ascendant</string>
+			<string>SAMPI</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string>Symbole numérique archaïque</string>
+			<string>Désuets</string>
+			<string>SAMPI</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string>Symbole numérique archaïque</string>
+			<string>Sur le Danube</string>
+			<string>SAMPI</string>
+			<string>ULM</string>
+		</array>
+		<array>
+			<string>Symbole numérique archaïque</string>
+			<string>Ouvre le repas</string>
+			<string>SAMPI</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Symbole numérique archaïque</string>
+			<string>Altéra</string>
+			<string>SAMPI</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cornu mais éteint</string>
+			<string>Rendue minuscule</string>
+			<string>URE</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Cornu mais éteint</string>
+			<string>Fera découvrir</string>
+			<string>URE</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Cornu mais éteint</string>
+			<string>Reprendra souffle</string>
+			<string>URE</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Accord total</string>
+			<string>Chef de chef</string>
+			<string>AMEN</string>
+			<string>TIARE</string>
+		</array>
+		<array>
+			<string>Accord total</string>
+			<string>Nid du seigneur</string>
+			<string>AMEN</string>
+			<string>MANOIR</string>
+		</array>
+		<array>
+			<string>Accord total</string>
+			<string>Ascendant</string>
+			<string>AMEN</string>
+			<string>EMPRISE</string>
+		</array>
+		<array>
+			<string>Accord total</string>
+			<string>Désuets</string>
+			<string>AMEN</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Portait l’épée ou la robe</string>
+			<string>Ouvre le repas</string>
+			<string>EON</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Portait l’épée ou la robe</string>
+			<string>Altéra</string>
+			<string>EON</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Portait l’épée ou la robe</string>
+			<string>Tomba sans bruit</string>
+			<string>EON</string>
+			<string>NEIGEA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Charmera</string>
+			<string>Rendue minuscule</string>
+			<string>RAVIRA</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Charmera</string>
+			<string>Fera découvrir</string>
+			<string>RAVIRA</string>
+			<string>INITIERA</string>
+		</array>
+		<array>
+			<string>Charmera</string>
+			<string>Reprendra souffle</string>
+			<string>RAVIRA</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string>Charmera</string>
+			<string>Objectif rêvé</string>
+			<string>RAVIRA</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Charmera</string>
+			<string>Chef de chef</string>
+			<string>RAVIRA</string>
+			<string>TIARE</string>
+		</array>
+		<array>
+			<string>Charmera</string>
+			<string>Nid du seigneur</string>
+			<string>RAVIRA</string>
+			<string>MANOIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vrille végétale</string>
+			<string>Désuets</string>
+			<string>CIRRE</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string>Vrille végétale</string>
+			<string>Font la haie</string>
+			<string>CIRRE</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Vrille végétale</string>
+			<string>Ouvre le repas</string>
+			<string>CIRRE</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Vrille végétale</string>
+			<string>Altéra</string>
+			<string>CIRRE</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Vrille végétale</string>
+			<string>Tomba sans bruit</string>
+			<string>CIRRE</string>
+			<string>NEIGEA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Rendue minuscule</string>
+			<string>I</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Reprendra souffle</string>
+			<string>IDENTIFIAI</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Objectif rêvé</string>
+			<string>IDENTIFIAI</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Chef de chef</string>
+			<string>IDENTIFIAI</string>
+			<string>TIARE</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Nid du seigneur</string>
+			<string>IDENTIFIAI</string>
+			<string>MANOIR</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>N’épargne pas</string>
+			<string>IDENTIFIAI</string>
+			<string>TUE</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Désuets</string>
+			<string>IDENTIFIAI</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Font la haie</string>
+			<string>IDENTIFIAI</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Ouvre le repas</string>
+			<string>IDENTIFIAI</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Altéra</string>
+			<string>IDENTIFIAI</string>
+			<string>DETERIORA</string>
+		</array>
+		<array>
+			<string>Fis sortir de l’anonymat</string>
+			<string>Tomba sans bruit</string>
+			<string>IDENTIFIAI</string>
+			<string>NEIGEA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sang végétal</string>
+			<string>Rendue minuscule</string>
+			<string>SEVE</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Sang végétal</string>
+			<string>Acquit</string>
+			<string>SEVE</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Sang végétal</string>
+			<string>Reprendra souffle</string>
+			<string>SEVE</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string>Sang végétal</string>
+			<string>Objectif rêvé</string>
+			<string>SEVE</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Occident</string>
+			<string>Nid du seigneur</string>
+			<string>OUEST</string>
+			<string>MANOIR</string>
+		</array>
+		<array>
+			<string>Occident</string>
+			<string>N’épargne pas</string>
+			<string>OUEST</string>
+			<string>TUE</string>
+		</array>
+		<array>
+			<string>Occident</string>
+			<string>Désuets</string>
+			<string>OUEST</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string>Occident</string>
+			<string>Font la haie</string>
+			<string>OUEST</string>
+			<string>IFS</string>
+		</array>
+		<array>
+			<string>Occident</string>
+			<string>Ouvre le repas</string>
+			<string>OUEST</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Tomba sans bruit</string>
+			<string>G</string>
+			<string>NEIGEA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>De deux continents</string>
+			<string>Rendue minuscule</string>
+			<string>EURASIEN</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>Acquit</string>
+			<string>EURASIEN</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>Reprendra souffle</string>
+			<string>EURASIEN</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>Objectif rêvé</string>
+			<string>EURASIEN</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>Symbole</string>
+			<string>EURASIEN</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>Nid du seigneur</string>
+			<string>EURASIEN</string>
+			<string>MANOIR</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>N’épargne pas</string>
+			<string>EURASIEN</string>
+			<string>TUE</string>
+		</array>
+		<array>
+			<string>De deux continents</string>
+			<string>Désuets</string>
+			<string>EURASIEN</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Domicile pour Vendredi</string>
+			<string>Ouvre le repas</string>
+			<string>ILE</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Domicile pour Vendredi</string>
+			<string>Mesure</string>
+			<string>ILE</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Domicile pour Vendredi</string>
+			<string>Tomba sans bruit</string>
+			<string>ILE</string>
+			<string>NEIGEA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Exposer</string>
+			<string>Rendue minuscule</string>
+			<string>ETALER</string>
+			<string>MINIATURISEE</string>
+		</array>
+		<array>
+			<string>Exposer</string>
+			<string>Acquit</string>
+			<string>ETALER</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Exposer</string>
+			<string>Reprendra souffle</string>
+			<string>ETALER</string>
+			<string>REVIVRA</string>
+		</array>
+		<array>
+			<string>Exposer</string>
+			<string>Objectif rêvé</string>
+			<string>ETALER</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Exposer</string>
+			<string>Symbole</string>
+			<string>ETALER</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Exposer</string>
+			<string>Nid du seigneur</string>
+			<string>ETALER</string>
+			<string>MANOIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Capitale</string>
+			<string>Désuets</string>
+			<string>SOFIA</string>
+			<string>ANCIENS</string>
+		</array>
+		<array>
+			<string>Capitale</string>
+			<string></string>
+			<string>SOFIA</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Capitale</string>
+			<string>Ouvre le repas</string>
+			<string>SOFIA</string>
+			<string>APERITIF</string>
+		</array>
+		<array>
+			<string>Capitale</string>
+			<string>Mesure</string>
+			<string>SOFIA</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Capitale</string>
+			<string>Tomba sans bruit</string>
+			<string>SOFIA</string>
+			<string>NEIGEA</string>
+		</array>
+	</array>
+</array>
+</plist>

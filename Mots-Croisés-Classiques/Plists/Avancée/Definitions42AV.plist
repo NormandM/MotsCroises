@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Acceptable</string>
+			<string>SEISMOGRAPHE</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Lie sans exclure</string>
+			<string>SEISMOGRAPHE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string></string>
+			<string>SEISMOGRAPHE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Voisins des dorades</string>
+			<string>SEISMOGRAPHE</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Temps court</string>
+			<string>SEISMOGRAPHE</string>
+			<string>MIN</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string></string>
+			<string>SEISMOGRAPHE</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Bonnes fourchettes</string>
+			<string>SEISMOGRAPHE</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Roulette suicidaire</string>
+			<string>SEISMOGRAPHE</string>
+			<string>RUSSE</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Cri admiratif</string>
+			<string>SEISMOGRAPHE</string>
+			<string>AH</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string></string>
+			<string>SEISMOGRAPHE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Outil de jardin</string>
+			<string>SEISMOGRAPHE</string>
+			<string>HOUE</string>
+		</array>
+		<array>
+			<string>Capte les secousses</string>
+			<string>Apôtres du raffinement</string>
+			<string>SEISMOGRAPHE</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Astate</string>
+			<string>Acceptable</string>
+			<string>AT</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Astate</string>
+			<string>Lie sans exclure</string>
+			<string>AT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lambin</string>
+			<string>Voisins des dorades</string>
+			<string>AI</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string>Lambin</string>
+			<string>Temps court</string>
+			<string>AI</string>
+			<string>MIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un mot pour huer</string>
+			<string>Bonnes fourchettes</string>
+			<string>OUH</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Un mot pour huer</string>
+			<string>Roulette suicidaire</string>
+			<string>OUH</string>
+			<string>RUSSE</string>
+		</array>
+		<array>
+			<string>Un mot pour huer</string>
+			<string>Cri admiratif</string>
+			<string>OUH</string>
+			<string>AH</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dur mais vital</string>
+			<string>Outil de jardin</string>
+			<string>OS</string>
+			<string>HOUE</string>
+		</array>
+		<array>
+			<string>Dur mais vital</string>
+			<string>Apôtres du raffinement</string>
+			<string>OS</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Acceptable</string>
+			<string>T</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Décorais</string>
+			<string>Palmipèdes</string>
+			<string>ORNAIS</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string>Décorais</string>
+			<string>Voisins des dorades</string>
+			<string>ORNAIS</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string>Décorais</string>
+			<string>Temps court</string>
+			<string>ORNAIS</string>
+			<string>MIN</string>
+		</array>
+		<array>
+			<string>Décorais</string>
+			<string>Ouille</string>
+			<string>ORNAIS</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>Décorais</string>
+			<string>Bonnes fourchettes</string>
+			<string>ORNAIS</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Décorais</string>
+			<string>Roulette suicidaire</string>
+			<string>ORNAIS</string>
+			<string>RUSSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Hors-jeu</string>
+			<string></string>
+			<string>OUT</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Hors-jeu</string>
+			<string>Outil de jardin</string>
+			<string>OUT</string>
+			<string>HOUE</string>
+		</array>
+		<array>
+			<string>Hors-jeu</string>
+			<string>Apôtres du raffinement</string>
+			<string>OUT</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Oiseau sacré</string>
+			<string>Acceptable</string>
+			<string>IBIS</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Oiseau sacré</string>
+			<string>Sifflées</string>
+			<string>IBIS</string>
+			<string>BUES</string>
+		</array>
+		<array>
+			<string>Oiseau sacré</string>
+			<string>Palmipèdes</string>
+			<string>IBIS</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string>Oiseau sacré</string>
+			<string>Voisins des dorades</string>
+			<string>IBIS</string>
+			<string>SARS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Forme d&apos;ignorance</string>
+			<string>Ouille</string>
+			<string>INSU</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>Forme d&apos;ignorance</string>
+			<string>Bonnes fourchettes</string>
+			<string>INSU</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Forme d&apos;ignorance</string>
+			<string>Roulette suicidaire</string>
+			<string>INSU</string>
+			<string>RUSSE</string>
+		</array>
+		<array>
+			<string>Forme d&apos;ignorance</string>
+			<string>Indigènes d&apos;amérique</string>
+			<string>INSU</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Interpellation</string>
+			<string>Outil de jardin</string>
+			<string>EH</string>
+			<string>HOUE</string>
+		</array>
+		<array>
+			<string>Interpellation</string>
+			<string>Apôtres du raffinement</string>
+			<string>EH</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Perd de l&apos;eau</string>
+			<string>Acceptable</string>
+			<string>SUE</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Perd de l&apos;eau</string>
+			<string>Sifflées</string>
+			<string>SUE</string>
+			<string>BUES</string>
+		</array>
+		<array>
+			<string>Perd de l&apos;eau</string>
+			<string>Palmipèdes</string>
+			<string>SUE</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Feuillets superflus</string>
+			<string>Déodorants</string>
+			<string>DEFETS</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string>Feuillets superflus</string>
+			<string>Ouille</string>
+			<string>DEFETS</string>
+			<string>AIE</string>
+		</array>
+		<array>
+			<string>Feuillets superflus</string>
+			<string>Bonnes fourchettes</string>
+			<string>DEFETS</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Feuillets superflus</string>
+			<string>Roulette suicidaire</string>
+			<string>DEFETS</string>
+			<string>RUSSE</string>
+		</array>
+		<array>
+			<string>Feuillets superflus</string>
+			<string>Indigènes d&apos;amérique</string>
+			<string>DEFETS</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Feuillets superflus</string>
+			<string>Seaborgium</string>
+			<string>DEFETS</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Apôtres du raffinement</string>
+			<string>E</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Moitié de séant</string>
+			<string>Acceptable</string>
+			<string>FESSE</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Moitié de séant</string>
+			<string>Sifflées</string>
+			<string>FESSE</string>
+			<string>BUES</string>
+		</array>
+		<array>
+			<string>Moitié de séant</string>
+			<string>Palmipèdes</string>
+			<string>FESSE</string>
+			<string>OIES</string>
+		</array>
+		<array>
+			<string>Moitié de séant</string>
+			<string>Antimoine</string>
+			<string>FESSE</string>
+			<string>SB</string>
+		</array>
+		<array>
+			<string>Moitié de séant</string>
+			<string>Déodorants</string>
+			<string>FESSE</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Bonnes fourchettes</string>
+			<string>R</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Commune française située dans le département des Pyrénées-Orientales</string>
+			<string>Indigènes d&apos;amérique</string>
+			<string>EGAT</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string>Commune française située dans le département des Pyrénées-Orientales</string>
+			<string>Seaborgium</string>
+			<string>EGAT</string>
+			<string>SG</string>
+		</array>
+		<array>
+			<string>Commune française située dans le département des Pyrénées-Orientales</string>
+			<string>Voies d&apos;eau</string>
+			<string>EGAT</string>
+			<string>ABEES</string>
+		</array>
+		<array>
+			<string>Commune française située dans le département des Pyrénées-Orientales</string>
+			<string>Apôtres du raffinement</string>
+			<string>EGAT</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Atout majeur</string>
+			<string>Acceptable</string>
+			<string>AS</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Atout majeur</string>
+			<string>Sifflées</string>
+			<string>AS</string>
+			<string>BUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Idiots</string>
+			<string>Antimoine</string>
+			<string>BOBETS</string>
+			<string>SB</string>
+		</array>
+		<array>
+			<string>Idiots</string>
+			<string>Déodorants</string>
+			<string>BOBETS</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string>Idiots</string>
+			<string>Qui est faussé</string>
+			<string>BOBETS</string>
+			<string>BIAISE</string>
+		</array>
+		<array>
+			<string>Idiots</string>
+			<string>Bonnes fourchettes</string>
+			<string>BOBETS</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Idiots</string>
+			<string>Bons pour la ligne</string>
+			<string>BOBETS</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string>Idiots</string>
+			<string>Indigènes d&apos;amérique</string>
+			<string>BOBETS</string>
+			<string>UTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cri de la brebis</string>
+			<string>Voies d&apos;eau</string>
+			<string>BE</string>
+			<string>ABEES</string>
+		</array>
+		<array>
+			<string>Cri de la brebis</string>
+			<string>Apôtres du raffinement</string>
+			<string>BE</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Acceptable</string>
+			<string>I</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Lettres sur la croix</string>
+			<string>I</string>
+			<string>INRI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Située précisément</string>
+			<string>Déodorants</string>
+			<string>SISE</string>
+			<string>DEOS</string>
+		</array>
+		<array>
+			<string>Située précisément</string>
+			<string>Qui est faussé</string>
+			<string>SISE</string>
+			<string>BIAISE</string>
+		</array>
+		<array>
+			<string>Située précisément</string>
+			<string>Bonnes fourchettes</string>
+			<string>SISE</string>
+			<string>GOINFRES</string>
+		</array>
+		<array>
+			<string>Située précisément</string>
+			<string>Bons pour la ligne</string>
+			<string>SISE</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ils sont à elle</string>
+			<string>Bisou sonore</string>
+			<string>SES</string>
+			<string>SMACK</string>
+		</array>
+		<array>
+			<string>Ils sont à elle</string>
+			<string>Voies d&apos;eau</string>
+			<string>SES</string>
+			<string>ABEES</string>
+		</array>
+		<array>
+			<string>Ils sont à elle</string>
+			<string>Apôtres du raffinement</string>
+			<string>SES</string>
+			<string>ESTHETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le bon se pert facilement</string>
+			<string>Acceptable</string>
+			<string>SENS</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Le bon se pert facilement</string>
+			<string>Mouvement folatre</string>
+			<string>SENS</string>
+			<string>EBAT</string>
+		</array>
+		<array>
+			<string>Le bon se pert facilement</string>
+			<string>Lettres sur la croix</string>
+			<string>SENS</string>
+			<string>INRI</string>
+		</array>
+		<array>
+			<string>Le bon se pert facilement</string>
+			<string>Capitale de Fidji</string>
+			<string>SENS</string>
+			<string>SUVA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Qui est faussé</string>
+			<string>A</string>
+			<string>BIAISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dispersé</string>
+			<string>Bons pour la ligne</string>
+			<string>SEME</string>
+			<string>TES</string>
+		</array>
+		<array>
+			<string>Dispersé</string>
+			<string>Archer des coeurs</string>
+			<string>SEME</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string>Dispersé</string>
+			<string>Bisou sonore</string>
+			<string>SEME</string>
+			<string>SMACK</string>
+		</array>
+		<array>
+			<string>Dispersé</string>
+			<string>Voies d&apos;eau</string>
+			<string>SEME</string>
+			<string>ABEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string>Acceptable</string>
+			<string>ABRUTIS</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string>Mouvement folatre</string>
+			<string>ABRUTIS</string>
+			<string>EBAT</string>
+		</array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string>Lettres sur la croix</string>
+			<string>ABRUTIS</string>
+			<string>INRI</string>
+		</array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string>Capitale de Fidji</string>
+			<string>ABRUTIS</string>
+			<string>SUVA</string>
+		</array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string>Troisième fois</string>
+			<string>ABRUTIS</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string>Qui est faussé</string>
+			<string>ABRUTIS</string>
+			<string>BIAISE</string>
+		</array>
+		<array>
+			<string>Dépourvus de finesse</string>
+			<string></string>
+			<string>ABRUTIS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Manque de peu</string>
+			<string>Archer des coeurs</string>
+			<string>RASE</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string>Manque de peu</string>
+			<string>Bisou sonore</string>
+			<string>RASE</string>
+			<string>SMACK</string>
+		</array>
+		<array>
+			<string>Manque de peu</string>
+			<string>Voies d&apos;eau</string>
+			<string>RASE</string>
+			<string>ABEES</string>
+		</array>
+		<array>
+			<string>Manque de peu</string>
+			<string>Figure biblique</string>
+			<string>RASE</string>
+			<string>EVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ingénues</string>
+			<string>Acceptable</string>
+			<string>NAIVES</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Ingénues</string>
+			<string>Mouvement folatre</string>
+			<string>NAIVES</string>
+			<string>EBAT</string>
+		</array>
+		<array>
+			<string>Ingénues</string>
+			<string>Lettres sur la croix</string>
+			<string>NAIVES</string>
+			<string>INRI</string>
+		</array>
+		<array>
+			<string>Ingénues</string>
+			<string>Capitale de Fidji</string>
+			<string>NAIVES</string>
+			<string>SUVA</string>
+		</array>
+		<array>
+			<string>Ingénues</string>
+			<string>Troisième fois</string>
+			<string>NAIVES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Ingénues</string>
+			<string>Qui est faussé</string>
+			<string>NAIVES</string>
+			<string>BIAISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jamais seul pour entrer</string>
+			<string></string>
+			<string>TOC</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Jamais seul pour entrer</string>
+			<string>Archer des coeurs</string>
+			<string>TOC</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string>Jamais seul pour entrer</string>
+			<string>Bisou sonore</string>
+			<string>TOC</string>
+			<string>SMACK</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Figure biblique</string>
+			<string>V</string>
+			<string>EVE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tout aux bouts</string>
+			<string>Acceptable</string>
+			<string>TT</string>
+			<string>SATISFAISANT</string>
+		</array>
+		<array>
+			<string>Tout aux bouts</string>
+			<string>Mouvement folatre</string>
+			<string>TT</string>
+			<string>EBAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Noix à amande</string>
+			<string>Capitale de Fidji</string>
+			<string>AREC</string>
+			<string>SUVA</string>
+		</array>
+		<array>
+			<string>Noix à amande</string>
+			<string>Troisième fois</string>
+			<string>AREC</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Noix à amande</string>
+			<string>Qui est faussé</string>
+			<string>AREC</string>
+			<string>BIAISE</string>
+		</array>
+		<array>
+			<string>Noix à amande</string>
+			<string></string>
+			<string>AREC</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Descend</string>
+			<string>Archer des coeurs</string>
+			<string>SKIE</string>
+			<string>EROS</string>
+		</array>
+		<array>
+			<string>Descend</string>
+			<string>Bisou sonore</string>
+			<string>SKIE</string>
+			<string>SMACK</string>
+		</array>
+		<array>
+			<string>Descend</string>
+			<string></string>
+			<string>SKIE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Descend</string>
+			<string>Figure biblique</string>
+			<string>SKIE</string>
+			<string>EVE</string>
+		</array>
+	</array>
+</array>
+</plist>

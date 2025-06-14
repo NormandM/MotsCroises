@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Effets durables</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>PERSISTANCES</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Restai à l’affût</string>
+			<string>PERSISTANCES</string>
+			<string>EPIAI</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Se tord</string>
+			<string>PERSISTANCES</string>
+			<string>RIT</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string></string>
+			<string>PERSISTANCES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Évite la reprise</string>
+			<string>PERSISTANCES</string>
+			<string>IDEM</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Saisi</string>
+			<string>PERSISTANCES</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Affluent du Pô</string>
+			<string>PERSISTANCES</string>
+			<string>TESSIN</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Souvent en feuille</string>
+			<string>PERSISTANCES</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string></string>
+			<string>PERSISTANCES</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Épinglé</string>
+			<string>PERSISTANCES</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Prose sans fiction</string>
+			<string>PERSISTANCES</string>
+			<string>ESSAI</string>
+		</array>
+		<array>
+			<string>Effets durables</string>
+			<string>Assouvissent</string>
+			<string>PERSISTANCES</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pomme</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>API</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Pomme</string>
+			<string>Restai à l’affût</string>
+			<string>API</string>
+			<string>EPIAI</string>
+		</array>
+		<array>
+			<string>Pomme</string>
+			<string>Se tord</string>
+			<string>API</string>
+			<string>RIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À l’aube, avec témoin</string>
+			<string>Évite la reprise</string>
+			<string>DUEL</string>
+			<string>IDEM</string>
+		</array>
+		<array>
+			<string>À l’aube, avec témoin</string>
+			<string>Saisi</string>
+			<string>DUEL</string>
+			<string>SU</string>
+		</array>
+		<array>
+			<string>À l’aube, avec témoin</string>
+			<string>Affluent du Pô</string>
+			<string>DUEL</string>
+			<string>TESSIN</string>
+		</array>
+		<array>
+			<string>À l’aube, avec témoin</string>
+			<string>Souvent en feuille</string>
+			<string>DUEL</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>De New York à L.A.</string>
+			<string>Épinglé</string>
+			<string>USA</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string>De New York à L.A.</string>
+			<string>Prose sans fiction</string>
+			<string>USA</string>
+			<string>ESSAI</string>
+		</array>
+		<array>
+			<string>De New York à L.A.</string>
+			<string>Assouvissent</string>
+			<string>USA</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>NITRE</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Restai à l’affût</string>
+			<string>NITRE</string>
+			<string>EPIAI</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Se tord</string>
+			<string>NITRE</string>
+			<string>RIT</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Petit filet</string>
+			<string>NITRE</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string>Salpêtre</string>
+			<string>Évite la reprise</string>
+			<string>NITRE</string>
+			<string>IDEM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Direction provençale</string>
+			<string>Affluent du Pô</string>
+			<string>SUDEST</string>
+			<string>TESSIN</string>
+		</array>
+		<array>
+			<string>Direction provençale</string>
+			<string>Souvent en feuille</string>
+			<string>SUDEST</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Direction provençale</string>
+			<string>Unité liquide</string>
+			<string>SUDEST</string>
+			<string>DL</string>
+		</array>
+		<array>
+			<string>Direction provençale</string>
+			<string>Épinglé</string>
+			<string>SUDEST</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string>Direction provençale</string>
+			<string>Prose sans fiction</string>
+			<string>SUDEST</string>
+			<string>ESSAI</string>
+		</array>
+		<array>
+			<string>Direction provençale</string>
+			<string>Assouvissent</string>
+			<string>SUDEST</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Entame de tarte</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>TA</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Entame de tarte</string>
+			<string>Restai à l’affût</string>
+			<string>TA</string>
+			<string>EPIAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Libéré d’un studio</string>
+			<string>Petit filet</string>
+			<string>EMIS</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string>Libéré d’un studio</string>
+			<string>Évite la reprise</string>
+			<string>EMIS</string>
+			<string>IDEM</string>
+		</array>
+		<array>
+			<string>Libéré d’un studio</string>
+			<string>Bougerait</string>
+			<string>EMIS</string>
+			<string>IRAIT</string>
+		</array>
+		<array>
+			<string>Libéré d’un studio</string>
+			<string>Affluent du Pô</string>
+			<string>EMIS</string>
+			<string>TESSIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jouai les entremetteurs</string>
+			<string>Unité liquide</string>
+			<string>LIAI</string>
+			<string>DL</string>
+		</array>
+		<array>
+			<string>Jouai les entremetteurs</string>
+			<string>Épinglé</string>
+			<string>LIAI</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string>Jouai les entremetteurs</string>
+			<string>Prose sans fiction</string>
+			<string>LIAI</string>
+			<string>ESSAI</string>
+		</array>
+		<array>
+			<string>Jouai les entremetteurs</string>
+			<string>Assouvissent</string>
+			<string>LIAI</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Consacré à l’huile</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>OINT</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Consacré à l’huile</string>
+			<string>Restai à l’affût</string>
+			<string>OINT</string>
+			<string>EPIAI</string>
+		</array>
+		<array>
+			<string>Consacré à l’huile</string>
+			<string>Contesta</string>
+			<string>OINT</string>
+			<string>NIA</string>
+		</array>
+		<array>
+			<string>Consacré à l’huile</string>
+			<string>Petit filet</string>
+			<string>OINT</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pouffe</string>
+			<string>Bougerait</string>
+			<string>RIE</string>
+			<string>IRAIT</string>
+		</array>
+		<array>
+			<string>Pouffe</string>
+			<string>Affluent du Pô</string>
+			<string>RIE</string>
+			<string>TESSIN</string>
+		</array>
+		<array>
+			<string>Pouffe</string>
+			<string>Interloqués</string>
+			<string>RIE</string>
+			<string>EBAHIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Symbole de pureté</string>
+			<string>Épinglé</string>
+			<string>LIS</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string>Symbole de pureté</string>
+			<string>Prose sans fiction</string>
+			<string>LIS</string>
+			<string>ESSAI</string>
+		</array>
+		<array>
+			<string>Symbole de pureté</string>
+			<string>Assouvissent</string>
+			<string>LIS</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>U</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Contesta</string>
+			<string>ISTANBUL</string>
+			<string>NIA</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Petit filet</string>
+			<string>ISTANBUL</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Faire un choix</string>
+			<string>ISTANBUL</string>
+			<string>TRIER</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Bougerait</string>
+			<string>ISTANBUL</string>
+			<string>IRAIT</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Affluent du Pô</string>
+			<string>ISTANBUL</string>
+			<string>TESSIN</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Interloqués</string>
+			<string>ISTANBUL</string>
+			<string>EBAHIS</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Mariée</string>
+			<string>ISTANBUL</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Perle de Turquie</string>
+			<string>Épinglé</string>
+			<string>ISTANBUL</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Assouvissent</string>
+			<string>F</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Double coup sur le tambour</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>FLA</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Double coup sur le tambour</string>
+			<string>Ce n’est pas la crème</string>
+			<string>FLA</string>
+			<string>LIE</string>
+		</array>
+		<array>
+			<string>Double coup sur le tambour</string>
+			<string>Contesta</string>
+			<string>FLA</string>
+			<string>NIA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>La moitié du mari</string>
+			<string>Faire un choix</string>
+			<string>RI</string>
+			<string>TRIER</string>
+		</array>
+		<array>
+			<string>La moitié du mari</string>
+			<string>Bougerait</string>
+			<string>RI</string>
+			<string>IRAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fit vibrer</string>
+			<string>Interloqués</string>
+			<string>ANIMA</string>
+			<string>EBAHIS</string>
+		</array>
+		<array>
+			<string>Fit vibrer</string>
+			<string>Mariée</string>
+			<string>ANIMA</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Fit vibrer</string>
+			<string>Épinglé</string>
+			<string>ANIMA</string>
+			<string>CUEILLI</string>
+		</array>
+		<array>
+			<string>Fit vibrer</string>
+			<string>Casque</string>
+			<string>ANIMA</string>
+			<string>MORION</string>
+		</array>
+		<array>
+			<string>Fit vibrer</string>
+			<string>Assouvissent</string>
+			<string>ANIMA</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas chinois</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>LI</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Pas chinois</string>
+			<string>Ce n’est pas la crème</string>
+			<string>LI</string>
+			<string>LIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Douceur venue de Chine</string>
+			<string>Mandataire</string>
+			<string>LITCHI</string>
+			<string>LEGAT</string>
+		</array>
+		<array>
+			<string>Douceur venue de Chine</string>
+			<string>Faire un choix</string>
+			<string>LITCHI</string>
+			<string>TRIER</string>
+		</array>
+		<array>
+			<string>Douceur venue de Chine</string>
+			<string>Bougerait</string>
+			<string>LITCHI</string>
+			<string>IRAIT</string>
+		</array>
+		<array>
+			<string>Douceur venue de Chine</string>
+			<string>Engendrer</string>
+			<string>LITCHI</string>
+			<string>CREER</string>
+		</array>
+		<array>
+			<string>Douceur venue de Chine</string>
+			<string>Interloqués</string>
+			<string>LITCHI</string>
+			<string>EBAHIS</string>
+		</array>
+		<array>
+			<string>Douceur venue de Chine</string>
+			<string>Mariée</string>
+			<string>LITCHI</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Solide, mais discret</string>
+			<string>Casque</string>
+			<string>OS</string>
+			<string>MORION</string>
+		</array>
+		<array>
+			<string>Solide, mais discret</string>
+			<string>Assouvissent</string>
+			<string>OS</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Moins épaisse</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>AEREE</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Moins épaisse</string>
+			<string>Ce n’est pas la crème</string>
+			<string>AEREE</string>
+			<string>LIE</string>
+		</array>
+		<array>
+			<string>Moins épaisse</string>
+			<string>C’est un roi</string>
+			<string>AEREE</string>
+			<string>RAJA</string>
+		</array>
+		<array>
+			<string>Moins épaisse</string>
+			<string>Mandataire</string>
+			<string>AEREE</string>
+			<string>LEGAT</string>
+		</array>
+		<array>
+			<string>Moins épaisse</string>
+			<string>Faire un choix</string>
+			<string>AEREE</string>
+			<string>TRIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bons vivants</string>
+			<string>Engendrer</string>
+			<string>RIEURS</string>
+			<string>CREER</string>
+		</array>
+		<array>
+			<string>Bons vivants</string>
+			<string>Interloqués</string>
+			<string>RIEURS</string>
+			<string>EBAHIS</string>
+		</array>
+		<array>
+			<string>Bons vivants</string>
+			<string>Mariée</string>
+			<string>RIEURS</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Bons vivants</string>
+			<string>Membrane pigmentée</string>
+			<string>RIEURS</string>
+			<string>UVEE</string>
+		</array>
+		<array>
+			<string>Bons vivants</string>
+			<string>Casque</string>
+			<string>RIEURS</string>
+			<string>MORION</string>
+		</array>
+		<array>
+			<string>Bons vivants</string>
+			<string>Assouvissent</string>
+			<string>RIEURS</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>R</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ratifiés</string>
+			<string>C’est un roi</string>
+			<string>AGREES</string>
+			<string>RAJA</string>
+		</array>
+		<array>
+			<string>Ratifiés</string>
+			<string>Mandataire</string>
+			<string>AGREES</string>
+			<string>LEGAT</string>
+		</array>
+		<array>
+			<string>Ratifiés</string>
+			<string>Faire un choix</string>
+			<string>AGREES</string>
+			<string>TRIER</string>
+		</array>
+		<array>
+			<string>Ratifiés</string>
+			<string>Période géologique</string>
+			<string>AGREES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Ratifiés</string>
+			<string>Engendrer</string>
+			<string>AGREES</string>
+			<string>CREER</string>
+		</array>
+		<array>
+			<string>Ratifiés</string>
+			<string>Interloqués</string>
+			<string>AGREES</string>
+			<string>EBAHIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Don reçu à la naissance</string>
+			<string>Membrane pigmentée</string>
+			<string>VIE</string>
+			<string>UVEE</string>
+		</array>
+		<array>
+			<string>Don reçu à la naissance</string>
+			<string>Casque</string>
+			<string>VIE</string>
+			<string>MORION</string>
+		</array>
+		<array>
+			<string>Don reçu à la naissance</string>
+			<string>Assouvissent</string>
+			<string>VIE</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant d’autres</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>DEJA</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Avant d’autres</string>
+			<string>Conjonction</string>
+			<string>DEJA</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Avant d’autres</string>
+			<string>C’est un roi</string>
+			<string>DEJA</string>
+			<string>RAJA</string>
+		</array>
+		<array>
+			<string>Avant d’autres</string>
+			<string>Mandataire</string>
+			<string>DEJA</string>
+			<string>LEGAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Coin charentais</string>
+			<string>Période géologique</string>
+			<string>RE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Coin charentais</string>
+			<string>Engendrer</string>
+			<string>RE</string>
+			<string>CREER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Poisson décoratif</string>
+			<string>Pas ceci, pas cela</string>
+			<string>NEON</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string>Poisson décoratif</string>
+			<string>Membrane pigmentée</string>
+			<string>NEON</string>
+			<string>UVEE</string>
+		</array>
+		<array>
+			<string>Poisson décoratif</string>
+			<string>Casque</string>
+			<string>NEON</string>
+			<string>MORION</string>
+		</array>
+		<array>
+			<string>Poisson décoratif</string>
+			<string>Assouvissent</string>
+			<string>NEON</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Qui tiennent à leurs habitudes</string>
+			<string>STATUERAIENT</string>
+			<string>PANTOUFLARDS</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Conjonction</string>
+			<string>STATUERAIENT</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>C’est un roi</string>
+			<string>STATUERAIENT</string>
+			<string>RAJA</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Mandataire</string>
+			<string>STATUERAIENT</string>
+			<string>LEGAT</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string></string>
+			<string>STATUERAIENT</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Période géologique</string>
+			<string>STATUERAIENT</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Engendrer</string>
+			<string>STATUERAIENT</string>
+			<string>CREER</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string></string>
+			<string>STATUERAIENT</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Pas ceci, pas cela</string>
+			<string>STATUERAIENT</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Membrane pigmentée</string>
+			<string>STATUERAIENT</string>
+			<string>UVEE</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Casque</string>
+			<string>STATUERAIENT</string>
+			<string>MORION</string>
+		</array>
+		<array>
+			<string>Trancheraient</string>
+			<string>Assouvissent</string>
+			<string>STATUERAIENT</string>
+			<string>SATISFASSENT</string>
+		</array>
+	</array>
+</array>
+</plist>

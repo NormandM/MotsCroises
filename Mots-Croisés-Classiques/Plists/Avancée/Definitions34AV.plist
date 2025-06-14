@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Liserons</string>
+			<string>Travail de boîtes</string>
+			<string>BELLESDEJOUR</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Petit au salon</string>
+			<string>BELLESDEJOUR</string>
+			<string>ECRAN</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Prénom</string>
+			<string>BELLESDEJOUR</string>
+			<string>LEA</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Note</string>
+			<string>BELLESDEJOUR</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Petite île d’Indonésie</string>
+			<string>BELLESDEJOUR</string>
+			<string>ENDE</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string></string>
+			<string>BELLESDEJOUR</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Fin de la route</string>
+			<string>BELLESDEJOUR</string>
+			<string>DECES</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Déchu</string>
+			<string>BELLESDEJOUR</string>
+			<string>EX</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Émission soudaine</string>
+			<string>BELLESDEJOUR</string>
+			<string>JET</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Poème court et gracieux</string>
+			<string>BELLESDEJOUR</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Elle se vide après la consultation</string>
+			<string>BELLESDEJOUR</string>
+			<string>URNE</string>
+		</array>
+		<array>
+			<string>Liserons</string>
+			<string>Tronques</string>
+			<string>BELLESDEJOUR</string>
+			<string>REDUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fils d’Ouranos</string>
+			<string>Travail de boîtes</string>
+			<string>OCEAN</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Fils d’Ouranos</string>
+			<string>Petit au salon</string>
+			<string>OCEAN</string>
+			<string>ECRAN</string>
+		</array>
+		<array>
+			<string>Fils d’Ouranos</string>
+			<string>Prénom</string>
+			<string>OCEAN</string>
+			<string>LEA</string>
+		</array>
+		<array>
+			<string>Fils d’Ouranos</string>
+			<string>Note</string>
+			<string>OCEAN</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string>Fils d’Ouranos</string>
+			<string>Petite île d’Indonésie</string>
+			<string>OCEAN</string>
+			<string>ENDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Banc en demi-cercle</string>
+			<string>Fin de la route</string>
+			<string>EXEDRE</string>
+			<string>DECES</string>
+		</array>
+		<array>
+			<string>Banc en demi-cercle</string>
+			<string>Déchu</string>
+			<string>EXEDRE</string>
+			<string>EX</string>
+		</array>
+		<array>
+			<string>Banc en demi-cercle</string>
+			<string>Émission soudaine</string>
+			<string>EXEDRE</string>
+			<string>JET</string>
+		</array>
+		<array>
+			<string>Banc en demi-cercle</string>
+			<string>Poème court et gracieux</string>
+			<string>EXEDRE</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Banc en demi-cercle</string>
+			<string>Elle se vide après la consultation</string>
+			<string>EXEDRE</string>
+			<string>URNE</string>
+		</array>
+		<array>
+			<string>Banc en demi-cercle</string>
+			<string>Tronques</string>
+			<string>EXEDRE</string>
+			<string>REDUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ulcéré dans l’Ulster</string>
+			<string>Travail de boîtes</string>
+			<string>IRA</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Ulcéré dans l’Ulster</string>
+			<string>Petit au salon</string>
+			<string>IRA</string>
+			<string>ECRAN</string>
+		</array>
+		<array>
+			<string>Ulcéré dans l’Ulster</string>
+			<string>Prénom</string>
+			<string>IRA</string>
+			<string>LEA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Noble ou rapace</string>
+			<string>Petite île d’Indonésie</string>
+			<string>DUC</string>
+			<string>ENDE</string>
+		</array>
+		<array>
+			<string>Noble ou rapace</string>
+			<string>Éteint</string>
+			<string>DUC</string>
+			<string>URUS</string>
+		</array>
+		<array>
+			<string>Noble ou rapace</string>
+			<string>Fin de la route</string>
+			<string>DUC</string>
+			<string>DECES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exerce une traction</string>
+			<string>Émission soudaine</string>
+			<string>TEND</string>
+			<string>JET</string>
+		</array>
+		<array>
+			<string>Exerce une traction</string>
+			<string>Poème court et gracieux</string>
+			<string>TEND</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Exerce une traction</string>
+			<string>Elle se vide après la consultation</string>
+			<string>TEND</string>
+			<string>URNE</string>
+		</array>
+		<array>
+			<string>Exerce une traction</string>
+			<string>Tronques</string>
+			<string>TEND</string>
+			<string>REDUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>À elle</string>
+			<string>Travail de boîtes</string>
+			<string>SA</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>À elle</string>
+			<string>Petit au salon</string>
+			<string>SA</string>
+			<string>ECRAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Alléger l’atmosphère</string>
+			<string>Estuaire</string>
+			<string>AERER</string>
+			<string>ABER</string>
+		</array>
+		<array>
+			<string>Alléger l’atmosphère</string>
+			<string>Petite île d’Indonésie</string>
+			<string>AERER</string>
+			<string>ENDE</string>
+		</array>
+		<array>
+			<string>Alléger l’atmosphère</string>
+			<string>Éteint</string>
+			<string>AERER</string>
+			<string>URUS</string>
+		</array>
+		<array>
+			<string>Alléger l’atmosphère</string>
+			<string>Fin de la route</string>
+			<string>AERER</string>
+			<string>DECES</string>
+		</array>
+		<array>
+			<string>Alléger l’atmosphère</string>
+			<string>Groupe d’ouvrières</string>
+			<string>AERER</string>
+			<string>RUCHER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bête à fables</string>
+			<string>Poème court et gracieux</string>
+			<string>LEU</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Bête à fables</string>
+			<string>Elle se vide après la consultation</string>
+			<string>LEU</string>
+			<string>URNE</string>
+		</array>
+		<array>
+			<string>Bête à fables</string>
+			<string>Tronques</string>
+			<string>LEU</string>
+			<string>REDUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Affecté</string>
+			<string>Travail de boîtes</string>
+			<string>SNOB</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Affecté</string>
+			<string>Petit au salon</string>
+			<string>SNOB</string>
+			<string>ECRAN</string>
+		</array>
+		<array>
+			<string>Affecté</string>
+			<string>Globe</string>
+			<string>SNOB</string>
+			<string>ORBE</string>
+		</array>
+		<array>
+			<string>Affecté</string>
+			<string>Estuaire</string>
+			<string>SNOB</string>
+			<string>ABER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Intérêt excessif</string>
+			<string>Éteint</string>
+			<string>USURE</string>
+			<string>URUS</string>
+		</array>
+		<array>
+			<string>Intérêt excessif</string>
+			<string>Fin de la route</string>
+			<string>USURE</string>
+			<string>DECES</string>
+		</array>
+		<array>
+			<string>Intérêt excessif</string>
+			<string>Groupe d’ouvrières</string>
+			<string>USURE</string>
+			<string>RUCHER</string>
+		</array>
+		<array>
+			<string>Intérêt excessif</string>
+			<string>Bravo, pour John Wayne</string>
+			<string>USURE</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Intérêt excessif</string>
+			<string>Poème court et gracieux</string>
+			<string>USURE</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Tronques</string>
+			<string>I</string>
+			<string>REDUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Travail de boîtes</string>
+			<string>E</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tissu</string>
+			<string>Globe</string>
+			<string>REPS</string>
+			<string>ORBE</string>
+		</array>
+		<array>
+			<string>Tissu</string>
+			<string>Estuaire</string>
+			<string>REPS</string>
+			<string>ABER</string>
+		</array>
+		<array>
+			<string>Tissu</string>
+			<string>Piller</string>
+			<string>REPS</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string>Tissu</string>
+			<string>Éteint</string>
+			<string>REPS</string>
+			<string>URUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Appelés à la barre</string>
+			<string>Groupe d’ouvrières</string>
+			<string>CITES</string>
+			<string>RUCHER</string>
+		</array>
+		<array>
+			<string>Appelés à la barre</string>
+			<string>Bravo, pour John Wayne</string>
+			<string>CITES</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Appelés à la barre</string>
+			<string>Poème court et gracieux</string>
+			<string>CITES</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Appelés à la barre</string>
+			<string>Fis sensation</string>
+			<string>CITES</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string>Appelés à la barre</string>
+			<string>Tronques</string>
+			<string>CITES</string>
+			<string>REDUIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Chien</string>
+			<string>Travail de boîtes</string>
+			<string>LABRI</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Ni plus ni moins</string>
+			<string>LABRI</string>
+			<string>AUTANT</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Globe</string>
+			<string>LABRI</string>
+			<string>ORBE</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Estuaire</string>
+			<string>LABRI</string>
+			<string>ABER</string>
+		</array>
+		<array>
+			<string>Chien</string>
+			<string>Piller</string>
+			<string>LABRI</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lac salé du désert</string>
+			<string>Ferai sauter</string>
+			<string>CHOTT</string>
+			<string>CUIRAI</string>
+		</array>
+		<array>
+			<string>Lac salé du désert</string>
+			<string>Groupe d’ouvrières</string>
+			<string>CHOTT</string>
+			<string>RUCHER</string>
+		</array>
+		<array>
+			<string>Lac salé du désert</string>
+			<string>Bravo, pour John Wayne</string>
+			<string>CHOTT</string>
+			<string>RIO</string>
+		</array>
+		<array>
+			<string>Lac salé du désert</string>
+			<string>Poème court et gracieux</string>
+			<string>CHOTT</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Lac salé du désert</string>
+			<string>Fis sensation</string>
+			<string>CHOTT</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Parcourue</string>
+			<string>Travail de boîtes</string>
+			<string>LUE</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Parcourue</string>
+			<string>Ni plus ni moins</string>
+			<string>LUE</string>
+			<string>AUTANT</string>
+		</array>
+		<array>
+			<string>Parcourue</string>
+			<string>Globe</string>
+			<string>LUE</string>
+			<string>ORBE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Orgueil du paon</string>
+			<string>Piller</string>
+			<string>ROUE</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string>Orgueil du paon</string>
+			<string>Cavité murale</string>
+			<string>ROUE</string>
+			<string>OPE</string>
+		</array>
+		<array>
+			<string>Orgueil du paon</string>
+			<string>Ferai sauter</string>
+			<string>ROUE</string>
+			<string>CUIRAI</string>
+		</array>
+		<array>
+			<string>Orgueil du paon</string>
+			<string>Groupe d’ouvrières</string>
+			<string>ROUE</string>
+			<string>RUCHER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chevalier ambigu</string>
+			<string>Poème court et gracieux</string>
+			<string>EON</string>
+			<string>ODELETTE</string>
+		</array>
+		<array>
+			<string>Chevalier ambigu</string>
+			<string>Fis sensation</string>
+			<string>EON</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string>Chevalier ambigu</string>
+			<string>Facile à plumer</string>
+			<string>EON</string>
+			<string>NIAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Travail de boîtes</string>
+			<string>ET</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Ni plus ni moins</string>
+			<string>ET</string>
+			<string>AUTANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se terrera</string>
+			<string>Baume</string>
+			<string>TAPIRA</string>
+			<string>TOLU</string>
+		</array>
+		<array>
+			<string>Se terrera</string>
+			<string>Piller</string>
+			<string>TAPIRA</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string>Se terrera</string>
+			<string>Cavité murale</string>
+			<string>TAPIRA</string>
+			<string>OPE</string>
+		</array>
+		<array>
+			<string>Se terrera</string>
+			<string>Ferai sauter</string>
+			<string>TAPIRA</string>
+			<string>CUIRAI</string>
+		</array>
+		<array>
+			<string>Se terrera</string>
+			<string>Groupe d’ouvrières</string>
+			<string>TAPIRA</string>
+			<string>RUCHER</string>
+		</array>
+		<array>
+			<string>Se terrera</string>
+			<string>Démesure</string>
+			<string>TAPIRA</string>
+			<string>ABUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Fis sensation</string>
+			<string>NI</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Facile à plumer</string>
+			<string>NI</string>
+			<string>NIAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Travail de boîtes</string>
+			<string>RADOTER</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Ni plus ni moins</string>
+			<string>RADOTER</string>
+			<string>AUTANT</string>
+		</array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Il forme une paire</string>
+			<string>RADOTER</string>
+			<string>DUO</string>
+		</array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Baume</string>
+			<string>RADOTER</string>
+			<string>TOLU</string>
+		</array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Piller</string>
+			<string>RADOTER</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Cavité murale</string>
+			<string>RADOTER</string>
+			<string>OPE</string>
+		</array>
+		<array>
+			<string>Parler pour ne rien dire</string>
+			<string>Ferai sauter</string>
+			<string>RADOTER</string>
+			<string>CUIRAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Caoutchouc</string>
+			<string>Démesure</string>
+			<string>BUNA</string>
+			<string>ABUS</string>
+		</array>
+		<array>
+			<string>Caoutchouc</string>
+			<string>Altéra</string>
+			<string>BUNA</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Caoutchouc</string>
+			<string>Fis sensation</string>
+			<string>BUNA</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string>Caoutchouc</string>
+			<string>Facile à plumer</string>
+			<string>BUNA</string>
+			<string>NIAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fleur jaune</string>
+			<string>Travail de boîtes</string>
+			<string>INULE</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Fleur jaune</string>
+			<string>Ni plus ni moins</string>
+			<string>INULE</string>
+			<string>AUTANT</string>
+		</array>
+		<array>
+			<string>Fleur jaune</string>
+			<string>Il forme une paire</string>
+			<string>INULE</string>
+			<string>DUO</string>
+		</array>
+		<array>
+			<string>Fleur jaune</string>
+			<string>Baume</string>
+			<string>INULE</string>
+			<string>TOLU</string>
+		</array>
+		<array>
+			<string>Fleur jaune</string>
+			<string>Piller</string>
+			<string>INULE</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Changeai les idées</string>
+			<string>Ferai sauter</string>
+			<string>AMUSAI</string>
+			<string>CUIRAI</string>
+		</array>
+		<array>
+			<string>Changeai les idées</string>
+			<string>Unité de mesure du temps</string>
+			<string>AMUSAI</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Changeai les idées</string>
+			<string>Démesure</string>
+			<string>AMUSAI</string>
+			<string>ABUS</string>
+		</array>
+		<array>
+			<string>Changeai les idées</string>
+			<string>Altéra</string>
+			<string>AMUSAI</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Changeai les idées</string>
+			<string>Fis sensation</string>
+			<string>AMUSAI</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string>Changeai les idées</string>
+			<string>Facile à plumer</string>
+			<string>AMUSAI</string>
+			<string>NIAIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Travail de boîtes</string>
+			<string>ETOURDISSAIS</string>
+			<string>BOISSELLERIE</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Ni plus ni moins</string>
+			<string>ETOURDISSAIS</string>
+			<string>AUTANT</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Il forme une paire</string>
+			<string>ETOURDISSAIS</string>
+			<string>DUO</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Baume</string>
+			<string>ETOURDISSAIS</string>
+			<string>TOLU</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Piller</string>
+			<string>ETOURDISSAIS</string>
+			<string>PIRATER</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string></string>
+			<string>ETOURDISSAIS</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Ferai sauter</string>
+			<string>ETOURDISSAIS</string>
+			<string>CUIRAI</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Unité de mesure du temps</string>
+			<string>ETOURDISSAIS</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Démesure</string>
+			<string>ETOURDISSAIS</string>
+			<string>ABUS</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Altéra</string>
+			<string>ETOURDISSAIS</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Fis sensation</string>
+			<string>ETOURDISSAIS</string>
+			<string>ETONNAI</string>
+		</array>
+		<array>
+			<string>Rendais confus</string>
+			<string>Facile à plumer</string>
+			<string>ETOURDISSAIS</string>
+			<string>NIAIS</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Barres de mercure</string>
+			<string>TRANSHUMANCE</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Cours d'eau modeste</string>
+			<string>TRANSHUMANCE</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Mortes dans un roman</string>
+			<string>TRANSHUMANCE</string>
+			<string>AMES</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Morceau de canard</string>
+			<string>TRANSHUMANCE</string>
+			<string>NAR</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Etain</string>
+			<string>TRANSHUMANCE</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Difficultés</string>
+			<string>TRANSHUMANCE</string>
+			<string>HICS</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Les eaux le sont parfois</string>
+			<string>TRANSHUMANCE</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Mépris</string>
+			<string>TRANSHUMANCE</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Plastiques pour le peintre</string>
+			<string>TRANSHUMANCE</string>
+			<string>ARTS</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string></string>
+			<string>TRANSHUMANCE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Forme d'abandon</string>
+			<string>TRANSHUMANCE</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string>Voyage pastoral</string>
+			<string>Jamais le dernier mot</string>
+			<string>TRANSHUMANCE</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Adoucir</string>
+			<string>Barres de mercure</string>
+			<string>HUMANISER</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Cours d'eau modeste</string>
+			<string>HUMANISER</string>
+			<string>RU</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Mortes dans un roman</string>
+			<string>HUMANISER</string>
+			<string>AMES</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Morceau de canard</string>
+			<string>HUMANISER</string>
+			<string>NAR</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Etain</string>
+			<string>HUMANISER</string>
+			<string>SN</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Difficultés</string>
+			<string>HUMANISER</string>
+			<string>HICS</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Les eaux le sont parfois</string>
+			<string>HUMANISER</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Mépris</string>
+			<string>HUMANISER</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Adoucir</string>
+			<string>Plastiques pour le peintre</string>
+			<string>HUMANISER</string>
+			<string>ARTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Forme d'abandon</string>
+			<string>ET</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string>Jamais le dernier mot</string>
+			<string>Jamais le dernier mot</string>
+			<string>ET</string>
+			<string>ET</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Barres de mercure</string>
+			<string>E</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Mortes dans un roman</string>
+			<string>ER</string>
+			<string>AMES</string>
+		</array>
+		<array>
+			<string>Infinitif</string>
+			<string>Morceau de canard</string>
+			<string>ER</string>
+			<string>NAR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Poings armés de cuir</string>
+			<string>Difficultés</string>
+			<string>CESTES</string>
+			<string>HICS</string>
+		</array>
+		<array>
+			<string>Poings armés de cuir</string>
+			<string>Les eaux le sont parfois</string>
+			<string>CESTES</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Poings armés de cuir</string>
+			<string>Mépris</string>
+			<string>CESTES</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Poings armés de cuir</string>
+			<string>Plastiques pour le peintre</string>
+			<string>CESTES</string>
+			<string>ARTS</string>
+		</array>
+		<array>
+			<string>Poings armés de cuir</string>
+			<string></string>
+			<string>CESTES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Poings armés de cuir</string>
+			<string>Forme d'abandon</string>
+			<string>CESTES</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tout au bord</string>
+			<string>Barres de mercure</string>
+			<string>RAS</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Tout au bord</string>
+			<string>Rendus plus légers</string>
+			<string>RAS</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string>Tout au bord</string>
+			<string>Mortes dans un roman</string>
+			<string>RAS</string>
+			<string>AMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Assez lestes</string>
+			<string>Interjection marine</string>
+			<string>OSEES</string>
+			<string>OHE</string>
+		</array>
+		<array>
+			<string>Assez lestes</string>
+			<string>Difficultés</string>
+			<string>OSEES</string>
+			<string>HICS</string>
+		</array>
+		<array>
+			<string>Assez lestes</string>
+			<string>Les eaux le sont parfois</string>
+			<string>OSEES</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Assez lestes</string>
+			<string>Mépris</string>
+			<string>OSEES</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Assez lestes</string>
+			<string>Plastiques pour le peintre</string>
+			<string>OSEES</string>
+			<string>ARTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronominal</string>
+			<string>Forme d'abandon</string>
+			<string>SE</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string>Pronominal</string>
+			<string>Place de la botte</string>
+			<string>SE</string>
+			<string>ETRIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Désigne celui qui parle</string>
+			<string>Barres de mercure</string>
+			<string>ME</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Désigne celui qui parle</string>
+			<string>Rendus plus légers</string>
+			<string>ME</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Soulagement</string>
+			<string>OH</string>
+			<string>OUF</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Interjection marine</string>
+			<string>OH</string>
+			<string>OHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Initiales de sinistre mémoire</string>
+			<string>Les eaux le sont parfois</string>
+			<string>SS</string>
+			<string>USEES</string>
+		</array>
+		<array>
+			<string>Initiales de sinistre mémoire</string>
+			<string>Mépris</string>
+			<string>SS</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Annonce</string>
+			<string></string>
+			<string>DIT</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Annonce</string>
+			<string>Forme d'abandon</string>
+			<string>DIT</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string>Annonce</string>
+			<string>Place de la botte</string>
+			<string>DIT</string>
+			<string>ETRIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prédateurs marins</string>
+			<string>Barres de mercure</string>
+			<string>ORQUES</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Prédateurs marins</string>
+			<string>Rendus plus légers</string>
+			<string>ORQUES</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string>Prédateurs marins</string>
+			<string>Rêves poursuivis</string>
+			<string>ORQUES</string>
+			<string>QUETES</string>
+		</array>
+		<array>
+			<string>Prédateurs marins</string>
+			<string>Soulagement</string>
+			<string>ORQUES</string>
+			<string>OUF</string>
+		</array>
+		<array>
+			<string>Prédateurs marins</string>
+			<string>Interjection marine</string>
+			<string>ORQUES</string>
+			<string>OHE</string>
+		</array>
+		<array>
+			<string>Prédateurs marins</string>
+			<string>Cliqués à bout de bras</string>
+			<string>ORQUES</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donne droit</string>
+			<string>Mépris</string>
+			<string>TE</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Donne droit</string>
+			<string>Les jours les plus longs</string>
+			<string>TE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Forme d'abandon</string>
+			<string>OR</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Place de la botte</string>
+			<string>OR</string>
+			<string>ETRIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Femme</string>
+			<string>Barres de mercure</string>
+			<string>MEUF</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Femme</string>
+			<string>Rendus plus légers</string>
+			<string>MEUF</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string>Femme</string>
+			<string>Rêves poursuivis</string>
+			<string>MEUF</string>
+			<string>QUETES</string>
+		</array>
+		<array>
+			<string>Femme</string>
+			<string>Soulagement</string>
+			<string>MEUF</string>
+			<string>OUF</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Règlement</string>
+			<string>Cliqués à bout de bras</string>
+			<string>EDIT</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string>Règlement</string>
+			<string>Insiste sur l'accord</string>
+			<string>EDIT</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string>Règlement</string>
+			<string>Mépris</string>
+			<string>EDIT</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Règlement</string>
+			<string>Les jours les plus longs</string>
+			<string>EDIT</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Forme d'abandon</string>
+			<string>NI</string>
+			<string>CESSION</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Place de la botte</string>
+			<string>NI</string>
+			<string>ETRIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Direction diagonale</string>
+			<string>Barres de mercure</string>
+			<string>ESE</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Direction diagonale</string>
+			<string>Rendus plus légers</string>
+			<string>ESE</string>
+			<string>AERES</string>
+		</array>
+		<array>
+			<string>Direction diagonale</string>
+			<string>Rêves poursuivis</string>
+			<string>ESE</string>
+			<string>QUETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dire tout haut</string>
+			<string>Chrome</string>
+			<string>CLAMER</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string>Dire tout haut</string>
+			<string>Cliqués à bout de bras</string>
+			<string>CLAMER</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string>Dire tout haut</string>
+			<string>Insiste sur l'accord</string>
+			<string>CLAMER</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string>Dire tout haut</string>
+			<string>Mépris</string>
+			<string>CLAMER</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string>Dire tout haut</string>
+			<string>Les jours les plus longs</string>
+			<string>CLAMER</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Dire tout haut</string>
+			<string>Peut causer de l'écume</string>
+			<string>CLAMER</string>
+			<string>RAGES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Place de la botte</string>
+			<string>E</string>
+			<string>ETRIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Barres de mercure</string>
+			<string>T</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Terrain</string>
+			<string>Rêves poursuivis</string>
+			<string>TURF</string>
+			<string>QUETES</string>
+		</array>
+		<array>
+			<string>Terrain</string>
+			<string>Privilège</string>
+			<string>TURF</string>
+			<string>USUS</string>
+		</array>
+		<array>
+			<string>Terrain</string>
+			<string>Chrome</string>
+			<string>TURF</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string>Terrain</string>
+			<string>Cliqués à bout de bras</string>
+			<string>TURF</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Mépris</string>
+			<string>E</string>
+			<string>MESESTIME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traverse Berne</string>
+			<string>Peut causer de l'écume</string>
+			<string>AAR</string>
+			<string>RAGES</string>
+		</array>
+		<array>
+			<string>Traverse Berne</string>
+			<string>Refuge de montagne</string>
+			<string>AAR</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string>Traverse Berne</string>
+			<string>Place de la botte</string>
+			<string>AAR</string>
+			<string>ETRIER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Se vident chaque soir</string>
+			<string>Barres de mercure</string>
+			<string>RUES</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Se vident chaque soir</string>
+			<string>Consume</string>
+			<string>RUES</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string>Se vident chaque soir</string>
+			<string>Rêves poursuivis</string>
+			<string>RUES</string>
+			<string>QUETES</string>
+		</array>
+		<array>
+			<string>Se vident chaque soir</string>
+			<string>Privilège</string>
+			<string>RUES</string>
+			<string>USUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Conifère toxique</string>
+			<string>Cliqués à bout de bras</string>
+			<string>IF</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string>Conifère toxique</string>
+			<string>Métal</string>
+			<string>IF</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fait effet</string>
+			<string></string>
+			<string>AGI</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Fait effet</string>
+			<string>Peut causer de l'écume</string>
+			<string>AGI</string>
+			<string>RAGES</string>
+		</array>
+		<array>
+			<string>Fait effet</string>
+			<string>Refuge de montagne</string>
+			<string>AGI</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Subies</string>
+			<string>Barres de mercure</string>
+			<string>ESSUYEES</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Consume</string>
+			<string>ESSUYEES</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Rêves poursuivis</string>
+			<string>ESSUYEES</string>
+			<string>QUETES</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Privilège</string>
+			<string>ESSUYEES</string>
+			<string>USUS</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Empereur chinois</string>
+			<string>ESSUYEES</string>
+			<string>YU</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Cliqués à bout de bras</string>
+			<string>ESSUYEES</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Métal</string>
+			<string>ESSUYEES</string>
+			<string>FE</string>
+		</array>
+		<array>
+			<string>Subies</string>
+			<string>Hypothèse réduite</string>
+			<string>ESSUYEES</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ça fait un bail</string>
+			<string>Peut causer de l'écume</string>
+			<string>ERE</string>
+			<string>RAGES</string>
+		</array>
+		<array>
+			<string>Ça fait un bail</string>
+			<string>Refuge de montagne</string>
+			<string>ERE</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string>Ça fait un bail</string>
+			<string>Indicateur du milieu</string>
+			<string>ERE</string>
+			<string>EN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pronominal</string>
+			<string>Barres de mercure</string>
+			<string>SE</string>
+			<string>THERMOMETRES</string>
+		</array>
+		<array>
+			<string>Pronominal</string>
+			<string>Consume</string>
+			<string>SE</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Appris</string>
+			<string>Privilège</string>
+			<string>SUS</string>
+			<string>USUS</string>
+		</array>
+		<array>
+			<string>Appris</string>
+			<string>Empereur chinois</string>
+			<string>SUS</string>
+			<string>YU</string>
+		</array>
+		<array>
+			<string>Appris</string>
+			<string>Cliqués à bout de bras</string>
+			<string>SUS</string>
+			<string>SELFIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dramaturge</string>
+			<string>Hypothèse réduite</string>
+			<string>IBSEN</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Dramaturge</string>
+			<string></string>
+			<string>IBSEN</string>
+			<string>B</string>
+		</array>
+		<array>
+			<string>Dramaturge</string>
+			<string>Peut causer de l'écume</string>
+			<string>IBSEN</string>
+			<string>RAGES</string>
+		</array>
+		<array>
+			<string>Dramaturge</string>
+			<string>Refuge de montagne</string>
+			<string>IBSEN</string>
+			<string>AIRE</string>
+		</array>
+		<array>
+			<string>Dramaturge</string>
+			<string>Indicateur du milieu</string>
+			<string>IBSEN</string>
+			<string>EN</string>
+		</array>
+	</array>
+</array>
+</plist>

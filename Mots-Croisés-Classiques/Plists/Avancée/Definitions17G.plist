@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Dépeindre</string>
+			<string>CHAMPAGNISER</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Masses</string>
+			<string>CHAMPAGNISER</string>
+			<string>HIES</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Voûte</string>
+			<string>CHAMPAGNISER</string>
+			<string>ARC</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string></string>
+			<string>CHAMPAGNISER</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Rangée de pieux</string>
+			<string>CHAMPAGNISER</string>
+			<string>PALEE</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Actium</string>
+			<string>CHAMPAGNISER</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Jette un froid</string>
+			<string>CHAMPAGNISER</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string></string>
+			<string>CHAMPAGNISER</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Reptile herbivore</string>
+			<string>CHAMPAGNISER</string>
+			<string>IGUANE</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Pour les potiers</string>
+			<string>CHAMPAGNISER</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Abat</string>
+			<string>CHAMPAGNISER</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Rendre effervescent</string>
+			<string>Garde pour soi</string>
+			<string>CHAMPAGNISER</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Invisible, mais vital</string>
+			<string>Dépeindre</string>
+			<string>AIR</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Invisible, mais vital</string>
+			<string>Masses</string>
+			<string>AIR</string>
+			<string>HIES</string>
+		</array>
+		<array>
+			<string>Invisible, mais vital</string>
+			<string>Voûte</string>
+			<string>AIR</string>
+			<string>ARC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Reçu sans retour</string>
+			<string>Rangée de pieux</string>
+			<string>ACE</string>
+			<string>PALEE</string>
+		</array>
+		<array>
+			<string>Reçu sans retour</string>
+			<string>Actium</string>
+			<string>ACE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Reçu sans retour</string>
+			<string>Jette un froid</string>
+			<string>ACE</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Reptile herbivore</string>
+			<string>GITE</string>
+			<string>IGUANE</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Pour les potiers</string>
+			<string>GITE</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Abat</string>
+			<string>GITE</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Refuge</string>
+			<string>Garde pour soi</string>
+			<string>GITE</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Retraite</string>
+			<string>Dépeindre</string>
+			<string>RECUL</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Retraite</string>
+			<string>Masses</string>
+			<string>RECUL</string>
+			<string>HIES</string>
+		</array>
+		<array>
+			<string>Retraite</string>
+			<string>Voûte</string>
+			<string>RECUL</string>
+			<string>ARC</string>
+		</array>
+		<array>
+			<string>Retraite</string>
+			<string>A donc la priorité</string>
+			<string>RECUL</string>
+			<string>URGE</string>
+		</array>
+		<array>
+			<string>Retraite</string>
+			<string>Rangée de pieux</string>
+			<string>RECUL</string>
+			<string>PALEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Raccord de charpente</string>
+			<string>Jette un froid</string>
+			<string>NOULET</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string>Raccord de charpente</string>
+			<string>Donner une forme allongée</string>
+			<string>NOULET</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Raccord de charpente</string>
+			<string>Reptile herbivore</string>
+			<string>NOULET</string>
+			<string>IGUANE</string>
+		</array>
+		<array>
+			<string>Raccord de charpente</string>
+			<string>Pour les potiers</string>
+			<string>NOULET</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Raccord de charpente</string>
+			<string>Abat</string>
+			<string>NOULET</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Raccord de charpente</string>
+			<string>Garde pour soi</string>
+			<string>NOULET</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Crack</string>
+			<string>Dépeindre</string>
+			<string>AS</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Crack</string>
+			<string>Masses</string>
+			<string>AS</string>
+			<string>HIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Épiça</string>
+			<string>A donc la priorité</string>
+			<string>RELEVA</string>
+			<string>URGE</string>
+		</array>
+		<array>
+			<string>Épiça</string>
+			<string>Rangée de pieux</string>
+			<string>RELEVA</string>
+			<string>PALEE</string>
+		</array>
+		<array>
+			<string>Épiça</string>
+			<string>Justifiés</string>
+			<string>RELEVA</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Épiça</string>
+			<string>Jette un froid</string>
+			<string>RELEVA</string>
+			<string>GENE</string>
+		</array>
+		<array>
+			<string>Épiça</string>
+			<string>Donner une forme allongée</string>
+			<string>RELEVA</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Épiça</string>
+			<string>Reptile herbivore</string>
+			<string>RELEVA</string>
+			<string>IGUANE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Symbole</string>
+			<string>Abat</string>
+			<string>NI</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Symbole</string>
+			<string>Garde pour soi</string>
+			<string>NI</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Dépeindre</string>
+			<string>C</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A vécu beaucoup de révolutions</string>
+			<string>Figure de crèche</string>
+			<string>AGEE</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>A vécu beaucoup de révolutions</string>
+			<string>A donc la priorité</string>
+			<string>AGEE</string>
+			<string>URGE</string>
+		</array>
+		<array>
+			<string>A vécu beaucoup de révolutions</string>
+			<string>Rangée de pieux</string>
+			<string>AGEE</string>
+			<string>PALEE</string>
+		</array>
+		<array>
+			<string>A vécu beaucoup de révolutions</string>
+			<string>Justifiés</string>
+			<string>AGEE</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sert en électrolyse</string>
+			<string>Donner une forme allongée</string>
+			<string>ANODE</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Sert en électrolyse</string>
+			<string>Reptile herbivore</string>
+			<string>ANODE</string>
+			<string>IGUANE</string>
+		</array>
+		<array>
+			<string>Sert en électrolyse</string>
+			<string>Enjoliverait</string>
+			<string>ANODE</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Sert en électrolyse</string>
+			<string>Abat</string>
+			<string>ANODE</string>
+			<string>ETEND</string>
+		</array>
+		<array>
+			<string>Sert en électrolyse</string>
+			<string>Garde pour soi</string>
+			<string>ANODE</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Argent</string>
+			<string>Dépeindre</string>
+			<string>TUNE</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>Sel métallique</string>
+			<string>TUNE</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>Figure de crèche</string>
+			<string>TUNE</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Argent</string>
+			<string>A donc la priorité</string>
+			<string>TUNE</string>
+			<string>URGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se figer</string>
+			<string>Justifiés</string>
+			<string>GELER</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Se figer</string>
+			<string>Il est dur à plaquer</string>
+			<string>GELER</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Se figer</string>
+			<string>Donner une forme allongée</string>
+			<string>GELER</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Se figer</string>
+			<string>Reptile herbivore</string>
+			<string>GELER</string>
+			<string>IGUANE</string>
+		</array>
+		<array>
+			<string>Se figer</string>
+			<string>Enjoliverait</string>
+			<string>GELER</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Garde pour soi</string>
+			<string>N</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Période</string>
+			<string>Dépeindre</string>
+			<string>ERE</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>Sel métallique</string>
+			<string>ERE</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string>Période</string>
+			<string>Figure de crèche</string>
+			<string>ERE</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Demande pressante</string>
+			<string>Coup de feu</string>
+			<string>PIPI</string>
+			<string>PAN</string>
+		</array>
+		<array>
+			<string>Demande pressante</string>
+			<string>Justifiés</string>
+			<string>PIPI</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Demande pressante</string>
+			<string>Il est dur à plaquer</string>
+			<string>PIPI</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Demande pressante</string>
+			<string>Donner une forme allongée</string>
+			<string>PIPI</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tranché</string>
+			<string>Enjoliverait</string>
+			<string>NET</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Tranché</string>
+			<string>Crochet</string>
+			<string>NET</string>
+			<string>ERIGNE</string>
+		</array>
+		<array>
+			<string>Tranché</string>
+			<string>Garde pour soi</string>
+			<string>NET</string>
+			<string>RETIENT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Divinité</string>
+			<string>Dépeindre</string>
+			<string>RA</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Divinité</string>
+			<string>Sel métallique</string>
+			<string>RA</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Doucement</string>
+			<string>PATISSER</string>
+			<string>PIANO</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Coup de feu</string>
+			<string>PATISSER</string>
+			<string>PAN</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Justifiés</string>
+			<string>PATISSER</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Il est dur à plaquer</string>
+			<string>PATISSER</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Donner une forme allongée</string>
+			<string>PATISSER</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Prêt à être greffé</string>
+			<string>PATISSER</string>
+			<string>SCION</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Enjoliverait</string>
+			<string>PATISSER</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Cuire des douceurs</string>
+			<string>Crochet</string>
+			<string>PATISSER</string>
+			<string>ERIGNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sans borne</string>
+			<string>Dépeindre</string>
+			<string>INFINI</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Sans borne</string>
+			<string>Sel métallique</string>
+			<string>INFINI</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string>Sans borne</string>
+			<string>Bide</string>
+			<string>INFINI</string>
+			<string>FLOP</string>
+		</array>
+		<array>
+			<string>Sans borne</string>
+			<string>Doucement</string>
+			<string>INFINI</string>
+			<string>PIANO</string>
+		</array>
+		<array>
+			<string>Sans borne</string>
+			<string>Coup de feu</string>
+			<string>INFINI</string>
+			<string>PAN</string>
+		</array>
+		<array>
+			<string>Sans borne</string>
+			<string>Justifiés</string>
+			<string>INFINI</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Boîte</string>
+			<string>Donner une forme allongée</string>
+			<string>ECRIN</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Boîte</string>
+			<string>Prêt à être greffé</string>
+			<string>ECRIN</string>
+			<string>SCION</string>
+		</array>
+		<array>
+			<string>Boîte</string>
+			<string>Enjoliverait</string>
+			<string>ECRIN</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Boîte</string>
+			<string>Crochet</string>
+			<string>ECRIN</string>
+			<string>ERIGNE</string>
+		</array>
+		<array>
+			<string>Boîte</string>
+			<string>Sans bavure</string>
+			<string>ECRIN</string>
+			<string>NETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Releva l’assiette</string>
+			<string>Dépeindre</string>
+			<string>SALA</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Releva l’assiette</string>
+			<string>Sel métallique</string>
+			<string>SALA</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string>Releva l’assiette</string>
+			<string>Bide</string>
+			<string>SALA</string>
+			<string>FLOP</string>
+		</array>
+		<array>
+			<string>Releva l’assiette</string>
+			<string>Doucement</string>
+			<string>SALA</string>
+			<string>PIANO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Justifiés</string>
+			<string>MARIAGE</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Son curé fut célèbre</string>
+			<string>MARIAGE</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Donner une forme allongée</string>
+			<string>MARIAGE</string>
+			<string>OVALISER</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Prêt à être greffé</string>
+			<string>MARIAGE</string>
+			<string>SCION</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Enjoliverait</string>
+			<string>MARIAGE</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Crochet</string>
+			<string>MARIAGE</string>
+			<string>ERIGNE</string>
+		</array>
+		<array>
+			<string>Engagement</string>
+			<string>Sans bavure</string>
+			<string>MARIAGE</string>
+			<string>NETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Dépeindre</string>
+			<string>ETONNER</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Sel métallique</string>
+			<string>ETONNER</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Bide</string>
+			<string>ETONNER</string>
+			<string>FLOP</string>
+		</array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Doucement</string>
+			<string>ETONNER</string>
+			<string>PIANO</string>
+		</array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Épuré</string>
+			<string>ETONNER</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Justifiés</string>
+			<string>ETONNER</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Couper le souffle</string>
+			<string>Son curé fut célèbre</string>
+			<string>ETONNER</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Consacré</string>
+			<string>Prêt à être greffé</string>
+			<string>OINT</string>
+			<string>SCION</string>
+		</array>
+		<array>
+			<string>Consacré</string>
+			<string>Enjoliverait</string>
+			<string>OINT</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Consacré</string>
+			<string>Crochet</string>
+			<string>OINT</string>
+			<string>ERIGNE</string>
+		</array>
+		<array>
+			<string>Consacré</string>
+			<string>Sans bavure</string>
+			<string>OINT</string>
+			<string>NETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Abominables</string>
+			<string>Dépeindre</string>
+			<string>REPOUSSANTES</string>
+			<string>CARACTERISER</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Sel métallique</string>
+			<string>REPOUSSANTES</string>
+			<string>URANATE</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Bide</string>
+			<string>REPOUSSANTES</string>
+			<string>FLOP</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Doucement</string>
+			<string>REPOUSSANTES</string>
+			<string>PIANO</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Épuré</string>
+			<string>REPOUSSANTES</string>
+			<string>NU</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Justifiés</string>
+			<string>REPOUSSANTES</string>
+			<string>LEGITIMES</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Son curé fut célèbre</string>
+			<string>REPOUSSANTES</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string></string>
+			<string>REPOUSSANTES</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Prêt à être greffé</string>
+			<string>REPOUSSANTES</string>
+			<string>SCION</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Enjoliverait</string>
+			<string>REPOUSSANTES</string>
+			<string>ORNERAIT</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Crochet</string>
+			<string>REPOUSSANTES</string>
+			<string>ERIGNE</string>
+		</array>
+		<array>
+			<string>Abominables</string>
+			<string>Sans bavure</string>
+			<string>REPOUSSANTES</string>
+			<string>NETS</string>
+		</array>
+	</array>
+</array>
+</plist>

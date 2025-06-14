@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Passe en coup de vent</string>
+			<string>TRAJECTOIRES</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Coeur de marbre</string>
+			<string>TRAJECTOIRES</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Lieux de jugement</string>
+			<string>TRAJECTOIRES</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Inexpérimenté</string>
+			<string>TRAJECTOIRES</string>
+			<string>JEUNE</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Division géologique</string>
+			<string>TRAJECTOIRES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Condensé de vie</string>
+			<string>TRAJECTOIRES</string>
+			<string>CV</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Echos des savanes</string>
+			<string>TRAJECTOIRES</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Feras place nette</string>
+			<string>TRAJECTOIRES</string>
+			<string>OTERAS</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Ferais le déplacement</string>
+			<string>TRAJECTOIRES</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Eclat de rire</string>
+			<string>TRAJECTOIRES</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>TRAJECTOIRES</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string>Lignes de vol</string>
+			<string>Devant ce qui est à lui</string>
+			<string>TRAJECTOIRES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Passe en coup de vent</string>
+			<string>OBSERVATRICE</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Coeur de marbre</string>
+			<string>OBSERVATRICE</string>
+			<string>RB</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Lieux de jugement</string>
+			<string>OBSERVATRICE</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Inexpérimenté</string>
+			<string>OBSERVATRICE</string>
+			<string>JEUNE</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Division géologique</string>
+			<string>OBSERVATRICE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Condensé de vie</string>
+			<string>OBSERVATRICE</string>
+			<string>CV</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Echos des savanes</string>
+			<string>OBSERVATRICE</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Feras place nette</string>
+			<string>OBSERVATRICE</string>
+			<string>OTERAS</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Ferais le déplacement</string>
+			<string>OBSERVATRICE</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Eclat de rire</string>
+			<string>OBSERVATRICE</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>OBSERVATRICE</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string>Elle a un oeil attentif</string>
+			<string>Devant ce qui est à lui</string>
+			<string>OBSERVATRICE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Passe en coup de vent</string>
+			<string>U</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Peine</string>
+			<string>Lieux de jugement</string>
+			<string>SUE</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string>Peine</string>
+			<string>Inexpérimenté</string>
+			<string>SUE</string>
+			<string>JEUNE</string>
+		</array>
+		<array>
+			<string>Peine</string>
+			<string>Division géologique</string>
+			<string>SUE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le moi coupable</string>
+			<string>Echos des savanes</string>
+			<string>MEA</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string>Le moi coupable</string>
+			<string>Feras place nette</string>
+			<string>MEA</string>
+			<string>OTERAS</string>
+		</array>
+		<array>
+			<string>Le moi coupable</string>
+			<string>Ferais le déplacement</string>
+			<string>MEA</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Difficulté</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>OS</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string>Difficulté</string>
+			<string>Devant ce qui est à lui</string>
+			<string>OS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Le calcul le met au supplice</string>
+			<string>Passe en coup de vent</string>
+			<string>REIN</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Le calcul le met au supplice</string>
+			<string>Possédés jadis</string>
+			<string>REIN</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string>Le calcul le met au supplice</string>
+			<string>Lieux de jugement</string>
+			<string>REIN</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string>Le calcul le met au supplice</string>
+			<string>Inexpérimenté</string>
+			<string>REIN</string>
+			<string>JEUNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Zebrat</string>
+			<string></string>
+			<string>STRIAT</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Zebrat</string>
+			<string>Echos des savanes</string>
+			<string>STRIAT</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string>Zebrat</string>
+			<string>Feras place nette</string>
+			<string>STRIAT</string>
+			<string>OTERAS</string>
+		</array>
+		<array>
+			<string>Zebrat</string>
+			<string>Ferais le déplacement</string>
+			<string>STRIAT</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Zebrat</string>
+			<string></string>
+			<string>STRIAT</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Zebrat</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>STRIAT</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ignorantes</string>
+			<string>Passe en coup de vent</string>
+			<string>BUSES</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Ignorantes</string>
+			<string>Possédés jadis</string>
+			<string>BUSES</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string>Ignorantes</string>
+			<string>Lieux de jugement</string>
+			<string>BUSES</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string>Ignorantes</string>
+			<string>Inexpérimenté</string>
+			<string>BUSES</string>
+			<string>JEUNE</string>
+		</array>
+		<array>
+			<string>Ignorantes</string>
+			<string>Poils de porcins</string>
+			<string>BUSES</string>
+			<string>SOIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ils ne boivent plus</string>
+			<string>Echos des savanes</string>
+			<string>AAS</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string>Ils ne boivent plus</string>
+			<string>Feras place nette</string>
+			<string>AAS</string>
+			<string>OTERAS</string>
+		</array>
+		<array>
+			<string>Ils ne boivent plus</string>
+			<string>Ferais le déplacement</string>
+			<string>AAS</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Doubler pour une période des années soixantes</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>YE</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string>Doubler pour une période des années soixantes</string>
+			<string>Élément</string>
+			<string>YE</string>
+			<string>EAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Baie nipponne</string>
+			<string>Passe en coup de vent</string>
+			<string>ISE</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Baie nipponne</string>
+			<string>Possédés jadis</string>
+			<string>ISE</string>
+			<string>EUS</string>
+		</array>
+		<array>
+			<string>Baie nipponne</string>
+			<string>Lieux de jugement</string>
+			<string>ISE</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Font de la résistance</string>
+			<string>Poils de porcins</string>
+			<string>OHMS</string>
+			<string>SOIES</string>
+		</array>
+		<array>
+			<string>Font de la résistance</string>
+			<string>Brusquer</string>
+			<string>OHMS</string>
+			<string>HATER</string>
+		</array>
+		<array>
+			<string>Font de la résistance</string>
+			<string>Echos des savanes</string>
+			<string>OHMS</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string>Font de la résistance</string>
+			<string>Feras place nette</string>
+			<string>OHMS</string>
+			<string>OTERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donne des vapeurs</string>
+			<string>Argiles</string>
+			<string>SPA</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string>Donne des vapeurs</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>SPA</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string>Donne des vapeurs</string>
+			<string>Élément</string>
+			<string>SPA</string>
+			<string>EAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Passe en coup de vent</string>
+			<string>L</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Glissas</string>
+			<string>Lieux de jugement</string>
+			<string>SKIAS</string>
+			<string>ASSISES</string>
+		</array>
+		<array>
+			<string>Glissas</string>
+			<string>Longueur</string>
+			<string>SKIAS</string>
+			<string>KM</string>
+		</array>
+		<array>
+			<string>Glissas</string>
+			<string>Poils de porcins</string>
+			<string>SKIAS</string>
+			<string>SOIES</string>
+		</array>
+		<array>
+			<string>Glissas</string>
+			<string>Brusquer</string>
+			<string>SKIAS</string>
+			<string>HATER</string>
+		</array>
+		<array>
+			<string>Glissas</string>
+			<string>Echos des savanes</string>
+			<string>SKIAS</string>
+			<string>TAMTAMS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fils en Picardie</string>
+			<string>Livrées en toute confiance</string>
+			<string>FIEU</string>
+			<string>FIEES</string>
+		</array>
+		<array>
+			<string>Fils en Picardie</string>
+			<string>Argiles</string>
+			<string>FIEU</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string>Fils en Picardie</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>FIEU</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string>Fils en Picardie</string>
+			<string>Élément</string>
+			<string>FIEU</string>
+			<string>EAU</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Déchiffré</string>
+			<string>Passe en coup de vent</string>
+			<string>LU</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Déchiffré</string>
+			<string>Ils agissent sur la peau</string>
+			<string>LU</string>
+			<string>UVA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Porte</string>
+			<string>Longueur</string>
+			<string>MET</string>
+			<string>KM</string>
+		</array>
+		<array>
+			<string>Porte</string>
+			<string>Poils de porcins</string>
+			<string>MET</string>
+			<string>SOIES</string>
+		</array>
+		<array>
+			<string>Porte</string>
+			<string>Brusquer</string>
+			<string>MET</string>
+			<string>HATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Abjects</string>
+			<string>Gaz pas très noble</string>
+			<string>VILS</string>
+			<string>VESSE</string>
+		</array>
+		<array>
+			<string>Abjects</string>
+			<string>Livrées en toute confiance</string>
+			<string>VILS</string>
+			<string>FIEES</string>
+		</array>
+		<array>
+			<string>Abjects</string>
+			<string>Argiles</string>
+			<string>VILS</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string>Abjects</string>
+			<string>Espèces adaptés au terrain</string>
+			<string>VILS</string>
+			<string>ECOTYPES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Decore la moulure</string>
+			<string>Passe en coup de vent</string>
+			<string>OVE</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Decore la moulure</string>
+			<string>Ils agissent sur la peau</string>
+			<string>OVE</string>
+			<string>UVA</string>
+		</array>
+		<array>
+			<string>Decore la moulure</string>
+			<string>Prune</string>
+			<string>OVE</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Propagées</string>
+			<string>Poils de porcins</string>
+			<string>SEMEES</string>
+			<string>SOIES</string>
+		</array>
+		<array>
+			<string>Propagées</string>
+			<string>Brusquer</string>
+			<string>SEMEES</string>
+			<string>HATER</string>
+		</array>
+		<array>
+			<string>Propagées</string>
+			<string>Changea</string>
+			<string>SEMEES</string>
+			<string>MUA</string>
+		</array>
+		<array>
+			<string>Propagées</string>
+			<string>Gaz pas très noble</string>
+			<string>SEMEES</string>
+			<string>VESSE</string>
+		</array>
+		<array>
+			<string>Propagées</string>
+			<string>Livrées en toute confiance</string>
+			<string>SEMEES</string>
+			<string>FIEES</string>
+		</array>
+		<array>
+			<string>Propagées</string>
+			<string>Argiles</string>
+			<string>SEMEES</string>
+			<string>SILS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rivière</string>
+			<string>O</string>
+			<string>OHIO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Zola en a fait une histoire</string>
+			<string>Passe en coup de vent</string>
+			<string>NANA</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Zola en a fait une histoire</string>
+			<string>Ils agissent sur la peau</string>
+			<string>NANA</string>
+			<string>UVA</string>
+		</array>
+		<array>
+			<string>Zola en a fait une histoire</string>
+			<string>Prune</string>
+			<string>NANA</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string>Zola en a fait une histoire</string>
+			<string>Métal noble</string>
+			<string>NANA</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Habile en calcul</string>
+			<string>Brusquer</string>
+			<string>RUSE</string>
+			<string>HATER</string>
+		</array>
+		<array>
+			<string>Habile en calcul</string>
+			<string>Changea</string>
+			<string>RUSE</string>
+			<string>MUA</string>
+		</array>
+		<array>
+			<string>Habile en calcul</string>
+			<string>Gaz pas très noble</string>
+			<string>RUSE</string>
+			<string>VESSE</string>
+		</array>
+		<array>
+			<string>Habile en calcul</string>
+			<string>Livrées en toute confiance</string>
+			<string>RUSE</string>
+			<string>FIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tête d&apos;ahuri</string>
+			<string>Fait effet</string>
+			<string>AH</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string>Tête d&apos;ahuri</string>
+			<string>Rivière</string>
+			<string>AH</string>
+			<string>OHIO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Passe en coup de vent</string>
+			<string>N</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gardée secrète</string>
+			<string>Prune</string>
+			<string>TUE</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string>Gardée secrète</string>
+			<string>Métal noble</string>
+			<string>TUE</string>
+			<string>AU</string>
+		</array>
+		<array>
+			<string>Gardée secrète</string>
+			<string>Infinitif</string>
+			<string>TUE</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Modéré</string>
+			<string>Changea</string>
+			<string>ASSAGI</string>
+			<string>MUA</string>
+		</array>
+		<array>
+			<string>Modéré</string>
+			<string>Gaz pas très noble</string>
+			<string>ASSAGI</string>
+			<string>VESSE</string>
+		</array>
+		<array>
+			<string>Modéré</string>
+			<string>Livrées en toute confiance</string>
+			<string>ASSAGI</string>
+			<string>FIEES</string>
+		</array>
+		<array>
+			<string>Modéré</string>
+			<string>Symbole chimique</string>
+			<string>ASSAGI</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string>Modéré</string>
+			<string>Fait effet</string>
+			<string>ASSAGI</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string>Modéré</string>
+			<string>Rivière</string>
+			<string>ASSAGI</string>
+			<string>OHIO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bernée</string>
+			<string>Passe en coup de vent</string>
+			<string>EUE</string>
+			<string>TOURBILLONNE</string>
+		</array>
+		<array>
+			<string>Bernée</string>
+			<string></string>
+			<string>EUE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Bernée</string>
+			<string>Prune</string>
+			<string>EUE</string>
+			<string>ENTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Début de rhume</string>
+			<string>Infinitif</string>
+			<string>RH</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Début de rhume</string>
+			<string></string>
+			<string>RH</string>
+			<string>H</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Gaz pas très noble</string>
+			<string>E</string>
+			<string>VESSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Haut lieu de la samba</string>
+			<string>Symbole chimique</string>
+			<string>RIO</string>
+			<string>AR</string>
+		</array>
+		<array>
+			<string>Haut lieu de la samba</string>
+			<string>Fait effet</string>
+			<string>RIO</string>
+			<string>AGI</string>
+		</array>
+		<array>
+			<string>Haut lieu de la samba</string>
+			<string>Rivière</string>
+			<string>RIO</string>
+			<string>OHIO</string>
+		</array>
+	</array>
+</array>
+</plist>

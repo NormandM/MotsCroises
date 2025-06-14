@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Colosse au grand cœur</string>
+			<string>STENOGRAPHES</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Prise au hasard</string>
+			<string>STENOGRAPHES</string>
+			<string>TIREE</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Désordres populaires</string>
+			<string>STENOGRAPHES</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Sorti après le travail</string>
+			<string>STENOGRAPHES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Faire front</string>
+			<string>STENOGRAPHES</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string></string>
+			<string>STENOGRAPHES</string>
+			<string>G</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Passe par la jalousie</string>
+			<string>STENOGRAPHES</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>On la pétrit</string>
+			<string>STENOGRAPHES</string>
+			<string>ARGILE</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Garda sous cloche</string>
+			<string>STENOGRAPHES</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Hormis</string>
+			<string>STENOGRAPHES</string>
+			<string>HORS</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Kif-kif</string>
+			<string>STENOGRAPHES</string>
+			<string>EGAUX</string>
+		</array>
+		<array>
+			<string>Écoutent et inscrivent tout</string>
+			<string>Les siens</string>
+			<string>STENOGRAPHES</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Prisés</string>
+			<string>Colosse au grand cœur</string>
+			<string>AIMES</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Prisés</string>
+			<string>Prise au hasard</string>
+			<string>AIMES</string>
+			<string>TIREE</string>
+		</array>
+		<array>
+			<string>Prisés</string>
+			<string>Désordres populaires</string>
+			<string>AIMES</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string>Prisés</string>
+			<string>Sorti après le travail</string>
+			<string>AIMES</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Prisés</string>
+			<string>Faire front</string>
+			<string>AIMES</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Usurpe</string>
+			<string>Passe par la jalousie</string>
+			<string>ARROGE</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Usurpe</string>
+			<string>On la pétrit</string>
+			<string>ARROGE</string>
+			<string>ARGILE</string>
+		</array>
+		<array>
+			<string>Usurpe</string>
+			<string>Garda sous cloche</string>
+			<string>ARROGE</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Usurpe</string>
+			<string>Hormis</string>
+			<string>ARROGE</string>
+			<string>HORS</string>
+		</array>
+		<array>
+			<string>Usurpe</string>
+			<string>Kif-kif</string>
+			<string>ARROGE</string>
+			<string>EGAUX</string>
+		</array>
+		<array>
+			<string>Usurpe</string>
+			<string>Les siens</string>
+			<string>ARROGE</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rage sans âge</string>
+			<string>Colosse au grand cœur</string>
+			<string>IRE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Rage sans âge</string>
+			<string>Prise au hasard</string>
+			<string>IRE</string>
+			<string>TIREE</string>
+		</array>
+		<array>
+			<string>Rage sans âge</string>
+			<string>Désordres populaires</string>
+			<string>IRE</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>Faire front</string>
+			<string>ERIGERAS</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>S’en mordit les doigts</string>
+			<string>ERIGERAS</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>Passe par la jalousie</string>
+			<string>ERIGERAS</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>On la pétrit</string>
+			<string>ERIGERAS</string>
+			<string>ARGILE</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>Garda sous cloche</string>
+			<string>ERIGERAS</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>Hormis</string>
+			<string>ERIGERAS</string>
+			<string>HORS</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>Kif-kif</string>
+			<string>ERIGERAS</string>
+			<string>EGAUX</string>
+		</array>
+		<array>
+			<string>Mettras debout</string>
+			<string>Les siens</string>
+			<string>ERIGERAS</string>
+			<string>SES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ni blanc, ni noir</string>
+			<string>Colosse au grand cœur</string>
+			<string>NEUTRE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Ni blanc, ni noir</string>
+			<string>Prise au hasard</string>
+			<string>NEUTRE</string>
+			<string>TIREE</string>
+		</array>
+		<array>
+			<string>Ni blanc, ni noir</string>
+			<string>Désordres populaires</string>
+			<string>NEUTRE</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string>Ni blanc, ni noir</string>
+			<string>Registre vocal</string>
+			<string>NEUTRE</string>
+			<string>TENOR</string>
+		</array>
+		<array>
+			<string>Ni blanc, ni noir</string>
+			<string>Faire front</string>
+			<string>NEUTRE</string>
+			<string>OSER</string>
+		</array>
+		<array>
+			<string>Ni blanc, ni noir</string>
+			<string>S’en mordit les doigts</string>
+			<string>NEUTRE</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Résultant de</string>
+			<string>On la pétrit</string>
+			<string>ISSU</string>
+			<string>ARGILE</string>
+		</array>
+		<array>
+			<string>Résultant de</string>
+			<string>Garda sous cloche</string>
+			<string>ISSU</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Résultant de</string>
+			<string>Hormis</string>
+			<string>ISSU</string>
+			<string>HORS</string>
+		</array>
+		<array>
+			<string>Résultant de</string>
+			<string>Kif-kif</string>
+			<string>ISSU</string>
+			<string>EGAUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Chef</string>
+			<string>Colosse au grand cœur</string>
+			<string>TETE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Chef</string>
+			<string>Prise au hasard</string>
+			<string>TETE</string>
+			<string>TIREE</string>
+		</array>
+		<array>
+			<string>Chef</string>
+			<string>Désordres populaires</string>
+			<string>TETE</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string>Chef</string>
+			<string>Registre vocal</string>
+			<string>TETE</string>
+			<string>TENOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Acarien indésirable</string>
+			<string>S’en mordit les doigts</string>
+			<string>GALE</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string>Acarien indésirable</string>
+			<string>Parfois de famille</string>
+			<string>GALE</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string>Acarien indésirable</string>
+			<string>On la pétrit</string>
+			<string>GALE</string>
+			<string>ARGILE</string>
+		</array>
+		<array>
+			<string>Acarien indésirable</string>
+			<string>Garda sous cloche</string>
+			<string>GALE</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gaz rare</string>
+			<string>Kif-kif</string>
+			<string>XE</string>
+			<string>EGAUX</string>
+		</array>
+		<array>
+			<string>Gaz rare</string>
+			<string>Propre au destrier</string>
+			<string>XE</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Colosse au grand cœur</string>
+			<string>B</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>Désordres populaires</string>
+			<string>ENCRIERS</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>Registre vocal</string>
+			<string>ENCRIERS</string>
+			<string>TENOR</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>Coincer</string>
+			<string>ENCRIERS</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>S’en mordit les doigts</string>
+			<string>ENCRIERS</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>Parfois de famille</string>
+			<string>ENCRIERS</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>On la pétrit</string>
+			<string>ENCRIERS</string>
+			<string>ARGILE</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>Garda sous cloche</string>
+			<string>ENCRIERS</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Accessoires d’autrefois</string>
+			<string>Évalue le pour et le contre</string>
+			<string>ENCRIERS</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Propre au destrier</string>
+			<string>Q</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tordre</string>
+			<string>Colosse au grand cœur</string>
+			<string>ESSORER</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Tordre</string>
+			<string>Mollusque</string>
+			<string>ESSORER</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string>Tordre</string>
+			<string>Désordres populaires</string>
+			<string>ESSORER</string>
+			<string>EMEUTES</string>
+		</array>
+		<array>
+			<string>Tordre</string>
+			<string>Registre vocal</string>
+			<string>ESSORER</string>
+			<string>TENOR</string>
+		</array>
+		<array>
+			<string>Tordre</string>
+			<string>Coincer</string>
+			<string>ESSORER</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string>Tordre</string>
+			<string>S’en mordit les doigts</string>
+			<string>ESSORER</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string>Tordre</string>
+			<string>Parfois de famille</string>
+			<string>ESSORER</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Souhait</string>
+			<string>Garda sous cloche</string>
+			<string>VOEU</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Souhait</string>
+			<string>Évalue le pour et le contre</string>
+			<string>VOEU</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string>Souhait</string>
+			<string>Protéger la pousse</string>
+			<string>VOEU</string>
+			<string>EPINER</string>
+		</array>
+		<array>
+			<string>Souhait</string>
+			<string>Propre au destrier</string>
+			<string>VOEU</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vers Oléron</string>
+			<string>Colosse au grand cœur</string>
+			<string>RE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Vers Oléron</string>
+			<string>Mollusque</string>
+			<string>RE</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se gondole</string>
+			<string>Registre vocal</string>
+			<string>RIT</string>
+			<string>TENOR</string>
+		</array>
+		<array>
+			<string>Se gondole</string>
+			<string>Coincer</string>
+			<string>RIT</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string>Se gondole</string>
+			<string>S’en mordit les doigts</string>
+			<string>RIT</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Souillon</string>
+			<string>Le marin sait le faire</string>
+			<string>GAUPE</string>
+			<string>GREER</string>
+		</array>
+		<array>
+			<string>Souillon</string>
+			<string>Garda sous cloche</string>
+			<string>GAUPE</string>
+			<string>PRESERVA</string>
+		</array>
+		<array>
+			<string>Souillon</string>
+			<string>Évalue le pour et le contre</string>
+			<string>GAUPE</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string>Souillon</string>
+			<string>Protéger la pousse</string>
+			<string>GAUPE</string>
+			<string>EPINER</string>
+		</array>
+		<array>
+			<string>Souillon</string>
+			<string>Propre au destrier</string>
+			<string>GAUPE</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Désavoue</string>
+			<string>Colosse au grand cœur</string>
+			<string>NIE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Désavoue</string>
+			<string>Mollusque</string>
+			<string>NIE</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string>Désavoue</string>
+			<string>Pour payer ou parer</string>
+			<string>NIE</string>
+			<string>ECU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Proie de paparazzi</string>
+			<string>Coincer</string>
+			<string>STAR</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string>Proie de paparazzi</string>
+			<string>S’en mordit les doigts</string>
+			<string>STAR</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string>Proie de paparazzi</string>
+			<string>Pour l’attaque ou la défense</string>
+			<string>STAR</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string>Proie de paparazzi</string>
+			<string>Le marin sait le faire</string>
+			<string>STAR</string>
+			<string>GREER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il se vide d’une traite</string>
+			<string>Évalue le pour et le contre</string>
+			<string>PIS</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string>Il se vide d’une traite</string>
+			<string>Protéger la pousse</string>
+			<string>PIS</string>
+			<string>EPINER</string>
+		</array>
+		<array>
+			<string>Il se vide d’une traite</string>
+			<string>Propre au destrier</string>
+			<string>PIS</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Colosse au grand cœur</string>
+			<string>ACCAPAREMENT</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Mollusque</string>
+			<string>ACCAPAREMENT</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Pour payer ou parer</string>
+			<string>ACCAPAREMENT</string>
+			<string>ECU</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Peut être soeur</string>
+			<string>ACCAPAREMENT</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Coincer</string>
+			<string>ACCAPAREMENT</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>S’en mordit les doigts</string>
+			<string>ACCAPAREMENT</string>
+			<string>REGRETTA</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Pour l’attaque ou la défense</string>
+			<string>ACCAPAREMENT</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Le marin sait le faire</string>
+			<string>ACCAPAREMENT</string>
+			<string>GREER</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Fraction de temps</string>
+			<string>ACCAPAREMENT</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Évalue le pour et le contre</string>
+			<string>ACCAPAREMENT</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Protéger la pousse</string>
+			<string>ACCAPAREMENT</string>
+			<string>EPINER</string>
+		</array>
+		<array>
+			<string>Il prend tout</string>
+			<string>Propre au destrier</string>
+			<string>ACCAPAREMENT</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas grave, mais embêtant</string>
+			<string>Colosse au grand cœur</string>
+			<string>RHUME</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Pas grave, mais embêtant</string>
+			<string>Mollusque</string>
+			<string>RHUME</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string>Pas grave, mais embêtant</string>
+			<string>Pour payer ou parer</string>
+			<string>RHUME</string>
+			<string>ECU</string>
+		</array>
+		<array>
+			<string>Pas grave, mais embêtant</string>
+			<string>Peut être soeur</string>
+			<string>RHUME</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string>Pas grave, mais embêtant</string>
+			<string>Coincer</string>
+			<string>RHUME</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vieux seigneur</string>
+			<string>Pour l’attaque ou la défense</string>
+			<string>MESSER</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string>Vieux seigneur</string>
+			<string>Le marin sait le faire</string>
+			<string>MESSER</string>
+			<string>GREER</string>
+		</array>
+		<array>
+			<string>Vieux seigneur</string>
+			<string>Fraction de temps</string>
+			<string>MESSER</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Vieux seigneur</string>
+			<string>Évalue le pour et le contre</string>
+			<string>MESSER</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string>Vieux seigneur</string>
+			<string>Protéger la pousse</string>
+			<string>MESSER</string>
+			<string>EPINER</string>
+		</array>
+		<array>
+			<string>Vieux seigneur</string>
+			<string>Propre au destrier</string>
+			<string>MESSER</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Souvent jeté</string>
+			<string>Colosse au grand cœur</string>
+			<string>DE</string>
+			<string>SAINTBERNARD</string>
+		</array>
+		<array>
+			<string>Souvent jeté</string>
+			<string>Mollusque</string>
+			<string>DE</string>
+			<string>SEICHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le propre des âmes en peine</string>
+			<string>Peut être soeur</string>
+			<string>ERRER</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string>Le propre des âmes en peine</string>
+			<string>Coincer</string>
+			<string>ERRER</string>
+			<string>CRISPER</string>
+		</array>
+		<array>
+			<string>Le propre des âmes en peine</string>
+			<string></string>
+			<string>ERRER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Le propre des âmes en peine</string>
+			<string>Pour l’attaque ou la défense</string>
+			<string>ERRER</string>
+			<string>ARME</string>
+		</array>
+		<array>
+			<string>Le propre des âmes en peine</string>
+			<string>Le marin sait le faire</string>
+			<string>ERRER</string>
+			<string>GREER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle a son époque</string>
+			<string>Évalue le pour et le contre</string>
+			<string>ERE</string>
+			<string>SOUPESE</string>
+		</array>
+		<array>
+			<string>Elle a son époque</string>
+			<string>Protéger la pousse</string>
+			<string>ERE</string>
+			<string>EPINER</string>
+		</array>
+		<array>
+			<string>Elle a son époque</string>
+			<string>Propre au destrier</string>
+			<string>ERE</string>
+			<string>EQUESTRE</string>
+		</array>
+	</array>
+</array>
+</plist>

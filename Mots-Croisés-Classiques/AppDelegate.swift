@@ -14,7 +14,7 @@ import SwiftUI
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate{
     var orientationLock = UIInterfaceOrientationMask.portrait
-    var window: UIWindow?
+    //var window: UIWindow?
     var navigationBarAppearace = UINavigationBar.appearance()
     let fonts = FontsAndConstraintsOptions()
     
@@ -99,4 +99,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate{
         }
 
 }
-

@@ -29,9 +29,13 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
     override func viewWillAppear(_ animated: Bool) {
         self.title = "Mots Croises"
         view.backgroundColor = ColorReference.sandColor
-        tableView.reloadData()
         navigationController?.navigationBar.isHidden = false
         determineMyDeviceOrientation()
+      //  tableView.reloadData()
+    }
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        tableView.reloadData()
     }
     
     // MARK: - Table view data source
@@ -61,9 +65,12 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
         //MARK: CHANGE FOR DIMENSION
         let lastCharacter = grillesChoisies[indexPath.row].last
         let grilleNumber = grillesChoisies[indexPath.row]
-        if lastCharacter == "E" || grilleNumber == "11G" || grilleNumber == "12G" || grilleNumber == "13G" || grilleNumber == "14G" || grilleNumber == "15G"{
+        if lastCharacter == "E" || lastCharacter == "V" ||
+            grilleNumber == "11G" || grilleNumber == "12G" || grilleNumber == "13G" || grilleNumber == "14G" || grilleNumber == "15G" || grilleNumber == "16G" ||
+            grilleNumber == "17G" || grilleNumber == "18G" || grilleNumber == "19G" || grilleNumber == "20G"{
+            
             dimension = 11
-        }else{
+        } else {
             dimension = 9
         }
         if items != [] {
@@ -91,7 +98,10 @@ class IndividulaGridSelectionTableViewController: UITableViewController {
                     detailText = "Le Mots Croisés est terminé! \nAvec l'aide d'indices"
                 }else{
                     searchText = "Temps:"
-                    detailText = "Le Mots Croisés est terminé! \nTemps: \(formatTime(indexPath: indexPath.row))"
+        //            detailText = "Le Mots Croisés est terminé! \nTemps: \(formatTime(indexPath: indexPath.row))"
+                    let formatted = self.formatTime(indexPath: indexPath.row)
+                    print("⏱ Temps actualisé pour \(grillesChoisies[indexPath.row]) : \(formatted)")
+                    detailText = "Le Mots Croisés est terminé! \nTemps: \(formatted)"
                 }
                 
                 cell.detailTextLabel?.numberOfLines = 0
@@ -162,14 +172,12 @@ func determineMyDeviceOrientation(){
     case .landscapeRight:
         iPadIsInLandScape = true
     case .faceUp:
-        print("faceUp")
         if deviceWidth > deviceHeight{
             iPadIsInLandScape = true
         }else{
             iPadIsInLandScape = false
         }
     case .faceDown:
-        print("faceDown")
         if deviceWidth > deviceHeight{
             iPadIsInLandScape = true
         }else{
@@ -192,7 +200,7 @@ func determineMyDeviceOrientation(){
             return "_"
         }
         
-
-}
+        
+    }
 }
 

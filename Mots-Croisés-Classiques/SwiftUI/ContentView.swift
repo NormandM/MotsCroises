@@ -180,6 +180,9 @@ struct ContentView: View {
                                             proxy.scrollTo(selectedItemV, anchor: .top)
                                         }
                                     }
+                                    .onAppear {
+                                        print(arrayOfDefinitionsV)
+                                    }
                                 }
                             }
                         }
@@ -337,6 +340,7 @@ struct ContentView: View {
     //MARK: ALL FUNCTIONS
     func fileNewGrid() {
         grid = [[String]]()
+        print("dimension: \(dimension)")
         grid = Array(repeating: Array(repeating: "", count: dimension + 1), count: dimension + 1)
         arrayOfDefAndPosition = [(String, Int, String)](repeating: ("", 0, ""), count: dimension)
         arrayOfDefAndPositionV = [(String, Int, String)](repeating: ("", 0, ""), count: dimension)
@@ -346,10 +350,12 @@ struct ContentView: View {
            let motCr = NSArray(contentsOfFile: plistPath){
             grille = motCr as! [[String]]
         }
+        print("grille: \(grille)")
         if let plistPath = Bundle.main.path(forResource: pListDefinitions, ofType: "plist"),
            let def = NSArray(contentsOfFile: plistPath){
             definitions = def as! [[[String]]]
         }
+        print("definitions: \(definitions)")
         var item = CoreDataHandler.fetchGrille(grilleSelected: motsCroisesSelected)
         if item == [] {
             GrilleData.prepareGrille(dimension: dimension, item:item!, grilleSelected: motsCroisesSelected, grille: grille)

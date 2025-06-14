@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Adeptes de Friedman</string>
+			<string>MILITANTISME</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Cousins chimiques</string>
+			<string>MILITANTISME</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Revêtement</string>
+			<string>MILITANTISME</string>
+			<string>LINO</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Termine la série</string>
+			<string>MILITANTISME</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Perturbe les discussions</string>
+			<string>MILITANTISME</string>
+			<string>TROLL</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string></string>
+			<string>MILITANTISME</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>A vu la pluie venir</string>
+			<string>MILITANTISME</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Entre deux allures</string>
+			<string>MILITANTISME</string>
+			<string>TROT</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Non-conformisme</string>
+			<string>MILITANTISME</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Fumé</string>
+			<string>MILITANTISME</string>
+			<string>SAURE</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Brouhaha</string>
+			<string>MILITANTISME</string>
+			<string>MICMAC</string>
+		</array>
+		<array>
+			<string>Syndicalisme, par exemple</string>
+			<string>Sans compagnie</string>
+			<string>MILITANTISME</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Doit se plier au travail</string>
+			<string>Adeptes de Friedman</string>
+			<string>OSIER</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Doit se plier au travail</string>
+			<string>Cousins chimiques</string>
+			<string>OSIER</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Doit se plier au travail</string>
+			<string>Revêtement</string>
+			<string>OSIER</string>
+			<string>LINO</string>
+		</array>
+		<array>
+			<string>Doit se plier au travail</string>
+			<string>Termine la série</string>
+			<string>OSIER</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Doit se plier au travail</string>
+			<string>Perturbe les discussions</string>
+			<string>OSIER</string>
+			<string>TROLL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Enrichissais l’apparence</string>
+			<string>A vu la pluie venir</string>
+			<string>ORNAIS</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Enrichissais l’apparence</string>
+			<string>Entre deux allures</string>
+			<string>ORNAIS</string>
+			<string>TROT</string>
+		</array>
+		<array>
+			<string>Enrichissais l’apparence</string>
+			<string>Non-conformisme</string>
+			<string>ORNAIS</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Enrichissais l’apparence</string>
+			<string>Fumé</string>
+			<string>ORNAIS</string>
+			<string>SAURE</string>
+		</array>
+		<array>
+			<string>Enrichissais l’apparence</string>
+			<string>Brouhaha</string>
+			<string>ORNAIS</string>
+			<string>MICMAC</string>
+		</array>
+		<array>
+			<string>Enrichissais l’apparence</string>
+			<string>Sans compagnie</string>
+			<string>ORNAIS</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fin de non-recevoir</string>
+			<string>Adeptes de Friedman</string>
+			<string>NON</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Fin de non-recevoir</string>
+			<string>Cousins chimiques</string>
+			<string>NON</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Fin de non-recevoir</string>
+			<string>Revêtement</string>
+			<string>NON</string>
+			<string>LINO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Perturbe les discussions</string>
+			<string>OLEODUCS</string>
+			<string>TROLL</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Miroiter</string>
+			<string>OLEODUCS</string>
+			<string>LUIRE</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>A vu la pluie venir</string>
+			<string>OLEODUCS</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Entre deux allures</string>
+			<string>OLEODUCS</string>
+			<string>TROT</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Non-conformisme</string>
+			<string>OLEODUCS</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Fumé</string>
+			<string>OLEODUCS</string>
+			<string>SAURE</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Brouhaha</string>
+			<string>OLEODUCS</string>
+			<string>MICMAC</string>
+		</array>
+		<array>
+			<string>Tubes énergétiques</string>
+			<string>Sans compagnie</string>
+			<string>OLEODUCS</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Qui vient de sortir</string>
+			<string>Adeptes de Friedman</string>
+			<string>EMOULU</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Qui vient de sortir</string>
+			<string>Cousins chimiques</string>
+			<string>EMOULU</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Qui vient de sortir</string>
+			<string>Revêtement</string>
+			<string>EMOULU</string>
+			<string>LINO</string>
+		</array>
+		<array>
+			<string>Qui vient de sortir</string>
+			<string>Lettre</string>
+			<string>EMOULU</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string>Qui vient de sortir</string>
+			<string>Perturbe les discussions</string>
+			<string>EMOULU</string>
+			<string>TROLL</string>
+		</array>
+		<array>
+			<string>Qui vient de sortir</string>
+			<string>Miroiter</string>
+			<string>EMOULU</string>
+			<string>LUIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Échéance</string>
+			<string>Entre deux allures</string>
+			<string>TERME</string>
+			<string>TROT</string>
+		</array>
+		<array>
+			<string>Échéance</string>
+			<string>Non-conformisme</string>
+			<string>TERME</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Échéance</string>
+			<string>Fumé</string>
+			<string>TERME</string>
+			<string>SAURE</string>
+		</array>
+		<array>
+			<string>Échéance</string>
+			<string>Brouhaha</string>
+			<string>TERME</string>
+			<string>MICMAC</string>
+		</array>
+		<array>
+			<string>Échéance</string>
+			<string>Sans compagnie</string>
+			<string>TERME</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Jonction en plomberie</string>
+			<string>Adeptes de Friedman</string>
+			<string>TE</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Jonction en plomberie</string>
+			<string>Cousins chimiques</string>
+			<string>TE</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fit un coude</string>
+			<string>Lettre</string>
+			<string>PLIA</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string>Fit un coude</string>
+			<string>Perturbe les discussions</string>
+			<string>PLIA</string>
+			<string>TROLL</string>
+		</array>
+		<array>
+			<string>Fit un coude</string>
+			<string>Miroiter</string>
+			<string>PLIA</string>
+			<string>LUIRE</string>
+		</array>
+		<array>
+			<string>Fit un coude</string>
+			<string>Ne purent résister</string>
+			<string>PLIA</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>On tient tous à la nôtre</string>
+			<string>Non-conformisme</string>
+			<string>PEAU</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>On tient tous à la nôtre</string>
+			<string>Fumé</string>
+			<string>PEAU</string>
+			<string>SAURE</string>
+		</array>
+		<array>
+			<string>On tient tous à la nôtre</string>
+			<string>Brouhaha</string>
+			<string>PEAU</string>
+			<string>MICMAC</string>
+		</array>
+		<array>
+			<string>On tient tous à la nôtre</string>
+			<string>Sans compagnie</string>
+			<string>PEAU</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fils de Zeus et Héra</string>
+			<string>Adeptes de Friedman</string>
+			<string>ARES</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Fils de Zeus et Héra</string>
+			<string>Cousins chimiques</string>
+			<string>ARES</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Fils de Zeus et Héra</string>
+			<string>Scier</string>
+			<string>ARES</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string>Fils de Zeus et Héra</string>
+			<string>Lettre</string>
+			<string>ARES</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Marque du vécu</string>
+			<string>Miroiter</string>
+			<string>RIDE</string>
+			<string>LUIRE</string>
+		</array>
+		<array>
+			<string>Marque du vécu</string>
+			<string>Ne purent résister</string>
+			<string>RIDE</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>Marque du vécu</string>
+			<string>Mécanisme d’aveuglement</string>
+			<string>RIDE</string>
+			<string>DENI</string>
+		</array>
+		<array>
+			<string>Marque du vécu</string>
+			<string>Non-conformisme</string>
+			<string>RIDE</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Liquide</string>
+			<string>Brouhaha</string>
+			<string>CL</string>
+			<string>MICMAC</string>
+		</array>
+		<array>
+			<string>Liquide</string>
+			<string>Sans compagnie</string>
+			<string>CL</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Repliement</string>
+			<string>Adeptes de Friedman</string>
+			<string>RETIREMENT</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Cousins chimiques</string>
+			<string>RETIREMENT</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Scier</string>
+			<string>RETIREMENT</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Lettre</string>
+			<string>RETIREMENT</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Donne un nouvel éclat</string>
+			<string>RETIREMENT</string>
+			<string>RETAME</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Miroiter</string>
+			<string>RETIREMENT</string>
+			<string>LUIRE</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Ne purent résister</string>
+			<string>RETIREMENT</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Mécanisme d’aveuglement</string>
+			<string>RETIREMENT</string>
+			<string>DENI</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Non-conformisme</string>
+			<string>RETIREMENT</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Repliement</string>
+			<string>Huées partagées</string>
+			<string>RETIREMENT</string>
+			<string>TOLEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sans compagnie</string>
+			<string>E</string>
+			<string>ESSEULE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Protège du bruit</string>
+			<string>Adeptes de Friedman</string>
+			<string>ISOLE</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Protège du bruit</string>
+			<string>Cousins chimiques</string>
+			<string>ISOLE</string>
+			<string>ISOMERES</string>
+		</array>
+		<array>
+			<string>Protège du bruit</string>
+			<string>Scier</string>
+			<string>ISOLE</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string>Protège du bruit</string>
+			<string>Lettre</string>
+			<string>ISOLE</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string>Protège du bruit</string>
+			<string>Donne un nouvel éclat</string>
+			<string>ISOLE</string>
+			<string>RETAME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Signature</string>
+			<string>Ne purent résister</string>
+			<string>ENDOS</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>Signature</string>
+			<string>Mécanisme d’aveuglement</string>
+			<string>ENDOS</string>
+			<string>DENI</string>
+		</array>
+		<array>
+			<string>Signature</string>
+			<string>Non-conformisme</string>
+			<string>ENDOS</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Signature</string>
+			<string>Huées partagées</string>
+			<string>ENDOS</string>
+			<string>TOLEES</string>
+		</array>
+		<array>
+			<string>Signature</string>
+			<string>Filet</string>
+			<string>ENDOS</string>
+			<string>SENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Adeptes de Friedman</string>
+			<string>S</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Scier</string>
+			<string>NOTARIALES</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Lettre</string>
+			<string>NOTARIALES</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Donne un nouvel éclat</string>
+			<string>NOTARIALES</string>
+			<string>RETAME</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Retour redouté</string>
+			<string>NOTARIALES</string>
+			<string>AGE</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Ne purent résister</string>
+			<string>NOTARIALES</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Mécanisme d’aveuglement</string>
+			<string>NOTARIALES</string>
+			<string>DENI</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Non-conformisme</string>
+			<string>NOTARIALES</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Huées partagées</string>
+			<string>NOTARIALES</string>
+			<string>TOLEES</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Filet</string>
+			<string>NOTARIALES</string>
+			<string>SENNE</string>
+		</array>
+		<array>
+			<string>Écrites par un tabellion</string>
+			<string>Épisodes sportifs</string>
+			<string>NOTARIALES</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Adeptes de Friedman</string>
+			<string>TANNAGE</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Savoir-faire</string>
+			<string>TANNAGE</string>
+			<string>ART</string>
+		</array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Scier</string>
+			<string>TANNAGE</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Lettre</string>
+			<string>TANNAGE</string>
+			<string>UPSILON</string>
+		</array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Donne un nouvel éclat</string>
+			<string>TANNAGE</string>
+			<string>RETAME</string>
+		</array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Retour redouté</string>
+			<string>TANNAGE</string>
+			<string>AGE</string>
+		</array>
+		<array>
+			<string>Transformation des peaux</string>
+			<string>Ne purent résister</string>
+			<string>TANNAGE</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il ne se cache pas pour nourrir</string>
+			<string>Non-conformisme</string>
+			<string>NENE</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Il ne se cache pas pour nourrir</string>
+			<string>Huées partagées</string>
+			<string>NENE</string>
+			<string>TOLEES</string>
+		</array>
+		<array>
+			<string>Il ne se cache pas pour nourrir</string>
+			<string>Filet</string>
+			<string>NENE</string>
+			<string>SENNE</string>
+		</array>
+		<array>
+			<string>Il ne se cache pas pour nourrir</string>
+			<string>Épisodes sportifs</string>
+			<string>NENE</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Quaternaire, par exemple</string>
+			<string>Adeptes de Friedman</string>
+			<string>ERE</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Quaternaire, par exemple</string>
+			<string>Savoir-faire</string>
+			<string>ERE</string>
+			<string>ART</string>
+		</array>
+		<array>
+			<string>Quaternaire, par exemple</string>
+			<string>Scier</string>
+			<string>ERE</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Donne un nouvel éclat</string>
+			<string>MENACENT</string>
+			<string>RETAME</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Retour redouté</string>
+			<string>MENACENT</string>
+			<string>AGE</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Ne purent résister</string>
+			<string>MENACENT</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Cri de surprise</string>
+			<string>MENACENT</string>
+			<string>AH</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Non-conformisme</string>
+			<string>MENACENT</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Huées partagées</string>
+			<string>MENACENT</string>
+			<string>TOLEES</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Filet</string>
+			<string>MENACENT</string>
+			<string>SENNE</string>
+		</array>
+		<array>
+			<string>Font craindre le pire</string>
+			<string>Épisodes sportifs</string>
+			<string>MENACENT</string>
+			<string>SETS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Marque la surface</string>
+			<string>Adeptes de Friedman</string>
+			<string>STRIE</string>
+			<string>MONETARISTES</string>
+		</array>
+		<array>
+			<string>Marque la surface</string>
+			<string>Savoir-faire</string>
+			<string>STRIE</string>
+			<string>ART</string>
+		</array>
+		<array>
+			<string>Marque la surface</string>
+			<string>Scier</string>
+			<string>STRIE</string>
+			<string>ETONNER</string>
+		</array>
+		<array>
+			<string>Marque la surface</string>
+			<string></string>
+			<string>STRIE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Marque la surface</string>
+			<string>Donne un nouvel éclat</string>
+			<string>STRIE</string>
+			<string>RETAME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Propositions à défendre</string>
+			<string>Ne purent résister</string>
+			<string>THESES</string>
+			<string>AIMERENT</string>
+		</array>
+		<array>
+			<string>Propositions à défendre</string>
+			<string>Cri de surprise</string>
+			<string>THESES</string>
+			<string>AH</string>
+		</array>
+		<array>
+			<string>Propositions à défendre</string>
+			<string>Non-conformisme</string>
+			<string>THESES</string>
+			<string>INDEPENDANCE</string>
+		</array>
+		<array>
+			<string>Propositions à défendre</string>
+			<string>Huées partagées</string>
+			<string>THESES</string>
+			<string>TOLEES</string>
+		</array>
+		<array>
+			<string>Propositions à défendre</string>
+			<string>Filet</string>
+			<string>THESES</string>
+			<string>SENNE</string>
+		</array>
+		<array>
+			<string>Propositions à défendre</string>
+			<string>Épisodes sportifs</string>
+			<string>THESES</string>
+			<string>SETS</string>
+		</array>
+	</array>
+</array>
+</plist>

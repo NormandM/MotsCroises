@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Guide visuel</string>
+			<string>SYNCHRONISER</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string></string>
+			<string>SYNCHRONISER</string>
+			<string>Y</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Arbre originaire d’Inde</string>
+			<string>SYNCHRONISER</string>
+			<string>NEEM</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Mettras au monde</string>
+			<string>SYNCHRONISER</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Rythment la journée</string>
+			<string>SYNCHRONISER</string>
+			<string>HEURES</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string></string>
+			<string>SYNCHRONISER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Hic</string>
+			<string>SYNCHRONISER</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Apparus sur terre</string>
+			<string>SYNCHRONISER</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Bouts de tuyau</string>
+			<string>SYNCHRONISER</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Début de sensation</string>
+			<string>SYNCHRONISER</string>
+			<string>SENSA</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Haute école</string>
+			<string>SYNCHRONISER</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Aligner les rythmes</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>SYNCHRONISER</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Guide visuel</string>
+			<string>I</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tranche d’histoire</string>
+			<string>Arbre originaire d’Inde</string>
+			<string>ERE</string>
+			<string>NEEM</string>
+		</array>
+		<array>
+			<string>Tranche d’histoire</string>
+			<string>Mettras au monde</string>
+			<string>ERE</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string>Tranche d’histoire</string>
+			<string>Rythment la journée</string>
+			<string>ERE</string>
+			<string>HEURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pan fut son amant</string>
+			<string>Hic</string>
+			<string>SELENE</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Pan fut son amant</string>
+			<string>Apparus sur terre</string>
+			<string>SELENE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Pan fut son amant</string>
+			<string>Bouts de tuyau</string>
+			<string>SELENE</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string>Pan fut son amant</string>
+			<string>Début de sensation</string>
+			<string>SELENE</string>
+			<string>SENSA</string>
+		</array>
+		<array>
+			<string>Pan fut son amant</string>
+			<string>Haute école</string>
+			<string>SELENE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Pan fut son amant</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>SELENE</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Monte les mâts</string>
+			<string>Guide visuel</string>
+			<string>GREEUR</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Monte les mâts</string>
+			<string>Méditer sans fin</string>
+			<string>GREEUR</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string>Monte les mâts</string>
+			<string>Arbre originaire d’Inde</string>
+			<string>GREEUR</string>
+			<string>NEEM</string>
+		</array>
+		<array>
+			<string>Monte les mâts</string>
+			<string>Mettras au monde</string>
+			<string>GREEUR</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string>Monte les mâts</string>
+			<string>Rythment la journée</string>
+			<string>GREEUR</string>
+			<string>HEURES</string>
+		</array>
+		<array>
+			<string>Monte les mâts</string>
+			<string>Limer</string>
+			<string>GREEUR</string>
+			<string>RAPER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pas fou</string>
+			<string>Apparus sur terre</string>
+			<string>SENSE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Pas fou</string>
+			<string>Bouts de tuyau</string>
+			<string>SENSE</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string>Pas fou</string>
+			<string>Début de sensation</string>
+			<string>SENSE</string>
+			<string>SENSA</string>
+		</array>
+		<array>
+			<string>Pas fou</string>
+			<string>Haute école</string>
+			<string>SENSE</string>
+			<string>ENS</string>
+		</array>
+		<array>
+			<string>Pas fou</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>SENSE</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Guide visuel</string>
+			<string>NUMERAL</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Méditer sans fin</string>
+			<string>NUMERAL</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Arbre originaire d’Inde</string>
+			<string>NUMERAL</string>
+			<string>NEEM</string>
+		</array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Mettras au monde</string>
+			<string>NUMERAL</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Rythment la journée</string>
+			<string>NUMERAL</string>
+			<string>HEURES</string>
+		</array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Limer</string>
+			<string>NUMERAL</string>
+			<string>RAPER</string>
+		</array>
+		<array>
+			<string>Mot des nombres</string>
+			<string>Symbole chimique</string>
+			<string>NUMERAL</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À ronger</string>
+			<string>Bouts de tuyau</string>
+			<string>OS</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string>À ronger</string>
+			<string>Début de sensation</string>
+			<string>OS</string>
+			<string>SENSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rendue fertile à nouveau</string>
+			<string>N</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lettres du matin</string>
+			<string>Guide visuel</string>
+			<string>AM</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Lettres du matin</string>
+			<string>Méditer sans fin</string>
+			<string>AM</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Mettras au monde</string>
+			<string>REPRENAIS</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Rythment la journée</string>
+			<string>REPRENAIS</string>
+			<string>HEURES</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Limer</string>
+			<string>REPRENAIS</string>
+			<string>RAPER</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Symbole chimique</string>
+			<string>REPRENAIS</string>
+			<string>LR</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Possédées</string>
+			<string>REPRENAIS</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Bouts de tuyau</string>
+			<string>REPRENAIS</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Début de sensation</string>
+			<string>REPRENAIS</string>
+			<string>SENSA</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Fureur</string>
+			<string>REPRENAIS</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Relançais</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>REPRENAIS</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Enzyme</string>
+			<string>Guide visuel</string>
+			<string>LIPASE</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Méditer sans fin</string>
+			<string>LIPASE</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string></string>
+			<string>LIPASE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Mettras au monde</string>
+			<string>LIPASE</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Rythment la journée</string>
+			<string>LIPASE</string>
+			<string>HEURES</string>
+		</array>
+		<array>
+			<string>Enzyme</string>
+			<string>Limer</string>
+			<string>LIPASE</string>
+			<string>RAPER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vieilles habitudes</string>
+			<string>Possédées</string>
+			<string>US</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Vieilles habitudes</string>
+			<string>Bouts de tuyau</string>
+			<string>US</string>
+			<string>ILEONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Île</string>
+			<string>Fureur</string>
+			<string>RE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Île</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>RE</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ça finit toujours bien</string>
+			<string>Guide visuel</string>
+			<string>EN</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Ça finit toujours bien</string>
+			<string>Méditer sans fin</string>
+			<string>EN</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Mettras au monde</string>
+			<string>S</string>
+			<string>CREERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Crie</string>
+			<string>Limer</string>
+			<string>REE</string>
+			<string>RAPER</string>
+		</array>
+		<array>
+			<string>Crie</string>
+			<string>Roulée</string>
+			<string>REE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Crie</string>
+			<string>Possédées</string>
+			<string>REE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Frère de Cham</string>
+			<string>Clopes</string>
+			<string>SEM</string>
+			<string>SECHES</string>
+		</array>
+		<array>
+			<string>Frère de Cham</string>
+			<string>Fureur</string>
+			<string>SEM</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Frère de Cham</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>SEM</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cheville</string>
+			<string>Guide visuel</string>
+			<string>TEE</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Cheville</string>
+			<string>Méditer sans fin</string>
+			<string>TEE</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string>Cheville</string>
+			<string>Peuvent se ruminer</string>
+			<string>TEE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fortifie</string>
+			<string>E</string>
+			<string>ETAIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Minée</string>
+			<string>Roulée</string>
+			<string>USEE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string>Minée</string>
+			<string>Possédées</string>
+			<string>USEE</string>
+			<string>EUES</string>
+		</array>
+		<array>
+			<string>Minée</string>
+			<string>Appât</string>
+			<string>USEE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Minée</string>
+			<string>Clopes</string>
+			<string>USEE</string>
+			<string>SECHES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Rendue fertile à nouveau</string>
+			<string>E</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Guide visuel</string>
+			<string>IRRITEE</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Méditer sans fin</string>
+			<string>IRRITEE</string>
+			<string>RUMINER</string>
+		</array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Peuvent se ruminer</string>
+			<string>IRRITEE</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Conviendras</string>
+			<string>IRRITEE</string>
+			<string>IRAS</string>
+		</array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Fortifie</string>
+			<string>IRRITEE</string>
+			<string>ETAIE</string>
+		</array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Ouïe</string>
+			<string>IRRITEE</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string>Peau à vif</string>
+			<string>Roulée</string>
+			<string>IRRITEE</string>
+			<string>EUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vue en tranches</string>
+			<string>Appât</string>
+			<string>SCAN</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Vue en tranches</string>
+			<string>Clopes</string>
+			<string>SCAN</string>
+			<string>SECHES</string>
+		</array>
+		<array>
+			<string>Vue en tranches</string>
+			<string>Moins serré</string>
+			<string>SCAN</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string>Vue en tranches</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>SCAN</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Guide visuel</string>
+			<string>Q</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Virus de 2003</string>
+			<string>Peuvent se ruminer</string>
+			<string>SRAS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Virus de 2003</string>
+			<string>Conviendras</string>
+			<string>SRAS</string>
+			<string>IRAS</string>
+		</array>
+		<array>
+			<string>Virus de 2003</string>
+			<string>Fortifie</string>
+			<string>SRAS</string>
+			<string>ETAIE</string>
+		</array>
+		<array>
+			<string>Virus de 2003</string>
+			<string>Ouïe</string>
+			<string>SRAS</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avertissement au roi</string>
+			<string></string>
+			<string>ECHEC</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Avertissement au roi</string>
+			<string>Appât</string>
+			<string>ECHEC</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Avertissement au roi</string>
+			<string>Clopes</string>
+			<string>ECHEC</string>
+			<string>SECHES</string>
+		</array>
+		<array>
+			<string>Avertissement au roi</string>
+			<string>Moins serré</string>
+			<string>ECHEC</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string>Avertissement au roi</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>ECHEC</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Souvent hors de portée</string>
+			<string>Guide visuel</string>
+			<string>UT</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Souvent hors de portée</string>
+			<string>Compagne du canapé</string>
+			<string>UT</string>
+			<string>TV</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Naturel et détendu</string>
+			<string>Conviendras</string>
+			<string>AISE</string>
+			<string>IRAS</string>
+		</array>
+		<array>
+			<string>Naturel et détendu</string>
+			<string>Fortifie</string>
+			<string>AISE</string>
+			<string>ETAIE</string>
+		</array>
+		<array>
+			<string>Naturel et détendu</string>
+			<string>Ouïe</string>
+			<string>AISE</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string>Naturel et détendu</string>
+			<string></string>
+			<string>AISE</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pauvre homme</string>
+			<string>Appât</string>
+			<string>HERE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Pauvre homme</string>
+			<string>Clopes</string>
+			<string>HERE</string>
+			<string>SECHES</string>
+		</array>
+		<array>
+			<string>Pauvre homme</string>
+			<string>Moins serré</string>
+			<string>HERE</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string>Pauvre homme</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>HERE</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Telle une escopette</string>
+			<string>Guide visuel</string>
+			<string>EVASEE</string>
+			<string>SIGNALETIQUE</string>
+		</array>
+		<array>
+			<string>Telle une escopette</string>
+			<string>Compagne du canapé</string>
+			<string>EVASEE</string>
+			<string>TV</string>
+		</array>
+		<array>
+			<string>Telle une escopette</string>
+			<string></string>
+			<string>EVASEE</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Telle une escopette</string>
+			<string>Conviendras</string>
+			<string>EVASEE</string>
+			<string>IRAS</string>
+		</array>
+		<array>
+			<string>Telle une escopette</string>
+			<string>Fortifie</string>
+			<string>EVASEE</string>
+			<string>ETAIE</string>
+		</array>
+		<array>
+			<string>Telle une escopette</string>
+			<string>Ouïe</string>
+			<string>EVASEE</string>
+			<string>ESSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jaugée</string>
+			<string></string>
+			<string>PESEE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Jaugée</string>
+			<string>Appât</string>
+			<string>PESEE</string>
+			<string>ESCHE</string>
+		</array>
+		<array>
+			<string>Jaugée</string>
+			<string>Clopes</string>
+			<string>PESEE</string>
+			<string>SECHES</string>
+		</array>
+		<array>
+			<string>Jaugée</string>
+			<string>Moins serré</string>
+			<string>PESEE</string>
+			<string>AERE</string>
+		</array>
+		<array>
+			<string>Jaugée</string>
+			<string>Rendue fertile à nouveau</string>
+			<string>PESEE</string>
+			<string>REENSEMENCEE</string>
+		</array>
+	</array>
+</array>
+</plist>

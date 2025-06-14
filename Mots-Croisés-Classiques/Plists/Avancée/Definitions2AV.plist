@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Essentielle</string>
+			<string>CLAPOTEMENTS</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Site désigné</string>
+			<string>CLAPOTEMENTS</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Feuille de cuisson</string>
+			<string>CLAPOTEMENTS</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string></string>
+			<string>CLAPOTEMENTS</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Prendra</string>
+			<string>CLAPOTEMENTS</string>
+			<string>OTERA</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Règle</string>
+			<string>CLAPOTEMENTS</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Libéré</string>
+			<string>CLAPOTEMENTS</string>
+			<string>ELARGI</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string></string>
+			<string>CLAPOTEMENTS</string>
+			<string>M</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Défie la brosse</string>
+			<string>CLAPOTEMENTS</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Remarquai</string>
+			<string>CLAPOTEMENTS</string>
+			<string>NOTAI</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Chaise de toile</string>
+			<string>CLAPOTEMENTS</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string>Agitations marines</string>
+			<string>Soufflé</string>
+			<string>CLAPOTEMENTS</string>
+			<string>SCIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Vieille parole picarde</string>
+			<string>Essentielle</string>
+			<string>OIL</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Vieille parole picarde</string>
+			<string>Site désigné</string>
+			<string>OIL</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string>Vieille parole picarde</string>
+			<string>Feuille de cuisson</string>
+			<string>OIL</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>De cette sorte</string>
+			<string>Prendra</string>
+			<string>TEL</string>
+			<string>OTERA</string>
+		</array>
+		<array>
+			<string>De cette sorte</string>
+			<string>Règle</string>
+			<string>TEL</string>
+			<string>TE</string>
+		</array>
+		<array>
+			<string>De cette sorte</string>
+			<string>Libéré</string>
+			<string>TEL</string>
+			<string>ELARGI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mammifère à groin</string>
+			<string>Défie la brosse</string>
+			<string>PORC</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Mammifère à groin</string>
+			<string>Remarquai</string>
+			<string>PORC</string>
+			<string>NOTAI</string>
+		</array>
+		<array>
+			<string>Mammifère à groin</string>
+			<string>Chaise de toile</string>
+			<string>PORC</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string>Mammifère à groin</string>
+			<string>Soufflé</string>
+			<string>PORC</string>
+			<string>SCIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sans passé</string>
+			<string>Essentielle</string>
+			<string>NEUVE</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Sans passé</string>
+			<string>Site désigné</string>
+			<string>NEUVE</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string>Sans passé</string>
+			<string>Feuille de cuisson</string>
+			<string>NEUVE</string>
+			<string>ALU</string>
+		</array>
+		<array>
+			<string>Sans passé</string>
+			<string>Employé du roi</string>
+			<string>NEUVE</string>
+			<string>VALET</string>
+		</array>
+		<array>
+			<string>Sans passé</string>
+			<string>Prendra</string>
+			<string>NEUVE</string>
+			<string>OTERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Perturbai</string>
+			<string>Libéré</string>
+			<string>AGITAI</string>
+			<string>ELARGI</string>
+		</array>
+		<array>
+			<string>Perturbai</string>
+			<string>Fait naître</string>
+			<string>AGITAI</string>
+			<string>GENERE</string>
+		</array>
+		<array>
+			<string>Perturbai</string>
+			<string>Défie la brosse</string>
+			<string>AGITAI</string>
+			<string>EPI</string>
+		</array>
+		<array>
+			<string>Perturbai</string>
+			<string>Remarquai</string>
+			<string>AGITAI</string>
+			<string>NOTAI</string>
+		</array>
+		<array>
+			<string>Perturbai</string>
+			<string>Chaise de toile</string>
+			<string>AGITAI</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string>Perturbai</string>
+			<string>Soufflé</string>
+			<string>AGITAI</string>
+			<string>SCIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Intégré</string>
+			<string>Essentielle</string>
+			<string>SU</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Intégré</string>
+			<string>Site désigné</string>
+			<string>SU</string>
+			<string>LIEU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donneur d’ombre</string>
+			<string>Employé du roi</string>
+			<string>ARBRE</string>
+			<string>VALET</string>
+		</array>
+		<array>
+			<string>Donneur d’ombre</string>
+			<string>Prendra</string>
+			<string>ARBRE</string>
+			<string>OTERA</string>
+		</array>
+		<array>
+			<string>Donneur d’ombre</string>
+			<string>Cache peu</string>
+			<string>ARBRE</string>
+			<string>BIKINI</string>
+		</array>
+		<array>
+			<string>Donneur d’ombre</string>
+			<string>Libéré</string>
+			<string>ARBRE</string>
+			<string>ELARGI</string>
+		</array>
+		<array>
+			<string>Donneur d’ombre</string>
+			<string>Fait naître</string>
+			<string>ARBRE</string>
+			<string>GENERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il porte le bât</string>
+			<string>Remarquai</string>
+			<string>ANE</string>
+			<string>NOTAI</string>
+		</array>
+		<array>
+			<string>Il porte le bât</string>
+			<string>Chaise de toile</string>
+			<string>ANE</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string>Il porte le bât</string>
+			<string>Soufflé</string>
+			<string>ANE</string>
+			<string>SCIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Essentielle</string>
+			<string>T</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>En gâche</string>
+			<string>PLAIGNAIS</string>
+			<string>PENE</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Employé du roi</string>
+			<string>PLAIGNAIS</string>
+			<string>VALET</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Prendra</string>
+			<string>PLAIGNAIS</string>
+			<string>OTERA</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Cache peu</string>
+			<string>PLAIGNAIS</string>
+			<string>BIKINI</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Libéré</string>
+			<string>PLAIGNAIS</string>
+			<string>ELARGI</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Fait naître</string>
+			<string>PLAIGNAIS</string>
+			<string>GENERE</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Au parfum</string>
+			<string>PLAIGNAIS</string>
+			<string>AVERTI</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Remarquai</string>
+			<string>PLAIGNAIS</string>
+			<string>NOTAI</string>
+		</array>
+		<array>
+			<string>Gémissais</string>
+			<string>Chaise de toile</string>
+			<string>PLAIGNAIS</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle germe</string>
+			<string>Essentielle</string>
+			<string>IDEE</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Elle germe</string>
+			<string>Reprendre la mer</string>
+			<string>IDEE</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string>Elle germe</string>
+			<string>En gâche</string>
+			<string>IDEE</string>
+			<string>PENE</string>
+		</array>
+		<array>
+			<string>Elle germe</string>
+			<string>Employé du roi</string>
+			<string>IDEE</string>
+			<string>VALET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ancienne capitale de la Rus’</string>
+			<string>Cache peu</string>
+			<string>KIEV</string>
+			<string>BIKINI</string>
+		</array>
+		<array>
+			<string>Ancienne capitale de la Rus’</string>
+			<string>Libéré</string>
+			<string>KIEV</string>
+			<string>ELARGI</string>
+		</array>
+		<array>
+			<string>Ancienne capitale de la Rus’</string>
+			<string>Fait naître</string>
+			<string>KIEV</string>
+			<string>GENERE</string>
+		</array>
+		<array>
+			<string>Ancienne capitale de la Rus’</string>
+			<string>Au parfum</string>
+			<string>KIEV</string>
+			<string>AVERTI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Chaise de toile</string>
+			<string>AH</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string>Exclamation</string>
+			<string>Terre rare</string>
+			<string>AH</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Eus le culot</string>
+			<string>Essentielle</string>
+			<string>TENTAI</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Eus le culot</string>
+			<string>Reprendre la mer</string>
+			<string>TENTAI</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string>Eus le culot</string>
+			<string>En gâche</string>
+			<string>TENTAI</string>
+			<string>PENE</string>
+		</array>
+		<array>
+			<string>Eus le culot</string>
+			<string>Employé du roi</string>
+			<string>TENTAI</string>
+			<string>VALET</string>
+		</array>
+		<array>
+			<string>Eus le culot</string>
+			<string>Parfumé comme un gigot</string>
+			<string>TENTAI</string>
+			<string>AILLE</string>
+		</array>
+		<array>
+			<string>Eus le culot</string>
+			<string>Cache peu</string>
+			<string>TENTAI</string>
+			<string>BIKINI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Avers d’un feuillet</string>
+			<string>Fait naître</string>
+			<string>RECTO</string>
+			<string>GENERE</string>
+		</array>
+		<array>
+			<string>Avers d’un feuillet</string>
+			<string>Au parfum</string>
+			<string>RECTO</string>
+			<string>AVERTI</string>
+		</array>
+		<array>
+			<string>Avers d’un feuillet</string>
+			<string>Comprendre le problème</string>
+			<string>RECTO</string>
+			<string>CERNER</string>
+		</array>
+		<array>
+			<string>Avers d’un feuillet</string>
+			<string>Chaise de toile</string>
+			<string>RECTO</string>
+			<string>TRANSAT</string>
+		</array>
+		<array>
+			<string>Avers d’un feuillet</string>
+			<string>Terre rare</string>
+			<string>RECTO</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Animal éteint</string>
+			<string>Essentielle</string>
+			<string>URE</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Animal éteint</string>
+			<string>Reprendre la mer</string>
+			<string>URE</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string>Animal éteint</string>
+			<string>En gâche</string>
+			<string>URE</string>
+			<string>PENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Placé parmi d’autres</string>
+			<string>Parfumé comme un gigot</string>
+			<string>INSERE</string>
+			<string>AILLE</string>
+		</array>
+		<array>
+			<string>Placé parmi d’autres</string>
+			<string>Cache peu</string>
+			<string>INSERE</string>
+			<string>BIKINI</string>
+		</array>
+		<array>
+			<string>Placé parmi d’autres</string>
+			<string>Poisson</string>
+			<string>INSERE</string>
+			<string>SCARE</string>
+		</array>
+		<array>
+			<string>Placé parmi d’autres</string>
+			<string>Fait naître</string>
+			<string>INSERE</string>
+			<string>GENERE</string>
+		</array>
+		<array>
+			<string>Placé parmi d’autres</string>
+			<string>Au parfum</string>
+			<string>INSERE</string>
+			<string>AVERTI</string>
+		</array>
+		<array>
+			<string>Placé parmi d’autres</string>
+			<string>Comprendre le problème</string>
+			<string>INSERE</string>
+			<string>CERNER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Terre rare</string>
+			<string>L</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tantale</string>
+			<string>Essentielle</string>
+			<string>TA</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Tantale</string>
+			<string>Reprendre la mer</string>
+			<string>TA</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Suiveur d’indice</string>
+			<string>Font les importants</string>
+			<string>FLIC</string>
+			<string>FATS</string>
+		</array>
+		<array>
+			<string>Suiveur d’indice</string>
+			<string>Parfumé comme un gigot</string>
+			<string>FLIC</string>
+			<string>AILLE</string>
+		</array>
+		<array>
+			<string>Suiveur d’indice</string>
+			<string>Cache peu</string>
+			<string>FLIC</string>
+			<string>BIKINI</string>
+		</array>
+		<array>
+			<string>Suiveur d’indice</string>
+			<string>Poisson</string>
+			<string>FLIC</string>
+			<string>SCARE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne quitte jamais ses lignes</string>
+			<string>Au parfum</string>
+			<string>TRAM</string>
+			<string>AVERTI</string>
+		</array>
+		<array>
+			<string>Ne quitte jamais ses lignes</string>
+			<string>Comprendre le problème</string>
+			<string>TRAM</string>
+			<string>CERNER</string>
+		</array>
+		<array>
+			<string>Ne quitte jamais ses lignes</string>
+			<string>Énergie en réserve</string>
+			<string>TRAM</string>
+			<string>ACCU</string>
+		</array>
+		<array>
+			<string>Ne quitte jamais ses lignes</string>
+			<string>Terre rare</string>
+			<string>TRAM</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Chimère admirable</string>
+			<string>Essentielle</string>
+			<string>IDEAL</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Chimère admirable</string>
+			<string>Reprendre la mer</string>
+			<string>IDEAL</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string>Chimère admirable</string>
+			<string>Âge</string>
+			<string>IDEAL</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Chimère admirable</string>
+			<string>Font les importants</string>
+			<string>IDEAL</string>
+			<string>FATS</string>
+		</array>
+		<array>
+			<string>Chimère admirable</string>
+			<string>Parfumé comme un gigot</string>
+			<string>IDEAL</string>
+			<string>AILLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Affiné</string>
+			<string>Poisson</string>
+			<string>AMINCI</string>
+			<string>SCARE</string>
+		</array>
+		<array>
+			<string>Affiné</string>
+			<string>Gus</string>
+			<string>AMINCI</string>
+			<string>MEC</string>
+		</array>
+		<array>
+			<string>Affiné</string>
+			<string>Au parfum</string>
+			<string>AMINCI</string>
+			<string>AVERTI</string>
+		</array>
+		<array>
+			<string>Affiné</string>
+			<string>Comprendre le problème</string>
+			<string>AMINCI</string>
+			<string>CERNER</string>
+		</array>
+		<array>
+			<string>Affiné</string>
+			<string>Énergie en réserve</string>
+			<string>AMINCI</string>
+			<string>ACCU</string>
+		</array>
+		<array>
+			<string>Affiné</string>
+			<string>Terre rare</string>
+			<string>AMINCI</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Essentielle</string>
+			<string>VERTEBRE</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Reprendre la mer</string>
+			<string>VERTEBRE</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Âge</string>
+			<string>VERTEBRE</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Font les importants</string>
+			<string>VERTEBRE</string>
+			<string>FATS</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Parfumé comme un gigot</string>
+			<string>VERTEBRE</string>
+			<string>AILLE</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Truc à bulles</string>
+			<string>VERTEBRE</string>
+			<string>BD</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Poisson</string>
+			<string>VERTEBRE</string>
+			<string>SCARE</string>
+		</array>
+		<array>
+			<string>Elle a du nerf</string>
+			<string>Gus</string>
+			<string>VERTEBRE</string>
+			<string>MEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bouclier</string>
+			<string>Comprendre le problème</string>
+			<string>ECU</string>
+			<string>CERNER</string>
+		</array>
+		<array>
+			<string>Bouclier</string>
+			<string>Énergie en réserve</string>
+			<string>ECU</string>
+			<string>ACCU</string>
+		</array>
+		<array>
+			<string>Bouclier</string>
+			<string>Terre rare</string>
+			<string>ECU</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Temps révolus</string>
+			<string>Essentielle</string>
+			<string>ERES</string>
+			<string>CONSTITUTIVE</string>
+		</array>
+		<array>
+			<string>Temps révolus</string>
+			<string>Reprendre la mer</string>
+			<string>ERES</string>
+			<string>DERADER</string>
+		</array>
+		<array>
+			<string>Temps révolus</string>
+			<string>Âge</string>
+			<string>ERES</string>
+			<string>ERE</string>
+		</array>
+		<array>
+			<string>Temps révolus</string>
+			<string>Font les importants</string>
+			<string>ERES</string>
+			<string>FATS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string>Truc à bulles</string>
+			<string>DECORUM</string>
+			<string>BD</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string>Poisson</string>
+			<string>DECORUM</string>
+			<string>SCARE</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string>Gus</string>
+			<string>DECORUM</string>
+			<string>MEC</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string></string>
+			<string>DECORUM</string>
+			<string>O</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string>Comprendre le problème</string>
+			<string>DECORUM</string>
+			<string>CERNER</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string>Énergie en réserve</string>
+			<string>DECORUM</string>
+			<string>ACCU</string>
+		</array>
+		<array>
+			<string>Protocole</string>
+			<string>Terre rare</string>
+			<string>DECORUM</string>
+			<string>HOLMIUM</string>
+		</array>
+	</array>
+</array>
+</plist>

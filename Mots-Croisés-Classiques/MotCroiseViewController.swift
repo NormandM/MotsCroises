@@ -171,7 +171,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
             let lineMaxY = self.keyBoardCGRecPlaceHolder.minY
             let sectionHeightMiddle = lineMaxY + (self.view.frame.maxY - lineMaxY)/2  -  self.validerButton.frame.height/2
             let iconeMinY = sectionHeightMiddle - self.collectionView.frame.maxY
-            self.iconeStackViewConstraint.constant = iconeMinY * 0.5 + 10
+            self.iconeStackViewConstraint.constant = iconeMinY * 0.3 + 10
         }else{
             yPosition = self.collectionView.frame.maxY
             heightBackground = self.keyBoardCGRec.minY - yPosition
@@ -182,7 +182,7 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
             let lineMaxY = self.keyBoardCGRec.minY
             let sectionHeightMiddle = lineMaxY + (self.view.frame.maxY - lineMaxY)/2  -  self.validerButton.frame.height/2
             let iconeMinY = sectionHeightMiddle - self.collectionView.frame.maxY
-            self.iconeStackViewConstraint.constant = iconeMinY * 0.5 + 30
+            self.iconeStackViewConstraint.constant = iconeMinY * 0.3 + 30
         }
         defintionStackView.frame = CGRect(x: 0, y: yPosition + gap, width: defintionStackView.frame.size.width, height: defintionStackView.frame.size.height)
         moveRightButton.isEnabled = true
@@ -538,6 +538,8 @@ class MotCroiseViewController: UIViewController, UICollectionViewDataSource, UIC
     }
     func showAlerteGrilleReussie () {
         UserDefaults.standard.set(seconds, forKey: grilleSelected)
+        // Post notification so previous view can update (reload table)
+        NotificationCenter.default.post(name: NSNotification.Name("GrilleTermineeNotification"), object: nil)
         let tempsPourReussir = UserDefaults.standard.integer(forKey: grilleSelected)
         let alert = UIAlertController(title: "Félicitations!", message: texteAlerteTerminé(), preferredStyle: UIAlertController.Style.alert)
         let okAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)

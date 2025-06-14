@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Formule magique</string>
+			<string>Thérapies piquantes</string>
+			<string>ABRACADABRA</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Début de brouillard</string>
+			<string>ABRACADABRA</string>
+			<string>BR</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Monnaie</string>
+			<string>ABRACADABRA</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Baies</string>
+			<string>ABRACADABRA</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Touffes</string>
+			<string>ABRACADABRA</string>
+			<string>CEPEES</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Clay</string>
+			<string>ABRACADABRA</string>
+			<string>ALI</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Stricts</string>
+			<string>ABRACADABRA</string>
+			<string>DURS</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Oiseau grimpeur</string>
+			<string>ABRACADABRA</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Caisse</string>
+			<string>ABRACADABRA</string>
+			<string>BENNE</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string></string>
+			<string>ABRACADABRA</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Formule magique</string>
+			<string>Maître dans son domaine</string>
+			<string>ABRACADABRA</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Thérapies piquantes</string>
+			<string>CRENELURE</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Début de brouillard</string>
+			<string>CRENELURE</string>
+			<string>BR</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Monnaie</string>
+			<string>CRENELURE</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Baies</string>
+			<string>CRENELURE</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Touffes</string>
+			<string>CRENELURE</string>
+			<string>CEPEES</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Clay</string>
+			<string>CRENELURE</string>
+			<string>ALI</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Stricts</string>
+			<string>CRENELURE</string>
+			<string>DURS</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Oiseau grimpeur</string>
+			<string>CRENELURE</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>Décor médiéval</string>
+			<string>Caisse</string>
+			<string>CRENELURE</string>
+			<string>BENNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bienheureux</string>
+			<string>Maître dans son domaine</string>
+			<string>ST</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Bienheureux</string>
+			<string>Dans la marge</string>
+			<string>ST</string>
+			<string>TB</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Thérapies piquantes</string>
+			<string>U</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Monnaie</string>
+			<string>ASPIRANT</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Baies</string>
+			<string>ASPIRANT</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Touffes</string>
+			<string>ASPIRANT</string>
+			<string>CEPEES</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Clay</string>
+			<string>ASPIRANT</string>
+			<string>ALI</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Stricts</string>
+			<string>ASPIRANT</string>
+			<string>DURS</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Oiseau grimpeur</string>
+			<string>ASPIRANT</string>
+			<string>ARA</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Caisse</string>
+			<string>ASPIRANT</string>
+			<string>BENNE</string>
+		</array>
+		<array>
+			<string>En quête de succès</string>
+			<string>Fané</string>
+			<string>ASPIRANT</string>
+			<string>TERNI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Dans la marge</string>
+			<string>B</string>
+			<string>TB</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rangée de pieux</string>
+			<string>Thérapies piquantes</string>
+			<string>PALEE</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Rangée de pieux</string>
+			<string>Cône nippon</string>
+			<string>PALEE</string>
+			<string>ASO</string>
+		</array>
+		<array>
+			<string>Rangée de pieux</string>
+			<string>Monnaie</string>
+			<string>PALEE</string>
+			<string>REAL</string>
+		</array>
+		<array>
+			<string>Rangée de pieux</string>
+			<string>Baies</string>
+			<string>PALEE</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>Rangée de pieux</string>
+			<string>Touffes</string>
+			<string>PALEE</string>
+			<string>CEPEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Stricts</string>
+			<string>S</string>
+			<string>DURS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A peine arrivée</string>
+			<string>Caisse</string>
+			<string>NEE</string>
+			<string>BENNE</string>
+		</array>
+		<array>
+			<string>A peine arrivée</string>
+			<string>Fané</string>
+			<string>NEE</string>
+			<string>TERNI</string>
+		</array>
+		<array>
+			<string>A peine arrivée</string>
+			<string>On y prépare de grands commis</string>
+			<string>NEE</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Coutume</string>
+			<string>Thérapies piquantes</string>
+			<string>US</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Coutume</string>
+			<string>Cône nippon</string>
+			<string>US</string>
+			<string>ASO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sans la moindre goutte</string>
+			<string>Baies</string>
+			<string>SEC</string>
+			<string>ANSES</string>
+		</array>
+		<array>
+			<string>Sans la moindre goutte</string>
+			<string>Touffes</string>
+			<string>SEC</string>
+			<string>CEPEES</string>
+		</array>
+		<array>
+			<string>Sans la moindre goutte</string>
+			<string>Redouté par le fantassin</string>
+			<string>SEC</string>
+			<string>COR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Blafard</string>
+			<string>Choses en vrac</string>
+			<string>TERNE</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string>Blafard</string>
+			<string>Caisse</string>
+			<string>TERNE</string>
+			<string>BENNE</string>
+		</array>
+		<array>
+			<string>Blafard</string>
+			<string>Fané</string>
+			<string>TERNE</string>
+			<string>TERNI</string>
+		</array>
+		<array>
+			<string>Blafard</string>
+			<string>On y prépare de grands commis</string>
+			<string>TERNE</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string>Blafard</string>
+			<string>Impression</string>
+			<string>TERNE</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas pour les autres</string>
+			<string>Thérapies piquantes</string>
+			<string>NOS</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Pas pour les autres</string>
+			<string>Cône nippon</string>
+			<string>NOS</string>
+			<string>ASO</string>
+		</array>
+		<array>
+			<string>Pas pour les autres</string>
+			<string>Argile</string>
+			<string>NOS</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cola, par exemple</string>
+			<string>Touffes</string>
+			<string>SODA</string>
+			<string>CEPEES</string>
+		</array>
+		<array>
+			<string>Cola, par exemple</string>
+			<string>Redouté par le fantassin</string>
+			<string>SODA</string>
+			<string>COR</string>
+		</array>
+		<array>
+			<string>Cola, par exemple</string>
+			<string>Moitié de Don</string>
+			<string>SODA</string>
+			<string>DONA</string>
+		</array>
+		<array>
+			<string>Cola, par exemple</string>
+			<string>Choses en vrac</string>
+			<string>SODA</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Au piano ou au cinéma</string>
+			<string>Fané</string>
+			<string>NAT</string>
+			<string>TERNI</string>
+		</array>
+		<array>
+			<string>Au piano ou au cinéma</string>
+			<string>On y prépare de grands commis</string>
+			<string>NAT</string>
+			<string>ENA</string>
+		</array>
+		<array>
+			<string>Au piano ou au cinéma</string>
+			<string>Impression</string>
+			<string>NAT</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Thérapies piquantes</string>
+			<string>C</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dernier cri</string>
+			<string>Argile</string>
+			<string>IN</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Dernier cri</string>
+			<string>Sans tache</string>
+			<string>IN</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chanteur d'origine Corse</string>
+			<string>Redouté par le fantassin</string>
+			<string>ROSSI</string>
+			<string>COR</string>
+		</array>
+		<array>
+			<string>Chanteur d'origine Corse</string>
+			<string>Moitié de Don</string>
+			<string>ROSSI</string>
+			<string>DONA</string>
+		</array>
+		<array>
+			<string>Chanteur d'origine Corse</string>
+			<string>Choses en vrac</string>
+			<string>ROSSI</string>
+			<string>TAS</string>
+		</array>
+		<array>
+			<string>Chanteur d'origine Corse</string>
+			<string>Regarde de haut</string>
+			<string>ROSSI</string>
+			<string>SNOBE</string>
+		</array>
+		<array>
+			<string>Chanteur d'origine Corse</string>
+			<string>Fané</string>
+			<string>ROSSI</string>
+			<string>TERNI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Impression</string>
+			<string>A</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pivot pour rame</string>
+			<string>Thérapies piquantes</string>
+			<string>TOLET</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Pivot pour rame</string>
+			<string>Comme nous souvent</string>
+			<string>TOLET</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Pivot pour rame</string>
+			<string>Argile</string>
+			<string>TOLET</string>
+			<string>SIL</string>
+		</array>
+		<array>
+			<string>Pivot pour rame</string>
+			<string>Sans tache</string>
+			<string>TOLET</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string>Pivot pour rame</string>
+			<string>Technétium</string>
+			<string>TOLET</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Moitié de Don</string>
+			<string>N</string>
+			<string>DONA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Regarde de haut</string>
+			<string>N</string>
+			<string>SNOBE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Partie de la journée</string>
+			<string></string>
+			<string>PM</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Partie de la journée</string>
+			<string>Impression</string>
+			<string>PM</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il fait l'article</string>
+			<string>Thérapies piquantes</string>
+			<string>UN</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Il fait l'article</string>
+			<string>Comme nous souvent</string>
+			<string>UN</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Sans tache</string>
+			<string>TCHADOR</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Technétium</string>
+			<string>TCHADOR</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Pour stimuler</string>
+			<string>TCHADOR</string>
+			<string>HOP</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Moitié de Don</string>
+			<string>TCHADOR</string>
+			<string>DONA</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Pour un oui</string>
+			<string>TCHADOR</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Regarde de haut</string>
+			<string>TCHADOR</string>
+			<string>SNOBE</string>
+		</array>
+		<array>
+			<string>Toilette iranienne</string>
+			<string>Malin</string>
+			<string>TCHADOR</string>
+			<string>RUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Impression</string>
+			<string>P</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Thérapies piquantes</string>
+			<string>R</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Structure interne</string>
+			<string>Dépassé</string>
+			<string>OS</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Structure interne</string>
+			<string>Sans tache</string>
+			<string>OS</string>
+			<string>NETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Pour stimuler</string>
+			<string>O</string>
+			<string>HOP</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>En fit trop</string>
+			<string>Pour un oui</string>
+			<string>ABUSA</string>
+			<string>DA</string>
+		</array>
+		<array>
+			<string>En fit trop</string>
+			<string>Regarde de haut</string>
+			<string>ABUSA</string>
+			<string>SNOBE</string>
+		</array>
+		<array>
+			<string>En fit trop</string>
+			<string>Malin</string>
+			<string>ABUSA</string>
+			<string>RUSE</string>
+		</array>
+		<array>
+			<string>En fit trop</string>
+			<string></string>
+			<string>ABUSA</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>En fit trop</string>
+			<string>Impression</string>
+			<string>ABUSA</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Blason ou trésor.</string>
+			<string>Thérapies piquantes</string>
+			<string>ECU</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Blason ou trésor.</string>
+			<string>Préfixe du partage</string>
+			<string>ECU</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Blason ou trésor.</string>
+			<string>Dépassé</string>
+			<string>ECU</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A le vent en poupe</string>
+			<string>En bas à droite sur la boussole</string>
+			<string>SPI</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>A le vent en poupe</string>
+			<string>Pour stimuler</string>
+			<string>SPI</string>
+			<string>HOP</string>
+		</array>
+		<array>
+			<string>A le vent en poupe</string>
+			<string>Infinitif</string>
+			<string>SPI</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Te trouves</string>
+			<string>Regarde de haut</string>
+			<string>ES</string>
+			<string>SNOBE</string>
+		</array>
+		<array>
+			<string>Te trouves</string>
+			<string>Malin</string>
+			<string>ES</string>
+			<string>RUSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Impression</string>
+			<string>G</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Farce médiévale</string>
+			<string>Thérapies piquantes</string>
+			<string>SOTIE</string>
+			<string>ACUPUNCTURES</string>
+		</array>
+		<array>
+			<string>Farce médiévale</string>
+			<string>Préfixe du partage</string>
+			<string>SOTIE</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Farce médiévale</string>
+			<string>Dépassé</string>
+			<string>SOTIE</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Farce médiévale</string>
+			<string></string>
+			<string>SOTIE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Farce médiévale</string>
+			<string>En bas à droite sur la boussole</string>
+			<string>SOTIE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chemin officiel numéroté</string>
+			<string>Infinitif</string>
+			<string>RN</string>
+			<string>IR</string>
+		</array>
+		<array>
+			<string>Chemin officiel numéroté</string>
+			<string></string>
+			<string>RN</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Le temps des glaces</string>
+			<string>Malin</string>
+			<string>ETE</string>
+			<string>RUSE</string>
+		</array>
+		<array>
+			<string>Le temps des glaces</string>
+			<string></string>
+			<string>ETE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Le temps des glaces</string>
+			<string>Impression</string>
+			<string>ETE</string>
+			<string>ETAMPAGE</string>
+		</array>
+	</array>
+</array>
+</plist>

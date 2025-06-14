@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Qui console</string>
+			<string>RATIONALISME</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Cousin du sorbier</string>
+			<string>RATIONALISME</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Pas italien</string>
+			<string>RATIONALISME</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Boîte à images</string>
+			<string>RATIONALISME</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Charpente interne</string>
+			<string>RATIONALISME</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string></string>
+			<string>RATIONALISME</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Postures</string>
+			<string>RATIONALISME</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Article</string>
+			<string>RATIONALISME</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Points ternes</string>
+			<string>RATIONALISME</string>
+			<string>IRISES</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>On en met pour réussir</string>
+			<string>RATIONALISME</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Domaine du loup</string>
+			<string>RATIONALISME</string>
+			<string>MER</string>
+		</array>
+		<array>
+			<string>La foi des cartésiens</string>
+			<string>Membres d’une secte juive</string>
+			<string>RATIONALISME</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Coups de cœur</string>
+			<string>Qui console</string>
+			<string>ELANS</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Coups de cœur</string>
+			<string>Cousin du sorbier</string>
+			<string>ELANS</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>Coups de cœur</string>
+			<string>Pas italien</string>
+			<string>ELANS</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Coups de cœur</string>
+			<string>Boîte à images</string>
+			<string>ELANS</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string>Coups de cœur</string>
+			<string>Charpente interne</string>
+			<string>ELANS</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se succèdent à la chaîne</string>
+			<string>Postures</string>
+			<string>SERIES</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Se succèdent à la chaîne</string>
+			<string>Article</string>
+			<string>SERIES</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>Se succèdent à la chaîne</string>
+			<string>Points ternes</string>
+			<string>SERIES</string>
+			<string>IRISES</string>
+		</array>
+		<array>
+			<string>Se succèdent à la chaîne</string>
+			<string>On en met pour réussir</string>
+			<string>SERIES</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string>Se succèdent à la chaîne</string>
+			<string>Domaine du loup</string>
+			<string>SERIES</string>
+			<string>MER</string>
+		</array>
+		<array>
+			<string>Se succèdent à la chaîne</string>
+			<string>Membres d’une secte juive</string>
+			<string>SERIES</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fit briller</string>
+			<string>Qui console</string>
+			<string>CIRA</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Fit briller</string>
+			<string>Cousin du sorbier</string>
+			<string>CIRA</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>Fit briller</string>
+			<string>Pas italien</string>
+			<string>CIRA</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Fit briller</string>
+			<string>Boîte à images</string>
+			<string>CIRA</string>
+			<string>INA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>Implique un partage</string>
+			<string>CASIERS</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>Postures</string>
+			<string>CASIERS</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>Article</string>
+			<string>CASIERS</string>
+			<string>LES</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>Points ternes</string>
+			<string>CASIERS</string>
+			<string>IRISES</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>On en met pour réussir</string>
+			<string>CASIERS</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>Domaine du loup</string>
+			<string>CASIERS</string>
+			<string>MER</string>
+		</array>
+		<array>
+			<string>Ils peuvent être scolaires ou judiciaires</string>
+			<string>Membres d’une secte juive</string>
+			<string>CASIERS</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Brave l’interdit</string>
+			<string>Qui console</string>
+			<string>OSE</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Brave l’interdit</string>
+			<string>Cousin du sorbier</string>
+			<string>OSE</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>Brave l’interdit</string>
+			<string>Pas italien</string>
+			<string>OSE</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pas mauvais</string>
+			<string>Appareil sous pression</string>
+			<string>BON</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Pas mauvais</string>
+			<string>Implique un partage</string>
+			<string>BON</string>
+			<string>CO</string>
+		</array>
+		<array>
+			<string>Pas mauvais</string>
+			<string>Postures</string>
+			<string>BON</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Symbole chimique</string>
+			<string>Points ternes</string>
+			<string>SN</string>
+			<string>IRISES</string>
+		</array>
+		<array>
+			<string>Symbole chimique</string>
+			<string>On en met pour réussir</string>
+			<string>SN</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Membres d’une secte juive</string>
+			<string>E</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Assassin discret</string>
+			<string>Qui console</string>
+			<string>NINJA</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Assassin discret</string>
+			<string>Cousin du sorbier</string>
+			<string>NINJA</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>Assassin discret</string>
+			<string>Pas italien</string>
+			<string>NINJA</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Assassin discret</string>
+			<string>Sujet</string>
+			<string>NINJA</string>
+			<string>JE</string>
+		</array>
+		<array>
+			<string>Assassin discret</string>
+			<string>Appareil sous pression</string>
+			<string>NINJA</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Accélère la réaction</string>
+			<string>Postures</string>
+			<string>ASE</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string>Accélère la réaction</string>
+			<string></string>
+			<string>ASE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Accélère la réaction</string>
+			<string>Points ternes</string>
+			<string>ASE</string>
+			<string>IRISES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom discret</string>
+			<string>Dorures</string>
+			<string>ON</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string>Pronom discret</string>
+			<string>Membres d’une secte juive</string>
+			<string>ON</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Qui console</string>
+			<string>FETERAS</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Cousin du sorbier</string>
+			<string>FETERAS</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Pas italien</string>
+			<string>FETERAS</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Sujet</string>
+			<string>FETERAS</string>
+			<string>JE</string>
+		</array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Appareil sous pression</string>
+			<string>FETERAS</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Évoque le braiment</string>
+			<string>FETERAS</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string>Honoreras la date</string>
+			<string>Postures</string>
+			<string>FETERAS</string>
+			<string>ASANAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Moitié de l’Inde</string>
+			<string>Points ternes</string>
+			<string>SARI</string>
+			<string>IRISES</string>
+		</array>
+		<array>
+			<string>Moitié de l’Inde</string>
+			<string>Coup</string>
+			<string>SARI</string>
+			<string>ATEMI</string>
+		</array>
+		<array>
+			<string>Moitié de l’Inde</string>
+			<string>Dorures</string>
+			<string>SARI</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string>Moitié de l’Inde</string>
+			<string>Membres d’une secte juive</string>
+			<string>SARI</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Liquide de Danois</string>
+			<string>Qui console</string>
+			<string>ORE</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Liquide de Danois</string>
+			<string>Cousin du sorbier</string>
+			<string>ORE</string>
+			<string>ALISIER</string>
+		</array>
+		<array>
+			<string>Liquide de Danois</string>
+			<string>Pas italien</string>
+			<string>ORE</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Charpente interne</string>
+			<string>Appareil sous pression</string>
+			<string>OS</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Charpente interne</string>
+			<string>Évoque le braiment</string>
+			<string>OS</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Actinium</string>
+			<string>A</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Demi-mouche</string>
+			<string>Coup</string>
+			<string>TSE</string>
+			<string>ATEMI</string>
+		</array>
+		<array>
+			<string>Demi-mouche</string>
+			<string>Dorures</string>
+			<string>TSE</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string>Demi-mouche</string>
+			<string>Membres d’une secte juive</string>
+			<string>TSE</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Qui console</string>
+			<string>R</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Pas italien</string>
+			<string>LAMIACEE</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Au coin du feu</string>
+			<string>LAMIACEE</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Appareil sous pression</string>
+			<string>LAMIACEE</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Évoque le braiment</string>
+			<string>LAMIACEE</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Astate</string>
+			<string>LAMIACEE</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Actinium</string>
+			<string>LAMIACEE</string>
+			<string>AC</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Perdues à terme</string>
+			<string>LAMIACEE</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string>Famille du thym</string>
+			<string>Coup</string>
+			<string>LAMIACEE</string>
+			<string>ATEMI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Membres d’une secte juive</string>
+			<string>N</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Qui console</string>
+			<string>TILTENT</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Plantes</string>
+			<string>TILTENT</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Pas italien</string>
+			<string>TILTENT</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Au coin du feu</string>
+			<string>TILTENT</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Appareil sous pression</string>
+			<string>TILTENT</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Évoque le braiment</string>
+			<string>TILTENT</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string>Comprennent d’un coup</string>
+			<string>Astate</string>
+			<string>TILTENT</string>
+			<string>AT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Habitants</string>
+			<string>Perdues à terme</string>
+			<string>AMES</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string>Habitants</string>
+			<string>Coup</string>
+			<string>AMES</string>
+			<string>ATEMI</string>
+		</array>
+		<array>
+			<string>Habitants</string>
+			<string>Belle villa</string>
+			<string>AMES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Habitants</string>
+			<string>Membres d’une secte juive</string>
+			<string>AMES</string>
+			<string>ESSENIENS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Expérimenté</string>
+			<string>Qui console</string>
+			<string>AVERTI</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Expérimenté</string>
+			<string>Plantes</string>
+			<string>AVERTI</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string>Expérimenté</string>
+			<string>Pas italien</string>
+			<string>AVERTI</string>
+			<string>TARENTELLE</string>
+		</array>
+		<array>
+			<string>Expérimenté</string>
+			<string>Au coin du feu</string>
+			<string>AVERTI</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string>Expérimenté</string>
+			<string>Appareil sous pression</string>
+			<string>AVERTI</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Expérimenté</string>
+			<string>Évoque le braiment</string>
+			<string>AVERTI</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grille</string>
+			<string></string>
+			<string>CUIS</string>
+			<string>C</string>
+		</array>
+		<array>
+			<string>Grille</string>
+			<string>Perdues à terme</string>
+			<string>CUIS</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string>Grille</string>
+			<string>Coup</string>
+			<string>CUIS</string>
+			<string>ATEMI</string>
+		</array>
+		<array>
+			<string>Grille</string>
+			<string>Belle villa</string>
+			<string>CUIS</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Arrivé</string>
+			<string>Qui console</string>
+			<string>NE</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Arrivé</string>
+			<string>Plantes</string>
+			<string>NE</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tranches d’histoire</string>
+			<string>Au coin du feu</string>
+			<string>ERES</string>
+			<string>ATRE</string>
+		</array>
+		<array>
+			<string>Tranches d’histoire</string>
+			<string>Appareil sous pression</string>
+			<string>ERES</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Tranches d’histoire</string>
+			<string>Évoque le braiment</string>
+			<string>ERES</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string>Tranches d’histoire</string>
+			<string>Chef des Soviets</string>
+			<string>ERES</string>
+			<string>SO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Perdues à terme</string>
+			<string>X</string>
+			<string>EAUX</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Règle</string>
+			<string>Belle villa</string>
+			<string>TE</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Règle</string>
+			<string>Annonce un titre</string>
+			<string>TE</string>
+			<string>ES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ville de Honshū</string>
+			<string>Qui console</string>
+			<string>TSU</string>
+			<string>RECONFORTANT</string>
+		</array>
+		<array>
+			<string>Ville de Honshū</string>
+			<string>Plantes</string>
+			<string>TSU</string>
+			<string>IVES</string>
+		</array>
+		<array>
+			<string>Ville de Honshū</string>
+			<string></string>
+			<string>TSU</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Alcool au labo</string>
+			<string>Appareil sous pression</string>
+			<string>ENOL</string>
+			<string>BAROMETRE</string>
+		</array>
+		<array>
+			<string>Alcool au labo</string>
+			<string>Évoque le braiment</string>
+			<string>ENOL</string>
+			<string>ASINIEN</string>
+		</array>
+		<array>
+			<string>Alcool au labo</string>
+			<string>Chef des Soviets</string>
+			<string>ENOL</string>
+			<string>SO</string>
+		</array>
+		<array>
+			<string>Alcool au labo</string>
+			<string></string>
+			<string>ENOL</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sont à lui</string>
+			<string></string>
+			<string>SES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Sont à lui</string>
+			<string>Belle villa</string>
+			<string>SES</string>
+			<string>ESTE</string>
+		</array>
+		<array>
+			<string>Sont à lui</string>
+			<string>Annonce un titre</string>
+			<string>SES</string>
+			<string>ES</string>
+		</array>
+	</array>
+</array>
+</plist>

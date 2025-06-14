@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Parc à baveux</string>
+			<string>EMPORTEPIECE</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Est prudent</string>
+			<string>EMPORTEPIECE</string>
+			<string>MEFIE</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Cœur de hippie</string>
+			<string>EMPORTEPIECE</string>
+			<string>PP</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Birdie</string>
+			<string>EMPORTEPIECE</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Rôdeur</string>
+			<string>EMPORTEPIECE</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string></string>
+			<string>EMPORTEPIECE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Inflorescences</string>
+			<string>EMPORTEPIECE</string>
+			<string>EPIS</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Jugements sans preuve</string>
+			<string>EMPORTEPIECE</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Introduit une explication</string>
+			<string>EMPORTEPIECE</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Sortie du brouillard</string>
+			<string>EMPORTEPIECE</string>
+			<string>EVEIL</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Pratique et aisé</string>
+			<string>EMPORTEPIECE</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string>Sans nuance</string>
+			<string>Cycles annuels</string>
+			<string>EMPORTEPIECE</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Encre</string>
+			<string>Parc à baveux</string>
+			<string>SEPIA</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Encre</string>
+			<string>Est prudent</string>
+			<string>SEPIA</string>
+			<string>MEFIE</string>
+		</array>
+		<array>
+			<string>Encre</string>
+			<string>Cœur de hippie</string>
+			<string>SEPIA</string>
+			<string>PP</string>
+		</array>
+		<array>
+			<string>Encre</string>
+			<string>Birdie</string>
+			<string>SEPIA</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string>Encre</string>
+			<string>Rôdeur</string>
+			<string>SEPIA</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Agent du roi</string>
+			<string>Inflorescences</string>
+			<string>PREVOT</string>
+			<string>EPIS</string>
+		</array>
+		<array>
+			<string>Agent du roi</string>
+			<string>Jugements sans preuve</string>
+			<string>PREVOT</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Agent du roi</string>
+			<string>Introduit une explication</string>
+			<string>PREVOT</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Agent du roi</string>
+			<string>Sortie du brouillard</string>
+			<string>PREVOT</string>
+			<string>EVEIL</string>
+		</array>
+		<array>
+			<string>Agent du roi</string>
+			<string>Pratique et aisé</string>
+			<string>PREVOT</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string>Agent du roi</string>
+			<string>Cycles annuels</string>
+			<string>PREVOT</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Invite à lire ailleurs</string>
+			<string>Parc à baveux</string>
+			<string>CF</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Invite à lire ailleurs</string>
+			<string>Est prudent</string>
+			<string>CF</string>
+			<string>MEFIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Zébré</string>
+			<string>Birdie</string>
+			<string>STRIE</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string>Zébré</string>
+			<string>Rôdeur</string>
+			<string>STRIE</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Zébré</string>
+			<string>Pièges</string>
+			<string>STRIE</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string>Zébré</string>
+			<string>Inflorescences</string>
+			<string>STRIE</string>
+			<string>EPIS</string>
+		</array>
+		<array>
+			<string>Zébré</string>
+			<string>Jugements sans preuve</string>
+			<string>STRIE</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fin de troisième</string>
+			<string>Sortie du brouillard</string>
+			<string>EME</string>
+			<string>EVEIL</string>
+		</array>
+		<array>
+			<string>Fin de troisième</string>
+			<string>Pratique et aisé</string>
+			<string>EME</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string>Fin de troisième</string>
+			<string>Cycles annuels</string>
+			<string>EME</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Abri au sommet</string>
+			<string>Parc à baveux</string>
+			<string>AIRE</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Abri au sommet</string>
+			<string>Est prudent</string>
+			<string>AIRE</string>
+			<string>MEFIE</string>
+		</array>
+		<array>
+			<string>Abri au sommet</string>
+			<string>Regrette</string>
+			<string>AIRE</string>
+			<string>REPENT</string>
+		</array>
+		<array>
+			<string>Abri au sommet</string>
+			<string>Birdie</string>
+			<string>AIRE</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Pièges</string>
+			<string>ESSAIMS</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Inflorescences</string>
+			<string>ESSAIMS</string>
+			<string>EPIS</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Jugements sans preuve</string>
+			<string>ESSAIMS</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Se posa</string>
+			<string>ESSAIMS</string>
+			<string>ASSIT</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Sortie du brouillard</string>
+			<string>ESSAIMS</string>
+			<string>EVEIL</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Pratique et aisé</string>
+			<string>ESSAIMS</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string>Concentrations d’ouvrières</string>
+			<string>Cycles annuels</string>
+			<string>ESSAIMS</string>
+			<string>ETES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Redonne le siège</string>
+			<string>Parc à baveux</string>
+			<string>REELIT</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Redonne le siège</string>
+			<string>Est prudent</string>
+			<string>REELIT</string>
+			<string>MEFIE</string>
+		</array>
+		<array>
+			<string>Redonne le siège</string>
+			<string>Regrette</string>
+			<string>REELIT</string>
+			<string>REPENT</string>
+		</array>
+		<array>
+			<string>Redonne le siège</string>
+			<string>Birdie</string>
+			<string>REELIT</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string>Redonne le siège</string>
+			<string>Intégrée</string>
+			<string>REELIT</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string>Redonne le siège</string>
+			<string>Pièges</string>
+			<string>REELIT</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ville scandinave</string>
+			<string>Jugements sans preuve</string>
+			<string>OSLO</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Ville scandinave</string>
+			<string>Se posa</string>
+			<string>OSLO</string>
+			<string>ASSIT</string>
+		</array>
+		<array>
+			<string>Ville scandinave</string>
+			<string>Sortie du brouillard</string>
+			<string>OSLO</string>
+			<string>EVEIL</string>
+		</array>
+		<array>
+			<string>Ville scandinave</string>
+			<string>Pratique et aisé</string>
+			<string>OSLO</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Parc à baveux</string>
+			<string>G</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Regrette</string>
+			<string>PENSUMS</string>
+			<string>REPENT</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Birdie</string>
+			<string>PENSUMS</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Intégrée</string>
+			<string>PENSUMS</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Pièges</string>
+			<string>PENSUMS</string>
+			<string>RETS</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Tradition</string>
+			<string>PENSUMS</string>
+			<string>USAGE</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Jugements sans preuve</string>
+			<string>PENSUMS</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Punitions scolaires</string>
+			<string>Se posa</string>
+			<string>PENSUMS</string>
+			<string>ASSIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un Romain y voit 550</string>
+			<string>Pratique et aisé</string>
+			<string>DL</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string>Un Romain y voit 550</string>
+			<string>Plombera</string>
+			<string>DL</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Oublies</string>
+			<string>Parc à baveux</string>
+			<string>OMETS</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Oublies</string>
+			<string>Gravir</string>
+			<string>OMETS</string>
+			<string>MONTER</string>
+		</array>
+		<array>
+			<string>Oublies</string>
+			<string>Regrette</string>
+			<string>OMETS</string>
+			<string>REPENT</string>
+		</array>
+		<array>
+			<string>Oublies</string>
+			<string>Birdie</string>
+			<string>OMETS</string>
+			<string>OISELET</string>
+		</array>
+		<array>
+			<string>Oublies</string>
+			<string>Intégrée</string>
+			<string>OMETS</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fait la haie</string>
+			<string>Tradition</string>
+			<string>SPIREE</string>
+			<string>USAGE</string>
+		</array>
+		<array>
+			<string>Fait la haie</string>
+			<string>Jugements sans preuve</string>
+			<string>SPIREE</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Fait la haie</string>
+			<string>Se posa</string>
+			<string>SPIREE</string>
+			<string>ASSIT</string>
+		</array>
+		<array>
+			<string>Fait la haie</string>
+			<string>Fis demi-tour</string>
+			<string>SPIREE</string>
+			<string>REVINS</string>
+		</array>
+		<array>
+			<string>Fait la haie</string>
+			<string>Pratique et aisé</string>
+			<string>SPIREE</string>
+			<string>COMMODE</string>
+		</array>
+		<array>
+			<string>Fait la haie</string>
+			<string>Plombera</string>
+			<string>SPIREE</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Timbre</string>
+			<string>Parc à baveux</string>
+			<string>TON</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Timbre</string>
+			<string>Gravir</string>
+			<string>TON</string>
+			<string>MONTER</string>
+		</array>
+		<array>
+			<string>Timbre</string>
+			<string>Regrette</string>
+			<string>TON</string>
+			<string>REPENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>S’amuse</string>
+			<string>Intégrée</string>
+			<string>EBATTE</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string>S’amuse</string>
+			<string>Préparer l’âne au labeur</string>
+			<string>EBATTE</string>
+			<string>BATER</string>
+		</array>
+		<array>
+			<string>S’amuse</string>
+			<string>Tradition</string>
+			<string>EBATTE</string>
+			<string>USAGE</string>
+		</array>
+		<array>
+			<string>S’amuse</string>
+			<string>Jugements sans preuve</string>
+			<string>EBATTE</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>S’amuse</string>
+			<string>Se posa</string>
+			<string>EBATTE</string>
+			<string>ASSIT</string>
+		</array>
+		<array>
+			<string>S’amuse</string>
+			<string>Fis demi-tour</string>
+			<string>EBATTE</string>
+			<string>REVINS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Plombera</string>
+			<string>S</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>A échangé</string>
+			<string>Parc à baveux</string>
+			<string>INTERAGI</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Gravir</string>
+			<string>INTERAGI</string>
+			<string>MONTER</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Regrette</string>
+			<string>INTERAGI</string>
+			<string>REPENT</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Touchée</string>
+			<string>INTERAGI</string>
+			<string>EMUE</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Intégrée</string>
+			<string>INTERAGI</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Préparer l’âne au labeur</string>
+			<string>INTERAGI</string>
+			<string>BATER</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Tradition</string>
+			<string>INTERAGI</string>
+			<string>USAGE</string>
+		</array>
+		<array>
+			<string>A échangé</string>
+			<string>Jugements sans preuve</string>
+			<string>INTERAGI</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Examine un canin</string>
+			<string>Fis demi-tour</string>
+			<string>VET</string>
+			<string>REVINS</string>
+		</array>
+		<array>
+			<string>Examine un canin</string>
+			<string>Bilan</string>
+			<string>VET</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string>Examine un canin</string>
+			<string>Plombera</string>
+			<string>VET</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Parc à baveux</string>
+			<string>ET</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>Gravir</string>
+			<string>ET</string>
+			<string>MONTER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Touchée</string>
+			<string>METEORITE</string>
+			<string>EMUE</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Intégrée</string>
+			<string>METEORITE</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Préparer l’âne au labeur</string>
+			<string>METEORITE</string>
+			<string>BATER</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Tradition</string>
+			<string>METEORITE</string>
+			<string>USAGE</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Jugements sans preuve</string>
+			<string>METEORITE</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Trait du soleil</string>
+			<string>METEORITE</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Fis demi-tour</string>
+			<string>METEORITE</string>
+			<string>REVINS</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Bilan</string>
+			<string>METEORITE</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string>Astre égaré</string>
+			<string>Plombera</string>
+			<string>METEORITE</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Émue</string>
+			<string>Parc à baveux</string>
+			<string>REMUEE</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Émue</string>
+			<string>Gravir</string>
+			<string>REMUEE</string>
+			<string>MONTER</string>
+		</array>
+		<array>
+			<string>Émue</string>
+			<string>Milliseconde</string>
+			<string>REMUEE</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Émue</string>
+			<string>Touchée</string>
+			<string>REMUEE</string>
+			<string>EMUE</string>
+		</array>
+		<array>
+			<string>Émue</string>
+			<string>Intégrée</string>
+			<string>REMUEE</string>
+			<string>INSEREE</string>
+		</array>
+		<array>
+			<string>Émue</string>
+			<string>Préparer l’âne au labeur</string>
+			<string>REMUEE</string>
+			<string>BATER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Navet</string>
+			<string>Jugements sans preuve</string>
+			<string>NANAR</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Navet</string>
+			<string>Trait du soleil</string>
+			<string>NANAR</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Navet</string>
+			<string>Fis demi-tour</string>
+			<string>NANAR</string>
+			<string>REVINS</string>
+		</array>
+		<array>
+			<string>Navet</string>
+			<string>Bilan</string>
+			<string>NANAR</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string>Navet</string>
+			<string>Plombera</string>
+			<string>NANAR</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Langue d’Écosse</string>
+			<string>Parc à baveux</string>
+			<string>ERSE</string>
+			<string>ESCARGOTIERE</string>
+		</array>
+		<array>
+			<string>Langue d’Écosse</string>
+			<string>Gravir</string>
+			<string>ERSE</string>
+			<string>MONTER</string>
+		</array>
+		<array>
+			<string>Langue d’Écosse</string>
+			<string>Milliseconde</string>
+			<string>ERSE</string>
+			<string>MS</string>
+		</array>
+		<array>
+			<string>Langue d’Écosse</string>
+			<string>Touchée</string>
+			<string>ERSE</string>
+			<string>EMUE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string>Préparer l’âne au labeur</string>
+			<string>RESISTA</string>
+			<string>BATER</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string></string>
+			<string>RESISTA</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string>Jugements sans preuve</string>
+			<string>RESISTA</string>
+			<string>PRESOMPTIONS</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string>Trait du soleil</string>
+			<string>RESISTA</string>
+			<string>RAI</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string>Fis demi-tour</string>
+			<string>RESISTA</string>
+			<string>REVINS</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string>Bilan</string>
+			<string>RESISTA</string>
+			<string>ETAT</string>
+		</array>
+		<array>
+			<string>Tint bon</string>
+			<string>Plombera</string>
+			<string>RESISTA</string>
+			<string>LESTERA</string>
+		</array>
+	</array>
+</array>
+</plist>

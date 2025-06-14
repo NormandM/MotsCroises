@@ -55,7 +55,7 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
     func fetchAvailableProducts()  {
         
         // Put here your IAP Products ID's
-        let productIdentifiers: Set = [IAPProduct.D01.rawValue, IAPProduct.D11.rawValue, IAPProduct.D21.rawValue, IAPProduct.D31.rawValue, IAPProduct.D41.rawValue, IAPProduct.I01.rawValue, IAPProduct.I11.rawValue, IAPProduct.I21.rawValue, IAPProduct.I31.rawValue, IAPProduct.I41.rawValue, IAPProduct.E01.rawValue, IAPProduct.E11.rawValue, IAPProduct.E21.rawValue, IAPProduct.E31.rawValue, IAPProduct.E41.rawValue]
+        let productIdentifiers: Set = [IAPProduct.D01.rawValue, IAPProduct.D11.rawValue, IAPProduct.D21.rawValue, IAPProduct.D31.rawValue, IAPProduct.D41.rawValue, IAPProduct.I01.rawValue, IAPProduct.I11.rawValue, IAPProduct.I21.rawValue, IAPProduct.I31.rawValue, IAPProduct.I41.rawValue, IAPProduct.E01.rawValue, IAPProduct.E11.rawValue, IAPProduct.E21.rawValue, IAPProduct.E31.rawValue, IAPProduct.E41.rawValue, IAPProduct.AV01.rawValue, IAPProduct.AV02.rawValue, IAPProduct.AV03.rawValue, IAPProduct.AV04.rawValue, IAPProduct.AV05.rawValue]
         productsRequest = SKProductsRequest(productIdentifiers: productIdentifiers )
         productsRequest.delegate = self
         productsRequest.start()
@@ -66,7 +66,8 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
         var iapProductsD = [SKProduct]()
         var iapProductsI = [SKProduct]()
         var iapProductsE = [SKProduct]()
-        for n in 0...2{
+        var iapProductsAV = [SKProduct]()
+        for n in 0...3{
             for m in 0...5{
                 let indexPath: IndexPath = [n, m]
                 switch indexPath {
@@ -179,6 +180,45 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
                             iapProductsE.append(product)
                         }
                     }
+                case [3, 0]:
+                    print("array[3,0] was chosem")
+                    for product in iapProducts{
+                        print("product.localizedTitle: \(product.localizedTitle)")
+                        if product.localizedTitle == "Grilles 1 à 10 AV"{
+                            iapProductsAV.append(product)
+                        }
+                    }
+                case [3, 1]:
+                    for product in iapProducts{
+                        if product.localizedTitle == "Grilles 1 à 10 AV"{
+                            iapProductsAV.append(product)
+                        }
+                    }
+                case [3, 2]:
+                    for product in iapProducts{
+                        if product.localizedTitle == "Grilles 11 à 20 AV"{
+                            iapProductsAV.append(product)
+                        }
+                    }
+                case [3, 3]:
+                    for product in iapProducts{
+                        if product.localizedTitle == "Grilles 21 à 30 AV"{
+                            iapProductsAV.append(product)
+                        }
+                    }
+                case [3, 4]:
+                    for product in iapProducts{
+                        if product.localizedTitle == "Grilles 31 à 40 AV"{
+                            iapProductsAV.append(product)
+                        }
+                    }
+                case [3, 5]:
+                    for product in iapProducts{
+                        if product.localizedTitle == "Grilles 41 à 50 AV"{
+                            iapProductsAV.append(product)
+                        }
+                    }
+                    
                 default: print()
                 }
             }
@@ -186,6 +226,7 @@ class LogoViewController: UIViewController, SKProductsRequestDelegate {
         iapProductsArray.append(iapProductsD)
         iapProductsArray.append(iapProductsI)
         iapProductsArray.append(iapProductsE)
+        iapProductsArray.append(iapProductsAV)
     }
 
 }

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Détecte les charges</string>
+			<string>ESSENTIELLES</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string></string>
+			<string>ESSENTIELLES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Fait dans la soie</string>
+			<string>ESSENTIELLES</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Pourris quand il pleut</string>
+			<string>ESSENTIELLES</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Mot capricieux</string>
+			<string>ESSENTIELLES</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Truffe</string>
+			<string>ESSENTIELLES</string>
+			<string>TUBER</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string></string>
+			<string>ESSENTIELLES</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Vol groupé</string>
+			<string>ESSENTIELLES</string>
+			<string>ESSAIM</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Il suinte du latex</string>
+			<string>ESSENTIELLES</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Pas moi, pas toi</string>
+			<string>ESSENTIELLES</string>
+			<string>LUI</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Liquideraient le stock</string>
+			<string>ESSENTIELLES</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Sans elles, rien ne va</string>
+			<string>Filet</string>
+			<string>ESSENTIELLES</string>
+			<string>SENNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Détecte les charges</string>
+			<string>L</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il sert ce qu’il tient</string>
+			<string>Fait dans la soie</string>
+			<string>ETAU</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Il sert ce qu’il tient</string>
+			<string>Pourris quand il pleut</string>
+			<string>ETAU</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>Il sert ce qu’il tient</string>
+			<string>Mot capricieux</string>
+			<string>ETAU</string>
+			<string>NA</string>
+		</array>
+		<array>
+			<string>Il sert ce qu’il tient</string>
+			<string>Truffe</string>
+			<string>ETAU</string>
+			<string>TUBER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle accompagne certains plats</string>
+			<string>Vol groupé</string>
+			<string>SAUCE</string>
+			<string>ESSAIM</string>
+		</array>
+		<array>
+			<string>Elle accompagne certains plats</string>
+			<string>Il suinte du latex</string>
+			<string>SAUCE</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Elle accompagne certains plats</string>
+			<string>Pas moi, pas toi</string>
+			<string>SAUCE</string>
+			<string>LUI</string>
+		</array>
+		<array>
+			<string>Elle accompagne certains plats</string>
+			<string>Liquideraient le stock</string>
+			<string>SAUCE</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Elle accompagne certains plats</string>
+			<string>Filet</string>
+			<string>SAUCE</string>
+			<string>SENNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Objet de dilemme sur scène</string>
+			<string>Détecte les charges</string>
+			<string>ETRE</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Objet de dilemme sur scène</string>
+			<string>Passa au crible</string>
+			<string>ETRE</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Objet de dilemme sur scène</string>
+			<string>Fait dans la soie</string>
+			<string>ETRE</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Objet de dilemme sur scène</string>
+			<string>Pourris quand il pleut</string>
+			<string>ETRE</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Truffe</string>
+			<string>BASTION</string>
+			<string>TUBER</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Liés à la grande circulation</string>
+			<string>BASTION</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Vol groupé</string>
+			<string>BASTION</string>
+			<string>ESSAIM</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Il suinte du latex</string>
+			<string>BASTION</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Pas moi, pas toi</string>
+			<string>BASTION</string>
+			<string>LUI</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Liquideraient le stock</string>
+			<string>BASTION</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Rempart</string>
+			<string>Filet</string>
+			<string>BASTION</string>
+			<string>SENNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Détecte les charges</string>
+			<string>CRISPERAI</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Passa au crible</string>
+			<string>CRISPERAI</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Fait dans la soie</string>
+			<string>CRISPERAI</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Pourris quand il pleut</string>
+			<string>CRISPERAI</string>
+			<string>ETES</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Ne s’arrêta pas</string>
+			<string>CRISPERAI</string>
+			<string>PASSA</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Truffe</string>
+			<string>CRISPERAI</string>
+			<string>TUBER</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Liés à la grande circulation</string>
+			<string>CRISPERAI</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Vol groupé</string>
+			<string>CRISPERAI</string>
+			<string>ESSAIM</string>
+		</array>
+		<array>
+			<string>Tendrai les nerfs</string>
+			<string>Il suinte du latex</string>
+			<string>CRISPERAI</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Singulier</string>
+			<string>Liquideraient le stock</string>
+			<string>UN</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Singulier</string>
+			<string>Filet</string>
+			<string>UN</string>
+			<string>SENNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Involontaire mais fidèle</string>
+			<string>Détecte les charges</string>
+			<string>TIC</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Involontaire mais fidèle</string>
+			<string>Passa au crible</string>
+			<string>TIC</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Involontaire mais fidèle</string>
+			<string>Fait dans la soie</string>
+			<string>TIC</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Ne s’arrêta pas</string>
+			<string>ARTICULE</string>
+			<string>PASSA</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Truffe</string>
+			<string>ARTICULE</string>
+			<string>TUBER</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Liés à la grande circulation</string>
+			<string>ARTICULE</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Vol groupé</string>
+			<string>ARTICULE</string>
+			<string>ESSAIM</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Il suinte du latex</string>
+			<string>ARTICULE</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Nation au burger roi</string>
+			<string>ARTICULE</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Liquideraient le stock</string>
+			<string>ARTICULE</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Parle clairement</string>
+			<string>Filet</string>
+			<string>ARTICULE</string>
+			<string>SENNE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Opérations rapides</string>
+			<string>Détecte les charges</string>
+			<string>RAIDS</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Opérations rapides</string>
+			<string>Passa au crible</string>
+			<string>RAIDS</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Opérations rapides</string>
+			<string>Fait dans la soie</string>
+			<string>RAIDS</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Opérations rapides</string>
+			<string>Fait oublier la tension</string>
+			<string>RAIDS</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string>Opérations rapides</string>
+			<string>Ne s’arrêta pas</string>
+			<string>RAIDS</string>
+			<string>PASSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sortie des presses</string>
+			<string>Liés à la grande circulation</string>
+			<string>EMISE</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Sortie des presses</string>
+			<string>Vol groupé</string>
+			<string>EMISE</string>
+			<string>ESSAIM</string>
+		</array>
+		<array>
+			<string>Sortie des presses</string>
+			<string>Il suinte du latex</string>
+			<string>EMISE</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Sortie des presses</string>
+			<string>Nation au burger roi</string>
+			<string>EMISE</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Sortie des presses</string>
+			<string>Liquideraient le stock</string>
+			<string>EMISE</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Détecte les charges</string>
+			<string>O</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sculpture convoitée</string>
+			<string>Fait dans la soie</string>
+			<string>CESAR</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Sculpture convoitée</string>
+			<string>Fait oublier la tension</string>
+			<string>CESAR</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string>Sculpture convoitée</string>
+			<string>Ne s’arrêta pas</string>
+			<string>CESAR</string>
+			<string>PASSA</string>
+		</array>
+		<array>
+			<string>Sculpture convoitée</string>
+			<string>Jonction du cheval</string>
+			<string>CESAR</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Sculpture convoitée</string>
+			<string>Liés à la grande circulation</string>
+			<string>CESAR</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sous la semelle en hiver</string>
+			<string>Il suinte du latex</string>
+			<string>FART</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Sous la semelle en hiver</string>
+			<string>Nation au burger roi</string>
+			<string>FART</string>
+			<string>USA</string>
+		</array>
+		<array>
+			<string>Sous la semelle en hiver</string>
+			<string>Liquideraient le stock</string>
+			<string>FART</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Sous la semelle en hiver</string>
+			<string>Tramée</string>
+			<string>FART</string>
+			<string>TISSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Détecte les charges</string>
+			<string>SCOLARITE</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Ils peuvent être fixes ou variables</string>
+			<string>SCOLARITE</string>
+			<string>COUTS</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Fait dans la soie</string>
+			<string>SCOLARITE</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Fait oublier la tension</string>
+			<string>SCOLARITE</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Ne s’arrêta pas</string>
+			<string>SCOLARITE</string>
+			<string>PASSA</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Jonction du cheval</string>
+			<string>SCOLARITE</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Liés à la grande circulation</string>
+			<string>SCOLARITE</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Filtrés</string>
+			<string>SCOLARITE</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Cycle d’études</string>
+			<string>Il suinte du latex</string>
+			<string>SCOLARITE</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Paresseux</string>
+			<string>Liquideraient le stock</string>
+			<string>AI</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Paresseux</string>
+			<string>Tramée</string>
+			<string>AI</string>
+			<string>TISSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Détecte les charges</string>
+			<string>COLA</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Ils peuvent être fixes ou variables</string>
+			<string>COLA</string>
+			<string>COUTS</string>
+		</array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Fait dans la soie</string>
+			<string>COLA</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Arbre africain</string>
+			<string>Fait oublier la tension</string>
+			<string>COLA</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Jonction du cheval</string>
+			<string>SERRAIS</string>
+			<string>ARS</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Liés à la grande circulation</string>
+			<string>SERRAIS</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Filtrés</string>
+			<string>SERRAIS</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Il suinte du latex</string>
+			<string>SERRAIS</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Cordage</string>
+			<string>SERRAIS</string>
+			<string>AGUI</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Liquideraient le stock</string>
+			<string>SERRAIS</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Laisserais peu de jeu</string>
+			<string>Tramée</string>
+			<string>SERRAIS</string>
+			<string>TISSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Frontière de l’aventure américaine</string>
+			<string>Détecte les charges</string>
+			<string>OUEST</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Frontière de l’aventure américaine</string>
+			<string>Ils peuvent être fixes ou variables</string>
+			<string>OUEST</string>
+			<string>COUTS</string>
+		</array>
+		<array>
+			<string>Frontière de l’aventure américaine</string>
+			<string>Fait dans la soie</string>
+			<string>OUEST</string>
+			<string>SERICICOLE</string>
+		</array>
+		<array>
+			<string>Frontière de l’aventure américaine</string>
+			<string>Fait oublier la tension</string>
+			<string>OUEST</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string>Frontière de l’aventure américaine</string>
+			<string>Répétition triple</string>
+			<string>OUEST</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Font des bouchons</string>
+			<string>Liés à la grande circulation</string>
+			<string>LIEGES</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Font des bouchons</string>
+			<string>Filtrés</string>
+			<string>LIEGES</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Font des bouchons</string>
+			<string>Il suinte du latex</string>
+			<string>LIEGES</string>
+			<string>LATICIFERE</string>
+		</array>
+		<array>
+			<string>Font des bouchons</string>
+			<string>Cordage</string>
+			<string>LIEGES</string>
+			<string>AGUI</string>
+		</array>
+		<array>
+			<string>Font des bouchons</string>
+			<string>Liquideraient le stock</string>
+			<string>LIEGES</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Font des bouchons</string>
+			<string>Tramée</string>
+			<string>LIEGES</string>
+			<string>TISSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Les extrémités du pont</string>
+			<string>Détecte les charges</string>
+			<string>PT</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Les extrémités du pont</string>
+			<string>Ils peuvent être fixes ou variables</string>
+			<string>PT</string>
+			<string>COUTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Éclairé</string>
+			<string>Fait oublier la tension</string>
+			<string>SENSE</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string>Éclairé</string>
+			<string>Répétition triple</string>
+			<string>SENSE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Éclairé</string>
+			<string>Partenaire du pas</string>
+			<string>SENSE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string>Éclairé</string>
+			<string>Liés à la grande circulation</string>
+			<string>SENSE</string>
+			<string>ARTERIELS</string>
+		</array>
+		<array>
+			<string>Éclairé</string>
+			<string>Filtrés</string>
+			<string>SENSE</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle ouvre le journal</string>
+			<string>Cordage</string>
+			<string>UNE</string>
+			<string>AGUI</string>
+		</array>
+		<array>
+			<string>Elle ouvre le journal</string>
+			<string>Liquideraient le stock</string>
+			<string>UNE</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Elle ouvre le journal</string>
+			<string>Tramée</string>
+			<string>UNE</string>
+			<string>TISSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Attend avec foi</string>
+			<string>Détecte les charges</string>
+			<string>ESPERE</string>
+			<string>ELECTROSCOPE</string>
+		</array>
+		<array>
+			<string>Attend avec foi</string>
+			<string>Ils peuvent être fixes ou variables</string>
+			<string>ESPERE</string>
+			<string>COUTS</string>
+		</array>
+		<array>
+			<string>Attend avec foi</string>
+			<string></string>
+			<string>ESPERE</string>
+			<string>P</string>
+		</array>
+		<array>
+			<string>Attend avec foi</string>
+			<string>Fait oublier la tension</string>
+			<string>ESPERE</string>
+			<string>DELASSE</string>
+		</array>
+		<array>
+			<string>Attend avec foi</string>
+			<string>Répétition triple</string>
+			<string>ESPERE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Attend avec foi</string>
+			<string>Partenaire du pas</string>
+			<string>ESPERE</string>
+			<string>NE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ne vient jamais seule</string>
+			<string>Filtrés</string>
+			<string>SUITE</string>
+			<string>TRIES</string>
+		</array>
+		<array>
+			<string>Ne vient jamais seule</string>
+			<string></string>
+			<string>SUITE</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Ne vient jamais seule</string>
+			<string>Cordage</string>
+			<string>SUITE</string>
+			<string>AGUI</string>
+		</array>
+		<array>
+			<string>Ne vient jamais seule</string>
+			<string>Liquideraient le stock</string>
+			<string>SUITE</string>
+			<string>ECOULERAIENT</string>
+		</array>
+		<array>
+			<string>Ne vient jamais seule</string>
+			<string>Tramée</string>
+			<string>SUITE</string>
+			<string>TISSEE</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Champignon</string>
+			<string>PEINTURLURER</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Ébrécher</string>
+			<string>PEINTURLURER</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Vierges à la mer</string>
+			<string>PEINTURLURER</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Drame masqué et codifié</string>
+			<string>PEINTURLURER</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Champion de ski</string>
+			<string>PEINTURLURER</string>
+			<string>TOMBA</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string></string>
+			<string>PEINTURLURER</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Limiterai</string>
+			<string>PEINTURLURER</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Code du pays du cèdre</string>
+			<string>PEINTURLURER</string>
+			<string>LB</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Objet utile au chef</string>
+			<string>PEINTURLURER</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Se gaussera</string>
+			<string>PEINTURLURER</string>
+			<string>RIRA</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Privées de leur mordant</string>
+			<string>PEINTURLURER</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Barbouiller</string>
+			<string>Partie non divisible</string>
+			<string>PEINTURLURER</string>
+			<string>RESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>La maison blanche</string>
+			<string>Champignon</string>
+			<string>IGLOO</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>La maison blanche</string>
+			<string>Ébrécher</string>
+			<string>IGLOO</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>La maison blanche</string>
+			<string>Vierges à la mer</string>
+			<string>IGLOO</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>La maison blanche</string>
+			<string>Drame masqué et codifié</string>
+			<string>IGLOO</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string>La maison blanche</string>
+			<string>Champion de ski</string>
+			<string>IGLOO</string>
+			<string>TOMBA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Voûte d’église</string>
+			<string>Limiterai</string>
+			<string>ABSIDE</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Voûte d’église</string>
+			<string>Code du pays du cèdre</string>
+			<string>ABSIDE</string>
+			<string>LB</string>
+		</array>
+		<array>
+			<string>Voûte d’église</string>
+			<string>Objet utile au chef</string>
+			<string>ABSIDE</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Voûte d’église</string>
+			<string>Se gaussera</string>
+			<string>ABSIDE</string>
+			<string>RIRA</string>
+		</array>
+		<array>
+			<string>Voûte d’église</string>
+			<string>Privées de leur mordant</string>
+			<string>ABSIDE</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Voûte d’église</string>
+			<string>Partie non divisible</string>
+			<string>ABSIDE</string>
+			<string>RESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Décrochée</string>
+			<string>Champignon</string>
+			<string>EUE</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Décrochée</string>
+			<string>Ébrécher</string>
+			<string>EUE</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>Décrochée</string>
+			<string>Vierges à la mer</string>
+			<string>EUE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fin de partie</string>
+			<string>Champion de ski</string>
+			<string>MAT</string>
+			<string>TOMBA</string>
+		</array>
+		<array>
+			<string>Fin de partie</string>
+			<string>Me rendis</string>
+			<string>MAT</string>
+			<string>ALLAI</string>
+		</array>
+		<array>
+			<string>Fin de partie</string>
+			<string>Limiterai</string>
+			<string>MAT</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Follement</string>
+			<string>Objet utile au chef</string>
+			<string>TRES</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Follement</string>
+			<string>Se gaussera</string>
+			<string>TRES</string>
+			<string>RIRA</string>
+		</array>
+		<array>
+			<string>Follement</string>
+			<string>Privées de leur mordant</string>
+			<string>TRES</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Follement</string>
+			<string>Partie non divisible</string>
+			<string>TRES</string>
+			<string>RESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Blessant</string>
+			<string>Champignon</string>
+			<string>DESOBLIGEANT</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Ébrécher</string>
+			<string>DESOBLIGEANT</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Vierges à la mer</string>
+			<string>DESOBLIGEANT</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Hardi</string>
+			<string>DESOBLIGEANT</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Champion de ski</string>
+			<string>DESOBLIGEANT</string>
+			<string>TOMBA</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Me rendis</string>
+			<string>DESOBLIGEANT</string>
+			<string>ALLAI</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Limiterai</string>
+			<string>DESOBLIGEANT</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Désigne un Gentil</string>
+			<string>DESOBLIGEANT</string>
+			<string>GOI</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Objet utile au chef</string>
+			<string>DESOBLIGEANT</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Se gaussera</string>
+			<string>DESOBLIGEANT</string>
+			<string>RIRA</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Privées de leur mordant</string>
+			<string>DESOBLIGEANT</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Blessant</string>
+			<string>Partie non divisible</string>
+			<string>DESOBLIGEANT</string>
+			<string>RESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Obligé par le passé</string>
+			<string>Champignon</string>
+			<string>DU</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Obligé par le passé</string>
+			<string>Ébrécher</string>
+			<string>DU</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bar américain</string>
+			<string>Hardi</string>
+			<string>SALOON</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string>Bar américain</string>
+			<string>Champion de ski</string>
+			<string>SALOON</string>
+			<string>TOMBA</string>
+		</array>
+		<array>
+			<string>Bar américain</string>
+			<string>Me rendis</string>
+			<string>SALOON</string>
+			<string>ALLAI</string>
+		</array>
+		<array>
+			<string>Bar américain</string>
+			<string>Limiterai</string>
+			<string>SALOON</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Bar américain</string>
+			<string>Désigne un Gentil</string>
+			<string>SALOON</string>
+			<string>GOI</string>
+		</array>
+		<array>
+			<string>Bar américain</string>
+			<string>Objet utile au chef</string>
+			<string>SALOON</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Règle à suivre</string>
+			<string>Privées de leur mordant</string>
+			<string>TE</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Règle à suivre</string>
+			<string>Partie non divisible</string>
+			<string>TE</string>
+			<string>RESTE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sortie de l’urne</string>
+			<string>Champignon</string>
+			<string>ELUE</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Sortie de l’urne</string>
+			<string>Ébrécher</string>
+			<string>ELUE</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>Sortie de l’urne</string>
+			<string>Imposait sa priorité</string>
+			<string>ELUE</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string>Sortie de l’urne</string>
+			<string>Hardi</string>
+			<string>ELUE</string>
+			<string>OSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Aromatisée</string>
+			<string>Me rendis</string>
+			<string>ANISEE</string>
+			<string>ALLAI</string>
+		</array>
+		<array>
+			<string>Aromatisée</string>
+			<string>Limiterai</string>
+			<string>ANISEE</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Aromatisée</string>
+			<string>Désigne un Gentil</string>
+			<string>ANISEE</string>
+			<string>GOI</string>
+		</array>
+		<array>
+			<string>Aromatisée</string>
+			<string>Objet utile au chef</string>
+			<string>ANISEE</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Aromatisée</string>
+			<string>Opération de verrier</string>
+			<string>ANISEE</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string>Aromatisée</string>
+			<string>Privées de leur mordant</string>
+			<string>ANISEE</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Houleuse par nature</string>
+			<string>Champignon</string>
+			<string>MER</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Houleuse par nature</string>
+			<string>Ébrécher</string>
+			<string>MER</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>Houleuse par nature</string>
+			<string>Imposait sa priorité</string>
+			<string>MER</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prend sa source dans le Jura</string>
+			<string>Avance sans doute</string>
+			<string>AIN</string>
+			<string>ASSURE</string>
+		</array>
+		<array>
+			<string>Prend sa source dans le Jura</string>
+			<string>Me rendis</string>
+			<string>AIN</string>
+			<string>ALLAI</string>
+		</array>
+		<array>
+			<string>Prend sa source dans le Jura</string>
+			<string>Limiterai</string>
+			<string>AIN</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Partie d’examen</string>
+			<string>Objet utile au chef</string>
+			<string>ITEM</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Partie d’examen</string>
+			<string>Opération de verrier</string>
+			<string>ITEM</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string>Partie d’examen</string>
+			<string>Privées de leur mordant</string>
+			<string>ITEM</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Partie d’examen</string>
+			<string>Harpie</string>
+			<string>ITEM</string>
+			<string>MEGERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Céréales</string>
+			<string>Champignon</string>
+			<string>ORGES</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Ébrécher</string>
+			<string>ORGES</string>
+			<string>EGUEULER</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Imposait sa priorité</string>
+			<string>ORGES</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Ça nous dit quand</string>
+			<string>ORGES</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Céréales</string>
+			<string>Avance sans doute</string>
+			<string>ORGES</string>
+			<string>ASSURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Place de ministre</string>
+			<string>Limiterai</string>
+			<string>EGLISE</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Place de ministre</string>
+			<string>Pas sans fard</string>
+			<string>EGLISE</string>
+			<string>GRIME</string>
+		</array>
+		<array>
+			<string>Place de ministre</string>
+			<string>Objet utile au chef</string>
+			<string>EGLISE</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Place de ministre</string>
+			<string>Opération de verrier</string>
+			<string>EGLISE</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string>Place de ministre</string>
+			<string>Privées de leur mordant</string>
+			<string>EGLISE</string>
+			<string>EDENTEES</string>
+		</array>
+		<array>
+			<string>Place de ministre</string>
+			<string>Harpie</string>
+			<string>EGLISE</string>
+			<string>MEGERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Champignon</string>
+			<string>U</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Imposait sa priorité</string>
+			<string>ENSERRER</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Ça nous dit quand</string>
+			<string>ENSERRER</string>
+			<string>EN</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Avance sans doute</string>
+			<string>ENSERRER</string>
+			<string>ASSURE</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Figure dans un titre</string>
+			<string>ENSERRER</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Limiterai</string>
+			<string>ENSERRER</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Pas sans fard</string>
+			<string>ENSERRER</string>
+			<string>GRIME</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Objet utile au chef</string>
+			<string>ENSERRER</string>
+			<string>USTENSILE</string>
+		</array>
+		<array>
+			<string>Coincer</string>
+			<string>Opération de verrier</string>
+			<string>ENSERRER</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Harpie</string>
+			<string>G</string>
+			<string>MEGERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Priva d’anniversaires</string>
+			<string>Champignon</string>
+			<string>TUA</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Priva d’anniversaires</string>
+			<string>Consume</string>
+			<string>TUA</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string>Priva d’anniversaires</string>
+			<string>Imposait sa priorité</string>
+			<string>TUA</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fatiguai</string>
+			<string>Avance sans doute</string>
+			<string>USAI</string>
+			<string>ASSURE</string>
+		</array>
+		<array>
+			<string>Fatiguai</string>
+			<string>Figure dans un titre</string>
+			<string>USAI</string>
+			<string>ES</string>
+		</array>
+		<array>
+			<string>Fatiguai</string>
+			<string>Limiterai</string>
+			<string>USAI</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Fatiguai</string>
+			<string>Pas sans fard</string>
+			<string>USAI</string>
+			<string>GRIME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Blonde qui peut griser</string>
+			<string>Opération de verrier</string>
+			<string>ALE</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string>Blonde qui peut griser</string>
+			<string>Monnaie</string>
+			<string>ALE</string>
+			<string>LEV</string>
+		</array>
+		<array>
+			<string>Blonde qui peut griser</string>
+			<string>Harpie</string>
+			<string>ALE</string>
+			<string>MEGERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Souple, mais structurant</string>
+			<string>Champignon</string>
+			<string>OSIER</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Souple, mais structurant</string>
+			<string>Consume</string>
+			<string>OSIER</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string>Souple, mais structurant</string>
+			<string>Imposait sa priorité</string>
+			<string>OSIER</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string>Souple, mais structurant</string>
+			<string>Il voulait rentrer à la maison</string>
+			<string>OSIER</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Souple, mais structurant</string>
+			<string>Avance sans doute</string>
+			<string>OSIER</string>
+			<string>ASSURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Orner</string>
+			<string>Limiterai</string>
+			<string>IMAGER</string>
+			<string>RATIONNERAI</string>
+		</array>
+		<array>
+			<string>Orner</string>
+			<string>Pas sans fard</string>
+			<string>IMAGER</string>
+			<string>GRIME</string>
+		</array>
+		<array>
+			<string>Orner</string>
+			<string>Voisin du Mississippi</string>
+			<string>IMAGER</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string>Orner</string>
+			<string>Opération de verrier</string>
+			<string>IMAGER</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string>Orner</string>
+			<string>Monnaie</string>
+			<string>IMAGER</string>
+			<string>LEV</string>
+		</array>
+		<array>
+			<string>Orner</string>
+			<string>Harpie</string>
+			<string>IMAGER</string>
+			<string>MEGERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Explicites</string>
+			<string>Champignon</string>
+			<string>NETTES</string>
+			<string>PIEDDEMOUTON</string>
+		</array>
+		<array>
+			<string>Explicites</string>
+			<string>Consume</string>
+			<string>NETTES</string>
+			<string>USE</string>
+		</array>
+		<array>
+			<string>Explicites</string>
+			<string>Imposait sa priorité</string>
+			<string>NETTES</string>
+			<string>URGEAIT</string>
+		</array>
+		<array>
+			<string>Explicites</string>
+			<string>Il voulait rentrer à la maison</string>
+			<string>NETTES</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Explicites</string>
+			<string>Avance sans doute</string>
+			<string>NETTES</string>
+			<string>ASSURE</string>
+		</array>
+		<array>
+			<string>Explicites</string>
+			<string></string>
+			<string>NETTES</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Partage sa maîtresse avec d’autres</string>
+			<string>Pas sans fard</string>
+			<string>ELEVE</string>
+			<string>GRIME</string>
+		</array>
+		<array>
+			<string>Partage sa maîtresse avec d’autres</string>
+			<string>Voisin du Mississippi</string>
+			<string>ELEVE</string>
+			<string>AL</string>
+		</array>
+		<array>
+			<string>Partage sa maîtresse avec d’autres</string>
+			<string>Opération de verrier</string>
+			<string>ELEVE</string>
+			<string>ETIRAGE</string>
+		</array>
+		<array>
+			<string>Partage sa maîtresse avec d’autres</string>
+			<string>Monnaie</string>
+			<string>ELEVE</string>
+			<string>LEV</string>
+		</array>
+		<array>
+			<string>Partage sa maîtresse avec d’autres</string>
+			<string>Harpie</string>
+			<string>ELEVE</string>
+			<string>MEGERE</string>
+		</array>
+	</array>
+</array>
+</plist>

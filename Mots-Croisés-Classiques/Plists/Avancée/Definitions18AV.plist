@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Font grincer des dents</string>
+			<string>DESINTERESSE</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Répugne</string>
+			<string>DESINTERESSE</string>
+			<string>EXECRE</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string></string>
+			<string>DESINTERESSE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Porte-bouteilles</string>
+			<string>DESINTERESSE</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Faux pour se cacher</string>
+			<string>DESINTERESSE</string>
+			<string>NOM</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Ne garda que l’essentiel</string>
+			<string>DESINTERESSE</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Parfois dissipé</string>
+			<string>DESINTERESSE</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Coup sur la peau</string>
+			<string>DESINTERESSE</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Franchira le seuil</string>
+			<string>DESINTERESSE</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Spécialité d’Ella</string>
+			<string>DESINTERESSE</string>
+			<string>SCAT</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Magnétisme</string>
+			<string>DESINTERESSE</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Fait par altruisme</string>
+			<string>Pour le père comme pour la mère</string>
+			<string>DESINTERESSE</string>
+			<string>ERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Celui d’avant</string>
+			<string>Font grincer des dents</string>
+			<string>EX</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Celui d’avant</string>
+			<string>Répugne</string>
+			<string>EX</string>
+			<string>EXECRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Porte-bouteilles</string>
+			<string>FORLANCER</string>
+			<string>IF</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Faux pour se cacher</string>
+			<string>FORLANCER</string>
+			<string>NOM</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Ne garda que l’essentiel</string>
+			<string>FORLANCER</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Parfois dissipé</string>
+			<string>FORLANCER</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Coup sur la peau</string>
+			<string>FORLANCER</string>
+			<string>RA</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Franchira le seuil</string>
+			<string>FORLANCER</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Spécialité d’Ella</string>
+			<string>FORLANCER</string>
+			<string>SCAT</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Magnétisme</string>
+			<string>FORLANCER</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Faire sortir de son gîte</string>
+			<string>Pour le père comme pour la mère</string>
+			<string>FORLANCER</string>
+			<string>ERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ornement de table</string>
+			<string>Font grincer des dents</string>
+			<string>SET</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Ornement de table</string>
+			<string>Répugne</string>
+			<string>SET</string>
+			<string>EXECRE</string>
+		</array>
+		<array>
+			<string>Ornement de table</string>
+			<string>Radio d’autrefois</string>
+			<string>SET</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cœur du pain</string>
+			<string>Faux pour se cacher</string>
+			<string>MIE</string>
+			<string>NOM</string>
+		</array>
+		<array>
+			<string>Cœur du pain</string>
+			<string>Ne garda que l’essentiel</string>
+			<string>MIE</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Cœur du pain</string>
+			<string>Parfois dissipé</string>
+			<string>MIE</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grossit la facture</string>
+			<string>Franchira le seuil</string>
+			<string>TAXE</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string>Grossit la facture</string>
+			<string>Spécialité d’Ella</string>
+			<string>TAXE</string>
+			<string>SCAT</string>
+		</array>
+		<array>
+			<string>Grossit la facture</string>
+			<string>Magnétisme</string>
+			<string>TAXE</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Grossit la facture</string>
+			<string>Pour le père comme pour la mère</string>
+			<string>TAXE</string>
+			<string>ERE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne laisse pas indifférent</string>
+			<string>Font grincer des dents</string>
+			<string>ACRE</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Ne laisse pas indifférent</string>
+			<string>Répugne</string>
+			<string>ACRE</string>
+			<string>EXECRE</string>
+		</array>
+		<array>
+			<string>Ne laisse pas indifférent</string>
+			<string>Radio d’autrefois</string>
+			<string>ACRE</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Ne laisse pas indifférent</string>
+			<string>Signature</string>
+			<string>ACRE</string>
+			<string>ENDOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Échoua</string>
+			<string>Ne garda que l’essentiel</string>
+			<string>AVORTA</string>
+			<string>TRIA</string>
+		</array>
+		<array>
+			<string>Échoua</string>
+			<string>Parfois dissipé</string>
+			<string>AVORTA</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Échoua</string>
+			<string>Point perdu</string>
+			<string>AVORTA</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Échoua</string>
+			<string>Franchira le seuil</string>
+			<string>AVORTA</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string>Échoua</string>
+			<string>Spécialité d’Ella</string>
+			<string>AVORTA</string>
+			<string>SCAT</string>
+		</array>
+		<array>
+			<string>Échoua</string>
+			<string>Magnétisme</string>
+			<string>AVORTA</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bleu au cinéma</string>
+			<string>Font grincer des dents</string>
+			<string>GRAND</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Bleu au cinéma</string>
+			<string>Répugne</string>
+			<string>GRAND</string>
+			<string>EXECRE</string>
+		</array>
+		<array>
+			<string>Bleu au cinéma</string>
+			<string>Radio d’autrefois</string>
+			<string>GRAND</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Bleu au cinéma</string>
+			<string>Signature</string>
+			<string>GRAND</string>
+			<string>ENDOS</string>
+		</array>
+		<array>
+			<string>Bleu au cinéma</string>
+			<string>Gêné</string>
+			<string>GRAND</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Piégée</string>
+			<string>Parfois dissipé</string>
+			<string>EUE</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Piégée</string>
+			<string>Point perdu</string>
+			<string>EUE</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Piégée</string>
+			<string>Franchira le seuil</string>
+			<string>EUE</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chef de Ptolémée</string>
+			<string>Magnétisme</string>
+			<string>PT</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Chef de Ptolémée</string>
+			<string>Ils évitent les déviations</string>
+			<string>PT</string>
+			<string>TES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cèdes</string>
+			<string>Font grincer des dents</string>
+			<string>RENDES</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Cèdes</string>
+			<string>Répugne</string>
+			<string>RENDES</string>
+			<string>EXECRE</string>
+		</array>
+		<array>
+			<string>Cèdes</string>
+			<string>Radio d’autrefois</string>
+			<string>RENDES</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Cèdes</string>
+			<string>Signature</string>
+			<string>RENDES</string>
+			<string>ENDOS</string>
+		</array>
+		<array>
+			<string>Cèdes</string>
+			<string>Gêné</string>
+			<string>RENDES</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string>Cèdes</string>
+			<string>Dans sa propriété</string>
+			<string>RENDES</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Procédé rhétorique</string>
+			<string>Point perdu</string>
+			<string>TROPE</string>
+			<string>OUT</string>
+		</array>
+		<array>
+			<string>Procédé rhétorique</string>
+			<string>Franchira le seuil</string>
+			<string>TROPE</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string>Procédé rhétorique</string>
+			<string>Langue du nord</string>
+			<string>TROPE</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string>Procédé rhétorique</string>
+			<string>Magnétisme</string>
+			<string>TROPE</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Procédé rhétorique</string>
+			<string>Ils évitent les déviations</string>
+			<string>TROPE</string>
+			<string>TES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Font grincer des dents</string>
+			<string>E</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Double</string>
+			<string>Radio d’autrefois</string>
+			<string>SOSIE</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Double</string>
+			<string>Signature</string>
+			<string>SOSIE</string>
+			<string>ENDOS</string>
+		</array>
+		<array>
+			<string>Double</string>
+			<string>Gêné</string>
+			<string>SOSIE</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string>Double</string>
+			<string>Dans sa propriété</string>
+			<string>SOSIE</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string>Double</string>
+			<string>Résine parfumée</string>
+			<string>SOSIE</string>
+			<string>ENCENS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Possèdes</string>
+			<string>Franchira le seuil</string>
+			<string>AIES</string>
+			<string>ENTRERA</string>
+		</array>
+		<array>
+			<string>Possèdes</string>
+			<string>Langue du nord</string>
+			<string>AIES</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string>Possèdes</string>
+			<string>Magnétisme</string>
+			<string>AIES</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Possèdes</string>
+			<string>Ils évitent les déviations</string>
+			<string>AIES</string>
+			<string>TES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bougent</string>
+			<string>Font grincer des dents</string>
+			<string>AGISSENT</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Pas vraiment une dame</string>
+			<string>AGISSENT</string>
+			<string>GAUPE</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Radio d’autrefois</string>
+			<string>AGISSENT</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Signature</string>
+			<string>AGISSENT</string>
+			<string>ENDOS</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Gêné</string>
+			<string>AGISSENT</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Dans sa propriété</string>
+			<string>AGISSENT</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Résine parfumée</string>
+			<string>AGISSENT</string>
+			<string>ENCENS</string>
+		</array>
+		<array>
+			<string>Bougent</string>
+			<string>Quand c’en est pas, c’est difficile</string>
+			<string>AGISSENT</string>
+			<string>TARTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Donné pour accord</string>
+			<string>Langue du nord</string>
+			<string>LA</string>
+			<string>OIL</string>
+		</array>
+		<array>
+			<string>Donné pour accord</string>
+			<string>Magnétisme</string>
+			<string>LA</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Abject</string>
+			<string>Font grincer des dents</string>
+			<string>BAS</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Abject</string>
+			<string>Pas vraiment une dame</string>
+			<string>BAS</string>
+			<string>GAUPE</string>
+		</array>
+		<array>
+			<string>Abject</string>
+			<string>Radio d’autrefois</string>
+			<string>BAS</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>À toute faim utile</string>
+			<string>Gêné</string>
+			<string>ENCAS</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string>À toute faim utile</string>
+			<string>Dans sa propriété</string>
+			<string>ENCAS</string>
+			<string>SIEN</string>
+		</array>
+		<array>
+			<string>À toute faim utile</string>
+			<string>Résine parfumée</string>
+			<string>ENCAS</string>
+			<string>ENCENS</string>
+		</array>
+		<array>
+			<string>À toute faim utile</string>
+			<string>Quand c’en est pas, c’est difficile</string>
+			<string>ENCAS</string>
+			<string>TARTE</string>
+		</array>
+		<array>
+			<string>À toute faim utile</string>
+			<string>Moule pour château</string>
+			<string>ENCAS</string>
+			<string>SEAU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Se dépense ou se soulève</string>
+			<string>Magnétisme</string>
+			<string>LB</string>
+			<string>SEXAPPEAL</string>
+		</array>
+		<array>
+			<string>Se dépense ou se soulève</string>
+			<string>On doit le battre pour accéder à un autre niveau</string>
+			<string>LB</string>
+			<string>BOSS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cimenter</string>
+			<string>Font grincer des dents</string>
+			<string>LUTER</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Cimenter</string>
+			<string>Pas vraiment une dame</string>
+			<string>LUTER</string>
+			<string>GAUPE</string>
+		</array>
+		<array>
+			<string>Cimenter</string>
+			<string>Radio d’autrefois</string>
+			<string>LUTER</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Cimenter</string>
+			<string>Visa bien</string>
+			<string>LUTER</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Cimenter</string>
+			<string>Gêné</string>
+			<string>LUTER</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Leur temps n’est pas compté</string>
+			<string>Résine parfumée</string>
+			<string>ERES</string>
+			<string>ENCENS</string>
+		</array>
+		<array>
+			<string>Leur temps n’est pas compté</string>
+			<string>Quand c’en est pas, c’est difficile</string>
+			<string>ERES</string>
+			<string>TARTE</string>
+		</array>
+		<array>
+			<string>Leur temps n’est pas compté</string>
+			<string>Moule pour château</string>
+			<string>ERES</string>
+			<string>SEAU</string>
+		</array>
+		<array>
+			<string>Leur temps n’est pas compté</string>
+			<string>Placé</string>
+			<string>ERES</string>
+			<string>SIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>On doit le battre pour accéder à un autre niveau</string>
+			<string>O</string>
+			<string>BOSS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Font grincer des dents</string>
+			<string>EPOUVANTAILS</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Pas vraiment une dame</string>
+			<string>EPOUVANTAILS</string>
+			<string>GAUPE</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Radio d’autrefois</string>
+			<string>EPOUVANTAILS</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Visa bien</string>
+			<string>EPOUVANTAILS</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Gêné</string>
+			<string>EPOUVANTAILS</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Monnaie romaine</string>
+			<string>EPOUVANTAILS</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Résine parfumée</string>
+			<string>EPOUVANTAILS</string>
+			<string>ENCENS</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Quand c’en est pas, c’est difficile</string>
+			<string>EPOUVANTAILS</string>
+			<string>TARTE</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Moule pour château</string>
+			<string>EPOUVANTAILS</string>
+			<string>SEAU</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Placé</string>
+			<string>EPOUVANTAILS</string>
+			<string>SIS</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>Article</string>
+			<string>EPOUVANTAILS</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string>Gardes champêtres</string>
+			<string>On doit le battre pour accéder à un autre niveau</string>
+			<string>EPOUVANTAILS</string>
+			<string>BOSS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Font grincer des dents</string>
+			<string>SERTISSEUSES</string>
+			<string>DESAGREABLES</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Pas vraiment une dame</string>
+			<string>SERTISSEUSES</string>
+			<string>GAUPE</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Radio d’autrefois</string>
+			<string>SERTISSEUSES</string>
+			<string>TRANSISTOR</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Visa bien</string>
+			<string>SERTISSEUSES</string>
+			<string>EUT</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Gêné</string>
+			<string>SERTISSEUSES</string>
+			<string>DESSERVI</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Monnaie romaine</string>
+			<string>SERTISSEUSES</string>
+			<string>AS</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Résine parfumée</string>
+			<string>SERTISSEUSES</string>
+			<string>ENCENS</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Quand c’en est pas, c’est difficile</string>
+			<string>SERTISSEUSES</string>
+			<string>TARTE</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Moule pour château</string>
+			<string>SERTISSEUSES</string>
+			<string>SEAU</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Placé</string>
+			<string>SERTISSEUSES</string>
+			<string>SIS</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>Article</string>
+			<string>SERTISSEUSES</string>
+			<string>LE</string>
+		</array>
+		<array>
+			<string>Fixent avec soin</string>
+			<string>On doit le battre pour accéder à un autre niveau</string>
+			<string>SERTISSEUSES</string>
+			<string>BOSS</string>
+		</array>
+	</array>
+</array>
+</plist>

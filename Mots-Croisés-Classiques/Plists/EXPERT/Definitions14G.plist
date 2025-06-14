@@ -59,7 +59,7 @@
 		</array>
 		<array>
 			<string> Science qui fouille pour trouver le passé</string>
-			<string> Père de l'église</string>
+			<string> Père de l&apos;église</string>
 			<string>ARCHEOLOGIE</string>
 			<string>IRENEE</string>
 		</array>
@@ -133,7 +133,7 @@
 		</array>
 		<array>
 			<string> Apathique</string>
-			<string> Père de l'église</string>
+			<string> Père de l&apos;église</string>
 			<string>INERTE</string>
 			<string>IRENEE</string>
 		</array>
@@ -207,7 +207,7 @@
 		</array>
 		<array>
 			<string> Tendues</string>
-			<string> Père de l'église</string>
+			<string> Père de l&apos;église</string>
 			<string>SANGLEES</string>
 			<string>IRENEE</string>
 		</array>
@@ -281,7 +281,7 @@
 		</array>
 		<array>
 			<string> Fractions de siècle</string>
-			<string> Père de l'église</string>
+			<string> Père de l&apos;église</string>
 			<string>ANS</string>
 			<string>IRENEE</string>
 		</array>
@@ -355,7 +355,7 @@
 		</array>
 		<array>
 			<string> Elle peut être télévisée</string>
-			<string> Père de l'église</string>
+			<string> Père de l&apos;église</string>
 			<string>SERIE</string>
 			<string>IRENEE</string>
 		</array>
@@ -429,7 +429,7 @@
 		</array>
 		<array>
 			<string> Époque</string>
-			<string> Père de l'église</string>
+			<string> Père de l&apos;église</string>
 			<string>ERE</string>
 			<string>IRENEE</string>
 		</array>
@@ -455,7 +455,7 @@
 		</array>
 		<array>
 			<string> Jeune dieu</string>
-			<string> Met à l'abri</string>
+			<string> Met à l&apos;abri</string>
 			<string>EROS</string>
 			<string>RENTRE</string>
 		</array>
@@ -529,7 +529,7 @@
 		</array>
 		<array>
 			<string> Monnaie du Japon</string>
-			<string> Met à l'abri</string>
+			<string> Met à l&apos;abri</string>
 			<string>SEN</string>
 			<string>RENTRE</string>
 		</array>
@@ -603,7 +603,7 @@
 		</array>
 		<array>
 			<string> Professeur</string>
-			<string> Met à l'abri</string>
+			<string> Met à l&apos;abri</string>
 			<string>INSTI</string>
 			<string>RENTRE</string>
 		</array>
@@ -677,7 +677,7 @@
 		</array>
 		<array>
 			<string> Jamais le dernier mot</string>
-			<string> Met à l'abri</string>
+			<string> Met à l&apos;abri</string>
 			<string>ET</string>
 			<string>RENTRE</string>
 		</array>
@@ -751,7 +751,7 @@
 		</array>
 		<array>
 			<string> Plante herbacée</string>
-			<string> Met à l'abri</string>
+			<string> Met à l&apos;abri</string>
 			<string>ERS</string>
 			<string>RENTRE</string>
 		</array>
@@ -825,7 +825,7 @@
 		</array>
 		<array>
 			<string> Fromages des Alpes</string>
-			<string> Met à l'abri</string>
+			<string> Met à l&apos;abri</string>
 			<string>SERES</string>
 			<string>RENTRE</string>
 		</array>
@@ -878,13 +878,13 @@
 			<string>#</string>
 		</array>
 		<array>
-			<string> Police nazi</string>
+			<string> Police nazie</string>
 			<string> Tangibles</string>
 			<string>SS</string>
 			<string>REELLES</string>
 		</array>
 		<array>
-			<string> Police nazi</string>
+			<string> Police nazie</string>
 			<string> Élimés</string>
 			<string>SS</string>
 			<string>USES</string>

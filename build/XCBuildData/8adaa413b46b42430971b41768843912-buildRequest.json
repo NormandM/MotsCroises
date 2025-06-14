@@ -1,0 +1,51 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987522d6b2d8cebd98e16841ca66cb1e56"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984910c8940efe4b7404a72780c7541645"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9852f1b6142611130330d79243fb455ff0"
+    }
+  ],
+  "containerPath" : "/Users/normandmartin/IOSProjects/Mots-Croisés-Classiques/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/normandmartin/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/normandmartin/Library/Developer/Xcode/DerivedData/Pods-cjyyrxglbcgvauepdpjnprynbrac/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/normandmartin/Library/Developer/Xcode/DerivedData/Pods-cjyyrxglbcgvauepdpjnprynbrac/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

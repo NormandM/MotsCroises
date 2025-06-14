@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Combler un vide</string>
+			<string>Regroupement agricole</string>
+			<string>REMPLIR</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Combler un vide</string>
+			<string>Découlera</string>
+			<string>REMPLIR</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string>Combler un vide</string>
+			<string>Station spatiale</string>
+			<string>REMPLIR</string>
+			<string>MIR</string>
+		</array>
+		<array>
+			<string>Combler un vide</string>
+			<string>Imprimeur</string>
+			<string>REMPLIR</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string>Combler un vide</string>
+			<string></string>
+			<string>REMPLIR</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Combler un vide</string>
+			<string>Marcherais</string>
+			<string>REMPLIR</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Combler un vide</string>
+			<string>Époques</string>
+			<string>REMPLIR</string>
+			<string>REGNES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sous la couverture</string>
+			<string>Équilibra</string>
+			<string>DRAP</string>
+			<string>DOSA</string>
+		</array>
+		<array>
+			<string>Sous la couverture</string>
+			<string>Partage le plaisir</string>
+			<string>DRAP</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Sous la couverture</string>
+			<string>Retirons l’excès</string>
+			<string>DRAP</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Sous la couverture</string>
+			<string>L’un ne va pas sans l’autre</string>
+			<string>DRAP</string>
+			<string>PAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il a de l’énergie à revendre</string>
+			<string>Regroupement agricole</string>
+			<string>EMIR</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Il a de l’énergie à revendre</string>
+			<string>Découlera</string>
+			<string>EMIR</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string>Il a de l’énergie à revendre</string>
+			<string>Station spatiale</string>
+			<string>EMIR</string>
+			<string>MIR</string>
+		</array>
+		<array>
+			<string>Il a de l’énergie à revendre</string>
+			<string>Imprimeur</string>
+			<string>EMIR</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>Marcherais</string>
+			<string>REVOILA</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>Époques</string>
+			<string>REVOILA</string>
+			<string>REGNES</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>Mois révolutionnaire</string>
+			<string>REVOILA</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>Équilibra</string>
+			<string>REVOILA</string>
+			<string>DOSA</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>Partage le plaisir</string>
+			<string>REVOILA</string>
+			<string>RI</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>Retirons l’excès</string>
+			<string>REVOILA</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Et voici encore</string>
+			<string>L’un ne va pas sans l’autre</string>
+			<string>REVOILA</string>
+			<string>PAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Regroupement agricole</string>
+			<string>MARECAGES</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Découlera</string>
+			<string>MARECAGES</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Station spatiale</string>
+			<string>MARECAGES</string>
+			<string>MIR</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Imprimeur</string>
+			<string>MARECAGES</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Code postal</string>
+			<string>MARECAGES</string>
+			<string>CP</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Marcherais</string>
+			<string>MARECAGES</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Époques</string>
+			<string>MARECAGES</string>
+			<string>REGNES</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Mois révolutionnaire</string>
+			<string>MARECAGES</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string>Lieux où l’on s’enlise</string>
+			<string>Équilibra</string>
+			<string>MARECAGES</string>
+			<string>DOSA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Début d’une litanie</string>
+			<string>Retirons l’excès</string>
+			<string>LI</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Début d’une litanie</string>
+			<string>L’un ne va pas sans l’autre</string>
+			<string>LI</string>
+			<string>PAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Avant complément</string>
+			<string>Regroupement agricole</string>
+			<string>EN</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Avant complément</string>
+			<string>Découlera</string>
+			<string>EN</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Imprimeur</string>
+			<string>SPINNAKER</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Code postal</string>
+			<string>SPINNAKER</string>
+			<string>CP</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Marcherais</string>
+			<string>SPINNAKER</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Époques</string>
+			<string>SPINNAKER</string>
+			<string>REGNES</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Mois révolutionnaire</string>
+			<string>SPINNAKER</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Équilibra</string>
+			<string>SPINNAKER</string>
+			<string>DOSA</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Marsupiau</string>
+			<string>SPINNAKER</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>Retirons l’excès</string>
+			<string>SPINNAKER</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Grande voile</string>
+			<string>L’un ne va pas sans l’autre</string>
+			<string>SPINNAKER</string>
+			<string>PAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Salle des gradés</string>
+			<string>Regroupement agricole</string>
+			<string>MESS</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Salle des gradés</string>
+			<string>Découlera</string>
+			<string>MESS</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string>Salle des gradés</string>
+			<string>Aires</string>
+			<string>MESS</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Salle des gradés</string>
+			<string>Imprimeur</string>
+			<string>MESS</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Manche</string>
+			<string>Marcherais</string>
+			<string>SET</string>
+			<string>IRAIS</string>
+		</array>
+		<array>
+			<string>Manche</string>
+			<string>Époques</string>
+			<string>SET</string>
+			<string>REGNES</string>
+		</array>
+		<array>
+			<string>Manche</string>
+			<string>Mois révolutionnaire</string>
+			<string>SET</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Son retour est parfois redouté</string>
+			<string>Marsupiau</string>
+			<string>AGE</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Son retour est parfois redouté</string>
+			<string>Retirons l’excès</string>
+			<string>AGE</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Son retour est parfois redouté</string>
+			<string>L’un ne va pas sans l’autre</string>
+			<string>AGE</string>
+			<string>PAIRE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Froufroutes</string>
+			<string>Regroupement agricole</string>
+			<string>BRUIS</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Froufroutes</string>
+			<string>Découlera</string>
+			<string>BRUIS</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string>Froufroutes</string>
+			<string>Aires</string>
+			<string>BRUIS</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Froufroutes</string>
+			<string>Imprimeur</string>
+			<string>BRUIS</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string>Froufroutes</string>
+			<string>Monstres sacrés</string>
+			<string>BRUIS</string>
+			<string>STARS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tinte</string>
+			<string>Époques</string>
+			<string>SONNE</string>
+			<string>REGNES</string>
+		</array>
+		<array>
+			<string>Tinte</string>
+			<string>Mois révolutionnaire</string>
+			<string>SONNE</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string>Tinte</string>
+			<string>Font connaître</string>
+			<string>SONNE</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Tinte</string>
+			<string>Marsupiau</string>
+			<string>SONNE</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Tinte</string>
+			<string>Retirons l’excès</string>
+			<string>SONNE</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Curiosité</string>
+			<string>Regroupement agricole</string>
+			<string>RARETE</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Curiosité</string>
+			<string>Découlera</string>
+			<string>RARETE</string>
+			<string>EMANERA</string>
+		</array>
+		<array>
+			<string>Curiosité</string>
+			<string>Aires</string>
+			<string>RARETE</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Curiosité</string>
+			<string>Imprimeur</string>
+			<string>RARETE</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string>Curiosité</string>
+			<string>Monstres sacrés</string>
+			<string>RARETE</string>
+			<string>STARS</string>
+		</array>
+		<array>
+			<string>Curiosité</string>
+			<string>Traquées</string>
+			<string>RARETE</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fécule</string>
+			<string>Mois révolutionnaire</string>
+			<string>SAGOU</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string>Fécule</string>
+			<string>Font connaître</string>
+			<string>SAGOU</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Fécule</string>
+			<string>Marsupiau</string>
+			<string>SAGOU</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Fécule</string>
+			<string>Retirons l’excès</string>
+			<string>SAGOU</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Fécule</string>
+			<string>Histoire de mœurs</string>
+			<string>SAGOU</string>
+			<string>USAGES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Regroupement agricole</string>
+			<string>E</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Aires</string>
+			<string>FRAPPERONS</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Imprimeur</string>
+			<string>FRAPPERONS</string>
+			<string>PRESSIER</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Monstres sacrés</string>
+			<string>FRAPPERONS</string>
+			<string>STARS</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Traquées</string>
+			<string>FRAPPERONS</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Amateur de bain de boue</string>
+			<string>FRAPPERONS</string>
+			<string>PORC</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Mois révolutionnaire</string>
+			<string>FRAPPERONS</string>
+			<string>VENTOSE</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Font connaître</string>
+			<string>FRAPPERONS</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Marsupiau</string>
+			<string>FRAPPERONS</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Retirons l’excès</string>
+			<string>FRAPPERONS</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Heurterons</string>
+			<string>Histoire de mœurs</string>
+			<string>FRAPPERONS</string>
+			<string>USAGES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Laissa la peau</string>
+			<string>Regroupement agricole</string>
+			<string>MUA</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Laissa la peau</string>
+			<string>Solidaire</string>
+			<string>MUA</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Laissa la peau</string>
+			<string>Aires</string>
+			<string>MUA</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ville au pain de sucre</string>
+			<string>Monstres sacrés</string>
+			<string>RIO</string>
+			<string>STARS</string>
+		</array>
+		<array>
+			<string>Ville au pain de sucre</string>
+			<string>Traquées</string>
+			<string>RIO</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string>Ville au pain de sucre</string>
+			<string>Amateur de bain de boue</string>
+			<string>RIO</string>
+			<string>PORC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Combina</string>
+			<string>Font connaître</string>
+			<string>RUSA</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Combina</string>
+			<string>Marsupiau</string>
+			<string>RUSA</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Combina</string>
+			<string>Retirons l’excès</string>
+			<string>RUSA</string>
+			<string>ALLEGEONS</string>
+		</array>
+		<array>
+			<string>Combina</string>
+			<string>Histoire de mœurs</string>
+			<string>RUSA</string>
+			<string>USAGES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Regroupement agricole</string>
+			<string>ENCASERNER</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Solidaire</string>
+			<string>ENCASERNER</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Aires</string>
+			<string>ENCASERNER</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Ne manque pas d’amateurs</string>
+			<string>ENCASERNER</string>
+			<string>ART</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Monstres sacrés</string>
+			<string>ENCASERNER</string>
+			<string>STARS</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Traquées</string>
+			<string>ENCASERNER</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Amateur de bain de boue</string>
+			<string>ENCASERNER</string>
+			<string>PORC</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Sauveur des espèces</string>
+			<string>ENCASERNER</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Font connaître</string>
+			<string>ENCASERNER</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Cantonner des soldats</string>
+			<string>Marsupiau</string>
+			<string>ENCASERNER</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Histoire de mœurs</string>
+			<string>G</string>
+			<string>USAGES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Contester</string>
+			<string>Regroupement agricole</string>
+			<string>NIER</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Contester</string>
+			<string>Solidaire</string>
+			<string>NIER</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Contester</string>
+			<string>Aires</string>
+			<string>NIER</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Contester</string>
+			<string>Ne manque pas d’amateurs</string>
+			<string>NIER</string>
+			<string>ART</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Traquées</string>
+			<string>ECONOME</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Amateur de bain de boue</string>
+			<string>ECONOME</string>
+			<string>PORC</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Sauveur des espèces</string>
+			<string>ECONOME</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Font connaître</string>
+			<string>ECONOME</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Marsupiau</string>
+			<string>ECONOME</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Diviseur</string>
+			<string>ECONOME</string>
+			<string>MI</string>
+		</array>
+		<array>
+			<string>Couteau à légumes</string>
+			<string>Histoire de mœurs</string>
+			<string>ECONOME</string>
+			<string>USAGES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Éprouves</string>
+			<string>Regroupement agricole</string>
+			<string>TESTES</string>
+			<string>REMEMBREMENT</string>
+		</array>
+		<array>
+			<string>Éprouves</string>
+			<string>Solidaire</string>
+			<string>TESTES</string>
+			<string>UNIE</string>
+		</array>
+		<array>
+			<string>Éprouves</string>
+			<string>Aires</string>
+			<string>TESTES</string>
+			<string>SURFACES</string>
+		</array>
+		<array>
+			<string>Éprouves</string>
+			<string>Ne manque pas d’amateurs</string>
+			<string>TESTES</string>
+			<string>ART</string>
+		</array>
+		<array>
+			<string>Éprouves</string>
+			<string></string>
+			<string>TESTES</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Éprouves</string>
+			<string>Traquées</string>
+			<string>TESTES</string>
+			<string>EPIEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Écrins</string>
+			<string>Sauveur des espèces</string>
+			<string>ETUIS</string>
+			<string>NOE</string>
+		</array>
+		<array>
+			<string>Écrins</string>
+			<string>Font connaître</string>
+			<string>ETUIS</string>
+			<string>NARRENT</string>
+		</array>
+		<array>
+			<string>Écrins</string>
+			<string>Marsupiau</string>
+			<string>ETUIS</string>
+			<string>KANGOUROU</string>
+		</array>
+		<array>
+			<string>Écrins</string>
+			<string>Diviseur</string>
+			<string>ETUIS</string>
+			<string>MI</string>
+		</array>
+		<array>
+			<string>Écrins</string>
+			<string>Histoire de mœurs</string>
+			<string>ETUIS</string>
+			<string>USAGES</string>
+		</array>
+	</array>
+</array>
+</plist>

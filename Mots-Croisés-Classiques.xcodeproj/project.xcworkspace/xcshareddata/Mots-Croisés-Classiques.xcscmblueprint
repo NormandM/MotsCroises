@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "654AF82948EA239495AA0810BB20AA16020195C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "654AF82948EA239495AA0810BB20AA16020195C3" : 9223372036854775807,
+    "C6EDD60A775CD8CD09CE059EAB227951A0563DA2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6ECCC216-AC77-4B63-A903-C0B43248A864",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "654AF82948EA239495AA0810BB20AA16020195C3" : "Mots-Croise%CC%81s-Classiques\/",
+    "C6EDD60A775CD8CD09CE059EAB227951A0563DA2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mots-Croisés-Classiques",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mots-Croisés-Classiques.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NormandM\/MotsCroises.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "654AF82948EA239495AA0810BB20AA16020195C3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NormandM\/MatchDateWithEvent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6EDD60A775CD8CD09CE059EAB227951A0563DA2"
+    }
+  ]
+}

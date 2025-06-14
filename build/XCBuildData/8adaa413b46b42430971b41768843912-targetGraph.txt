@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Pods-Mots-Croisés-Classiques in Pods, no dependencies
+Pods-Mots-Croisés-ClassiquesTests in Pods, depends on:
+Pods-Mots-Croisés-Classiques in Pods (explicit)
+Pods-Mots-Croisés-ClassiquesUITests in Pods, depends on:
+Pods-Mots-Croisés-Classiques in Pods (explicit)

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>À cheval, sans cheval</string>
+			<string>CONTINENTALE</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Limite ombragée</string>
+			<string>CONTINENTALE</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Apparus</string>
+			<string>CONTINENTALE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string></string>
+			<string>CONTINENTALE</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Perfection rêvée</string>
+			<string>CONTINENTALE</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Opposé du kabuki expressif</string>
+			<string>CONTINENTALE</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Il partit en char de feu</string>
+			<string>CONTINENTALE</string>
+			<string>ELIE</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string></string>
+			<string>CONTINENTALE</string>
+			<string>N</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Écorce broyée</string>
+			<string>CONTINENTALE</string>
+			<string>TAN</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Souper de communion</string>
+			<string>CONTINENTALE</string>
+			<string>AGAPE</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Elle nage sur le côté</string>
+			<string>CONTINENTALE</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string>Attachée à la terre ferme</string>
+			<string>Époques</string>
+			<string>CONTINENTALE</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Un petit lot</string>
+			<string>À cheval, sans cheval</string>
+			<string>ARE</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Un petit lot</string>
+			<string>Limite ombragée</string>
+			<string>ARE</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string>Un petit lot</string>
+			<string>Apparus</string>
+			<string>ARE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tromperie</string>
+			<string>Perfection rêvée</string>
+			<string>DOL</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Tromperie</string>
+			<string>Opposé du kabuki expressif</string>
+			<string>DOL</string>
+			<string>NO</string>
+		</array>
+		<array>
+			<string>Tromperie</string>
+			<string>Il partit en char de feu</string>
+			<string>DOL</string>
+			<string>ELIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mieux que subir</string>
+			<string>Écorce broyée</string>
+			<string>AGIR</string>
+			<string>TAN</string>
+		</array>
+		<array>
+			<string>Mieux que subir</string>
+			<string>Souper de communion</string>
+			<string>AGIR</string>
+			<string>AGAPE</string>
+		</array>
+		<array>
+			<string>Mieux que subir</string>
+			<string>Elle nage sur le côté</string>
+			<string>AGIR</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string>Mieux que subir</string>
+			<string>Époques</string>
+			<string>AGIR</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Alourdi</string>
+			<string>À cheval, sans cheval</string>
+			<string>LESTE</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Alourdi</string>
+			<string>Limite ombragée</string>
+			<string>LESTE</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string>Alourdi</string>
+			<string>Apparus</string>
+			<string>LESTE</string>
+			<string>NES</string>
+		</array>
+		<array>
+			<string>Alourdi</string>
+			<string>Drôlement</string>
+			<string>LESTE</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string>Alourdi</string>
+			<string>Perfection rêvée</string>
+			<string>LESTE</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tubercule tropical</string>
+			<string>Il partit en char de feu</string>
+			<string>IGNAME</string>
+			<string>ELIE</string>
+		</array>
+		<array>
+			<string>Tubercule tropical</string>
+			<string>Réunit selon un critère</string>
+			<string>IGNAME</string>
+			<string>GROUPA</string>
+		</array>
+		<array>
+			<string>Tubercule tropical</string>
+			<string>Écorce broyée</string>
+			<string>IGNAME</string>
+			<string>TAN</string>
+		</array>
+		<array>
+			<string>Tubercule tropical</string>
+			<string>Souper de communion</string>
+			<string>IGNAME</string>
+			<string>AGAPE</string>
+		</array>
+		<array>
+			<string>Tubercule tropical</string>
+			<string>Elle nage sur le côté</string>
+			<string>IGNAME</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string>Tubercule tropical</string>
+			<string>Époques</string>
+			<string>IGNAME</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pour clarifier</string>
+			<string>À cheval, sans cheval</string>
+			<string>IE</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Pour clarifier</string>
+			<string>Limite ombragée</string>
+			<string>IE</string>
+			<string>OREE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Passer à côté</string>
+			<string>Drôlement</string>
+			<string>RATER</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string>Passer à côté</string>
+			<string>Perfection rêvée</string>
+			<string>RATER</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Passer à côté</string>
+			<string>Lomé en est la capitale</string>
+			<string>RATER</string>
+			<string>TOGO</string>
+		</array>
+		<array>
+			<string>Passer à côté</string>
+			<string>Il partit en char de feu</string>
+			<string>RATER</string>
+			<string>ELIE</string>
+		</array>
+		<array>
+			<string>Passer à côté</string>
+			<string>Réunit selon un critère</string>
+			<string>RATER</string>
+			<string>GROUPA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Négation qui avance</string>
+			<string>Souper de communion</string>
+			<string>PAS</string>
+			<string>AGAPE</string>
+		</array>
+		<array>
+			<string>Négation qui avance</string>
+			<string>Elle nage sur le côté</string>
+			<string>PAS</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string>Négation qui avance</string>
+			<string>Époques</string>
+			<string>PAS</string>
+			<string>ERES</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>À cheval, sans cheval</string>
+			<string>F</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Drame qui en fait trop</string>
+			<string>Baril d’antan</string>
+			<string>MELO</string>
+			<string>MUID</string>
+		</array>
+		<array>
+			<string>Drame qui en fait trop</string>
+			<string>Drôlement</string>
+			<string>MELO</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string>Drame qui en fait trop</string>
+			<string>Perfection rêvée</string>
+			<string>MELO</string>
+			<string>IDEAL</string>
+		</array>
+		<array>
+			<string>Drame qui en fait trop</string>
+			<string>Lomé en est la capitale</string>
+			<string>MELO</string>
+			<string>TOGO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pour tous</string>
+			<string>Réunit selon un critère</string>
+			<string>OPEN</string>
+			<string>GROUPA</string>
+		</array>
+		<array>
+			<string>Pour tous</string>
+			<string>Fit entendre la parole sacrée</string>
+			<string>OPEN</string>
+			<string>PRECHA</string>
+		</array>
+		<array>
+			<string>Pour tous</string>
+			<string>Souper de communion</string>
+			<string>OPEN</string>
+			<string>AGAPE</string>
+		</array>
+		<array>
+			<string>Pour tous</string>
+			<string>Elle nage sur le côté</string>
+			<string>OPEN</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Œuvre numérotée</string>
+			<string>À cheval, sans cheval</string>
+			<string>OPUS</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Œuvre numérotée</string>
+			<string>Fit obtenir</string>
+			<string>OPUS</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string>Œuvre numérotée</string>
+			<string>Baril d’antan</string>
+			<string>OPUS</string>
+			<string>MUID</string>
+		</array>
+		<array>
+			<string>Œuvre numérotée</string>
+			<string>Drôlement</string>
+			<string>OPUS</string>
+			<string>TRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Plus massif que le zébu</string>
+			<string>Lomé en est la capitale</string>
+			<string>GAUR</string>
+			<string>TOGO</string>
+		</array>
+		<array>
+			<string>Plus massif que le zébu</string>
+			<string>Ce n’est pas soi</string>
+			<string>GAUR</string>
+			<string>AUTRUI</string>
+		</array>
+		<array>
+			<string>Plus massif que le zébu</string>
+			<string>Réunit selon un critère</string>
+			<string>GAUR</string>
+			<string>GROUPA</string>
+		</array>
+		<array>
+			<string>Plus massif que le zébu</string>
+			<string>Fit entendre la parole sacrée</string>
+			<string>GAUR</string>
+			<string>PRECHA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Obligé par le passé</string>
+			<string>Elle nage sur le côté</string>
+			<string>DU</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string>Obligé par le passé</string>
+			<string>On y va debout</string>
+			<string>DU</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Canton</string>
+			<string>À cheval, sans cheval</string>
+			<string>URI</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Canton</string>
+			<string>Fit obtenir</string>
+			<string>URI</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string>Canton</string>
+			<string>Baril d’antan</string>
+			<string>URI</string>
+			<string>MUID</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>À lui, à elle</string>
+			<string>SOUPESER</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>Lomé en est la capitale</string>
+			<string>SOUPESER</string>
+			<string>TOGO</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>Ce n’est pas soi</string>
+			<string>SOUPESER</string>
+			<string>AUTRUI</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>Réunit selon un critère</string>
+			<string>SOUPESER</string>
+			<string>GROUPA</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>Fit entendre la parole sacrée</string>
+			<string>SOUPESER</string>
+			<string>PRECHA</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>Range pour plus tard</string>
+			<string>SOUPESER</string>
+			<string>STOCKE</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>Elle nage sur le côté</string>
+			<string>SOUPESER</string>
+			<string>LIMANDE</string>
+		</array>
+		<array>
+			<string>Évaluer à la main</string>
+			<string>On y va debout</string>
+			<string>SOUPESER</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fonctionne sans surprise</string>
+			<string>À cheval, sans cheval</string>
+			<string>RODEE</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Fonctionne sans surprise</string>
+			<string>Fit obtenir</string>
+			<string>RODEE</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string>Fonctionne sans surprise</string>
+			<string>Baril d’antan</string>
+			<string>RODEE</string>
+			<string>MUID</string>
+		</array>
+		<array>
+			<string>Fonctionne sans surprise</string>
+			<string>Solide, liquide ou gazeux</string>
+			<string>RODEE</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string>Fonctionne sans surprise</string>
+			<string>À lui, à elle</string>
+			<string>RODEE</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Finesse du geste ou du mot</string>
+			<string>Ce n’est pas soi</string>
+			<string>TACT</string>
+			<string>AUTRUI</string>
+		</array>
+		<array>
+			<string>Finesse du geste ou du mot</string>
+			<string>Réunit selon un critère</string>
+			<string>TACT</string>
+			<string>GROUPA</string>
+		</array>
+		<array>
+			<string>Finesse du geste ou du mot</string>
+			<string>Fit entendre la parole sacrée</string>
+			<string>TACT</string>
+			<string>PRECHA</string>
+		</array>
+		<array>
+			<string>Finesse du geste ou du mot</string>
+			<string>Range pour plus tard</string>
+			<string>TACT</string>
+			<string>STOCKE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>On y va debout</string>
+			<string>I</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Destinataire secondaire</string>
+			<string>À cheval, sans cheval</string>
+			<string>CC</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Destinataire secondaire</string>
+			<string>Fit obtenir</string>
+			<string>CC</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Titre déchu</string>
+			<string>Solide, liquide ou gazeux</string>
+			<string>TSAR</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string>Titre déchu</string>
+			<string>À lui, à elle</string>
+			<string>TSAR</string>
+			<string>SES</string>
+		</array>
+		<array>
+			<string>Titre déchu</string>
+			<string>Mesure pour champs anglais</string>
+			<string>TSAR</string>
+			<string>ACRE</string>
+		</array>
+		<array>
+			<string>Titre déchu</string>
+			<string>Ce n’est pas soi</string>
+			<string>TSAR</string>
+			<string>AUTRUI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Redouté des marins</string>
+			<string>Fit entendre la parole sacrée</string>
+			<string>HORN</string>
+			<string>PRECHA</string>
+		</array>
+		<array>
+			<string>Redouté des marins</string>
+			<string>Range pour plus tard</string>
+			<string>HORN</string>
+			<string>STOCKE</string>
+		</array>
+		<array>
+			<string>Redouté des marins</string>
+			<string>Passe au plus près</string>
+			<string>HORN</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Redouté des marins</string>
+			<string>On y va debout</string>
+			<string>HORN</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Perçut un parfum</string>
+			<string>À cheval, sans cheval</string>
+			<string>HUMA</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Perçut un parfum</string>
+			<string>Fit obtenir</string>
+			<string>HUMA</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string>Perçut un parfum</string>
+			<string>Révolté en 68</string>
+			<string>HUMA</string>
+			<string>MAI</string>
+		</array>
+		<array>
+			<string>Perçut un parfum</string>
+			<string>Solide, liquide ou gazeux</string>
+			<string>HUMA</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>Mesure pour champs anglais</string>
+			<string>CURACAO</string>
+			<string>ACRE</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>Ce n’est pas soi</string>
+			<string>CURACAO</string>
+			<string>AUTRUI</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>Dur à briser</string>
+			<string>CURACAO</string>
+			<string>ROC</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>Fit entendre la parole sacrée</string>
+			<string>CURACAO</string>
+			<string>PRECHA</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>Range pour plus tard</string>
+			<string>CURACAO</string>
+			<string>STOCKE</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>Passe au plus près</string>
+			<string>CURACAO</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Île ou liqueur</string>
+			<string>On y va debout</string>
+			<string>CURACAO</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>À cheval, sans cheval</string>
+			<string>ORATORIO</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Fit obtenir</string>
+			<string>ORATORIO</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Révolté en 68</string>
+			<string>ORATORIO</string>
+			<string>MAI</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Solide, liquide ou gazeux</string>
+			<string>ORATORIO</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Sans lui, point de colonne</string>
+			<string>ORATORIO</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Mesure pour champs anglais</string>
+			<string>ORATORIO</string>
+			<string>ACRE</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Ce n’est pas soi</string>
+			<string>ORATORIO</string>
+			<string>AUTRUI</string>
+		</array>
+		<array>
+			<string>Musique sacrée</string>
+			<string>Dur à briser</string>
+			<string>ORATORIO</string>
+			<string>ROC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Suit nu</string>
+			<string>Range pour plus tard</string>
+			<string>KSI</string>
+			<string>STOCKE</string>
+		</array>
+		<array>
+			<string>Suit nu</string>
+			<string>Passe au plus près</string>
+			<string>KSI</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Suit nu</string>
+			<string>On y va debout</string>
+			<string>KSI</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Apparaisse un jour</string>
+			<string>À cheval, sans cheval</string>
+			<string>NAISSE</string>
+			<string>CALIFOURCHON</string>
+		</array>
+		<array>
+			<string>Apparaisse un jour</string>
+			<string>Fit obtenir</string>
+			<string>NAISSE</string>
+			<string>PROCURA</string>
+		</array>
+		<array>
+			<string>Apparaisse un jour</string>
+			<string>Révolté en 68</string>
+			<string>NAISSE</string>
+			<string>MAI</string>
+		</array>
+		<array>
+			<string>Apparaisse un jour</string>
+			<string>Solide, liquide ou gazeux</string>
+			<string>NAISSE</string>
+			<string>ETATS</string>
+		</array>
+		<array>
+			<string>Apparaisse un jour</string>
+			<string>Sans lui, point de colonne</string>
+			<string>NAISSE</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Apparaisse un jour</string>
+			<string>Mesure pour champs anglais</string>
+			<string>NAISSE</string>
+			<string>ACRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Engendrer du nouveau</string>
+			<string>Dur à briser</string>
+			<string>CREER</string>
+			<string>ROC</string>
+		</array>
+		<array>
+			<string>Engendrer du nouveau</string>
+			<string></string>
+			<string>CREER</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Engendrer du nouveau</string>
+			<string>Range pour plus tard</string>
+			<string>CREER</string>
+			<string>STOCKE</string>
+		</array>
+		<array>
+			<string>Engendrer du nouveau</string>
+			<string>Passe au plus près</string>
+			<string>CREER</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Engendrer du nouveau</string>
+			<string>On y va debout</string>
+			<string>CREER</string>
+			<string>URINOIR</string>
+		</array>
+	</array>
+</array>
+</plist>

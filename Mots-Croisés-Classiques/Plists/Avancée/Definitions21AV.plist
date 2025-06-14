@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>DAMESJEANNES</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Jamais sans ailes</string>
+			<string>DAMESJEANNES</string>
+			<string>AVION</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Protocole musical numerique</string>
+			<string>DAMESJEANNES</string>
+			<string>MIDI</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Theme pour Vivaldi</string>
+			<string>DAMESJEANNES</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>En bas et a droite de la carte</string>
+			<string>DAMESJEANNES</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string></string>
+			<string>DAMESJEANNES</string>
+			<string>J</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Lettre</string>
+			<string>DAMESJEANNES</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Portions de cercle</string>
+			<string>DAMESJEANNES</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>DAMESJEANNES</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>C’est nickel</string>
+			<string>DAMESJEANNES</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Vent de la mediterranee</string>
+			<string>DAMESJEANNES</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string>Grosses bouteilles</string>
+			<string>Assemblee</string>
+			<string>DAMESJEANNES</string>
+			<string>SENAT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne croise pas</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>EVITE</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Ne croise pas</string>
+			<string>Jamais sans ailes</string>
+			<string>EVITE</string>
+			<string>AVION</string>
+		</array>
+		<array>
+			<string>Ne croise pas</string>
+			<string>Protocole musical numerique</string>
+			<string>EVITE</string>
+			<string>MIDI</string>
+		</array>
+		<array>
+			<string>Ne croise pas</string>
+			<string>Theme pour Vivaldi</string>
+			<string>EVITE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string>Ne croise pas</string>
+			<string>En bas et a droite de la carte</string>
+			<string>EVITE</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lettre de change</string>
+			<string>Lettre</string>
+			<string>TRAITE</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Lettre de change</string>
+			<string>Portions de cercle</string>
+			<string>TRAITE</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string>Lettre de change</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>TRAITE</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Lettre de change</string>
+			<string>C’est nickel</string>
+			<string>TRAITE</string>
+			<string>NI</string>
+		</array>
+		<array>
+			<string>Lettre de change</string>
+			<string>Vent de la mediterranee</string>
+			<string>TRAITE</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string>Lettre de change</string>
+			<string>Assemblee</string>
+			<string>TRAITE</string>
+			<string>SENAT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fiasco</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>BIDE</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Fiasco</string>
+			<string>Jamais sans ailes</string>
+			<string>BIDE</string>
+			<string>AVION</string>
+		</array>
+		<array>
+			<string>Fiasco</string>
+			<string>Protocole musical numerique</string>
+			<string>BIDE</string>
+			<string>MIDI</string>
+		</array>
+		<array>
+			<string>Fiasco</string>
+			<string>Theme pour Vivaldi</string>
+			<string>BIDE</string>
+			<string>ETE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Piège</string>
+			<string>Ourler</string>
+			<string>LACS</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string>Piège</string>
+			<string>Lettre</string>
+			<string>LACS</string>
+			<string>ETA</string>
+		</array>
+		<array>
+			<string>Piège</string>
+			<string>Portions de cercle</string>
+			<string>LACS</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string>Piège</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>LACS</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Particule de provenance</string>
+			<string>Vent de la mediterranee</string>
+			<string>EN</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string>Particule de provenance</string>
+			<string>Assemblee</string>
+			<string>EN</string>
+			<string>SENAT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pièce à protéger</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>ROI</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Pièce à protéger</string>
+			<string>Jamais sans ailes</string>
+			<string>ROI</string>
+			<string>AVION</string>
+		</array>
+		<array>
+			<string>Pièce à protéger</string>
+			<string>Protocole musical numerique</string>
+			<string>ROI</string>
+			<string>MIDI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Constituant des circuits intégrés</string>
+			<string>Etoffe</string>
+			<string>SI</string>
+			<string>SURAH</string>
+		</array>
+		<array>
+			<string>Constituant des circuits intégrés</string>
+			<string>Ourler</string>
+			<string>SI</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tomates et piments</string>
+			<string>Portions de cercle</string>
+			<string>SALSA</string>
+			<string>ARCS</string>
+		</array>
+		<array>
+			<string>Tomates et piments</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>SALSA</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Tomates et piments</string>
+			<string>Enfant espiegle</string>
+			<string>SALSA</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Tomates et piments</string>
+			<string>Vent de la mediterranee</string>
+			<string>SALSA</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string>Tomates et piments</string>
+			<string>Assemblee</string>
+			<string>SALSA</string>
+			<string>SENAT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Calomniateur</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>ON</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Calomniateur</string>
+			<string>Jamais sans ailes</string>
+			<string>ON</string>
+			<string>AVION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mot qui chasse</string>
+			<string>Ils ont leurs filons</string>
+			<string>OUST</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string>Mot qui chasse</string>
+			<string>Etoffe</string>
+			<string>OUST</string>
+			<string>SURAH</string>
+		</array>
+		<array>
+			<string>Mot qui chasse</string>
+			<string>Ourler</string>
+			<string>OUST</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string>Mot qui chasse</string>
+			<string>Plaid</string>
+			<string>OUST</string>
+			<string>TARTAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Brille au soleil</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>LUIT</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Brille au soleil</string>
+			<string>Enfant espiegle</string>
+			<string>LUIT</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Brille au soleil</string>
+			<string>Vent de la mediterranee</string>
+			<string>LUIT</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string>Brille au soleil</string>
+			<string>Assemblee</string>
+			<string>LUIT</string>
+			<string>SENAT</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>U</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string></string>
+			<string>IRREALITE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Ils ont leurs filons</string>
+			<string>IRREALITE</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Etoffe</string>
+			<string>IRREALITE</string>
+			<string>SURAH</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Ourler</string>
+			<string>IRREALITE</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Plaid</string>
+			<string>IRREALITE</string>
+			<string>TARTAN</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Lampe de peche nocturne</string>
+			<string>IRREALITE</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>IRREALITE</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Enfant espiegle</string>
+			<string>IRREALITE</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Mirage</string>
+			<string>Vent de la mediterranee</string>
+			<string>IRREALITE</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sujet neutre des verbes impersonnels</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>IL</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Sujet neutre des verbes impersonnels</string>
+			<string>Poisson mâle</string>
+			<string>IL</string>
+			<string>LAITEE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Ils ont leurs filons</string>
+			<string>SARRASINE</string>
+			<string>ORS</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Etoffe</string>
+			<string>SARRASINE</string>
+			<string>SURAH</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Ourler</string>
+			<string>SARRASINE</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Plaid</string>
+			<string>SARRASINE</string>
+			<string>TARTAN</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Lampe de peche nocturne</string>
+			<string>SARRASINE</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>SARRASINE</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Enfant espiegle</string>
+			<string>SARRASINE</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Vent de la mediterranee</string>
+			<string>SARRASINE</string>
+			<string>ETESIEN</string>
+		</array>
+		<array>
+			<string>Maure</string>
+			<string>Donner de l’ampleur</string>
+			<string>SARRASINE</string>
+			<string>EVASER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Miroir naturel</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>LAC</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Miroir naturel</string>
+			<string>Poisson mâle</string>
+			<string>LAC</string>
+			<string>LAITEE</string>
+		</array>
+		<array>
+			<string>Miroir naturel</string>
+			<string>Sabots en mousse perforee</string>
+			<string>LAC</string>
+			<string>CROCS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chef des cosaques</string>
+			<string>Etoffe</string>
+			<string>HETMAN</string>
+			<string>SURAH</string>
+		</array>
+		<array>
+			<string>Chef des cosaques</string>
+			<string>Ourler</string>
+			<string>HETMAN</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string>Chef des cosaques</string>
+			<string>Plaid</string>
+			<string>HETMAN</string>
+			<string>TARTAN</string>
+		</array>
+		<array>
+			<string>Chef des cosaques</string>
+			<string>Lampe de peche nocturne</string>
+			<string>HETMAN</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Chef des cosaques</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>HETMAN</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Chef des cosaques</string>
+			<string>Enfant espiegle</string>
+			<string>HETMAN</string>
+			<string>LUTIN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Donner de l’ampleur</string>
+			<string>V</string>
+			<string>EVASER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Devise remplacée par l’euro</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>LIRA</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Devise remplacée par l’euro</string>
+			<string>Poisson mâle</string>
+			<string>LIRA</string>
+			<string>LAITEE</string>
+		</array>
+		<array>
+			<string>Devise remplacée par l’euro</string>
+			<string>Sabots en mousse perforee</string>
+			<string>LIRA</string>
+			<string>CROCS</string>
+		</array>
+		<array>
+			<string>Devise remplacée par l’euro</string>
+			<string>Cercle d’elu</string>
+			<string>LIRA</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prélude au chantage</string>
+			<string>Ourler</string>
+			<string>RAPT</string>
+			<string>LISERER</string>
+		</array>
+		<array>
+			<string>Prélude au chantage</string>
+			<string>Plaid</string>
+			<string>RAPT</string>
+			<string>TARTAN</string>
+		</array>
+		<array>
+			<string>Prélude au chantage</string>
+			<string>Lampe de peche nocturne</string>
+			<string>RAPT</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Prélude au chantage</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>RAPT</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cela serait mieux</string>
+			<string>Laisse sa place</string>
+			<string>CA</string>
+			<string>CEDE</string>
+		</array>
+		<array>
+			<string>Cela serait mieux</string>
+			<string>Donner de l’ampleur</string>
+			<string>CA</string>
+			<string>EVASER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tenue de gala</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>ATOUR</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Tenue de gala</string>
+			<string>Poisson mâle</string>
+			<string>ATOUR</string>
+			<string>LAITEE</string>
+		</array>
+		<array>
+			<string>Tenue de gala</string>
+			<string>Sabots en mousse perforee</string>
+			<string>ATOUR</string>
+			<string>CROCS</string>
+		</array>
+		<array>
+			<string>Tenue de gala</string>
+			<string>Cercle d’elu</string>
+			<string>ATOUR</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string>Tenue de gala</string>
+			<string>Phase du sommeil</string>
+			<string>ATOUR</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Peintures d’artistes autodidactes</string>
+			<string>Plaid</string>
+			<string>NAIVES</string>
+			<string>TARTAN</string>
+		</array>
+		<array>
+			<string>Peintures d’artistes autodidactes</string>
+			<string>Lampe de peche nocturne</string>
+			<string>NAIVES</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Peintures d’artistes autodidactes</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>NAIVES</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Peintures d’artistes autodidactes</string>
+			<string>Boisson fermente</string>
+			<string>NAIVES</string>
+			<string>VIN</string>
+		</array>
+		<array>
+			<string>Peintures d’artistes autodidactes</string>
+			<string>Laisse sa place</string>
+			<string>NAIVES</string>
+			<string>CEDE</string>
+		</array>
+		<array>
+			<string>Peintures d’artistes autodidactes</string>
+			<string>Donner de l’ampleur</string>
+			<string>NAIVES</string>
+			<string>EVASER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sut divertir</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>RECREA</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Sut divertir</string>
+			<string>Poisson mâle</string>
+			<string>RECREA</string>
+			<string>LAITEE</string>
+		</array>
+		<array>
+			<string>Sut divertir</string>
+			<string>Sabots en mousse perforee</string>
+			<string>RECREA</string>
+			<string>CROCS</string>
+		</array>
+		<array>
+			<string>Sut divertir</string>
+			<string>Cercle d’elu</string>
+			<string>RECREA</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string>Sut divertir</string>
+			<string>Phase du sommeil</string>
+			<string>RECREA</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string>Sut divertir</string>
+			<string>Edente</string>
+			<string>RECREA</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Vieux et incapable de se plier</string>
+			<string>Lampe de peche nocturne</string>
+			<string>ROIDE</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Vieux et incapable de se plier</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>ROIDE</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Vieux et incapable de se plier</string>
+			<string>Boisson fermente</string>
+			<string>ROIDE</string>
+			<string>VIN</string>
+		</array>
+		<array>
+			<string>Vieux et incapable de se plier</string>
+			<string>Laisse sa place</string>
+			<string>ROIDE</string>
+			<string>CEDE</string>
+		</array>
+		<array>
+			<string>Vieux et incapable de se plier</string>
+			<string>Donner de l’ampleur</string>
+			<string>ROIDE</string>
+			<string>EVASER</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Ingenieux en cas de pepin</string>
+			<string>DESAMIDONNER</string>
+			<string>DEBROUILLARD</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Poisson mâle</string>
+			<string>DESAMIDONNER</string>
+			<string>LAITEE</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Sabots en mousse perforee</string>
+			<string>DESAMIDONNER</string>
+			<string>CROCS</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Cercle d’elu</string>
+			<string>DESAMIDONNER</string>
+			<string>AURA</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Phase du sommeil</string>
+			<string>DESAMIDONNER</string>
+			<string>REM</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Edente</string>
+			<string>DESAMIDONNER</string>
+			<string>AI</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string></string>
+			<string>DESAMIDONNER</string>
+			<string>D</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Lampe de peche nocturne</string>
+			<string>DESAMIDONNER</string>
+			<string>LAMPARO</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Transformation d’un son oral en nasal</string>
+			<string>DESAMIDONNER</string>
+			<string>NASALISATION</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Boisson fermente</string>
+			<string>DESAMIDONNER</string>
+			<string>VIN</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Laisse sa place</string>
+			<string>DESAMIDONNER</string>
+			<string>CEDE</string>
+		</array>
+		<array>
+			<string>Rendre un vêtement plus souple</string>
+			<string>Donner de l’ampleur</string>
+			<string>DESAMIDONNER</string>
+			<string>EVASER</string>
+		</array>
+	</array>
+</array>
+</plist>

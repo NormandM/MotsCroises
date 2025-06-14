@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1430"
+   LastUpgradeVersion = "1640"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EB2FDE11E15FBFE004D024F"
-               BuildableName = "Mots-Croise&#x301;s-Classiques.app"
-               BlueprintName = "Mots-Croise&#x301;s-Classiques"
+               BuildableName = "MotsCroisesClassiquesFixed.app"
+               BlueprintName = "MotsCroisesClassiquesFixed"
                ReferencedContainer = "container:Mots-Croise&#x301;s-Classiques.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -31,8 +31,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EB2FDE11E15FBFE004D024F"
-            BuildableName = "Mots-Croise&#x301;s-Classiques.app"
-            BlueprintName = "Mots-Croise&#x301;s-Classiques"
+            BuildableName = "MotsCroisesClassiquesFixed.app"
+            BlueprintName = "MotsCroisesClassiquesFixed"
             ReferencedContainer = "container:Mots-Croise&#x301;s-Classiques.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -42,8 +42,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8E03D6D5224AD6720079D5BF"
-               BuildableName = "Mots-Croise&#x301;s-ClassiquesTests.xctest"
-               BlueprintName = "Mots-Croise&#x301;s-ClassiquesTests"
+               BuildableName = "MotsCroisesClassiques.xctest"
+               BlueprintName = "MotsCroisesClassiques"
                ReferencedContainer = "container:Mots-Croise&#x301;s-Classiques.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -74,11 +74,14 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EB2FDE11E15FBFE004D024F"
-            BuildableName = "Mots-Croise&#x301;s-Classiques.app"
-            BlueprintName = "Mots-Croise&#x301;s-Classiques"
+            BuildableName = "MotsCroisesClassiquesFixed.app"
+            BlueprintName = "MotsCroisesClassiquesFixed"
             ReferencedContainer = "container:Mots-Croise&#x301;s-Classiques.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <StoreKitConfigurationFileReference
+         identifier = "../Mots-Croise&#x301;s-Classiques/TestStoreKit.storekit">
+      </StoreKitConfigurationFileReference>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -91,8 +94,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EB2FDE11E15FBFE004D024F"
-            BuildableName = "Mots-Croise&#x301;s-Classiques.app"
-            BlueprintName = "Mots-Croise&#x301;s-Classiques"
+            BuildableName = "MotsCroisesClassiquesFixed.app"
+            BlueprintName = "MotsCroisesClassiquesFixed"
             ReferencedContainer = "container:Mots-Croise&#x301;s-Classiques.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

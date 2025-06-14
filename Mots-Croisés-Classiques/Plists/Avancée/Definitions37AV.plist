@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Habillement</string>
+			<string>ADJUDANTCHEF</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Qui est pénible</string>
+			<string>ADJUDANTCHEF</string>
+			<string>DUR</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Inexpérience</string>
+			<string>ADJUDANTCHEF</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Rayonnement</string>
+			<string>ADJUDANTCHEF</string>
+			<string>UV</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Parmi</string>
+			<string>ADJUDANTCHEF</string>
+			<string>DANS</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string></string>
+			<string>ADJUDANTCHEF</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Pour attirer l&apos;attention</string>
+			<string>ADJUDANTCHEF</string>
+			<string>NB</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Toiles de mer</string>
+			<string>ADJUDANTCHEF</string>
+			<string>TAUDS</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Symbole chimique</string>
+			<string>ADJUDANTCHEF</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Raclement</string>
+			<string>ADJUDANTCHEF</string>
+			<string>HEM</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Temps variables</string>
+			<string>ADJUDANTCHEF</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Il a pris du galon</string>
+			<string>Elle fait rire</string>
+			<string>ADJUDANTCHEF</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Temple du flamenco</string>
+			<string>Habillement</string>
+			<string>CUEVA</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Temple du flamenco</string>
+			<string>Qui est pénible</string>
+			<string>CUEVA</string>
+			<string>DUR</string>
+		</array>
+		<array>
+			<string>Temple du flamenco</string>
+			<string>Inexpérience</string>
+			<string>CUEVA</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Temple du flamenco</string>
+			<string>Rayonnement</string>
+			<string>CUEVA</string>
+			<string>UV</string>
+		</array>
+		<array>
+			<string>Temple du flamenco</string>
+			<string>Parmi</string>
+			<string>CUEVA</string>
+			<string>DANS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fixera</string>
+			<string>Pour attirer l&apos;attention</string>
+			<string>BASERA</string>
+			<string>NB</string>
+		</array>
+		<array>
+			<string>Fixera</string>
+			<string>Toiles de mer</string>
+			<string>BASERA</string>
+			<string>TAUDS</string>
+		</array>
+		<array>
+			<string>Fixera</string>
+			<string>Symbole chimique</string>
+			<string>BASERA</string>
+			<string>CS</string>
+		</array>
+		<array>
+			<string>Fixera</string>
+			<string>Raclement</string>
+			<string>BASERA</string>
+			<string>HEM</string>
+		</array>
+		<array>
+			<string>Fixera</string>
+			<string>Temps variables</string>
+			<string>BASERA</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Fixera</string>
+			<string>Elle fait rire</string>
+			<string>BASERA</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Choquant</string>
+			<string>Habillement</string>
+			<string>CRU</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Choquant</string>
+			<string>Qui est pénible</string>
+			<string>CRU</string>
+			<string>DUR</string>
+		</array>
+		<array>
+			<string>Choquant</string>
+			<string>Inexpérience</string>
+			<string>CRU</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Lettres pieuses</string>
+			<string>Parmi</string>
+			<string>ND</string>
+			<string>DANS</string>
+		</array>
+		<array>
+			<string>Lettres pieuses</string>
+			<string>Tort</string>
+			<string>ND</string>
+			<string>DAM</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Toiles de mer</string>
+			<string>U</string>
+			<string>TAUDS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Jules</string>
+			<string>Raclement</string>
+			<string>MEC</string>
+			<string>HEM</string>
+		</array>
+		<array>
+			<string>Jules</string>
+			<string>Temps variables</string>
+			<string>MEC</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Jules</string>
+			<string>Elle fait rire</string>
+			<string>MEC</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Habillement</string>
+			<string>O</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>Inexpérience</string>
+			<string>NASARDE</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>Instigateur</string>
+			<string>NASARDE</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>Parmi</string>
+			<string>NASARDE</string>
+			<string>DANS</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>Tort</string>
+			<string>NASARDE</string>
+			<string>DAM</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>N&apos;amuse personne</string>
+			<string>NASARDE</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>Toiles de mer</string>
+			<string>NASARDE</string>
+			<string>TAUDS</string>
+		</array>
+		<array>
+			<string>Chiquenaude</string>
+			<string>Le premier éclairé</string>
+			<string>NASARDE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Symbole chimique</string>
+			<string>Temps variables</string>
+			<string>SE</string>
+			<string>ERES</string>
+		</array>
+		<array>
+			<string>Symbole chimique</string>
+			<string>Elle fait rire</string>
+			<string>SE</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Affaiblir par le temps</string>
+			<string>Habillement</string>
+			<string>USER</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Affaiblir par le temps</string>
+			<string>Fleuve en capitale</string>
+			<string>USER</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string>Affaiblir par le temps</string>
+			<string>Inexpérience</string>
+			<string>USER</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Affaiblir par le temps</string>
+			<string>Instigateur</string>
+			<string>USER</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bloc</string>
+			<string>Tort</string>
+			<string>MASSE</string>
+			<string>DAM</string>
+		</array>
+		<array>
+			<string>Bloc</string>
+			<string>N&apos;amuse personne</string>
+			<string>MASSE</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Bloc</string>
+			<string>Toiles de mer</string>
+			<string>MASSE</string>
+			<string>TAUDS</string>
+		</array>
+		<array>
+			<string>Bloc</string>
+			<string>Le premier éclairé</string>
+			<string>MASSE</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Bloc</string>
+			<string>Impudent</string>
+			<string>MASSE</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Elle fait rire</string>
+			<string>T</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Examens</string>
+			<string>Habillement</string>
+			<string>TESTS</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Examens</string>
+			<string>Fleuve en capitale</string>
+			<string>TESTS</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string>Examens</string>
+			<string>Inexpérience</string>
+			<string>TESTS</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Examens</string>
+			<string>Instigateur</string>
+			<string>TESTS</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string>Examens</string>
+			<string></string>
+			<string>TESTS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>N&apos;amuse personne</string>
+			<string>S</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Siamois</string>
+			<string>Le premier éclairé</string>
+			<string>THAI</string>
+			<string>EST</string>
+		</array>
+		<array>
+			<string>Siamois</string>
+			<string>Impudent</string>
+			<string>THAI</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Siamois</string>
+			<string>Un des 5 grands</string>
+			<string>THAI</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string>Siamois</string>
+			<string>Elle fait rire</string>
+			<string>THAI</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cinéaste Italien</string>
+			<string>Habillement</string>
+			<string>RISI</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Cinéaste Italien</string>
+			<string>Fleuve en capitale</string>
+			<string>RISI</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string>Cinéaste Italien</string>
+			<string>Inexpérience</string>
+			<string>RISI</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Cinéaste Italien</string>
+			<string>Instigateur</string>
+			<string>RISI</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Clochette ou Morgane</string>
+			<string>Bouffon de cour au Moyen Âge</string>
+			<string>FEE</string>
+			<string>FOU</string>
+		</array>
+		<array>
+			<string>Clochette ou Morgane</string>
+			<string>N&apos;amuse personne</string>
+			<string>FEE</string>
+			<string>RASE</string>
+		</array>
+		<array>
+			<string>Clochette ou Morgane</string>
+			<string>Essence</string>
+			<string>FEE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Salace</string>
+			<string>Impudent</string>
+			<string>OSE</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Salace</string>
+			<string>Un des 5 grands</string>
+			<string>OSE</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string>Salace</string>
+			<string>Elle fait rire</string>
+			<string>OSE</string>
+			<string>FACETIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Compositeur roumain maître du violon</string>
+			<string>Habillement</string>
+			<string>ENESCO</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Compositeur roumain maître du violon</string>
+			<string>Fleuve en capitale</string>
+			<string>ENESCO</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string>Compositeur roumain maître du violon</string>
+			<string>Inexpérience</string>
+			<string>ENESCO</string>
+			<string>JEUNESSE</string>
+		</array>
+		<array>
+			<string>Compositeur roumain maître du violon</string>
+			<string>Instigateur</string>
+			<string>ENESCO</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string>Compositeur roumain maître du violon</string>
+			<string>Elles ont de petites dents</string>
+			<string>ENESCO</string>
+			<string>CLEFS</string>
+		</array>
+		<array>
+			<string>Compositeur roumain maître du violon</string>
+			<string>Bouffon de cour au Moyen Âge</string>
+			<string>ENESCO</string>
+			<string>FOU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elu des cieux</string>
+			<string>Essence</string>
+			<string>BENI</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Elu des cieux</string>
+			<string></string>
+			<string>BENI</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Elu des cieux</string>
+			<string>Impudent</string>
+			<string>BENI</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Elu des cieux</string>
+			<string>Un des 5 grands</string>
+			<string>BENI</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Personnel</string>
+			<string>Habillement</string>
+			<string>ME</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Personnel</string>
+			<string>Fleuve en capitale</string>
+			<string>ME</string>
+			<string>SEINE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fixe la teinture</string>
+			<string>Instigateur</string>
+			<string>ALUNE</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string>Fixe la teinture</string>
+			<string>Elles ont de petites dents</string>
+			<string>ALUNE</string>
+			<string>CLEFS</string>
+		</array>
+		<array>
+			<string>Fixe la teinture</string>
+			<string>Bouffon de cour au Moyen Âge</string>
+			<string>ALUNE</string>
+			<string>FOU</string>
+		</array>
+		<array>
+			<string>Fixe la teinture</string>
+			<string>Cancres</string>
+			<string>ALUNE</string>
+			<string>NULS</string>
+		</array>
+		<array>
+			<string>Fixe la teinture</string>
+			<string>Essence</string>
+			<string>ALUNE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Présent pour le premier coup</string>
+			<string>Impudent</string>
+			<string>TEE</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string>Présent pour le premier coup</string>
+			<string>Un des 5 grands</string>
+			<string>TEE</string>
+			<string>ASIE</string>
+		</array>
+		<array>
+			<string>Présent pour le premier coup</string>
+			<string>Jardin à l&apos;abandon</string>
+			<string>TEE</string>
+			<string>EDEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Habillement</string>
+			<string>E</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il a de longues oreilles</string>
+			<string>Esprit</string>
+			<string>ANE</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string>Il a de longues oreilles</string>
+			<string>Instigateur</string>
+			<string>ANE</string>
+			<string>ARTISAN</string>
+		</array>
+		<array>
+			<string>Il a de longues oreilles</string>
+			<string>Elles ont de petites dents</string>
+			<string>ANE</string>
+			<string>CLEFS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sans dessin</string>
+			<string>Cancres</string>
+			<string>UNIE</string>
+			<string>NULS</string>
+		</array>
+		<array>
+			<string>Sans dessin</string>
+			<string>Essence</string>
+			<string>UNIE</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Sans dessin</string>
+			<string>Colère</string>
+			<string>UNIE</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Sans dessin</string>
+			<string>Impudent</string>
+			<string>UNIE</string>
+			<string>EHONTE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Jardin à l&apos;abandon</string>
+			<string>D</string>
+			<string>EDEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Identité qui nous suit partout</string>
+			<string>Habillement</string>
+			<string>NOM</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Identité qui nous suit partout</string>
+			<string>Difficulté imprévue</string>
+			<string>NOM</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Identité qui nous suit partout</string>
+			<string>Esprit</string>
+			<string>NOM</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fuir</string>
+			<string>Elles ont de petites dents</string>
+			<string>FILER</string>
+			<string>CLEFS</string>
+		</array>
+		<array>
+			<string>Fuir</string>
+			<string>Idest</string>
+			<string>FILER</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Fuir</string>
+			<string>Cancres</string>
+			<string>FILER</string>
+			<string>NULS</string>
+		</array>
+		<array>
+			<string>Fuir</string>
+			<string>Essence</string>
+			<string>FILER</string>
+			<string>EBENE</string>
+		</array>
+		<array>
+			<string>Fuir</string>
+			<string>Colère</string>
+			<string>FILER</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Métal</string>
+			<string>Note à clef</string>
+			<string>FE</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Métal</string>
+			<string>Jardin à l&apos;abandon</string>
+			<string>FE</string>
+			<string>EDEN</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string>Habillement</string>
+			<string>TSETSES</string>
+			<string>ACCOUTREMENT</string>
+		</array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string>Difficulté imprévue</string>
+			<string>TSETSES</string>
+			<string>OS</string>
+		</array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string>Esprit</string>
+			<string>TSETSES</string>
+			<string>AME</string>
+		</array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string></string>
+			<string>TSETSES</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string>Elles ont de petites dents</string>
+			<string>TSETSES</string>
+			<string>CLEFS</string>
+		</array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string>Idest</string>
+			<string>TSETSES</string>
+			<string>IE</string>
+		</array>
+		<array>
+			<string>Elles perturbent le sommeil</string>
+			<string>Cancres</string>
+			<string>TSETSES</string>
+			<string>NULS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pour aller plus loin</string>
+			<string>Colère</string>
+			<string>ELAN</string>
+			<string>IRE</string>
+		</array>
+		<array>
+			<string>Pour aller plus loin</string>
+			<string></string>
+			<string>ELAN</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Pour aller plus loin</string>
+			<string>Note à clef</string>
+			<string>ELAN</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Pour aller plus loin</string>
+			<string>Jardin à l&apos;abandon</string>
+			<string>ELAN</string>
+			<string>EDEN</string>
+		</array>
+	</array>
+</array>
+</plist>

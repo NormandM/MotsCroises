@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Donner corps</string>
+			<string>Vit sous sédatif</string>
+			<string>MATERIALISER</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Engloutiras</string>
+			<string>MATERIALISER</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Resté discret</string>
+			<string>MATERIALISER</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Suit la leçon de près</string>
+			<string>MATERIALISER</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Pris en main</string>
+			<string>MATERIALISER</string>
+			<string>REGI</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string></string>
+			<string>MATERIALISER</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Variante héréditaire</string>
+			<string>MATERIALISER</string>
+			<string>ALLELE</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Note</string>
+			<string>MATERIALISER</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Zeus s’y est caché</string>
+			<string>MATERIALISER</string>
+			<string>IDA</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Assassin</string>
+			<string>MATERIALISER</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Laissa bouche bée</string>
+			<string>MATERIALISER</string>
+			<string>ETONNA</string>
+		</array>
+		<array>
+			<string>Donner corps</string>
+			<string>Informerai</string>
+			<string>MATERIALISER</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>À l’origine du zygote</string>
+			<string>Vit sous sédatif</string>
+			<string>OVULE</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>À l’origine du zygote</string>
+			<string>Engloutiras</string>
+			<string>OVULE</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>À l’origine du zygote</string>
+			<string>Resté discret</string>
+			<string>OVULE</string>
+			<string>TU</string>
+		</array>
+		<array>
+			<string>À l’origine du zygote</string>
+			<string>Suit la leçon de près</string>
+			<string>OVULE</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>À l’origine du zygote</string>
+			<string>Pris en main</string>
+			<string>OVULE</string>
+			<string>REGI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Déjà évoquée</string>
+			<string>Variante héréditaire</string>
+			<string>LADITE</string>
+			<string>ALLELE</string>
+		</array>
+		<array>
+			<string>Déjà évoquée</string>
+			<string>Note</string>
+			<string>LADITE</string>
+			<string>LA</string>
+		</array>
+		<array>
+			<string>Déjà évoquée</string>
+			<string>Zeus s’y est caché</string>
+			<string>LADITE</string>
+			<string>IDA</string>
+		</array>
+		<array>
+			<string>Déjà évoquée</string>
+			<string>Assassin</string>
+			<string>LADITE</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string>Déjà évoquée</string>
+			<string>Laissa bouche bée</string>
+			<string>LADITE</string>
+			<string>ETONNA</string>
+		</array>
+		<array>
+			<string>Déjà évoquée</string>
+			<string>Informerai</string>
+			<string>LADITE</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Soleil sacré</string>
+			<string>Vit sous sédatif</string>
+			<string>RA</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Soleil sacré</string>
+			<string>Engloutiras</string>
+			<string>RA</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ni plus, ni moins</string>
+			<string>Suit la leçon de près</string>
+			<string>EGAL</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Ni plus, ni moins</string>
+			<string>Pris en main</string>
+			<string>EGAL</string>
+			<string>REGI</string>
+		</array>
+		<array>
+			<string>Ni plus, ni moins</string>
+			<string>Arrimeriez</string>
+			<string>EGAL</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>Ni plus, ni moins</string>
+			<string>Variante héréditaire</string>
+			<string>EGAL</string>
+			<string>ALLELE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Embarcation fluviale</string>
+			<string>Zeus s’y est caché</string>
+			<string>ACON</string>
+			<string>IDA</string>
+		</array>
+		<array>
+			<string>Embarcation fluviale</string>
+			<string>Assassin</string>
+			<string>ACON</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string>Embarcation fluviale</string>
+			<string>Laissa bouche bée</string>
+			<string>ACON</string>
+			<string>ETONNA</string>
+		</array>
+		<array>
+			<string>Embarcation fluviale</string>
+			<string>Informerai</string>
+			<string>ACON</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Vit sous sédatif</string>
+			<string>PLUVINER</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Engloutiras</string>
+			<string>PLUVINER</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Tuyau discret mais vital</string>
+			<string>PLUVINER</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Suit la leçon de près</string>
+			<string>PLUVINER</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Pris en main</string>
+			<string>PLUVINER</string>
+			<string>REGI</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Arrimeriez</string>
+			<string>PLUVINER</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Variante héréditaire</string>
+			<string>PLUVINER</string>
+			<string>ALLELE</string>
+		</array>
+		<array>
+			<string>Tomber finement</string>
+			<string>Refouler</string>
+			<string>PLUVINER</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ils comptent les printemps</string>
+			<string>Assassin</string>
+			<string>ANS</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string>Ils comptent les printemps</string>
+			<string>Laissa bouche bée</string>
+			<string>ANS</string>
+			<string>ETONNA</string>
+		</array>
+		<array>
+			<string>Ils comptent les printemps</string>
+			<string>Informerai</string>
+			<string>ANS</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pauvre type</string>
+			<string>Vit sous sédatif</string>
+			<string>HERE</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Pauvre type</string>
+			<string>Engloutiras</string>
+			<string>HERE</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>Pauvre type</string>
+			<string>Tuyau discret mais vital</string>
+			<string>HERE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string>Pauvre type</string>
+			<string>Suit la leçon de près</string>
+			<string>HERE</string>
+			<string>ELEVE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Arrimeriez</string>
+			<string>CLARINE</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Variante héréditaire</string>
+			<string>CLARINE</string>
+			<string>ALLELE</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Refouler</string>
+			<string>CLARINE</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Prénom</string>
+			<string>CLARINE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Assassin</string>
+			<string>CLARINE</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Laissa bouche bée</string>
+			<string>CLARINE</string>
+			<string>ETONNA</string>
+		</array>
+		<array>
+			<string>Carillon pastoral</string>
+			<string>Informerai</string>
+			<string>CLARINE</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Achille l’a connue</string>
+			<string>Vit sous sédatif</string>
+			<string>IRE</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Achille l’a connue</string>
+			<string>Engloutiras</string>
+			<string>IRE</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>Achille l’a connue</string>
+			<string>Tuyau discret mais vital</string>
+			<string>IRE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Symbole</string>
+			<string>CREVERAI</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Arrimeriez</string>
+			<string>CREVERAI</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Variante héréditaire</string>
+			<string>CREVERAI</string>
+			<string>ALLELE</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Refouler</string>
+			<string>CREVERAI</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Prénom</string>
+			<string>CREVERAI</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Assassin</string>
+			<string>CREVERAI</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Laissa bouche bée</string>
+			<string>CREVERAI</string>
+			<string>ETONNA</string>
+		</array>
+		<array>
+			<string>Mourrai</string>
+			<string>Informerai</string>
+			<string>CREVERAI</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Elle a horreur du vide</string>
+			<string>Vit sous sédatif</string>
+			<string>NATURE</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Elle a horreur du vide</string>
+			<string>Engloutiras</string>
+			<string>NATURE</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>Elle a horreur du vide</string>
+			<string>Tuyau discret mais vital</string>
+			<string>NATURE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string>Elle a horreur du vide</string>
+			<string>Ancien cornu</string>
+			<string>NATURE</string>
+			<string>URE</string>
+		</array>
+		<array>
+			<string>Elle a horreur du vide</string>
+			<string>Symbole</string>
+			<string>NATURE</string>
+			<string>CR</string>
+		</array>
+		<array>
+			<string>Elle a horreur du vide</string>
+			<string>Arrimeriez</string>
+			<string>NATURE</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bête à l’école</string>
+			<string>Refouler</string>
+			<string>ANE</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string>Bête à l’école</string>
+			<string>Prénom</string>
+			<string>ANE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string>Bête à l’école</string>
+			<string>Assassin</string>
+			<string>ANE</string>
+			<string>SICAIRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Informerai</string>
+			<string>G</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ne pas céder</string>
+			<string>Vit sous sédatif</string>
+			<string>OSER</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Ne pas céder</string>
+			<string>Engloutiras</string>
+			<string>OSER</string>
+			<string>AVALERAS</string>
+		</array>
+		<array>
+			<string>Ne pas céder</string>
+			<string>Tuyau discret mais vital</string>
+			<string>OSER</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string>Ne pas céder</string>
+			<string>Ancien cornu</string>
+			<string>OSER</string>
+			<string>URE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il impose une réplique</string>
+			<string>Arrimeriez</string>
+			<string>ROLE</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>Il impose une réplique</string>
+			<string>Ne rouille pas</string>
+			<string>ROLE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string>Il impose une réplique</string>
+			<string>Refouler</string>
+			<string>ROLE</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string>Il impose une réplique</string>
+			<string>Prénom</string>
+			<string>ROLE</string>
+			<string>RENE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Base d’un âge</string>
+			<string>Fut le guide</string>
+			<string>AN</string>
+			<string>AMENA</string>
+		</array>
+		<array>
+			<string>Base d’un âge</string>
+			<string>Informerai</string>
+			<string>AN</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Vit sous sédatif</string>
+			<string>M</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>A pris du recul</string>
+			<string>Tuyau discret mais vital</string>
+			<string>RETIRE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string>A pris du recul</string>
+			<string>Ancien cornu</string>
+			<string>RETIRE</string>
+			<string>URE</string>
+		</array>
+		<array>
+			<string>A pris du recul</string>
+			<string>Ne lâcha pas</string>
+			<string>RETIRE</string>
+			<string>TINT</string>
+		</array>
+		<array>
+			<string>A pris du recul</string>
+			<string>Arrimeriez</string>
+			<string>RETIRE</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>A pris du recul</string>
+			<string>Ne rouille pas</string>
+			<string>RETIRE</string>
+			<string>OR</string>
+		</array>
+		<array>
+			<string>A pris du recul</string>
+			<string>Refouler</string>
+			<string>RETIRE</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Peut être sensible</string>
+			<string>Il précède parfois la peine</string>
+			<string>AME</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Peut être sensible</string>
+			<string>Fut le guide</string>
+			<string>AME</string>
+			<string>AMENA</string>
+		</array>
+		<array>
+			<string>Peut être sensible</string>
+			<string>Informerai</string>
+			<string>AME</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Brune ou blonde</string>
+			<string>Vit sous sédatif</string>
+			<string>ALE</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Brune ou blonde</string>
+			<string>On y finit la journée</string>
+			<string>ALE</string>
+			<string>LIT</string>
+		</array>
+		<array>
+			<string>Brune ou blonde</string>
+			<string>Tuyau discret mais vital</string>
+			<string>ALE</string>
+			<string>URETERE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Fin de partie</string>
+			<string>Ne lâcha pas</string>
+			<string>IE</string>
+			<string>TINT</string>
+		</array>
+		<array>
+			<string>Fin de partie</string>
+			<string>Arrimeriez</string>
+			<string>IE</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Idéaliser</string>
+			<string>Refouler</string>
+			<string>REVER</string>
+			<string>RAVALER</string>
+		</array>
+		<array>
+			<string>Idéaliser</string>
+			<string>Moi</string>
+			<string>REVER</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string>Idéaliser</string>
+			<string>Il précède parfois la peine</string>
+			<string>REVER</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Idéaliser</string>
+			<string>Fut le guide</string>
+			<string>REVER</string>
+			<string>AMENA</string>
+		</array>
+		<array>
+			<string>Idéaliser</string>
+			<string>Informerai</string>
+			<string>REVER</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Conjonction</string>
+			<string>Vit sous sédatif</string>
+			<string>NI</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>Conjonction</string>
+			<string>On y finit la journée</string>
+			<string>NI</string>
+			<string>LIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Il suit octobre</string>
+			<string>Source de cancans</string>
+			<string>ONZE</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>Il suit octobre</string>
+			<string>Ne lâcha pas</string>
+			<string>ONZE</string>
+			<string>TINT</string>
+		</array>
+		<array>
+			<string>Il suit octobre</string>
+			<string>Arrimeriez</string>
+			<string>ONZE</string>
+			<string>ANCRERIEZ</string>
+		</array>
+		<array>
+			<string>Il suit octobre</string>
+			<string>Ce n’est donc pas la fin</string>
+			<string>ONZE</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Perturba</string>
+			<string>Moi</string>
+			<string>GENA</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string>Perturba</string>
+			<string>Il précède parfois la peine</string>
+			<string>GENA</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Perturba</string>
+			<string>Fut le guide</string>
+			<string>GENA</string>
+			<string>AMENA</string>
+		</array>
+		<array>
+			<string>Perturba</string>
+			<string>Informerai</string>
+			<string>GENA</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>En soi, par soi</string>
+			<string>Vit sous sédatif</string>
+			<string>ETANT</string>
+			<string>MORPHINOMANE</string>
+		</array>
+		<array>
+			<string>En soi, par soi</string>
+			<string>On y finit la journée</string>
+			<string>ETANT</string>
+			<string>LIT</string>
+		</array>
+		<array>
+			<string>En soi, par soi</string>
+			<string></string>
+			<string>ETANT</string>
+			<string>A</string>
+		</array>
+		<array>
+			<string>En soi, par soi</string>
+			<string>Source de cancans</string>
+			<string>ETANT</string>
+			<string>ON</string>
+		</array>
+		<array>
+			<string>En soi, par soi</string>
+			<string>Ne lâcha pas</string>
+			<string>ETANT</string>
+			<string>TINT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Brisai l’intégrité</string>
+			<string>Ce n’est donc pas la fin</string>
+			<string>TROUAI</string>
+			<string>ET</string>
+		</array>
+		<array>
+			<string>Brisai l’intégrité</string>
+			<string></string>
+			<string>TROUAI</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Brisai l’intégrité</string>
+			<string>Moi</string>
+			<string>TROUAI</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string>Brisai l’intégrité</string>
+			<string>Il précède parfois la peine</string>
+			<string>TROUAI</string>
+			<string>AVEU</string>
+		</array>
+		<array>
+			<string>Brisai l’intégrité</string>
+			<string>Fut le guide</string>
+			<string>TROUAI</string>
+			<string>AMENA</string>
+		</array>
+		<array>
+			<string>Brisai l’intégrité</string>
+			<string>Informerai</string>
+			<string>TROUAI</string>
+			<string>RENSEIGNERAI</string>
+		</array>
+	</array>
+</array>
+</plist>

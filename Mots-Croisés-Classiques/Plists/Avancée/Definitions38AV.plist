@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Satirique</string>
+			<string>CALFEUTRAGES</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Lopins</string>
+			<string>CALFEUTRAGES</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Couvrent des sols</string>
+			<string>CALFEUTRAGES</string>
+			<string>LINOS</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Font la noce</string>
+			<string>CALFEUTRAGES</string>
+			<string>FETENT</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Supprima le chef</string>
+			<string>CALFEUTRAGES</string>
+			<string>ETETA</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Quasi mot do</string>
+			<string>CALFEUTRAGES</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Après bis</string>
+			<string>CALFEUTRAGES</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string></string>
+			<string>CALFEUTRAGES</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Sans limites ni restrictions</string>
+			<string>CALFEUTRAGES</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Base de poterie</string>
+			<string>CALFEUTRAGES</string>
+			<string>GRES</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Reçu</string>
+			<string>CALFEUTRAGES</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Empêchent les infiltrations</string>
+			<string>Chien philosophe</string>
+			<string>CALFEUTRAGES</string>
+			<string>SNOOPY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Satirique</string>
+			<string>ARIETTE</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Lopins</string>
+			<string>ARIETTE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Couvrent des sols</string>
+			<string>ARIETTE</string>
+			<string>LINOS</string>
+		</array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Font la noce</string>
+			<string>ARIETTE</string>
+			<string>FETENT</string>
+		</array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Supprima le chef</string>
+			<string>ARIETTE</string>
+			<string>ETETA</string>
+		</array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Quasi mot do</string>
+			<string>ARIETTE</string>
+			<string>UT</string>
+		</array>
+		<array>
+			<string>Courte mélodie</string>
+			<string>Après bis</string>
+			<string>ARIETTE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Type d&apos;ours</string>
+			<string>Sans limites ni restrictions</string>
+			<string>BRUN</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string>Type d&apos;ours</string>
+			<string>Base de poterie</string>
+			<string>BRUN</string>
+			<string>GRES</string>
+		</array>
+		<array>
+			<string>Type d&apos;ours</string>
+			<string>Reçu</string>
+			<string>BRUN</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Type d&apos;ours</string>
+			<string>Chien philosophe</string>
+			<string>BRUN</string>
+			<string>SNOOPY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Argent facile</string>
+			<string>Satirique</string>
+			<string>RENTE</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Argent facile</string>
+			<string>Lopins</string>
+			<string>RENTE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Argent facile</string>
+			<string>Couvrent des sols</string>
+			<string>RENTE</string>
+			<string>LINOS</string>
+		</array>
+		<array>
+			<string>Argent facile</string>
+			<string>Font la noce</string>
+			<string>RENTE</string>
+			<string>FETENT</string>
+		</array>
+		<array>
+			<string>Argent facile</string>
+			<string>Supprima le chef</string>
+			<string>RENTE</string>
+			<string>ETETA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Artificieux</string>
+			<string>Après bis</string>
+			<string>RUSE</string>
+			<string>TER</string>
+		</array>
+		<array>
+			<string>Artificieux</string>
+			<string>Cité biblique</string>
+			<string>RUSE</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string>Artificieux</string>
+			<string>Sans limites ni restrictions</string>
+			<string>RUSE</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string>Artificieux</string>
+			<string>Base de poterie</string>
+			<string>RUSE</string>
+			<string>GRES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Chien philosophe</string>
+			<string>O</string>
+			<string>SNOOPY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Plante lacustre</string>
+			<string>Satirique</string>
+			<string>ISOETE</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Plante lacustre</string>
+			<string>Lopins</string>
+			<string>ISOETE</string>
+			<string>ARES</string>
+		</array>
+		<array>
+			<string>Plante lacustre</string>
+			<string>Couvrent des sols</string>
+			<string>ISOETE</string>
+			<string>LINOS</string>
+		</array>
+		<array>
+			<string>Plante lacustre</string>
+			<string>Font la noce</string>
+			<string>ISOETE</string>
+			<string>FETENT</string>
+		</array>
+		<array>
+			<string>Plante lacustre</string>
+			<string>Supprima le chef</string>
+			<string>ISOETE</string>
+			<string>ETETA</string>
+		</array>
+		<array>
+			<string>Plante lacustre</string>
+			<string>Verts</string>
+			<string>ISOETE</string>
+			<string>ECOLOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rouge chez Ferrari</string>
+			<string>Cité biblique</string>
+			<string>ROSSO</string>
+			<string>UR</string>
+		</array>
+		<array>
+			<string>Rouge chez Ferrari</string>
+			<string>Sans limites ni restrictions</string>
+			<string>ROSSO</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string>Rouge chez Ferrari</string>
+			<string>Base de poterie</string>
+			<string>ROSSO</string>
+			<string>GRES</string>
+		</array>
+		<array>
+			<string>Rouge chez Ferrari</string>
+			<string>En bas à droite de la carte</string>
+			<string>ROSSO</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>Rouge chez Ferrari</string>
+			<string>Chien philosophe</string>
+			<string>ROSSO</string>
+			<string>SNOOPY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Satirique</string>
+			<string>C</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Collation rapide</string>
+			<string>Couvrent des sols</string>
+			<string>SNACK</string>
+			<string>LINOS</string>
+		</array>
+		<array>
+			<string>Collation rapide</string>
+			<string>Font la noce</string>
+			<string>SNACK</string>
+			<string>FETENT</string>
+		</array>
+		<array>
+			<string>Collation rapide</string>
+			<string>Supprima le chef</string>
+			<string>SNACK</string>
+			<string>ETETA</string>
+		</array>
+		<array>
+			<string>Collation rapide</string>
+			<string>Verts</string>
+			<string>SNACK</string>
+			<string>ECOLOS</string>
+		</array>
+		<array>
+			<string>Collation rapide</string>
+			<string>Krypton</string>
+			<string>SNACK</string>
+			<string>KR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Sans limites ni restrictions</string>
+			<string>L</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>En plein repas</string>
+			<string>En bas à droite de la carte</string>
+			<string>EP</string>
+			<string>SE</string>
+		</array>
+		<array>
+			<string>En plein repas</string>
+			<string>Chien philosophe</string>
+			<string>EP</string>
+			<string>SNOOPY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Artère</string>
+			<string>Satirique</string>
+			<string>AV</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Artère</string>
+			<string>Compris</string>
+			<string>AV</string>
+			<string>VU</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Font la noce</string>
+			<string>T</string>
+			<string>FETENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Cétacé</string>
+			<string>Verts</string>
+			<string>ORQUE</string>
+			<string>ECOLOS</string>
+		</array>
+		<array>
+			<string>Cétacé</string>
+			<string>Krypton</string>
+			<string>ORQUE</string>
+			<string>KR</string>
+		</array>
+		<array>
+			<string>Cétacé</string>
+			<string>Lieu où le fleuve rétrécit</string>
+			<string>ORQUE</string>
+			<string>QUEBEC</string>
+		</array>
+		<array>
+			<string>Cétacé</string>
+			<string>Sans limites ni restrictions</string>
+			<string>ORQUE</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string>Cétacé</string>
+			<string>Muse des musiciens</string>
+			<string>ORQUE</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Chien philosophe</string>
+			<string>Y</string>
+			<string>SNOOPY</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Cuvette</string>
+			<string>Satirique</string>
+			<string>TUB</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Cuvette</string>
+			<string>Compris</string>
+			<string>TUB</string>
+			<string>VU</string>
+		</array>
+		<array>
+			<string>Cuvette</string>
+			<string>Rester muet de surprise</string>
+			<string>TUB</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Les bouts du tunnel</string>
+			<string>Technétium</string>
+			<string>TL</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Les bouts du tunnel</string>
+			<string>Verts</string>
+			<string>TL</string>
+			<string>ECOLOS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Droit du proprio</string>
+			<string>Lieu où le fleuve rétrécit</string>
+			<string>USUS</string>
+			<string>QUEBEC</string>
+		</array>
+		<array>
+			<string>Droit du proprio</string>
+			<string>Sans limites ni restrictions</string>
+			<string>USUS</string>
+			<string>ABSOLUS</string>
+		</array>
+		<array>
+			<string>Droit du proprio</string>
+			<string>Muse des musiciens</string>
+			<string>USUS</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string>Droit du proprio</string>
+			<string>Aigrelets</string>
+			<string>USUS</string>
+			<string>SURETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Satirique</string>
+			<string>U</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Rester muet de surprise</string>
+			<string>ENCORE</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Arrivées en famille</string>
+			<string>ENCORE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Technétium</string>
+			<string>ENCORE</string>
+			<string>TC</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Verts</string>
+			<string>ENCORE</string>
+			<string>ECOLOS</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Il quitte le navire en premier</string>
+			<string>ENCORE</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Adverbe</string>
+			<string>Lieu où le fleuve rétrécit</string>
+			<string>ENCORE</string>
+			<string>QUEBEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Roche calcaire</string>
+			<string>Muse des musiciens</string>
+			<string>TUF</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string>Roche calcaire</string>
+			<string>Aigrelets</string>
+			<string>TUF</string>
+			<string>SURETS</string>
+		</array>
+		<array>
+			<string>Roche calcaire</string>
+			<string></string>
+			<string>TUF</string>
+			<string>F</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Provoquée par l&apos;or</string>
+			<string>Satirique</string>
+			<string>RUEE</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Provoquée par l&apos;or</string>
+			<string>Avaient le regard bovin</string>
+			<string>RUEE</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>Provoquée par l&apos;or</string>
+			<string>Rester muet de surprise</string>
+			<string>RUEE</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string>Provoquée par l&apos;or</string>
+			<string>Arrivées en famille</string>
+			<string>RUEE</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Poncer</string>
+			<string>Verts</string>
+			<string>SABLER</string>
+			<string>ECOLOS</string>
+		</array>
+		<array>
+			<string>Poncer</string>
+			<string>Il quitte le navire en premier</string>
+			<string>SABLER</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Poncer</string>
+			<string>Lieu où le fleuve rétrécit</string>
+			<string>SABLER</string>
+			<string>QUEBEC</string>
+		</array>
+		<array>
+			<string>Poncer</string>
+			<string></string>
+			<string>SABLER</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Poncer</string>
+			<string>Muse des musiciens</string>
+			<string>SABLER</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string>Poncer</string>
+			<string>Aigrelets</string>
+			<string>SABLER</string>
+			<string>SURETS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il conduit sous les verrous</string>
+			<string>Satirique</string>
+			<string>ARRET</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Il conduit sous les verrous</string>
+			<string>Avaient le regard bovin</string>
+			<string>ARRET</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>Il conduit sous les verrous</string>
+			<string>Rester muet de surprise</string>
+			<string>ARRET</string>
+			<string>BEER</string>
+		</array>
+		<array>
+			<string>Il conduit sous les verrous</string>
+			<string>Arrivées en famille</string>
+			<string>ARRET</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Il conduit sous les verrous</string>
+			<string>C&apos;est du chinois</string>
+			<string>ARRET</string>
+			<string>TAO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Pronom</string>
+			<string>Il quitte le navire en premier</string>
+			<string>TE</string>
+			<string>RAT</string>
+		</array>
+		<array>
+			<string>Pronom</string>
+			<string>Lieu où le fleuve rétrécit</string>
+			<string>TE</string>
+			<string>QUEBEC</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Beaucoup de cailloux</string>
+			<string>Muse des musiciens</string>
+			<string>REG</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string>Beaucoup de cailloux</string>
+			<string>Aigrelets</string>
+			<string>REG</string>
+			<string>SURETS</string>
+		</array>
+		<array>
+			<string>Beaucoup de cailloux</string>
+			<string>Préfixe signifiant terre</string>
+			<string>REG</string>
+			<string>GEO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Unité pour le tapissier</string>
+			<string>Satirique</string>
+			<string>LE</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>Unité pour le tapissier</string>
+			<string>Avaient le regard bovin</string>
+			<string>LE</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Capucin</string>
+			<string>Arrivées en famille</string>
+			<string>SAI</string>
+			<string>NEES</string>
+		</array>
+		<array>
+			<string>Capucin</string>
+			<string>C&apos;est du chinois</string>
+			<string>SAI</string>
+			<string>TAO</string>
+		</array>
+		<array>
+			<string>Capucin</string>
+			<string>Branché</string>
+			<string>SAI</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Un chrétien</string>
+			<string>Lieu où le fleuve rétrécit</string>
+			<string>COPTE</string>
+			<string>QUEBEC</string>
+		</array>
+		<array>
+			<string>Un chrétien</string>
+			<string>Mantra</string>
+			<string>COPTE</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string>Un chrétien</string>
+			<string>Muse des musiciens</string>
+			<string>COPTE</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string>Un chrétien</string>
+			<string>Aigrelets</string>
+			<string>COPTE</string>
+			<string>SURETS</string>
+		</array>
+		<array>
+			<string>Un chrétien</string>
+			<string>Préfixe signifiant terre</string>
+			<string>COPTE</string>
+			<string>GEO</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>S&apos;éclaire en premier le matin</string>
+			<string>Satirique</string>
+			<string>EST</string>
+			<string>CARICATURALE</string>
+		</array>
+		<array>
+			<string>S&apos;éclaire en premier le matin</string>
+			<string>Avaient le regard bovin</string>
+			<string>EST</string>
+			<string>URES</string>
+		</array>
+		<array>
+			<string>S&apos;éclaire en premier le matin</string>
+			<string></string>
+			<string>EST</string>
+			<string>T</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Elle est pour la paix</string>
+			<string>C&apos;est du chinois</string>
+			<string>ONU</string>
+			<string>TAO</string>
+		</array>
+		<array>
+			<string>Elle est pour la paix</string>
+			<string>Branché</string>
+			<string>ONU</string>
+			<string>IN</string>
+		</array>
+		<array>
+			<string>Elle est pour la paix</string>
+			<string></string>
+			<string>ONU</string>
+			<string>U</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>C&apos;est moyen</string>
+			<string>Mantra</string>
+			<string>MESO</string>
+			<string>OM</string>
+		</array>
+		<array>
+			<string>C&apos;est moyen</string>
+			<string>Muse des musiciens</string>
+			<string>MESO</string>
+			<string>EUTERPE</string>
+		</array>
+		<array>
+			<string>C&apos;est moyen</string>
+			<string>Aigrelets</string>
+			<string>MESO</string>
+			<string>SURETS</string>
+		</array>
+		<array>
+			<string>C&apos;est moyen</string>
+			<string>Préfixe signifiant terre</string>
+			<string>MESO</string>
+			<string>GEO</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Souffler</string>
+			<string>DEMORALISANT</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Hâve</string>
+			<string>DEMORALISANT</string>
+			<string>EMACIE</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Céréale</string>
+			<string>DEMORALISANT</string>
+			<string>MIL</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Drame lyrique</string>
+			<string>DEMORALISANT</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string></string>
+			<string>DEMORALISANT</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Stimula</string>
+			<string>DEMORALISANT</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Terrains habités</string>
+			<string>DEMORALISANT</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Terres en mer</string>
+			<string>DEMORALISANT</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Base de rêve</string>
+			<string>DEMORALISANT</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Domaine des étoiles</string>
+			<string>DEMORALISANT</string>
+			<string>ASTRAL</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Sortie d’un col</string>
+			<string>DEMORALISANT</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Qui sape le courage</string>
+			<string>Tramée</string>
+			<string>DEMORALISANT</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Huile d’Arabie</string>
+			<string>Souffler</string>
+			<string>EMIR</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Huile d’Arabie</string>
+			<string>Hâve</string>
+			<string>EMIR</string>
+			<string>EMACIE</string>
+		</array>
+		<array>
+			<string>Huile d’Arabie</string>
+			<string>Céréale</string>
+			<string>EMIR</string>
+			<string>MIL</string>
+		</array>
+		<array>
+			<string>Huile d’Arabie</string>
+			<string>Drame lyrique</string>
+			<string>EMIR</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Stimula</string>
+			<string>NOLISER</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Terrains habités</string>
+			<string>NOLISER</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Terres en mer</string>
+			<string>NOLISER</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Base de rêve</string>
+			<string>NOLISER</string>
+			<string>SI</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Domaine des étoiles</string>
+			<string>NOLISER</string>
+			<string>ASTRAL</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Sortie d’un col</string>
+			<string>NOLISER</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Louer</string>
+			<string>Tramée</string>
+			<string>NOLISER</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Fléau</string>
+			<string>Souffler</string>
+			<string>CALAMITE</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Hâve</string>
+			<string>CALAMITE</string>
+			<string>EMACIE</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Céréale</string>
+			<string>CALAMITE</string>
+			<string>MIL</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Drame lyrique</string>
+			<string>CALAMITE</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Populace</string>
+			<string>CALAMITE</string>
+			<string>MASSE</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Stimula</string>
+			<string>CALAMITE</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Terrains habités</string>
+			<string>CALAMITE</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Fléau</string>
+			<string>Terres en mer</string>
+			<string>CALAMITE</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sous la balle</string>
+			<string>Domaine des étoiles</string>
+			<string>TEE</string>
+			<string>ASTRAL</string>
+		</array>
+		<array>
+			<string>Sous la balle</string>
+			<string>Sortie d’un col</string>
+			<string>TEE</string>
+			<string>NEE</string>
+		</array>
+		<array>
+			<string>Sous la balle</string>
+			<string>Tramée</string>
+			<string>TEE</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Oui du Sud</string>
+			<string>Souffler</string>
+			<string>OC</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Oui du Sud</string>
+			<string>Hâve</string>
+			<string>OC</string>
+			<string>EMACIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Drame lyrique</string>
+			<string>TAMISER</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Populace</string>
+			<string>TAMISER</string>
+			<string>MASSE</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Stimula</string>
+			<string>TAMISER</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Terrains habités</string>
+			<string>TAMISER</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Terres en mer</string>
+			<string>TAMISER</string>
+			<string>ILES</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Fière au nord des Anglais</string>
+			<string>TAMISER</string>
+			<string>ECOSSE</string>
+		</array>
+		<array>
+			<string>Voiler</string>
+			<string>Domaine des étoiles</string>
+			<string>TAMISER</string>
+			<string>ASTRAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Tramée</string>
+			<string>S</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Souffler</string>
+			<string>MIMOSAS</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Hâve</string>
+			<string>MIMOSAS</string>
+			<string>EMACIE</string>
+		</array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Dignitaire musulman</string>
+			<string>MIMOSAS</string>
+			<string>MUPHTI</string>
+		</array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Drame lyrique</string>
+			<string>MIMOSAS</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Populace</string>
+			<string>MIMOSAS</string>
+			<string>MASSE</string>
+		</array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Stimula</string>
+			<string>MIMOSAS</string>
+			<string>ANIMA</string>
+		</array>
+		<array>
+			<string>Jaunes et parfumées</string>
+			<string>Terrains habités</string>
+			<string>MIMOSAS</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Traces de travail manuel</string>
+			<string>Fière au nord des Anglais</string>
+			<string>CALS</string>
+			<string>ECOSSE</string>
+		</array>
+		<array>
+			<string>Traces de travail manuel</string>
+			<string>Domaine des étoiles</string>
+			<string>CALS</string>
+			<string>ASTRAL</string>
+		</array>
+		<array>
+			<string>Traces de travail manuel</string>
+			<string>Polirai</string>
+			<string>CALS</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Traces de travail manuel</string>
+			<string>Tramée</string>
+			<string>CALS</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Bleues, elles sont grandes</string>
+			<string>Souffler</string>
+			<string>PEURS</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Bleues, elles sont grandes</string>
+			<string>Hâve</string>
+			<string>PEURS</string>
+			<string>EMACIE</string>
+		</array>
+		<array>
+			<string>Bleues, elles sont grandes</string>
+			<string>Dignitaire musulman</string>
+			<string>PEURS</string>
+			<string>MUPHTI</string>
+		</array>
+		<array>
+			<string>Bleues, elles sont grandes</string>
+			<string>Drame lyrique</string>
+			<string>PEURS</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string>Bleues, elles sont grandes</string>
+			<string>Populace</string>
+			<string>PEURS</string>
+			<string>MASSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Dépouillé</string>
+			<string>Terrains habités</string>
+			<string>SPOLIE</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Dépouillé</string>
+			<string>Colore les surfaces</string>
+			<string>SPOLIE</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string>Dépouillé</string>
+			<string>Fière au nord des Anglais</string>
+			<string>SPOLIE</string>
+			<string>ECOSSE</string>
+		</array>
+		<array>
+			<string>Dépouillé</string>
+			<string>Domaine des étoiles</string>
+			<string>SPOLIE</string>
+			<string>ASTRAL</string>
+		</array>
+		<array>
+			<string>Dépouillé</string>
+			<string>Polirai</string>
+			<string>SPOLIE</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Dépouillé</string>
+			<string>Tramée</string>
+			<string>SPOLIE</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Souffler</string>
+			<string>R</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Dignitaire musulman</string>
+			<string>PIEGEES</string>
+			<string>MUPHTI</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Drame lyrique</string>
+			<string>PIEGEES</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Populace</string>
+			<string>PIEGEES</string>
+			<string>MASSE</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Prenons en charge</string>
+			<string>PIEGEES</string>
+			<string>GERONS</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Terrains habités</string>
+			<string>PIEGEES</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Colore les surfaces</string>
+			<string>PIEGEES</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string>Bien prises</string>
+			<string>Fière au nord des Anglais</string>
+			<string>PIEGEES</string>
+			<string>ECOSSE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Troisième personne</string>
+			<string>Polirai</string>
+			<string>SE</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Troisième personne</string>
+			<string>Tramée</string>
+			<string>SE</string>
+			<string>TRESSEE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Reflet</string>
+			<string>Souffler</string>
+			<string>ECHO</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Reflet</string>
+			<string>Ancienne diligence</string>
+			<string>ECHO</string>
+			<string>COCHE</string>
+		</array>
+		<array>
+			<string>Reflet</string>
+			<string>Dignitaire musulman</string>
+			<string>ECHO</string>
+			<string>MUPHTI</string>
+		</array>
+		<array>
+			<string>Reflet</string>
+			<string>Drame lyrique</string>
+			<string>ECHO</string>
+			<string>ORATORIO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Publiées</string>
+			<string>Prenons en charge</string>
+			<string>EMISES</string>
+			<string>GERONS</string>
+		</array>
+		<array>
+			<string>Publiées</string>
+			<string>Terrains habités</string>
+			<string>EMISES</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Publiées</string>
+			<string>Colore les surfaces</string>
+			<string>EMISES</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string>Publiées</string>
+			<string>Fière au nord des Anglais</string>
+			<string>EMISES</string>
+			<string>ECOSSE</string>
+		</array>
+		<array>
+			<string>Publiées</string>
+			<string>Choisira</string>
+			<string>EMISES</string>
+			<string>ELIRA</string>
+		</array>
+		<array>
+			<string>Publiées</string>
+			<string>Polirai</string>
+			<string>EMISES</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pas très futé</string>
+			<string>Souffler</string>
+			<string>SOT</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Pas très futé</string>
+			<string>Ancienne diligence</string>
+			<string>SOT</string>
+			<string>COCHE</string>
+		</array>
+		<array>
+			<string>Pas très futé</string>
+			<string>Dignitaire musulman</string>
+			<string>SOT</string>
+			<string>MUPHTI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Donna naissance</string>
+			<string>CRENELER</string>
+			<string>CREA</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Prenons en charge</string>
+			<string>CRENELER</string>
+			<string>GERONS</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Terrains habités</string>
+			<string>CRENELER</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Colore les surfaces</string>
+			<string>CRENELER</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Fière au nord des Anglais</string>
+			<string>CRENELER</string>
+			<string>ECOSSE</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Choisira</string>
+			<string>CRENELER</string>
+			<string>ELIRA</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Polirai</string>
+			<string>CRENELER</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Denteler</string>
+			<string>Dignitaire ottoman</string>
+			<string>CRENELER</string>
+			<string>REIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Trancheront</string>
+			<string>Souffler</string>
+			<string>SCIERONT</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Ancienne diligence</string>
+			<string>SCIERONT</string>
+			<string>COCHE</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Dignitaire musulman</string>
+			<string>SCIERONT</string>
+			<string>MUPHTI</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Lentille</string>
+			<string>SCIERONT</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Donna naissance</string>
+			<string>SCIERONT</string>
+			<string>CREA</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Prenons en charge</string>
+			<string>SCIERONT</string>
+			<string>GERONS</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Terrains habités</string>
+			<string>SCIERONT</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Trancheront</string>
+			<string>Colore les surfaces</string>
+			<string>SCIERONT</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Courroux</string>
+			<string>Choisira</string>
+			<string>IRE</string>
+			<string>ELIRA</string>
+		</array>
+		<array>
+			<string>Courroux</string>
+			<string>Polirai</string>
+			<string>IRE</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Courroux</string>
+			<string>Dignitaire ottoman</string>
+			<string>IRE</string>
+			<string>REIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Appel</string>
+			<string>Souffler</string>
+			<string>EH</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Appel</string>
+			<string>Ancienne diligence</string>
+			<string>EH</string>
+			<string>COCHE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Lentille</string>
+			<string>RENTRERAI</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Donna naissance</string>
+			<string>RENTRERAI</string>
+			<string>CREA</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Prenons en charge</string>
+			<string>RENTRERAI</string>
+			<string>GERONS</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Terrains habités</string>
+			<string>RENTRERAI</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Colore les surfaces</string>
+			<string>RENTRERAI</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Erbium</string>
+			<string>RENTRERAI</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Choisira</string>
+			<string>RENTRERAI</string>
+			<string>ELIRA</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Polirai</string>
+			<string>RENTRERAI</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Serai de retour</string>
+			<string>Dignitaire ottoman</string>
+			<string>RENTRERAI</string>
+			<string>REIS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Souffler</string>
+			<string>RESSASSERAIS</string>
+			<string>DECOMPRESSER</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Ancienne diligence</string>
+			<string>RESSASSERAIS</string>
+			<string>COCHE</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string></string>
+			<string>RESSASSERAIS</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Lentille</string>
+			<string>RESSASSERAIS</string>
+			<string>ERS</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Donna naissance</string>
+			<string>RESSASSERAIS</string>
+			<string>CREA</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Prenons en charge</string>
+			<string>RESSASSERAIS</string>
+			<string>GERONS</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Terrains habités</string>
+			<string>RESSASSERAIS</string>
+			<string>LOTISSEMENTS</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Colore les surfaces</string>
+			<string>RESSASSERAIS</string>
+			<string>PEINTRE</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Erbium</string>
+			<string>RESSASSERAIS</string>
+			<string>ER</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Choisira</string>
+			<string>RESSASSERAIS</string>
+			<string>ELIRA</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Polirai</string>
+			<string>RESSASSERAIS</string>
+			<string>LISSERAI</string>
+		</array>
+		<array>
+			<string>Rabâcherais</string>
+			<string>Dignitaire ottoman</string>
+			<string>RESSASSERAIS</string>
+			<string>REIS</string>
+		</array>
+	</array>
+</array>
+</plist>

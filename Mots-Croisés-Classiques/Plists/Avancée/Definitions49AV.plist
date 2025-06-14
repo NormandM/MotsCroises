@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Mouvement d’Elvis</string>
+			<string>DISCOGRAPHIE</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string></string>
+			<string>DISCOGRAPHIE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Manœuvre réfléchie</string>
+			<string>DISCOGRAPHIE</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Victoria était plus belle</string>
+			<string>DISCOGRAPHIE</string>
+			<string>CAB</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Ajouter de l’opium</string>
+			<string>DISCOGRAPHIE</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Coup de froid</string>
+			<string>DISCOGRAPHIE</string>
+			<string>GIVRE</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string></string>
+			<string>DISCOGRAPHIE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Ouvrit</string>
+			<string>DISCOGRAPHIE</string>
+			<string>AERA</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Vachement apprécié</string>
+			<string>DISCOGRAPHIE</string>
+			<string>PRE</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Gaz léger</string>
+			<string>DISCOGRAPHIE</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string></string>
+			<string>DISCOGRAPHIE</string>
+			<string>I</string>
+		</array>
+		<array>
+			<string>Répertoire musical</string>
+			<string>Désordre</string>
+			<string>DISCOGRAPHIE</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Mouvement d’Elvis</string>
+			<string>E</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Blotti</string>
+			<string>Manœuvre réfléchie</string>
+			<string>TAPI</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Blotti</string>
+			<string>Victoria était plus belle</string>
+			<string>TAPI</string>
+			<string>CAB</string>
+		</array>
+		<array>
+			<string>Blotti</string>
+			<string>Ajouter de l’opium</string>
+			<string>TAPI</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string>Blotti</string>
+			<string>Coup de froid</string>
+			<string>TAPI</string>
+			<string>GIVRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tas de lustres</string>
+			<string>Ouvrit</string>
+			<string>ERE</string>
+			<string>AERA</string>
+		</array>
+		<array>
+			<string>Tas de lustres</string>
+			<string>Vachement apprécié</string>
+			<string>ERE</string>
+			<string>PRE</string>
+		</array>
+		<array>
+			<string>Tas de lustres</string>
+			<string>Gaz léger</string>
+			<string>ERE</string>
+			<string>HE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Désordre</string>
+			<string>M</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Mouvement d’Elvis</string>
+			<string>HERBIVORE</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Orgueil</string>
+			<string>HERBIVORE</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Manœuvre réfléchie</string>
+			<string>HERBIVORE</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Victoria était plus belle</string>
+			<string>HERBIVORE</string>
+			<string>CAB</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Ajouter de l’opium</string>
+			<string>HERBIVORE</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Coup de froid</string>
+			<string>HERBIVORE</string>
+			<string>GIVRE</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Affluent de la Seine</string>
+			<string>HERBIVORE</string>
+			<string>OISE</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Ouvrit</string>
+			<string>HERBIVORE</string>
+			<string>AERA</string>
+		</array>
+		<array>
+			<string>Rase les prés</string>
+			<string>Vachement apprécié</string>
+			<string>HERBIVORE</string>
+			<string>PRE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Une mesure</string>
+			<string>Titre anglais</string>
+			<string>LB</string>
+			<string>LORD</string>
+		</array>
+		<array>
+			<string>Une mesure</string>
+			<string>Désordre</string>
+			<string>LB</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Chef de chef</string>
+			<string>Mouvement d’Elvis</string>
+			<string>AGA</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Chef de chef</string>
+			<string>Orgueil</string>
+			<string>AGA</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string>Chef de chef</string>
+			<string>Manœuvre réfléchie</string>
+			<string>AGA</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Petit tracas</string>
+			<string>Ajouter de l’opium</string>
+			<string>ARIA</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string>Petit tracas</string>
+			<string>Coup de froid</string>
+			<string>ARIA</string>
+			<string>GIVRE</string>
+		</array>
+		<array>
+			<string>Petit tracas</string>
+			<string>Affluent de la Seine</string>
+			<string>ARIA</string>
+			<string>OISE</string>
+		</array>
+		<array>
+			<string>Petit tracas</string>
+			<string>Ouvrit</string>
+			<string>ARIA</string>
+			<string>AERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>En soi</string>
+			<string>Mettra l’argent</string>
+			<string>FOR</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>En soi</string>
+			<string>Titre anglais</string>
+			<string>FOR</string>
+			<string>LORD</string>
+		</array>
+		<array>
+			<string>En soi</string>
+			<string>Désordre</string>
+			<string>FOR</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Mouvement d’Elvis</string>
+			<string>NOTICES</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Orgueil</string>
+			<string>NOTICES</string>
+			<string>EGO</string>
+		</array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Manœuvre réfléchie</string>
+			<string>NOTICES</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Cuisine rasta</string>
+			<string>NOTICES</string>
+			<string>ITAL</string>
+		</array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Ajouter de l’opium</string>
+			<string>NOTICES</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Coup de froid</string>
+			<string>NOTICES</string>
+			<string>GIVRE</string>
+		</array>
+		<array>
+			<string>Guides en bref</string>
+			<string>Affluent de la Seine</string>
+			<string>NOTICES</string>
+			<string>OISE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Peintre</string>
+			<string>Perse</string>
+			<string>MIRO</string>
+			<string>MEDE</string>
+		</array>
+		<array>
+			<string>Peintre</string>
+			<string>Mettra l’argent</string>
+			<string>MIRO</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>Peintre</string>
+			<string>Titre anglais</string>
+			<string>MIRO</string>
+			<string>LORD</string>
+		</array>
+		<array>
+			<string>Peintre</string>
+			<string>Désordre</string>
+			<string>MIRO</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Mouvement d’Elvis</string>
+			<string>C</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Participe</string>
+			<string>Manœuvre réfléchie</string>
+			<string>ETE</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Participe</string>
+			<string>Cuisine rasta</string>
+			<string>ETE</string>
+			<string>ITAL</string>
+		</array>
+		<array>
+			<string>Participe</string>
+			<string>Ajouter de l’opium</string>
+			<string>ETE</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ample</string>
+			<string>Affluent de la Seine</string>
+			<string>ETENDU</string>
+			<string>OISE</string>
+		</array>
+		<array>
+			<string>Ample</string>
+			<string>Artisan</string>
+			<string>ETENDU</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string>Ample</string>
+			<string>Perse</string>
+			<string>ETENDU</string>
+			<string>MEDE</string>
+		</array>
+		<array>
+			<string>Ample</string>
+			<string>Mettra l’argent</string>
+			<string>ETENDU</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>Ample</string>
+			<string>Titre anglais</string>
+			<string>ETENDU</string>
+			<string>LORD</string>
+		</array>
+		<array>
+			<string>Ample</string>
+			<string>Désordre</string>
+			<string>ETENDU</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Ahuri</string>
+			<string>Mouvement d’Elvis</string>
+			<string>HAGARD</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Ahuri</string>
+			<string>Vertèbre</string>
+			<string>HAGARD</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string>Ahuri</string>
+			<string>Manœuvre réfléchie</string>
+			<string>HAGARD</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Ahuri</string>
+			<string>Cuisine rasta</string>
+			<string>HAGARD</string>
+			<string>ITAL</string>
+		</array>
+		<array>
+			<string>Ahuri</string>
+			<string>Ajouter de l’opium</string>
+			<string>HAGARD</string>
+			<string>OPIACER</string>
+		</array>
+		<array>
+			<string>Ahuri</string>
+			<string>Toit</string>
+			<string>HAGARD</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Refuge de Zeus</string>
+			<string>Artisan</string>
+			<string>IDA</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string>Refuge de Zeus</string>
+			<string>Perse</string>
+			<string>IDA</string>
+			<string>MEDE</string>
+		</array>
+		<array>
+			<string>Refuge de Zeus</string>
+			<string>Mettra l’argent</string>
+			<string>IDA</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Désordre</string>
+			<string>I</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Voyage sans retour</string>
+			<string>Mouvement d’Elvis</string>
+			<string>EXIL</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Voyage sans retour</string>
+			<string>Vertèbre</string>
+			<string>EXIL</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string>Voyage sans retour</string>
+			<string>Manœuvre réfléchie</string>
+			<string>EXIL</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string>Voyage sans retour</string>
+			<string>Cuisine rasta</string>
+			<string>EXIL</string>
+			<string>ITAL</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>Toit</string>
+			<string>ARSENAL</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>Fond de plat</string>
+			<string>ARSENAL</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>Artisan</string>
+			<string>ARSENAL</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>Perse</string>
+			<string>ARSENAL</string>
+			<string>MEDE</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>Mettra l’argent</string>
+			<string>ARSENAL</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>On peut le prendre au bol</string>
+			<string>ARSENAL</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string>Réserve stratégique</string>
+			<string>Désordre</string>
+			<string>ARSENAL</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Partie tendre</string>
+			<string>Mouvement d’Elvis</string>
+			<string>MIE</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Partie tendre</string>
+			<string>Vertèbre</string>
+			<string>MIE</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string>Partie tendre</string>
+			<string>Manœuvre réfléchie</string>
+			<string>MIE</string>
+			<string>STRATEGIE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Chemins vécus</string>
+			<string>Trajectoires ailées</string>
+			<string>VIES</string>
+			<string>VOLS</string>
+		</array>
+		<array>
+			<string>Chemins vécus</string>
+			<string>Toit</string>
+			<string>VIES</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string>Chemins vécus</string>
+			<string>Fond de plat</string>
+			<string>VIES</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string>Chemins vécus</string>
+			<string>Artisan</string>
+			<string>VIES</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Long quand il est faux</string>
+			<string>Mettra l’argent</string>
+			<string>CIL</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>Long quand il est faux</string>
+			<string>On peut le prendre au bol</string>
+			<string>CIL</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string>Long quand il est faux</string>
+			<string>Désordre</string>
+			<string>CIL</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Existes</string>
+			<string>Mouvement d’Elvis</string>
+			<string>ES</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Existes</string>
+			<string>Vertèbre</string>
+			<string>ES</string>
+			<string>AXIS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Code secret</string>
+			<string>POSSEDERA</string>
+			<string>PIN</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Trajectoires ailées</string>
+			<string>POSSEDERA</string>
+			<string>VOLS</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Toit</string>
+			<string>POSSEDERA</string>
+			<string>DAIS</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Fond de plat</string>
+			<string>POSSEDERA</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Artisan</string>
+			<string>POSSEDERA</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Sitôt que</string>
+			<string>POSSEDERA</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Mettra l’argent</string>
+			<string>POSSEDERA</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>On peut le prendre au bol</string>
+			<string>POSSEDERA</string>
+			<string>AIR</string>
+		</array>
+		<array>
+			<string>Sera maître de</string>
+			<string>Désordre</string>
+			<string>POSSEDERA</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Mouvement d’Elvis</string>
+			<string>N</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Tient à un rien</string>
+			<string>Presque au niveau du sol</string>
+			<string>FIL</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Tient à un rien</string>
+			<string>Code secret</string>
+			<string>FIL</string>
+			<string>PIN</string>
+		</array>
+		<array>
+			<string>Tient à un rien</string>
+			<string>Trajectoires ailées</string>
+			<string>FIL</string>
+			<string>VOLS</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Faire taire pour toujours</string>
+			<string>Fond de plat</string>
+			<string>TUER</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string>Faire taire pour toujours</string>
+			<string>Artisan</string>
+			<string>TUER</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string>Faire taire pour toujours</string>
+			<string>Sitôt que</string>
+			<string>TUER</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string>Faire taire pour toujours</string>
+			<string>Mettra l’argent</string>
+			<string>TUER</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Désordre</string>
+			<string>G</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Mouvement d’Elvis</string>
+			<string>TRANSVERSALE</string>
+			<string>DEHANCHEMENT</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string></string>
+			<string>TRANSVERSALE</string>
+			<string>R</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Presque au niveau du sol</string>
+			<string>TRANSVERSALE</string>
+			<string>FA</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Code secret</string>
+			<string>TRANSVERSALE</string>
+			<string>PIN</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Trajectoires ailées</string>
+			<string>TRANSVERSALE</string>
+			<string>VOLS</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string></string>
+			<string>TRANSVERSALE</string>
+			<string>V</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Fond de plat</string>
+			<string>TRANSVERSALE</string>
+			<string>RESTE</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Artisan</string>
+			<string>TRANSVERSALE</string>
+			<string>TISSEUR</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Sitôt que</string>
+			<string>TRANSVERSALE</string>
+			<string>DES</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Mettra l’argent</string>
+			<string>TRANSVERSALE</string>
+			<string>FINANCERA</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string></string>
+			<string>TRANSVERSALE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Coupé en biais</string>
+			<string>Désordre</string>
+			<string>TRANSVERSALE</string>
+			<string>EMBROUILLAGE</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Sans appel</string>
+			<string>DISSEMBLABLE</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Ville d’Hector</string>
+			<string>DISSEMBLABLE</string>
+			<string>ILION</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string></string>
+			<string>DISSEMBLABLE</string>
+			<string>S</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Son en relief</string>
+			<string>DISSEMBLABLE</string>
+			<string>STEREO</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Décroché</string>
+			<string>DISSEMBLABLE</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Scène surjouée</string>
+			<string>DISSEMBLABLE</string>
+			<string>MELO</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Cuire en douce</string>
+			<string>DISSEMBLABLE</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string></string>
+			<string>DISSEMBLABLE</string>
+			<string>L</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Jamais premier de classe</string>
+			<string>DISSEMBLABLE</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Coupes de cidre</string>
+			<string>DISSEMBLABLE</string>
+			<string>BOLEES</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Début d’une longue litanie</string>
+			<string>DISSEMBLABLE</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Hétérogène</string>
+			<string>Fait amende honorable</string>
+			<string>DISSEMBLABLE</string>
+			<string>EXPIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pronom</string>
+			<string>Sans appel</string>
+			<string>IL</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Pronom</string>
+			<string>Ville d’Hector</string>
+			<string>IL</string>
+			<string>ILION</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Anéantir</string>
+			<string>Son en relief</string>
+			<string>TUER</string>
+			<string>STEREO</string>
+		</array>
+		<array>
+			<string>Anéantir</string>
+			<string>Décroché</string>
+			<string>TUER</string>
+			<string>EU</string>
+		</array>
+		<array>
+			<string>Anéantir</string>
+			<string>Scène surjouée</string>
+			<string>TUER</string>
+			<string>MELO</string>
+		</array>
+		<array>
+			<string>Anéantir</string>
+			<string>Cuire en douce</string>
+			<string>TUER</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Quantité de beurre</string>
+			<string>Jamais premier de classe</string>
+			<string>NOIX</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Quantité de beurre</string>
+			<string>Coupes de cidre</string>
+			<string>NOIX</string>
+			<string>BOLEES</string>
+		</array>
+		<array>
+			<string>Quantité de beurre</string>
+			<string>Début d’une longue litanie</string>
+			<string>NOIX</string>
+			<string>LI</string>
+		</array>
+		<array>
+			<string>Quantité de beurre</string>
+			<string>Fait amende honorable</string>
+			<string>NOIX</string>
+			<string>EXPIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Faîte</string>
+			<string>Sans appel</string>
+			<string>CIME</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Faîte</string>
+			<string>Ville d’Hector</string>
+			<string>CIME</string>
+			<string>ILION</string>
+		</array>
+		<array>
+			<string>Faîte</string>
+			<string>Vin blanc sec</string>
+			<string>CIME</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Faîte</string>
+			<string>Son en relief</string>
+			<string>CIME</string>
+			<string>STEREO</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Maison de disques</string>
+			<string>Scène surjouée</string>
+			<string>LABEL</string>
+			<string>MELO</string>
+		</array>
+		<array>
+			<string>Maison de disques</string>
+			<string>Cuire en douce</string>
+			<string>LABEL</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string>Maison de disques</string>
+			<string>Se souler</string>
+			<string>LABEL</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string>Maison de disques</string>
+			<string>Jamais premier de classe</string>
+			<string>LABEL</string>
+			<string>ANE</string>
+		</array>
+		<array>
+			<string>Maison de disques</string>
+			<string>Coupes de cidre</string>
+			<string>LABEL</string>
+			<string>BOLEES</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string></string>
+			<string>Fait amende honorable</string>
+			<string>P</string>
+			<string>EXPIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Virevolte</string>
+			<string>Sans appel</string>
+			<string>TOURNOIE</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Ville d’Hector</string>
+			<string>TOURNOIE</string>
+			<string>ILION</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Vin blanc sec</string>
+			<string>TOURNOIE</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Son en relief</string>
+			<string>TOURNOIE</string>
+			<string>STEREO</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Signe musical</string>
+			<string>TOURNOIE</string>
+			<string>NEUME</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Scène surjouée</string>
+			<string>TOURNOIE</string>
+			<string>MELO</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Cuire en douce</string>
+			<string>TOURNOIE</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string>Virevolte</string>
+			<string>Se souler</string>
+			<string>TOURNOIE</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Porté par la tige</string>
+			<string>Coupes de cidre</string>
+			<string>EPI</string>
+			<string>BOLEES</string>
+		</array>
+		<array>
+			<string>Porté par la tige</string>
+			<string>Favorisant une option</string>
+			<string>EPI</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Porté par la tige</string>
+			<string>Fait amende honorable</string>
+			<string>EPI</string>
+			<string>EXPIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Pourvue d’une oreille</string>
+			<string>Sans appel</string>
+			<string>ANSEE</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Pourvue d’une oreille</string>
+			<string>Ville d’Hector</string>
+			<string>ANSEE</string>
+			<string>ILION</string>
+		</array>
+		<array>
+			<string>Pourvue d’une oreille</string>
+			<string>Vin blanc sec</string>
+			<string>ANSEE</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Pourvue d’une oreille</string>
+			<string>Son en relief</string>
+			<string>ANSEE</string>
+			<string>STEREO</string>
+		</array>
+		<array>
+			<string>Pourvue d’une oreille</string>
+			<string>Signe musical</string>
+			<string>ANSEE</string>
+			<string>NEUME</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Domine la fleur</string>
+			<string>Cuire en douce</string>
+			<string>SUPERE</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string>Domine la fleur</string>
+			<string>Se souler</string>
+			<string>SUPERE</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string>Domine la fleur</string>
+			<string>Spécialiste reconnu</string>
+			<string>SUPERE</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Domine la fleur</string>
+			<string>Coupes de cidre</string>
+			<string>SUPERE</string>
+			<string>BOLEES</string>
+		</array>
+		<array>
+			<string>Domine la fleur</string>
+			<string>Favorisant une option</string>
+			<string>SUPERE</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Domine la fleur</string>
+			<string>Fait amende honorable</string>
+			<string>SUPERE</string>
+			<string>EXPIE</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string></string>
+			<string>Sans appel</string>
+			<string>T</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Vin blanc sec</string>
+			<string>COUPEROSE</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Son en relief</string>
+			<string>COUPEROSE</string>
+			<string>STEREO</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Signe musical</string>
+			<string>COUPEROSE</string>
+			<string>NEUME</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Circulait</string>
+			<string>COUPEROSE</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Cuire en douce</string>
+			<string>COUPEROSE</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Se souler</string>
+			<string>COUPEROSE</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Spécialiste reconnu</string>
+			<string>COUPEROSE</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Coupes de cidre</string>
+			<string>COUPEROSE</string>
+			<string>BOLEES</string>
+		</array>
+		<array>
+			<string>Rougeur persistante</string>
+			<string>Favorisant une option</string>
+			<string>COUPEROSE</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Eut la hardiesse</string>
+			<string>Sans appel</string>
+			<string>OSA</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Eut la hardiesse</string>
+			<string>Repérer</string>
+			<string>OSA</string>
+			<string>SITUER</string>
+		</array>
+		<array>
+			<string>Eut la hardiesse</string>
+			<string>Vin blanc sec</string>
+			<string>OSA</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Affligé</string>
+			<string>Signe musical</string>
+			<string>MARRI</string>
+			<string>NEUME</string>
+		</array>
+		<array>
+			<string>Affligé</string>
+			<string>Circulait</string>
+			<string>MARRI</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string>Affligé</string>
+			<string>Cuire en douce</string>
+			<string>MARRI</string>
+			<string>BRAISER</string>
+		</array>
+		<array>
+			<string>Affligé</string>
+			<string>Se souler</string>
+			<string>MARRI</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string>Affligé</string>
+			<string>Spécialiste reconnu</string>
+			<string>MARRI</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Ce qui reste après avoir vidé la forêt</string>
+			<string>Favorisant une option</string>
+			<string>FT</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Ce qui reste après avoir vidé la forêt</string>
+			<string>Particularités visibles</string>
+			<string>FT</string>
+			<string>TRAITS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Marquées par le temps</string>
+			<string>Sans appel</string>
+			<string>RIDEES</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Marquées par le temps</string>
+			<string>Repérer</string>
+			<string>RIDEES</string>
+			<string>SITUER</string>
+		</array>
+		<array>
+			<string>Marquées par le temps</string>
+			<string>Vin blanc sec</string>
+			<string>RIDEES</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Marquées par le temps</string>
+			<string>Pictogramme</string>
+			<string>RIDEES</string>
+			<string>EMOJI</string>
+		</array>
+		<array>
+			<string>Marquées par le temps</string>
+			<string>Signe musical</string>
+			<string>RIDEES</string>
+			<string>NEUME</string>
+		</array>
+		<array>
+			<string>Marquées par le temps</string>
+			<string>Circulait</string>
+			<string>RIDEES</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Marier des essences</string>
+			<string>Se souler</string>
+			<string>ENTER</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string>Marier des essences</string>
+			<string>Spécialiste reconnu</string>
+			<string>ENTER</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Marier des essences</string>
+			<string>Survivant du feu</string>
+			<string>ENTER</string>
+			<string>TISON</string>
+		</array>
+		<array>
+			<string>Marier des essences</string>
+			<string>Favorisant une option</string>
+			<string>ENTER</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Marier des essences</string>
+			<string>Particularités visibles</string>
+			<string>ENTER</string>
+			<string>TRAITS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Sorti de l’ensemble</string>
+			<string>Sans appel</string>
+			<string>ITEM</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Sorti de l’ensemble</string>
+			<string>Repérer</string>
+			<string>ITEM</string>
+			<string>SITUER</string>
+		</array>
+		<array>
+			<string>Sorti de l’ensemble</string>
+			<string>Vin blanc sec</string>
+			<string>ITEM</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Sorti de l’ensemble</string>
+			<string>Pictogramme</string>
+			<string>ITEM</string>
+			<string>EMOJI</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Circulait</string>
+			<string>SORTIRA</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Donne du style</string>
+			<string>SORTIRA</string>
+			<string>ORNE</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Se souler</string>
+			<string>SORTIRA</string>
+			<string>BEURRER</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Spécialiste reconnu</string>
+			<string>SORTIRA</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Survivant du feu</string>
+			<string>SORTIRA</string>
+			<string>TISON</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Favorisant une option</string>
+			<string>SORTIRA</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Prendra l’air</string>
+			<string>Particularités visibles</string>
+			<string>SORTIRA</string>
+			<string>TRAITS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Sans appel</string>
+			<string>AUTOCAR</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Repérer</string>
+			<string>AUTOCAR</string>
+			<string>SITUER</string>
+		</array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Vin blanc sec</string>
+			<string>AUTOCAR</string>
+			<string>MUSCADET</string>
+		</array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Pictogramme</string>
+			<string>AUTOCAR</string>
+			<string>EMOJI</string>
+		</array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Tête à claques</string>
+			<string>AUTOCAR</string>
+			<string>CON</string>
+		</array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Circulait</string>
+			<string>AUTOCAR</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string>Il fait des arrêts fréquents</string>
+			<string>Donne du style</string>
+			<string>AUTOCAR</string>
+			<string>ORNE</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Exploitai à fond</string>
+			<string>Spécialiste reconnu</string>
+			<string>USAI</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Exploitai à fond</string>
+			<string>Survivant du feu</string>
+			<string>USAI</string>
+			<string>TISON</string>
+		</array>
+		<array>
+			<string>Exploitai à fond</string>
+			<string>Favorisant une option</string>
+			<string>USAI</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Exploitai à fond</string>
+			<string>Particularités visibles</string>
+			<string>USAI</string>
+			<string>TRAITS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Terme de couturier</string>
+			<string>Sans appel</string>
+			<string>LE</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Terme de couturier</string>
+			<string>Repérer</string>
+			<string>LE</string>
+			<string>SITUER</string>
+		</array>
+		<array>
+			<string></string>
+			<string></string>
+			<string>#</string>
+			<string>#</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Pictogramme</string>
+			<string>JOINDRONT</string>
+			<string>EMOJI</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Tête à claques</string>
+			<string>JOINDRONT</string>
+			<string>CON</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Circulait</string>
+			<string>JOINDRONT</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Donne du style</string>
+			<string>JOINDRONT</string>
+			<string>ORNE</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Unité de longueur</string>
+			<string>JOINDRONT</string>
+			<string>DM</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Spécialiste reconnu</string>
+			<string>JOINDRONT</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Survivant du feu</string>
+			<string>JOINDRONT</string>
+			<string>TISON</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Favorisant une option</string>
+			<string>JOINDRONT</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Suivront le mouvement</string>
+			<string>Particularités visibles</string>
+			<string>JOINDRONT</string>
+			<string>TRAITS</string>
+		</array>
+	</array>
+	<array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Sans appel</string>
+			<string>EREINTEMENTS</string>
+			<string>DICTATORIALE</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Repérer</string>
+			<string>EREINTEMENTS</string>
+			<string>SITUER</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string></string>
+			<string>EREINTEMENTS</string>
+			<string>E</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Pictogramme</string>
+			<string>EREINTEMENTS</string>
+			<string>EMOJI</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Tête à claques</string>
+			<string>EREINTEMENTS</string>
+			<string>CON</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Circulait</string>
+			<string>EREINTEMENTS</string>
+			<string>PASSAIT</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Donne du style</string>
+			<string>EREINTEMENTS</string>
+			<string>ORNE</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Unité de longueur</string>
+			<string>EREINTEMENTS</string>
+			<string>DM</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Spécialiste reconnu</string>
+			<string>EREINTEMENTS</string>
+			<string>POINTURE</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Survivant du feu</string>
+			<string>EREINTEMENTS</string>
+			<string>TISON</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Favorisant une option</string>
+			<string>EREINTEMENTS</string>
+			<string>PREFERANT</string>
+		</array>
+		<array>
+			<string>Démolitions en règle</string>
+			<string>Particularités visibles</string>
+			<string>EREINTEMENTS</string>
+			<string>TRAITS</string>
+		</array>
+	</array>
+</array>
+</plist>
